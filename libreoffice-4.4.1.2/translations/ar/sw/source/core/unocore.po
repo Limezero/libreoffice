@@ -1,0 +1,73 @@
+#. extracted from sw/source/core/unocore
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2012-11-18 15:51+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353253867.0\n"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_CHART2_ROW_LABEL_TEXT\n"
+"string.text"
+msgid "Row %ROWNUMBER"
+msgstr "السطر %ROWNUMBER"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_CHART2_COL_LABEL_TEXT\n"
+"string.text"
+msgid "Column %COLUMNLETTER"
+msgstr "العمود %COLUMNLETTER"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_STYLE_FAMILY_CHARACTER\n"
+"string.text"
+msgid "Character"
+msgstr "الحرف"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_STYLE_FAMILY_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph"
+msgstr "فقرة"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_STYLE_FAMILY_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "الإطار"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_STYLE_FAMILY_PAGE\n"
+"string.text"
+msgid "Pages"
+msgstr "الصفحات"
+
+#: unocore.src
+msgctxt ""
+"unocore.src\n"
+"STR_STYLE_FAMILY_NUMBERING\n"
+"string.text"
+msgid "Numbering"
+msgstr "تعداد رقمي"

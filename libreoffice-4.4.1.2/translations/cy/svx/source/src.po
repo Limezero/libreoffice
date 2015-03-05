@@ -1,0 +1,1179 @@
+#. extracted from svx/source/src
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-08 11:11+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1418037075.000000\n"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "Gwall"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr "Rhybudd"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADTEMPLATE\n"
+"string.text"
+msgid "$(ERR) loading the template $(ARG1)"
+msgstr "$(ERR) llwytho templed $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ERR) cadw dogfen $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEASDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ERR) cadw dogfen $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCINFO\n"
+"string.text"
+msgid "$(ERR) displaying doc. information for document $(ARG1)"
+msgstr "$(ERR) dangos manylion y ddogfen $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCTEMPLATE\n"
+"string.text"
+msgid "$(ERR) writing document $(ARG1) as template"
+msgstr "$(ERR) ysgrifennu dogfen $(ARG1) fel templed"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_MOVEORCOPYCONTENTS\n"
+"string.text"
+msgid "$(ERR) copying or moving document contents"
+msgstr "$(ERR) copïo neu symud cynnwys dogfen"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCMANAGER\n"
+"string.text"
+msgid "$(ERR) starting the Document Manager"
+msgstr "$(ERR) cychwyn y Rheolwr Dogfennau"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_OPENDOC\n"
+"string.text"
+msgid "$(ERR) loading document $(ARG1)"
+msgstr "$(ERR) llwytho dogfen $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOCDIRECT\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "$(ERR) creu dogfen newydd"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOC\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "$(ERR) creu dogfen newydd"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_CREATEOBJSH\n"
+"string.text"
+msgid "$(ERR) expanding entry"
+msgstr "$(ERR) ehangu cofnod"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADBASIC\n"
+"string.text"
+msgid "$(ERR) loading BASIC of document $(ARG1)"
+msgstr "$(ERR) llwytho BASIC dogfen $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SEARCHADDRESS\n"
+"string.text"
+msgid "$(ERR) searching for an address"
+msgstr "$(ERR) chwilio am gyfeiriad"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ABORT\n"
+"string.text"
+msgid "Abort"
+msgstr "Atal"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent object"
+msgstr "Gwrthrych nad yw'n bod"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ALREADYEXISTS\n"
+"string.text"
+msgid "Object already exists"
+msgstr "Gwrthrych yn bodoli eisoes"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ACCESS\n"
+"string.text"
+msgid "Object not accessible"
+msgstr "Dim mynediad at y gwrthrych"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PATH\n"
+"string.text"
+msgid "Inadmissible path"
+msgstr "Llwybr annerbyniadwy"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_LOCKING\n"
+"string.text"
+msgid "Locking problem"
+msgstr "Problem cloi"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PARAMETER\n"
+"string.text"
+msgid "Wrong parameter"
+msgstr "Paramedrau anghywir"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SPACE\n"
+"string.text"
+msgid "Resource exhausted"
+msgstr "Adnoddau wedi gorffen"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTSUPPORTED\n"
+"string.text"
+msgid "Action not supported"
+msgstr "Heb gynnal y weithred"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_READ\n"
+"string.text"
+msgid "Read-Error"
+msgstr "Gwall-Darllen"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_WRITE\n"
+"string.text"
+msgid "Write Error"
+msgstr "Gwall ysgrifennu"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_UNKNOWN\n"
+"string.text"
+msgid "unknown"
+msgstr "anhysbys"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_VERSION\n"
+"string.text"
+msgid "Version Incompatibility"
+msgstr "Anghydweddiad Fersiynau"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_GENERAL\n"
+"string.text"
+msgid "General Error"
+msgstr "Gwall cyffredinol"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_FORMAT\n"
+"string.text"
+msgid "Incorrect format"
+msgstr "Fformat anghywir"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_CREATE\n"
+"string.text"
+msgid "Error creating object"
+msgstr "Gwall wrth greu gwrthrych"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SBX\n"
+"string.text"
+msgid "Inadmissible value or data type"
+msgstr "Gwerth neu fath o ddata annerbyniol"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_RUNTIME\n"
+"string.text"
+msgid "BASIC runtime error"
+msgstr "Gwall amser rhedeg BASIC"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_COMPILER\n"
+"string.text"
+msgid "BASIC syntax error"
+msgstr "Gwall cystrawen BASIC"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"1\n"
+"string.text"
+msgid "General Error"
+msgstr "Gwall cyffredinol"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_GENERAL\n"
+"string.text"
+msgid "General input/output error."
+msgstr "Gwall mewnbwn/allbwn cyffredinol."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_MISPLACEDCHAR\n"
+"string.text"
+msgid "Invalid file name."
+msgstr "Enw ffeil annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent file."
+msgstr "Ffeil nad yw'n bod."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ALREADYEXISTS\n"
+"string.text"
+msgid "File already exists."
+msgstr "Mae'r ffeil yn bodoli eisoes."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTADIRECTORY\n"
+"string.text"
+msgid "The object is not a directory."
+msgstr "Nid yw'r gwrthrych yn gyfeiriadur."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTAFILE\n"
+"string.text"
+msgid "The object is not a file."
+msgstr "Nid yw'r gwrthrych yn ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDDEVICE\n"
+"string.text"
+msgid "The specified device is invalid."
+msgstr "Mae'r ddyfais hon yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ACCESSDENIED\n"
+"string.text"
+msgid ""
+"The object cannot be accessed\n"
+"due to insufficient user rights."
+msgstr ""
+"Methu cael mynediad i'r gwrthrych\n"
+"oherwydd hawl defnyddiwr annigonol."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_LOCKVIOLATION\n"
+"string.text"
+msgid "Sharing violation while accessing the object."
+msgstr "Trosedd rhannu wrth gael mynediad i wrthrych."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFSPACE\n"
+"string.text"
+msgid "No more space on device."
+msgstr "Dim rhagor o le ar y ddyfais."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ISWILDCARD\n"
+"string.text"
+msgid ""
+"This operation cannot be run on\n"
+"files containing wildcards."
+msgstr ""
+"Methu rhedeg y weithred ar\n"
+"ffeiliau'n cynnwys wildcards."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSUPPORTED\n"
+"string.text"
+msgid "This operation is not supported on this operating system."
+msgstr "Nid yw'r weithred yn cael ei gynnal ar y system weithredu hon."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_TOOMANYOPENFILES\n"
+"string.text"
+msgid "There are too many files open."
+msgstr "Gormod o ffeiliau ar agor."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTREAD\n"
+"string.text"
+msgid "Data could not be read from the file."
+msgstr "Methu darllen data o'r ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTWRITE\n"
+"string.text"
+msgid "The file could not be written."
+msgstr "Methu ysgrifennu'r ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFMEMORY\n"
+"string.text"
+msgid "The operation could not be run due to insufficient memory."
+msgstr "Methu rhedeg y weithred oherwydd diffyg cof."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTSEEK\n"
+"string.text"
+msgid "The seek operation could not be run."
+msgstr "Methu rhedeg y weithred chwilio."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTTELL\n"
+"string.text"
+msgid "The tell operation could not be run."
+msgstr "Methu rhedeg y weithred dweud."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGVERSION\n"
+"string.text"
+msgid "Incorrect file version."
+msgstr "Fersiwn ffeil anghywir."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGFORMAT\n"
+"string.text"
+msgid "Incorrect file format."
+msgstr "Fformat ffeil anghywir."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDCHAR\n"
+"string.text"
+msgid "The file name contains invalid characters."
+msgstr "Mae'r enw ffeil yn cynnwys nodau annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_UNKNOWN\n"
+"string.text"
+msgid "An unknown I/O error has occurred."
+msgstr "Mae gwall I/O anhysbys wedi digwydd."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDACCESS\n"
+"string.text"
+msgid "An invalid attempt was made to access the file."
+msgstr "Gwnaed ymgais annilys i gael mynediad i'r ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTCREATE\n"
+"string.text"
+msgid "The file could not be created."
+msgstr "Methu creu'r ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDPARAMETER\n"
+"string.text"
+msgid "The operation was started under an invalid parameter."
+msgstr "Cychwynnwyd gweithred o fewn paramedr annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ABORT\n"
+"string.text"
+msgid "The operation on the file was aborted."
+msgstr "Ataliwyd gweithred ar y ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTSPATH\n"
+"string.text"
+msgid "Path to the file does not exist."
+msgstr "Nid yw'r llwybr i'r ffeil yn bodoli."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_RECURSIVE\n"
+"string.text"
+msgid "An object cannot be copied into itself."
+msgstr "Methu copïo'r gwrthrych iddo'i hun."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOSTDTEMPLATE\n"
+"string.text"
+msgid "The default template could not be opened."
+msgstr "Methu agor y templed rhagosodedig."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TEMPLATENOTFOUND\n"
+"string.text"
+msgid "The specified template could not be found."
+msgstr "Methu canfod y templed hwn."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTATEMPLATE\n"
+"string.text"
+msgid "The file cannot be used as template."
+msgstr "Methu defnyddio'r ffeil fel templed."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTREADDOCINFO\n"
+"string.text"
+msgid ""
+"Document information could not be read from the file because\n"
+"the document information format is unknown or because document information does not\n"
+"exist."
+msgstr ""
+"Methu darllen manylion y ddogfen o'r ffeil \n"
+"am fod fformat manylion y ddogfen yn anhysbys\n"
+"neu nid yw'n bodoli."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_ALREADYOPEN\n"
+"string.text"
+msgid "This document has already been opened for editing."
+msgstr "Mae'r ddogfen eisoes wedi ei hagor i'w golygu."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGPASSWORD\n"
+"string.text"
+msgid "The wrong password has been entered."
+msgstr "Wedi cynnig y cyfrinair anghywir."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOLOADFAILED\n"
+"string.text"
+msgid "Error reading file."
+msgstr "Gwall darllen ffeil."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENTREADONLY\n"
+"string.text"
+msgid "The document was opened as read-only."
+msgstr "Agorwyd y ddogfen fel darllen-yn-unig."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_OLEGENERAL\n"
+"string.text"
+msgid "General OLE Error."
+msgstr "Gwall Cyffredinol OLE."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_NAME_RESOLVE\n"
+"string.text"
+msgid "The host name $(ARG1) could not be resolved."
+msgstr "Methu cydgysylltu enw'r gwesteiwr $(ARG1)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_CONNECT\n"
+"string.text"
+msgid "Could not establish Internet connection to $(ARG1)."
+msgstr "Methu creu cyswllt Rhyngrwyd i $(ARG1)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_READ\n"
+"string.text"
+msgid ""
+"Error reading data from the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+"Gwall darllen data o'r Rhyngrwyd.\n"
+"Neges gwall gweinydd: $(ARG1)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_WRITE\n"
+"string.text"
+msgid ""
+"Error transferring data to the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+"Gwall trosglwyddo data i'r Rhyngrwyd.\n"
+"Neges gwall gweinydd: $(ARG1)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_GENERAL\n"
+"string.text"
+msgid "General Internet error has occurred."
+msgstr "Gwall Rhyngrwyd cyffredinol wedi digwydd."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_OFFLINE\n"
+"string.text"
+msgid "The requested Internet data is not available in the cache and cannot be transmitted as the Online mode has not be activated."
+msgstr "Nid yw'r wybodaeth o'r Rhyngrwyd ar gael yn y storfa ac nid oes modd ei drosglwyddo am nad ydych wedi mynd Ar-lein."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFXMSG_STYLEREPLACE\n"
+"string.text"
+msgid "Should the $(ARG1) Style be replaced?"
+msgstr "A ddylai Arddull $(ARG1) gael ei newid?"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOFILTER\n"
+"string.text"
+msgid "A filter has not been found."
+msgstr "Heb ganfod hidl."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTFINDORIGINAL\n"
+"string.text"
+msgid "The original could not be determined."
+msgstr "Methu adnabod y gwreiddiol."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATECONTENT\n"
+"string.text"
+msgid "The contents could not be created."
+msgstr "Methu creu'r cynnwys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATELINK\n"
+"string.text"
+msgid "The link could not be created."
+msgstr "Methu creu'r cyswllt."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGBMKFORMAT\n"
+"string.text"
+msgid "The link format is invalid."
+msgstr "Mae fformat y cyswllt yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display is invalid."
+msgstr "Mae ffurfweddiad ymddangosiad yr eicon yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display can not be saved."
+msgstr "Methu cadw ffurfweddiad ymddangosiad yr eicon."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTDELICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display could not be deleted."
+msgstr "Methu dileu ffurfweddiad ymddangosiad yr eicon."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMECONTENT\n"
+"string.text"
+msgid "Contents cannot be renamed."
+msgstr "Methu ailenwi'r cynnwys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDBMKPATH\n"
+"string.text"
+msgid "The bookmark folder is invalid."
+msgstr "Mae'r ffolder nod tudalen yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEURLCFGFILE\n"
+"string.text"
+msgid "The configuration of the URLs to be saved locally could not be saved."
+msgstr "Methu cadw ffurfweddiad yr URLau i'w cadw'n lleol."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGURLCFGFORMAT\n"
+"string.text"
+msgid "The configuration format of the URLs to be saved locally is invalid."
+msgstr "Mae fformat ffurfweddiad yr URLau i'w cadw'n lleol yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NODOCUMENT\n"
+"string.text"
+msgid "This action cannot be applied to a document that does not exist."
+msgstr "Nid oes modd gosod y weithred i ddogfen nad yw'n bodoli."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDLINK\n"
+"string.text"
+msgid "The link refers to an invalid target."
+msgstr "Mae'r cyswllt yn cyfeirio at darged annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDTRASHPATH\n"
+"string.text"
+msgid "The Recycle Bin path is invalid."
+msgstr "Mae'r llwybr i'r Recycle Bin yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTRESTORABLE\n"
+"string.text"
+msgid "The entry could not be restored."
+msgstr "Methu adfer y cofnod."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NAMETOOLONG\n"
+"string.text"
+msgid "The file name is too long for the target file system."
+msgstr "Mae'r enw ffeil yn rhy hir ar gyfer y system ffeilio targed."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CONSULTUSER\n"
+"string.text"
+msgid "The details for running the function are incomplete."
+msgstr "Mae manylion ar gyfer rhedeg y swyddogaeth yn anghyflawn."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDSYNTAX\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "Mae'r gystrawen mewnbwn yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "Mae'r gystrawen mewnbwn yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "Mae'r gystrawen mewnbwn yn annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONG_CDF_FORMAT\n"
+"string.text"
+msgid "The channel document has an invalid format."
+msgstr "Mae'r ddogfen sianel mewn fformat annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_EMPTY_SERVER\n"
+"string.text"
+msgid "The server must not be empty."
+msgstr "Rhaid i'r gweinydd beidio bod yn wag."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NO_ABOBOX\n"
+"string.text"
+msgid "A subscription folder is required to install a Channel."
+msgstr "Rhaid cael ffolder tanysgrifio i osod Sianel."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSTORABLEINBINARYFORMAT\n"
+"string.text"
+msgid ""
+"This document contains attributes that cannot be saved in the selected format.\n"
+"Please save the document in a %PRODUCTNAME %PRODUCTVERSION file format."
+msgstr ""
+"Mae'r ddogfen yn cynnwys priodoleddau nad oes modd eu cadw o fewn y fformat dewisiwyd.\n"
+"Cadwch y ddogfen yn fformat ffeil %PRODUCTNAME %PRODUCTVERSION."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TARGETFILECORRUPTED\n"
+"string.text"
+msgid "The file $(FILENAME) cannot be saved. Please check your system settings. You can find an automatically generated backup copy of this file in folder $(PATH) named $(BACKUPNAME)."
+msgstr "Nid oes modd cadw ffeil $(FILENAME). Gwiriwch osodiadau eich system. Mae ffeil wrth gefn a grëwyd yn awtomatig i'w chael yn ffolder $(PATH) o'r enw $(BACKUPNAME)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOMOREDOCUMENTSALLOWED\n"
+"string.text"
+msgid "The maximum number of documents that can be opened at the same time has been reached. You need to close one or more documents before you can open a new document."
+msgstr "Rydych wedi cyrraedd uchafswm y dogfennau mae modd eu hagor ar yr un pryd. Rhaid cau un neu fwy o ddogfennau cyn agor dogfen newydd."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEBACKUP\n"
+"string.text"
+msgid "Could not create backup copy."
+msgstr "Methu creu'r ffolder wrth gefn."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_MACROS_SUPPORT_DISABLED\n"
+"string.text"
+msgid ""
+"An attempt was made to execute a macro.\n"
+"For security reasons, macro support is disabled."
+msgstr ""
+"Gwnaed ymgais i weithredu macro.\n"
+"Am resymau diogelwch, mae cefnogaeth i facros wedi ei atal."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED_MAC\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in %PRODUCTNAME - Preferences - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+"Mae'r ddogfen hon yn cynnwys macros.\n"
+"\n"
+"Mae macros yn gallu cynnwys firysau. Mae gweithredu macros wedi ei atal oherwydd gosodiadau cyfredol macros yn %PRODUCTNAME - Dewisiadau - %PRODUCTNAME - Diogelwch.\n"
+"\n"
+"Felly, efallai nad yw'r holl swyddogaethau ar gael."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in Tools - Options - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+"Mae'r ddogfen hon yn cynnwys macros.\n"
+"\n"
+"Mae macros yn gallu cynnwys firysau. Mae gweithredu macros wedi ei atal oherwydd gosodiadau cyfredol macros yn - Offer - Dewisiadau - %PRODUCTNAME - Diogelwch.\n"
+"\n"
+"Felly, efallai nad yw'r holl swyddogaethau ar gael."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_BROKENSIGNATURE\n"
+"string.text"
+msgid ""
+"The digitally signed document content and/or macros do not match the current document signature.\n"
+"\n"
+"This could be the result of document manipulation or of structural document damage due to data transmission.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+"Nid yw'r cynnwys dogfen â llofnod digidol a neu'r macros yn cydweddu llofnod y ddogfen gyfredol.\n"
+"\n"
+"Gall hyn fod o ganlyniad i driniaeth o'r ddogfen neu ddifrod i strwythur y ddogfen drwy ei drosglwyddo.\n"
+"\n"
+"Rydym yn argymell nad ydych yn ymddiried yng nghynnwys y ddogfen hon.\n"
+"Mae gweithredu macros yn y ddogfen hon wedi ei hatal.\n"
+" "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INCOMPLETE_ENCRYPTION\n"
+"string.text"
+msgid ""
+"The encrypted document contains unexpected non-encrypted streams.\n"
+"\n"
+"This could be the result of document manipulation.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+"Mae'r ddogfen amgryptiedig hon yn cynnwys llif anamgryptiedig annisgwyl.\n"
+"\n"
+"Gall hyn fod oherwydd i'r ddogfen gael ei cham-drin.\n"
+"\n"
+"Rydym yn argymell nad ydych yn ymddiried yng nghynnwys y ddogfen hon.\n"
+"Mae gweithredu macros yn y ddogfen hon wedi ei hatal.\n"
+" "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDLENGTH\n"
+"string.text"
+msgid "Invalid data length."
+msgstr "Hyd data annilys."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CURRENTDIR\n"
+"string.text"
+msgid "Function not possible: path contains current directory."
+msgstr "Gweithred amhosibl: mae'r llwybr yn cynnwys y cyfeiriadur presennoll."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSAMEDEVICE\n"
+"string.text"
+msgid "Function not possible: device (drive) not identical."
+msgstr "Swyddogaeth amhosibl: nid yw'r (gyrrwr) dyfais yr un peth."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_DEVICENOTREADY\n"
+"string.text"
+msgid "Device (drive) not ready."
+msgstr "Dyfais (gyrrwr) ddim yn barod."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_BADCRC\n"
+"string.text"
+msgid "Wrong check amount."
+msgstr "Swm gwiriad anghywir."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRITEPROTECTED\n"
+"string.text"
+msgid "Function not possible: write protected."
+msgstr "Swyddogaeth amhosibl: amddiffyn rhag ysgrifennu."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_SHARED_NOPASSWORDCHANGE\n"
+"string.text"
+msgid ""
+"The password of a shared spreadsheet cannot be set or changed.\n"
+"Deactivate sharing mode first."
+msgstr ""
+"Nid oes modd gosod na newid cyfrinair taenlen wedi ei rhannu.\n"
+"Atal y modd rhannu yn gyntaf."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_FORMAT_ROWCOL\n"
+"string.text"
+msgid "File format error found at $(ARG1)(row,col)."
+msgstr "Gwall fformat ffeil wedi ei ganfod ar $(ARG1)(row,col)."

@@ -1,0 +1,866 @@
+#. extracted from sfx2/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2014-10-29 21:17+0530\n"
+"Last-Translator: Shankar Prasad <svenkate AT redhat Dot com>\n"
+"Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356522536.0\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_RESET\n"
+"string.text"
+msgid "~Reset"
+msgstr "ಮರು ಸಿದ್ಧಗೊಳಿಸು (~R)"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_APPLY\n"
+"string.text"
+msgid "Apply"
+msgstr "ಅನ್ವಯಿಸು"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_TABPAGE_INVALIDNAME\n"
+"infobox.text"
+msgid "This name is already in use."
+msgstr "ಈ ಹೆಸರು ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_TABPAGE_INVALIDSTYLE\n"
+"infobox.text"
+msgid "This Style does not exist."
+msgstr "ಈ ಶೈಲಿಯು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_TABPAGE_INVALIDPARENT\n"
+"infobox.text"
+msgid ""
+"This Style cannot be used as a base Style,\n"
+"because it would result in a recursive reference."
+msgstr ""
+"ಈ ಶೈಲಿಯನ್ನು ಮೂಲ ಶೈಲಿಯಾಗಿ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ,\n"
+"ಏಕೆಂದರೆ ಇದು ಒಂದು ಪುನರಾವರ್ತಿತ ಉಲ್ಲೇಖಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_POOL_STYLE_NAME\n"
+"infobox.text"
+msgid ""
+"Name already exists as a default Style.\n"
+"Please choose another name."
+msgstr ""
+"ಹೆಸರು ಈಗಾಗಲೇ ಪೂರ್ವನಿಯೋಜಿತ ಶೈಲಿಯಂತೆ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.\n"
+"ದಯವಿಟ್ಟು ಬೇರೆ ಹೆಸರನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE_USED\n"
+"string.text"
+msgid ""
+"One or more of the selected styles is in use in this document.\n"
+"If you delete these styles, text will revert to the parent style.\n"
+"Do you still wish to delete these styles?\n"
+msgstr ""
+"ಆರಿಸಲಾದ ಒಂದು ಅಥವ ಹೆಚ್ಚಿನ ಶೈಲಿಗಳು ಈ ದಸ್ತಾವೇಜಿನಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿವೆ.\n"
+"ನೀವು ಈ ಶೈಲಿಗಳನ್ನು ಅಳಿಸಿದಲ್ಲಿ, ಪಠ್ಯವು ಪೋಷಕ (ಪೇರೆಂಟ್) ಶೈಲಿಗೆ ಮರಳಿಸಲ್ಪಡುತ್ತದೆ.\n"
+"ಆದರೂ ಸಹ ನೀವು ಈ ಶೈಲಿಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE\n"
+"string.text"
+msgid "Styles in use: "
+msgstr "ಬಳಕೆಯಲ್ಲಿರುವ ಶೈಲಿಗಳು : "
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_NEW\n"
+"menuitem.text"
+msgid "New..."
+msgstr "ಹೊಸ..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_EDIT\n"
+"menuitem.text"
+msgid "Modify..."
+msgstr "ಮಾರ್ಪಡಿಸು..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_HIDE\n"
+"menuitem.text"
+msgid "Hide"
+msgstr "ಅಡಗಿಸು"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_SHOW\n"
+"menuitem.text"
+msgid "Show"
+msgstr "ತೋರಿಸು"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_DELETE\n"
+"menuitem.text"
+msgid "Delete..."
+msgstr "ಅಳಿಸು..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_NAVIGATOR\n"
+"string.text"
+msgid "Navigator"
+msgstr "ನ್ಯಾವಿಗೇಟರ್"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_TASKPANE\n"
+"string.text"
+msgid "Task Pane"
+msgstr "ಕಾರ್ಯ ಫಲಕ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_SIDEBAR\n"
+"string.text"
+msgid "Sidebar"
+msgstr "ಬದಿಪಟ್ಟಿ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MSG_ERROR_WRONG_CONFIRM\n"
+"errorbox.text"
+msgid "Faulty password confirmation"
+msgstr "ದೋಷಯುಕ್ತ ಗುಪ್ತಪದವೆಂದು ದೃಢಪಟ್ಟಿದೆ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_PDF_EXPORT_SEND\n"
+"string.text"
+msgid "Send"
+msgstr "ಕಳುಹಿಸು"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_FONT_TABPAGE\n"
+"string.text"
+msgid "Font"
+msgstr "ಅಕ್ಷರಶೈಲಿ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_NEWOFFICEDOC\n"
+"string.text"
+msgid "%PRODUCTNAME document"
+msgstr "%PRODUCTNAME ದಸ್ತಾವೇಜು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"combobox.quickhelptext"
+msgid "Property Name"
+msgstr "ಗುಣದ ಹೆಸರು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Checked by\n"
+"stringlist.text"
+msgid "Checked by"
+msgstr "ಪರಿಶೀಲಿಸಿದವರು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Client\n"
+"stringlist.text"
+msgid "Client"
+msgstr "ಕ್ಲೈಂಟ್‌"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Date completed\n"
+"stringlist.text"
+msgid "Date completed"
+msgstr "ಪೂರ್ಣಗೊಳಿಸಲಾದ ದಿನಾಂಕ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Department\n"
+"stringlist.text"
+msgid "Department"
+msgstr "ವಿಭಾಗ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Destinations\n"
+"stringlist.text"
+msgid "Destinations"
+msgstr "ಗುರಿಗಳು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Disposition\n"
+"stringlist.text"
+msgid "Disposition"
+msgstr "ಮನೋಧರ್ಮ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Division\n"
+"stringlist.text"
+msgid "Division"
+msgstr "ವರ್ಗ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Document number\n"
+"stringlist.text"
+msgid "Document number"
+msgstr "ದಸ್ತಾವೇಜಿನ ಸಂಖ್ಯೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Editor\n"
+"stringlist.text"
+msgid "Editor"
+msgstr "ಸಂಪಾದಕ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"E-Mail\n"
+"stringlist.text"
+msgid "E-Mail"
+msgstr "ಇ-ಮೈಲ್‌"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Forward to\n"
+"stringlist.text"
+msgid "Forward to"
+msgstr "ಇವರಿಗೆ ಫಾರ್ವಾರ್ಡ್ ಮಾಡು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Group\n"
+"stringlist.text"
+msgid "Group"
+msgstr "ಗುಂಪು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Info\n"
+"stringlist.text"
+msgid "Info"
+msgstr "ಮಾಹಿತಿ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Language\n"
+"stringlist.text"
+msgid "Language"
+msgstr "ಭಾಷೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Mailstop\n"
+"stringlist.text"
+msgid "Mailstop"
+msgstr "ಅಂಚೆತಡೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Matter\n"
+"stringlist.text"
+msgid "Matter"
+msgstr "ವಿಷಯ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Office\n"
+"stringlist.text"
+msgid "Office"
+msgstr "ಕಛೇರಿ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Owner\n"
+"stringlist.text"
+msgid "Owner"
+msgstr "ಮಾಲಿಕ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Project\n"
+"stringlist.text"
+msgid "Project"
+msgstr "ಯೋಜನೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Publisher\n"
+"stringlist.text"
+msgid "Publisher"
+msgstr "ಪ್ರಕಾಶಕ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Purpose\n"
+"stringlist.text"
+msgid "Purpose"
+msgstr "ಉದ್ಧೇಶ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Received from\n"
+"stringlist.text"
+msgid "Received from"
+msgstr "ಇವರಿಂದ ಪಡೆಯಲಾಗಿದೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded by\n"
+"stringlist.text"
+msgid "Recorded by"
+msgstr "ದಾಖಲಿಸಿದವರು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded date\n"
+"stringlist.text"
+msgid "Recorded date"
+msgstr "ದಾಖಲಿಸಲಾದ ದಿನಾಂಕ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Reference\n"
+"stringlist.text"
+msgid "Reference"
+msgstr "ಆಧಾರ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Source\n"
+"stringlist.text"
+msgid "Source"
+msgstr "ಆಕರ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Status\n"
+"stringlist.text"
+msgid "Status"
+msgstr "ಸ್ಥಿತಿ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Telephone number\n"
+"stringlist.text"
+msgid "Telephone number"
+msgstr "ದೂರವಾಣಿ ಸಂಖ್ಯೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Typist\n"
+"stringlist.text"
+msgid "Typist"
+msgstr "ಬೆರಳಚ್ಚುಗಾರ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"URL\n"
+"stringlist.text"
+msgid "URL"
+msgstr "URL"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "ಪಠ್ಯ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"DateTime\n"
+"stringlist.text"
+msgid "DateTime"
+msgstr "ದಿನಾಂಕಸಮಯ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Date\n"
+"stringlist.text"
+msgid "Date"
+msgstr "ದಿನಾಂಕ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Duration\n"
+"stringlist.text"
+msgid "Duration"
+msgstr "ಅವಧಿ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Number\n"
+"stringlist.text"
+msgid "Number"
+msgstr "ಸಂಖ್ಯೆ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Yes or no\n"
+"stringlist.text"
+msgid "Yes or no"
+msgstr "ಹೌದು ಅಥವ ಇಲ್ಲ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_ST_DURATION_FORMAT\n"
+"string.text"
+msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+msgstr " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_YES\n"
+"radiobutton.text"
+msgid "Yes"
+msgstr "ಹೌದು"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_NO\n"
+"radiobutton.text"
+msgid "No"
+msgstr "ಇಲ್ಲ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_PB_PROPERTY_REMOVE\n"
+"imagebutton.quickhelptext"
+msgid "Remove Property"
+msgstr "ಗುಣವನ್ನು ತೆಗೆದುಹಾಕಿ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_QB_WRONG_TYPE\n"
+"querybox.text"
+msgid ""
+"The value entered does not match the specified type.\n"
+"The value will be stored as text."
+msgstr ""
+"ಇಲ್ಲಿ ದಾಖಲಿಸಲಾದ ಮೌಲ್ಯವು ಸೂಚಿಸಲಾದ ಪ್ರಕಾರವನ್ನು ಹೋಲುವುದಿಲ್ಲ.\n"
+"ಮೌಲ್ಯವನ್ನು ಪಠ್ಯದ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗುವುದು."
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_FILEDLG_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "ಪ್ರಸ್ತುತ ಆವೃತ್ತಿ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_EXPORT\n"
+"string.text"
+msgid "Export"
+msgstr "ರಫ್ತು"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "ಸೇರಿಸು"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_BUTTONINSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "ಸೇರಿಸು (~I)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_IMPORT_ALL\n"
+"string.text"
+msgid "<All formats>"
+msgstr "<ಎಲ್ಲಾ ವಿನ್ಯಾಸಗಳು>"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "ಸ್ವಯಂಚಾಲಿತ ಕಡತದ ಹೆಸರಿನ ವಿಸ್ತರಣೆ (~A)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "ಆಯ್ಕೆ (~S)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "ಸಂಪರ್ಕಕೊಂಡಿ (~L)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "ಮುನ್ನೋಟ (~e)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "ಓದಲು-ಮಾತ್ರ (~R)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_PASSWORD\n"
+"string.text"
+msgid "Save with ~password"
+msgstr "ಗುಪ್ತಪದದೊಂದಿಗೆ ಉಳಿಸು (~p)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_FILTER_OPTIONS\n"
+"string.text"
+msgid "Edit ~filter settings"
+msgstr "ಶೋಧಕದ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು (~f)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "ಚಾಲನೆ ಮಾಡು (~P)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "ನಿಲ್ಲಿಸು (~p)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "ತೆರೆ (~O)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "ಉಳಿಸು (~S)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy"
+msgstr "ಒಂದು ಪ್ರತಿಯನ್ನು ಉಳಿಸು"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "ಶೈಲಿ:"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_TEMPLATES\n"
+"string.text"
+msgid "~Templates:"
+msgstr "ಸಿದ್ಧವಿನ್ಯಾಸಪುಟಗಳು (~T):"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "ಆವೃತ್ತಿ (~V):"
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"MSG_OVERWRITE\n"
+"querybox.text"
+msgid "Style already exists. Overwrite?"
+msgstr "ಶೈಲಿ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. ತಿದ್ದಿಬರೆಯಬೇಕೇ?"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"SID_RECORDING_FLOATWINDOW\n"
+"floatingwindow.text"
+msgid "Record Macro"
+msgstr "ಮ್ಯಾಕ್ರೋ ದಾಖಲಿಸು"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_MACRO_LOSS\n"
+"string.text"
+msgid "Do you really want to cancel the recording? Any steps recorded up to this point will be lost."
+msgstr "ದಾಖಲಿಸುವುದನ್ನು ನಿಶ್ಚಿತವಾಗಿಯೂ ವಜಾಮಾಡಬೇಕೇ? ಇಲ್ಲಿಯವರೆಗೂ ದಾಖಲಿಸಲಾದ ಯಾವುದೆ ವಿಷಯಗಳು ಇಲ್ಲವಾಗುತ್ತವೆ."
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_CANCEL_RECORDING\n"
+"string.text"
+msgid "Cancel Recording"
+msgstr "ದಾಖಲಿಸುವುದನ್ನು ವಜಾಮಾಡು"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_DOCK\n"
+"string.text"
+msgid "Dock"
+msgstr "ಡಾಕ್ ಮಾಡು"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_UNDOCK\n"
+"string.text"
+msgid "Undock"
+msgstr "ಅನ್‌ಡಾಕ್ ಮಾಡು"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASK_PANE_VIEW\n"
+"string.text"
+msgid "View"
+msgstr "ನೋಟ"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASKS\n"
+"string.text"
+msgid "Tasks"
+msgstr "ಕೆಲಸಗಳು"
+
+#: templateinfodlg.src
+msgctxt ""
+"templateinfodlg.src\n"
+"DLG_TEMPLATE_INFORMATION\n"
+"BTN_TEMPLATE_INFO_CLOSE\n"
+"pushbutton.text"
+msgid "Close"
+msgstr "ಮುಚ್ಚು"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_ELEMTLIST\n"
+"string.text"
+msgid "Style List"
+msgstr "ಶೈಲಿ ಪಟ್ಟಿ"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_FILTER_HIERARCHICAL\n"
+"string.text"
+msgid "Hierarchical"
+msgstr "ಶ್ರೇಣೀಕೃತ"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_WATERCAN\n"
+"toolboxitem.text"
+msgid "Fill Format Mode"
+msgstr "ರಚನಾ ಸ್ಥಿತಿಯನ್ನು ಭರ್ತಿಮಾಡು"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_NEW_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "New Style from Selection"
+msgstr "ಆಯ್ಕೆಯಿಂದ ಹೊಸ ಶೈಲಿ"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_UPDATE_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "Update Style"
+msgstr "ಶೈಲಿಯನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡು"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER\n"
+"dockingwindow.text"
+msgid "Styles and Formatting"
+msgstr "ಶೈಲಿಗಳು ಹಾಗು ರಚನೆ"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"STR_VIEWVERSIONCOMMENT\n"
+"string.text"
+msgid "View Version Comment"
+msgstr "ಆವೃತ್ತಿ ಟಿಪ್ಪಣಿಯನ್ನು ಸೇರಿಸು"

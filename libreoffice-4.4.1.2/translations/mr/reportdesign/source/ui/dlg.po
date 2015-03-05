@@ -1,0 +1,331 @@
+#. extracted from reportdesign/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2012-08-23 12:27+0200\n"
+"Last-Translator: Sandeep <sandeep.shedmake@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_NUMBERED_CONDITION\n"
+"string.text"
+msgid "Condition $number$"
+msgstr "अट $number$"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_COLOR_WHITE\n"
+"string.text"
+msgid "White"
+msgstr "पांढरा"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_CHARCOLOR\n"
+"string.text"
+msgid "Font color"
+msgstr "फाँट रंग"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_CHARBACKGROUND\n"
+"string.text"
+msgid "Background"
+msgstr "पार्श्वभूमी"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_TRANSPARENT\n"
+"string.text"
+msgid "No Fill"
+msgstr "भरलेले नाही"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_SORTUP\n"
+"toolboxitem.text"
+msgid "Sort Ascending"
+msgstr "चढती क्रमवारी"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_SORTDOWN\n"
+"toolboxitem.text"
+msgid "Sort Descending"
+msgstr "उतरती क्रमवारी"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_REMOVE_FILTER_SORT\n"
+"toolboxitem.text"
+msgid "Remove sorting"
+msgstr "क्रमवारी काढूण टाका"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_ADD_CONTROL_PAIR\n"
+"toolboxitem.text"
+msgid "Insert"
+msgstr "अंतर्भुत करा"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"ADDFIELD_FL_HELP_SEPARATOR\n"
+"fixedline.text"
+msgid "Help"
+msgstr "मदत"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"ADDFIELD_HELP_FIELD\n"
+"fixedtext.text"
+msgid "Highlight the fields to insert into the selected section of the template, then click Insert or press Enter."
+msgstr "साचामधील नीवडलेल्या विभागात अंतर्भूतजोगी क्षेत्र लक्ष्यवेध करा, व त्यानंतर अंतर्भूत किंवा एंटर दाबा."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_EXPRESSION\n"
+"string.text"
+msgid "Field/Expression"
+msgstr "क्षेत्र/दर्शक (राशी)"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_SORTING\n"
+"string.text"
+msgid "Sort Order"
+msgstr "वर्गीकृत करण्याचा क्रम"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_PREFIXCHARS\n"
+"string.text"
+msgid "Prefix Characters"
+msgstr "उपसर्ग अक्षरे"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_YEAR\n"
+"string.text"
+msgid "Year"
+msgstr "वर्ष"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_QUARTER\n"
+"string.text"
+msgid "Quarter"
+msgstr "त्रेमासिक"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_MONTH\n"
+"string.text"
+msgid "Month"
+msgstr "महिना"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_WEEK\n"
+"string.text"
+msgid "Week"
+msgstr "आठवडा"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_DAY\n"
+"string.text"
+msgid "Day"
+msgstr "दिवस"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HOUR\n"
+"string.text"
+msgid "Hour"
+msgstr "तास"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_MINUTE\n"
+"string.text"
+msgid "Minute"
+msgstr "मिनिटे"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_INTERVAL\n"
+"string.text"
+msgid "Interval"
+msgstr "मध्यांतर"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_FIELD\n"
+"string.text"
+msgid "Select a field or type an expression to sort or group on."
+msgstr "वर्गीकृत किंवा गट केल्यावर क्षेत्र किंवा एक्सटेन्शनचा प्रकार निवडा."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_HEADER\n"
+"string.text"
+msgid "Display a header for this group?"
+msgstr "या गटासाठी माथासमास मजकूर प्रदर्शित करायचा का?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_FOOTER\n"
+"string.text"
+msgid "Display a footer for this group?"
+msgstr "या गटासाठी पायथासमास मजकूर प्रदर्शित करायचा का?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_GROUPON\n"
+"string.text"
+msgid "Select the value or range of values that starts a new group."
+msgstr "नवीन गटाने सुरू होणारया मूल्यांची व्याप्ति किंवा मूल्य निवडा."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_INTERVAL\n"
+"string.text"
+msgid "Interval or number of characters to group on."
+msgstr "गट केल्यावर एकुण अक्षरे किंवा मध्यांतर."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_KEEP\n"
+"string.text"
+msgid "Keep group together on one page?"
+msgstr "एका पानावर गट एकत्रित ठेवायचे का?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_SORT\n"
+"string.text"
+msgid "Select ascending or descending sort order. Ascending means from A to Z or 0 to 9"
+msgstr "चढता क्रम किंवा उतरता क्रमाने वर्गीकृत करण्याचा क्रम निवडा. चढता क्रम म्हणजे A पासून Z पर्यंत किंवा 0 पासून 9 पर्यंत"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_STR_FUNCTIONS\n"
+"string.text"
+msgid "Functions"
+msgstr "कार्ये"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_STR_GROUPS\n"
+"string.text"
+msgid "Groups"
+msgstr "गट"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_SORTINGANDGROUPING\n"
+"menuitem.text"
+msgid "Sorting and Grouping..."
+msgstr "वर्गीकृत करणे किंवा गट करणे..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_PAGEHEADERFOOTER\n"
+"menuitem.text"
+msgid "Page Header/Footer..."
+msgstr "माथासमास मजकूर/पायथासमास मजकूराचे पान..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_REPORTHEADERFOOTER\n"
+"menuitem.text"
+msgid "Report Header/Footer..."
+msgstr "अहवाल शिर्षओळ/चरणओळ..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_RPT_NEW_FUNCTION\n"
+"menuitem.text"
+msgid "New Function"
+msgstr "नवीन कार्य"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_SHOW_PROPERTYBROWSER\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr "वैशिष्ट्ये..."
+
+#. The space after the word is no error. #PAGENUMBER# is a replacement and & must not be translated as well as "
+#: PageNumber.src
+msgctxt ""
+"PageNumber.src\n"
+"STR_RPT_PN_PAGE\n"
+"string.text"
+msgid "\"Page \" & #PAGENUMBER#"
+msgstr "\"पान \" & #PAGENUMBER#"
+
+#. The space before and after the word is no error. #PAGECOUNT# is a replacement and & must not be translated  as well as "
+#: PageNumber.src
+msgctxt ""
+"PageNumber.src\n"
+"STR_RPT_PN_PAGE_OF\n"
+"string.text"
+msgid " & \" of \" & #PAGECOUNT#"
+msgstr " & \" चे \" & #PAGECOUNT#"

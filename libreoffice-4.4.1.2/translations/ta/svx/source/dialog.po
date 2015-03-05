@@ -1,0 +1,6408 @@
+#. extracted from svx/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-01-21 19:34+0000\n"
+"Last-Translator: அருண் குமார் <thangam.arunx@gmail.com>\n"
+"Language-Team: Tamil <>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421868849.000000\n"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"GRP_Q\n"
+"fixedline.text"
+msgid "Colors"
+msgstr "நிறங்கள்"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_1\n"
+"fixedtext.text"
+msgid "Source color"
+msgstr "மூலநிறம்"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_2\n"
+"fixedtext.text"
+msgid "Tolerance"
+msgstr "சகிப்புத்தன்மை"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_3\n"
+"fixedtext.text"
+msgid "Replace with..."
+msgstr "ஆல் மாற்றுக..."
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"CBX_TRANS\n"
+"checkbox.text"
+msgid "Tr~ansparency"
+msgstr "ஒ~ளிஊடுருவல்"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"BTN_EXEC\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr "மாற்றிவை"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK.TBX_PIPETTE\n"
+"TBI_PIPETTE\n"
+"toolboxitem.text"
+msgid "Pipette"
+msgstr "குழாயி"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"dockingwindow.text"
+msgid "Color Replacer"
+msgstr "நிற மாற்றி"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_TRANSP\n"
+"string.text"
+msgid "Transparent"
+msgstr "ஒளிபுகு"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_SOURCECOLOR\n"
+"string.text"
+msgid "Source Color"
+msgstr "மூல நிறம்"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_PALETTE\n"
+"string.text"
+msgid "Color Palette"
+msgstr "வண்ணக் களஞ்சியம்"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_TOLERANCE\n"
+"string.text"
+msgid "Tolerance"
+msgstr "சகிப்புத்தன்மை"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_REPLACEWITH\n"
+"string.text"
+msgid "Replace with"
+msgstr "இதனுடன் மாற்று"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_ORIGINAL_SIZE\n"
+"string.text"
+msgid "$(WIDTH) x $(HEIGHT) ($(WIDTH_IN_PX) x $(HEIGHT_IN_PX) px)"
+msgstr "$(WIDTH) x $(HEIGHT) ($(WIDTH_IN_PX) x $(HEIGHT_IN_PX) px)"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_VIEW_SIZE\n"
+"string.text"
+msgid "$(WIDTH) x $(HEIGHT) at $(DPI) DPI"
+msgstr "$(DPI) DPI இல் $(WIDTH) x $(HEIGHT)"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_CAPACITY\n"
+"string.text"
+msgid "$(CAPACITY) kiB"
+msgstr "$(CAPACITY) kiB"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_GIF\n"
+"string.text"
+msgid "Gif image"
+msgstr "GIF படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_JPEG\n"
+"string.text"
+msgid "Jpeg image"
+msgstr "Jpeg படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_PNG\n"
+"string.text"
+msgid "PNG image"
+msgstr "PNG படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_TIFF\n"
+"string.text"
+msgid "TIFF image"
+msgstr "TIFF படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_WMF\n"
+"string.text"
+msgid "WMF image"
+msgstr "WMF படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_MET\n"
+"string.text"
+msgid "MET image"
+msgstr "MET படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_PCT\n"
+"string.text"
+msgid "PCT image"
+msgstr "PCT படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_SVG\n"
+"string.text"
+msgid "SVG image"
+msgstr "SVG படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_BMP\n"
+"string.text"
+msgid "BMP image"
+msgstr "BMP படம்"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_UNKNOWN\n"
+"string.text"
+msgid "Unknown"
+msgstr "அறியாத"
+
+#: dlgctrl.src
+msgctxt ""
+"dlgctrl.src\n"
+"STR_SWITCH\n"
+"string.text"
+msgid "Switch"
+msgstr "நிலைமாற்று"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXSTR_QUERY_EXIT_RECOVERY\n"
+"string.text"
+msgid "Are you sure you want to discard the %PRODUCTNAME document recovery data?"
+msgstr "உறுதியாக %PRODUCTNAME ஆவண மீட்பு தரவை தவிர்க்க வேண்டுகிறீரா?"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_OFF\n"
+"toolboxitem.text"
+msgid "Off"
+msgstr "அடை"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_ROTATE\n"
+"toolboxitem.text"
+msgid "Rotate"
+msgstr "சுழற்று"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_UPRIGHT\n"
+"toolboxitem.text"
+msgid "Upright"
+msgstr "நெடிய"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_SLANTX\n"
+"toolboxitem.text"
+msgid "Slant Horizontal"
+msgstr "செங்குத்து கிடைமட்டம்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_SLANTY\n"
+"toolboxitem.text"
+msgid "Slant Vertical"
+msgstr "செங்குத்துநெடுக்குவசம்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_MIRROR\n"
+"toolboxitem.text"
+msgid "Orientation"
+msgstr "திசையமைப்பு"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_LEFT\n"
+"toolboxitem.text"
+msgid "Align Left"
+msgstr "சீரமைவு இடது"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_CENTER\n"
+"toolboxitem.text"
+msgid "Center"
+msgstr "மையம்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_RIGHT\n"
+"toolboxitem.text"
+msgid "Align Right"
+msgstr "சீரமைவு வலது"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_AUTOSIZE\n"
+"toolboxitem.text"
+msgid "AutoSize Text"
+msgstr "தானியளவு உரை"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_DISTANCE\n"
+"metricfield.quickhelptext"
+msgid "Distance"
+msgstr "தூரம்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_TEXTSTART\n"
+"metricfield.quickhelptext"
+msgid "Indent"
+msgstr "உள்ளடக்கம்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHOWFORM\n"
+"toolboxitem.text"
+msgid "Contour"
+msgstr "சமன்வரை"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_OUTLINE\n"
+"toolboxitem.text"
+msgid "Text Contour"
+msgstr "உரை சமன்வரை"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_OFF\n"
+"toolboxitem.text"
+msgid "No Shadow"
+msgstr "நிழல் இல்லை"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_NORMAL\n"
+"toolboxitem.text"
+msgid "Vertical"
+msgstr "செங்குத்து"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_SLANT\n"
+"toolboxitem.text"
+msgid "Slant"
+msgstr "சாய்வு"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_X\n"
+"metricfield.text"
+msgid " degrees"
+msgstr " பாகைகள்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_X\n"
+"metricfield.quickhelptext"
+msgid "Distance X"
+msgstr "தூரம் X"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_Y\n"
+"metricfield.quickhelptext"
+msgid "Distance Y"
+msgstr "தூரம் Y"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"CLB_SHADOW_COLOR\n"
+"listbox.quickhelptext"
+msgid "Shadow Color"
+msgstr "நிழல் நிறம்"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"dockingwindow.text"
+msgid "Fontwork"
+msgstr "எழுத்து வேலை"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Border setting\n"
+"itemlist.text"
+msgid "Border setting"
+msgstr "எல்லை அமைவுகள்"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Left border line\n"
+"itemlist.text"
+msgid "Left border line"
+msgstr "இடது எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Right border line\n"
+"itemlist.text"
+msgid "Right border line"
+msgstr "வலது எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Top border line\n"
+"itemlist.text"
+msgid "Top border line"
+msgstr "மேல் எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Bottom border line\n"
+"itemlist.text"
+msgid "Bottom border line"
+msgstr "கீழ் எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Horizontal border line\n"
+"itemlist.text"
+msgid "Horizontal border line"
+msgstr "கிடைமட்ட எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Vertical border line\n"
+"itemlist.text"
+msgid "Vertical border line"
+msgstr "செங்குத்து எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Diagonal border line from top left to bottom right\n"
+"itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr "மூலைவிட்ட எல்லைக்கோடு, இடமேலிருந்து வல அடிப்புறம்வரை"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Diagonal border line from bottom left to top right\n"
+"itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr "மூலைவிட்ட எல்லைக்கோடு, இட அடிப்புறத்திலிருந்து வல மேற்புறம் வரை"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Border setting\n"
+"itemlist.text"
+msgid "Border setting"
+msgstr "எல்லை அமைவுகள்"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Left border line\n"
+"itemlist.text"
+msgid "Left border line"
+msgstr "இடது எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Right border line\n"
+"itemlist.text"
+msgid "Right border line"
+msgstr "வலது எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Top border line\n"
+"itemlist.text"
+msgid "Top border line"
+msgstr "மேல் எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Bottom border line\n"
+"itemlist.text"
+msgid "Bottom border line"
+msgstr "கீழ் எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Horizontal border line\n"
+"itemlist.text"
+msgid "Horizontal border line"
+msgstr "கிடைமட்ட எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Vertical border line\n"
+"itemlist.text"
+msgid "Vertical border line"
+msgstr "செங்குத்து எல்லை கோடு"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Diagonal border line from top left to bottom right\n"
+"itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr "மூலைவிட்ட எல்லைக்கோடு, இடமேலிருந்து வல அடிப்புறம்வரை"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Diagonal border line from bottom left to top right\n"
+"itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr "மூலைவிட்ட எல்லைக்கோடு, இட அடிப்புறத்திலிருந்து வல மேற்புறம் வரை"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_URL\n"
+"menuitem.text"
+msgid "Description..."
+msgstr "விவரம்..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_MACRO\n"
+"menuitem.text"
+msgid "~Macro..."
+msgstr "~பெருமம்..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_ACTIVATE\n"
+"menuitem.text"
+msgid "Active"
+msgstr "இயக்கத்தில்"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_FRAME_TO_TOP\n"
+"menuitem.text"
+msgid "Bring to Front"
+msgstr "முன்புறம் கொண்டுவா"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_MOREFRONT\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr "முன் ~கொண்டுவா"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_MOREBACK\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr "பின்னால் அனுப்பு"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_FRAME_TO_BOTTOM\n"
+"menuitem.text"
+msgid "~Send to Back"
+msgstr "கடைசிக்கு அனுப்பு"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_POSITION\n"
+"menuitem.text"
+msgid "Arrange"
+msgstr "அடுக்கு"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_MARK_ALL\n"
+"menuitem.text"
+msgid "Select ~All"
+msgstr "அனைத்தும் தேர்"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_DELETE1\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "அழி"
+
+#: language.src
+msgctxt ""
+"language.src\n"
+"RID_SVXSTR_LANGUAGE_ALL\n"
+"string.text"
+msgid "[All]"
+msgstr "[All]"
+
+#: passwd.src
+msgctxt ""
+"passwd.src\n"
+"RID_SVXSTR_ERR_OLD_PASSWD\n"
+"string.text"
+msgid "Invalid password"
+msgstr "செல்லாத கடவுச்சொல்"
+
+#: passwd.src
+msgctxt ""
+"passwd.src\n"
+"RID_SVXSTR_ERR_REPEAT_PASSWD\n"
+"string.text"
+msgid "Passwords do not match"
+msgstr "கடவுச்சொற்கள் பொருந்தவில்லை"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_TITLE\n"
+"string.text"
+msgid "Printing selection"
+msgstr "அச்சுத் தேர்வு"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_MSG\n"
+"string.text"
+msgid "Do you want to print the selection or the entire document?"
+msgstr "தேர்ந்தெடுத்தவற்றை அல்லது முழு ஆவணத்தை அச்சிடவா?"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_ALL\n"
+"string.text"
+msgid "~All"
+msgstr "~அனைத்து"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "~தேர்வு"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_MM\n"
+"menuitem.text"
+msgid "Millimeter"
+msgstr "மில்லிமீட்டர்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_CM\n"
+"menuitem.text"
+msgid "Centimeter"
+msgstr "சென்டிமீட்டர்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_M\n"
+"menuitem.text"
+msgid "Meter"
+msgstr "மீட்டர்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_KM\n"
+"menuitem.text"
+msgid "Kilometer"
+msgstr "கிலோமீட்டர்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_INCH\n"
+"menuitem.text"
+msgid "Inch"
+msgstr "அங்குலம்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_FOOT\n"
+"menuitem.text"
+msgid "Foot"
+msgstr "அடி"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_MILE\n"
+"menuitem.text"
+msgid "Miles"
+msgstr "மைல்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_POINT\n"
+"menuitem.text"
+msgid "Point"
+msgstr "புள்ளி"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_PICA\n"
+"menuitem.text"
+msgid "Pica"
+msgstr "பிக்கா"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_CHAR\n"
+"menuitem.text"
+msgid "Char"
+msgstr "எழுத்துக்குறி"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_LINE\n"
+"menuitem.text"
+msgid "Line"
+msgstr "வரி"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "இடது"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "வலது"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_CENTER\n"
+"string.text"
+msgid "Center"
+msgstr "மையம்"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_DECIMAL\n"
+"string.text"
+msgid "Decimal"
+msgstr "தசம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SOLID\n"
+"string.text"
+msgid "Continuous"
+msgstr "தொடர்ச்சி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRADIENT\n"
+"string.text"
+msgid "Gradient"
+msgstr "சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BITMAP\n"
+"string.text"
+msgid "Bitmap"
+msgstr "பிட்டுப் படம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINESTYLE\n"
+"string.text"
+msgid "Line Style"
+msgstr "வரியின் பாணி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_INVISIBLE\n"
+"string.text"
+msgid "None"
+msgstr "ஏதுமில்லை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR\n"
+"string.text"
+msgid "Color"
+msgstr "நிறம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH\n"
+"string.text"
+msgid "Hatching"
+msgstr "குறுக்கு கோடுகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEEND\n"
+"string.text"
+msgid "Arrowheads"
+msgstr "அம்புத்தலைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CLOSE\n"
+"string.text"
+msgid "Close"
+msgstr "மூடு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLACK\n"
+"string.text"
+msgid "Black"
+msgstr "கருமை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_GREEN\n"
+"string.text"
+msgid "Green"
+msgstr "பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_CYAN\n"
+"string.text"
+msgid "Cyan"
+msgstr "சியான்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_RED\n"
+"string.text"
+msgid "Red"
+msgstr "சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_MAGENTA\n"
+"string.text"
+msgid "Magenta"
+msgstr "நன்னிறம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_GREY\n"
+"string.text"
+msgid "Gray"
+msgstr "சாம்பல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_YELLOW\n"
+"string.text"
+msgid "Yellow"
+msgstr "மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_WHITE\n"
+"string.text"
+msgid "White"
+msgstr "வெள்ளை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUEGREY\n"
+"string.text"
+msgid "Blue gray"
+msgstr "நீலச் சாம்பல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUE_CLASSIC\n"
+"string.text"
+msgid "Blue classic"
+msgstr "நீலம் பழமை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_ORANGE\n"
+"string.text"
+msgid "Orange"
+msgstr "செம்மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_ARROW\n"
+"string.text"
+msgid "Arrow"
+msgstr "அம்புக்குறி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SQUARE\n"
+"string.text"
+msgid "Square"
+msgstr "சதுரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CIRCLE\n"
+"string.text"
+msgid "Circle"
+msgstr "வட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NONE\n"
+"string.text"
+msgid "- none -"
+msgstr "- ஏதுமில்லை -"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TRANSPARENCE\n"
+"string.text"
+msgid "Transparency"
+msgstr "ஒளி ஊடுருவல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CENTERED\n"
+"string.text"
+msgid "Centered"
+msgstr "நடுவாக"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NOTCENTERED\n"
+"string.text"
+msgid "Not centered"
+msgstr "மையப்படுத்தப்படாத"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_STANDARD\n"
+"string.text"
+msgid "Default"
+msgstr "முன்னிருப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_GREYS\n"
+"string.text"
+msgid "Grayscale"
+msgstr "சாம்பலளவு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_MONO\n"
+"string.text"
+msgid "Black/White"
+msgstr "கருப்பு/வெள்ளை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_WATERMARK\n"
+"string.text"
+msgid "Watermark"
+msgstr "நீர்க்குறி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_IVF\n"
+"string.text"
+msgid "Intel Indeo Video (*.ivf)"
+msgstr "இன்டெல் இன்டியோ நிகழ்படம் (*.ivf)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_AVI\n"
+"string.text"
+msgid "Video for Windows (*.avi)"
+msgstr "விண்டோஸ் நிகழ்படம் (*.avi)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_MOV\n"
+"string.text"
+msgid "QuickTime Movie (*.mov)"
+msgstr "குவிக்டைம் திரைப்படம் (*.mov)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_MPEG\n"
+"string.text"
+msgid "MPEG - Motion Pictures Experts Group (*.mpe;*.mpeg;*.mpg)"
+msgstr "MPEG - Motion Pictures Experts தொகுதி (*.mpe;*.mpeg;*.mpg)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_EXTFILTER_ALL\n"
+"string.text"
+msgid "<All>"
+msgstr "<அனைத்து>"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_SOUND_TITLE\n"
+"string.text"
+msgid "Insert audio"
+msgstr "ஒலியை நுழை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_TITLE\n"
+"string.text"
+msgid "Insert video"
+msgstr "காணொளியை நுழை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_VIOLET\n"
+"string.text"
+msgid "Violet"
+msgstr "ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BORDEAUX\n"
+"string.text"
+msgid "Bordeaux"
+msgstr "போர்டோ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PALE_YELLOW\n"
+"string.text"
+msgid "Pale yellow"
+msgstr "வெளிர் மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PALE_GREEN\n"
+"string.text"
+msgid "Pale green"
+msgstr "வெளிர் பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_DARKVIOLET\n"
+"string.text"
+msgid "Dark violet"
+msgstr "கரு வயலட்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SALMON\n"
+"string.text"
+msgid "Salmon"
+msgstr "சால்மன்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SEABLUE\n"
+"string.text"
+msgid "Sea blue"
+msgstr "கடல் நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_CHART\n"
+"string.text"
+msgid "Chart"
+msgstr "விளக்கப்படம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PURPLE\n"
+"string.text"
+msgid "Purple"
+msgstr "ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SKYBLUE\n"
+"string.text"
+msgid "Sky blue"
+msgstr "வான்நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_YELLOWGREEN\n"
+"string.text"
+msgid "Yellow green"
+msgstr "மஞ்சள் பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PINK\n"
+"string.text"
+msgid "Pink"
+msgstr "இளஞ்சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TURQUOISE\n"
+"string.text"
+msgid "Turquoise"
+msgstr "நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_3D\n"
+"string.text"
+msgid "3D"
+msgstr "3D"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLACK1\n"
+"string.text"
+msgid "Black 1"
+msgstr "கருப்பு 1"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLACK2\n"
+"string.text"
+msgid "Black 2"
+msgstr "கருப்பு 2"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BROWN\n"
+"string.text"
+msgid "Brown"
+msgstr "பழுப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY\n"
+"string.text"
+msgid "Currency"
+msgstr "நாணயம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_3D\n"
+"string.text"
+msgid "Currency 3D"
+msgstr "நாணயம் 3D"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_GRAY\n"
+"string.text"
+msgid "Currency Gray"
+msgstr "நாணயச் சாம்பல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_LAVENDER\n"
+"string.text"
+msgid "Currency Lavender"
+msgstr "நாணய லாவெண்டர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_TURQUOISE\n"
+"string.text"
+msgid "Currency Turquoise"
+msgstr "நாணய நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_GRAY\n"
+"string.text"
+msgid "Gray"
+msgstr "சாம்பல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_GREEN\n"
+"string.text"
+msgid "Green"
+msgstr "பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_LAVENDER\n"
+"string.text"
+msgid "Lavender"
+msgstr "லாவெண்டர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_RED\n"
+"string.text"
+msgid "Red"
+msgstr "சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_TURQUOISE\n"
+"string.text"
+msgid "Turquoise"
+msgstr "நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_YELLOW\n"
+"string.text"
+msgid "Yellow"
+msgstr "மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_MIDDLE\n"
+"string.text"
+msgid "Line joint averaged"
+msgstr "சமமாக்கிய இணை வரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_BEVEL\n"
+"string.text"
+msgid "Line joint bevel"
+msgstr "கோண மாற்று வரி இணைப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_MITER\n"
+"string.text"
+msgid "Line joint miter"
+msgstr "வரி இணைப்பு சரிவுமுனை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_ROUND\n"
+"string.text"
+msgid "Line joint round"
+msgstr "வரி இணைப்பு வட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_BUTT\n"
+"string.text"
+msgid "Line cap flat"
+msgstr "வரி முடிவு தட்டையாக"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_ROUND\n"
+"string.text"
+msgid "Line cap round"
+msgstr "வரி முடிவு வட்டமாக"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_SQUARE\n"
+"string.text"
+msgid "Line cap square"
+msgstr "வரி முடிவு சதுரமாக"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT0\n"
+"string.text"
+msgid "Gradient"
+msgstr "சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT1\n"
+"string.text"
+msgid "Linear blue/white"
+msgstr "சீரான நீலம்/வெள்ளை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT2\n"
+"string.text"
+msgid "Linear magenta/green"
+msgstr "சீரான நன்னிறம்/பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT3\n"
+"string.text"
+msgid "Linear yellow/brown"
+msgstr "சீரான மஞ்சள்/பழுப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT4\n"
+"string.text"
+msgid "Radial green/black"
+msgstr "பச்சை/கருப்பு ஆரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT5\n"
+"string.text"
+msgid "Radial red/yellow"
+msgstr "சிகப்பு/மஞ்சள் ஆரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT6\n"
+"string.text"
+msgid "Rectangular red/white"
+msgstr "சிகப்பு/வெள்ளை செவ்வகம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT7\n"
+"string.text"
+msgid "Square yellow/white"
+msgstr "மஞ்சள்/வெள்ளை சதுரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT8\n"
+"string.text"
+msgid "Ellipsoid blue gray/light blue"
+msgstr "முட்டை வடிவ நீலச் சாம்பல்/வெளுத்த நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT9\n"
+"string.text"
+msgid "Axial light red/white"
+msgstr "அச்சு வெண் சிகப்பு/வெள்ளை"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT10\n"
+"string.text"
+msgid "Diagonal 1l"
+msgstr "மூலைவட்டம் 1இ"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT11\n"
+"string.text"
+msgid "Diagonal 1r"
+msgstr "மூலைவட்டம் 1வ"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT12\n"
+"string.text"
+msgid "Diagonal 2l"
+msgstr "மூலைவட்டம் 2இ"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT13\n"
+"string.text"
+msgid "Diagonal 2r"
+msgstr "மூலைவட்டம் 2வ"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT14\n"
+"string.text"
+msgid "Diagonal 3l"
+msgstr "மூலைவட்டம் 3இ"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT15\n"
+"string.text"
+msgid "Diagonal 3r"
+msgstr "மூலைவட்டம் 3வ"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT16\n"
+"string.text"
+msgid "Diagonal 4l"
+msgstr "மூலைவட்டம் 4இ"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT17\n"
+"string.text"
+msgid "Diagonal 4r"
+msgstr "மூலைவட்டம் 4வ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT18\n"
+"string.text"
+msgid "Diagonal Blue"
+msgstr "நீல மூலைவிட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT19\n"
+"string.text"
+msgid "Diagonal Green"
+msgstr "பச்சை மூலைவிட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT20\n"
+"string.text"
+msgid "Diagonal Orange"
+msgstr "செம்மஞ்சள் மூலைவிட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT21\n"
+"string.text"
+msgid "Diagonal Red"
+msgstr "சிவப்பு மூலைவிட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT22\n"
+"string.text"
+msgid "Diagonal Turquoise"
+msgstr "மூலைவிட்ட நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT23\n"
+"string.text"
+msgid "Diagonal Violet"
+msgstr "ஊதா மூலைவிட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT24\n"
+"string.text"
+msgid "From a Corner"
+msgstr "ஒரு மூலையில் இருந்து"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT25\n"
+"string.text"
+msgid "From a Corner, Blue"
+msgstr "ஒரு மூலையிலிருந்து, நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT26\n"
+"string.text"
+msgid "From a Corner, Green"
+msgstr "ஒரு மூலையில் இருந்து, பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT27\n"
+"string.text"
+msgid "From a Corner, Orange"
+msgstr "ஒரு மூலையில் இருந்து, செம்மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT28\n"
+"string.text"
+msgid "From a Corner, Red"
+msgstr "ஒரு மூலையில் இருந்து, சிவ‌ப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT29\n"
+"string.text"
+msgid "From a Corner, Turquoise"
+msgstr "ஒரு மூலையிலிருந்து, நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT30\n"
+"string.text"
+msgid "From a Corner, Violet"
+msgstr "ஒரு மூலையில் இருந்து, ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT31\n"
+"string.text"
+msgid "From the Middle"
+msgstr "நடுவிலிருந்து"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT32\n"
+"string.text"
+msgid "From the Middle, Blue"
+msgstr "நடுவிலிருந்து, நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT33\n"
+"string.text"
+msgid "From the Middle, Green"
+msgstr "நடுவிலிருந்து, பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT34\n"
+"string.text"
+msgid "From the Middle, Orange"
+msgstr "நடுவிலிருந்து, செம்மஞ்சல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT35\n"
+"string.text"
+msgid "From the Middle, Red"
+msgstr "நடுவிலிருந்து, சிகப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT36\n"
+"string.text"
+msgid "From the Middle, Turquoise"
+msgstr "நடுவிலிருந்து, நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT37\n"
+"string.text"
+msgid "From the Middle, Violet"
+msgstr "நடுவிலிருந்து, ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT38\n"
+"string.text"
+msgid "Horizontal"
+msgstr "கிடைமட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT39\n"
+"string.text"
+msgid "Horizontal Blue"
+msgstr "கிடைமட்ட நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT40\n"
+"string.text"
+msgid "Horizontal Green"
+msgstr "கிடைமட்ட பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT41\n"
+"string.text"
+msgid "Horizontal Orange"
+msgstr "கிடைமட்ட செம்மஞ்சல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT42\n"
+"string.text"
+msgid "Horizontal Red"
+msgstr "கிடைமட்ட சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT43\n"
+"string.text"
+msgid "Horizontal Turquoise"
+msgstr "கிடைமட்ட நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT44\n"
+"string.text"
+msgid "Horizontal Violet"
+msgstr "கிடைமட்ட ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT45\n"
+"string.text"
+msgid "Radial"
+msgstr "ஆரைக்குரிய"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT46\n"
+"string.text"
+msgid "Radial Blue"
+msgstr "ஆரைக்குரிய நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT47\n"
+"string.text"
+msgid "Radial Green"
+msgstr "ஆரைக்குரிய பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT48\n"
+"string.text"
+msgid "Radial Orange"
+msgstr "ஆரைக்குரிய ஆரஞ்சு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT49\n"
+"string.text"
+msgid "Radial Red"
+msgstr "ஆரைக்குரிய சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT50\n"
+"string.text"
+msgid "Radial Turquoise"
+msgstr "ஆரைக்குரிய நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT51\n"
+"string.text"
+msgid "Radial Violet"
+msgstr "ஆரைக்குரிய ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT52\n"
+"string.text"
+msgid "Vertical"
+msgstr "செங்குத்து"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT53\n"
+"string.text"
+msgid "Vertical Blue"
+msgstr "செங்குத்து நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT54\n"
+"string.text"
+msgid "Vertical Green"
+msgstr "செங்குத்து பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT55\n"
+"string.text"
+msgid "Vertical Orange"
+msgstr "செங்குத்து செம்மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT56\n"
+"string.text"
+msgid "Vertical Red"
+msgstr "செங்குத்து சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT57\n"
+"string.text"
+msgid "Vertical Turquoise"
+msgstr "செங்குத்து நீலாம்பரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT58\n"
+"string.text"
+msgid "Vertical Violet"
+msgstr "செங்குத்து ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT59\n"
+"string.text"
+msgid "Gray Gradient"
+msgstr "சாம்பல் சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT60\n"
+"string.text"
+msgid "Yellow Gradient"
+msgstr "மஞ்சள் சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT61\n"
+"string.text"
+msgid "Orange Gradient"
+msgstr "ஆரஞ்சு சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT62\n"
+"string.text"
+msgid "Red Gradient"
+msgstr "சிவப்பு சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT63\n"
+"string.text"
+msgid "Pink Gradient"
+msgstr "இளஞ்சிவப்பு சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT64\n"
+"string.text"
+msgid "Sky"
+msgstr "வானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT65\n"
+"string.text"
+msgid "Cyan Gradient"
+msgstr "சியான் சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT66\n"
+"string.text"
+msgid "Blue Gradient"
+msgstr "நீல சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT67\n"
+"string.text"
+msgid "Purple Pipe"
+msgstr "பர்ப்பிள் கிரேடியன்ட்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT68\n"
+"string.text"
+msgid "Night"
+msgstr "இரவு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT69\n"
+"string.text"
+msgid "Green Gradient"
+msgstr "பச்சை சரிமானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT70\n"
+"string.text"
+msgid "Tango Green"
+msgstr "டேங்கோ பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT71\n"
+"string.text"
+msgid "Subtle Tango Green"
+msgstr "நுட்பமான டேங்கோ பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT72\n"
+"string.text"
+msgid "Tango Purple"
+msgstr "டேங்கோ ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT73\n"
+"string.text"
+msgid "Tango Red"
+msgstr "டேங்கோ சிவப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT74\n"
+"string.text"
+msgid "Tango Blue"
+msgstr "டேங்கோ நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT75\n"
+"string.text"
+msgid "Tango Yellow"
+msgstr "டேங்கோ மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT76\n"
+"string.text"
+msgid "Tango Orange"
+msgstr "டேங்கோ ஆரஞ்சு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT77\n"
+"string.text"
+msgid "Tango Gray"
+msgstr "டேங்கோ சாம்பல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT78\n"
+"string.text"
+msgid "Clay"
+msgstr "களிமண்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT79\n"
+"string.text"
+msgid "Olive Green"
+msgstr "ஆலிவ் பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT80\n"
+"string.text"
+msgid "Silver"
+msgstr "வெள்ளி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT81\n"
+"string.text"
+msgid "Sunburst"
+msgstr "சூரியரம்மியம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT82\n"
+"string.text"
+msgid "Brownie"
+msgstr "பழுப்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT83\n"
+"string.text"
+msgid "Sunset"
+msgstr "சூரியன் மறையும்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT84\n"
+"string.text"
+msgid "Deep Green"
+msgstr "ஆழ் பச்சை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT85\n"
+"string.text"
+msgid "Deep Orange"
+msgstr "ஆழ் ஆரஞ்சு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT86\n"
+"string.text"
+msgid "Deep Blue"
+msgstr "ஆழ் நீலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT87\n"
+"string.text"
+msgid "Purple Haze"
+msgstr "ஊதா மூட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH0\n"
+"string.text"
+msgid "Black 45 degrees wide"
+msgstr "கருப்பு 45 பாகை அகலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH1\n"
+"string.text"
+msgid "Black 45 degrees"
+msgstr "கருப்பு 45 பாகைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH2\n"
+"string.text"
+msgid "Black -45 degrees"
+msgstr "கருப்பு -45 பாகைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH3\n"
+"string.text"
+msgid "Black 90 degrees"
+msgstr "கருப்பு 90 பாகைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH4\n"
+"string.text"
+msgid "Red crossed 45 degrees"
+msgstr "சிவப்பு 45 பாகைகள் கடந்தது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH5\n"
+"string.text"
+msgid "Red crossed 0 degrees"
+msgstr "சிவ‌ப்பு 0 பாகைகள் கடந்தது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH6\n"
+"string.text"
+msgid "Blue crossed 45 degrees"
+msgstr "நீலம் 45 பாகைகள் கடந்தது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH7\n"
+"string.text"
+msgid "Blue crossed 0 degrees"
+msgstr "நீலம் 0 பாகைகள் கடந்தது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH8\n"
+"string.text"
+msgid "Blue triple 90 degrees"
+msgstr "நீலம் 90 பாகைகள் கடந்தது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH9\n"
+"string.text"
+msgid "Black 0 degrees"
+msgstr "கருப்பு 0 பாகைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH10\n"
+"string.text"
+msgid "Hatching"
+msgstr "குறுக்கு கோடுகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP0\n"
+"string.text"
+msgid "Blank"
+msgstr "வெற்றிடம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP1\n"
+"string.text"
+msgid "Sky"
+msgstr "வானம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP2\n"
+"string.text"
+msgid "Water"
+msgstr "நீர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP3\n"
+"string.text"
+msgid "Coarse grained"
+msgstr "முறுமுறுப்பான"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP4\n"
+"string.text"
+msgid "Mercury"
+msgstr "பாதரசம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP5\n"
+"string.text"
+msgid "Space"
+msgstr "விண்வெளி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP6\n"
+"string.text"
+msgid "Metal"
+msgstr "உலோகம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP7\n"
+"string.text"
+msgid "Droplets"
+msgstr "துளிகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP8\n"
+"string.text"
+msgid "Marble"
+msgstr "சலவைக் கல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP9\n"
+"string.text"
+msgid "Linen"
+msgstr "லினன்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP10\n"
+"string.text"
+msgid "Stone"
+msgstr "கல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP11\n"
+"string.text"
+msgid "Gravel"
+msgstr "கிரேவல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP12\n"
+"string.text"
+msgid "Wall"
+msgstr "சுவர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP13\n"
+"string.text"
+msgid "Brownstone"
+msgstr "பழுப்புக்கல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP14\n"
+"string.text"
+msgid "Netting"
+msgstr "வலையில் இடல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP15\n"
+"string.text"
+msgid "Leaves"
+msgstr "இலைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP16\n"
+"string.text"
+msgid "Artificial Turf"
+msgstr "செயற்கை புல்வெளி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP17\n"
+"string.text"
+msgid "Daisy"
+msgstr "டெய்சி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP18\n"
+"string.text"
+msgid "Orange"
+msgstr "செம்மஞ்சள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP19\n"
+"string.text"
+msgid "Fiery"
+msgstr "நெருப்பான"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP20\n"
+"string.text"
+msgid "Roses"
+msgstr "ரோசாக்கள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP21\n"
+"string.text"
+msgid "Bitmap"
+msgstr "பிட்டுப் படம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH0\n"
+"string.text"
+msgid "Ultrafine Dashed"
+msgstr "மிக மெல்லிய இடைவெளியிட்ட"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH1\n"
+"string.text"
+msgid "Fine Dashed"
+msgstr "மெல்லிய அடிக் கோடு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH2\n"
+"string.text"
+msgid "2 Dots 3 Dashes"
+msgstr "2 புள்ளிகள் 3 இடையிட்டகோடு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH3\n"
+"string.text"
+msgid "Fine Dotted"
+msgstr "நுண் புள்ளியிட்ட‌"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH4\n"
+"string.text"
+msgid "Line with Fine Dots"
+msgstr "நுண் புள்ளியிட்ட கோடு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH5\n"
+"string.text"
+msgid "Fine Dashed"
+msgstr "மென் கோடிட்ட"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH6\n"
+"string.text"
+msgid "3 Dashes 3 Dots"
+msgstr "3 கோடுகள் 3 புள்ளிகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH7\n"
+"string.text"
+msgid "Ultrafine Dotted"
+msgstr "மிக மெல்லிய புள்ளியிட்ட"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH8\n"
+"string.text"
+msgid "Line Style 9"
+msgstr "கோட்டுப் பாணி 9"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH9\n"
+"string.text"
+msgid "2 Dots 1 Dash"
+msgstr "2 புள்ளிகள் 1 இடையிட்டகோடு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH10\n"
+"string.text"
+msgid "Dashed"
+msgstr "கோடிட்ட"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH11\n"
+"string.text"
+msgid "Dashed"
+msgstr "கோடிட்ட"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH12\n"
+"string.text"
+msgid "Line Style"
+msgstr "கோட்டின் பாணி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND0\n"
+"string.text"
+msgid "Arrow concave"
+msgstr "குழிந்த அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND1\n"
+"string.text"
+msgid "Square 45"
+msgstr "சதுரம் 45"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND2\n"
+"string.text"
+msgid "Small arrow"
+msgstr "சிறு அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND3\n"
+"string.text"
+msgid "Dimension lines"
+msgstr "பரிமாண கோடுகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND4\n"
+"string.text"
+msgid "Double Arrow"
+msgstr "இரு அம்புக்குறி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND5\n"
+"string.text"
+msgid "Rounded short arrow"
+msgstr "உருட்டிய சிறிய அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND6\n"
+"string.text"
+msgid "Symmetric arrow"
+msgstr "சமச்சீரான அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND7\n"
+"string.text"
+msgid "Line arrow"
+msgstr "கோட்டு அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND8\n"
+"string.text"
+msgid "Rounded large arrow"
+msgstr "உருட்டிய பெரிய அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND9\n"
+"string.text"
+msgid "Circle"
+msgstr "வட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND10\n"
+"string.text"
+msgid "Square"
+msgstr "சதுரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND11\n"
+"string.text"
+msgid "Arrow"
+msgstr "அம்புக்குறி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND12\n"
+"string.text"
+msgid "Short line arrow"
+msgstr "சிறுகோட்டு அம்பு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND13\n"
+"string.text"
+msgid "Triangle unfilled"
+msgstr "நிரப்பாத முக்கோணம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND14\n"
+"string.text"
+msgid "Diamond unfilled"
+msgstr "நிரப்பாத டைமன்ட்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND15\n"
+"string.text"
+msgid "Diamond"
+msgstr "வைரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND16\n"
+"string.text"
+msgid "Circle unfilled"
+msgstr "நிரப்பாத வட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND17\n"
+"string.text"
+msgid "Square 45 unfilled"
+msgstr "நிரப்பாத சதுரம் 45"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND18\n"
+"string.text"
+msgid "Square unfilled"
+msgstr "நிரப்பாத சதுரம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND19\n"
+"string.text"
+msgid "Half circle unfilled"
+msgstr "நிரப்பாத அரை வட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND20\n"
+"string.text"
+msgid "Arrowhead"
+msgstr "அம்புத்தலைகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TRASNGR0\n"
+"string.text"
+msgid "Transparency"
+msgstr "ஊடுருவல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Millimeter\n"
+"itemlist.text"
+msgid "Millimeter"
+msgstr "மில்லிமீட்டர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Centimeter\n"
+"itemlist.text"
+msgid "Centimeter"
+msgstr "சென்டிமீட்டர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Meter\n"
+"itemlist.text"
+msgid "Meter"
+msgstr "மீட்டர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Kilometer\n"
+"itemlist.text"
+msgid "Kilometer"
+msgstr "கிலோமீட்டர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Inch\n"
+"itemlist.text"
+msgid "Inch"
+msgstr "அங்குலம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Foot\n"
+"itemlist.text"
+msgid "Foot"
+msgstr "அடி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Miles\n"
+"itemlist.text"
+msgid "Miles"
+msgstr "மைல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Pica\n"
+"itemlist.text"
+msgid "Pica"
+msgstr "பிக்கா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Point\n"
+"itemlist.text"
+msgid "Point"
+msgstr "புள்ளி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Char\n"
+"itemlist.text"
+msgid "Char"
+msgstr "எழுத்துக்குறி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Line\n"
+"itemlist.text"
+msgid "Line"
+msgstr "வரி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_USER\n"
+"string.text"
+msgid "User"
+msgstr "பயனர்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_GREEN_1\n"
+"string.text"
+msgid "Green 1 (%PRODUCTNAME Main Color)"
+msgstr "பச்சை 1 (%PRODUCTNAME முக்கிய நிறம்)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_GREEN_ACCENT\n"
+"string.text"
+msgid "Green Accent"
+msgstr "பச்சை அழுத்தம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_BLUE_ACCENT\n"
+"string.text"
+msgid "Blue Accent"
+msgstr "நீல அழுத்தம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_ORANGE_ACCENT\n"
+"string.text"
+msgid "Orange Accent"
+msgstr "ஆரஞ்சு அழுத்தம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_PURPLE\n"
+"string.text"
+msgid "Purple"
+msgstr "ஊதா"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_PURPLE_ACCENT\n"
+"string.text"
+msgid "Purple Accent"
+msgstr "ஊதா அழுத்தம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_YELLOW_ACCENT\n"
+"string.text"
+msgid "Yellow Accent"
+msgstr "மஞ்சள் அழுத்தம்"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_BUTTER\n"
+"string.text"
+msgid "Tango: Butter"
+msgstr "தேங்கோ: வெண்ணெய்"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_ORANGE\n"
+"string.text"
+msgid "Tango: Orange"
+msgstr "தேங்கோ: ஆரஞ்சு"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_CHOCOLATE\n"
+"string.text"
+msgid "Tango: Chocolate"
+msgstr "தேங்கோ: பழுப்பு"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_CHAMELEON\n"
+"string.text"
+msgid "Tango: Chameleon"
+msgstr "தேங்கோ: பச்சோந்தி"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_SKY_BLUE\n"
+"string.text"
+msgid "Tango: Sky Blue"
+msgstr "வான்நீலம்"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_PLUM\n"
+"string.text"
+msgid "Tango: Plum"
+msgstr "தேங்கோ: பிளம் சிவப்பு"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_SCARLET_RED\n"
+"string.text"
+msgid "Tango: Scarlet Red"
+msgstr "தேங்கோ: நல்ல சிவப்பு"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_ALUMINIUM\n"
+"string.text"
+msgid "Tango: Aluminium"
+msgstr "தேங்கோ: அலுமினியம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERYPROPS_GALTHEME\n"
+"string.text"
+msgid "Gallery Theme"
+msgstr "காட்சியக தோற்றக்கரு"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERY_THEMEITEMS\n"
+"string.text"
+msgid "Theme Items"
+msgstr "தோற்றக்கரு உருப்படிகள்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERY_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "முன்னோட்டம்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr "வடிகட்டி"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_VIEW\n"
+"string.text"
+msgid "List"
+msgstr "பட்டியல்"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SUCCESSRECOV\n"
+"string.text"
+msgid "Successfully recovered"
+msgstr "வெற்றிகரமாக மீட்கப்பட்டது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_ORIGDOCRECOV\n"
+"string.text"
+msgid "Original document recovered"
+msgstr "அசல் ஆவணம் மீட்கப்பட்டது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVFAILED\n"
+"string.text"
+msgid "Recovery failed"
+msgstr "மீட்பு தோல்வியுற்றது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVINPROGR\n"
+"string.text"
+msgid "Recovery in progress"
+msgstr "மீட்பு நடந்துகொண்டிருக்கிறது"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NOTRECOVYET\n"
+"string.text"
+msgid "Not recovered yet"
+msgstr "இன்னும் மிட்கப்படவில்லை"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVERY_INPROGRESS\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending on the size of the documents this process can take some time."
+msgstr "%PRODUCTNAME %PRODUCTVERSION உங்கள் ஆவணத்தை மீட்கத் தொடங்கும். ஆவண அளவினைப் பொறுத்து, இச்செயல்பாடு எடுத்துக்கொள்ளும் நேரம் அமையும்."
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVERYONLY_FINISH_DESCR\n"
+"string.text"
+msgid ""
+"Recovery of your documents was finished.\n"
+"Click 'Finish' to see your documents."
+msgstr ""
+"உங்கள் ஆவணங்களின் மீட்பு நிறைவுற்றது.\n"
+"ஆவணங்களைக் காண 'முடிவு' ஐச் சொடுக்குக."
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVERYONLY_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "முடிவு"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_STYLES\n"
+"string.text"
+msgid "Including Styles"
+msgstr "பாணிகளைச் சேர்த்து"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_WRITER_STYLES\n"
+"string.text"
+msgid "Search for Paragraph St~yles"
+msgstr "பத்தி பாணிகளைத் தேடு"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_CALC_STYLES\n"
+"string.text"
+msgid "Search for Cell St~yles"
+msgstr "கலப் பாணிகளைத் தேடு"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH\n"
+"string.text"
+msgid "(Search)"
+msgstr "(தேடு)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_REPLACE\n"
+"string.text"
+msgid "(Replace)"
+msgstr "(மாற்றிவை)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_END\n"
+"string.text"
+msgid "Reached the end of the document"
+msgstr "கடைசிப்பகுதியை அடைந்துவிட்டீர்கள்"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_END_SHEET\n"
+"string.text"
+msgid "Reached the end of the sheet"
+msgstr "தாளின் கடைசிப் பகுதியை அடைந்துவிட்டீர்கள்"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_NOT_FOUND\n"
+"string.text"
+msgid "Search key not found"
+msgstr "தேடல் சாவியைக் காணவில்லை"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_0\n"
+"string.text"
+msgid "Solid small circular bullets"
+msgstr "திட சிறு வட்ட பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_1\n"
+"string.text"
+msgid "Solid large circular bullets"
+msgstr "திட பெரிய வட்ட பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_2\n"
+"string.text"
+msgid "Solid diamond bullets"
+msgstr "திட சாய்சதுர பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_3\n"
+"string.text"
+msgid "Solid large square bullets"
+msgstr "திட பெரிய சதுர பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_4\n"
+"string.text"
+msgid "Right pointing arrow bullets filled out"
+msgstr "வலம்சுட்டும் நிரப்பிய அம்புப் பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_5\n"
+"string.text"
+msgid "Right pointing arrow bullets"
+msgstr "வலம்சுட்டும் அம்புப் பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_6\n"
+"string.text"
+msgid "Check mark bullets"
+msgstr "தேர்வுக் குறி பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_7\n"
+"string.text"
+msgid "Tick mark bullets"
+msgstr "சரி குறி பொட்டுகள்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_0\n"
+"string.text"
+msgid "Number 1) 2) 3)"
+msgstr "எண் 1) 2) 3)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_1\n"
+"string.text"
+msgid "Number 1. 2. 3."
+msgstr "எண் 1. 2. 3."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_2\n"
+"string.text"
+msgid "Number (1) (2) (3)"
+msgstr "எண் (1) (2) (3)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_3\n"
+"string.text"
+msgid "Uppercase Roman number I. II. III."
+msgstr "பெரிய வகை ரோமன் எண் I. II. III."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_4\n"
+"string.text"
+msgid "Uppercase letter A) B) C)"
+msgstr "பெரிய வகை எழுத்து A) B) C)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_5\n"
+"string.text"
+msgid "Lowercase letter a) b) c)"
+msgstr "சிறிய‌ வகை எழுத்து a) b) c)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_6\n"
+"string.text"
+msgid "Lowercase letter (a) (b) (c)"
+msgstr "சிறிய‌ வகை எழுத்து (a) (b) (c)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_7\n"
+"string.text"
+msgid "Lowercase Roman number i. ii. iii."
+msgstr "சிறிய வகை ரோமன் எண் i. ii. iii."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_0\n"
+"string.text"
+msgid "Numeric, numeric, lowercase letters, solid small circular bullet"
+msgstr "எண், எண், சிறிய வகை எழுத்துகள், திட சிறு வட்ட பொட்டு"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_1\n"
+"string.text"
+msgid "Numeric, lowercase letters, solid small circular bullet"
+msgstr "எண், சிறிய வகை எழுத்துக்கள், திட சிறிய வட்ட பொட்டு"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_2\n"
+"string.text"
+msgid "Numeric, lowercase letters, lowercase Roman, uppercase letters, solid small circular bullet"
+msgstr "எண், சிறுவகை எழுத்துகள், சிறுவகை ரோமன், பெரிய வகை எழுத்துகள், திட சிறு வட்ட பொட்டு"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_3\n"
+"string.text"
+msgid "Numeric"
+msgstr "எண்ம"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_4\n"
+"string.text"
+msgid "Uppercase Roman, uppercase letters, lowercase Roman, lowercase letters, solid small circular bullet"
+msgstr "பெரிய வகை ரோமன், பெரிய வகை எழுத்துகள், சிறுவகை ரோமன், சிறுவகை எழுத்துகள், திட சிறு வட்ட பொட்டு"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_5\n"
+"string.text"
+msgid "Uppercase letters, uppercase Roman, lowercase letters, lowercase Roman, solid small circular bullet"
+msgstr "பெரிய வகை எழுத்துகள், பெரிய வகை ரோமன், சிறுவகை எழுத்துகள், சிறுவகை ரோமன், திட சிறு வட்ட பொட்டு"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_6\n"
+"string.text"
+msgid "Numeric with all sublevels"
+msgstr "அனைத்து துணைமட்டகளுடைய எண்"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_7\n"
+"string.text"
+msgid "Right pointing bullet, right pointing arrow bullet, solid diamond bullet, solid small circular bullet"
+msgstr "வலம்சுட்டும் பொட்டு, வலம்சுட்டும் அம்புப் பொட்டு, திட சாய்சதுர பொட்டு, திட சிறு வட்ட பொட்டு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "இடது"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_LEFT\n"
+"string.text"
+msgid "Inside"
+msgstr "உள்ளே"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "வலது"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_RIGHT\n"
+"string.text"
+msgid "Outside"
+msgstr "வெளிப்பக்கம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_CENTER_VERT\n"
+"string.text"
+msgid "Center"
+msgstr "மையம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMLEFT\n"
+"string.text"
+msgid "From left"
+msgstr "இடமிருந்து"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_FROMLEFT\n"
+"string.text"
+msgid "From inside"
+msgstr "உள்ளே இருந்து"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FRAME\n"
+"string.text"
+msgid "Paragraph area"
+msgstr "பத்திப்பரப்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_PRTAREA\n"
+"string.text"
+msgid "Paragraph text area"
+msgstr "பத்தி உரை பகுதி"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_LEFT\n"
+"string.text"
+msgid "Left page border"
+msgstr "இடது பக்க விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_PG_LEFT\n"
+"string.text"
+msgid "Inner page border"
+msgstr "உள் பக்க விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Right page border"
+msgstr "வலதுபக்க விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Outer page border"
+msgstr "வெளிப்பக்க விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_LEFT\n"
+"string.text"
+msgid "Left paragraph border"
+msgstr "பத்தியின் இடது விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_FRM_LEFT\n"
+"string.text"
+msgid "Inner paragraph border"
+msgstr "உள்பத்தியின் விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_RIGHT\n"
+"string.text"
+msgid "Right paragraph border"
+msgstr "பத்தியின் வலது ஓரம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_FRM_RIGHT\n"
+"string.text"
+msgid "Outer paragraph border"
+msgstr "பத்தியின் வொளி விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_FRAME\n"
+"string.text"
+msgid "Entire page"
+msgstr "முழுப்பக்கம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_PRTAREA\n"
+"string.text"
+msgid "Page text area"
+msgstr "பக்க உரை இடம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_TOP\n"
+"string.text"
+msgid "Top"
+msgstr "மேல்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_BOTTOM\n"
+"string.text"
+msgid "Bottom"
+msgstr "கீழ்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_CENTER_HORI\n"
+"string.text"
+msgid "Center"
+msgstr "மையம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMTOP\n"
+"string.text"
+msgid "From top"
+msgstr "மேலிருந்து"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMBOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "அடியிலிருந்து"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_BELOW\n"
+"string.text"
+msgid "Below"
+msgstr "கீழ்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMRIGHT\n"
+"string.text"
+msgid "From right"
+msgstr "வலமிருந்து"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_TOP\n"
+"string.text"
+msgid "Top page border"
+msgstr "மேல் பக்க விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_BOTTOM\n"
+"string.text"
+msgid "Bottom page border"
+msgstr "கீழ் பக்க விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_TOP\n"
+"string.text"
+msgid "Top paragraph border"
+msgstr "மேல் பத்தி விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_BOTTOM\n"
+"string.text"
+msgid "Bottom paragraph border"
+msgstr "கீழ் பத்தி விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_BORDER\n"
+"string.text"
+msgid "Margin"
+msgstr "ஓரம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PRTAREA\n"
+"string.text"
+msgid "Paragraph text area"
+msgstr "பத்தி உரை பகுதி"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_LEFT\n"
+"string.text"
+msgid "Left frame border"
+msgstr "இடது சட்டவிளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_MIR_REL_PG_LEFT\n"
+"string.text"
+msgid "Inner frame border"
+msgstr "உள் சட்ட விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_RIGHT\n"
+"string.text"
+msgid "Right frame border"
+msgstr "வலது ஓர விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_MIR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Outer frame border"
+msgstr "வெளி சட்ட விளிம்பு"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_FRAME\n"
+"string.text"
+msgid "Entire frame"
+msgstr "முழுச்சட்டம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_PRTAREA\n"
+"string.text"
+msgid "Frame text area"
+msgstr "சட்டக உரையிடம்"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_BASE\n"
+"string.text"
+msgid "Base line"
+msgstr "அடி வரி"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_CHAR\n"
+"string.text"
+msgid "Character"
+msgstr "எழுத்து"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_ROW\n"
+"string.text"
+msgid "Row"
+msgstr "வரிசை"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_LINE\n"
+"string.text"
+msgid "Line of text"
+msgstr "உரை வரி"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1252\n"
+"pairedlist.text"
+msgid "Western Europe (Windows-1252/WinLatin 1)"
+msgstr "மேற்கு ஐரோப்பா (Windows-1252/WinLatin 1)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ROMAN\n"
+"pairedlist.text"
+msgid "Western Europe (Apple Macintosh)"
+msgstr "மேற்கு ஐரோப்பா (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_850\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-850/International)"
+msgstr "மேற்கு ஐரோப்பா (DOS/OS2-850/International)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_437\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-437/US)"
+msgstr "மேற்கு ஐரோப்பா (DOS/OS2-437/US)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_860\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-860/Portuguese)"
+msgstr "மேற்கு ஐரோப்பா (DOS/OS2-860/Portuguese)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_861\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-861/Icelandic)"
+msgstr "மேற்கு ஐரோப்பா (DOS/OS2-861/Icelandic)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_863\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-863/French (Can.))"
+msgstr "மேற்கு ஐரோப்பா (DOS/OS2-863/French (Can.))"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_865\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-865/Nordic)"
+msgstr "மேற்கு ஐரோப்பா (DOS/OS2-865/Nordic)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ASCII_US\n"
+"pairedlist.text"
+msgid "Western Europe (ASCII/US)"
+msgstr "மேற்கு ஐரோப்பா (ASCII/US)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_1\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-1)"
+msgstr "மேற்கு ஐரோப்பா (ISO-8859-1)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_2\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-2)"
+msgstr "கிழக்கு ஐரோப்பா (ISO-8859-2)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_3\n"
+"pairedlist.text"
+msgid "Latin 3 (ISO-8859-3)"
+msgstr "இலத்தின் 3 (ISO-8859-3)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_4\n"
+"pairedlist.text"
+msgid "Baltic (ISO-8859-4)"
+msgstr "பால்டிக்கு (ISO-8859-4)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_5\n"
+"pairedlist.text"
+msgid "Cyrillic (ISO-8859-5)"
+msgstr "சிரிலிக் (ISO-8859-5)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_6\n"
+"pairedlist.text"
+msgid "Arabic (ISO-8859-6)"
+msgstr "அரபு (ISO-8859-6)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_7\n"
+"pairedlist.text"
+msgid "Greek (ISO-8859-7)"
+msgstr "கிரேக்க (ISO-8859-7)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_8\n"
+"pairedlist.text"
+msgid "Hebrew (ISO-8859-8)"
+msgstr "இப்ரூ (ISO-8859-8)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_9\n"
+"pairedlist.text"
+msgid "Turkish (ISO-8859-9)"
+msgstr "துருக்கிய (ISO-8859-9)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_14\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-14)"
+msgstr "மேற்கு ஐரோப்பா (ISO-8859-14)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_15\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-15/EURO)"
+msgstr "மேற்கு ஐரோப்பா (ISO-8859-15/EURO)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_737\n"
+"pairedlist.text"
+msgid "Greek (DOS/OS2-737)"
+msgstr "கிரேக்க (DOS/OS2-737)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_775\n"
+"pairedlist.text"
+msgid "Baltic (DOS/OS2-775)"
+msgstr "பால்டிக் (DOS/OS2-775)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_852\n"
+"pairedlist.text"
+msgid "Eastern Europe (DOS/OS2-852)"
+msgstr "கிழக்கு ஐரோப்பா (DOS/OS2-852)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_855\n"
+"pairedlist.text"
+msgid "Cyrillic (DOS/OS2-855)"
+msgstr "சிரிலிக் (DOS/OS2-855)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_857\n"
+"pairedlist.text"
+msgid "Turkish (DOS/OS2-857)"
+msgstr "துருக்கிய (DOS/OS2-857)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_862\n"
+"pairedlist.text"
+msgid "Hebrew (DOS/OS2-862)"
+msgstr "இப்ரூ (DOS/OS2-862)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_864\n"
+"pairedlist.text"
+msgid "Arabic (DOS/OS2-864)"
+msgstr "அரபு (DOS/OS2-864)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_866\n"
+"pairedlist.text"
+msgid "Cyrillic (DOS/OS2-866/Russian)"
+msgstr "சிரிலிக் (DOS/OS2-866/Russian)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_869\n"
+"pairedlist.text"
+msgid "Greek (DOS/OS2-869/Modern)"
+msgstr "கிரேக்க (DOS/OS2-869/Modern)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1250\n"
+"pairedlist.text"
+msgid "Eastern Europe (Windows-1250/WinLatin 2)"
+msgstr "கிழக்கு ஐரோப்பிய (Windows-1250/WinLatin 2)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1251\n"
+"pairedlist.text"
+msgid "Cyrillic (Windows-1251)"
+msgstr "சிரிலிக் (Windows-1251)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1253\n"
+"pairedlist.text"
+msgid "Greek (Windows-1253)"
+msgstr "கிரேக்க (Windows-1253)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1254\n"
+"pairedlist.text"
+msgid "Turkish (Windows-1254)"
+msgstr "துரிக்கிய (Windows-1254)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1255\n"
+"pairedlist.text"
+msgid "Hebrew (Windows-1255)"
+msgstr "இப்ரூ (Windows-1255)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1256\n"
+"pairedlist.text"
+msgid "Arabic (Windows-1256)"
+msgstr "அரபு (Windows-1256)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1257\n"
+"pairedlist.text"
+msgid "Baltic (Windows-1257)"
+msgstr "பால்டிக் (Windows-1257)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1258\n"
+"pairedlist.text"
+msgid "Vietnamese (Windows-1258)"
+msgstr "வியட்நாமிய (Windows-1258)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CENTEURO\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh)"
+msgstr "கிழக்கு ஐரோப்பிய (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CROATIAN\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh/Croatian)"
+msgstr "கிழக்கு ஐரோப்பிய (ஆப்பிள் மெகிண்டோஷ்/குரோஷிய)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CYRILLIC\n"
+"pairedlist.text"
+msgid "Cyrillic (Apple Macintosh)"
+msgstr "சிரிலிக் (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_GREEK\n"
+"pairedlist.text"
+msgid "Greek (Apple Macintosh)"
+msgstr "கிரேக்கம் (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ICELAND\n"
+"pairedlist.text"
+msgid "Western Europe (Apple Macintosh/Icelandic)"
+msgstr "மேற்கு ஐரோப்பிய (ஆப்பிள் மெகிண்டோஷ்/ஐஸ்லாந்திய)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ROMANIAN\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh/Romanian)"
+msgstr "கிழக்கு ஐரோப்பியா (Apple Macintosh/ரோமானியன்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_TURKISH\n"
+"pairedlist.text"
+msgid "Turkish (Apple Macintosh)"
+msgstr "துருக்கிய (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_UKRAINIAN\n"
+"pairedlist.text"
+msgid "Cyrillic (Apple Macintosh/Ukrainian)"
+msgstr "சிரிலிக் (ஆப்பிள் மெகிண்டோஷ்/உக்ரேனிய)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CHINSIMP\n"
+"pairedlist.text"
+msgid "Chinese simplified (Apple Macintosh)"
+msgstr "எழிய சீனம் (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CHINTRAD\n"
+"pairedlist.text"
+msgid "Chinese traditional (Apple Macintosh)"
+msgstr "பாரம்பரிய சீனம் (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_JAPANESE\n"
+"pairedlist.text"
+msgid "Japanese (Apple Macintosh)"
+msgstr "ஜப்பானிய (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_KOREAN\n"
+"pairedlist.text"
+msgid "Korean (Apple Macintosh)"
+msgstr "கொரிய (ஆப்பிள் மெகிண்டோஷ்)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_932\n"
+"pairedlist.text"
+msgid "Japanese (Windows-932)"
+msgstr "ஜப்பானிய (விண்டோஸ்--932)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_936\n"
+"pairedlist.text"
+msgid "Chinese simplified (Windows-936)"
+msgstr "எளிய சீனம் (விண்டோஸ்--936)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_949\n"
+"pairedlist.text"
+msgid "Korean (Windows-949)"
+msgstr "கொரிய (விண்டோஸ்--949)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_950\n"
+"pairedlist.text"
+msgid "Chinese traditional (Windows-950)"
+msgstr "பாரம்பரிய சீனம் (விண்டோஸ்--950)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_SHIFT_JIS\n"
+"pairedlist.text"
+msgid "Japanese (Shift-JIS)"
+msgstr "ஜப்பானிய (Shift-JIS)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GB_2312\n"
+"pairedlist.text"
+msgid "Chinese simplified (GB-2312)"
+msgstr "எளிய சீனம் (GB-2312)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GB_18030\n"
+"pairedlist.text"
+msgid "Chinese simplified (GB-18030)"
+msgstr "எளிய சீனம் (GB-18030)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GBT_12345\n"
+"pairedlist.text"
+msgid "Chinese traditional (GBT-12345)"
+msgstr "பாரம்பரிய சீனம் (GBT-12345)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GBK\n"
+"pairedlist.text"
+msgid "Chinese simplified (GBK/GB-2312-80)"
+msgstr "எளிய சீனம் (GBK/GB-2312-80)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_BIG5\n"
+"pairedlist.text"
+msgid "Chinese traditional (Big5)"
+msgstr "பாரம்பரிய சீனம் (பெரிய5)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_BIG5_HKSCS\n"
+"pairedlist.text"
+msgid "Chinese traditional (BIG5-HKSCS)"
+msgstr "பாரம்பரிய சீனம் (BIG5-HKSCS)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_JP\n"
+"pairedlist.text"
+msgid "Japanese (EUC-JP)"
+msgstr "ஜப்பானிய (EUC-JP)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_CN\n"
+"pairedlist.text"
+msgid "Chinese simplified (EUC-CN)"
+msgstr "எளிய சீனம் (EUC-CN)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_TW\n"
+"pairedlist.text"
+msgid "Chinese traditional (EUC-TW)"
+msgstr "பாரம்பரிய சீனம் (EUC-TW)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_JP\n"
+"pairedlist.text"
+msgid "Japanese (ISO-2022-JP)"
+msgstr "ஜப்பானிய (ISO-2022-JP)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_CN\n"
+"pairedlist.text"
+msgid "Chinese simplified (ISO-2022-CN)"
+msgstr "எளிய சீனம் (ISO-2022-CN)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_KOI8_R\n"
+"pairedlist.text"
+msgid "Cyrillic (KOI8-R)"
+msgstr "சிரிலிக் (KOI8-R)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UTF7\n"
+"pairedlist.text"
+msgid "Unicode (UTF-7)"
+msgstr "ஒருங்குறி (UTF-7)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UTF8\n"
+"pairedlist.text"
+msgid "Unicode (UTF-8)"
+msgstr "ஒருங்குறி (UTF-8)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_10\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-10)"
+msgstr "கிழக்கு ஐரோப்பா (ISO-8859-10)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_13\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-13)"
+msgstr "கிழக்கு ஐரோப்பா (ISO-8859-13)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_KR\n"
+"pairedlist.text"
+msgid "Korean (EUC-KR)"
+msgstr "கொரிய (EUC-KR)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_KR\n"
+"pairedlist.text"
+msgid "Korean (ISO-2022-KR)"
+msgstr "கொரிய (ISO-2022-KR)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1361\n"
+"pairedlist.text"
+msgid "Korean (Windows-Johab-1361)"
+msgstr "கொரிய (Windows-Johab-1361)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UCS2\n"
+"pairedlist.text"
+msgid "Unicode (UTF-16)"
+msgstr "ஒருங்குறி (UTF-16)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_TIS_620\n"
+"pairedlist.text"
+msgid "Thai (ISO-8859-11/TIS-620)"
+msgstr "தாய் (ISO-8859-11/TIS-620)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_874\n"
+"pairedlist.text"
+msgid "Thai (Windows-874)"
+msgstr "தாய் (Windows-874)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_KOI8_U\n"
+"pairedlist.text"
+msgid "Cyrillic (KOI8-U)"
+msgstr "சிரிலிக் (KOI8-U)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_PT154\n"
+"pairedlist.text"
+msgid "Cyrillic (PT154)"
+msgstr "சிரிலிக் (PT154)"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_LATIN\n"
+"string.text"
+msgid "Basic Latin"
+msgstr "அடிப்படை இலத்தீன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_1\n"
+"string.text"
+msgid "Latin-1"
+msgstr "இலத்தீன்-1"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_A\n"
+"string.text"
+msgid "Latin Extended-A"
+msgstr "இலத்தீன் விரிவானது-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_B\n"
+"string.text"
+msgid "Latin Extended-B"
+msgstr "இலத்தீன் விரிவானது-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IPA_EXTENSIONS\n"
+"string.text"
+msgid "IPA Extensions"
+msgstr "IPA விரிவுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SPACING_MODIFIERS\n"
+"string.text"
+msgid "Spacing Modifier Letters"
+msgstr "இடைவெளி மாற்ற எழுத்துக்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMB_DIACRITICAL\n"
+"string.text"
+msgid "Combining Diacritical Marks"
+msgstr "இருஎழுத்துக் குறிகளை இணைத்தல்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_GREEK\n"
+"string.text"
+msgid "Basic Greek"
+msgstr "அடிப்படை கிரேக்கம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GREEK_SYMS_COPTIC\n"
+"string.text"
+msgid "Greek Symbols And Coptic"
+msgstr "கிரேக்கக் சின்னங்களும், காப்டிக்மொழியும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC\n"
+"string.text"
+msgid "Cyrillic"
+msgstr "சிரிலிக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARMENIAN\n"
+"string.text"
+msgid "Armenian"
+msgstr "ஆர்மீனியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_HEBREW\n"
+"string.text"
+msgid "Basic Hebrew"
+msgstr "அடிப்படை இப்ரூ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HEBREW_EXTENDED\n"
+"string.text"
+msgid "Hebrew Extended"
+msgstr "இப்ரூ நீட்டித்தது"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_ARABIC\n"
+"string.text"
+msgid "Basic Arabic"
+msgstr "அடிப்படை அரபு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_EXTENDED\n"
+"string.text"
+msgid "Arabic Extended"
+msgstr "அரபு நீட்டித்தது"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DEVANAGARI\n"
+"string.text"
+msgid "Devanagari"
+msgstr "தேவநாகரி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BENGALI\n"
+"string.text"
+msgid "Bengali"
+msgstr "வங்காளம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GURMUKHI\n"
+"string.text"
+msgid "Gurmukhi"
+msgstr "குருமுகி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GUJARATI\n"
+"string.text"
+msgid "Gujarati"
+msgstr "குஜராத்தி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ODIA\n"
+"string.text"
+msgid "Odia"
+msgstr "ஒடியா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAMIL\n"
+"string.text"
+msgid "Tamil"
+msgstr "தமிழ்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TELUGU\n"
+"string.text"
+msgid "Telugu"
+msgstr "தெலுங்கு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANNADA\n"
+"string.text"
+msgid "Kannada"
+msgstr "கன்னடம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MALAYALAM\n"
+"string.text"
+msgid "Malayalam"
+msgstr "மலையாளம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_THAI\n"
+"string.text"
+msgid "Thai"
+msgstr "தாய்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LAO\n"
+"string.text"
+msgid "Lao"
+msgstr "லாவோ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_GEORGIAN\n"
+"string.text"
+msgid "Basic Georgian"
+msgstr "அடிப்படை சியார்சியம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEORGIAN_EXTENDED\n"
+"string.text"
+msgid "Georgian Extended"
+msgstr "சியார்சியம் நீட்டித்தது"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO\n"
+"string.text"
+msgid "Hangul Jamo"
+msgstr "ஹாங்குல் ஜாமோ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_ADDS\n"
+"string.text"
+msgid "Latin Extended Additionals"
+msgstr "இலத்தீன் நீட்டித்த சேர்ப்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GREEK_EXTENDED\n"
+"string.text"
+msgid "Greek Extended"
+msgstr "கிரேக்கம் விரிவுபடுத்தப்பட்டது"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GENERAL_PUNCTUATION\n"
+"string.text"
+msgid "General punctuation"
+msgstr "பொதுவான சந்திப்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUB_SUPER_SCRIPTS\n"
+"string.text"
+msgid "Superscripts and Subscripts"
+msgstr "மேலெழுத்துகளும் கீழெழுத்துகளும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CURRENCY_SYMBOLS\n"
+"string.text"
+msgid "Currency Symbols"
+msgstr "நாணயச் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMB_DIACRITIC_SYMS\n"
+"string.text"
+msgid "Combining Diacritical Symbols"
+msgstr "இருகோட்டுச் சின்னங்கள ஒன்று சேர்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LETTERLIKE_SYMBOLS\n"
+"string.text"
+msgid "Letterlike Symbols"
+msgstr "எழுத்துபோன்ற சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NUMBER_FORMS\n"
+"string.text"
+msgid "Number Forms"
+msgstr "எண் படிவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "அம்புக்குறிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MATH_OPERATORS\n"
+"string.text"
+msgid "Mathematical Operators"
+msgstr "கணித இயக்கிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_TECHNICAL\n"
+"string.text"
+msgid "Miscellaneous Technical"
+msgstr "மற்றைய தொழில்நுட்பம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CONTROL_PICTURES\n"
+"string.text"
+msgid "Control Pictures"
+msgstr "கட்டுப்பாட்டு படங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OPTICAL_CHAR_REC\n"
+"string.text"
+msgid "Optical Character Recognition"
+msgstr "ஒளி எழுத்து அடையாளங் காணல்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_ALPHANUM\n"
+"string.text"
+msgid "Enclosed Alphanumerics"
+msgstr "எண்ணெழுத்துக்கள் அடைபட்டுள்ளன"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOX_DRAWING\n"
+"string.text"
+msgid "Box Drawing"
+msgstr "வரைப்படப் பெட்டி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BLOCK_ELEMENTS\n"
+"string.text"
+msgid "Block Elements"
+msgstr "தொகுதி உறுப்புக்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEOMETRIC_SHAPES\n"
+"string.text"
+msgid "Geometric Shapes"
+msgstr "கணித உருவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_DINGBATS\n"
+"string.text"
+msgid "Miscellaneous Symbols"
+msgstr "பல்வகை சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DINGBATS\n"
+"string.text"
+msgid "Dingbats"
+msgstr "டிங்பேட்டுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_SYMS_PUNCTUATION\n"
+"string.text"
+msgid "CJK Symbols And Punctuation"
+msgstr "CJK சின்னங்களும் நிறுத்தக் குறிகளும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HIRAGANA\n"
+"string.text"
+msgid "Hiragana"
+msgstr "ஹிராகானா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KATAKANA\n"
+"string.text"
+msgid "Katakana"
+msgstr "கடகானா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOPOMOFO\n"
+"string.text"
+msgid "Bopomofo"
+msgstr "போபொமொபா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_COMPAT_JAMO\n"
+"string.text"
+msgid "Hangul Compatibility Jamo"
+msgstr "அங்குல் ஒவ்வுமை ஜமொ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_MISC\n"
+"string.text"
+msgid "CJK Miscellaneous"
+msgstr "CJK மற்றவை"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_CJK_LETTERS\n"
+"string.text"
+msgid "Enclosed CJK Letters And Months"
+msgstr "இணைக்கப்பட்ட CJK எழுத்துக்கள் மற்றும் மாதங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPATIBILITY\n"
+"string.text"
+msgid "CJK Compatibility"
+msgstr "CJK ஒத்திசைவு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "அங்குல்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDGRAPH\n"
+"string.text"
+msgid "CJK Unified Ideographs"
+msgstr "CJK ஒன்றிணைந்த குறியீடுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_EXT_A_UNIFIED_IDGRAPH\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension A"
+msgstr "CJK ஒன்றிணைந்த குறியீட்டு நீட்சி A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PRIVATE_USE_AREA\n"
+"string.text"
+msgid "Private Use Area"
+msgstr "தனிப்பட்ட பயன்பாட்டுப் பகுதி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPAT_IDGRAPHS\n"
+"string.text"
+msgid "CJK Compatibility Ideographs"
+msgstr "CJK ஒத்திசைவு இடியோகிராபுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ALPHA_PRESENTATION\n"
+"string.text"
+msgid "Alphabetic Presentation Forms"
+msgstr "எழுத்துவரிசை வழங்கல்காட்சி படிவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_PRESENT_A\n"
+"string.text"
+msgid "Arabic Presentation Forms-A"
+msgstr "அரேபிக் வழங்கல்காட்சி படிவங்கள்-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMBINING_HALF_MARKS\n"
+"string.text"
+msgid "Combining Half Marks"
+msgstr "அரைக்குறிகளை இணைத்தல்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPAT_FORMS\n"
+"string.text"
+msgid "CJK Compatibility Forms"
+msgstr "CJK ஒத்திசைவு படிவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SMALL_FORM_VARIANTS\n"
+"string.text"
+msgid "Small Form Variants"
+msgstr "சிறு படிவ மாறிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_PRESENT_B\n"
+"string.text"
+msgid "Arabic Presentation Forms-B"
+msgstr "அரபு விளக்கக்காட்சி படிவங்கள்-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HALFW_FULLW_FORMS\n"
+"string.text"
+msgid "Half-width and Full-width Forms"
+msgstr "அரை அகலம் மற்றும் முழு அகலப் படிவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SPECIALS\n"
+"string.text"
+msgid "Specials"
+msgstr "சிறப்பெழுத்துக்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YI_SYLLABLES\n"
+"string.text"
+msgid "Yi Syllables"
+msgstr "Yi அசைகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YI_RADICALS\n"
+"string.text"
+msgid "Yi Radicals"
+msgstr "Yi ரேடிக்கல்ஸ்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_ITALIC\n"
+"string.text"
+msgid "Old Italic"
+msgstr "பழைய இத்தாலி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GOTHIC\n"
+"string.text"
+msgid "Gothic"
+msgstr "கோத்திக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DESERET\n"
+"string.text"
+msgid "Deseret"
+msgstr "பாலைவனம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BYZANTINE_MUSICAL_SYMBOLS\n"
+"string.text"
+msgid "Byzantine Musical Symbols"
+msgstr "பைசான்டைன் இசை சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MUSICAL_SYMBOLS\n"
+"string.text"
+msgid "Musical Symbols"
+msgstr "இசை சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MATHEMATICAL_ALPHANUMERIC_SYMBOLS\n"
+"string.text"
+msgid "Mathematical Alphanumeric Symbols"
+msgstr "கணித எண்ணெழுத்து சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_B\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension B"
+msgstr "CJK ஒன்றிணைந்த குறியீட்டு நீட்சி B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_C\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension C"
+msgstr "CJK ஒன்றிணைந்த குறியீட்டு நீட்சி C"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_D\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension D"
+msgstr "CJK ஒன்றிணைந்த குறியீட்டு நீட்சி D"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPATIBILITY_IDEOGRAPHS_SUPPLEMENT\n"
+"string.text"
+msgid "CJK Compatibility Ideographs Supplement"
+msgstr "CJK இணக்கமுள்ள எழுத்துக்கள் கூடுதல்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGS\n"
+"string.text"
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_SUPPLEMENTARY\n"
+"string.text"
+msgid "Cyrillic Supplement"
+msgstr "சிரிலிக் இணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VARIATION_SELECTORS\n"
+"string.text"
+msgid "Variation Selectors"
+msgstr "மாறுபாடுகள் தேர்வர்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTARY_PRIVATE_USE_AREA_A\n"
+"string.text"
+msgid "Supplementary Private Use Area-A"
+msgstr "சிறப்பு இணைப்பு தனிபயன்பாட்டு பகுதி-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTARY_PRIVATE_USE_AREA_B\n"
+"string.text"
+msgid "Supplementary Private Use Area-B"
+msgstr "சிறப்பு இணைப்பு தனிபயன்பாட்டு பகுதி-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LIMBU\n"
+"string.text"
+msgid "Limbu"
+msgstr "லிம்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_LE\n"
+"string.text"
+msgid "Tai Le"
+msgstr "தாய் லீ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHMER_SYMBOLS\n"
+"string.text"
+msgid "Khmer Symbols"
+msgstr "கேமெர் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHONETIC_EXTENSIONS\n"
+"string.text"
+msgid "Phonetic Extensions"
+msgstr "பேச்சொலி நீட்டிப்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISCELLANEOUS_SYMBOLS_AND_ARROWS\n"
+"string.text"
+msgid "Miscellaneous Symbols And Arrows"
+msgstr "இதர சின்னங்களும் அம்புகளும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YIJING_HEXAGRAM_SYMBOLS\n"
+"string.text"
+msgid "Yijing Hexagram Symbols"
+msgstr "யிஜிங் ஹெக்சாக்ராம் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LINEAR_B_SYLLABARY\n"
+"string.text"
+msgid "Linear B Syllabary"
+msgstr "நேர் B அசை"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LINEAR_B_IDEOGRAMS\n"
+"string.text"
+msgid "Linear B Ideograms"
+msgstr "நேர் B குறிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_AEGEAN_NUMBERS\n"
+"string.text"
+msgid "Aegean Numbers"
+msgstr "ஏஜியன் எண்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_UGARITIC\n"
+"string.text"
+msgid "Ugaritic"
+msgstr "யூகேரியாட்டிக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SHAVIAN\n"
+"string.text"
+msgid "Shavian"
+msgstr "ஷாவியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OSMANYA\n"
+"string.text"
+msgid "Osmanya"
+msgstr "ஒஸ்மான்யா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SINHALA\n"
+"string.text"
+msgid "Sinhala"
+msgstr "சிங்களம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TIBETAN\n"
+"string.text"
+msgid "Tibetan"
+msgstr "திபெத்தியம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MYANMAR\n"
+"string.text"
+msgid "Myanmar"
+msgstr "மியான்மர்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHMER\n"
+"string.text"
+msgid "Khmer"
+msgstr "கேமர்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OGHAM\n"
+"string.text"
+msgid "Ogham"
+msgstr "ஒகம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_RUNIC\n"
+"string.text"
+msgid "Runic"
+msgstr "ருனிக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SYRIAC\n"
+"string.text"
+msgid "Syriac"
+msgstr "சிரியாக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_THAANA\n"
+"string.text"
+msgid "Thaana"
+msgstr "தானா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC\n"
+"string.text"
+msgid "Ethiopic"
+msgstr "எத்தியோபிக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHEROKEE\n"
+"string.text"
+msgid "Cherokee"
+msgstr "செரோகி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CANADIAN_ABORIGINAL\n"
+"string.text"
+msgid "Canadan Aboriginal Syllables"
+msgstr "கனடிய மூலமற்ற ஒலிக்கூறு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MONGOLIAN\n"
+"string.text"
+msgid "Mongolian"
+msgstr "மங்கோலியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_MATH_SYMS_A\n"
+"string.text"
+msgid "Miscellaneous Mathematical Symbols-A"
+msgstr "பல்வகை கணிதச் சின்னங்கள்-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPL_ARROWS_A\n"
+"string.text"
+msgid "Supplemental Arrows-A"
+msgstr "இணைப்பு அம்புகுறிகள்-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BRAILLE_PATTERNS\n"
+"string.text"
+msgid "Braille Patterns"
+msgstr "பிரெய்லி எழுத்துமுறை"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPL_ARROWS_B\n"
+"string.text"
+msgid "Supplemental Arrows-B"
+msgstr "இணைப்பு அம்புகுறிகள்-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_MATH_SYMS_B\n"
+"string.text"
+msgid "Miscellaneous Mathematical Symbols-B"
+msgstr "பல்வகை கணிதச் சின்னங்கள்-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_RADICAL_SUPPL\n"
+"string.text"
+msgid "CJK Radical Supplement"
+msgstr "CJK உள்ளியல்பார்ந்த இணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANGXI_RADICALS\n"
+"string.text"
+msgid "Kangxi Radicals"
+msgstr "காண்சி உள்ளியல்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IDEO_DESC_CHARS\n"
+"string.text"
+msgid "Ideographic Description Characters"
+msgstr "விளக்க வர்ணனை வரியுருக்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGALOG\n"
+"string.text"
+msgid "Tagalog"
+msgstr "தகலொக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANUNOO\n"
+"string.text"
+msgid "Hanunoo"
+msgstr "ஹனுனூ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGBANWA\n"
+"string.text"
+msgid "Tagbanwa"
+msgstr "தக்பன்வா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BUHID\n"
+"string.text"
+msgid "Buhid"
+msgstr "பூகித்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANBUN\n"
+"string.text"
+msgid "Kanbun"
+msgstr "கண்புன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOPOMOFO_EXTENDED\n"
+"string.text"
+msgid "Bopomofo Extended"
+msgstr "பொபொமொபொ நீட்டித்தது"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KATAKANA_PHONETIC\n"
+"string.text"
+msgid "Katakana Phonetics"
+msgstr "கதகனா அசையொலிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_STROKES\n"
+"string.text"
+msgid "CJK Strokes"
+msgstr "CJK குறிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYPRIOT_SYLLABARY\n"
+"string.text"
+msgid "Cypriot Syllabary"
+msgstr "சைப்ரியாட் அசை"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_XUAN_JING_SYMBOLS\n"
+"string.text"
+msgid "Tai Xuan Jing Symbols"
+msgstr "தாஇ க்ஷன் ஜிங் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VARIATION_SELECTORS_SUPPLEMENT\n"
+"string.text"
+msgid "Variation Selectors Supplement"
+msgstr "மாற்றி தேர்வு சிறப்பு இணைப்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_GREEK_MUSICAL_NOTATION\n"
+"string.text"
+msgid "Ancient Greek Musical Notation"
+msgstr "பன்டைய கிரேக்க இசைக் குறியீடு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_GREEK_NUMBERS\n"
+"string.text"
+msgid "Ancient Greek Numbers"
+msgstr "பன்டைய கிரேக்க எண்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_SUPPLEMENT\n"
+"string.text"
+msgid "Arabic Supplement"
+msgstr "அராபிய கூட்டுஇணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BUGINESE\n"
+"string.text"
+msgid "Buginese"
+msgstr "பகினீஸ்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMBINING_DIACRITICAL_MARKS_SUPPLEMENT\n"
+"string.text"
+msgid "Combining Diacritical Marks Supplement"
+msgstr "சங்கேத குறிகளை சேர்க்கும் கூட்டிணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COPTIC\n"
+"string.text"
+msgid "Coptic"
+msgstr "கொப்டிக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_EXTENDED\n"
+"string.text"
+msgid "Ethiopic Extended"
+msgstr "எதியோபிக் நீட்டிப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_SUPPLEMENT\n"
+"string.text"
+msgid "Ethiopic Supplement"
+msgstr "எத்தியோபிய 1 கூட்டுஇணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEORGIAN_SUPPLEMENT\n"
+"string.text"
+msgid "Georgian Supplement"
+msgstr "ஜார்ஜியன் கூட்டுஇணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GLAGOLITIC\n"
+"string.text"
+msgid "Glagolitic"
+msgstr "க்ளாகோத்திக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHAROSHTHI\n"
+"string.text"
+msgid "Kharoshthi"
+msgstr "கரோஷ்டி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MODIFIER_TONE_LETTERS\n"
+"string.text"
+msgid "Modifier Tone Letters"
+msgstr "டோன் மாற்றி எழுத்துக்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NEW_TAI_LUE\n"
+"string.text"
+msgid "New Tai Lue"
+msgstr "புதிய தாய் லு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_PERSIAN\n"
+"string.text"
+msgid "Old Persian"
+msgstr "பழைய பெர்சியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHONETIC_EXTENSIONS_SUPPLEMENT\n"
+"string.text"
+msgid "Phonetic Extensions Supplement"
+msgstr "பேச்சொலி நீட்டிப்பு கூட்டு இணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTAL_PUNCTUATION\n"
+"string.text"
+msgid "Supplemental Punctuation"
+msgstr "கூட்டிணைப்பு குறிகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SYLOTI_NAGRI\n"
+"string.text"
+msgid "Syloti Nagri"
+msgstr "சைலோட்டி நக்ரி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TIFINAGH\n"
+"string.text"
+msgid "Tifinagh"
+msgstr "டிபினாக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VERTICAL_FORMS\n"
+"string.text"
+msgid "Vertical Forms"
+msgstr "செங்குத்து படிவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NKO\n"
+"string.text"
+msgid "Nko"
+msgstr "இன்கோ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BALINESE\n"
+"string.text"
+msgid "Balinese"
+msgstr "பாலின்ஸி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_C\n"
+"string.text"
+msgid "Latin Extended-C"
+msgstr "லத்தீன் நீட்டிப்பு-C"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_D\n"
+"string.text"
+msgid "Latin Extended-D"
+msgstr "லத்தீன் நீட்டிப்பு-D"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHAGS_PA\n"
+"string.text"
+msgid "Phags-Pa"
+msgstr "பாக்ஸ்-பா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHOENICIAN\n"
+"string.text"
+msgid "Phoenician"
+msgstr "பொனிசியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CUNEIFORM\n"
+"string.text"
+msgid "Cuneiform"
+msgstr "க்யூனிஃபார்ம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CUNEIFORM_NUMBERS_AND_PUNCTUATION\n"
+"string.text"
+msgid "Cuneiform Numbers And Punctuation"
+msgstr "கியூனிபார்ம் எண்களும் நிறுதற்குறிகளும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COUNTING_ROD_NUMERALS\n"
+"string.text"
+msgid "Counting Rod Numerals"
+msgstr "எண்ணும் கோல் எண்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUNDANESE\n"
+"string.text"
+msgid "Sundanese"
+msgstr "சூடானீஸ்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LEPCHA\n"
+"string.text"
+msgid "Lepcha"
+msgstr "லெப்சா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OL_CHIKI\n"
+"string.text"
+msgid "Ol Chiki"
+msgstr "ஓல் சிக்கி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_EXTENDED_A\n"
+"string.text"
+msgid "Cyrillic Extended-A"
+msgstr "சிரிலிக் நீடித்த-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VAI\n"
+"string.text"
+msgid "Vai"
+msgstr "வாய்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_EXTENDED_B\n"
+"string.text"
+msgid "Cyrillic Extended-B"
+msgstr "சிரிலிக் நீடித்த-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SAURASHTRA\n"
+"string.text"
+msgid "Saurashtra"
+msgstr "சௌராஷ்டிரம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KAYAH_LI\n"
+"string.text"
+msgid "Kayah Li"
+msgstr "கயாஹ் லி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_REJANG\n"
+"string.text"
+msgid "Rejang"
+msgstr "ரிஜாங்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHAM\n"
+"string.text"
+msgid "Cham"
+msgstr "சாம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_SYMBOLS\n"
+"string.text"
+msgid "Ancient Symbols"
+msgstr "பழஞ் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHAISTOS_DISC\n"
+"string.text"
+msgid "Phaistos Disc"
+msgstr "பைஸ்டோஸ் வட்டு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LYCIAN\n"
+"string.text"
+msgid "Lycian"
+msgstr "லைசியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CARIAN\n"
+"string.text"
+msgid "Carian"
+msgstr "கேரியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LYDIAN\n"
+"string.text"
+msgid "Lydian"
+msgstr "லிடியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MAHJONG_TILES\n"
+"string.text"
+msgid "Mahjong Tiles"
+msgstr "மாஜாங் ஓடுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DOMINO_TILES\n"
+"string.text"
+msgid "Domino Tiles"
+msgstr "டோமினோ ஓடுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SAMARITAN\n"
+"string.text"
+msgid "Samaritan"
+msgstr "சமாரிடின் அராமைக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_UNIFIED_CANADIAN_ABORIGINAL_SYLLABICS_EXTENDED\n"
+"string.text"
+msgid "Canadian Aboriginal Syllabics Extended"
+msgstr "கன்னடியன் பழங்குடியினர் குறியீடு நீட்டிப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_THAM\n"
+"string.text"
+msgid "Tai Tham"
+msgstr "தாய் தாம்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VEDIC_EXTENSIONS\n"
+"string.text"
+msgid "Vedic Extensions"
+msgstr "வேத நீட்டிப்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LISU\n"
+"string.text"
+msgid "Lisu"
+msgstr "லிசு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BAMUM\n"
+"string.text"
+msgid "Bamum"
+msgstr "பாமும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMMON_INDIC_NUMBER_FORMS\n"
+"string.text"
+msgid "Common Indic Number Forms"
+msgstr "பொது இந்திய எண் வடிவங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DEVANAGARI_EXTENDED\n"
+"string.text"
+msgid "Devanagari Extended"
+msgstr "தேவநாகிரி நீட்டிக்கப்பட்டது"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO_EXTENDED_A\n"
+"string.text"
+msgid "Hangul Jamo Extended-A"
+msgstr "ஹங்குல் ஜமோ நீட்டிப்பு-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_JAVANESE\n"
+"string.text"
+msgid "Javanese"
+msgstr "ஜாவானீஸ்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MYANMAR_EXTENDED_A\n"
+"string.text"
+msgid "Myanmar Extended-A"
+msgstr "மியான்மார் நீட்டிப்பு-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_VIET\n"
+"string.text"
+msgid "Tai Viet"
+msgstr "தாய் வியட்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEETEI_MAYEK\n"
+"string.text"
+msgid "Meetei Mayek"
+msgstr "மீட்டேய் மாயெக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO_EXTENDED_B\n"
+"string.text"
+msgid "Hangul Jamo Extended-B"
+msgstr "ஹங்குல் ஜமோ நீட்டிப்பு-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IMPERIAL_ARAMAIC\n"
+"string.text"
+msgid "Imperial Aramaic"
+msgstr "இம்பெரியல் அராமைக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_SOUTH_ARABIAN\n"
+"string.text"
+msgid "Old South Arabian"
+msgstr "பழைய தென் அரேபியா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_AVESTAN\n"
+"string.text"
+msgid "Avestan"
+msgstr "அவேஸ்டன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_INSCRIPTIONAL_PARTHIAN\n"
+"string.text"
+msgid "Inscriptional Parthian"
+msgstr "இன்ஸ்கிரிப்ஷனல் பார்த்தியன்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_INSCRIPTIONAL_PAHLAVI\n"
+"string.text"
+msgid "Inscriptional Pahlavi"
+msgstr "இன்ஸ்கிரிப்ஷனல் பாஹ்லவி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_TURKIC\n"
+"string.text"
+msgid "Old Turkic"
+msgstr "பழைய துருக்கி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_RUMI_NUMERAL_SYMBOLS\n"
+"string.text"
+msgid "Rumi Numeral Symbols"
+msgstr "ரூமி எண் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KAITHI\n"
+"string.text"
+msgid "Kaithi"
+msgstr "காய்தி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_EGYPTIAN_HIEROGLYPHS\n"
+"string.text"
+msgid "Egyptian Hieroglyphs"
+msgstr "எகிப்திய சித்திர குறியீடுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_ALPHANUMERIC_SUPPLEMENT\n"
+"string.text"
+msgid "Enclosed Alphanumeric Supplement"
+msgstr "சேர்க்கப்பட்ட எண்ணெழுத்து துணை சேர்ப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_IDEOGRAPHIC_SUPPLEMENT\n"
+"string.text"
+msgid "Enclosed Ideographic Supplement"
+msgstr "உள்ளடக்கிய இடியோக்ராபிக் கூட்டுஇணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MANDAIC\n"
+"string.text"
+msgid "Mandaic"
+msgstr "மான்டெய்க்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BATAK\n"
+"string.text"
+msgid "Batak"
+msgstr "பாடக்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_EXTENDED_A\n"
+"string.text"
+msgid "Ethiopic Extended-A"
+msgstr "எதியோபிய நீட்டிப்பு-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BRAHMI\n"
+"string.text"
+msgid "Brahmi"
+msgstr "ப்ராஹ்மி"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BAMUM_SUPPLEMENT\n"
+"string.text"
+msgid "Bamum Supplement"
+msgstr "பாமும் கூட்டுஇணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANA_SUPPLEMENT\n"
+"string.text"
+msgid "Kana Supplement"
+msgstr "கானா கூட்டு இணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PLAYING_CARDS\n"
+"string.text"
+msgid "Playing Cards"
+msgstr "சீட்டு அட்டைகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISCELLANEOUS_SYMBOLS_AND_PICTOGRAPHS\n"
+"string.text"
+msgid "Miscellaneous Symbols And Pictographs"
+msgstr "பல்வகை சின்னங்களும் படங்களும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr "உணர்ச்சி குறும்படங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TRANSPORT_AND_MAP_SYMBOLS\n"
+"string.text"
+msgid "Transport And Map Symbols"
+msgstr "போக்குவரத்தும் வரைபடச் சின்னங்களும்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ALCHEMICAL_SYMBOLS\n"
+"string.text"
+msgid "Alchemical Symbols"
+msgstr "அல்கெமிக்கல் சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_EXTENDED_A\n"
+"string.text"
+msgid "Arabic Extended-A"
+msgstr "அரபு நீட்டித்தது-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_MATHEMATICAL_ALPHABETIC_SYMBOLS\n"
+"string.text"
+msgid "Arabic Mathematical Alphabetic Symbols"
+msgstr "அரேபிய கணித எண்ணெழுத்து சின்னங்கள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHAKMA\n"
+"string.text"
+msgid "Chakma"
+msgstr "சக்மா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEETEI_MAYEK_EXTENSIONS\n"
+"string.text"
+msgid "Meetei Mayek Extensions"
+msgstr "மீட்டேய் மாயெக் நீட்டிப்புகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEROITIC_CURSIVE\n"
+"string.text"
+msgid "Meroitic Cursive"
+msgstr "மெராய்டிக் வளைவு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEROITIC_HIEROGLYPHS\n"
+"string.text"
+msgid "Meroitic Hieroglyphs"
+msgstr "மெராய்டிக் எகிப்திய சித்திர குறியீடுகள்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MIAO\n"
+"string.text"
+msgid "Miao"
+msgstr "மியாவோ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SHARADA\n"
+"string.text"
+msgid "Sharada"
+msgstr "ஷாரதா"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SORA_SOMPENG\n"
+"string.text"
+msgid "Sora Sompeng"
+msgstr "சோரா சோம்பெங்"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUNDANESE_SUPPLEMENT\n"
+"string.text"
+msgid "Sundanese Supplement"
+msgstr "சுடானீஸ் கூட்டுஇணைப்பு"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAKRI\n"
+"string.text"
+msgid "Takri"
+msgstr "டக்ரி"

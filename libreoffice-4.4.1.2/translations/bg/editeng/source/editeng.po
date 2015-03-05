@@ -1,0 +1,150 @@
+#. extracted from editeng/source/editeng
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2013-05-31 11:03+0000\n"
+"Last-Translator: mbalabanov <m.balabanov@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1369998180.0\n"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_DEL\n"
+"string.text"
+msgid "Delete"
+msgstr "Изтриване"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_MOVE\n"
+"string.text"
+msgid "Move"
+msgstr "Местене"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "Вмъкване"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_REPLACE\n"
+"string.text"
+msgid "Replace"
+msgstr "Замяна"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_SETATTRIBS\n"
+"string.text"
+msgid "Apply attributes"
+msgstr "Прилагане на атрибути"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_RESETATTRIBS\n"
+"string.text"
+msgid "Reset attributes"
+msgstr "Нулиране на атрибути"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_INDENT\n"
+"string.text"
+msgid "Indent"
+msgstr "Отстъп"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_SETSTYLE\n"
+"string.text"
+msgid "Apply Styles"
+msgstr "Прилагане на стилове"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_EDITUNDO_TRANSLITERATE\n"
+"string.text"
+msgid "Change Case"
+msgstr "Смяна на регистъра"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_MENU_SPELL\n"
+"MN_SPELLING\n"
+"menuitem.text"
+msgid "~Spellcheck..."
+msgstr "~Проверка на правописа..."
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_MENU_SPELL\n"
+"MN_INSERT\n"
+"menuitem.text"
+msgid "~Add to Dictionary"
+msgstr "~Добавяне в речник"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_MENU_SPELL\n"
+"MN_INSERT_SINGLE\n"
+"menuitem.text"
+msgid "~Add to Dictionary"
+msgstr "~Добавяне в речник"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_MENU_SPELL\n"
+"MN_IGNORE\n"
+"menuitem.text"
+msgid "Ignore All"
+msgstr "Игнориране - всички"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_MENU_SPELL\n"
+"MN_AUTOCORR\n"
+"menuitem.text"
+msgid "AutoCorrect"
+msgstr "Автокорекция"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_STR_WORD\n"
+"string.text"
+msgid "Word is %x"
+msgstr "Думата е на %x"
+
+#: editeng.src
+msgctxt ""
+"editeng.src\n"
+"RID_STR_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph is %x"
+msgstr "Абзацът е на %x"

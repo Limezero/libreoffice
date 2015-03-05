@@ -1,0 +1,773 @@
+#. extracted from scaddins/source/pricing
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2014-08-20 09:02+0000\n"
+"Last-Translator: Necdet <necdetyucel@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1408525334.000000\n"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"1\n"
+"string.text"
+msgid "Pricing of a barrier option"
+msgstr "Sınırlama seçeneklerinin ücretlendirilmesi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "spot"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"3\n"
+"string.text"
+msgid "Price/value of the underlying asset"
+msgstr "Temel varlıkların fiyatı/değeri"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the underlying asset"
+msgstr "Temel varlıkların yıllık değişkenliği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"6\n"
+"string.text"
+msgid "r"
+msgstr "r"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"7\n"
+"string.text"
+msgid "Interest rate (continuously compounded)"
+msgstr "Faiz oranı (sürekli birleştirilir)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"8\n"
+"string.text"
+msgid "rf"
+msgstr "rf"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"9\n"
+"string.text"
+msgid "Foreign interest rate (continuously compounded)"
+msgstr "Yabancı faiz oran (sürekli birleştirilir)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"10\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"11\n"
+"string.text"
+msgid "Time to maturity of the option in years"
+msgstr "Vade seçeneğinin yıllara göre seçeneği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"12\n"
+"string.text"
+msgid "strike"
+msgstr "uygulama ederi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"13\n"
+"string.text"
+msgid "Strike level of the option"
+msgstr "Seçeneğin uygulama ederi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"14\n"
+"string.text"
+msgid "barrier_low"
+msgstr "düşük_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"15\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "En alt sınır (bir sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"16\n"
+"string.text"
+msgid "barrier_up"
+msgstr "yüksek_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"17\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "En üst sınır (üst sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"18\n"
+"string.text"
+msgid "rebate"
+msgstr "tazminat"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"19\n"
+"string.text"
+msgid "Amount of money paid at maturity if barrier was hit"
+msgstr "Sınıra gelindiğinde vade sonunda ödenen para miktarı"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"20\n"
+"string.text"
+msgid "put/call"
+msgstr "alım/satım"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"21\n"
+"string.text"
+msgid "String to define if the option is a (p)ut or a (c)all"
+msgstr "Seçeneğin alım (c) mı satım (p) mı olduğunu tanımlayan dizi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"22\n"
+"string.text"
+msgid "knock in/out"
+msgstr "sürme/geri çekme"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"23\n"
+"string.text"
+msgid "String to define if the option is of type knock-(i)n or knock-(o)ut"
+msgstr "Seçeneğin ileri sürme mi (i) yoksa geri çekme mi (o) olduğunu tanımlayan dizi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"24\n"
+"string.text"
+msgid "barrier_type"
+msgstr "bariyer_türü"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"25\n"
+"string.text"
+msgid "String to define whether the barrier is observed (c)ontinuously or only at the (e)nd/maturity"
+msgstr "Bariyerin sürekli mi (c) yoksa yalnızca sonda mı (e) gözlemlendiğini tanımlayan dizi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"26\n"
+"string.text"
+msgid "greek"
+msgstr "yunanca"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"27\n"
+"string.text"
+msgid "Optional parameter, if left out then the function simply returns the option price; if set, the function returns price sensitivities (Greeks) to one of the input parameters; possible values are (d)elta, (g)amma, (t)heta, v(e)ga, v(o)lga, v(a)nna, (r)ho, rho(f)"
+msgstr "İsteğe bağlı etken, eğer dışarıda bırakılırsa işlev yalnızca seçenek ederini görüntüler; eğer belirtilmişse işlev eder duyarlılıklarını (Yunan biçimi) girdi etkenlerinden birine gönderir; olası değerler ise şunlardır: (d)elta, (g)amma, (t)eta, v(e)ga, v(o)lga, v(a)nna, (r)o, ro(f)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"1\n"
+"string.text"
+msgid "Pricing of a touch/no-touch option"
+msgstr "Bir dokunmanın/dokunmamanın fiyatlandırılma seçeneği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "spot"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"3\n"
+"string.text"
+msgid "Price/value of the underlying asset"
+msgstr "Temel varlıkların fiyatı/değeri"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the underlying asset"
+msgstr "Temel varlıkların yıllık değişkenliği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"6\n"
+"string.text"
+msgid "r"
+msgstr "r"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"7\n"
+"string.text"
+msgid "Interest rate (continuously compounded)"
+msgstr "Faiz oranı (sürekli birleştirilir)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"8\n"
+"string.text"
+msgid "rf"
+msgstr "rf"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"9\n"
+"string.text"
+msgid "Foreign interest rate (continuously compounded)"
+msgstr "Yabancı faiz oran (sürekli birleştirilir)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"10\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"11\n"
+"string.text"
+msgid "Time to maturity of the option in years"
+msgstr "Vade seçeneğinin yıllara göre seçeneği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"12\n"
+"string.text"
+msgid "barrier_low"
+msgstr "düşük_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"13\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "En alt sınır (alt sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"14\n"
+"string.text"
+msgid "barrier_up"
+msgstr "yüksek_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"15\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "En üst sınır (üst sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"16\n"
+"string.text"
+msgid "foreign/domestic"
+msgstr "yabancı/yerli"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"17\n"
+"string.text"
+msgid "String to define if the option pays one unit of (d)omestic currency (cash or nothing) or (f)oreign currency (asset or nothing)"
+msgstr "Seçeneğin ye(r)el (nakit veya hiç) veya ya(b)ancı (varlık veya hiç) para birimi kullanacağını belirleyen dizi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"18\n"
+"string.text"
+msgid "knock in/out"
+msgstr "sürme/geri çekme"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"19\n"
+"string.text"
+msgid "String to define if the option is of type knock-(i)n (touch) or knock-(o)ut (no-touch)"
+msgstr "Seçeneğin ileri sürme mi (i) yoksa geri çekme mi (o) olduğunu tanımlayan dizi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"20\n"
+"string.text"
+msgid "barrier_type"
+msgstr "bariyer_türü"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"21\n"
+"string.text"
+msgid "String to define whether the barrier is observed (c)ontinuously or only at the (e)nd/maturity"
+msgstr "Bariyerin sürekli mi (c) yoksa yalnızca sonda mı (e) gözlemlendiğini tanımlayan dizi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"22\n"
+"string.text"
+msgid "greek"
+msgstr "yunanca"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"23\n"
+"string.text"
+msgid "Optional parameter, if left out then the function simply returns the option price; if set, the function returns price sensitivities (Greeks) to one of the input parameters; possible values are (d)elta, (g)amma, (t)heta, v(e)ga, v(o)lga, v(a)nna, (r)ho, rho(f)"
+msgstr "İsteğe bağlı etken, eğer dışarıda bırakılırsa işlev yalnızca seçenek ederini görüntüler; eğer belirtilmişse işlev eder duyarlılıklarını (Yunan biçimi) girdi etkenlerinden birine gönderir; olası değerler ise şunlardır: (d)elta, (g)amma, (t)eta, v(e)ga, v(o)lga, v(a)nna, (r)o, ro(f)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"1\n"
+"string.text"
+msgid "Probability that an asset hits a barrier assuming it follows dS/S = mu dt + vol dW"
+msgstr "Bir varlığın dS/S = mu dt + vol dW şeklinde ilerlediği kabul edilerek sınıra ulaşma olasılığı"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "spot"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"3\n"
+"string.text"
+msgid "Price/value S of the underlying asset"
+msgstr "Temel varlıkların S fiyatı/değeri"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the underlying asset"
+msgstr "Temel varlıkların yıllık değişkenliği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"6\n"
+"string.text"
+msgid "drift"
+msgstr "sapma"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"7\n"
+"string.text"
+msgid "Parameter mu in dS/S = mu dt + vol dW"
+msgstr "dS/S = mu dt + vol dW formülündeki parametre mu"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"8\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"9\n"
+"string.text"
+msgid "Time to maturity"
+msgstr "Vade sonu zamanı"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"10\n"
+"string.text"
+msgid "barrier_low"
+msgstr "düşük_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"11\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "En alt sınır (alt sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"12\n"
+"string.text"
+msgid "barrier_up"
+msgstr "yüksek_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"13\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "En üst sınır (üst sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"1\n"
+"string.text"
+msgid "Probability that an asset will at maturity end up between two barrier levels, assuming it follows dS/S = mu dt + vol dW (if the last two optional parameters (strike, put/call) are specified, the probability of S_T in [strike, upper barrier] for a call and S_T in [lower barrier, strike] for a put will be returned)"
+msgstr "Bir varlığın dS/S = mu dt + vol dW (isteğe bağlı son iki parametre (kullanma fiyatı, satım/alım) tanımlanırsa S_T'nin bir alım için [kullanım fiyatı, üst limit] aralığındaki ve S_T'nin bir satım için [alt limit, kullanım fiyatı] aralığındaki olasılığı döndürülür) şeklinde ilerleyerek vade sonunda iki bariyer değeri arasında sona erme olasılığı"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "spot"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"3\n"
+"string.text"
+msgid "Price/value of the asset"
+msgstr "Varlığın fiyatı/değeri"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the asset"
+msgstr "Varlığın yıllık değişkenliği"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"6\n"
+"string.text"
+msgid "drift"
+msgstr "sapma"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"7\n"
+"string.text"
+msgid "Parameter mu from dS/S = mu dt + vol dW"
+msgstr "dS/S = mu dt + vol dW formülündeki parametre mu "
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"8\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"9\n"
+"string.text"
+msgid "Time to maturity in years"
+msgstr "Yıllar içerisindeki vade sonlarının zamansallığı"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"10\n"
+"string.text"
+msgid "barrier_low"
+msgstr "düşük_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"11\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "En alt sınır (alt sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"12\n"
+"string.text"
+msgid "barrier_up"
+msgstr "yüksek_bariyer"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"13\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "En üst sınır (üst sınır olmaması için 0 olarak atayın)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"14\n"
+"string.text"
+msgid "put/call"
+msgstr "alım/satım"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"15\n"
+"string.text"
+msgid "Optional (p)ut/(c)all indicator"
+msgstr "Seçmeli (s)atım/(a)lım göstergesi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"16\n"
+"string.text"
+msgid "strike"
+msgstr "Kullanım fiyatı "
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"17\n"
+"string.text"
+msgid "Optional strike level"
+msgstr "Seçimsel kullanım seviyesi"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptBarrier\n"
+"string.text"
+msgid "OPT_BARRIER"
+msgstr "OPT_BARRIER"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptTouch\n"
+"string.text"
+msgid "OPT_TOUCH"
+msgstr "OPT_TOUCH"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptProbHit\n"
+"string.text"
+msgid "OPT_PROB_HIT"
+msgstr "OPT_PROB_HIT"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptProbInMoney\n"
+"string.text"
+msgid "OPT_PROB_INMONEY"
+msgstr "OPT_PROB_INMONEY"

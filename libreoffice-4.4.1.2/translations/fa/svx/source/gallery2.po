@@ -1,0 +1,1558 @@
+#. extracted from svx/source/gallery2
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2012-12-26 11:17+0000\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356520661.0\n"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXDLG_GALLERYBROWSER\n"
+"dockingwindow.text"
+msgid "Gallery"
+msgstr "گالری"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ACTUALIZE_PROGRESS\n"
+"string.text"
+msgid "Update"
+msgstr "به‌هنگام‌سازی"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FOPENERROR\n"
+"string.text"
+msgid "This file cannot be opened"
+msgstr "نمی‌توان پروندهٔ گرافیکی را باز کرد"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOTHEME\n"
+"string.text"
+msgid "Invalid Theme Name!"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT1_UI\n"
+"string.text"
+msgid "Wave - Sound File"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT2_UI\n"
+"string.text"
+msgid "Audio Interchange File Format"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT3_UI\n"
+"string.text"
+msgid "AU - Sound File"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FILTER\n"
+"string.text"
+msgid "Graphics filter"
+msgstr "صافی گرافیکی"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LENGTH\n"
+"string.text"
+msgid "Length:"
+msgstr "طول"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SIZE\n"
+"string.text"
+msgid "Size:"
+msgstr "اندازه:"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DELETEDD\n"
+"string.text"
+msgid "Do you want to delete the linked file?"
+msgstr "آیا می‌خواهید پیمانهٔ XX را حذف کنید؟"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SGIERROR\n"
+"string.text"
+msgid ""
+"This file cannot be opened.\n"
+"Do you want to enter a different search path? "
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NEWTHEME\n"
+"string.text"
+msgid "New Theme"
+msgstr ""
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_BROWSER\n"
+"string.text"
+msgid "~Organizer..."
+msgstr ""
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~سازمان‌ده...\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~سازمان‌دهنده..."
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_THEMEERR\n"
+"string.text"
+msgid ""
+"This theme name already exists.\n"
+"Please choose a different one."
+msgstr "نام کتابخانه از قبل وجود دارد. لطفاً یک نام متفاوت انتخاب کنید."
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_IMPORTTHEME\n"
+"string.text"
+msgid "I~mport..."
+msgstr "وارد کردن..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_CREATETHEME\n"
+"string.text"
+msgid "New Theme..."
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DIALOGID\n"
+"string.text"
+msgid "Assign ID"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "عنوان"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "مسیر"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ICONVIEW\n"
+"string.text"
+msgid "Icon View"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LISTVIEW\n"
+"string.text"
+msgid "Detailed View"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ACTUALIZE\n"
+"menuitem.text"
+msgid "Update"
+msgstr "به‌هنگام‌سازی"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~حذف"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ت~غییر نام\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~تغییر نام\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ت~غییر نام\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ت~غییر نام\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ت~غییر نام\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ت~غییر نام\n"
+"#-#-#-#-#  contnr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~تغییرنام\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~تغییرنام"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ASSIGN_ID\n"
+"menuitem.text"
+msgid "Assign ~ID"
+msgstr ""
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_PROPERTIES\n"
+"menuitem.text"
+msgid "Propert~ies..."
+msgstr ""
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ویژگی‌ها...\n"
+"#-#-#-#-#  Office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ویژ~گی‌ها\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ویژ~گی‌ها...\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ویژ~گی‌ها..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_ADD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_BACKGROUND\n"
+"menuitem.text"
+msgid "Insert as Bac~kground"
+msgstr ""
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PREVIEW\n"
+"menuitem.text"
+msgid "~Preview"
+msgstr "~پیش‌نمایش"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_TITLE\n"
+"menuitem.text"
+msgid "~Title"
+msgstr "~عنوان"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~حذف"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_COPYCLIPBOARD\n"
+"menuitem.text"
+msgid "~Copy"
+msgstr "~نسخه‌برداری"
+
+#: gallery.src
+#, fuzzy
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PASTECLIPBOARD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "~درج"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_3D\n"
+"string.text"
+msgid "3D Effects"
+msgstr ""
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMATIONS\n"
+"string.text"
+msgid "Animations"
+msgstr "پویانمایی"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BULLETS\n"
+"string.text"
+msgid "Bullets"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"گلوله‌ها\n"
+"#-#-#-#-#  fmtui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بولت‌ها\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"گلوله‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OFFICE\n"
+"string.text"
+msgid "Office"
+msgstr "اداری"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS\n"
+"string.text"
+msgid "Flags"
+msgstr ""
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS\n"
+"string.text"
+msgid "Flow Charts"
+msgstr "روندنماها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr ""
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS\n"
+"string.text"
+msgid "Pictures"
+msgstr "عکس"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BACKGROUNDS\n"
+"string.text"
+msgid "Backgrounds"
+msgstr "پ~س‌زمینه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE\n"
+"string.text"
+msgid "Homepage"
+msgstr "صفحهٔ آغازه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_INTERACTION\n"
+"string.text"
+msgid "Interaction"
+msgstr "تأثیر متقابل"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS\n"
+"string.text"
+msgid "Maps"
+msgstr "حروف بزرگ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE\n"
+"string.text"
+msgid "People"
+msgstr "مردم"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SURFACES\n"
+"string.text"
+msgid "Surfaces"
+msgstr "سطح"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTERS\n"
+"string.text"
+msgid "Computers"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DIAGRAMS\n"
+"string.text"
+msgid "Diagrams"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ENVIRONMENT\n"
+"string.text"
+msgid "Environment"
+msgstr ""
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCE\n"
+"string.text"
+msgid "Finance"
+msgstr "گزارش‌های مالی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TRANSPORT\n"
+"string.text"
+msgid "Transport"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TXTSHAPES\n"
+"string.text"
+msgid "Textshapes"
+msgstr ""
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SOUNDS\n"
+"string.text"
+msgid "Sounds"
+msgstr "صدا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SYMBOLS\n"
+"string.text"
+msgid "Symbols"
+msgstr "نمادها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MYTHEME\n"
+"string.text"
+msgid "My Theme"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "پیکان‌ها"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BALLOONS\n"
+"string.text"
+msgid "Balloons"
+msgstr "Walloon"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_KEYBOARD\n"
+"string.text"
+msgid "Keyboard"
+msgstr "صفحه‌کلید"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TIME\n"
+"string.text"
+msgid "Time"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان\n"
+"#-#-#-#-#  pagedlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Time\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان\n"
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"زمان"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PRESENTATION\n"
+"string.text"
+msgid "Presentation"
+msgstr "ارائه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CALENDAR\n"
+"string.text"
+msgid "Calendar"
+msgstr "تقویم"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "ناوش"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMMUNICATION\n"
+"string.text"
+msgid "Communication"
+msgstr "Communication"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCES\n"
+"string.text"
+msgid "Finances"
+msgstr "گزارش‌های مالی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER\n"
+"string.text"
+msgid "Computers"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLIMA\n"
+"string.text"
+msgid "Climate"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EDUCATION\n"
+"string.text"
+msgid "School & University"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TROUBLE\n"
+"string.text"
+msgid "Problem Solving"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SCREENBEANS\n"
+"string.text"
+msgid "Screen Beans"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_POLYGONS\n"
+"string.text"
+msgid "Shapes - polygons"
+msgstr "شکل‌ها - چند‌ضلعی‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_1\n"
+"string.text"
+msgid "Shapes 1"
+msgstr "شکل‌ها 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_2\n"
+"string.text"
+msgid "Shapes 2"
+msgstr "شکل‌ها 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMALS\n"
+"string.text"
+msgid "Animals"
+msgstr "حیوانات"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CARS\n"
+"string.text"
+msgid "Cars"
+msgstr "ماشین‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUGS\n"
+"string.text"
+msgid "Bugs"
+msgstr "اشکالات"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_OTHER\n"
+"string.text"
+msgid "Cisco - Other"
+msgstr "سیسکو - غیره"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_MEDIA\n"
+"string.text"
+msgid "Cisco - Media"
+msgstr "سیسکو - رسانه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_PRODUCTS\n"
+"string.text"
+msgid "Cisco - Products"
+msgstr "سیسکو - محصولات"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_WAN_LAN\n"
+"string.text"
+msgid "Cisco - WAN - LAN"
+msgstr "سیسکو - شبکه گسترده - شبکه محلی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_USUAL\n"
+"string.text"
+msgid "Domino - usual"
+msgstr "دومینو - عادی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_NUMBERED\n"
+"string.text"
+msgid "Domino - numbered"
+msgstr "دومینو - شماره دار"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_1\n"
+"string.text"
+msgid "Electronics - parts 1"
+msgstr "الکترونیک - قسمت 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_2\n"
+"string.text"
+msgid "Electronics - parts 2"
+msgstr "الکترونیک - قسمت 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_3\n"
+"string.text"
+msgid "Electronics - parts 3"
+msgstr "الکترونیک - قسمت 3"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_4\n"
+"string.text"
+msgid "Electronics - parts 4"
+msgstr "الکترونیک - قسمت 4"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_CIRCUIT\n"
+"string.text"
+msgid "Electronics - circuit"
+msgstr "الکترونیک - مدار"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_SIGNS\n"
+"string.text"
+msgid "Electronics - signs"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"الکترونیک - نمادها\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_GAUGES\n"
+"string.text"
+msgid "Electronics - gauges"
+msgstr "الکترونیک - سنجه‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE_1\n"
+"string.text"
+msgid "People"
+msgstr "مردم"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_OVERLAY\n"
+"string.text"
+msgid "Architecture - overlay"
+msgstr "معماری - پوشش"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_FURNITURES\n"
+"string.text"
+msgid "Architecture - furniture"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BUILDINGS\n"
+"string.text"
+msgid "Architecture - buildings"
+msgstr "معماری - ساختمان‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BATHROOM_KITCHEN\n"
+"string.text"
+msgid "Architecture - bathroom, kitchen"
+msgstr "معماری - حمام، آشپز‌خانه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_KITCHEN\n"
+"string.text"
+msgid "Architecture - kitchen"
+msgstr "معماری - آشپز‌خانه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_WINDOWS_DOORS\n"
+"string.text"
+msgid "Architecture - windows, doors"
+msgstr "معماری - پنجره‌ها، در‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_1\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "روندنماها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_2\n"
+"string.text"
+msgid "Flowcharts 2"
+msgstr "روندنماهای 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FORALSTUDIOA\n"
+"string.text"
+msgid "Foral-StudioA"
+msgstr "فورال-استدیوآ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FAUNA\n"
+"string.text"
+msgid "Photos - Fauna"
+msgstr "عکس‌ها - جانوران"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_BUILDINGS\n"
+"string.text"
+msgid "Photos - Buildings"
+msgstr "عکس‌ها - ساختمان‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_PLANTS\n"
+"string.text"
+msgid "Photos - Plants"
+msgstr "عکس‌ها - گیاهان"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_STATUES\n"
+"string.text"
+msgid "Photos - Statues"
+msgstr "عکس‌ها - مجسمه‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_LANDSCAPES\n"
+"string.text"
+msgid "Photos - Landscapes"
+msgstr "عکس‌ها - مناظر"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CITIES\n"
+"string.text"
+msgid "Photos - Cities"
+msgstr "عکس‌ها - شهرها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FLOWERS\n"
+"string.text"
+msgid "Photos - Flowers"
+msgstr "عکس‌ها - گل‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_THERAPEUTICS_GENERAL\n"
+"string.text"
+msgid "Therapeutics - general"
+msgstr "درمان‌شناسی - عمومی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_WEATHER\n"
+"string.text"
+msgid "Weather"
+msgstr "آب و هوا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_VECHILES\n"
+"string.text"
+msgid "Vehicles"
+msgstr "وسایل نقلیه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS\n"
+"string.text"
+msgid "Signs"
+msgstr "نماد‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BLUE_MAN\n"
+"string.text"
+msgid "Blue Man"
+msgstr "مرد آبی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CHEMISTRY_AMINO_ACIDS\n"
+"string.text"
+msgid "Chemistry - Amino acids"
+msgstr "شیمی - اسید‌های آمینو"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_SIGNS\n"
+"string.text"
+msgid "Logical signs"
+msgstr "علامت‌های منطقی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_GATES\n"
+"string.text"
+msgid "Logical gates"
+msgstr "در‌وازه‌های منطقی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGOS\n"
+"string.text"
+msgid "Logos"
+msgstr "نمادها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SMILES\n"
+"string.text"
+msgid "Smilies"
+msgstr "خندانک‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS_1\n"
+"string.text"
+msgid "Arrows"
+msgstr "پیکان‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_01_CLOCK\n"
+"string.text"
+msgid "Clock - 01 clock"
+msgstr "ساعت - ساعت 01"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_02_CLOCK\n"
+"string.text"
+msgid "Clock - 02 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 02\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_03_CLOCK\n"
+"string.text"
+msgid "Clock - 03 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 03\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_04_CLOCK\n"
+"string.text"
+msgid "Clock - 04 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 04\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_05_CLOCK\n"
+"string.text"
+msgid "Clock - 05 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 05\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_06_CLOCK\n"
+"string.text"
+msgid "Clock - 06 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 06\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_07_CLOCK\n"
+"string.text"
+msgid "Clock - 07 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 07\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_08_CLOCK\n"
+"string.text"
+msgid "Clock - 08 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 08\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_09_CLOCK\n"
+"string.text"
+msgid "Clock - 09 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 09\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_10_CLOCK\n"
+"string.text"
+msgid "Clock - 10 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 10\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_11_CLOCK\n"
+"string.text"
+msgid "Clock - 11 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 11\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_12_CLOCK\n"
+"string.text"
+msgid "Clock - 12 clock"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ساعت - ساعت 12\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PNEUMATIC_PARTS\n"
+"string.text"
+msgid "Pneumatic - parts"
+msgstr "بادی - قسمت‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_GENERAL\n"
+"string.text"
+msgid "Computer - general"
+msgstr "رایانه - عمومی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK\n"
+"string.text"
+msgid "Computer - network"
+msgstr "رایانه - شبکه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK_DEVICES\n"
+"string.text"
+msgid "Computer - network devices"
+msgstr "رایانه - تجهیزات شبکه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_WIFI\n"
+"string.text"
+msgid "Computer - WIFI"
+msgstr "رایانه - شبکه بی‌سیم"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NUMBERS\n"
+"string.text"
+msgid "Numbers"
+msgstr "اعداد"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS_DANGER\n"
+"string.text"
+msgid "Signs - danger"
+msgstr "نماد‌ها - خطر"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OBJECTS\n"
+"string.text"
+msgid "Objects"
+msgstr "اشیاء"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AFRICA\n"
+"string.text"
+msgid "Maps - Africa"
+msgstr "نقشه‌ها - آفریقا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_UNITED_STATES_OF_AMERICA\n"
+"string.text"
+msgid "Maps - United States of America"
+msgstr "نقشه‌ها - ایالات متحده آمریکا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AUSTRALIA\n"
+"string.text"
+msgid "Maps - Australia"
+msgstr "نقشه‌ها - استرالیا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ASIA\n"
+"string.text"
+msgid "Maps - Asia"
+msgstr "نقشه‌ها - آسیا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SOUTH_AMERICA\n"
+"string.text"
+msgid "Maps - South America"
+msgstr "نقشه‌ها - آمریکای جنوبی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE\n"
+"string.text"
+msgid "Maps - Europe"
+msgstr "نقشه‌ها - اروپا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE_1\n"
+"string.text"
+msgid "Maps - Europe 1"
+msgstr "نقشه‌ها - اروپا 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE\n"
+"string.text"
+msgid "Maps - France"
+msgstr "نقشه‌ها - فرانسه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE_COUNTRIES\n"
+"string.text"
+msgid "Maps - France - countries"
+msgstr "نقشه‌ها - فرانسه - کشور‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SIGNS\n"
+"string.text"
+msgid "Maps - signs"
+msgstr "نقشه‌ها - نماد‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CANADA\n"
+"string.text"
+msgid "Maps - Canada"
+msgstr "نقشه‌ها - کانادا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CONTINENTS\n"
+"string.text"
+msgid "Maps - Continents"
+msgstr "نقشه‌ها - قاره‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_EAST\n"
+"string.text"
+msgid "Maps - Middle East"
+msgstr "نقشه‌ها - خاور میانه"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AMERICA\n"
+"string.text"
+msgid "Maps - Middle America"
+msgstr "نقشه‌ها - آمریکای مرکزی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AGES\n"
+"string.text"
+msgid "Maps - Middle ages"
+msgstr "نقشه‌ها - قرون وسطی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MEXICO\n"
+"string.text"
+msgid "Maps - Mexico"
+msgstr "نقشه‌ها - مکزیک"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ANCIENT_TIMES\n"
+"string.text"
+msgid "Maps - Ancient times"
+msgstr "نقشه‌ها - زمان‌های باستانی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SYMBOLS\n"
+"string.text"
+msgid "Maps - symbols"
+msgstr "نقشه‌ها - نماد‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_HISTORY_1900\n"
+"string.text"
+msgid "Maps - history - 1900"
+msgstr "نقشه‌ها - تاریخچه - 1900"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_WORLD\n"
+"string.text"
+msgid "Maps - World"
+msgstr "نقشه‌ها - جهان"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CROPS\n"
+"string.text"
+msgid "Crops"
+msgstr "محصولات کشاورزی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FRACTIONS\n"
+"string.text"
+msgid "Fractions"
+msgstr "کسر‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS_1\n"
+"string.text"
+msgid "Flags"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_INSTRUMENTS\n"
+"string.text"
+msgid "Music - instruments"
+msgstr "موسیقی - آلات موسیقی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_SHEET_MUSIC\n"
+"string.text"
+msgid "Music - sheet music"
+msgstr "موسیقی - نت‌های موسیقی"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SPECIAL_PICTOGRAMM\n"
+"string.text"
+msgid "Special Pictograms"
+msgstr ""
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CELEBRATION\n"
+"string.text"
+msgid "Photos - Celebration"
+msgstr "عکس‌ها - جشن"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FOODSANDDRINKS\n"
+"string.text"
+msgid "Photos - Foods and Drinks"
+msgstr "عکس‌ها - غذا‌ها و نوشیدنی‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_HUMANS\n"
+"string.text"
+msgid "Photos - Humans"
+msgstr "عکس‌ها - انسان‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_OBJECTS\n"
+"string.text"
+msgid "Photos - Objects"
+msgstr "عکس‌ها - اشیاء"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_SPACE\n"
+"string.text"
+msgid "Photos - Space"
+msgstr "عکس‌ها - فضا"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_TRAVEL\n"
+"string.text"
+msgid "Photos - Travel"
+msgstr "عکس‌ها - مسافرت"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OPENOFFICEORG_LOGOS\n"
+"string.text"
+msgid "OpenOffice.org logos"
+msgstr "لوگو‌های اپن آفیس"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_RELIGION\n"
+"string.text"
+msgid "Religion"
+msgstr "دین"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUILDINGS\n"
+"string.text"
+msgid "Buildings"
+msgstr "ساختمان‌ها"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE2\n"
+"string.text"
+msgid "Homepage 2"
+msgstr "صفحه آغازه 2"
+
+#: galtheme.src
+#, fuzzy
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELEMENTSBULLETS2\n"
+"string.text"
+msgid "Bullets 2"
+msgstr ""
+"#-#-#-#-#  fa.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"گِردک 2\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"

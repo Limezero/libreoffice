@@ -1,0 +1,4083 @@
+#. extracted from svtools/source/misc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-11-27 13:59+0000\n"
+"Last-Translator: Dimitris Spingos <dmtrs32@gmail.com>\n"
+"Language-Team: team@lists.gnome.gr\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1417096740.000000\n"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SOURCEFILE\n"
+"string.text"
+msgid "Source code"
+msgstr "Πηγαίος κώδικας"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_BOOKMARKFILE\n"
+"string.text"
+msgid "Bookmark file"
+msgstr "Αρχείο σελιδοδείκτη"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_GRAPHIC_DOC\n"
+"string.text"
+msgid "Graphics"
+msgstr "Γραφικά"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_CFGFILE\n"
+"string.text"
+msgid "Configuration file"
+msgstr "Αρχείο διαμόρφωσης"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_APPLICATION\n"
+"string.text"
+msgid "Application"
+msgstr "Εφαρμογή"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_DATABASE_TABLE\n"
+"string.text"
+msgid "Database table"
+msgstr "Πίνακας βάσης δεδομένων"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SYSFILE\n"
+"string.text"
+msgid "System file"
+msgstr "Αρχείο συστήματος"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_WORD_DOC\n"
+"string.text"
+msgid "MS Word document"
+msgstr "Έγγραφο του MS Word"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_HELP_DOC\n"
+"string.text"
+msgid "Help file"
+msgstr "Αρχείο βοήθειας"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_HTMLFILE\n"
+"string.text"
+msgid "HTML document"
+msgstr "Έγγραφο HTML"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_ARCHIVFILE\n"
+"string.text"
+msgid "Archive file"
+msgstr "Αρχείο αρχειοθήκης"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_LOGFILE\n"
+"string.text"
+msgid "Log file"
+msgstr "Αρχείο καταγραφής"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SDATABASE_DOC\n"
+"string.text"
+msgid "StarOffice Database"
+msgstr "Βάση δεδομένων StarOffice"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_GLOBALDOC\n"
+"string.text"
+msgid "StarWriter 4.0 / 5.0 Master Document"
+msgstr "Κύριο έγγραφο StarWriter 4.0 / 5.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SIMAGE_DOC\n"
+"string.text"
+msgid "StarOffice Image"
+msgstr "Εικόνα StarOffice"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_TEXTFILE\n"
+"string.text"
+msgid "Text file"
+msgstr "Αρχείο κειμένου"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_LINK\n"
+"string.text"
+msgid "Link"
+msgstr "Σύνδεση"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SOFFICE_TEMPLATE_DOC\n"
+"string.text"
+msgid "StarOffice 3.0 - 5.0 Template"
+msgstr "Πρότυπο StarOffice 3.0 - 5.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_EXCEL_DOC\n"
+"string.text"
+msgid "MS Excel document"
+msgstr "Έγγραφο του MS Excel"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_EXCEL_TEMPLATE_DOC\n"
+"string.text"
+msgid "MS Excel template"
+msgstr "Πρότυπο MS Excel"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_BATCHFILE\n"
+"string.text"
+msgid "Batch file"
+msgstr "Αρχείο δέσμης"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FILE\n"
+"string.text"
+msgid "File"
+msgstr "Αρχείο"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "Φάκελος"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_WRITER\n"
+"string.text"
+msgid "Text Document"
+msgstr "Έγγραφο κειμένου"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_CALC\n"
+"string.text"
+msgid "Spreadsheet"
+msgstr "Υπολογιστικό φύλλο"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_IMPRESS\n"
+"string.text"
+msgid "Presentation"
+msgstr "Παρουσίαση"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "Σχεδίαση"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_WRITERWEB\n"
+"string.text"
+msgid "HTML document"
+msgstr "Έγγραφο HTML"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_GLOBALDOC\n"
+"string.text"
+msgid "Master document"
+msgstr "Πρωτεύον έγγραφο"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_MATH\n"
+"string.text"
+msgid "Formula"
+msgstr "Τύπος"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_DATABASE\n"
+"string.text"
+msgid "Database"
+msgstr "Βάση δεδομένων"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_CALC_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Spreadsheet Template"
+msgstr "Πρότυπο υπολογιστικό φύλλο OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_DRAW_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Drawing Template"
+msgstr "Πρότυπο σχεδίου του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_IMPRESS_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Presentation Template"
+msgstr "Πρότυπο παρουσίασης OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_WRITER_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Text Document Template"
+msgstr "Πρότυπο εγγράφου κειμένου του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_LOCALE_VOLUME\n"
+"string.text"
+msgid "Local drive"
+msgstr "Τοπικός δίσκος"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FLOPPY_VOLUME\n"
+"string.text"
+msgid "Disk drive"
+msgstr "Μονάδα δίσκου"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_CDROM_VOLUME\n"
+"string.text"
+msgid "CD-ROM drive"
+msgstr "Μονάδα CD-ROM"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_REMOTE_VOLUME\n"
+"string.text"
+msgid "Network connection"
+msgstr "Σύνδεση δικτύου"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_POWERPOINT\n"
+"string.text"
+msgid "MS PowerPoint Document"
+msgstr "Έγγραφο του MS PowerPoint"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_POWERPOINT_TEMPLATE\n"
+"string.text"
+msgid "MS PowerPoint Template"
+msgstr "Πρότυπο MS PowerPoint"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_POWERPOINT_SHOW\n"
+"string.text"
+msgid "MS PowerPoint Show"
+msgstr "Προβολή του MS PowerPoint"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXMATH_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Formula"
+msgstr "Τύπος OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXCHART_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Chart"
+msgstr "Διάγραμμα OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXDRAW_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Drawing"
+msgstr "Σχέδιο του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXCALC_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Spreadsheet"
+msgstr "Υπολογιστικό φύλλο του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXIMPRESS_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Presentation"
+msgstr "Παρουσίαση του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXWRITER_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Text Document"
+msgstr "Έγγραφο κειμένου του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXGLOBAL_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Master Document"
+msgstr "Κύριο έγγραφο του OpenOffice.org 1.0"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_MATHML_DOC\n"
+"string.text"
+msgid "MathML Document"
+msgstr "Έγγραφο του MathML"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_DATABASE_DOC\n"
+"string.text"
+msgid "OpenDocument Database"
+msgstr "Βάση δεδομένων του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_DRAW_DOC\n"
+"string.text"
+msgid "OpenDocument Drawing"
+msgstr "Σχεδίαση του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_MATH_DOC\n"
+"string.text"
+msgid "OpenDocument Formula"
+msgstr "Τύπος του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_GLOBAL_DOC\n"
+"string.text"
+msgid "OpenDocument Master Document"
+msgstr "Κύριο έγγραφο του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_IMPRESS_DOC\n"
+"string.text"
+msgid "OpenDocument Presentation"
+msgstr "Παρουσίαση του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_CALC_DOC\n"
+"string.text"
+msgid "OpenDocument Spreadsheet"
+msgstr "Υπολογιστικό φύλλο του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_WRITER_DOC\n"
+"string.text"
+msgid "OpenDocument Text"
+msgstr "Κείμενο του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_CALC_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Spreadsheet Template"
+msgstr "Πρότυπο υπολογιστικού φύλλου του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_DRAW_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Drawing Template"
+msgstr "Πρότυπο σχεδίασης του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_IMPRESS_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Presentation Template"
+msgstr "Πρότυπο παρουσίασης του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_WRITER_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Text Template"
+msgstr "Πρότυπο κειμένου του OpenDocument"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_EXTENSION\n"
+"string.text"
+msgid "%PRODUCTNAME Extension"
+msgstr "Επέκταση του %PRODUCTNAME"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NONE\n"
+"pairedlist.text"
+msgid "[None]"
+msgstr "[None]"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DONTKNOW\n"
+"pairedlist.text"
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SYSTEM\n"
+"pairedlist.text"
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SYSTEM_CONFIG\n"
+"pairedlist.text"
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AFRIKAANS\n"
+"pairedlist.text"
+msgid "Afrikaans (South Africa)"
+msgstr "Αφρικάανς (Νότια Αφρική)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ALBANIAN\n"
+"pairedlist.text"
+msgid "Albanian"
+msgstr "Αλβανικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_PRIMARY_ONLY\n"
+"pairedlist.text"
+msgid "Arabic"
+msgstr "Αραβικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_ALGERIA\n"
+"pairedlist.text"
+msgid "Arabic (Algeria)"
+msgstr "Αραβικά (Αλγερία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_BAHRAIN\n"
+"pairedlist.text"
+msgid "Arabic (Bahrain)"
+msgstr "Αραβικά (Μπαχρέιν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_CHAD\n"
+"pairedlist.text"
+msgid "Arabic (Chad)"
+msgstr "Αραβικά (Τσαντ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_COMOROS\n"
+"pairedlist.text"
+msgid "Arabic (Comoros)"
+msgstr "Αραβικά (Κομόρες)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_DJIBOUTI\n"
+"pairedlist.text"
+msgid "Arabic (Djibouti)"
+msgstr "Αραβικά (Τζιμπουτί)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_EGYPT\n"
+"pairedlist.text"
+msgid "Arabic (Egypt)"
+msgstr "Αραβικά (Αίγυπτος)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_ERITREA\n"
+"pairedlist.text"
+msgid "Arabic (Eritrea)"
+msgstr "Αραβικά (Ερυθραία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_IRAQ\n"
+"pairedlist.text"
+msgid "Arabic (Iraq)"
+msgstr "Αραβικά (Ιράκ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_ISRAEL\n"
+"pairedlist.text"
+msgid "Arabic (Israel)"
+msgstr "Αραβικά (Ισραήλ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_JORDAN\n"
+"pairedlist.text"
+msgid "Arabic (Jordan)"
+msgstr "Αραβικά (Ιορδανία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_KUWAIT\n"
+"pairedlist.text"
+msgid "Arabic (Kuwait)"
+msgstr "Αραβικά (Κουβέιτ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_LEBANON\n"
+"pairedlist.text"
+msgid "Arabic (Lebanon)"
+msgstr "Αραβικά (Λίβανος)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_LIBYA\n"
+"pairedlist.text"
+msgid "Arabic (Libya)"
+msgstr "Αραβικά (Λιβύη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_MAURITANIA\n"
+"pairedlist.text"
+msgid "Arabic (Mauritania)"
+msgstr "Αραβικά (Μαυριτανία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_MOROCCO\n"
+"pairedlist.text"
+msgid "Arabic (Morocco)"
+msgstr "Αραβικά (Μαρόκο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_OMAN\n"
+"pairedlist.text"
+msgid "Arabic (Oman)"
+msgstr "Αραβικά (Ομάν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_PALESTINE\n"
+"pairedlist.text"
+msgid "Arabic (Palestine)"
+msgstr "Αραβικά (Παλαιστίνη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_QATAR\n"
+"pairedlist.text"
+msgid "Arabic (Qatar)"
+msgstr "Αραβικά (Κατάρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_SAUDI_ARABIA\n"
+"pairedlist.text"
+msgid "Arabic (Saudi Arabia)"
+msgstr "Αραβικά (Σαουδική Αραβία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_SOMALIA\n"
+"pairedlist.text"
+msgid "Arabic (Somalia)"
+msgstr "Αραβικά (Σομαλία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_SUDAN\n"
+"pairedlist.text"
+msgid "Arabic (Sudan)"
+msgstr "Αραβικά (Σουδάν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_SYRIA\n"
+"pairedlist.text"
+msgid "Arabic (Syria)"
+msgstr "Αραβικά (Συρία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_TUNISIA\n"
+"pairedlist.text"
+msgid "Arabic (Tunisia)"
+msgstr "Αραβικά (Τυνησία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_UAE\n"
+"pairedlist.text"
+msgid "Arabic (UAE)"
+msgstr "Αραβικά (Ηνωμένα Αραβικά Εμιράτα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_YEMEN\n"
+"pairedlist.text"
+msgid "Arabic (Yemen)"
+msgstr "Αραβικά (Υεμένη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARAGONESE\n"
+"pairedlist.text"
+msgid "Aragonese"
+msgstr "Αραγονέζικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARMENIAN\n"
+"pairedlist.text"
+msgid "Armenian"
+msgstr "Αρμένικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ASSAMESE\n"
+"pairedlist.text"
+msgid "Assamese"
+msgstr "Ασαμίζ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AZERI_LATIN\n"
+"pairedlist.text"
+msgid "Azerbaijani Latin"
+msgstr "Αζέρικα - λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AZERI_CYRILLIC\n"
+"pairedlist.text"
+msgid "Azerbaijani Cyrillic"
+msgstr "Αζέρικα - κυριλλικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BASQUE\n"
+"pairedlist.text"
+msgid "Basque"
+msgstr "Βασκικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BENGALI\n"
+"pairedlist.text"
+msgid "Bengali (India)"
+msgstr "Μπενγκάλι (Ινδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BULGARIAN\n"
+"pairedlist.text"
+msgid "Bulgarian"
+msgstr "Βουλγαρικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BELARUSIAN\n"
+"pairedlist.text"
+msgid "Belarusian"
+msgstr "Λευκορώσικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CATALAN\n"
+"pairedlist.text"
+msgid "Catalan"
+msgstr "Καταλανικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CATALAN_VALENCIAN\n"
+"pairedlist.text"
+msgid "Catalan (Valencian)"
+msgstr "Καταλανικά (Βαλένθιας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_TRADITIONAL\n"
+"pairedlist.text"
+msgid "Chinese (traditional)"
+msgstr "Κινέζικα (παραδοσιακά)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_SIMPLIFIED\n"
+"pairedlist.text"
+msgid "Chinese (simplified)"
+msgstr "Κινέζικα (απλοποιημένα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_HONGKONG\n"
+"pairedlist.text"
+msgid "Chinese (Hong Kong)"
+msgstr "Κινέζικα (Χονγκ Κονγκ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_SINGAPORE\n"
+"pairedlist.text"
+msgid "Chinese (Singapore)"
+msgstr "Κινέζικα (Σιγκαπούρη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_MACAU\n"
+"pairedlist.text"
+msgid "Chinese (Macau)"
+msgstr "Κινέζικα (Μακάο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CROATIAN\n"
+"pairedlist.text"
+msgid "Croatian"
+msgstr "Κροατικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CZECH\n"
+"pairedlist.text"
+msgid "Czech"
+msgstr "Τσέχικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DANISH\n"
+"pairedlist.text"
+msgid "Danish"
+msgstr "Δανέζικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DUTCH\n"
+"pairedlist.text"
+msgid "Dutch (Netherlands)"
+msgstr "Ολλανδικά (Κάτω χωρών)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DUTCH_BELGIAN\n"
+"pairedlist.text"
+msgid "Dutch (Belgium)"
+msgstr "Ολλανδικά (Βέλγιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_US\n"
+"pairedlist.text"
+msgid "English (USA)"
+msgstr "Αγγλικά (ΗΠΑ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_UK\n"
+"pairedlist.text"
+msgid "English (UK)"
+msgstr "Αγγλικά (Ενωμένο Βασίλειο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_UK_OED\n"
+"pairedlist.text"
+msgid "English, OED spelling (UK)"
+msgstr "Αγγλικά, ορθογραφία OED (UK)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_AUS\n"
+"pairedlist.text"
+msgid "English (Australia)"
+msgstr "Αγγλικά (Αυστραλία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_CAN\n"
+"pairedlist.text"
+msgid "English (Canada)"
+msgstr "Αγγλικά (Καναδάς)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_NZ\n"
+"pairedlist.text"
+msgid "English (New Zealand)"
+msgstr "Αγγλικά (Νέα Ζηλανδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_EIRE\n"
+"pairedlist.text"
+msgid "English (Ireland)"
+msgstr "Αγγλικά (Ιρλανδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_SAFRICA\n"
+"pairedlist.text"
+msgid "English (South Africa)"
+msgstr "Αγγλικά (Νότιας Αφρικής)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_JAMAICA\n"
+"pairedlist.text"
+msgid "English (Jamaica)"
+msgstr "Αγγλικά (Τζαμάικα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_CARRIBEAN\n"
+"pairedlist.text"
+msgid "English (Caribbean)"
+msgstr "Αγγλικά (Kαραϊβική)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_BELIZE\n"
+"pairedlist.text"
+msgid "English (Belize)"
+msgstr "Αγγλικά (Μπελίσε)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_TRINIDAD\n"
+"pairedlist.text"
+msgid "English (Trinidad)"
+msgstr "Αγγλικά (Τρίνινταντ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_ZIMBABWE\n"
+"pairedlist.text"
+msgid "English (Zimbabwe)"
+msgstr "Αγγλικά (Ζιμπάμπουε)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_PHILIPPINES\n"
+"pairedlist.text"
+msgid "English (Philippines)"
+msgstr "Αγγλικά (Φιλιππίνες)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_INDIA\n"
+"pairedlist.text"
+msgid "English (India)"
+msgstr "Αγγλικά (Ινδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ESTONIAN\n"
+"pairedlist.text"
+msgid "Estonian"
+msgstr "Εσθονικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FINNISH\n"
+"pairedlist.text"
+msgid "Finnish"
+msgstr "Φινλανδικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FAEROESE\n"
+"pairedlist.text"
+msgid "Faroese"
+msgstr "Φερόες"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FARSI\n"
+"pairedlist.text"
+msgid "Persian"
+msgstr "Περσικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH\n"
+"pairedlist.text"
+msgid "French (France)"
+msgstr "Γαλλικά (Γαλλίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_BELGIAN\n"
+"pairedlist.text"
+msgid "French (Belgium)"
+msgstr "Γαλλικά (Βέλγιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_CANADIAN\n"
+"pairedlist.text"
+msgid "French (Canada)"
+msgstr "Γαλλικά (Καναδάς)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_SWISS\n"
+"pairedlist.text"
+msgid "French (Switzerland)"
+msgstr "Γαλλικά (Ελβετία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_LUXEMBOURG\n"
+"pairedlist.text"
+msgid "French (Luxembourg)"
+msgstr "Γαλλικά (Λουξεμβούργο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_MONACO\n"
+"pairedlist.text"
+msgid "French (Monaco)"
+msgstr "Γαλλικά (Μονακό)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GASCON\n"
+"pairedlist.text"
+msgid "Gascon"
+msgstr "Γκασκόν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN\n"
+"pairedlist.text"
+msgid "German (Germany)"
+msgstr "Γερμανικά (Γερμανίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_SWISS\n"
+"pairedlist.text"
+msgid "German (Switzerland)"
+msgstr "Γερμανικά (Ελβετία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_AUSTRIAN\n"
+"pairedlist.text"
+msgid "German (Austria)"
+msgstr "Γερμανικά (Αυστρία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_LUXEMBOURG\n"
+"pairedlist.text"
+msgid "German (Luxembourg)"
+msgstr "Γερμανικά (Λουξεμβούργο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_LIECHTENSTEIN\n"
+"pairedlist.text"
+msgid "German (Liechtenstein)"
+msgstr "Γερμανικά (Λίχτενσταϊν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GREEK\n"
+"pairedlist.text"
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GUJARATI\n"
+"pairedlist.text"
+msgid "Gujarati"
+msgstr "Γκουτζαράτι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HEBREW\n"
+"pairedlist.text"
+msgid "Hebrew"
+msgstr "Εβραϊκά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HINDI\n"
+"pairedlist.text"
+msgid "Hindi"
+msgstr "Ινδικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HUNGARIAN\n"
+"pairedlist.text"
+msgid "Hungarian"
+msgstr "Ουγγρικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ICELANDIC\n"
+"pairedlist.text"
+msgid "Icelandic"
+msgstr "Ισλανδικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_INDONESIAN\n"
+"pairedlist.text"
+msgid "Indonesian"
+msgstr "Ινδονησιακά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ITALIAN\n"
+"pairedlist.text"
+msgid "Italian (Italy)"
+msgstr "Ιταλικά (Ιταλίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ITALIAN_SWISS\n"
+"pairedlist.text"
+msgid "Italian (Switzerland)"
+msgstr "Ιταλικά (Ελβετίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_JAPANESE\n"
+"pairedlist.text"
+msgid "Japanese"
+msgstr "Ιαπωνικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KANNADA\n"
+"pairedlist.text"
+msgid "Kannada"
+msgstr "Κανάντα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KASHMIRI\n"
+"pairedlist.text"
+msgid "Kashmiri (Kashmir)"
+msgstr "Κασμίρι (Κασμίρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KASHMIRI_INDIA\n"
+"pairedlist.text"
+msgid "Kashmiri (India)"
+msgstr "Κασμίρι (Ινδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KAZAKH\n"
+"pairedlist.text"
+msgid "Kazakh"
+msgstr "Καζάκικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KONKANI\n"
+"pairedlist.text"
+msgid "Konkani"
+msgstr "Κονκάνι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KOREAN\n"
+"pairedlist.text"
+msgid "Korean (RoK)"
+msgstr "Κορεατικά (Δημοκρατία της Κορέας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LATVIAN\n"
+"pairedlist.text"
+msgid "Latvian"
+msgstr "Λεττονικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LITHUANIAN\n"
+"pairedlist.text"
+msgid "Lithuanian"
+msgstr "Λιθουανικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MACEDONIAN\n"
+"pairedlist.text"
+msgid "Macedonian"
+msgstr "Σλαβομακεδόνικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALAY_MALAYSIA\n"
+"pairedlist.text"
+msgid "Malay (Malaysia)"
+msgstr "Μαλαϊκά (Μαλαισία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALAY_BRUNEI_DARUSSALAM\n"
+"pairedlist.text"
+msgid "Malay (Brunei Darussalam)"
+msgstr "Μαλαϊκά (Μπρουνέι Νταρουσαλάμ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALAYALAM\n"
+"pairedlist.text"
+msgid "Malayalam"
+msgstr "Μαλαγιαλάμ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MANIPURI\n"
+"pairedlist.text"
+msgid "Manipuri"
+msgstr "Μανιπούρι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MARATHI\n"
+"pairedlist.text"
+msgid "Marathi"
+msgstr "Μαράτι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NEPALI\n"
+"pairedlist.text"
+msgid "Nepali (Nepal)"
+msgstr "Νεπάλι (Νεπάλ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NEPALI_INDIA\n"
+"pairedlist.text"
+msgid "Nepali (India)"
+msgstr "Νεπάλι (Ινδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NORWEGIAN_BOKMAL\n"
+"pairedlist.text"
+msgid "Norwegian, Bokmål"
+msgstr "Νορβηγικά, Bokmål"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NORWEGIAN_NYNORSK\n"
+"pairedlist.text"
+msgid "Norwegian, Nynorsk"
+msgstr "Νορβηγικά, Nynorsk"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ODIA\n"
+"pairedlist.text"
+msgid "Odia"
+msgstr "Odia"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_POLISH\n"
+"pairedlist.text"
+msgid "Polish"
+msgstr "Πολωνικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PORTUGUESE_ANGOLA\n"
+"pairedlist.text"
+msgid "Portuguese (Angola)"
+msgstr "Πορτογαλικά (Αγκόλα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PORTUGUESE\n"
+"pairedlist.text"
+msgid "Portuguese (Portugal)"
+msgstr "Πορτογαλικά (Πορτογαλίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PORTUGUESE_BRAZILIAN\n"
+"pairedlist.text"
+msgid "Portuguese (Brazil)"
+msgstr "Πορτογαλικά (Βραζιλίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PUNJABI\n"
+"pairedlist.text"
+msgid "Punjabi"
+msgstr "Πουντζάμπι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_RHAETO_ROMAN\n"
+"pairedlist.text"
+msgid "Rhaeto-Romance"
+msgstr "Ραιτορωμανικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ROMANIAN\n"
+"pairedlist.text"
+msgid "Romanian (Romania)"
+msgstr "Ρουμάνικα (Ρουμανία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ROMANIAN_MOLDOVA\n"
+"pairedlist.text"
+msgid "Romanian (Moldova)"
+msgstr "Ρουμάνικα (Μολδαβία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_RUSSIAN\n"
+"pairedlist.text"
+msgid "Russian"
+msgstr "Ρώσικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SANSKRIT\n"
+"pairedlist.text"
+msgid "Sanskrit"
+msgstr "Σανσκριτικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SERBIAN_CYRILLIC_SAM\n"
+"pairedlist.text"
+msgid "Serbian Cyrillic (Serbia and Montenegro)"
+msgstr "Σερβικά κυριλλικά (Σερβία και Μαυροβούνιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SERBIAN_LATIN_SAM\n"
+"pairedlist.text"
+msgid "Serbian Latin (Serbia and Montenegro)"
+msgstr "Σερβικά λατινικά (Σερβία και Μαυροβούνιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_CYRILLIC_SERBIA\n"
+"pairedlist.text"
+msgid "Serbian Cyrillic (Serbia)"
+msgstr "Σερβικά κυριλλικά (Σερβία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_LATIN_SERBIA\n"
+"pairedlist.text"
+msgid "Serbian Latin (Serbia)"
+msgstr "Σερβικά λατινικά (Σερβία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_CYRILLIC_MONTENEGRO\n"
+"pairedlist.text"
+msgid "Serbian Cyrillic (Montenegro)"
+msgstr "Σερβικά κυριλλικά (Μαυροβούνιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_LATIN_MONTENEGRO\n"
+"pairedlist.text"
+msgid "Serbian Latin (Montenegro)"
+msgstr "Σερβικά λατινικά (Μαυροβούνιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SERBIAN_LATIN_LSO\n"
+"pairedlist.text"
+msgid "Serbian Latin"
+msgstr "Σερβική λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SIDAMA\n"
+"pairedlist.text"
+msgid "Sidama"
+msgstr "Σιντάμα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SINDHI\n"
+"pairedlist.text"
+msgid "Sindhi"
+msgstr "Σίντι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SLOVAK\n"
+"pairedlist.text"
+msgid "Slovak"
+msgstr "Σλοβάκικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SLOVENIAN\n"
+"pairedlist.text"
+msgid "Slovenian"
+msgstr "Σλοβένικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH\n"
+"pairedlist.text"
+msgid "Spanish (Spain)"
+msgstr "Ισπανικά (Ισπανίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_MEXICAN\n"
+"pairedlist.text"
+msgid "Spanish (Mexico)"
+msgstr "Ισπανικά (Μεξικό)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_GUATEMALA\n"
+"pairedlist.text"
+msgid "Spanish (Guatemala)"
+msgstr "Ισπανικά (Γουατεμάλα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_COSTARICA\n"
+"pairedlist.text"
+msgid "Spanish (Costa Rica)"
+msgstr "Ισπανικά (Κόστα Ρίκα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PANAMA\n"
+"pairedlist.text"
+msgid "Spanish (Panama)"
+msgstr "Ισπανικά (Παναμάς)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_DOMINICAN_REPUBLIC\n"
+"pairedlist.text"
+msgid "Spanish (Dom. Rep.)"
+msgstr "Ισπανικά (Δομινικανή Δημοκρατία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_VENEZUELA\n"
+"pairedlist.text"
+msgid "Spanish (Venezuela)"
+msgstr "Ισπανικά (Βενεζουέλα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_COLOMBIA\n"
+"pairedlist.text"
+msgid "Spanish (Colombia)"
+msgstr "Ισπανικά (Κολομβία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PERU\n"
+"pairedlist.text"
+msgid "Spanish (Peru)"
+msgstr "Ισπανικά (Περού)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_ARGENTINA\n"
+"pairedlist.text"
+msgid "Spanish (Argentina)"
+msgstr "Ισπανικά (Αργεντινή)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_ECUADOR\n"
+"pairedlist.text"
+msgid "Spanish (Ecuador)"
+msgstr "Ισπανικά (Εκουαδόρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_CHILE\n"
+"pairedlist.text"
+msgid "Spanish (Chile)"
+msgstr "Ισπανικά (Χιλή)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_URUGUAY\n"
+"pairedlist.text"
+msgid "Spanish (Uruguay)"
+msgstr "Ισπανικά (Ουρουγουάη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PARAGUAY\n"
+"pairedlist.text"
+msgid "Spanish (Paraguay)"
+msgstr "Ισπανικά (Παραγουάη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_BOLIVIA\n"
+"pairedlist.text"
+msgid "Spanish (Bolivia)"
+msgstr "Ισπανικά (Βολιβία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_EL_SALVADOR\n"
+"pairedlist.text"
+msgid "Spanish (El Salvador)"
+msgstr "Ισπανικά (Ελ Σαλβαδόρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_HONDURAS\n"
+"pairedlist.text"
+msgid "Spanish (Honduras)"
+msgstr "Ισπανικά (Ονδούρα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_NICARAGUA\n"
+"pairedlist.text"
+msgid "Spanish (Nicaragua)"
+msgstr "Ισπανικά (Νικαράγουα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PUERTO_RICO\n"
+"pairedlist.text"
+msgid "Spanish (Puerto Rico)"
+msgstr "Ισπανικά (Πουέρτο Ρίκο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SWAHILI\n"
+"pairedlist.text"
+msgid "Swahili (Kenya)"
+msgstr "Σουαχίλι (Κένυα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SWEDISH\n"
+"pairedlist.text"
+msgid "Swedish (Sweden)"
+msgstr "Σουηδικά (Σουηδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SWEDISH_FINLAND\n"
+"pairedlist.text"
+msgid "Swedish (Finland)"
+msgstr "Σουηδικά (Φινλανδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TAJIK\n"
+"pairedlist.text"
+msgid "Tajik"
+msgstr "Τατζίκ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TAMIL\n"
+"pairedlist.text"
+msgid "Tamil"
+msgstr "Ταμίλ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TATAR\n"
+"pairedlist.text"
+msgid "Tatar"
+msgstr "Ταταρικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TELUGU\n"
+"pairedlist.text"
+msgid "Telugu"
+msgstr "Τελούγκου"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_THAI\n"
+"pairedlist.text"
+msgid "Thai"
+msgstr "Ταϊλανδικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TURKISH\n"
+"pairedlist.text"
+msgid "Turkish"
+msgstr "Τουρκικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_URDU_PAKISTAN\n"
+"pairedlist.text"
+msgid "Urdu (Pakistan)"
+msgstr "Ουρντού (Πακιστάν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_URDU_INDIA\n"
+"pairedlist.text"
+msgid "Urdu (India)"
+msgstr "Ουρντού (Ινδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UKRAINIAN\n"
+"pairedlist.text"
+msgid "Ukrainian"
+msgstr "Ουκρανικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UZBEK_LATIN\n"
+"pairedlist.text"
+msgid "Uzbek Latin"
+msgstr "Ουζμπέκικα λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UZBEK_CYRILLIC\n"
+"pairedlist.text"
+msgid "Uzbek Cyrillic"
+msgstr "Ουζμπεκικά κυριλλικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_WELSH\n"
+"pairedlist.text"
+msgid "Welsh"
+msgstr "Ουαλικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LATIN_VATICAN\n"
+"pairedlist.text"
+msgid "Latin"
+msgstr "Λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ESPERANTO\n"
+"pairedlist.text"
+msgid "Esperanto"
+msgstr "Εσπεράντο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KINYARWANDA\n"
+"pairedlist.text"
+msgid "Kinyarwanda (Rwanda)"
+msgstr "Κινιαρουάντα (Ρουάντα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MAORI_NEW_ZEALAND\n"
+"pairedlist.text"
+msgid "Maori"
+msgstr "Μαόρι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GALICIAN\n"
+"pairedlist.text"
+msgid "Galician"
+msgstr "Γαλικίας"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DHIVEHI\n"
+"pairedlist.text"
+msgid "Dhivehi"
+msgstr "Ντιβέχι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SEPEDI\n"
+"pairedlist.text"
+msgid "Northern Sotho"
+msgstr "Βόρειου Σότο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GAELIC_SCOTLAND\n"
+"pairedlist.text"
+msgid "Gaelic (Scotland)"
+msgstr "Γαελικά (Σκωτία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MONGOLIAN_CYRILLIC_MONGOLIA\n"
+"pairedlist.text"
+msgid "Mongolian Cyrillic"
+msgstr "Μογγολικό κυριλλικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MONGOLIAN_MONGOLIAN_MONGOLIA\n"
+"pairedlist.text"
+msgid "Mongolian Mongolian"
+msgstr "Μογγολικά Μογγολία"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_INTERLINGUA\n"
+"pairedlist.text"
+msgid "Interlingua"
+msgstr "Ιντερλίνγκουα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BOSNIAN_BOSNIA_HERZEGOVINA\n"
+"pairedlist.text"
+msgid "Bosnian"
+msgstr "Βοσνιακά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BENGALI_BANGLADESH\n"
+"pairedlist.text"
+msgid "Bengali (Bangladesh)"
+msgstr "Μπενγκάλι (Μπαγκλαντές)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_OCCITAN\n"
+"pairedlist.text"
+msgid "Occitan"
+msgstr "Οξιτάν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KHMER\n"
+"pairedlist.text"
+msgid "Khmer"
+msgstr "Κμερ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_TURKEY\n"
+"pairedlist.text"
+msgid "Kurdish, Northern (Turkey)"
+msgstr "Κουρδικά, βόρεια (Τουρκία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_SYRIA\n"
+"pairedlist.text"
+msgid "Kurdish, Northern (Syria)"
+msgstr "Κουρδικά, νότια (Συρία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_IRAQ\n"
+"pairedlist.text"
+msgid "Kurdish, Central (Iraq)"
+msgstr "Κουρδικά, κεντρικά (Ιράκ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_IRAN\n"
+"pairedlist.text"
+msgid "Kurdish, Central (Iran)"
+msgstr "Κουρδικά, κεντρικά (Ιράν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_SOUTHERN_IRAN\n"
+"pairedlist.text"
+msgid "Kurdish, Southern (Iran)"
+msgstr "Κουρδικά, νότια (Ιράν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_SOUTHERN_IRAQ\n"
+"pairedlist.text"
+msgid "Kurdish, Southern (Iraq)"
+msgstr "Κουρδικά, νότια (Ιράκ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN\n"
+"pairedlist.text"
+msgid "Sardinian"
+msgstr "Σαρδηνίας"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DZONGKHA\n"
+"pairedlist.text"
+msgid "Dzongkha"
+msgstr "Τσόγκα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SWAHILI_TANZANIA\n"
+"pairedlist.text"
+msgid "Swahili (Tanzania)"
+msgstr "Σουαχίλι (Τανζανία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LAO\n"
+"pairedlist.text"
+msgid "Lao"
+msgstr "Λαοτινά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GAELIC_IRELAND\n"
+"pairedlist.text"
+msgid "Irish"
+msgstr "Ιρλανδικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TIBETAN\n"
+"pairedlist.text"
+msgid "Tibetan (PR China)"
+msgstr "Θιβετιανά (ΛΔ Κίνας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GEORGIAN\n"
+"pairedlist.text"
+msgid "Georgian"
+msgstr "Γεωργιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRISIAN_NETHERLANDS\n"
+"pairedlist.text"
+msgid "Frisian"
+msgstr "Φρίσιαν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TSWANA\n"
+"pairedlist.text"
+msgid "Tswana (South Africa)"
+msgstr "Τσουάνα (Νότια Αφρική)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ZULU\n"
+"pairedlist.text"
+msgid "Zulu"
+msgstr "Ζουλού"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_VIETNAMESE\n"
+"pairedlist.text"
+msgid "Vietnamese"
+msgstr "Βιετναμέζικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BRETON\n"
+"pairedlist.text"
+msgid "Breton"
+msgstr "Μπρετόν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KALAALLISUT\n"
+"pairedlist.text"
+msgid "Kalaallisut"
+msgstr "Καλααλίσουτ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NDEBELE_SOUTH\n"
+"pairedlist.text"
+msgid "Ndebele, South"
+msgstr "Ντεμπέλε, Νότιο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SESOTHO\n"
+"pairedlist.text"
+msgid "Southern Sotho"
+msgstr "Βόρειο Σότο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SWAZI\n"
+"pairedlist.text"
+msgid "Swazi"
+msgstr "Σουάζι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TSONGA\n"
+"pairedlist.text"
+msgid "Tsonga"
+msgstr "Τσόγκα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_VENDA\n"
+"pairedlist.text"
+msgid "Venda"
+msgstr "Βένδα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TSWANA_BOTSWANA\n"
+"pairedlist.text"
+msgid "Tswana (Botswana)"
+msgstr "Τσουάνα (Μποτσουάνα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_XHOSA\n"
+"pairedlist.text"
+msgid "Xhosa"
+msgstr "Ξιόσα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SINHALESE_SRI_LANKA\n"
+"pairedlist.text"
+msgid "Sinhala"
+msgstr "Σινχάλα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MOORE\n"
+"pairedlist.text"
+msgid "Moore"
+msgstr "Moore"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BAMBARA\n"
+"pairedlist.text"
+msgid "Bambara"
+msgstr "Μπαμπάρα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AKAN\n"
+"pairedlist.text"
+msgid "Akan"
+msgstr "Ακάν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LUXEMBOURGISH\n"
+"pairedlist.text"
+msgid "Luxembourgish"
+msgstr "Λουξεμβουργιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRIULIAN\n"
+"pairedlist.text"
+msgid "Friulian"
+msgstr "Φρίουλι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FIJIAN\n"
+"pairedlist.text"
+msgid "Fijian"
+msgstr "Φίτζι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AFRIKAANS_NAMIBIA\n"
+"pairedlist.text"
+msgid "Afrikaans (Namibia)"
+msgstr "Αφρικάανς (Ναμίμπια)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_NAMIBIA\n"
+"pairedlist.text"
+msgid "English (Namibia)"
+msgstr "Αγγλικά (Ναμίμπιας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_WALLOON\n"
+"pairedlist.text"
+msgid "Walloon"
+msgstr "Βαλλονικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_COPTIC\n"
+"pairedlist.text"
+msgid "Coptic"
+msgstr "Κοπτικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TIGRIGNA_ERITREA\n"
+"pairedlist.text"
+msgid "Tigrigna (Eritrea)"
+msgstr "Τιγκριγκάνα (Ερυθραίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TIGRIGNA_ETHIOPIA\n"
+"pairedlist.text"
+msgid "Tigrigna (Ethiopia)"
+msgstr "Τιγκριγκάνα (Αιθιοπίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AMHARIC_ETHIOPIA\n"
+"pairedlist.text"
+msgid "Amharic"
+msgstr "Αμχαρικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KIRGHIZ\n"
+"pairedlist.text"
+msgid "Kirghiz"
+msgstr "Κιργιζιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GERMAN_BELGIUM\n"
+"pairedlist.text"
+msgid "German (Belgium)"
+msgstr "Γερμανικά (Βέλγιο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CHUVASH\n"
+"pairedlist.text"
+msgid "Chuvash"
+msgstr "Τσουβάς"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BURMESE\n"
+"pairedlist.text"
+msgid "Burmese"
+msgstr "Μπουρμέζε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HAUSA_NIGERIA\n"
+"pairedlist.text"
+msgid "Hausa (Nigeria)"
+msgstr "Χαούσα (Νιγηρία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_HAUSA_GHANA\n"
+"pairedlist.text"
+msgid "Hausa (Ghana)"
+msgstr "Χαούσα (Γκάνα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_EWE_GHANA\n"
+"pairedlist.text"
+msgid "Éwé"
+msgstr "Éwé"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_GHANA\n"
+"pairedlist.text"
+msgid "English (Ghana)"
+msgstr "Αγγλικά (Γκάνας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SANGO\n"
+"pairedlist.text"
+msgid "Sango"
+msgstr "Σάγκο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TAGALOG\n"
+"pairedlist.text"
+msgid "Tagalog"
+msgstr "Ταγκαλόγκ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GANDA\n"
+"pairedlist.text"
+msgid "Ganda"
+msgstr "Γκάντα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LINGALA_DRCONGO\n"
+"pairedlist.text"
+msgid "Lingala"
+msgstr "Λινγκάλα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LOW_GERMAN\n"
+"pairedlist.text"
+msgid "Low German"
+msgstr "Κάτω γερμανικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_HILIGAYNON\n"
+"pairedlist.text"
+msgid "Hiligaynon"
+msgstr "Hiligaynon"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NYANJA\n"
+"pairedlist.text"
+msgid "Nyanja"
+msgstr "Nyanja"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KASHUBIAN\n"
+"pairedlist.text"
+msgid "Kashubian"
+msgstr "Κασούμπιαν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SPANISH_CUBA\n"
+"pairedlist.text"
+msgid "Spanish (Cuba)"
+msgstr "Ισπανικά (Κούβας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TETUN\n"
+"pairedlist.text"
+msgid "Tetun (Indonesia)"
+msgstr "Τετούν (Ινδονησία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_QUECHUA_NORTH_BOLIVIA\n"
+"pairedlist.text"
+msgid "Quechua (Bolivia, North)"
+msgstr "Κέτσουα (Βολιβία, Βόρεια)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_QUECHUA_SOUTH_BOLIVIA\n"
+"pairedlist.text"
+msgid "Quechua (Bolivia, South)"
+msgstr "Κέτσουα (Βολιβία, Νότια)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SOMALI\n"
+"pairedlist.text"
+msgid "Somali"
+msgstr "Σομαλιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_INARI\n"
+"pairedlist.text"
+msgid "Sami, Inari (Finland)"
+msgstr "Σάμι, ινάρι (Φιλανδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_LULE_NORWAY\n"
+"pairedlist.text"
+msgid "Sami, Lule (Norway)"
+msgstr "Σάμι, λούλε (Νορβηγίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_LULE_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Lule (Sweden)"
+msgstr "Σάμι, λούλε (Σουηδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_NORTHERN_FINLAND\n"
+"pairedlist.text"
+msgid "Sami, Northern (Finland)"
+msgstr "Σάμι, βόρεια (Φιλανδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_NORTHERN_NORWAY\n"
+"pairedlist.text"
+msgid "Sami, Northern (Norway)"
+msgstr "Σάμι, βόρεια (Νορβηγίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_NORTHERN_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Northern (Sweden)"
+msgstr "Σάμι, βόρεια (Σουηδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_SKOLT\n"
+"pairedlist.text"
+msgid "Sami, Skolt (Finland)"
+msgstr "Σάμι, σκόλτ (Φιλανδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_SOUTHERN_NORWAY\n"
+"pairedlist.text"
+msgid "Sami, Southern (Norway)"
+msgstr "Σάμι, νότια (Νορβηγίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_SOUTHERN_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Southern (Sweden)"
+msgstr "Σάμι, νότια (Σουηδίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SAMI_KILDIN_RUSSIA\n"
+"pairedlist.text"
+msgid "Sami, Kildin (Russia)"
+msgstr "Σάμι, κίλντιν (Ρωσίας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GUARANI_PARAGUAY\n"
+"pairedlist.text"
+msgid "Guaraní, Paraguayan"
+msgstr "Γκουαράνι, Παραγουάης"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BODO_INDIA\n"
+"pairedlist.text"
+msgid "Bodo"
+msgstr "Μπόντο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_DOGRI_INDIA\n"
+"pairedlist.text"
+msgid "Dogri"
+msgstr "Ντόγκρι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MAITHILI_INDIA\n"
+"pairedlist.text"
+msgid "Maithili"
+msgstr "Μαϊτίλι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SANTALI_INDIA\n"
+"pairedlist.text"
+msgid "Santali"
+msgstr "Σαντάλι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TETUN_TIMOR_LESTE\n"
+"pairedlist.text"
+msgid "Tetun (Timor-Leste)"
+msgstr "Τετούν (Ανατολικό Τιμόρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TURKMEN\n"
+"pairedlist.text"
+msgid "Turkmen"
+msgstr "Τουρκμέν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALTESE\n"
+"pairedlist.text"
+msgid "Maltese"
+msgstr "Μαλτέζικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TOK_PISIN\n"
+"pairedlist.text"
+msgid "Tok Pisin"
+msgstr "Τοκ Πίσιν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SHUSWAP\n"
+"pairedlist.text"
+msgid "Shuswap"
+msgstr "Σουσουάπ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_OROMO\n"
+"pairedlist.text"
+msgid "Oromo"
+msgstr "Ορόμο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ANCIENT_GREEK\n"
+"pairedlist.text"
+msgid "Greek, Ancient"
+msgstr "Ελληνικά, αρχαία"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_YIDDISH\n"
+"pairedlist.text"
+msgid "Yiddish (Israel)"
+msgstr "Γίντις (Ισραήλ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_QUECHUA_ECUADOR\n"
+"pairedlist.text"
+msgid "Quechua (Ecuador)"
+msgstr "Κέτσουα (Εκουαδόρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UIGHUR_CHINA\n"
+"pairedlist.text"
+msgid "Uyghur"
+msgstr "Ουιγκούρ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ASTURIAN\n"
+"pairedlist.text"
+msgid "Asturian"
+msgstr "Αστουριανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UPPER_SORBIAN_GERMANY\n"
+"pairedlist.text"
+msgid "Sorbian, Upper"
+msgstr "Σορβικά, Άνω"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LOWER_SORBIAN_GERMANY\n"
+"pairedlist.text"
+msgid "Sorbian, Lower"
+msgstr "Σορβικά, Κάτω"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LATGALIAN\n"
+"pairedlist.text"
+msgid "Latgalian"
+msgstr "Latgalian"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MAORE\n"
+"pairedlist.text"
+msgid "Maore"
+msgstr "Μαορί"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BUSHI\n"
+"pairedlist.text"
+msgid "Bushi"
+msgstr "Μπούσι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TAHITIAN\n"
+"pairedlist.text"
+msgid "Tahitian"
+msgstr "Ταϊτιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MALAGASY_PLATEAU\n"
+"pairedlist.text"
+msgid "Malagasy, Plateau"
+msgstr "Μαλγασικά, Πλατό"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PAPIAMENTU\n"
+"pairedlist.text"
+msgid "Papiamentu (Netherlands Antilles)"
+msgstr "Παπιαμέντου (Ολλανδικές Αντίλες)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PAPIAMENTU_ARUBA\n"
+"pairedlist.text"
+msgid "Papiamento (Aruba)"
+msgstr "Παπιαμέντο (Αρούμπα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_CAMPIDANESE\n"
+"pairedlist.text"
+msgid "Sardinian, Campidanese"
+msgstr "Σαρδηνικά, καμπιντανέζε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_GALLURESE\n"
+"pairedlist.text"
+msgid "Sardinian, Gallurese"
+msgstr "Σαρδινικά, γκαλουρέζε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_LOGUDORESE\n"
+"pairedlist.text"
+msgid "Sardinian, Logudorese"
+msgstr "Σαρδηνικά, λογκουντορέζε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_SASSARESE\n"
+"pairedlist.text"
+msgid "Sardinian, Sassarese"
+msgstr "Σαρδηνικά, σασαρέζε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BAFIA\n"
+"pairedlist.text"
+msgid "Bafia"
+msgstr "Μπάφια"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GIKUYU\n"
+"pairedlist.text"
+msgid "Gikuyu"
+msgstr "Γκικούιου"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_YORUBA\n"
+"pairedlist.text"
+msgid "Yoruba"
+msgstr "Γιορούμπα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_RUSYN_UKRAINE\n"
+"pairedlist.text"
+msgid "Rusyn (Ukraine)"
+msgstr "Ρουσίν (Ουκρανία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_RUSYN_SLOVAKIA\n"
+"pairedlist.text"
+msgid "Rusyn (Slovakia)"
+msgstr "Ρουσίν (Σλοβακία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TAMAZIGHT_LATIN_ALGERIA\n"
+"pairedlist.text"
+msgid "Kabyle Latin"
+msgstr "Καμπίλε λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_YIDDISH_US\n"
+"pairedlist.text"
+msgid "Yiddish (USA)"
+msgstr "Γίντις (ΗΠΑ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HAWAIIAN_UNITED_STATES\n"
+"pairedlist.text"
+msgid "Hawaiian"
+msgstr "Χαβανέζικα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LIMBU\n"
+"pairedlist.text"
+msgid "Limbu"
+msgstr "Λίμπου"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LOJBAN\n"
+"pairedlist.text"
+msgid "Lojban"
+msgstr "Λοιμπάν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_HAITIAN\n"
+"pairedlist.text"
+msgid "Haitian"
+msgstr "Αϊτιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BEEMBE\n"
+"pairedlist.text"
+msgid "Beembe"
+msgstr "Μπεέμπε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BEKWEL\n"
+"pairedlist.text"
+msgid "Bekwel"
+msgstr "Μπέκουελ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KITUBA\n"
+"pairedlist.text"
+msgid "Kituba"
+msgstr "Κιτούμπα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LARI\n"
+"pairedlist.text"
+msgid "Lari"
+msgstr "Λάρι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MBOCHI\n"
+"pairedlist.text"
+msgid "Mbochi"
+msgstr "Μπόκι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_EBOO\n"
+"pairedlist.text"
+msgid "Teke-Eboo"
+msgstr "Τέκε-έμπου"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_IBALI\n"
+"pairedlist.text"
+msgid "Teke-Ibali"
+msgstr "Τέκε-ιμπάλι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_TYEE\n"
+"pairedlist.text"
+msgid "Teke-Tyee"
+msgstr "Τέκε-τιέε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_VILI\n"
+"pairedlist.text"
+msgid "Vili"
+msgstr "Βίλι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KEYID\n"
+"pairedlist.text"
+msgid "KeyID"
+msgstr "Αναγνωριστικό κλειδιού"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PALI_LATIN\n"
+"pairedlist.text"
+msgid "Pali Latin"
+msgstr "Πάλι λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KYRGYZ_CHINA\n"
+"pairedlist.text"
+msgid "Kyrgyz (China)"
+msgstr "Κιργιζικά (Κίνα)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KOMI_ZYRIAN\n"
+"pairedlist.text"
+msgid "Komi-Zyrian"
+msgstr "Κόμι- Τζίριαν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KOMI_PERMYAK\n"
+"pairedlist.text"
+msgid "Komi-Permyak"
+msgstr "Κόμι-Πέρμιακ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PITJANTJATJARA\n"
+"pairedlist.text"
+msgid "Pitjantjatjara"
+msgstr "Pitjantjatjara"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_MALAWI\n"
+"pairedlist.text"
+msgid "English (Malawi)"
+msgstr "Αγγλικά (Μαλάουι)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ERZYA\n"
+"pairedlist.text"
+msgid "Erzya"
+msgstr "Ερτζία"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MARI_MEADOW\n"
+"pairedlist.text"
+msgid "Mari, Meadow"
+msgstr "Μάρι, μεάντοου"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PAPIAMENTU_CURACAO\n"
+"pairedlist.text"
+msgid "Papiamento (Curaçao)"
+msgstr "Παπιαμέντο (Κουρατσάο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PAPIAMENTU_BONAIRE\n"
+"pairedlist.text"
+msgid "Papiamento (Bonaire)"
+msgstr "Παπιαμέντο (Μπονέρ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KHANTY\n"
+"pairedlist.text"
+msgid "Khanty"
+msgstr "Κάντι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LIVONIAN\n"
+"pairedlist.text"
+msgid "Livonian"
+msgstr "Λιβονιανά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MOKSHA\n"
+"pairedlist.text"
+msgid "Moksha"
+msgstr "Μόκσα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MARI_HILL\n"
+"pairedlist.text"
+msgid "Mari, Hill"
+msgstr "Μάρι, λόφος"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NGANASAN\n"
+"pairedlist.text"
+msgid "Nganasan"
+msgstr "Νγκανάσαν"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_OLONETS\n"
+"pairedlist.text"
+msgid "Olonets"
+msgstr "Ολόνετς"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_VEPS\n"
+"pairedlist.text"
+msgid "Veps"
+msgstr "Βεπς"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_VORO\n"
+"pairedlist.text"
+msgid "Võro"
+msgstr "Βέρο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NENETS\n"
+"pairedlist.text"
+msgid "Nenets"
+msgstr "Νένετς"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AKA_CONGO\n"
+"pairedlist.text"
+msgid "Aka (Congo)"
+msgstr "Άκα (Κογκό)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_DIBOLE\n"
+"pairedlist.text"
+msgid "Dibole"
+msgstr "Ντιμπόλε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_DOONDO\n"
+"pairedlist.text"
+msgid "Doondo"
+msgstr "Ντούντο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KAAMBA\n"
+"pairedlist.text"
+msgid "Kaamba"
+msgstr "Καάμπα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KOONGO_CONGO\n"
+"pairedlist.text"
+msgid "Koongo (Congo)"
+msgstr "Κούνγκο (Κονγκό)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KUNYI\n"
+"pairedlist.text"
+msgid "Kunyi"
+msgstr "Κουνίι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NGUNGWEL\n"
+"pairedlist.text"
+msgid "Ngungwel"
+msgstr "Νγκουνγκουέλ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NJYEM_CONGO\n"
+"pairedlist.text"
+msgid "Njyem (Congo)"
+msgstr "Νιιέμ (Κόνγκο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PUNU_CONGO\n"
+"pairedlist.text"
+msgid "Punu"
+msgstr "Πούνου"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SUUNDI\n"
+"pairedlist.text"
+msgid "Suundi"
+msgstr "Σουούντι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_KUKUYA\n"
+"pairedlist.text"
+msgid "Teke-Kukuya"
+msgstr "Τέκε-κουκουία"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TSAANGI\n"
+"pairedlist.text"
+msgid "Tsaangi"
+msgstr "Τσαάνγκι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_YAKA\n"
+"pairedlist.text"
+msgid "Yaka"
+msgstr "Γιάκα"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_YOMBE_CONGO\n"
+"pairedlist.text"
+msgid "Yombe (Congo)"
+msgstr "Γιόμπε (Κόνγκο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NKO\n"
+"pairedlist.text"
+msgid "N'ko"
+msgstr "Νκο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_UDMURT\n"
+"pairedlist.text"
+msgid "Udmurt"
+msgstr "Ούντμουρτ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TIBETAN_INDIA\n"
+"pairedlist.text"
+msgid "Tibetan (India)"
+msgstr "Θιβετιανά (Ινδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CORNISH\n"
+"pairedlist.text"
+msgid "Cornish"
+msgstr "Κορνουαλικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SAMI_PITE_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Pite (Sweden)"
+msgstr "Σάμι, πίτε (Σουηδία)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NGAEBERE\n"
+"pairedlist.text"
+msgid "Ngäbere"
+msgstr "Νγκέμπερε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KUMYK\n"
+"pairedlist.text"
+msgid "Kumyk"
+msgstr "Κούμικ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NOGAI\n"
+"pairedlist.text"
+msgid "Nogai"
+msgstr "Νογκάι"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KARAKALPAK_LATIN\n"
+"pairedlist.text"
+msgid "Karakalpak Latin"
+msgstr "Καρακαλπάκ λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LADIN\n"
+"pairedlist.text"
+msgid "Ladin"
+msgstr "Λαδινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_BURKINA_FASO\n"
+"pairedlist.text"
+msgid "French (Burkina Faso)"
+msgstr "Γαλλικά (Μπουρκίνα Φάσο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PUINAVE\n"
+"pairedlist.text"
+msgid "Puinave"
+msgstr "Πουινάβε"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MANINKAKAN_EASTERN_LATIN\n"
+"pairedlist.text"
+msgid "Maninkakan, Eastern, Latin"
+msgstr "Μανινκακάν, ανατολικά, λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AVAR\n"
+"pairedlist.text"
+msgid "Avar"
+msgstr "Αβάρ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CREE_PLAINS_LATIN\n"
+"pairedlist.text"
+msgid "Cree, Plains, Latin"
+msgstr "Κρι, απλά, λατινικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CREE_PLAINS_SYLLABICS\n"
+"pairedlist.text"
+msgid "Cree, Plains, Syllabics"
+msgstr "Κρι, απλά, συλλαβικά"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LENGO\n"
+"pairedlist.text"
+msgid "Lengo"
+msgstr "Λένγκο"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_COTE_D_IVOIRE\n"
+"pairedlist.text"
+msgid "French (Côte d'Ivoire)"
+msgstr "Γαλλικά (Ακτή του ελεφαντοστού)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_MALI\n"
+"pairedlist.text"
+msgid "French (Mali)"
+msgstr "Γαλλικά (Μαλί)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_SENEGAL\n"
+"pairedlist.text"
+msgid "French (Senegal)"
+msgstr "Γαλλικά (Σενεγάλη)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_BENIN\n"
+"pairedlist.text"
+msgid "French (Benin)"
+msgstr "Γαλλικά (Μπενίν)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_NIGER\n"
+"pairedlist.text"
+msgid "French (Niger)"
+msgstr "Γαλλικά (Νίγηρας)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_TOGO\n"
+"pairedlist.text"
+msgid "French (Togo)"
+msgstr "Γαλλικά (Τόγκο)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KVEN_FINNISH\n"
+"pairedlist.text"
+msgid "Kven Finnish"
+msgstr "Κβεν φινλανδικά"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_1BIT_THRESHOLD\n"
+"string.text"
+msgid "1 bit threshold"
+msgstr "Κατώφλι 1 δυαδικού"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_1BIT_DITHERED\n"
+"string.text"
+msgid "1 bit dithered"
+msgstr "Πρόσμιξη 1 δυαδικού"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_4BIT_GRAYSCALE\n"
+"string.text"
+msgid "4 bit grayscale"
+msgstr "Διαβάθμιση γκρίζου 4 δυαδικών"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_4BIT_COLOR_PALETTE\n"
+"string.text"
+msgid "4 bit color"
+msgstr "Χρώμα 4 δυαδικών"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_8BIT_GRAYSCALE\n"
+"string.text"
+msgid "8 bit grayscale"
+msgstr "Διαβάθμιση γκρίζου 8 δυαδικών"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_8BIT_COLOR_PALETTE\n"
+"string.text"
+msgid "8 bit color"
+msgstr "Χρώμα 8 δυαδικών"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_24BIT_TRUE_COLOR\n"
+"string.text"
+msgid "24 bit true color"
+msgstr "Φυσικό χρώμα 24 δυαδικών"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_ESTIMATED_SIZE_PIX_1\n"
+"string.text"
+msgid "The picture needs about %1 KB of memory."
+msgstr "Η εικόνα χρειάζεται περίπου %1 KB μνήμης."
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_ESTIMATED_SIZE_PIX_2\n"
+"string.text"
+msgid "The picture needs about %1 KB of memory, the file size is %2 KB."
+msgstr "Η εικόνα χρειάζεται περίπου %1 KB μνήμης, το μέγεθος του αρχείου είναι %2 KB."
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_ESTIMATED_SIZE_VEC\n"
+"string.text"
+msgid "The file size is %1 KB."
+msgstr "Το μέγεθος του αρχείου είναι %1 KB."
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_READY\n"
+"string.text"
+msgid "Ready"
+msgstr "Έτοιμο"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAUSED\n"
+"string.text"
+msgid "Paused"
+msgstr "Διακοπή"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PENDING\n"
+"string.text"
+msgid "Pending deletion"
+msgstr "Εκκρεμής διαγραφή"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_BUSY\n"
+"string.text"
+msgid "Busy"
+msgstr "Απασχολημένο"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_INITIALIZING\n"
+"string.text"
+msgid "Initializing"
+msgstr "Αρχικοποίηση"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_WAITING\n"
+"string.text"
+msgid "Waiting"
+msgstr "Αναμονή"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_WARMING_UP\n"
+"string.text"
+msgid "Warming up"
+msgstr "Προετοιμασία"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PROCESSING\n"
+"string.text"
+msgid "Processing"
+msgstr "Επεξεργασία"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PRINTING\n"
+"string.text"
+msgid "Printing"
+msgstr "Γίνεται εκτύπωση"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_OFFLINE\n"
+"string.text"
+msgid "Offline"
+msgstr "Αποσυνδεμένο"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_SERVER_UNKNOWN\n"
+"string.text"
+msgid "Unknown Server"
+msgstr "Άγνωστος εξυπηρετητής"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAPER_JAM\n"
+"string.text"
+msgid "Paper jam"
+msgstr "Φράξιμο χαρτιού"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAPER_OUT\n"
+"string.text"
+msgid "Not enough paper"
+msgstr "Έλλειψη χαρτιού"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_MANUAL_FEED\n"
+"string.text"
+msgid "Manual feed"
+msgstr "Χειροκίνητος εφοδιασμός χαρτιού"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAPER_PROBLEM\n"
+"string.text"
+msgid "Paper problem"
+msgstr "Πρόβλημα με το χαρτί"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_IO_ACTIVE\n"
+"string.text"
+msgid "I/O active"
+msgstr "Είσοδος/έξοδος ενεργές"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_OUTPUT_BIN_FULL\n"
+"string.text"
+msgid "Output bin full"
+msgstr "Το τμήμα εξαγωγής είναι πλήρες"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_TONER_LOW\n"
+"string.text"
+msgid "Toner low"
+msgstr "Χαμηλή στάθμη του γραφίτη"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_NO_TONER\n"
+"string.text"
+msgid "No toner"
+msgstr "Δεν υπάρχει γραφίτης"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAGE_PUNT\n"
+"string.text"
+msgid "Delete Page"
+msgstr "Διαγραφή σελίδας"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_USER_INTERVENTION\n"
+"string.text"
+msgid "User intervention necessary"
+msgstr "Αναγκαία η παρέμβαση του χρήστη"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_OUT_OF_MEMORY\n"
+"string.text"
+msgid "Insufficient memory"
+msgstr "Ανεπαρκής μνήμη"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_DOOR_OPEN\n"
+"string.text"
+msgid "Cover open"
+msgstr "Κάλυμμα ανοιχτό"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_POWER_SAVE\n"
+"string.text"
+msgid "Power save mode"
+msgstr "Κατάσταση εξοικονόμησης ενέργειας"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_DEFPRINTER\n"
+"string.text"
+msgid "Default printer"
+msgstr "Προεπιλεγμένος εκτυπωτής"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_JOBCOUNT\n"
+"string.text"
+msgid "%d documents"
+msgstr "%d έγγραφα"
+
+#: undo.src
+msgctxt ""
+"undo.src\n"
+"STR_UNDO\n"
+"string.text"
+msgid "Undo: "
+msgstr "Αναίρεση: "
+
+#: undo.src
+msgctxt ""
+"undo.src\n"
+"STR_REDO\n"
+"string.text"
+msgid "Re~do: "
+msgstr "Ακύ~ρωση αναίρεσης: "
+
+#: undo.src
+msgctxt ""
+"undo.src\n"
+"STR_REPEAT\n"
+"string.text"
+msgid "~Repeat: "
+msgstr "Ε~πανάληψη: "

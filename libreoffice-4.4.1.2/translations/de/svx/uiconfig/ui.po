@@ -1,0 +1,4759 @@
+#. extracted from svx/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-07 11:09+0100\n"
+"PO-Revision-Date: 2015-01-31 06:10+0000\n"
+"Last-Translator: Christian <kuehl.christian@googlemail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1422684630.000000\n"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"AcceptRejectChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Manage Changes"
+msgstr "Änderungen verwalten"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "_Accept"
+msgstr "_Akzeptieren"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"reject\n"
+"label\n"
+"string.text"
+msgid "_Reject"
+msgstr "A_blehnen"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"acceptall\n"
+"label\n"
+"string.text"
+msgid "A_ccept All"
+msgstr "Alle ak_zeptieren"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"rejectall\n"
+"label\n"
+"string.text"
+msgid "R_eject All"
+msgstr "Alle ab_lehnen"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"AddConditionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Condition"
+msgstr "Bedingung hinzufügen"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Condition:"
+msgstr "_Bedingung:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Result:"
+msgstr "_Ergebnis:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit Namespaces..."
+msgstr "_Namensräume bearbeiten..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Name:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"valueft\n"
+"label\n"
+"string.text"
+msgid "_Default value:"
+msgstr "_Standardwert:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Item"
+msgstr "Element"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"datatypeft\n"
+"label\n"
+"string.text"
+msgid "_Data type:"
+msgstr "_Datentyp:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"required\n"
+"label\n"
+"string.text"
+msgid "_Required"
+msgstr "_Erforderlich"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"requiredcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Bedingung"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevant\n"
+"label\n"
+"string.text"
+msgid "R_elevant"
+msgstr "R_elevant"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevantcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Bedingung"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraint\n"
+"label\n"
+"string.text"
+msgid "_Constraint"
+msgstr "_Einschränkung"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonly\n"
+"label\n"
+"string.text"
+msgid "Read-_only"
+msgstr "_Schreibgeschützt"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calc_ulate"
+msgstr "_Berechnen"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraintcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Bedingung"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonlycond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Bedingung"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculatecond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Bedingung"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"AddInstanceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Instance"
+msgstr "Instanz hinzufügen"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Name:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Instance"
+msgstr "Instanz bearbeiten"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "_URL:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"link\n"
+"label\n"
+"string.text"
+msgid "_Link instance"
+msgstr "_Instanz verknüpfen"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"AddModelDialog\n"
+"title\n"
+"string.text"
+msgid "Add Model"
+msgstr "Modell hinzufügen"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "Model data updates change document's modification status"
+msgstr "Modelldatenaktualisierungen verändern den Änderungszustand des Dokuments"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Name:"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Model"
+msgstr "Modell bearbeiten"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"AddNamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Namespace"
+msgstr "Namensraum hinzufügen"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Prefix:"
+msgstr "_Präfix:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "_URL:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Namespace"
+msgstr "Namensraum bearbeiten"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"AddSubmissionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Submission hinzufügen"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Name:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Binding e_xpression:"
+msgstr "Bindungs_ausdruck:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Action:"
+msgstr "A_ktion:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Method:"
+msgstr "_Methode:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Binding:"
+msgstr "_Bindung:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Replace:"
+msgstr "_Ersetzen:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"AsianPhoneticGuideDialog\n"
+"title\n"
+"string.text"
+msgid "Asian Phonetic Guide"
+msgstr "Phonetische Leitzeichen"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"basetextft\n"
+"label\n"
+"string.text"
+msgid "Base text "
+msgstr "Basistext "
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"rubytextft\n"
+"label\n"
+"string.text"
+msgid "Ruby text"
+msgstr "Ruby-Text"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Alignment:"
+msgstr "Ausrichtung:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Position:"
+msgstr "Position:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styleft\n"
+"label\n"
+"string.text"
+msgid "Character style for ruby text:"
+msgstr "Zeichenvorlage für Ruby-Text:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styles\n"
+"label\n"
+"string.text"
+msgid "Styles"
+msgstr "Designs"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Links"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Zentriert"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Rechts"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"3\n"
+"stringlist.text"
+msgid "0 1 0"
+msgstr "0 1 0"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"4\n"
+"stringlist.text"
+msgid "1 2 1"
+msgstr "1 2 1"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"0\n"
+"stringlist.text"
+msgid "Top"
+msgstr "Oben"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"1\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "Unten"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Preview:"
+msgstr "Vorschau:"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"ChineseConversionDialog\n"
+"title\n"
+"string.text"
+msgid "Chinese Conversion"
+msgstr "Chinesische Konvertierung"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"tosimplified\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "_Traditionelles in vereinfachtes Chinesisch"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"totraditional\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "_Vereinfachtes in traditionelles Chinesisch"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Conversion Direction"
+msgstr "Konvertierungsrichtung"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"commonterms\n"
+"label\n"
+"string.text"
+msgid "Translate _common terms"
+msgstr "_Allgemeine Begriffe übersetzen"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"editterms\n"
+"label\n"
+"string.text"
+msgid "_Edit Terms..."
+msgstr "Begriffe _bearbeiten..."
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Common Terms"
+msgstr "Allgemeine Begriffe"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"ChineseDictionaryDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Dictionary"
+msgstr "Benutzerwörterbuch bearbeiten"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"tradtosimple\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "_Traditionelles in vereinfachtes Chinesisch"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"simpletotrad\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "_Vereinfachtes in traditionelles Chinesisch"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"reverse\n"
+"label\n"
+"string.text"
+msgid "Reverse mapping"
+msgstr "Beidseitige Entsprechung"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"termft\n"
+"label\n"
+"string.text"
+msgid "Term"
+msgstr "Begriff"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"mappingft\n"
+"label\n"
+"string.text"
+msgid "Mapping"
+msgstr "Entsprechung"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"propertyft\n"
+"label\n"
+"string.text"
+msgid "Property"
+msgstr "Eigenschaft"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"0\n"
+"stringlist.text"
+msgid "Other"
+msgstr "Sonstige"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"1\n"
+"stringlist.text"
+msgid "Foreign"
+msgstr "Ausland"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"2\n"
+"stringlist.text"
+msgid "First name"
+msgstr "Vorname"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"3\n"
+"stringlist.text"
+msgid "Last name"
+msgstr "Nachname"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"4\n"
+"stringlist.text"
+msgid "Title"
+msgstr "Titel"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"5\n"
+"stringlist.text"
+msgid "Status"
+msgstr "Status"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"6\n"
+"stringlist.text"
+msgid "Place name"
+msgstr "Ort"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"7\n"
+"stringlist.text"
+msgid "Business"
+msgstr "Beruf"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"8\n"
+"stringlist.text"
+msgid "Adjective"
+msgstr "Adjektiv"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"9\n"
+"stringlist.text"
+msgid "Idiom"
+msgstr "Mundart"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"10\n"
+"stringlist.text"
+msgid "Abbreviation"
+msgstr "Kürzel"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"11\n"
+"stringlist.text"
+msgid "Numerical"
+msgstr "Numerisch"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"12\n"
+"stringlist.text"
+msgid "Noun"
+msgstr "Substantiv"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"13\n"
+"stringlist.text"
+msgid "Verb"
+msgstr "Verb"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"14\n"
+"stringlist.text"
+msgid "Brand name"
+msgstr "Markenname"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "Ä_ndern"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Recent"
+msgstr "Zuletzt verwendet"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"color_picker_button\n"
+"label\n"
+"string.text"
+msgid "Custom Color…"
+msgstr "Benutzerdefinierte Farbe..."
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"CompressGraphicDialog\n"
+"title\n"
+"string.text"
+msgid "Compress Image"
+msgstr "Bild komprimieren"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-lossless\n"
+"label\n"
+"string.text"
+msgid "Lossless compression"
+msgstr "Verlustfreie Kompression"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"checkbox-reduce-resolution\n"
+"label\n"
+"string.text"
+msgid "Reduce image resolution"
+msgstr "Grafikauflösung verringern"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Width:"
+msgstr "Breite:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "Höhe:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-jpeg\n"
+"label\n"
+"string.text"
+msgid "JPEG compression"
+msgstr "JPEG Komprimierung"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Resolution:"
+msgstr "Auflösung:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Quality:"
+msgstr "Qualität:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Compression:"
+msgstr "Kompression:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Interpolation:"
+msgstr "Interpolation:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "DPI"
+msgstr "DPI"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Compression Options"
+msgstr "Komprimierungs-Einstellungen"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Original size:"
+msgstr "Originalgröße:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "View size:"
+msgstr "Ansichtsgröße:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Image capacity:"
+msgstr "Bildkapazität:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "New capacity:"
+msgstr "Neue Kapazität:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calculate"
+msgstr "Berechnen"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "Type:"
+msgstr "Typ:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Image Information"
+msgstr "Bildinformation"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Keine"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"1\n"
+"stringlist.text"
+msgid "Bilinear"
+msgstr "Bilinear"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"2\n"
+"stringlist.text"
+msgid "Bicubic"
+msgstr "Bikubisch"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"3\n"
+"stringlist.text"
+msgid "Lanczos"
+msgstr "Lanczos"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsbutton\n"
+"label\n"
+"string.text"
+msgid "_Models"
+msgstr "_Modelle"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instance\n"
+"label\n"
+"string.text"
+msgid "Instance"
+msgstr "Instanz"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"submissions\n"
+"label\n"
+"string.text"
+msgid "Submissions"
+msgstr "Submissions"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"bindings\n"
+"label\n"
+"string.text"
+msgid "Bindings"
+msgstr "Bindungen"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instances\n"
+"label\n"
+"string.text"
+msgid "_Instances"
+msgstr "_Instanzen"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Hinzufügen..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Bearbeiten…"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesremove\n"
+"label\n"
+"string.text"
+msgid "_Remove..."
+msgstr "Ent_fernen..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesdetails\n"
+"label\n"
+"string.text"
+msgid "_Show Details"
+msgstr "Details _anzeigen"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Hinzufügen..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Bearbeiten…"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsremove\n"
+"label\n"
+"string.text"
+msgid "_Remove"
+msgstr "_Entfernen"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"title\n"
+"string.text"
+msgid "Delete footer?"
+msgstr "Fußzeile löschen?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the footer?"
+msgstr "Sind Sie sicher, dass Sie die Fußzeile löschen möchten?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the footer will be deleted and can not be restored."
+msgstr "Alle Inhalte der Fußzeile werden mit gelöscht und können nicht wiederhergestellt werden."
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"title\n"
+"string.text"
+msgid "Delete header?"
+msgstr "Kopfzeile löschen?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the header?"
+msgstr "Sind Sie sicher, dass Sie die Kopfzeile löschen möchten?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the header will be deleted and can not be restored."
+msgstr "Alle Inhalte der Kopfzeile werden mit gelöscht und können nicht wiederhergestellt werden."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"DocRecoveryBrokenDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "_Save"
+msgstr "_Speichern"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid ""
+"The automatic recovery process was interrupted.\n"
+"\n"
+"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+msgstr ""
+"Der automatische Wiederherstellungsprozess wurde abgebrochen.\n"
+"\n"
+"Klicken Sie auf 'Speichern', um die unten aufgelisteten Dokumente im unten angegebenen Ordner zu speichern. 'Abbrechen' verlässt den Assistenten ohne zu speichern."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Documents:"
+msgstr "Dokumente:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Save to:"
+msgstr "_Speichern in:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"change\n"
+"label\n"
+"string.text"
+msgid "Chan_ge..."
+msgstr "Än_dern..."
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"DocRecoveryProgressDialog\n"
+"title\n"
+"string.text"
+msgid "Documents Are Being Saved"
+msgstr "Dokumente werden gespeichert"
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Progress of saving:"
+msgstr "Speicherfortschritt:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"DocRecoveryRecoverDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"next\n"
+"label\n"
+"string.text"
+msgid "_Start Recovery >"
+msgstr "_Wiederherstellung starten >"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Discard Recovery Data"
+msgstr "Wiederherstellungsdaten verwerfen"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"desc\n"
+"label\n"
+"string.text"
+msgid ""
+"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"\n"
+"Press 'Discard Recovery Data' to abandon attempting recovery of these documents.\n"
+"\n"
+"The 'Status' column shows whether the document can be recovered."
+msgstr ""
+"Klicken Sie auf 'Wiederherstellung starten', um den Wiederherstellungsprozess der unten gelisteten Dokumente zu starten.\n"
+"\n"
+"Klicken Sie auf 'Wiederherstellungsdaten verwerfen', um den Versuch der Wiederherstellung der Dokumente abzubrechen.\n"
+"\n"
+"Die Spalte 'Status' zeigt, ob das Dokument wiederhergestellt werden konnte."
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status of recovered documents:"
+msgstr "Status der Wiederherstellung:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "Document Name"
+msgstr "Dokumentname"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"statusft\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Status"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Recovering document:"
+msgstr "Dokument wiederherstellen:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "%PRODUCTNAME Dokumentwiederherstellung"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"DocRecoverySaveDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
+msgstr "Durch einen unerwarteten Fehler ist %PRODUCTNAME abgestürzt. Alle Dateien, an denen Sie gearbeitet haben, werden gespeichert. Beim nächsten Start von %PRODUCTNAME werden Ihre Dokumente automatisch wiederhergestellt."
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "The following files will be recovered:"
+msgstr "Die folgenden Dokumente werden wiederhergestellt:"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "%PRODUCTNAME Dokumentwiederherstellung"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"ExtrustionDepthDialog\n"
+"title\n"
+"string.text"
+msgid "Extrusion Depth"
+msgstr "Extrusionstiefe"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Value"
+msgstr "_Wert"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Depth"
+msgstr "Tiefe"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"FindReplaceDialog\n"
+"title\n"
+"string.text"
+msgid "Find & Replace"
+msgstr "Suchen & Ersetzen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"search\n"
+"label\n"
+"string.text"
+msgid "_Find Next"
+msgstr "_Nächsten suchen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchall\n"
+"label\n"
+"string.text"
+msgid "Find _All"
+msgstr "_Alle Suchen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search For"
+msgstr "S_uchen nach"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "_Ersetzen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replaceall\n"
+"label\n"
+"string.text"
+msgid "Replace A_ll"
+msgstr "Alle E_rsetzen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Re_place With"
+msgstr "Ersetzen _durch"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"selection\n"
+"label\n"
+"string.text"
+msgid "C_urrent selection only"
+msgstr "_Nur in Selektion"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"regexp\n"
+"label\n"
+"string.text"
+msgid "Regular e_xpressions"
+msgstr "Re_gulärer Ausdruck"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"attributes\n"
+"label\n"
+"string.text"
+msgid "Attri_butes..."
+msgstr "Attri_bute..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "For_mat..."
+msgstr "_Format..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"noformat\n"
+"label\n"
+"string.text"
+msgid "_No Format"
+msgstr "Kein For_mat"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"backwards\n"
+"label\n"
+"string.text"
+msgid "Bac_kwards"
+msgstr "Rüc_kwärts"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"layout\n"
+"label\n"
+"string.text"
+msgid "Search for st_yles"
+msgstr "Suche nach _Vorlagen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorediacritics\n"
+"label\n"
+"string.text"
+msgid "Ignore diacritics CTL"
+msgstr "Ignoriere diakritische Zeichen bei CTL"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similarity\n"
+"label\n"
+"string.text"
+msgid "S_imilarity search"
+msgstr "Ä_hnlichkeitssuche"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similaritybtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Comments"
+msgstr "Kommentare"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"allsheets\n"
+"label\n"
+"string.text"
+msgid "Search in all sheets"
+msgstr "In allen Tabellen suchen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslike\n"
+"label\n"
+"string.text"
+msgid "Sounds like (Japanese)"
+msgstr "Ähnliche Schreibweise (Jap.)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslikebtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcharwidth\n"
+"label\n"
+"string.text"
+msgid "Match character width"
+msgstr "Zeichenbreite berücksichtigen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorekashida\n"
+"label\n"
+"string.text"
+msgid "Ig_nore kashida CTL"
+msgstr "kashida _CTL ignorieren"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchinlabel\n"
+"label\n"
+"string.text"
+msgid "Search i_n:"
+msgstr "S_uchen in:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"0\n"
+"stringlist.text"
+msgid "Formulas"
+msgstr "Formeln"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"1\n"
+"stringlist.text"
+msgid "Values"
+msgstr "Werte"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"2\n"
+"stringlist.text"
+msgid "Notes"
+msgstr "Notiz"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchdir\n"
+"label\n"
+"string.text"
+msgid "Search _direction:"
+msgstr "Such_richtung:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"rows\n"
+"label\n"
+"string.text"
+msgid "Ro_ws"
+msgstr "Zeilenwe_ise"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"cols\n"
+"label\n"
+"string.text"
+msgid "Colu_mns"
+msgstr "_Spalten"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Other _options"
+msgstr "Weitere _Optionen..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcase\n"
+"label\n"
+"string.text"
+msgid "Ma_tch case"
+msgstr "_Groß-/Kleinschreibung"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"wholewords\n"
+"label\n"
+"string.text"
+msgid "Whole wor_ds only"
+msgstr "Nur ganzes _Wort suchen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"entirecells\n"
+"label\n"
+"string.text"
+msgid "_Entire cells"
+msgstr "Nur ganze Ze_llen"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"FloatingContour\n"
+"title\n"
+"string.text"
+msgid "Contour Editor"
+msgstr "Kontur-Editor"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_WORKPLACE\n"
+"label\n"
+"string.text"
+msgid "Workspace"
+msgstr "Arbeitsfläche"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Auswählen"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Rechteck"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Vieleck"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Punkte bearbeiten"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Punkte verschieben"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Punkte einfügen"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Punkte löschen"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_AUTOCONTOUR\n"
+"label\n"
+"string.text"
+msgid "AutoContour"
+msgstr "AutoKontur"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Rückgängig "
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Wiederholen"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_PIPETTE\n"
+"label\n"
+"string.text"
+msgid "Pipette"
+msgstr "Pipette"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"spinbutton\n"
+"tooltip_text\n"
+"string.text"
+msgid "Color Tolerance"
+msgstr "Farbtoleranz"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"FontworkGalleryDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Gallery"
+msgstr "Fontwork Galerie"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a Fontwork style:"
+msgstr "Wählen Sie einen Fontwork Stil:"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"FontworkSpacingDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Character Spacing"
+msgstr "Fontwork Zeichenabstand"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Value:"
+msgstr "_Wert:"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "This instance is linked with the form."
+msgstr "Diese Instanz ist mit dem Formular verknüpft."
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid ""
+"The changes you make to this instance will be lost when the form is reloaded.\n"
+"\n"
+"How do you want to proceed?"
+msgstr ""
+"Änderungen an dieser Instanz gehen nach dem Neuladen des Formulars verloren.\n"
+"\n"
+"Wie möchten Sie fortfahren?"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Edit"
+msgstr "_Bearbeiten"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkHeaderOn\n"
+"label\n"
+"string.text"
+msgid "Hea_der on"
+msgstr "_Kopfzeile einschalten"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkFooterOn\n"
+"label\n"
+"string.text"
+msgid "_Footer on"
+msgstr "_Fußzeile einschalten"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameLR\n"
+"label\n"
+"string.text"
+msgid "Same _content left/right"
+msgstr "_Inhalt links/rechts gleich"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameFP\n"
+"label\n"
+"string.text"
+msgid "Same content on first page"
+msgstr "Gleicher Inhalt auf der ersten Seite"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelLeftMarg\n"
+"label\n"
+"string.text"
+msgid "_Left margin:"
+msgstr "_Linker Rand:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelRightMarg\n"
+"label\n"
+"string.text"
+msgid "R_ight margin:"
+msgstr "R_echter Rand:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelSpacing\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "_Abstand:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkDynSpacing\n"
+"label\n"
+"string.text"
+msgid "Use d_ynamic spacing"
+msgstr "D_ynamischen Abstand verwenden"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeight\n"
+"label\n"
+"string.text"
+msgid "_Height:"
+msgstr "Höh_e:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkAutofit\n"
+"label\n"
+"string.text"
+msgid "_AutoFit height"
+msgstr "Höhe _dynamisch anpassen"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonMore\n"
+"label\n"
+"string.text"
+msgid "More..."
+msgstr "Mehr..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonEdit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Bearbeiten…"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeaderFormat\n"
+"label\n"
+"string.text"
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelFooterFormat\n"
+"label\n"
+"string.text"
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"ImapDialog\n"
+"title\n"
+"string.text"
+msgid "ImageMap Editor"
+msgstr "Verweissensitive Grafik-Editor"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_OPEN\n"
+"label\n"
+"string.text"
+msgid "Open..."
+msgstr "Öffnen..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SAVEAS\n"
+"label\n"
+"string.text"
+msgid "Save..."
+msgstr "Speichern..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Auswählen"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Rechteck"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Vieleck"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_FREEPOLY\n"
+"label\n"
+"string.text"
+msgid "Freeform Polygon"
+msgstr "Freihand-Vieleck"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Punkte bearbeiten"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Punkte verschieben"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Punkte einfügen"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Punkte löschen"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Rückgängig "
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Wiederholen"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_ACTIVE\n"
+"label\n"
+"string.text"
+msgid "Active"
+msgstr "Aktiv"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_MACRO\n"
+"label\n"
+"string.text"
+msgid "Macro..."
+msgstr "Makro..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_PROPERTY\n"
+"label\n"
+"string.text"
+msgid "Properties..."
+msgstr "Einstellungen..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Address:"
+msgstr "Adresse:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"targetft\n"
+"label\n"
+"string.text"
+msgid "Frame:"
+msgstr "Rahmen:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"textft\n"
+"label\n"
+"string.text"
+msgid "Text:"
+msgstr "Text:"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm Linked Graphic"
+msgstr "Verlinkte Grafik bestätigen"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "The file %FILENAME will not be stored along with your document, but only referenced as a link."
+msgstr "Die Datei %FILENAME wird nicht zusammen mit Ihrem Dokument gespeichert, sondern nur verlinkt."
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "This is dangerous if you move and/or rename the files. Do you want to embed the graphic instead?"
+msgstr "Dies könnte gefährlich werden, wenn Sie die Dateien verschieben und/oder umbenennen. Wollen Sie die Grafik stattdessen einbetten?"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Keep Link"
+msgstr "Link _behalten"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "_Embed Graphic"
+msgstr "Grafik _einbetten"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ask\n"
+"label\n"
+"string.text"
+msgid "_Ask when linking a graphic"
+msgstr "Beim Verlinken einer Grafik _fragen"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"NamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Namespaces for Forms"
+msgstr "Namensräume für Formulare"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Hinzufügen..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Bearbeiten…"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"prefix\n"
+"label\n"
+"string.text"
+msgid "Prefix"
+msgstr "Präfix"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"url\n"
+"label\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Namespaces"
+msgstr "Namensräume"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"usegridsnap\n"
+"label\n"
+"string.text"
+msgid "_Snap to grid"
+msgstr "Am Gitter einra_sten"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"gridvisible\n"
+"label\n"
+"string.text"
+msgid "_Visible grid"
+msgstr "Ras_ter sichtbar"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Grid"
+msgstr "Raster"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawx\n"
+"label\n"
+"string.text"
+msgid "H_orizontal:"
+msgstr "Horizo_ntal:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawy\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "_Vertikal:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"synchronize\n"
+"label\n"
+"string.text"
+msgid "Synchronize a_xes"
+msgstr "Achsen _synchronisieren"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Resolution"
+msgstr "Auflösung"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "Schritte"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "Schritte"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisionx\n"
+"label\n"
+"string.text"
+msgid "Horizont_al:"
+msgstr "Hori_zontal:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisiony\n"
+"label\n"
+"string.text"
+msgid "V_ertical:"
+msgstr "V_ertikal:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Subdivision"
+msgstr "Unterteilung"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snaphelplines\n"
+"label\n"
+"string.text"
+msgid "To snap lines"
+msgstr "An Fan_glinien"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapborder\n"
+"label\n"
+"string.text"
+msgid "To the _page margins"
+msgstr "An den Se_itenrändern"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapframe\n"
+"label\n"
+"string.text"
+msgid "To object _frame"
+msgstr "Am Obje_ktrahmen"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snappoints\n"
+"label\n"
+"string.text"
+msgid "To obje_ct points"
+msgstr "An Ob_jektpunkten"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Snap range:"
+msgstr "Fang_bereich:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Snap"
+msgstr "Fangen"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"ortho\n"
+"label\n"
+"string.text"
+msgid "_When creating or moving objects"
+msgstr "Beim Erzeugen und Be_wegen"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"bigortho\n"
+"label\n"
+"string.text"
+msgid "_Extend edges"
+msgstr "_Längere Kantenlänge"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"rotate\n"
+"label\n"
+"string.text"
+msgid "When ro_tating:"
+msgstr "Beim _Drehen:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Point reducti_on:"
+msgstr "_Punktreduktion:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Snap Position"
+msgstr "Einrasten"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_1\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1"
+msgstr "Abstand: 1"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_115\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.15"
+msgstr "Abstand: 1,15"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_15\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.5"
+msgstr "Abstand: 1,5"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_2\n"
+"label\n"
+"string.text"
+msgid "Spacing: 2"
+msgstr "Abstand: 2"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Line Spacing:"
+msgstr "Zeilenabstand:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"0\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Einzeilig"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"1\n"
+"stringlist.text"
+msgid "1.5 Lines"
+msgstr "1,5-zeilig"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"2\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Zweizeilig"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"3\n"
+"stringlist.text"
+msgid "Proportional"
+msgstr "Proportional"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"4\n"
+"stringlist.text"
+msgid "At least"
+msgstr "Mindestens"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"5\n"
+"stringlist.text"
+msgid "Leading"
+msgstr "Führend"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"6\n"
+"stringlist.text"
+msgid "Fixed"
+msgstr "Fest"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"value_label\n"
+"label\n"
+"string.text"
+msgid "Value:"
+msgstr "Wert:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Custom Value"
+msgstr "Benutzerdefinierter Wert:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Kennwort ändern"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpassL\n"
+"label\n"
+"string.text"
+msgid "_Password:"
+msgstr "_Kennwort:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpass\n"
+"label\n"
+"string.text"
+msgid "Old Password"
+msgstr "Altes Kennwort"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Pa_ssword:"
+msgstr "K_ennwort:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Confi_rm:"
+msgstr "_Bestätigen:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "New Password"
+msgstr "Neues Kennwort"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"title\n"
+"string.text"
+msgid "Delete the contour?"
+msgstr "Die Kontur löschen?"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"text\n"
+"string.text"
+msgid ""
+"Setting a new workspace will\n"
+"cause the contour to be deleted."
+msgstr ""
+"Das Setzen eines neuen Arbeitsbereiches\n"
+"führt zu einem Löschen der Kontur."
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Are you sure you want to continue?"
+msgstr "Möchten Sie wirklich fortfahren?"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this object?"
+msgstr "Dieses Objekt löschen?"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this object?"
+msgstr "Möchten Sie dieses Objekt wirklich löschen?"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this theme?"
+msgstr "Dieses Thema löschen?"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this theme?"
+msgstr "Möchten Sie dieses Thema wirklich löschen?"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Verweissensitive Grafik speichern?"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Die verweissensitive Grafik wurde geändert."
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Sollen die Änderungen gespeichert werden?"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"title\n"
+"string.text"
+msgid "Create a new contour?"
+msgstr "Eine neue Kontur erzeugen?"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to create a new contour?"
+msgstr "Möchten Sie eine neue Kontur erzeugen?"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save contour changes?"
+msgstr "Änderungen an der Kontur speichern?"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The contour has been modified."
+msgstr "Die Kontur wurde verändert."
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Möchten Sie die Änderungen speichern?"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Verweissensitive Grafik speichern?"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Die verweissensitive Grafik wurde verändert."
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Möchten Sie die Änderungen speichern?"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"title\n"
+"string.text"
+msgid "Unlink the graphics?"
+msgstr "Verknüpfung der Grafik aufheben?"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"text\n"
+"string.text"
+msgid "This graphic object is linked to the document."
+msgstr "Diese Grafik ist mit dem Dokument verknüpft."
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to unlink the graphics in order to edit it?"
+msgstr "Möchten Sie die Verknüpfung aufheben, um die Grafik zu bearbeiten?"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "List"
+msgstr "Liste"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"filter\n"
+"label\n"
+"string.text"
+msgid "Filter"
+msgstr "Filter"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Date:"
+msgstr "_Datum:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "_Author:"
+msgstr "_Autor:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "A_ction:"
+msgstr "A_ktion:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "C_omment:"
+msgstr "K_ommentar:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"actionlist-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"starttime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Time"
+msgstr "Startzeit"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endtime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Time"
+msgstr "Endzeit"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"enddate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Date"
+msgstr "Enddatum"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"and\n"
+"label\n"
+"string.text"
+msgid "a_nd"
+msgstr "u_nd"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startdate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Date"
+msgstr "Anfangsdatum"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"0\n"
+"stringlist.text"
+msgid "earlier than"
+msgstr "vor dem"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"1\n"
+"stringlist.text"
+msgid "since"
+msgstr "seit dem"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"2\n"
+"stringlist.text"
+msgid "equal to"
+msgstr "gleich"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"3\n"
+"stringlist.text"
+msgid "not equal to"
+msgstr "ungleich"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"4\n"
+"stringlist.text"
+msgid "between"
+msgstr "zwischen"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"5\n"
+"stringlist.text"
+msgid "since saving"
+msgstr "seit dem Speichern"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Date Condition"
+msgstr "Datumsbedingung"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Aktuelles Datum und Uhrzeit setzen"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Aktuelles Datum und Uhrzeit setzen"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"range\n"
+"label\n"
+"string.text"
+msgid "_Range:"
+msgstr "_Bereich:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"dotdotdot\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set reference"
+msgstr "Referenz setzen"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "Action"
+msgstr "Aktion"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Position"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Date"
+msgstr "Datum"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"changes-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Changes"
+msgstr "Änderungen"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to save your changes?"
+msgstr "Sollen die Änderungen gespeichert werden?"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "The content of the current form has been modified."
+msgstr "Der Inhalt des aktuellen Formulars wurde geändert."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Fill:"
+msgstr "Füllung:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Fill:"
+msgstr "Füllung:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"label\n"
+"string.text"
+msgid "_Fill:"
+msgstr "_Füllung:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Füllart auswählen."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Füllart auswählen."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Farbe auswählen."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Farbe auswählen."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Effekt auswählen."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Effekt auswählen."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Transparency"
+msgstr "Transparenz"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Transparency"
+msgstr "Transparenz"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Transparenz:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Wählen Sie die Art der Transparenz, die Sie zuweisen möchten."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Wählen Sie die Art der Transparenz, die Sie zuweisen möchten."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Keine"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"1\n"
+"stringlist.text"
+msgid "Solid"
+msgstr "Durchgängig"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"2\n"
+"stringlist.text"
+msgid "Linear"
+msgstr "Linear"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"3\n"
+"stringlist.text"
+msgid "Axial"
+msgstr "Axial"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"4\n"
+"stringlist.text"
+msgid "Radial"
+msgstr "Kreisförmig"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"5\n"
+"stringlist.text"
+msgid "Ellipsoid"
+msgstr "Elliptisch"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"6\n"
+"stringlist.text"
+msgid "Quadratic"
+msgstr "Quadratisch"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"7\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Quadratisch"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Wählen Sie die Transparenz des Farbverlaufs."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Wählen Sie die Transparenz des Farbverlaufs."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "Wählen Sie einen Wert zwischen 0% für vollständig undurchsichtig und 100% für vollständig transparent."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "Wählen Sie einen Wert zwischen 0% für vollständig undurchsichtig und 100% für vollständig transparent."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"brightnesslabel\n"
+"label\n"
+"string.text"
+msgid "_Brightness:"
+msgstr "_Helligkeit:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Wählen Sie die Leuchtkraft der Grafik."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Wählen Sie die Leuchtkraft der Grafik."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"contrastlabel\n"
+"label\n"
+"string.text"
+msgid "_Contrast:"
+msgstr "_Kontrast:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Legen Sie den Helligkeitsunterschied zwischen den hellsten und dunkelsten Teilen der Grafik fest."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Legen Sie den Helligkeitsunterschied zwischen den hellsten und dunkelsten Teilen der Grafik fest."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"colorlmodelabel\n"
+"label\n"
+"string.text"
+msgid "Color _mode:"
+msgstr "_Farbeinstellungen:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Transparenz:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Wählen Sie den Grad der Transparenz (0% entspricht vollständig undurchsichtig und 100% entspricht vollständig durchsichtig)."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Wählen Sie den Grad der Transparenz (0% entspricht vollständig undurchsichtig und 100% entspricht vollständig durchsichtig)."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Red"
+msgstr "Rot"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_text\n"
+"string.text"
+msgid "Red"
+msgstr "Rot"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Green"
+msgstr "Grün"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_text\n"
+"string.text"
+msgid "Green"
+msgstr "Grün"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Blue"
+msgstr "Blau"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_text\n"
+"string.text"
+msgid "Blue"
+msgstr "Blau"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Geben Sie hier den Gammawert an (bestimmt die Helligkeit)."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Geben Sie hier den Gammawert an (bestimmt die Helligkeit)."
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line"
+msgstr "Linie"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line"
+msgstr "Linie"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Linie mit Spitze am Ende"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Linie mit Spitze am Anfang"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Rechteck"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Rechteck"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_text\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellipse"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Text (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_text\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Text (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Curve"
+msgstr "Kurvenobjekt"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_text\n"
+"string.text"
+msgid "Curve"
+msgstr "Kurvenobjekt"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Connector"
+msgstr "Verbinder"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_text\n"
+"string.text"
+msgid "Connector"
+msgstr "Verbinder"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Linien und Linienspitzen"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Linien und Linienspitzen"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Standardformen"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Standardformen"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Symbolformen"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Symbolformen"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Blockpfeile"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_text\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Blockpfeile"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Flussdiagramme"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Flussdiagramme"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Callouts"
+msgstr "Legenden"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Callouts"
+msgstr "Legenden"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Stars"
+msgstr "Sterne"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_text\n"
+"string.text"
+msgid "Stars"
+msgstr "Sterne"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Breite:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Wählen Sie die Breite der Linie."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Wählen Sie hier die Breite der Linie."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"colorlabel\n"
+"label\n"
+"string.text"
+msgid "_Color:"
+msgstr "_Farbe:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Legen Sie hier die Linientransparenz fest."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Legen Sie hier die Linientransparenz fest."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Wählen Sie hier die Linienfarbe."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Wählen Sie hier die Linienfarbe."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Wählen Sie hier die Linienfarbe."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Wählen Sie hier die Linienfarbe."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"translabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Transparenz:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"stylelabel\n"
+"label\n"
+"string.text"
+msgid "_Style:"
+msgstr "_Stil:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Wählen Sie den Linienstil aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Wäheln Sie den Linienstil aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"arrowlabel\n"
+"label\n"
+"string.text"
+msgid "_Arrow:"
+msgstr "_Linienspitzen:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Wählen Sie hier die Linienspitze für den Anfang aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Wählen Sie hier die Linienspitze für den Anfang aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Wählen Sie hier die Linienspitze für das Ende aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Wählen Sie hier die Linienspitze für das Ende aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"cornerlabel\n"
+"label\n"
+"string.text"
+msgid "_Corner style:"
+msgstr "_Eckenstil:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Wählen Sie hier den Stil der Ecken bei verbundenen Linien aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Wählen Sie hier den Stil der Ecken bei verbundenen Linien aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"0\n"
+"stringlist.text"
+msgid "Rounded"
+msgstr "Abgerundet"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"1\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- kein -"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"2\n"
+"stringlist.text"
+msgid "Mitered"
+msgstr "Gehrung"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"3\n"
+"stringlist.text"
+msgid "Beveled"
+msgstr "Abgeschrägt"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"caplabel\n"
+"label\n"
+"string.text"
+msgid "Ca_p style:"
+msgstr "Linien_enden:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Wählen Sie den Stil für die Linienenden aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Wählen Sie den Stil für die Linienenden aus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"0\n"
+"stringlist.text"
+msgid "Flat"
+msgstr "Flach"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"1\n"
+"stringlist.text"
+msgid "Round"
+msgstr "Rund"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"2\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Quadratisch"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"numberbullet\n"
+"tooltip_text\n"
+"string.text"
+msgid "Bullets and Numbering"
+msgstr "Aufzählungszeichen und Nummerierung"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"backgroundcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Paragraph Background Color"
+msgstr "Hintergrundfarbe des Absatzes"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"horizontalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Horizontal Alignment"
+msgstr "Horizontale Ausrichtung"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"verticalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Vertical Alignment"
+msgstr "Vertikale Ausrichtung"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"spacinglabel\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "_Abstand:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Spacing"
+msgstr "Abstand"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspaceinc\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Paragraph Spacing"
+msgstr "Absatzabstand vergrößern"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacedec\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Paragraph Spacing"
+msgstr "Absatzabstand verringern"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aboveparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Above Paragraph Spacing"
+msgstr "Abstand oberhalb des Absatzes"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"belowparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Below Paragraph Spacing"
+msgstr "Abstand unterhalb des Absatzes"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"setlinespacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line Spacing"
+msgstr "Zeilenabstand"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indentlabel\n"
+"label\n"
+"string.text"
+msgid "_Indent:"
+msgstr "_Einzug:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Einzug"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"increaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Einzug vergrößern"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"decreaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Einzug verkleinern"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Zu hängendem Einzug wechseln"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promotedemote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Einzug"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Einzug vergrößern"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"demote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Einzug verkleinern"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent2\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Zu hängendem Einzug wechseln"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"beforetextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Before Text Indent"
+msgstr "Vorm Texteinzug"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aftertextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "After Text Indent"
+msgstr "Hintem Texteinzug"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"firstlineindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "First Line Indent"
+msgstr "Einzug erste Zeile"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontallabel\n"
+"label\n"
+"string.text"
+msgid "_Horizontal:"
+msgstr "_Horizontal:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Geben Sie hier den Wert für die horizontale Position ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Geben Sie hier den Wert für die horizontale Position ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticallabel\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "_Vertikal:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Geben Sie hier den Wert für die vertikale Position ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Geben Sie hier den Wert für die vertikale Position ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Breite:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Geben Sie hier die Breite für das ausgewählte Objekt ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Geben Sie hier die Breite für das ausgewählte Objekt ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"heightlabel\n"
+"label\n"
+"string.text"
+msgid "H_eight:"
+msgstr "Höh_e:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Geben Sie hier die Höhe für das ausgewählte Objekt ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Geben Sie hier die Höhe für das ausgewählte Objekt ein."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"label\n"
+"string.text"
+msgid "_Keep ratio"
+msgstr "Seitenverhä_ltnis beibehalten"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Wenn ausgewählt, behält das Objekt die Proportionen beim Ändern der Größe bei."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_text\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Wenn ausgewählt, behält das Objekt die Proportionen beim Ändern der Größe bei."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotationlabel\n"
+"label\n"
+"string.text"
+msgid "_Rotation:"
+msgstr "_Drehung:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Wählen Sie den Winkel der Drehung."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Wählen Sie den Winkel der Drehung."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliplabel\n"
+"label\n"
+"string.text"
+msgid "_Flip:"
+msgstr "_Spiegeln:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Spiegelt das ausgewählte Objekt vertikal."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Spiegelt das ausgewählte Objekt vertikal."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Spiegelt das ausgewählte Objekt horizontal."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Spiegelt das ausgewählte Objekt horizontal."
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"TextControlCharacterPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Character"
+msgstr "Zeichen"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Schrift"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Schrifteffekt"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Position"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"TextControlParagraphPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Absatz"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_STD\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Einzüge und Abstände"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ALIGN\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Ausrichtung "
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ASIAN\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Asiatische Typografie"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_TABULATOR\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabulator"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD\n"
+"label\n"
+"string.text"
+msgid "Add Item"
+msgstr "Eintrag hinzufügen"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"label\n"
+"string.text"
+msgid "Add Element"
+msgstr "Element hinzufügen"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"label\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Attribut hinzufügen"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_EDIT\n"
+"label\n"
+"string.text"
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_REMOVE\n"
+"label\n"
+"string.text"
+msgid "Delete"
+msgstr "Löschen"

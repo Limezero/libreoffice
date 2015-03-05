@@ -1,0 +1,857 @@
+#. extracted from sfx2/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2014-12-24 21:03+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1375027440.0\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_RESET\n"
+"string.text"
+msgid "~Reset"
+msgstr "重設(~R)"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_APPLY\n"
+"string.text"
+msgid "Apply"
+msgstr "套用"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDNAME\n"
+"string.text"
+msgid "This name is already in use."
+msgstr "此名稱現正被使用中。"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDSTYLE\n"
+"string.text"
+msgid "This Style does not exist."
+msgstr "不存在這個樣式。"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDPARENT\n"
+"string.text"
+msgid ""
+"This Style cannot be used as a base Style,\n"
+"because it would result in a recursive reference."
+msgstr ""
+"此樣式無法作為基本樣式使用，\n"
+"因為此樣式會產生遞迴參照。"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_POOL_STYLE_NAME\n"
+"string.text"
+msgid ""
+"Name already exists as a default Style.\n"
+"Please choose another name."
+msgstr ""
+"該名稱已是預設樣式的名稱。\n"
+"請您改採其他名稱。"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE_USED\n"
+"string.text"
+msgid ""
+"One or more of the selected styles is in use in this document.\n"
+"If you delete these styles, text will revert to the parent style.\n"
+"Do you still wish to delete these styles?\n"
+msgstr ""
+"有一個或多個所選樣式正被此文件使用。\n"
+"若您刪除這些樣式，文字將轉回上層樣式。\n"
+"您是否仍要刪除這些樣式？\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE\n"
+"string.text"
+msgid "Styles in use: "
+msgstr "使用中的樣式："
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_NEW\n"
+"menuitem.text"
+msgid "New..."
+msgstr "新增..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_EDIT\n"
+"menuitem.text"
+msgid "Modify..."
+msgstr "修改..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_HIDE\n"
+"menuitem.text"
+msgid "Hide"
+msgstr "隱藏"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_SHOW\n"
+"menuitem.text"
+msgid "Show"
+msgstr "顯示"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_DELETE\n"
+"menuitem.text"
+msgid "Delete..."
+msgstr "刪除..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_NAVIGATOR\n"
+"string.text"
+msgid "Navigator"
+msgstr "助手"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_TASKPANE\n"
+"string.text"
+msgid "Task Pane"
+msgstr "工作窗格"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_SIDEBAR\n"
+"string.text"
+msgid "Sidebar"
+msgstr "側邊欄"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_ERROR_WRONG_CONFIRM\n"
+"string.text"
+msgid "Faulty password confirmation"
+msgstr "失敗密碼確認"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_PDF_EXPORT_SEND\n"
+"string.text"
+msgid "Send"
+msgstr "傳送"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_FONT_TABPAGE\n"
+"string.text"
+msgid "Font"
+msgstr "字型"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_NEWOFFICEDOC\n"
+"string.text"
+msgid "%PRODUCTNAME document"
+msgstr "%PRODUCTNAME 文件"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"combobox.quickhelptext"
+msgid "Property Name"
+msgstr "屬性名稱"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Checked by\n"
+"stringlist.text"
+msgid "Checked by"
+msgstr "檢查者"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Client\n"
+"stringlist.text"
+msgid "Client"
+msgstr "用戶端"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Date completed\n"
+"stringlist.text"
+msgid "Date completed"
+msgstr "完成日期"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Department\n"
+"stringlist.text"
+msgid "Department"
+msgstr "部門"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Destinations\n"
+"stringlist.text"
+msgid "Destinations"
+msgstr "目標"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Disposition\n"
+"stringlist.text"
+msgid "Disposition"
+msgstr "佈置"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Division\n"
+"stringlist.text"
+msgid "Division"
+msgstr "部門"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Document number\n"
+"stringlist.text"
+msgid "Document number"
+msgstr "文件號碼"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Editor\n"
+"stringlist.text"
+msgid "Editor"
+msgstr "編輯器"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"E-Mail\n"
+"stringlist.text"
+msgid "E-Mail"
+msgstr "電子郵件"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Forward to\n"
+"stringlist.text"
+msgid "Forward to"
+msgstr "轉寄至"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Group\n"
+"stringlist.text"
+msgid "Group"
+msgstr "群組"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Info\n"
+"stringlist.text"
+msgid "Info"
+msgstr "資訊"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Language\n"
+"stringlist.text"
+msgid "Language"
+msgstr "語言"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Mailstop\n"
+"stringlist.text"
+msgid "Mailstop"
+msgstr "郵寄地點"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Matter\n"
+"stringlist.text"
+msgid "Matter"
+msgstr "事務"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Office\n"
+"stringlist.text"
+msgid "Office"
+msgstr "辦公室"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Owner\n"
+"stringlist.text"
+msgid "Owner"
+msgstr "所有者"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Project\n"
+"stringlist.text"
+msgid "Project"
+msgstr "專案"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Publisher\n"
+"stringlist.text"
+msgid "Publisher"
+msgstr "出版社"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Purpose\n"
+"stringlist.text"
+msgid "Purpose"
+msgstr "用途"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Received from\n"
+"stringlist.text"
+msgid "Received from"
+msgstr "接收自"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded by\n"
+"stringlist.text"
+msgid "Recorded by"
+msgstr "記錄者"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded date\n"
+"stringlist.text"
+msgid "Recorded date"
+msgstr "記錄日期"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Reference\n"
+"stringlist.text"
+msgid "Reference"
+msgstr "參照"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Source\n"
+"stringlist.text"
+msgid "Source"
+msgstr "來源"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Status\n"
+"stringlist.text"
+msgid "Status"
+msgstr "狀態"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Telephone number\n"
+"stringlist.text"
+msgid "Telephone number"
+msgstr "電話號碼"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Typist\n"
+"stringlist.text"
+msgid "Typist"
+msgstr "打字員"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"URL\n"
+"stringlist.text"
+msgid "URL"
+msgstr "URL"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "文字"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"DateTime\n"
+"stringlist.text"
+msgid "DateTime"
+msgstr "日期時間"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Date\n"
+"stringlist.text"
+msgid "Date"
+msgstr "日期"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Duration\n"
+"stringlist.text"
+msgid "Duration"
+msgstr "持續時間"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Number\n"
+"stringlist.text"
+msgid "Number"
+msgstr "號碼"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Yes or no\n"
+"stringlist.text"
+msgid "Yes or no"
+msgstr "是或否"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_ST_DURATION_FORMAT\n"
+"string.text"
+msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+msgstr " Y：%1 M：%2 D：%3 H：%4 M：%5 S：%6"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_YES\n"
+"radiobutton.text"
+msgid "Yes"
+msgstr "是"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_NO\n"
+"radiobutton.text"
+msgid "No"
+msgstr "否"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_PB_PROPERTY_REMOVE\n"
+"imagebutton.quickhelptext"
+msgid "Remove Property"
+msgstr "移除屬性"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_QUERY_WRONG_TYPE\n"
+"string.text"
+msgid ""
+"The value entered does not match the specified type.\n"
+"The value will be stored as text."
+msgstr ""
+"輸入的值與指定的類型不符。\n"
+"此值會儲存為文字。"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_FILEDLG_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "目前的版本"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_EXPORT\n"
+"string.text"
+msgid "Export"
+msgstr "匯出"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "貼上"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_BUTTONINSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "貼上(~I)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_IMPORT_ALL\n"
+"string.text"
+msgid "<All formats>"
+msgstr "<所有的格式>"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "自動加上副檔名(~A)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "選取(~S)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "連結(~L)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "預覽(~E)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "唯讀(~R)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_PASSWORD\n"
+"string.text"
+msgid "Save with ~password"
+msgstr "使用密碼儲存(~P)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_FILTER_OPTIONS\n"
+"string.text"
+msgid "Edit ~filter settings"
+msgstr "編輯篩選設定(~F)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "放映(~P)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "暫停(~P)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "開啟(~O)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "儲存(~S)"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy"
+msgstr "另存副本"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "風格："
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_TEMPLATES\n"
+"string.text"
+msgid "~Templates:"
+msgstr "範本(~T)："
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "版本(~V)："
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"STR_QUERY_OVERWRITE\n"
+"string.text"
+msgid "Style already exists. Overwrite?"
+msgstr "樣式已存在。是否要覆蓋？"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_MACRO_LOSS\n"
+"string.text"
+msgid "Do you really want to cancel the recording? Any steps recorded up to this point will be lost."
+msgstr "真的要取消記錄？所有的目前的記錄內容就會流失。"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_CANCEL_RECORDING\n"
+"string.text"
+msgid "Cancel Recording"
+msgstr "取消記錄"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_DOCK\n"
+"string.text"
+msgid "Dock"
+msgstr "停駐"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_UNDOCK\n"
+"string.text"
+msgid "Undock"
+msgstr "取消停駐"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASK_PANE_VIEW\n"
+"string.text"
+msgid "View"
+msgstr "檢視"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASKS\n"
+"string.text"
+msgid "Tasks"
+msgstr "工作"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_ELEMTLIST\n"
+"string.text"
+msgid "Style List"
+msgstr "樣式清單"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_FILTER_HIERARCHICAL\n"
+"string.text"
+msgid "Hierarchical"
+msgstr "等級式"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_WATERCAN\n"
+"toolboxitem.text"
+msgid "Fill Format Mode"
+msgstr "充填模式"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_NEW_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "New Style from Selection"
+msgstr "選取的新樣式"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_UPDATE_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "Update Style"
+msgstr "更新樣式"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER\n"
+"dockingwindow.text"
+msgid "Styles and Formatting"
+msgstr "樣式和格式"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"STR_VIEWVERSIONCOMMENT\n"
+"string.text"
+msgid "View Version Comment"
+msgstr "檢視版本註解"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"STR_NO_NAME_SET\n"
+"string.text"
+msgid "(no name set)"
+msgstr "(未設定名稱)"

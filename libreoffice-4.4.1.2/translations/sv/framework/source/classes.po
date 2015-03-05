@@ -1,0 +1,297 @@
+#. extracted from framework/source/classes
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-24 15:41+0000\n"
+"Last-Translator: Niklas <sleeping.pillow@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1419435678.000000\n"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_MENU_ADDONS\n"
+"string.text"
+msgid "Add-Ons"
+msgstr "Tillägg"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_MENU_ADDONHELP\n"
+"string.text"
+msgid "Add-~On Help"
+msgstr "Ti~lläggshjälp"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_MENU_HEADFOOTALL\n"
+"string.text"
+msgid "All"
+msgstr "Alla"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_UPDATEDOC\n"
+"string.text"
+msgid "~Update"
+msgstr "~Uppdatera"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_CLOSEDOC_ANDRETURN\n"
+"string.text"
+msgid "~Close & Return to "
+msgstr "St~äng och tillbaka till  "
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION\n"
+"MENUITEM_TOOLBAR_VISIBLEBUTTON\n"
+"menuitem.text"
+msgid "Visible ~Buttons"
+msgstr "Synliga ~knappar"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION\n"
+"MENUITEM_TOOLBAR_CUSTOMIZETOOLBAR\n"
+"menuitem.text"
+msgid "~Customize Toolbar..."
+msgstr "~Anpassa verktygsrad..."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION\n"
+"MENUITEM_TOOLBAR_DOCKTOOLBAR\n"
+"menuitem.text"
+msgid "~Dock Toolbar"
+msgstr "~Docka verktygsrad"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION\n"
+"MENUITEM_TOOLBAR_DOCKALLTOOLBAR\n"
+"menuitem.text"
+msgid "Dock ~All Toolbars"
+msgstr "Docka ~alla verktygsrader"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION\n"
+"MENUITEM_TOOLBAR_LOCKTOOLBARPOSITION\n"
+"menuitem.text"
+msgid "~Lock Toolbar Position"
+msgstr "~Lås verktygsradens position"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"POPUPMENU_TOOLBAR_QUICKCUSTOMIZATION\n"
+"MENUITEM_TOOLBAR_CLOSE\n"
+"menuitem.text"
+msgid "Close ~Toolbar"
+msgstr "Stäng ~verktygsrad"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_SAVECOPYDOC\n"
+"string.text"
+msgid "Save Copy ~as..."
+msgstr "Spara kopia som..."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_NODOCUMENT\n"
+"string.text"
+msgid "No Documents"
+msgstr "Inga dokument"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_CLEAR_RECENT_FILES\n"
+"string.text"
+msgid "Clear List"
+msgstr "Töm listan"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_CLEAR_RECENT_FILES_HELP\n"
+"string.text"
+msgid "Clears the list with the most recently opened files. This action can not be undone."
+msgstr "Tömmer listan med senast öppnade dokument. Denna åtgärd kan inte ångras."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_TOOLBAR_TITLE_ADDON\n"
+"string.text"
+msgid "Add-On %num%"
+msgstr "Tillägget %num%"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_FULL_DISC_RETRY_BUTTON\n"
+"string.text"
+msgid "Retry"
+msgstr "Upprepa"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_FULL_DISC_MSG\n"
+"string.text"
+msgid ""
+"%PRODUCTNAME could not save important internal information due to insufficient free disk space at the following location:\n"
+"%PATH\n"
+"\n"
+"You will not be able to continue working with %PRODUCTNAME without allocating more free disk space at that location.\n"
+"\n"
+"Press the 'Retry' button after you have allocated more free disk space to retry saving the data.\n"
+"\n"
+msgstr ""
+"%PRODUCTNAME kan inte spara viktig intern information på grund av för lite diskutrymme på följande plats:\n"
+"%PATH\n"
+"\n"
+"Du kan inte fortsätta att arbeta med %PRODUCTNAME utan att skapa mer ledigt utrymme på den platsen.\n"
+"\n"
+"Försök att spara data igen genom att trycka på knappen \"Försök igen\" efter att du har skapat mer utrymme.\n"
+"\n"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_RESTORE_TOOLBARS\n"
+"string.text"
+msgid "~Reset"
+msgstr "~Återställ"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_CORRUPT_UICFG_SHARE\n"
+"string.text"
+msgid ""
+"An error occurred while loading the user interface configuration data. The application will be terminated now.\n"
+"Please try to reinstall the application."
+msgstr ""
+"Ett fel uppstod när användargränsnittets konfigurationsdata skulle laddas. Programmet kommer att avslutas nu.\n"
+"Försök installera om programmet."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_CORRUPT_UICFG_USER\n"
+"string.text"
+msgid ""
+"An error occurred while loading the user interface configuration data. The application will be terminated now.\n"
+"Please try to remove your user profile for the application."
+msgstr ""
+"Ett fel uppstod när användargränsnittets konfigurationsdata skulle laddas. Programmet kommer att avslutas nu.\n"
+"Försök med att ta bort din användarprofil för programmet."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_CORRUPT_UICFG_GENERAL\n"
+"string.text"
+msgid ""
+"An error occurred while loading the user interface configuration data. The application will be terminated now.\n"
+"Please try to remove your user profile for the application first or try to reinstall the application."
+msgstr ""
+"Ett fel uppstod när användargränsnittets konfigurationsdata skulle laddas. Programmet kommer att avslutas nu.\n"
+"Försök med att ta bort din användarprofil för programmet eller installera om  programmet."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_UNTITLED_DOCUMENT\n"
+"string.text"
+msgid "Untitled"
+msgstr "Namnlös"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_LANGSTATUS_MULTIPLE_LANGUAGES\n"
+"string.text"
+msgid "Multiple Languages"
+msgstr "Flera språk"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_LANGSTATUS_NONE\n"
+"string.text"
+msgid "None (Do not check spelling)"
+msgstr "Inget (gör ingen stavningskontroll)"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_RESET_TO_DEFAULT_LANGUAGE\n"
+"string.text"
+msgid "Reset to Default Language"
+msgstr "Återställ till standardspråk"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_LANGSTATUS_MORE\n"
+"string.text"
+msgid "More..."
+msgstr "Mer..."
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_SET_LANGUAGE_FOR_SELECTION\n"
+"string.text"
+msgid "Set Language for Selection"
+msgstr "Ange språk för markering"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_SET_LANGUAGE_FOR_PARAGRAPH\n"
+"string.text"
+msgid "Set Language for Paragraph"
+msgstr "Ange språk för stycke"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_SET_LANGUAGE_FOR_ALL_TEXT\n"
+"string.text"
+msgid "Set Language for all Text"
+msgstr "Ange språk för all text"
+
+#: resource.src
+msgctxt ""
+"resource.src\n"
+"STR_LANGSTATUS_HINT\n"
+"string.text"
+msgid "Text Language. Right-click to set character or paragraph language"
+msgstr "Textspråk. Högerklicka för att ange språk för stycke eller tecken"

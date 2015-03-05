@@ -1,0 +1,155 @@
+#. extracted from extensions/source/abpilot
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2012-06-07 15:42+0530\n"
+"Last-Translator: s\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_SELECT_ABTYPE\n"
+"string.text"
+msgid "Address book type"
+msgstr "ವಿಳಾಸ ಪುಸ್ತಕದ ಬಗೆ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_INVOKE_ADMIN_DIALOG\n"
+"string.text"
+msgid "Connection Settings"
+msgstr "ಸಂಪರ್ಕದ ಸಿದ್ಧತೆಗಳು"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_TABLE_SELECTION\n"
+"string.text"
+msgid "Table selection"
+msgstr "ಕೋಷ್ಟಕ ಆಯ್ಕೆ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_MANUAL_FIELD_MAPPING\n"
+"string.text"
+msgid "Field Assignment"
+msgstr "ವರ್ಗ ನಿಗದೀಕರಣ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"STR_FINAL_CONFIRM\n"
+"string.text"
+msgid "Data Source Title"
+msgstr "ದತ್ತ ಆಕರ ಶೀರ್ಷಿಕೆ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_DLG_ADDRESSBOOKSOURCEPILOT\n"
+"modaldialog.text"
+msgid "Address Book Data Source Wizard"
+msgstr "ವಿಳಾಸ ಪುಸ್ತಕ ದತ್ತ ಆಕರ ಗಾರುಡಿ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_ERR_NEEDTYPESELECTION\n"
+"errorbox.text"
+msgid "Please select a type of address book."
+msgstr "ದಯಮಾಡಿ ವಿಳಾಸ ಪುಸ್ತಕದ ಬಗೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NOTABLES\n"
+"querybox.text"
+msgid ""
+"The data source does not contain any tables.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"ದತ್ತಆಕರವು ಯಾವ ಕೋಷ್ಟಕವನ್ನು ಹೊಂದಿಲ್ಲ. ಹಾಗಿದ್ದರೂ ಅದನ್ನು ವಿಳಾಸ \n"
+"ದತ್ತ ಆಕರದಂತೆ ಸಿದ್ಧ ಪಡಿಸ ಬೇಕೇ?"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_QRY_NO_EVO_GW\n"
+"querybox.text"
+msgid ""
+"You don't seem to have any GroupWise account configured in Evolution.\n"
+"Do you want to set it up as an address data source, anyway?"
+msgstr ""
+"ನೀವು Evolution ನಲ್ಲಿ ಯಾವುದೆ GroupWise ಖಾತೆಯನ್ನು ಸಂರಚಿಸಿರುವಂತೆ ಕಾಣಿಸುತ್ತಿಲ್ಲ.\n"
+"ಆದರೂ ಸಹ, ನೀವು ಒಂದು ವಿಳಾಸ ದತ್ತ ಆಕರ ವಿಳಾಸವನ್ನು ಸಿದ್ಧಗೊಳಿಸಲು ಬಯಸುವಿರಾ?"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_DEFAULT_NAME\n"
+"string.text"
+msgid "Addresses"
+msgstr "ವಿಳಾಸಗಳು"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_ADMINDIALOGTITLE\n"
+"string.text"
+msgid "Create Address Data Source"
+msgstr "ವಿಳಾಸ ದತ್ತ ಆಕರವನ್ನು ತಯಾರಿಸಿ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOCONNECTION\n"
+"string.text"
+msgid "The connection could not be established."
+msgstr "ಸಂಪರ್ಕವನ್ನು ಪಡೆಯಲಾಗಲಿಲ್ಲ."
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_PLEASECHECKSETTINGS\n"
+"string.text"
+msgid "Please check the settings made for the data source."
+msgstr "ದಯಮಾಡಿ ದತ್ತ ಆಕರಕ್ಕೆ ಮಾಡಿದ ಸಿದ್ಧತೆಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ."
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_FIELDDIALOGTITLE\n"
+"string.text"
+msgid "Address Data - Field Assignment"
+msgstr "ವಿಳಾಸ ದತ್ತ - ವರ್ಗ ನಿಗದೀಕರಣ"
+
+#: abspilot.src
+msgctxt ""
+"abspilot.src\n"
+"RID_STR_NOFIELDSASSIGNED\n"
+"string.text"
+msgid ""
+"There are no fields assigned at this time.\n"
+"You can either assign fields now or do so later by first choosing:\n"
+"\"File - Template - Address Book Source...\""
+msgstr ""
+"ಪ್ರಸಕ್ತ ಯಾವುದೆ ವರ್ಗಗಳನ್ನು ನಿಯೋಜಿಸಲಾಗಿಲ್ಲ.\n"
+"ನೀವು ಈಗಲೆ ವರ್ಗಗಳನ್ನು ನಿಯೋಜಿಸಬಹುದು ಅಥವ ಈ ಕೆಳಗಿನದನ್ನು ಅನುಸರಿಸಿಕೊಂಡು ಆಮೇಲೆಯೂ ಸಹ ನಿಯೋಜಿಸಬಹುದು:\n"
+"\"ಕಡತ - ನಮೂನೆ - ವಿಳಾಸ ಪುಸ್ತಕ ಆಕರ...\""

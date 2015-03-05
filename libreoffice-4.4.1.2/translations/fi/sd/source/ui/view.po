@@ -1,0 +1,493 @@
+#. extracted from sd/source/ui/view
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2013-06-17 18:18+0300\n"
+"Last-Translator: Harri Pitkänen <hatapitk@iki.fi>\n"
+"Language-Team: Finnish <discuss@fi.libreoffice.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_GROUP_NAME\n"
+"string.text"
+msgid "%PRODUCTNAME %s"
+msgstr "%PRODUCTNAME %s"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PRINT_CONTENT\n"
+"string.text"
+msgid "Print content"
+msgstr "Tulostettava sisältö"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PRINT_GROUP\n"
+"string.text"
+msgid "Print"
+msgstr "Tulosta"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_CONTENT\n"
+"string.text"
+msgid "Document"
+msgstr "Asiakirjan"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES\n"
+"Slides\n"
+"itemlist.text"
+msgid "Slides"
+msgstr "diat"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES\n"
+"Handouts\n"
+"itemlist.text"
+msgid "Handouts"
+msgstr "tiivistelmäsivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES\n"
+"Notes\n"
+"itemlist.text"
+msgid "Notes"
+msgstr "muistiinpanot"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_CONTENT_CHOICES\n"
+"Outline\n"
+"itemlist.text"
+msgid "Outline"
+msgstr "jäsennys"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_SLIDESPERPAGE\n"
+"string.text"
+msgid "Slides per page"
+msgstr "Dioja sivua kohti"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"Default\n"
+"itemlist.text"
+msgid "Default"
+msgstr "Oletus"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"1\n"
+"itemlist.text"
+msgid "1"
+msgstr "1"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"2\n"
+"itemlist.text"
+msgid "2"
+msgstr "2"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"3\n"
+"itemlist.text"
+msgid "3"
+msgstr "3"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"4\n"
+"itemlist.text"
+msgid "4"
+msgstr "4"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"6\n"
+"itemlist.text"
+msgid "6"
+msgstr "6"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_SLIDESPERPAGE_CHOICES\n"
+"9\n"
+"itemlist.text"
+msgid "9"
+msgstr "9"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_ORDER\n"
+"string.text"
+msgid "Order"
+msgstr "Järjestys"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_ORDER_CHOICES\n"
+"Left to right, then down\n"
+"itemlist.text"
+msgid "Left to right, then down"
+msgstr "Vasemmalta oikealle, sitten alas"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_ORDER_CHOICES\n"
+"Top to bottom, then right\n"
+"itemlist.text"
+msgid "Top to bottom, then right"
+msgstr "Ylhäältä alas, sitten oikealle"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_INCLUDE_CONTENT\n"
+"string.text"
+msgid "~Contents"
+msgstr "Sisältö"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_IS_PRINT_NAME\n"
+"string.text"
+msgid "~Slide name"
+msgstr "Dian nimi"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_DRAW_PRINT_UI_IS_PRINT_NAME\n"
+"string.text"
+msgid "P~age name"
+msgstr "Sivun nimi"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_IS_PRINT_DATE\n"
+"string.text"
+msgid "~Date and time"
+msgstr "Päivämäärä ja aika"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_IS_PRINT_HIDDEN\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "Piilosivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_OUTPUT_OPTIONS_GROUP\n"
+"string.text"
+msgid "Output options"
+msgstr "Tulostusasetukset"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_QUALITY\n"
+"string.text"
+msgid "Color"
+msgstr "Väri"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_QUALITY_CHOICES\n"
+"Original colors\n"
+"itemlist.text"
+msgid "Original colors"
+msgstr "Alkuperäiset värit"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_QUALITY_CHOICES\n"
+"Grayscale\n"
+"itemlist.text"
+msgid "Grayscale"
+msgstr "Harmaasävy"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_QUALITY_CHOICES\n"
+"Black & white\n"
+"itemlist.text"
+msgid "Black & white"
+msgstr "Mustavalkoinen"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PAGE_OPTIONS\n"
+"string.text"
+msgid "~Size"
+msgstr "Koko"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES\n"
+"Original size\n"
+"itemlist.text"
+msgid "Original size"
+msgstr "Alkuperäinen koko"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES\n"
+"Fit to printable page\n"
+"itemlist.text"
+msgid "Fit to printable page"
+msgstr "Sovita tulostusalueelle"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES\n"
+"Distribute on multiple sheets of paper\n"
+"itemlist.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Jaa usealle paperiarkille"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES\n"
+"Tile sheet of paper with repeated slides\n"
+"itemlist.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "Tulosta sama dia useaan kertaan yhdelle arkille"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES_DRAW\n"
+"Original size\n"
+"itemlist.text"
+msgid "Original size"
+msgstr "Alkuperäinen koko"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES_DRAW\n"
+"Fit to printable page\n"
+"itemlist.text"
+msgid "Fit to printable page"
+msgstr "Sovita tulostusalueelle"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES_DRAW\n"
+"Distribute on multiple sheets of paper\n"
+"itemlist.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Jaa usealle paperiarkille"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_OPTIONS_CHOICES_DRAW\n"
+"Tile sheet of paper with repeated pages\n"
+"itemlist.text"
+msgid "Tile sheet of paper with repeated pages"
+msgstr "Tulosta sama sivu useaan kertaan yhdelle arkille"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_BROCHURE\n"
+"string.text"
+msgid "Brochure"
+msgstr "Esite"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PAGE_SIDES\n"
+"string.text"
+msgid "Page sides"
+msgstr "Paperin puolet"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_BROCHURE_INCLUDE\n"
+"string.text"
+msgid "Include"
+msgstr "Sisällytä"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_BROCHURE_INCLUDE_LIST\n"
+"All pages\n"
+"itemlist.text"
+msgid "All pages"
+msgstr "Kaikki sivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_BROCHURE_INCLUDE_LIST\n"
+"Front sides / right pages\n"
+"itemlist.text"
+msgid "Front sides / right pages"
+msgstr "Paperin etupuolet / oikeat sivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_BROCHURE_INCLUDE_LIST\n"
+"Back sides / left pages\n"
+"itemlist.text"
+msgid "Back sides / left pages"
+msgstr "Paperin kääntöpuolet / vasemmat sivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PAPER_TRAY_GROUP\n"
+"string.text"
+msgid "Paper tray"
+msgstr "Paperilokero"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PAPER_TRAY\n"
+"string.text"
+msgid "~Use only paper tray from printer preferences"
+msgstr "Paperilokero tulostimen asetuksista"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS\n"
+"_STR_IMPRESS_PRINT_UI_PAGE_RANGE\n"
+"string.text"
+msgid "Print range"
+msgstr "Tulostusalue"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_RANGE_CHOICE\n"
+"~All slides\n"
+"itemlist.text"
+msgid "~All slides"
+msgstr "Kaikki diat"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_RANGE_CHOICE\n"
+"~Slides\n"
+"itemlist.text"
+msgid "~Slides"
+msgstr "Diat"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_IMPRESS_PRINT_UI_PAGE_RANGE_CHOICE\n"
+"Se~lection\n"
+"itemlist.text"
+msgid "Se~lection"
+msgstr "Valitut diat"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_DRAW_PRINT_UI_PAGE_RANGE_CHOICE\n"
+"~All pages\n"
+"itemlist.text"
+msgid "~All pages"
+msgstr "Kaikki sivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_DRAW_PRINT_UI_PAGE_RANGE_CHOICE\n"
+"Pa~ges\n"
+"itemlist.text"
+msgid "Pa~ges"
+msgstr "Sivut"
+
+#: DocumentRenderer.src
+msgctxt ""
+"DocumentRenderer.src\n"
+"_STR_IMPRESS_PRINT_UI_OPTIONS._STR_DRAW_PRINT_UI_PAGE_RANGE_CHOICE\n"
+"Se~lection\n"
+"itemlist.text"
+msgid "Se~lection"
+msgstr "Valitut diat"

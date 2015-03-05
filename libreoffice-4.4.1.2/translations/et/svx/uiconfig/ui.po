@@ -1,0 +1,4759 @@
+#. extracted from svx/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-07 11:09+0100\n"
+"PO-Revision-Date: 2015-01-12 23:17+0000\n"
+"Last-Translator: Mihkel Tõnnov <mihhkel@gmail.com>\n"
+"Language-Team: Estonian <none>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421104648.000000\n"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"AcceptRejectChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Manage Changes"
+msgstr "Muudatuste haldamine"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "_Accept"
+msgstr "_Nõustu"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"reject\n"
+"label\n"
+"string.text"
+msgid "_Reject"
+msgstr "Hülga"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"acceptall\n"
+"label\n"
+"string.text"
+msgid "A_ccept All"
+msgstr "Nõustu kõigiga"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"rejectall\n"
+"label\n"
+"string.text"
+msgid "R_eject All"
+msgstr "Hülga kõik"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"AddConditionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Condition"
+msgstr "Tingimuse lisamine"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Condition:"
+msgstr "Tingimus:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Result:"
+msgstr "Tulemus:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit Namespaces..."
+msgstr "Redigeeri nimeruume..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "Nimi:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"valueft\n"
+"label\n"
+"string.text"
+msgid "_Default value:"
+msgstr "Vaikeväärtus:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Item"
+msgstr "Element"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"datatypeft\n"
+"label\n"
+"string.text"
+msgid "_Data type:"
+msgstr "Andmetüüp:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"required\n"
+"label\n"
+"string.text"
+msgid "_Required"
+msgstr "Nõutav"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"requiredcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Tingimus"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevant\n"
+"label\n"
+"string.text"
+msgid "R_elevant"
+msgstr "Relevantne"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevantcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Tingimus"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraint\n"
+"label\n"
+"string.text"
+msgid "_Constraint"
+msgstr "Piirang"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonly\n"
+"label\n"
+"string.text"
+msgid "Read-_only"
+msgstr "Kirjutuskaitstud"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calc_ulate"
+msgstr "Arvutamine"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraintcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Tingimus"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonlycond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Tingimus"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculatecond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Tingimus"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Sätted"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"AddInstanceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Instance"
+msgstr "Isendi lisamine"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "Nimi:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Instance"
+msgstr "Isendi redigeerimine"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "URL:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "..."
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"link\n"
+"label\n"
+"string.text"
+msgid "_Link instance"
+msgstr "Isend lingitakse"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"AddModelDialog\n"
+"title\n"
+"string.text"
+msgid "Add Model"
+msgstr "Mudeli lisamine"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "Model data updates change document's modification status"
+msgstr "Mudeli andmete värskendamine muudab dokumendi olekut"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "Nimi:"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Model"
+msgstr "Mudeli redigeerimine"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"AddNamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Namespace"
+msgstr "Nimeruumi lisamine"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Prefix:"
+msgstr "Eesliide:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "URL:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Namespace"
+msgstr "Nimeruumi redigeerimine"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"AddSubmissionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Sisendi lisamine"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "Nimi:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Binding e_xpression:"
+msgstr "Siduv avaldis:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "..."
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Action:"
+msgstr "Toiming:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Method:"
+msgstr "Meetod:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Binding:"
+msgstr "Seos:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Replace:"
+msgstr "Asendus:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"AsianPhoneticGuideDialog\n"
+"title\n"
+"string.text"
+msgid "Asian Phonetic Guide"
+msgstr "Aasia hääldusjuhised"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"basetextft\n"
+"label\n"
+"string.text"
+msgid "Base text "
+msgstr "Baastekst "
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"rubytextft\n"
+"label\n"
+"string.text"
+msgid "Ruby text"
+msgstr "Foneetiline tekst"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Alignment:"
+msgstr "Joondus:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Position:"
+msgstr "Paigutus:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styleft\n"
+"label\n"
+"string.text"
+msgid "Character style for ruby text:"
+msgstr "Foneetilise teksti märgistiil"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styles\n"
+"label\n"
+"string.text"
+msgid "Styles"
+msgstr "Stiilid"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Vasakule"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Keskele"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Paremale"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"3\n"
+"stringlist.text"
+msgid "0 1 0"
+msgstr "0 1 0"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"4\n"
+"stringlist.text"
+msgid "1 2 1"
+msgstr "1 2 1"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"0\n"
+"stringlist.text"
+msgid "Top"
+msgstr "Üles"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"1\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "Alla"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Preview:"
+msgstr "Eelvaade:"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"ChineseConversionDialog\n"
+"title\n"
+"string.text"
+msgid "Chinese Conversion"
+msgstr "Hiina teisendus"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"tosimplified\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "Traditsioonilisest hiina kirjast lihtsustatud kirja"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"totraditional\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "Lihtsustatud hiina kirjast traditsioonilisse kirja"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Conversion Direction"
+msgstr "Teisenduse suund"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"commonterms\n"
+"label\n"
+"string.text"
+msgid "Translate _common terms"
+msgstr "Ühiste ter_minite teisendamine"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"editterms\n"
+"label\n"
+"string.text"
+msgid "_Edit Terms..."
+msgstr "_Redigeeri termineid..."
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Common Terms"
+msgstr "Ühised terminid"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"ChineseDictionaryDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Dictionary"
+msgstr "Sõnastiku redigeerimine"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"tradtosimple\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "Traditsioonilisest hiina kirjast lihtsustatud kirja"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"simpletotrad\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "Lihtsustatud hiina kirjast traditsioonilisse kirja"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"reverse\n"
+"label\n"
+"string.text"
+msgid "Reverse mapping"
+msgstr "Pöördseostamine"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"termft\n"
+"label\n"
+"string.text"
+msgid "Term"
+msgstr "Termin"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"mappingft\n"
+"label\n"
+"string.text"
+msgid "Mapping"
+msgstr "Seostamine"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"propertyft\n"
+"label\n"
+"string.text"
+msgid "Property"
+msgstr "Omadus"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"0\n"
+"stringlist.text"
+msgid "Other"
+msgstr "Muu"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"1\n"
+"stringlist.text"
+msgid "Foreign"
+msgstr "Võõrsõna"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"2\n"
+"stringlist.text"
+msgid "First name"
+msgstr "Eesnimi"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"3\n"
+"stringlist.text"
+msgid "Last name"
+msgstr "Perekonnanimi"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"4\n"
+"stringlist.text"
+msgid "Title"
+msgstr "Tiitel"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"5\n"
+"stringlist.text"
+msgid "Status"
+msgstr "Staatus"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"6\n"
+"stringlist.text"
+msgid "Place name"
+msgstr "Kohanimi"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"7\n"
+"stringlist.text"
+msgid "Business"
+msgstr "Äri"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"8\n"
+"stringlist.text"
+msgid "Adjective"
+msgstr "Omadussõna"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"9\n"
+"stringlist.text"
+msgid "Idiom"
+msgstr "Idioom"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"10\n"
+"stringlist.text"
+msgid "Abbreviation"
+msgstr "Lühend"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"11\n"
+"stringlist.text"
+msgid "Numerical"
+msgstr "Arvsõna"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"12\n"
+"stringlist.text"
+msgid "Noun"
+msgstr "Nimisõna"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"13\n"
+"stringlist.text"
+msgid "Verb"
+msgstr "Tegusõna"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"14\n"
+"stringlist.text"
+msgid "Brand name"
+msgstr "Kaubamärk"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "_Muuda"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Recent"
+msgstr "Viimati kasutatud"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"color_picker_button\n"
+"label\n"
+"string.text"
+msgid "Custom Color…"
+msgstr "Kohandatud värv..."
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"CompressGraphicDialog\n"
+"title\n"
+"string.text"
+msgid "Compress Image"
+msgstr "Pildi tihendamine"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-lossless\n"
+"label\n"
+"string.text"
+msgid "Lossless compression"
+msgstr "Kadudeta tihendus"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"checkbox-reduce-resolution\n"
+"label\n"
+"string.text"
+msgid "Reduce image resolution"
+msgstr "Eraldusvõime vähendamine"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Width:"
+msgstr "Laius:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "Kõrgus:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-jpeg\n"
+"label\n"
+"string.text"
+msgid "JPEG compression"
+msgstr "JPEG-tihendus"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Resolution:"
+msgstr "Eraldusvõime:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Quality:"
+msgstr "Kvaliteet:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Compression:"
+msgstr "Tihendus:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Interpolation:"
+msgstr "Interpoleerimine:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "DPI"
+msgstr "dpi"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Compression Options"
+msgstr "Tihendussätted"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Original size:"
+msgstr "Algsuurus:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "View size:"
+msgstr "Nähtav suurus:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Image capacity:"
+msgstr "Pildi maht:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "New capacity:"
+msgstr "Uus maht:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calculate"
+msgstr "Arvuta"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "Type:"
+msgstr "Tüüp:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Image Information"
+msgstr "Pildi andmed"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Puudub"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"1\n"
+"stringlist.text"
+msgid "Bilinear"
+msgstr "Bilineaarne"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"2\n"
+"stringlist.text"
+msgid "Bicubic"
+msgstr "Kaksikkuup"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"3\n"
+"stringlist.text"
+msgid "Lanczos"
+msgstr "Lanczos"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsbutton\n"
+"label\n"
+"string.text"
+msgid "_Models"
+msgstr "Mudelid"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instance\n"
+"label\n"
+"string.text"
+msgid "Instance"
+msgstr "Isend"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"submissions\n"
+"label\n"
+"string.text"
+msgid "Submissions"
+msgstr "Sisendid"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"bindings\n"
+"label\n"
+"string.text"
+msgid "Bindings"
+msgstr "Seosed"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instances\n"
+"label\n"
+"string.text"
+msgid "_Instances"
+msgstr "Isendid"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "Lisa..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "Redigeeri..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesremove\n"
+"label\n"
+"string.text"
+msgid "_Remove..."
+msgstr "Eemalda..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesdetails\n"
+"label\n"
+"string.text"
+msgid "_Show Details"
+msgstr "Näita üksikasju"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "Lisa..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "Redigeeri..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsremove\n"
+"label\n"
+"string.text"
+msgid "_Remove"
+msgstr "_Eemalda"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"title\n"
+"string.text"
+msgid "Delete footer?"
+msgstr "Jaluse kustutamine"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the footer?"
+msgstr "Kas tõesti soovid jaluse kustutada?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the footer will be deleted and can not be restored."
+msgstr "Jaluse sisu kustutatakse ja seda ei saa taastada."
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"title\n"
+"string.text"
+msgid "Delete header?"
+msgstr "Päise kustutamine"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the header?"
+msgstr "Kas tõesti soovid päise kustutada?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the header will be deleted and can not be restored."
+msgstr "Päise sisu kustutatakse ja seda ei saa taastada."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"DocRecoveryBrokenDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "_Save"
+msgstr "_Salvesta"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid ""
+"The automatic recovery process was interrupted.\n"
+"\n"
+"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+msgstr ""
+"Automaatne taastamine katkestati.\n"
+"\n"
+"Pärast klõpsu nupul 'Salvesta' salvestatakse loetletud dokumendid allpool märgitud kausta. Nupu 'Loobu' klõpsamisel suletakse nõustaja ilma dokumente salvestamata."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Documents:"
+msgstr "Dokumendid:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Save to:"
+msgstr "Salvestuskoht:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"change\n"
+"label\n"
+"string.text"
+msgid "Chan_ge..."
+msgstr "Muuda..."
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"DocRecoveryProgressDialog\n"
+"title\n"
+"string.text"
+msgid "Documents Are Being Saved"
+msgstr "Dokumentide salvestamine käib"
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Progress of saving:"
+msgstr "Salvestamise edenemine:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"DocRecoveryRecoverDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"next\n"
+"label\n"
+"string.text"
+msgid "_Start Recovery >"
+msgstr "Alusta taastamist >"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Discard Recovery Data"
+msgstr "Loobu taastamisest"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"desc\n"
+"label\n"
+"string.text"
+msgid ""
+"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"\n"
+"Press 'Discard Recovery Data' to abandon attempting recovery of these documents.\n"
+"\n"
+"The 'Status' column shows whether the document can be recovered."
+msgstr ""
+"Klõps nupul 'Alusta taastamist' käivitab nimekirjas loetletud dokumentide taastamise.\n"
+"\n"
+"Klõps nupul 'Loobu taastamisest' tühistab dokumentide taastamise.\n"
+"\n"
+"Veerus 'Olek' on näha, kas dokumendi saab taastada."
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status of recovered documents:"
+msgstr "Taastatud dokumentide olekud:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "Document Name"
+msgstr "Dokumendi nimi"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"statusft\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Olek"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Recovering document:"
+msgstr "Dokumendi taastamine:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "%PRODUCTNAME'i dokumenditaastamine"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"DocRecoverySaveDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
+msgstr "%PRODUCTNAME jooksis ootamatu vea tõttu kokku. Kõik avatud failid salvestatakse. Järgmisel %PRODUCTNAME'i käivitumisel taastatakse need failid automaatselt."
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "The following files will be recovered:"
+msgstr "Taastatakse järgnevad failid:"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "%PRODUCTNAME'i dokumenditaastamine"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"ExtrustionDepthDialog\n"
+"title\n"
+"string.text"
+msgid "Extrusion Depth"
+msgstr "Ruumilisuse sügavus"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Value"
+msgstr "Väärtus"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Depth"
+msgstr "Sügavus"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"FindReplaceDialog\n"
+"title\n"
+"string.text"
+msgid "Find & Replace"
+msgstr "Otsimine ja asendamine"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"search\n"
+"label\n"
+"string.text"
+msgid "_Find Next"
+msgstr "Otsi järgmine"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchall\n"
+"label\n"
+"string.text"
+msgid "Find _All"
+msgstr "Otsi _kõik"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search For"
+msgstr "Otsitav:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "Ase_nda"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replaceall\n"
+"label\n"
+"string.text"
+msgid "Replace A_ll"
+msgstr "Asen_da kõik"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Re_place With"
+msgstr "_Asendus:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"selection\n"
+"label\n"
+"string.text"
+msgid "C_urrent selection only"
+msgstr "Ainult valikust"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"regexp\n"
+"label\n"
+"string.text"
+msgid "Regular e_xpressions"
+msgstr "Regulaaravaldised"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"attributes\n"
+"label\n"
+"string.text"
+msgid "Attri_butes..."
+msgstr "Atribuudid..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "For_mat..."
+msgstr "Vormindus..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"noformat\n"
+"label\n"
+"string.text"
+msgid "_No Format"
+msgstr "Vorminduseta"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"backwards\n"
+"label\n"
+"string.text"
+msgid "Bac_kwards"
+msgstr "Tagasisuunas"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"layout\n"
+"label\n"
+"string.text"
+msgid "Search for st_yles"
+msgstr "Stiili otsimine"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorediacritics\n"
+"label\n"
+"string.text"
+msgid "Ignore diacritics CTL"
+msgstr "Eiratakse CTL-i diakriitikuid"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similarity\n"
+"label\n"
+"string.text"
+msgid "S_imilarity search"
+msgstr "Sarnasuse otsing"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similaritybtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Comments"
+msgstr "Märkused"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"allsheets\n"
+"label\n"
+"string.text"
+msgid "Search in all sheets"
+msgstr "Otsitakse kõigilt lehtedelt"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslike\n"
+"label\n"
+"string.text"
+msgid "Sounds like (Japanese)"
+msgstr "Kõlab sarnaselt (jaapani keel)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslikebtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcharwidth\n"
+"label\n"
+"string.text"
+msgid "Match character width"
+msgstr "Märkide laiuse sobivus"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorekashida\n"
+"label\n"
+"string.text"
+msgid "Ig_nore kashida CTL"
+msgstr "Eiratakse CTL-i märgipikendusi (kašiida)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchinlabel\n"
+"label\n"
+"string.text"
+msgid "Search i_n:"
+msgstr "Otsitakse:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"0\n"
+"stringlist.text"
+msgid "Formulas"
+msgstr "Valemitest"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"1\n"
+"stringlist.text"
+msgid "Values"
+msgstr "Väärtustest"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"2\n"
+"stringlist.text"
+msgid "Notes"
+msgstr "Märkustest"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchdir\n"
+"label\n"
+"string.text"
+msgid "Search _direction:"
+msgstr "Otsingu suund:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"rows\n"
+"label\n"
+"string.text"
+msgid "Ro_ws"
+msgstr "Read"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"cols\n"
+"label\n"
+"string.text"
+msgid "Colu_mns"
+msgstr "Vee_rud"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Other _options"
+msgstr "Muud sätted"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcase\n"
+"label\n"
+"string.text"
+msgid "Ma_tch case"
+msgstr "_Tõstutundlik"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"wholewords\n"
+"label\n"
+"string.text"
+msgid "Whole wor_ds only"
+msgstr "Ainult terved _sõnad"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"entirecells\n"
+"label\n"
+"string.text"
+msgid "_Entire cells"
+msgstr "Terved lahtrid"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"FloatingContour\n"
+"title\n"
+"string.text"
+msgid "Contour Editor"
+msgstr "Kontuuriredaktor"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Rakenda"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_WORKPLACE\n"
+"label\n"
+"string.text"
+msgid "Workspace"
+msgstr "Tööruum"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Vali"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Ristkülik"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellips"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Hulknurk"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Redigeeri punkte"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Liiguta punkte"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Lisa punkte"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Kustuta punkte"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_AUTOCONTOUR\n"
+"label\n"
+"string.text"
+msgid "AutoContour"
+msgstr "Automaatkontuur"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Võta tagasi "
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Tee uuesti"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_PIPETTE\n"
+"label\n"
+"string.text"
+msgid "Pipette"
+msgstr "Pipett"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"spinbutton\n"
+"tooltip_text\n"
+"string.text"
+msgid "Color Tolerance"
+msgstr "Värvi tolerants"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"FontworkGalleryDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Gallery"
+msgstr "Ilukirja galerii"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a Fontwork style:"
+msgstr "Vali ilukirja stiil:"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"FontworkSpacingDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Character Spacing"
+msgstr "Ilukirja märkide vahe"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Value:"
+msgstr "Väärtus:"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "This instance is linked with the form."
+msgstr "See isend on lingitud vormiga."
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid ""
+"The changes you make to this instance will be lost when the form is reloaded.\n"
+"\n"
+"How do you want to proceed?"
+msgstr ""
+"Vormi taaslaadimisel lähevad kõik selle isendi muudatused kaotsi.\n"
+"\n"
+"Kuidas soovid jätkata?"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Edit"
+msgstr "Redigeeri"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkHeaderOn\n"
+"label\n"
+"string.text"
+msgid "Hea_der on"
+msgstr "Päis"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkFooterOn\n"
+"label\n"
+"string.text"
+msgid "_Footer on"
+msgstr "Jalus"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameLR\n"
+"label\n"
+"string.text"
+msgid "Same _content left/right"
+msgstr "Sama sisu vasakul ja paremal"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameFP\n"
+"label\n"
+"string.text"
+msgid "Same content on first page"
+msgstr "Sama sisu esimesel leheküljel"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelLeftMarg\n"
+"label\n"
+"string.text"
+msgid "_Left margin:"
+msgstr "Vasak veeris:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelRightMarg\n"
+"label\n"
+"string.text"
+msgid "R_ight margin:"
+msgstr "Parem veeris:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelSpacing\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "Vahe:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkDynSpacing\n"
+"label\n"
+"string.text"
+msgid "Use d_ynamic spacing"
+msgstr "Kasutatakse dünaamilisi vahesid"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeight\n"
+"label\n"
+"string.text"
+msgid "_Height:"
+msgstr "_Kõrgus:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkAutofit\n"
+"label\n"
+"string.text"
+msgid "_AutoFit height"
+msgstr "Automaatne kõrgus"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonMore\n"
+"label\n"
+"string.text"
+msgid "More..."
+msgstr "Rohkem..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonEdit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "Redigeeri..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeaderFormat\n"
+"label\n"
+"string.text"
+msgid "Header"
+msgstr "Päis"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelFooterFormat\n"
+"label\n"
+"string.text"
+msgid "Footer"
+msgstr "Jalus"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"ImapDialog\n"
+"title\n"
+"string.text"
+msgid "ImageMap Editor"
+msgstr "Hüperpiltide redaktor"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Rakenda"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_OPEN\n"
+"label\n"
+"string.text"
+msgid "Open..."
+msgstr "Ava..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SAVEAS\n"
+"label\n"
+"string.text"
+msgid "Save..."
+msgstr "Salvesta..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Vali"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Ristkülik"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellips"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Hulknurk"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_FREEPOLY\n"
+"label\n"
+"string.text"
+msgid "Freeform Polygon"
+msgstr "Korrapäratu hulknurk"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Redigeeri punkte"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Liiguta punkte"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Lisa punkte"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Kustuta punkte"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Võta tagasi "
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Tee uuesti"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_ACTIVE\n"
+"label\n"
+"string.text"
+msgid "Active"
+msgstr "Aktiivne"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_MACRO\n"
+"label\n"
+"string.text"
+msgid "Macro..."
+msgstr "Makro..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_PROPERTY\n"
+"label\n"
+"string.text"
+msgid "Properties..."
+msgstr "Omadused..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Address:"
+msgstr "Aadress:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"targetft\n"
+"label\n"
+"string.text"
+msgid "Frame:"
+msgstr "Paneel:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"textft\n"
+"label\n"
+"string.text"
+msgid "Text:"
+msgstr "Tekst:"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm Linked Graphic"
+msgstr "Pildi linkimishoiatus"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "The file %FILENAME will not be stored along with your document, but only referenced as a link."
+msgstr "Faili %FILENAME ei salvestata koos dokumendiga, vaid ainult viidatakse sellele."
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "This is dangerous if you move and/or rename the files. Do you want to embed the graphic instead?"
+msgstr "See on ohtlik, kui hiljem faile liigutad või ümber nimetad. Kas tahad pildi selle asemel põimida?"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Keep Link"
+msgstr "Säilita _link"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "_Embed Graphic"
+msgstr "_Põimi pilt"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ask\n"
+"label\n"
+"string.text"
+msgid "_Ask when linking a graphic"
+msgstr "Pildi linkimisel _küsitakse"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"NamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Namespaces for Forms"
+msgstr "Vormide nimeruumid"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "Lisa..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Redigeeri..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"prefix\n"
+"label\n"
+"string.text"
+msgid "Prefix"
+msgstr "Eesliide"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"url\n"
+"label\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Namespaces"
+msgstr "Nimeruumid"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"usegridsnap\n"
+"label\n"
+"string.text"
+msgid "_Snap to grid"
+msgstr "Tõmme alusvõrgule"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"gridvisible\n"
+"label\n"
+"string.text"
+msgid "_Visible grid"
+msgstr "Alusvõrk on nähtav"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Grid"
+msgstr "Alusvõrk"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawx\n"
+"label\n"
+"string.text"
+msgid "H_orizontal:"
+msgstr "Horisontaalne:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawy\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "Vertikaalne:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"synchronize\n"
+"label\n"
+"string.text"
+msgid "Synchronize a_xes"
+msgstr "Sünkroonitud teljed"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Resolution"
+msgstr "Samm"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "tühik(ut)"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "tühik(ut)"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisionx\n"
+"label\n"
+"string.text"
+msgid "Horizont_al:"
+msgstr "Horisontaalne:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisiony\n"
+"label\n"
+"string.text"
+msgid "V_ertical:"
+msgstr "Vertikaalne:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Subdivision"
+msgstr "Alajaotus"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snaphelplines\n"
+"label\n"
+"string.text"
+msgid "To snap lines"
+msgstr "Tõmbejoontele"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapborder\n"
+"label\n"
+"string.text"
+msgid "To the _page margins"
+msgstr "Lehekülje veeristele"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapframe\n"
+"label\n"
+"string.text"
+msgid "To object _frame"
+msgstr "Objekti äärisele"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snappoints\n"
+"label\n"
+"string.text"
+msgid "To obje_ct points"
+msgstr "Objekti punktidele"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Snap range:"
+msgstr "Tõmbevahemik:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Snap"
+msgstr "Tõmme"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"ortho\n"
+"label\n"
+"string.text"
+msgid "_When creating or moving objects"
+msgstr "Objektide loomisel või liigutamisel"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"bigortho\n"
+"label\n"
+"string.text"
+msgid "_Extend edges"
+msgstr "Äärte laiendamine"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"rotate\n"
+"label\n"
+"string.text"
+msgid "When ro_tating:"
+msgstr "Pööramisel:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Point reducti_on:"
+msgstr "Punktide vähendus:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Snap Position"
+msgstr "Tõmme alusvõrgule"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_1\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1"
+msgstr "Reavahe: 1"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_115\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.15"
+msgstr "Reavahe: 1,15"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_15\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.5"
+msgstr "Reavahe: 1,5"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_2\n"
+"label\n"
+"string.text"
+msgid "Spacing: 2"
+msgstr "Reavahe: 2"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Line Spacing:"
+msgstr "Reavahe:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"0\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Ühekordne"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"1\n"
+"stringlist.text"
+msgid "1.5 Lines"
+msgstr "1,5 rida"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"2\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Kahekordne"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"3\n"
+"stringlist.text"
+msgid "Proportional"
+msgstr "Proportsionaalne"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"4\n"
+"stringlist.text"
+msgid "At least"
+msgstr "Vähemalt"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"5\n"
+"stringlist.text"
+msgid "Leading"
+msgstr "Harvendatud"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"6\n"
+"stringlist.text"
+msgid "Fixed"
+msgstr "Fikseeritud"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"value_label\n"
+"label\n"
+"string.text"
+msgid "Value:"
+msgstr "Väärtus:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Custom Value"
+msgstr "Kohandatud väärtus"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Parooli muutmine"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpassL\n"
+"label\n"
+"string.text"
+msgid "_Password:"
+msgstr "Parool:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpass\n"
+"label\n"
+"string.text"
+msgid "Old Password"
+msgstr "Vana parool"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Pa_ssword:"
+msgstr "Parool:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Confi_rm:"
+msgstr "Parool uuesti:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "New Password"
+msgstr "Uus parool"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"title\n"
+"string.text"
+msgid "Delete the contour?"
+msgstr "Kontuuri kustutamine"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"text\n"
+"string.text"
+msgid ""
+"Setting a new workspace will\n"
+"cause the contour to be deleted."
+msgstr ""
+"Uue tööruumi loomisel\n"
+"kontuur kustutatakse."
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Are you sure you want to continue?"
+msgstr "Kas soovid kindlasti jätkata?"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this object?"
+msgstr "Objekti kustutamine"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this object?"
+msgstr "Kas tõesti soovid selle objekti kustutada?"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this theme?"
+msgstr "Teema kustutamine"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this theme?"
+msgstr "Kas tõesti soovid selle teema kustutada?"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Hüperpildi muudatuste salvestamine"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Hüperpilti on muudetud."
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Kas soovid muudatused salvestada?"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"title\n"
+"string.text"
+msgid "Create a new contour?"
+msgstr "Uue kontuuri loomine"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to create a new contour?"
+msgstr "Kas soovid luua uue kontuuri?"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save contour changes?"
+msgstr "Kontuuri muudatuste salvestamine"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The contour has been modified."
+msgstr "Kontuuri on muudetud."
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Kas soovid muudatused salvestada?"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Hüperpildi muudatuste salvestamine"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Hüperpilti on muudetud."
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Kas soovid muudatused salvestada?"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"title\n"
+"string.text"
+msgid "Unlink the graphics?"
+msgstr "Pildi lahtilinkimine"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"text\n"
+"string.text"
+msgid "This graphic object is linked to the document."
+msgstr "See pilt on lingitud dokumendi külge."
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to unlink the graphics in order to edit it?"
+msgstr " Kas soovid pildi lahti linkida, et seda redigeerida?"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "List"
+msgstr "Loend"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"filter\n"
+"label\n"
+"string.text"
+msgid "Filter"
+msgstr "Filter"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Date:"
+msgstr "_Kuupäev:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "_Author:"
+msgstr "Autor:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "A_ction:"
+msgstr "Toiming:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "C_omment:"
+msgstr "Märkus:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"actionlist-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Action"
+msgstr "Toiming"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"starttime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Time"
+msgstr "Käivitusaeg"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endtime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Time"
+msgstr "Lõppaeg"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"enddate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Date"
+msgstr "Lõppkuupäev"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"and\n"
+"label\n"
+"string.text"
+msgid "a_nd"
+msgstr "ja"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startdate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Date"
+msgstr "Alguskuupäev"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"0\n"
+"stringlist.text"
+msgid "earlier than"
+msgstr "enne"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"1\n"
+"stringlist.text"
+msgid "since"
+msgstr "alates"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"2\n"
+"stringlist.text"
+msgid "equal to"
+msgstr "on võrdne"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"3\n"
+"stringlist.text"
+msgid "not equal to"
+msgstr "pole võrdne"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"4\n"
+"stringlist.text"
+msgid "between"
+msgstr "on vahemikus"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"5\n"
+"stringlist.text"
+msgid "since saving"
+msgstr "alates salvestamisest"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Date Condition"
+msgstr "Kuupäeva tingimus"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Määra praegune kuupäev ja kellaaeg"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Määra praegune kuupäev ja kellaaeg"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"range\n"
+"label\n"
+"string.text"
+msgid "_Range:"
+msgstr "Vahemik:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"dotdotdot\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set reference"
+msgstr "Viite määramine"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "Action"
+msgstr "Toiming"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Paigutus"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "Author"
+msgstr "Autor"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Date"
+msgstr "Kuupäev"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Märkus"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"changes-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Changes"
+msgstr "Muudatused"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to save your changes?"
+msgstr "Kas soovid oma muudatused salvestada?"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "The content of the current form has been modified."
+msgstr "Aktiivse vormi sisu on muudetud."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Fill:"
+msgstr "Täide"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Fill:"
+msgstr "Täide"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"label\n"
+"string.text"
+msgid "_Fill:"
+msgstr "Täide:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Vali tausta tüüp."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Vali tausta tüüp."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Vali värv."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Vali värv."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Vali efekt."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Vali efekt."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Transparency"
+msgstr "Läbipaistvus"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Transparency"
+msgstr "Läbipaistvus"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "Läbipaistvus:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Vali läbipaistvuse tüüp."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Vali läbipaistvuse tüüp."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Puudub"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"1\n"
+"stringlist.text"
+msgid "Solid"
+msgstr "Ühtlane"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"2\n"
+"stringlist.text"
+msgid "Linear"
+msgstr "Lineaarne"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"3\n"
+"stringlist.text"
+msgid "Axial"
+msgstr "Aksiaalne"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"4\n"
+"stringlist.text"
+msgid "Radial"
+msgstr "Radiaalne"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"5\n"
+"stringlist.text"
+msgid "Ellipsoid"
+msgstr "Elliptiline"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"6\n"
+"stringlist.text"
+msgid "Quadratic"
+msgstr "Nelinurkne"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"7\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Ruut"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Määra läbipaistvuse ülemineku laad."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Määra läbipaistvuse ülemineku laad."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "0% on täiesti läbipaistmatu ja 100% täiesti läbipaistev."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "0% on täiesti läbipaistmatu ja 100% täiesti läbipaistev."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"brightnesslabel\n"
+"label\n"
+"string.text"
+msgid "_Brightness:"
+msgstr "Heledus:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Määrab pildi heleduse."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Määrab pildi heleduse."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"contrastlabel\n"
+"label\n"
+"string.text"
+msgid "_Contrast:"
+msgstr "Kontrast:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Määrab erinevuse pildi heledaimate ja tumedaimate osade vahel."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Määrab erinevuse pildi heledaimate ja tumedaimate osade vahel."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"colorlmodelabel\n"
+"label\n"
+"string.text"
+msgid "Color _mode:"
+msgstr "Värvirežiim:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "Läbipaistvus:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Määrab läbipaistvusprotsendi: 0% tähendab läbipaistvuse puudumist ja 100% täielikku läbipaistvust."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Määrab läbipaistvusprotsendi: 0% tähendab läbipaistvuse puudumist ja 100% täielikku läbipaistvust."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Red"
+msgstr "Punane"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_text\n"
+"string.text"
+msgid "Red"
+msgstr "Punane"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Green"
+msgstr "Roheline"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_text\n"
+"string.text"
+msgid "Green"
+msgstr "Roheline"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Blue"
+msgstr "Sinine"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_text\n"
+"string.text"
+msgid "Blue"
+msgstr "Sinine"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Määrab kesktoonide heledust mõjutava gammaväärtuse."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Määrab kesktoonide heledust mõjutava gammaväärtuse."
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line"
+msgstr "Joon"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line"
+msgstr "Joon"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Noolega lõppev joon"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Noolega lõppev joon"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Ristkülik"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Ristkülik"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellips"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_text\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Ellips"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Tekst (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_text\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Tekst (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Curve"
+msgstr "Kõver"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_text\n"
+"string.text"
+msgid "Curve"
+msgstr "Kõver"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Connector"
+msgstr "Konnektor"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_text\n"
+"string.text"
+msgid "Connector"
+msgstr "Konnektor"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Jooned ja nooled"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Jooned ja nooled"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Põhikujundid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Põhikujundid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Sümbolkujundid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Sümbolkujundid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Plokknooled"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_text\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Plokknooled"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Vooskeemikujundid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Vooskeemikujundid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Callouts"
+msgstr "Viiktekstid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Callouts"
+msgstr "Viiktekstid"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Stars"
+msgstr "Tähed"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_text\n"
+"string.text"
+msgid "Stars"
+msgstr "Tähed"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "Laius:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Vali joone paksus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Vali joone paksus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"colorlabel\n"
+"label\n"
+"string.text"
+msgid "_Color:"
+msgstr "Värv:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Määra joone läbipaistvus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Määra joone läbipaistvus."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Vali joone värv."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Vali joone värv."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Vali joone värv."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Vali joone värv."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"translabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "Läbipaistvus:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"stylelabel\n"
+"label\n"
+"string.text"
+msgid "_Style:"
+msgstr "Stiil:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Vali joone stiil."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Vali joone stiil."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"arrowlabel\n"
+"label\n"
+"string.text"
+msgid "_Arrow:"
+msgstr "Nool:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Vali noole algusots."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Vali noole algusots."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Vali noole lõppots."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Vali noole lõppots."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"cornerlabel\n"
+"label\n"
+"string.text"
+msgid "_Corner style:"
+msgstr "Nurgastiil:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Vali nurgaühenduste stiil."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Vali nurgaühenduste stiil."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"0\n"
+"stringlist.text"
+msgid "Rounded"
+msgstr "Ümardatud"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"1\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- puudub -"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"2\n"
+"stringlist.text"
+msgid "Mitered"
+msgstr "Terav"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"3\n"
+"stringlist.text"
+msgid "Beveled"
+msgstr "Faasitud"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"caplabel\n"
+"label\n"
+"string.text"
+msgid "Ca_p style:"
+msgstr "Otsastiil:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Vali jooneotste stiil."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Vali jooneotste stiil."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"0\n"
+"stringlist.text"
+msgid "Flat"
+msgstr "Lame"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"1\n"
+"stringlist.text"
+msgid "Round"
+msgstr "Ümardatud"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"2\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Kandiline"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"numberbullet\n"
+"tooltip_text\n"
+"string.text"
+msgid "Bullets and Numbering"
+msgstr "Nummerdus ja täpid"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"backgroundcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Paragraph Background Color"
+msgstr "Lõigu taustavärv"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"horizontalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Horizontal Alignment"
+msgstr "Horisontaalne joondus"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"verticalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Vertical Alignment"
+msgstr "Vertikaalne joondus"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"spacinglabel\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "Vahed:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Spacing"
+msgstr "Vahed"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspaceinc\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Paragraph Spacing"
+msgstr "Suurenda lõiguvahet"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacedec\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Paragraph Spacing"
+msgstr "Vähenda lõiguvahet"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aboveparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Above Paragraph Spacing"
+msgstr "Vahe lõigu kohal"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"belowparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Below Paragraph Spacing"
+msgstr "Vahe lõigu all"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"setlinespacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line Spacing"
+msgstr "Reavahe"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indentlabel\n"
+"label\n"
+"string.text"
+msgid "_Indent:"
+msgstr "Taane:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Taane"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"increaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Suurenda taanet"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"decreaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Vähenda taanet"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Lülita taandega lõiku"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promotedemote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Taane"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Suurenda taanet"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"demote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Vähenda taanet"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent2\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Lülita taandega lõiku"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"beforetextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Before Text Indent"
+msgstr "Taane teksti ees"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aftertextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "After Text Indent"
+msgstr "Taane teksti järel"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"firstlineindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "First Line Indent"
+msgstr "Esimese rea taane"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontallabel\n"
+"label\n"
+"string.text"
+msgid "_Horizontal:"
+msgstr "Horisontaalne:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Sisesta horisontaalse asukoha väärtus."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Sisesta horisontaalse asukoha väärtus."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticallabel\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "Vertikaalne:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Sisesta vertikaalse asukoha väärtus."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Sisesta vertikaalse asukoha väärtus."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "Laius:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Sisesta valitud objekti laius."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Sisesta valitud objekti laius."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"heightlabel\n"
+"label\n"
+"string.text"
+msgid "H_eight:"
+msgstr "Kõrgus:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Sisesta valitud objekti kõrgus."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Sisesta valitud objekti kõrgus."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"label\n"
+"string.text"
+msgid "_Keep ratio"
+msgstr "Hoitakse proportsioonis"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Säilitab objekti suuruse muutmisel selle proportsioonid."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_text\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Säilitab objekti suuruse muutmisel selle proportsioonid."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotationlabel\n"
+"label\n"
+"string.text"
+msgid "_Rotation:"
+msgstr "Pöördenurk:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Vali pöördenurk."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Vali pöördenurk."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliplabel\n"
+"label\n"
+"string.text"
+msgid "_Flip:"
+msgstr "Peegeldamine:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Peegeldab valitud objekti vertikaalselt."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Peegeldab valitud objekti vertikaalselt."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Peegeldab valitud objekti horisontaalselt."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Peegeldab valitud objekti horisontaalselt."
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"TextControlCharacterPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Character"
+msgstr "Märk"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Font"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Fondiefektid"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Paigutus"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"TextControlParagraphPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Lõik"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_STD\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Taanded ja vahed"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ALIGN\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Joondus"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ASIAN\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Aasia tüpograafia"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_TABULATOR\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabelduskohad"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD\n"
+"label\n"
+"string.text"
+msgid "Add Item"
+msgstr "Lisa element"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"label\n"
+"string.text"
+msgid "Add Element"
+msgstr "Lisa element"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"label\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Lisa atribuut"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_EDIT\n"
+"label\n"
+"string.text"
+msgid "Edit"
+msgstr "Redigeeri"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_REMOVE\n"
+"label\n"
+"string.text"
+msgid "Delete"
+msgstr "Kustuta"

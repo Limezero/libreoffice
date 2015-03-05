@@ -1,0 +1,1210 @@
+#. extracted from cui/source/tabpages
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-01-01 07:23+0000\n"
+"Last-Translator: jteera <jteera5@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1420097012.000000\n"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_NONE\n"
+"string.text"
+msgid "Set No Borders"
+msgstr "กำหนดให้ไม่มีเส้นขอบ"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_ONLYOUTER\n"
+"string.text"
+msgid "Set Outer Border Only"
+msgstr "กำหนดให้มีกรอบด้านนอกเท่านั้น"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERHORI\n"
+"string.text"
+msgid "Set Outer Border and Horizontal Lines"
+msgstr "กำหนดให้มีกรอบด้านนอกและเส้นแนวนอน"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERALL\n"
+"string.text"
+msgid "Set Outer Border and All Inner Lines"
+msgstr "กำหนดให้มีกรอบด้านนอกและเส้นด้านในทุกเส้น"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERINNER\n"
+"string.text"
+msgid "Set Outer Border Without Changing Inner Lines"
+msgstr "กำหนดให้มีกรอบด้านนอกโดยคงเส้นด้านในไว้"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_DIAGONAL\n"
+"string.text"
+msgid "Set Diagonal Lines Only"
+msgstr "กำหนดให้มีเส้นทแยงมุมเท่านั้น"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ALL\n"
+"string.text"
+msgid "Set All Four Borders"
+msgstr "กำหนดเส้นขอบทั้งสี่ด้าน"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_LEFTRIGHT\n"
+"string.text"
+msgid "Set Left and Right Borders Only"
+msgstr "กำหนดเส้นขอบซ้ายเท่านั้น"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_TOPBOTTOM\n"
+"string.text"
+msgid "Set Top and Bottom Borders Only"
+msgstr "กำหนดเส้นขอบด้านบนและล่างเท่านั้น"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ONLYLEFT\n"
+"string.text"
+msgid "Set Left Border Only"
+msgstr "กำหนดเส้นขอบซ้ายเท่านั้น"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_HOR_PRESET_ONLYHOR\n"
+"string.text"
+msgid "Set Top and Bottom Borders, and All Inner Lines"
+msgstr "กำหนดเส้นขอบด้านบน ด้านล่าง และเส้นภายในทั้งหมด"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_VER_PRESET_ONLYVER\n"
+"string.text"
+msgid "Set Left and Right Borders, and All Inner Lines"
+msgstr "กำหนดเส้นขอบด้านซ้าย ด้านขวา และเส้นภายในทั้งหมด"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_NONE\n"
+"string.text"
+msgid "No Shadow"
+msgstr "ไม่มีเงา"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Right"
+msgstr "แสดงเงาที่ด้านล่างขวา"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Top Right"
+msgstr "แสดงเงาที่ด้านบนขวา"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Left"
+msgstr "แสดงเงาที่ด้านล่างซ้าย"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPLEFT\n"
+"string.text"
+msgid "Cast Shadow to Top Left"
+msgstr "แสดงเงาที่ด้านบนซ้าย"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_LTR\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "ซ้าย-ไป-ขวา"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_RTL\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "ขวา-ไป-ซ้าย"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_SUPER\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "ใช้การตั้งค่าของวัตถุที่อยู่เหนือกว่า"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_HORI\n"
+"string.text"
+msgid "Left-to-right (horizontal)"
+msgstr "ซ้าย-ไป-ขวา (แนวนอน)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_HORI\n"
+"string.text"
+msgid "Right-to-left (horizontal)"
+msgstr "ขวา-ไป-ซ้าย (แนวนอน)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_VERT\n"
+"string.text"
+msgid "Right-to-left (vertical)"
+msgstr "ขวา-ไป-ซ้าย (แนวตั้ง)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_VERT\n"
+"string.text"
+msgid "Left-to-right (vertical)"
+msgstr "ซ้าย-ไป-ขวา (แนวตั้ง)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "จดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "เส้นประยาว (หนา)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Table\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  Office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "Big 32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "ผู้ใช้"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#6¾ Envelope\n"
+"itemlist.text"
+msgid "#6¾ Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#7¾ (Monarch) Envelope\n"
+"itemlist.text"
+msgid "#7¾ (Monarch) Envelope"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#9 Envelope\n"
+"itemlist.text"
+msgid "#9 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#10 Envelope\n"
+"itemlist.text"
+msgid "#10 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#11 Envelope\n"
+"itemlist.text"
+msgid "#11 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#12 Envelope\n"
+"itemlist.text"
+msgid "#12 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A2\n"
+"itemlist.text"
+msgid "A2"
+msgstr "A2"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A1\n"
+"itemlist.text"
+msgid "A1"
+msgstr "A1"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A0\n"
+"itemlist.text"
+msgid "A0"
+msgstr "A0"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "จดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "เส้นประยาว (หนา)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Table\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  Office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ตาราง"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "Big 32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "ผู้ใช้"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "ซองจดหมาย"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Dia Slide\n"
+"itemlist.text"
+msgid "Dia Slide"
+msgstr "Dia Slide"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 4:3\n"
+"itemlist.text"
+msgid "Screen 4:3"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:9\n"
+"itemlist.text"
+msgid "Screen 16:9"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:10\n"
+"itemlist.text"
+msgid "Screen 16:10"
+msgstr ""
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr ""
+
+#: paragrph.src
+#, fuzzy
+msgctxt ""
+"paragrph.src\n"
+"STR_EXAMPLE\n"
+"string.text"
+msgid "Example"
+msgstr "ตัวอย่าง"
+
+#: paragrph.src
+#, fuzzy
+msgctxt ""
+"paragrph.src\n"
+"STR_PAGE_STYLE\n"
+"string.text"
+msgid "Page Style"
+msgstr ""
+"#-#-#-#-#  fmtui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ลักษณะหน้า\n"
+"#-#-#-#-#  styleui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ลักษณะหน้า\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ลักษณะหน้า\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"รูปแบบหน้ากระดาษ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_GRADIENT\n"
+"string.text"
+msgid "Please enter a name for the gradient:"
+msgstr "กรุณาใส่ชื่อเพื่อไล่ระดับสี:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_GRADIENT\n"
+"string.text"
+msgid ""
+"The gradient was modified without saving. \n"
+"Modify the selected gradient or add a new gradient."
+msgstr ""
+"มีการเปลี่ยนแปลงความลาดสีโดยไม่ได้บันทึก\n"
+"เปลี่ยนแปลงความลาดสีที่เลือกหรือเพิ่มความลาดสีใหม่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_NEW_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the bitmap:"
+msgstr "กรุณาใส่ชื่อบิตแมป:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_EXT_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the external bitmap:"
+msgstr "กรุณาใส่ชื่อสำหรับบิตแมปภายนอก:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_BITMAP\n"
+"string.text"
+msgid ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+msgstr ""
+"มีการเปลี่ยนแปลงภาพบิตแมปโดยไม่ได้บันทึก\n"
+"เปลี่ยนแปลงภาพบิตแมปที่เลือกหรือเพิ่มภาพบิตแมปใหม่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINESTYLE\n"
+"string.text"
+msgid "Please enter a name for the line style:"
+msgstr "กรุณาใส่ชื่อกระบวนแบบของเส้น:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_LINESTYLE\n"
+"string.text"
+msgid ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+msgstr ""
+"กระบวนแบบของเส้นถูกเปลี่ยนแปลงโดยไม่บันทึก\n"
+"เปลี่ยนแปลงกระบวนแบบของเส้นที่เลือกหรือเพิ่มกระบวนแบบของเส้นใหม่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_HATCH\n"
+"string.text"
+msgid "Please enter a name for the hatching:"
+msgstr "กรุณาใส่ชื่อเส้นลาย:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_HATCH\n"
+"string.text"
+msgid ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+msgstr ""
+"มีการเปลี่ยนแปลงชนิดการใส่เส้นลายแต่ไม่บันทึก \n"
+"เปลี่ยนแปลงชนิดการใส่เส้นลายที่เลือกหรือเพิ่มชนิดการใส่เส้นลายใหม่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHANGE\n"
+"string.text"
+msgid "Modify"
+msgstr "เปลี่ยนแปลง"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ADD\n"
+"string.text"
+msgid "Add"
+msgstr "เพิ่ม"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_COLOR\n"
+"string.text"
+msgid "Please enter a name for the new color:"
+msgstr "กรุณาใส่ชื่อสีใหม่:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_COLOR\n"
+"string.text"
+msgid ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+msgstr ""
+"มีการเปลี่ยนแปลงสีโดยไม่มีการบันทึก\n"
+"เปลี่ยนแปลงสีที่เลือกหรือเพิ่มสีใหม่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "ตาราง"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "กรุณาใส่ชื่อหัวลูกศรใหม่:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TRANSPARENT\n"
+"string.text"
+msgid "Transparent"
+msgstr "โปร่งใส"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_NOSTYLE\n"
+"string.text"
+msgid "No %1"
+msgstr ""
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FAMILY\n"
+"string.text"
+msgid "Family"
+msgstr "ภาษาทมิฬ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "แบบอักษร"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_STYLE\n"
+"string.text"
+msgid "Style"
+msgstr "กระบวนแบบ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TYPEFACE\n"
+"string.text"
+msgid "Typeface"
+msgstr "แบบตัวพิมพ์"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USE_REPLACE\n"
+"string.text"
+msgid "Use replacement table"
+msgstr "ใช้ตารางแทนที่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_WORD\n"
+"string.text"
+msgid "Correct TWo INitial CApitals"
+msgstr "แก้ไขกรณีตัวพิมพ์ใหญ่สองตัวขึ้นต้นคำ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_SENT\n"
+"string.text"
+msgid "Capitalize first letter of every sentence"
+msgstr "เปลี่ยนทุกประโยคให้คำแรกขึ้นต้นด้วยตัวพิมพ์ใหญ่"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BOLD_UNDER\n"
+"string.text"
+msgid "Automatic *bold* and _underline_"
+msgstr "ทำ*ตัวหนา* และ _ขีดเส้นใต้_ อัตโนมัติ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NO_DBL_SPACES\n"
+"string.text"
+msgid "Ignore double spaces"
+msgstr "ไม่สนใจเว้นวรรคสองตัว"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DETECT_URL\n"
+"string.text"
+msgid "URL Recognition"
+msgstr "การรู้จำ URL"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DASH\n"
+"string.text"
+msgid "Replace dashes"
+msgstr "แทนที่เครื่องหมายขีด!!!!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CORRECT_ACCIDENTAL_CAPS_LOCK\n"
+"string.text"
+msgid "Correct accidental use of cAPS LOCK key"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NON_BREAK_SPACE\n"
+"string.text"
+msgid "Add non-breaking space before specific punctuation marks in French text"
+msgstr "เติมวรรคที่ไม่แบ่งบรรทัด (non breaking space) ก่อนเครื่องหมายวรรคตอนจำเพาะในข้อความภาษาฝรั่งเศส"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ORDINAL\n"
+"string.text"
+msgid "Format ordinal numbers suffixes (1st -> 1^st)"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_EMPTY_PARA\n"
+"string.text"
+msgid "Remove blank paragraphs"
+msgstr "ลบย่อหน้าที่ว่าง"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USER_STYLE\n"
+"string.text"
+msgid "Replace Custom Styles"
+msgstr "แทนที่กระบวนแบบที่กำหนดเอง"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BULLET\n"
+"string.text"
+msgid "Replace bullets with: "
+msgstr "แทนที่จุดนำด้วย: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_RIGHT_MARGIN\n"
+"string.text"
+msgid "Combine single line paragraphs if length greater than"
+msgstr "เชื่อมย่อหน้าบรรทัดเดี่ยวเข้าด้วยกันหากความยาวมากกว่า"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NUM\n"
+"string.text"
+msgid "Apply numbering - symbol: "
+msgstr "ใช้เลขลำดับ - สัญลักษณ์: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BORDER\n"
+"string.text"
+msgid "Apply border"
+msgstr "เริ่มใช้เส้นขอบ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CREATE_TABLE\n"
+"string.text"
+msgid "Create table"
+msgstr "สร้างตาราง"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_REPLACE_TEMPLATES\n"
+"string.text"
+msgid "Apply Styles"
+msgstr "เริ่มใช้กระบวนแบบ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_AT_STT_END\n"
+"string.text"
+msgid "Delete spaces and tabs at beginning and end of paragraph"
+msgstr "ลบช่องว่างและระยะกั้นที่จุดเริ่มต้นและจุดสุดท้ายของย่อหน้า"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_BETWEEN_LINES\n"
+"string.text"
+msgid "Delete spaces and tabs at end and start of line"
+msgstr "ลบช่องว่างและระยะกั้นที่จุดสุดท้ายและจุดเริ่มต้นของบรรทัด"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CONNECTOR\n"
+"string.text"
+msgid "Connector"
+msgstr "ตัวเชื่อมต่อ"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DIMENSION_LINE\n"
+"string.text"
+msgid "Dimension line"
+msgstr "มีมิติ!!!!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "ไม่สามารถโหลดแฟ้มได้!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_LOAD_ERROR\n"
+"string.text"
+msgid "The selected module could not be loaded."
+msgstr ""

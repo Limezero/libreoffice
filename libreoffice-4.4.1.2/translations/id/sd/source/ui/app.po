@@ -1,0 +1,4077 @@
+#. extracted from sd/source/ui/app
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-02-16 22:20+0100\n"
+"PO-Revision-Date: 2015-01-14 13:03+0000\n"
+"Last-Translator: Andika <andika@gmail.com>\n"
+"Language-Team: Indonesian <>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421240590.000000\n"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CHANGEBEZIER\n"
+"SID_CHANGEBEZIER\n"
+"menuitem.text"
+msgid "To ~Curve"
+msgstr "Ke ~Kurva"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CHANGEPOLYGON\n"
+"SID_CHANGEPOLYGON\n"
+"menuitem.text"
+msgid "To ~Polygon"
+msgstr "Ke ~Poligon"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_CONTOUR\n"
+"SID_CONVERT_TO_CONTOUR\n"
+"menuitem.text"
+msgid "To C~ontour"
+msgstr "Ke ~Kontur"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_3D\n"
+"SID_CONVERT_TO_3D\n"
+"menuitem.text"
+msgid "To 3~D"
+msgstr "Ke 3~D"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_BITMAP\n"
+"SID_CONVERT_TO_BITMAP\n"
+"menuitem.text"
+msgid "To ~Bitmap"
+msgstr "Ke ~Bitmap"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_METAFILE\n"
+"SID_CONVERT_TO_METAFILE\n"
+"menuitem.text"
+msgid "To ~Metafile"
+msgstr "Ke ~Metafile"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_3D_LATHE_FAST\n"
+"SID_CONVERT_TO_3D_LATHE_FAST\n"
+"menuitem.text"
+msgid "To 3D ~Rotation Object"
+msgstr "Ke ~Rotasi Objek 3D"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_VERTICAL\n"
+"SID_VERTICAL\n"
+"menuitem.text"
+msgid "~Vertically"
+msgstr "Secara ~Vertikal"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_HORIZONTAL\n"
+"SID_HORIZONTAL\n"
+"menuitem.text"
+msgid "~Horizontally"
+msgstr "Secara ~Horisontal"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_3D_WIN\n"
+"SID_3D_WIN\n"
+"menuitem.text"
+msgid "~3D Effects"
+msgstr "Efek ~3D"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_PRESENTATION_LAYOUT\n"
+"SID_PRESENTATION_LAYOUT\n"
+"menuitem.text"
+msgid "~Slide Design"
+msgstr "Desain ~Salindia"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_DIA\n"
+"SID_SLIDE_TRANSITIONS_PANEL\n"
+"menuitem.text"
+msgid "Slide ~Transition"
+msgstr "~Transisi Salindia"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_SHOW_SLIDE\n"
+"SID_SHOW_SLIDE\n"
+"menuitem.text"
+msgid "~Show Slide"
+msgstr "Tampilkan ~Salindia"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_HIDE_SLIDE\n"
+"SID_HIDE_SLIDE\n"
+"menuitem.text"
+msgid "~Hide Slide"
+msgstr "Sembun~yikan Salindia"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DISTRIBUTE\n"
+"SID_DISTRIBUTE_DLG\n"
+"menuitem.text"
+msgid "~Distribution..."
+msgstr "~Distribusi..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CAPTUREPOINT\n"
+"SID_CAPTUREPOINT\n"
+"menuitem.text"
+msgid "~Insert Snap Point/Line..."
+msgstr "~Sisipkan Titik/Garis Kancing..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_SET_SNAPITEM\n"
+"SID_SET_SNAPITEM\n"
+"menuitem.text"
+msgid "~Edit..."
+msgstr "~Sunting..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_SNAPITEM\n"
+"SID_DELETE_SNAPITEM\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Hapus"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_MODIFY_PAGE\n"
+"SID_MODIFYPAGE\n"
+"menuitem.text"
+msgid "Slide ~Layout"
+msgstr "Tata ~Letak Salindia"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_FORMAT_PAGE\n"
+"SID_PAGESETUP\n"
+"menuitem.text"
+msgid "~Page Setup..."
+msgstr "Setup ~Halaman..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_SLIDE\n"
+"SID_INSERTPAGE\n"
+"menuitem.text"
+msgid "~New Slide"
+msgstr "Salindia ~Baru"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DUPLICATE_SLIDE\n"
+"SID_DUPLICATE_PAGE\n"
+"menuitem.text"
+msgid "~Duplicate Slide"
+msgstr "Gan~dakan Salindia"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_MASTER\n"
+"SID_INSERT_MASTER_PAGE\n"
+"menuitem.text"
+msgid "~New Master"
+msgstr "Induk ~Baru"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE\n"
+"SID_INSERTPAGE\n"
+"menuitem.text"
+msgid "~New Page"
+msgstr "Halaman ~Baru"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE.MN_SELECT_BACKGROUND\n"
+"SID_SELECT_BACKGROUND\n"
+"menuitem.text"
+msgid "Set Background Image for Slide ..."
+msgstr "Tata Citra Latar bagi Salindia ..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE.MN_SELECT_BACKGROUND.MN_DISPLAY_MASTER_BACKGROUND\n"
+"SID_DISPLAY_MASTER_BACKGROUND\n"
+"menuitem.text"
+msgid "Display Background of Master"
+msgstr "Tampilkan Latar Belakang Induk"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE.MN_SELECT_BACKGROUND.MN_DISPLAY_MASTER_BACKGROUND.MN_DISPLAY_MASTER_OBJECTS\n"
+"SID_DISPLAY_MASTER_OBJECTS\n"
+"menuitem.text"
+msgid "Display Objects from Master"
+msgstr "Tampilkan Objek dari Induk"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_PAGE_MENU\n"
+"DUMMY+3\n"
+"menuitem.text"
+msgid "Pag~e"
+msgstr "Hala~man"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_SLIDE_MENU\n"
+"DUMMY+8\n"
+"menuitem.text"
+msgid "Slid~e"
+msgstr "~Salindia"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_LAYER\n"
+"SID_RENAMELAYER\n"
+"menuitem.text"
+msgid "~Rename Layer..."
+msgstr "~Ganti Nama Lapisan..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_SLIDE\n"
+"SID_DELETE_PAGE\n"
+"menuitem.text"
+msgid "D~elete Slide"
+msgstr "~Hapus Salindia"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_MASTER\n"
+"SID_DELETE_MASTER_PAGE\n"
+"menuitem.text"
+msgid "D~elete Master"
+msgstr "~Hapus Induk"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_PAGE\n"
+"SID_DELETE_PAGE\n"
+"menuitem.text"
+msgid "D~elete Page"
+msgstr "~Hapus Halaman"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_SLIDE\n"
+"SID_RENAMEPAGE\n"
+"menuitem.text"
+msgid "~Rename Slide"
+msgstr "~Ganti Nama Salindia"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_MASTER\n"
+"SID_RENAME_MASTER_PAGE\n"
+"menuitem.text"
+msgid "~Rename Master"
+msgstr "~Ganti Nama Induk"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_PAGE\n"
+"SID_RENAMEPAGE\n"
+"menuitem.text"
+msgid "~Rename Page"
+msgstr "~Ganti Nama Halaman"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINE\n"
+"SID_ATTRIBUTES_LINE\n"
+"menuitem.text"
+msgid "L~ine..."
+msgstr "Gar~is..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_AREA\n"
+"SID_ATTRIBUTES_AREA\n"
+"menuitem.text"
+msgid "~Area..."
+msgstr "Wil~ayah..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXTATTR\n"
+"SID_TEXTATTR_DLG\n"
+"menuitem.text"
+msgid "~Text..."
+msgstr "~Teks..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OUTLINE_TEXT_AUTOFIT\n"
+"SID_OUTLINE_TEXT_AUTOFIT\n"
+"menuitem.text"
+msgid "~Autofit Text"
+msgstr "Teks SesuaiOtom~atis"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CONNECTION\n"
+"SID_CONNECTION_DLG\n"
+"menuitem.text"
+msgid "~Connector..."
+msgstr "~Konektor..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_NEW_ROUTING\n"
+"SID_CONNECTION_NEW_ROUTING\n"
+"menuitem.text"
+msgid "Reset ~Routing"
+msgstr "Ulangi ~Routing"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_MEASURE\n"
+"SID_MEASURE_DLG\n"
+"menuitem.text"
+msgid "Dimen~sions..."
+msgstr "Dimen~si..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TRANSFORM\n"
+"SID_ATTR_TRANSFORM\n"
+"menuitem.text"
+msgid "Position and Si~ze..."
+msgstr "Posisi dan Uk~uran..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_EDIT_POINTS\n"
+"SID_BEZIER_EDIT\n"
+"menuitem.text"
+msgid "Edit ~Points"
+msgstr "Sunting ~Titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_FRAME_TO_TOP\n"
+"menuitem.text"
+msgid "~Bring to Front"
+msgstr "~Bawa ke Depan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_MOREFRONT\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr "Bawa ~Maju"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_MOREBACK\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr "Ba~wa Mundur"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_FRAME_TO_BOTTOM\n"
+"menuitem.text"
+msgid "~Send to Back"
+msgstr "~Kirim ke Belakang"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_BEFORE_OBJ\n"
+"menuitem.text"
+msgid "In Front of ~Object"
+msgstr "Di Depan ~Objek"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_BEHIND_OBJ\n"
+"menuitem.text"
+msgid "Be~hind Object"
+msgstr "Di ~Belakang Objek"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_REVERSE_ORDER\n"
+"menuitem.text"
+msgid "~Reverse"
+msgstr "Keba~likan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION\n"
+"SID_POSITION\n"
+"menuitem.text"
+msgid "Arra~nge"
+msgstr "Susu~n"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CHAR\n"
+"SID_CHAR_DLG\n"
+"menuitem.text"
+msgid "C~haracter..."
+msgstr "Ka~rakter..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CHAR_PARAGRAPH\n"
+"SID_PARA_DLG\n"
+"menuitem.text"
+msgid "P~aragraph..."
+msgstr "P~aragraf..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_WEIGHT\n"
+"menuitem.text"
+msgid "Bold"
+msgstr "Tebal"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_POSTURE\n"
+"menuitem.text"
+msgid "Italic"
+msgstr "Italik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_OVERLINE\n"
+"menuitem.text"
+msgid "Overline"
+msgstr "Garis Atas"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_UNDERLINE\n"
+"menuitem.text"
+msgid "Underline"
+msgstr "Garis Bawah"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_STRIKEOUT\n"
+"menuitem.text"
+msgid "Strikethrough"
+msgstr "Coret"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_SHADOWED\n"
+"menuitem.text"
+msgid "Shadow"
+msgstr "Bayangan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_CONTOUR\n"
+"menuitem.text"
+msgid "~Contour"
+msgstr "~Kontur"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_SET_SUPER_SCRIPT\n"
+"menuitem.text"
+msgid "Superscript"
+msgstr "Superskrip"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_SET_SUB_SCRIPT\n"
+"menuitem.text"
+msgid "Subscript"
+msgstr "Subskrip"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR\n"
+"DUMMY\n"
+"menuitem.text"
+msgid "~Format"
+msgstr "~Format"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR.DUMMY+1\n"
+"SID_ATTR_PARA_LINESPACE_10\n"
+"menuitem.text"
+msgid "Single Line Spacing"
+msgstr "Spasi Tunggal"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR.DUMMY+1\n"
+"SID_ATTR_PARA_LINESPACE_15\n"
+"menuitem.text"
+msgid "1.5 Lines"
+msgstr "1,5 Spasi"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR.DUMMY+1\n"
+"SID_ATTR_PARA_LINESPACE_20\n"
+"menuitem.text"
+msgid "~Double"
+msgstr "Gan~da"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR\n"
+"DUMMY+1\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "~Spasi baris"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BULLET\n"
+"SID_CHARMAP\n"
+"menuitem.text"
+msgid "S~pecial Character..."
+msgstr "Karakter Kh~usus..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_LEFT\n"
+"menuitem.text"
+msgid "~Left"
+msgstr "~Kiri"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_CENTER\n"
+"menuitem.text"
+msgid "~Centered"
+msgstr "T~engah"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_RIGHT\n"
+"menuitem.text"
+msgid "~Right"
+msgstr "K~anan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_UP\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "A~tas"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_MIDDLE\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr "T~engah"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_DOWN\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~Bawah"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN\n"
+"menuitem.text"
+msgid "Al~ignment"
+msgstr "Perataa~n"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CLOSE_OBJECT\n"
+"SID_OBJECT_CLOSE\n"
+"menuitem.text"
+msgid "Close ~Object"
+msgstr "Tutup ~Objek"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_EDIT\n"
+"menuitem.text"
+msgid "Edit ~Points"
+msgstr "Sunting ~Titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_MOVE\n"
+"menuitem.text"
+msgid "~Move Points"
+msgstr "~Pindahkan Titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_INSERT\n"
+"menuitem.text"
+msgid "Insert ~Points"
+msgstr "Sisi~p titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_DELETE\n"
+"menuitem.text"
+msgid "~Delete Points"
+msgstr "~Hapus titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_CLOSE\n"
+"menuitem.text"
+msgid "Close ~Object"
+msgstr "Tutup ~Objek"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_CUTLINE\n"
+"menuitem.text"
+msgid "~Split Curve"
+msgstr "~Belah Kurva"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_CONVERT\n"
+"menuitem.text"
+msgid "Con~vert to Curve"
+msgstr "Kon~versi ke Kurva"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_EDGE\n"
+"menuitem.text"
+msgid "~Corner"
+msgstr "~Sudut"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_SMOOTH\n"
+"menuitem.text"
+msgid "Smoot~h"
+msgstr "~Halus"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_SYMMTR\n"
+"menuitem.text"
+msgid "S~ymmetric"
+msgstr "~Simetris"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_ELIMINATE_POINTS\n"
+"menuitem.text"
+msgid "~Reduce Points"
+msgstr "Ku~rangi Titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GROUP\n"
+"SID_GROUP\n"
+"menuitem.text"
+msgid "~Group"
+msgstr "~Kelompokkan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_UNGROUP\n"
+"SID_UNGROUP\n"
+"menuitem.text"
+msgid "~Ungroup"
+msgstr "Pisa~hkan Kelompok"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_COMBINE\n"
+"SID_COMBINE\n"
+"menuitem.text"
+msgid "Comb~ine"
+msgstr "~Gabungkan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DISMANTLE\n"
+"SID_DISMANTLE\n"
+"menuitem.text"
+msgid "~Split"
+msgstr "Pi~sah"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_ENTER_GROUP\n"
+"SID_ENTER_GROUP\n"
+"menuitem.text"
+msgid "~Enter Group"
+msgstr "Masuki K~elompok"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LEAVE_GROUP\n"
+"SID_LEAVE_GROUP\n"
+"menuitem.text"
+msgid "E~xit Group"
+msgstr "Kelua~r Kelompok"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_NAME_GROUP\n"
+"SID_NAME_GROUP\n"
+"menuitem.text"
+msgid "Name..."
+msgstr "Nama..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_TITLE_DESCRIPTION\n"
+"SID_OBJECT_TITLE_DESCRIPTION\n"
+"menuitem.text"
+msgid "Description..."
+msgstr "Deskripsi..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_ACTION\n"
+"SID_ANIMATION_EFFECTS\n"
+"menuitem.text"
+msgid "Int~eraction..."
+msgstr "Int~eraksi..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_PRESENTATIONOBJECT\n"
+"SID_PRESENTATIONOBJECT\n"
+"menuitem.text"
+msgid "Presentation ~Object..."
+msgstr "~Objek Presentasi..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE\n"
+"SID_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Hapus"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_SET_DEFAULT\n"
+"SID_SET_DEFAULT\n"
+"menuitem.text"
+msgid "~Default"
+msgstr "~Baku"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_FONTWORK\n"
+"SID_FONTWORK\n"
+"menuitem.text"
+msgid "F~ontwork"
+msgstr "F~ontwork"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_ORIGINAL_SIZE\n"
+"SID_ORIGINAL_SIZE\n"
+"menuitem.text"
+msgid "~Original Size"
+msgstr "Ukuran ~Asli"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CROP\n"
+"SID_OBJECT_CROP\n"
+"menuitem.text"
+msgid "Crop Image"
+msgstr "Pangkas Citra"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_INSERT_POINT\n"
+"SID_GLUE_INSERT_POINT\n"
+"menuitem.text"
+msgid "Insert ~Point"
+msgstr "Sisi~p Titik"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_LEFT\n"
+"SID_GLUE_ESCDIR_LEFT\n"
+"menuitem.text"
+msgid "~Left"
+msgstr "~Kiri"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_TOP\n"
+"SID_GLUE_ESCDIR_TOP\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "A~tas"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_RIGHT\n"
+"SID_GLUE_ESCDIR_RIGHT\n"
+"menuitem.text"
+msgid "~Right"
+msgstr "K~anan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_BOTTOM\n"
+"SID_GLUE_ESCDIR_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~Bawah"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_PERCENT\n"
+"SID_GLUE_PERCENT\n"
+"menuitem.text"
+msgid "~Adapt Position to Object"
+msgstr "Sesuaik~an Posisi ke Objek"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_HORZALIGN_LEFT\n"
+"SID_GLUE_HORZALIGN_LEFT\n"
+"menuitem.text"
+msgid "Fixed ~Horizontal Left"
+msgstr "Kiri ~Horisontal Tetap"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_HORZALIGN_CENTER\n"
+"SID_GLUE_HORZALIGN_CENTER\n"
+"menuitem.text"
+msgid "Fixed Horizontal ~Center"
+msgstr "~Tengah Horisontal Tetap"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_HORZALIGN_RIGHT\n"
+"SID_GLUE_HORZALIGN_RIGHT\n"
+"menuitem.text"
+msgid "Fixed Hori~zontal Right"
+msgstr "Kanan Hori~sontal Tetap"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_TOP\n"
+"SID_GLUE_VERTALIGN_TOP\n"
+"menuitem.text"
+msgid "Fixed ~Vertical Top"
+msgstr "Atas ~Vertikal Tetap"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_CENTER\n"
+"SID_GLUE_VERTALIGN_CENTER\n"
+"menuitem.text"
+msgid "Fixed V~ertical Center"
+msgstr "Tengah V~ertikal Tetap"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_BOTTOM\n"
+"SID_GLUE_VERTALIGN_BOTTOM\n"
+"menuitem.text"
+msgid "Fixed Ver~tical Bottom"
+msgstr "Bawah Ver~tikal Tetap"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_BOTTOM.MN_RULER\n"
+"SID_RULER\n"
+"menuitem.text"
+msgid "Display ~Ruler"
+msgstr "Tampilkan Pengga~ris"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID_VISIBLE\n"
+"SID_GRID_VISIBLE\n"
+"menuitem.text"
+msgid "~Display Grid"
+msgstr "Tampi~lkan Kisi"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID_USE\n"
+"SID_GRID_USE\n"
+"menuitem.text"
+msgid "Snap to Grid"
+msgstr "Kancingkan ke Kisi"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID_FRONT\n"
+"SID_GRID_FRONT\n"
+"menuitem.text"
+msgid "Grid to ~Front"
+msgstr "Kisi ke D~epan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID\n"
+"DUMMY+5\n"
+"menuitem.text"
+msgid "~Grid"
+msgstr "~Kisi"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES_VISIBLE\n"
+"SID_HELPLINES_VISIBLE\n"
+"menuitem.text"
+msgid "~Display Snap Lines"
+msgstr "~Tampilkan Garis Kancing"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES_USE\n"
+"SID_HELPLINES_USE\n"
+"menuitem.text"
+msgid "~Snap to Snap Lines"
+msgstr "Kancingkan ke Gari~s Kancing"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES_FRONT\n"
+"SID_HELPLINES_FRONT\n"
+"menuitem.text"
+msgid "Snap Lines to ~Front"
+msgstr "Garis Kancing ke ~Depan"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES\n"
+"DUMMY+6\n"
+"menuitem.text"
+msgid "~Snap Lines"
+msgstr "Gari~s Kancing"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MNSUB_CONVERT\n"
+"SID_CONVERT\n"
+"menuitem.text"
+msgid "Con~vert"
+msgstr "Kon~versi"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MNSUB_MIRROR\n"
+"SID_MIRROR\n"
+"menuitem.text"
+msgid "~Flip"
+msgstr "~Lipat"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CONNECT\n"
+"SID_CONNECT\n"
+"menuitem.text"
+msgid "C~onnect"
+msgstr "S~ambung"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BREAK\n"
+"SID_BREAK\n"
+"menuitem.text"
+msgid "~Break"
+msgstr "~Putus"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_STYLEDT\n"
+"SID_STYLE_EDIT\n"
+"menuitem.text"
+msgid "Edit Style..."
+msgstr "Sunting Gaya..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TEXTOBJ_INSIDE_POPUP\n"
+"SID_HIDE_LAST_LEVEL\n"
+"menuitem.text"
+msgid "~Hide Last Level"
+msgstr "Sembunyikan Tingkat Terak~hir"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TEXTOBJ_INSIDE_POPUP\n"
+"SID_SHOW_NEXT_LEVEL\n"
+"menuitem.text"
+msgid "~Show Next Level"
+msgstr "Tampilkan Tingkat ~Selanjutnya"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"SID_FORMAT_TABLE_DLG\n"
+"menuitem.text"
+msgid "~Table..."
+msgstr "~Tabel..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_MERGE_CELLS\n"
+"menuitem.text"
+msgid "~Merge"
+msgstr "~Gabung"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_SPLIT_CELLS\n"
+"menuitem.text"
+msgid "~Split..."
+msgstr "~Bagi..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_NONE\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "A~tas"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_CENTER\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr "T~engah"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~Bawah"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"DUMMY+10\n"
+"menuitem.text"
+msgid "~Cell"
+msgstr "~Sel"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_DISTRIBUTE_ROWS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "~Jarak Sama Rata"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_SELECT_ROW\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~Pilih"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_INSERT_ROW_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "S~isip..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_DELETE_ROW\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Hapus"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"DUMMY+11\n"
+"menuitem.text"
+msgid "~Row"
+msgstr "Ba~ris"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_DISTRIBUTE_COLUMNS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "~Jarak Sama Rata"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_SELECT_COL\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~Pilih"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_INSERT_COL_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "S~isip..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_DELETE_COL\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Hapus"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"DUMMY+12\n"
+"menuitem.text"
+msgid "Colu~mn"
+msgstr "Kolo~m"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_LAYERTAB_POPUP\n"
+"SID_INSERTLAYER\n"
+"menuitem.text"
+msgid "~Insert Layer..."
+msgstr "S~isip Lapisan..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_LAYERTAB_POPUP\n"
+"SID_MODIFYLAYER\n"
+"menuitem.text"
+msgid "Modify La~yer..."
+msgstr "~Ubah Lapisan..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_LAYERTAB_POPUP\n"
+"SID_DELETE_LAYER\n"
+"menuitem.text"
+msgid "Delete ~Layer..."
+msgstr "Hapus ~Lapisan..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_ALL_SLIDES\n"
+"menuitem.text"
+msgid "~Apply to All Slides"
+msgstr "Ter~apkan untuk Semua Salindia"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_SELECTED_SLIDES\n"
+"menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "Terapkan untuk ~Salindia yang Dipilih"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_LARGE_PREVIEW\n"
+"menuitem.text"
+msgid "Show ~Large Preview"
+msgstr "Lihat Pratinja~u Besar"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_SMALL_PREVIEW\n"
+"menuitem.text"
+msgid "Show S~mall Preview"
+msgstr "Lihat Prati~njau Kecil"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_ALL_SLIDES\n"
+"menuitem.text"
+msgid "~Apply to All Slides"
+msgstr "Ter~apkan untuk Semua Salindia"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_SELECTED_SLIDES\n"
+"menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "Terapkan untuk ~Salindia yang Dipilih"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_EDIT_MASTER\n"
+"menuitem.text"
+msgid "~Edit Master..."
+msgstr "~Sunting Induk..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_LARGE_PREVIEW\n"
+"menuitem.text"
+msgid "Show ~Large Preview"
+msgstr "Lihat Pratinja~u Besar"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_SMALL_PREVIEW\n"
+"menuitem.text"
+msgid "Show S~mall Preview"
+msgstr "Lihat Prati~njau Kecil"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_LAYOUTMENU_POPUP\n"
+"SID_TP_APPLY_TO_SELECTED_SLIDES\n"
+"menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "Terapkan untuk ~Salindia yang Dipilih"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_LAYOUTMENU_POPUP\n"
+"SID_INSERTPAGE_LAYOUT_MENU\n"
+"menuitem.text"
+msgid "~Insert Slide"
+msgstr "S~isip Salindia"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"SID_FORMAT_TABLE_DLG\n"
+"menuitem.text"
+msgid "~Table..."
+msgstr "~Tabel..."
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_MERGE_CELLS\n"
+"menuitem.text"
+msgid "~Merge"
+msgstr "~Gabung"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_SPLIT_CELLS\n"
+"menuitem.text"
+msgid "~Split..."
+msgstr "~Bagi..."
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_NONE\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "A~tas"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_CENTER\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr "T~engah"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~Bawah"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"DUMMY+10\n"
+"menuitem.text"
+msgid "~Cell"
+msgstr "~Sel"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_DISTRIBUTE_ROWS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "~Jarak Sama Rata"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_SELECT_ROW\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~Pilih"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_INSERT_ROW_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "S~isip..."
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_DELETE_ROW\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Hapus"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"DUMMY+11\n"
+"menuitem.text"
+msgid "~Row"
+msgstr "Ba~ris"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_DISTRIBUTE_COLUMNS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "~Jarak Sama Rata"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_SELECT_COL\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~Pilih"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_INSERT_COL_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "S~isip..."
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_DELETE_COL\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Hapus"
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"DUMMY+12\n"
+"menuitem.text"
+msgid "Colu~mn"
+msgstr "Kolo~m"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"SfxStyleFamiliesRes1\n"
+"#define.text"
+msgid "Drawing Object Styles"
+msgstr "Gaya Objek Menggambar"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"SfxStyleFamiliesRes2\n"
+"#define.text"
+msgid "Presentation Styles"
+msgstr "Gaya Presentasi"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"STR_STYLE_FILTER_USED\n"
+"string.text"
+msgid "Applied Styles"
+msgstr "Gaya Yang Diterapkan"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"STR_STYLE_FILTER_USERDEF\n"
+"string.text"
+msgid "Custom Styles"
+msgstr "Gaya Gubahan"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"STR_STYLE_FILTER_ALL\n"
+"string.text"
+msgid "All Styles"
+msgstr "Semua Gaya"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"All Styles\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "Semua Gaya"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Gaya Tersembunyi"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Gaya Yang Diterapkan"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Gaya Gubahan"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY\n"
+"All Styles\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "Semua Gaya"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Gaya Tersembunyi"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_NOT_FOUND\n"
+"string.text"
+msgid "Search key not found."
+msgstr "Kunci pencarian tidak ketemu."
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_FORWARD\n"
+"string.text"
+msgid "%PRODUCTNAME Impress has searched to the end of the presentation. Do you want to continue at the beginning?"
+msgstr "%PRODUCTNAME Impress sudah mencari hingga akhir presentasi. Apakah pencarian dilanjutkan dari awal?"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_BACKWARD\n"
+"string.text"
+msgid "%PRODUCTNAME Impress has searched to the beginning of the presentation. Do you want to continue at the end?"
+msgstr "%PRODUCTNAME Impress sudah mencari hingga awal presentasi. Apakah pencarian dilanjutkan dari akhir?"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_FORWARD_DRAW\n"
+"string.text"
+msgid "%PRODUCTNAME Draw has searched to the end of the document. Do you want to continue at the beginning?"
+msgstr "%PRODUCTNAME Draw sudah mencari hingga akhir dokumen. Apakah pencarian dilanjutkan dari awal?"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_BACKWARD_DRAW\n"
+"string.text"
+msgid "%PRODUCTNAME Draw has searched to the beginning of the document. Do you want to continue at the end?"
+msgstr "%PRODUCTNAME Draw sudah mencari hingga awal presentasi. Apakah pencarian dilanjutkan dari akhir dokumen?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Drawings Toolbar"
+msgstr "Baris Alat Menggambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_TOOLBOX\n"
+"string.text"
+msgid "Slide Bar"
+msgstr "Baris Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_OUTLINE_TOOLBOX\n"
+"string.text"
+msgid "Outline Bar"
+msgstr "Baris Kerangka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_OBJ_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "Baris Objek Menggambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHIC_OBJ_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar/Image"
+msgstr "Bilah Objek Menggambar/Gambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_OPTIONS_TOOLBOX\n"
+"string.text"
+msgid "Options Bar"
+msgstr "Baris Opsi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_COMMONTASK_TOOLBOX\n"
+"string.text"
+msgid "Presentation"
+msgstr "Presentasi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_OBJ_TOOLBOX\n"
+"string.text"
+msgid "Slide Object Bar"
+msgstr "Baris Objek Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "Bilah Objek Bezier"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUEPOINTS_TOOLBOX\n"
+"string.text"
+msgid "Glue Point Object Bar"
+msgstr "Baris Objek Titik Lengket"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "Baris Objek Teks"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NULL\n"
+"string.text"
+msgid "None"
+msgstr "Nihil"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERTPAGE\n"
+"string.text"
+msgid "Insert Slide"
+msgstr "Sisip Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERTLAYER\n"
+"string.text"
+msgid "Insert Layer"
+msgstr "Sisip Lapisan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_MODIFYLAYER\n"
+"string.text"
+msgid "Modify Layer"
+msgstr "Ubah Lapisan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SLIDE_PARAMS\n"
+"string.text"
+msgid "Slide parameter"
+msgstr "Parameter salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SLIDE_MOVE\n"
+"string.text"
+msgid "Move slide"
+msgstr "Pindahkan salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CUT\n"
+"string.text"
+msgid "Cut"
+msgstr "Potong"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_REPLACE\n"
+"string.text"
+msgid "Replace"
+msgstr "Ganti"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_DRAGDROP\n"
+"string.text"
+msgid "Drag and Drop"
+msgstr "Seret dan Lepas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERTGRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr "Sisipkan Gambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLOW\n"
+"string.text"
+msgid "Slow"
+msgstr "Lambat"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_MEDIUM\n"
+"string.text"
+msgid "Medium"
+msgstr "Sedang"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FAST\n"
+"string.text"
+msgid "Fast"
+msgstr "Cepat"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_BEZCLOSE\n"
+"string.text"
+msgid "Close Polygon"
+msgstr "Tutup Poligon"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_MODE\n"
+"string.text"
+msgid "Slide Sorter"
+msgstr "Penyusun Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_MODE\n"
+"string.text"
+msgid "Normal"
+msgstr "Normal"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_OUTLINE_MODE\n"
+"string.text"
+msgid "Outline"
+msgstr "Kerangka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NOTES_MODE\n"
+"string.text"
+msgid "Notes"
+msgstr "Catatan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HANDOUT_MODE\n"
+"string.text"
+msgid "Handout"
+msgstr "Kliping"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_NONE\n"
+"string.text"
+msgid "Blank Slide"
+msgstr "Salindia Kosong"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_ONLY_TITLE\n"
+"string.text"
+msgid "Title Only"
+msgstr "Hanya Judul"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_ONLY_TEXT\n"
+"string.text"
+msgid "Centered Text"
+msgstr "Teks di Tengah"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_TITLE\n"
+"string.text"
+msgid "Title Slide"
+msgstr "Salindia Judul"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT\n"
+"string.text"
+msgid "Title, Content"
+msgstr "Judul, Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_2CONTENT\n"
+"string.text"
+msgid "Title and 2 Content"
+msgstr "Judul dan 2 Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT_2CONTENT\n"
+"string.text"
+msgid "Title, Content and 2 Content"
+msgstr "Judul, Isi, dan 2 Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_2CONTENT_CONTENT\n"
+"string.text"
+msgid "Title, 2 Content and Content"
+msgstr "Judul, 2 Isi, dan Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT_OVER_2CONTENT\n"
+"string.text"
+msgid "Title, Content over 2 Content"
+msgstr "Judul, Isi di atas 2 Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_2CONTENT_OVER_CONTENT\n"
+"string.text"
+msgid "Title, 2 Content over Content"
+msgstr "Judul, 2 Isi di atas Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT_OVER_CONTENT\n"
+"string.text"
+msgid "Title, Content over Content"
+msgstr "Judul, Isi di atas Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_4CONTENT\n"
+"string.text"
+msgid "Title, 4 Content"
+msgstr "Judul, 4 Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_6CONTENT\n"
+"string.text"
+msgid "Title, 6 Content"
+msgstr "Judul, 6 Isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_TITLE_VERT_OUTLINE\n"
+"string.text"
+msgid "Title, Vertical Text"
+msgstr "Judul, Teks Vertikal"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_TITLE_VERT_OUTLINE_CLIPART\n"
+"string.text"
+msgid "Title, Vertical Text, Clipart"
+msgstr "Judul, Teks Vertikal, Gambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_VERT_TITLE_TEXT_CHART\n"
+"string.text"
+msgid "Vertical Title, Text, Chart"
+msgstr "Judul Vertikal, Teks, Bagan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_VERT_TITLE_VERT_OUTLINE\n"
+"string.text"
+msgid "Vertical Title, Vertical Text"
+msgstr "Judul Vertikal, Teks Vertikal"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT1\n"
+"string.text"
+msgid "One Slide"
+msgstr "Satu Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT2\n"
+"string.text"
+msgid "Two Slides"
+msgstr "Dua Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT3\n"
+"string.text"
+msgid "Three Slides"
+msgstr "Tiga Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT4\n"
+"string.text"
+msgid "Four Slides"
+msgstr "Empat Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT6\n"
+"string.text"
+msgid "Six Slides"
+msgstr "Enam Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT9\n"
+"string.text"
+msgid "Nine Slides"
+msgstr "Sembilan Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "Catatan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TRANSFORM\n"
+"string.text"
+msgid "Transform"
+msgstr "Transformasikan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LINEEND\n"
+"string.text"
+msgid "Line Ends"
+msgstr "Akhir Baris"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "Silakan masukkan nama untuk pointer panah yang baru:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_NAME_DUPLICATE\n"
+"string.text"
+msgid ""
+"The name chosen already exists. \n"
+"Please enter another name."
+msgstr ""
+"Nama seperti itu sudah ada.\n"
+"Silakan masukkan nama lain."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_ANIMATION\n"
+"string.text"
+msgid "Animation parameters"
+msgstr "Parameter Animasi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EXPORT_HTML_NAME\n"
+"string.text"
+msgid "Web Page"
+msgstr "Halaman Web"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EXPORT_DIALOG_TITLE\n"
+"string.text"
+msgid "Export"
+msgstr "Ekspor"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_COPYOBJECTS\n"
+"string.text"
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TITLE_NAMEGROUP\n"
+"string.text"
+msgid "Name Object"
+msgstr "Nama Objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DESC_NAMEGROUP\n"
+"string.text"
+msgid "Name"
+msgstr "Nama"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_PAGE_EXISTS\n"
+"string.text"
+msgid "The slide name already exists or is invalid. Please enter another name."
+msgstr "Nama salindia sudah ada atau tak sah. Silakan masukkan nama lain."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SNAPDLG_SETLINE\n"
+"string.text"
+msgid "Edit Snap Line"
+msgstr "Sunting Garis Kancing"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SNAPDLG_SETPOINT\n"
+"string.text"
+msgid "Edit Snap Point"
+msgstr "Sunting Titik Kancing"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_EDIT_SNAPLINE\n"
+"string.text"
+msgid "Edit Snap Line..."
+msgstr "Sunting Garis Kancing..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_EDIT_SNAPPOINT\n"
+"string.text"
+msgid "Edit Snap Point..."
+msgstr "Sunting Titik Kancing..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_DELETE_SNAPLINE\n"
+"string.text"
+msgid "Delete Snap Line"
+msgstr "Hapus Garis Kancing"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_DELETE_SNAPPOINT\n"
+"string.text"
+msgid "Delete Snap Point"
+msgstr "Hapus Titik Kancing"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPRESS\n"
+"string.text"
+msgid "StarImpress 4.0"
+msgstr "StarImpress 4.0"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LAYER\n"
+"string.text"
+msgid "Layer"
+msgstr "Lapisan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_DELETEPAGES\n"
+"string.text"
+msgid "Delete slides"
+msgstr "Hapus salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERTPAGES\n"
+"string.text"
+msgid "Insert slides"
+msgstr "Sisip salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ASK_DELETE_LAYER\n"
+"string.text"
+msgid ""
+"Are you sure you want to delete the level \"$\"?\n"
+"Note: All objects on this level will be deleted!"
+msgstr ""
+"Anda yakin akan menghapus tingkat \"$\"?\n"
+"Catatan: Semua objek pada tingkat ini akan dihapus!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ASK_DELETE_ALL_PICTURES\n"
+"string.text"
+msgid "Do you really want to delete all images?"
+msgstr "Hapus semua gambar?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_TITLE_AND_LAYOUT\n"
+"string.text"
+msgid "Modify title and outline"
+msgstr "Ubah judul dan kerangka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WAV_FILE\n"
+"string.text"
+msgid "Audio"
+msgstr "Audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_MIDI_FILE\n"
+"string.text"
+msgid "MIDI"
+msgstr "MIDI"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AU_FILE\n"
+"string.text"
+msgid "Sun/NeXT Audio"
+msgstr "Sun/NeXT Audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_VOC_FILE\n"
+"string.text"
+msgid "Creative Labs Audio"
+msgstr "Creative Labs Audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AIFF_FILE\n"
+"string.text"
+msgid "Apple/SGI Audio"
+msgstr "Apple/SGI Audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SVX_FILE\n"
+"string.text"
+msgid "Amiga SVX Audio"
+msgstr "Amiga SVX Audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SD_PAGE\n"
+"string.text"
+msgid "Slide"
+msgstr "Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ALL_FILES\n"
+"string.text"
+msgid "All files"
+msgstr "Semua berkas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERT_TEXTFRAME\n"
+"string.text"
+msgid "Insert text frame"
+msgstr "Sisip bingkai teks"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ACTION_NOTPOSSIBLE\n"
+"string.text"
+msgid ""
+"This function cannot be run \n"
+"with the selected objects."
+msgstr ""
+"Fungsi ini tak dapat dijalankan \n"
+"terhadap objek yang dipilih."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DLG_INSERT_PAGES_FROM_FILE\n"
+"string.text"
+msgid "Insert File"
+msgstr "Sisip berkas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "Berkas tak dapat dimuat!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SCALE_OBJECTS\n"
+"string.text"
+msgid ""
+"The page size of the target document is different than the source document.\n"
+"\n"
+"Do you want to scale the copied objects to fit the new page size?"
+msgstr ""
+"Ukuran halaman dari dokumen target berbeda dengan dokumen sumber.\n"
+"\n"
+"Apakah Anda ingin mengubah skala objek yang disalin agar pas dengan ukuran halaman baru?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CREATE_PAGES\n"
+"string.text"
+msgid "Create Slides"
+msgstr "Buat Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_PAGEFORMAT\n"
+"string.text"
+msgid "Modify page format"
+msgstr "Ubah format halaman"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_PAGEBORDER\n"
+"string.text"
+msgid "Modify page margins"
+msgstr "Ubah marjin halaman"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EDIT_OBJ\n"
+"string.text"
+msgid "~Edit"
+msgstr "~Sunting"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DELETE_PAGES\n"
+"string.text"
+msgid "Delete Slides"
+msgstr "Hapus Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_PRINTFORMAT_FAILURE\n"
+"string.text"
+msgid "The document format could not be set on the specified printer."
+msgstr "Format dokumen tak dapat digunakan untuk printer yang dipilih."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_REMOVE_LINK\n"
+"string.text"
+msgid ""
+"This graphic is linked to a document. \n"
+"Do you want to unlink the graphic in order to edit it?"
+msgstr ""
+"Grafik ini bertaut ke sebuah dokumen.\n"
+"Apakah taut dibuang supaya grafik bisa disunting?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr "Berkas gambar tak dapat dibuka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr "Berkas gambar tak dapat dibaca"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr "Format gambar tak dikenal"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr "Versi berkas gambar ini tak didukung."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr "Penyaring gambar tak ditemukan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to import image"
+msgstr "Memori tak cukup untuk mengimpor gambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_OBJECTS\n"
+"string.text"
+msgid "Objects"
+msgstr "Objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_END_SEARCHING\n"
+"string.text"
+msgid "The document search is finished."
+msgstr "Pencarian dokumen selesai."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_END_SPELLING\n"
+"string.text"
+msgid "Spellcheck of entire document has been completed."
+msgstr "Pemeriksaan ejaan pada dokumen telah selesai."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_END_SPELLING_OBJ\n"
+"string.text"
+msgid "The spellcheck for the selected objects has been completed."
+msgstr "Pemeriksaan ejaan pada objek yang dipilih telah selesai."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NOLANGUAGE\n"
+"string.text"
+msgid "The selected language is not available."
+msgstr "Bahasa yang dipilih tidak tersedia."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ASK_FOR_CONVERT_TO_BEZIER\n"
+"string.text"
+msgid "Convert selected object to curve?"
+msgstr "Konversi objek yang dipilih menjadi kurva?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_PRES_OBJECT\n"
+"string.text"
+msgid "Modify presentation object '$'"
+msgstr "Ubah objek presentasi '$'"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_MODIFY_PAGE\n"
+"string.text"
+msgid "Slide layout"
+msgstr "Tata letak salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STATSTR_PRINT\n"
+"string.text"
+msgid "Printing..."
+msgstr "Pencetakan..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERT_FILE\n"
+"string.text"
+msgid "Insert file"
+msgstr "Sisip berkas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SCALE_OBJS_TO_PAGE\n"
+"string.text"
+msgid "Should the image be scaled to the new slide format?"
+msgstr "Apakah skala gambar harus diubah agar sesuai dengan format salindia yang baru?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERT_SPECCHAR\n"
+"string.text"
+msgid "Insert special character"
+msgstr "Sisip karakter khusus"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SET_PRESLAYOUT\n"
+"string.text"
+msgid "Apply presentation layout"
+msgstr "Terapkan tata letak presentasi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STRING_NOTFOUND\n"
+"string.text"
+msgid "Search key not found."
+msgstr "Kunci pencarian tidak ketemu."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "~Putar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "~Hentikan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_ORIGINALSIZE\n"
+"string.text"
+msgid "Original Size"
+msgstr "Ukuran asli"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_DRAWING\n"
+"string.text"
+msgid " (Drawing)"
+msgstr " (Gambar)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_NOTES\n"
+"string.text"
+msgid " (Notes)"
+msgstr " (Catatan)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_HANDOUT\n"
+"string.text"
+msgid " (Handout)"
+msgstr " (Kliping)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_OUTLINE\n"
+"string.text"
+msgid " (Outline)"
+msgstr " (Kerangka)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_SCALE_FAIL\n"
+"string.text"
+msgid ""
+"The specified scale is invalid.\n"
+"Do you want to enter a new one?"
+msgstr ""
+"Skala yang dipilih tidak sah.\n"
+"Anda ingin memasukkan nilai baru?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_NONE\n"
+"string.text"
+msgid "No action"
+msgstr "Tanpa aksi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_PREVPAGE\n"
+"string.text"
+msgid "Go to previous slide"
+msgstr "Ke salindia sebelumnya"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_NEXTPAGE\n"
+"string.text"
+msgid "Go to next slide"
+msgstr "Ke salindia selanjutnya"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_FIRSTPAGE\n"
+"string.text"
+msgid "Go to first slide"
+msgstr "Ke salindia pertama"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_LASTPAGE\n"
+"string.text"
+msgid "Go to last slide"
+msgstr "Ke salindia terakhir"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_BOOKMARK\n"
+"string.text"
+msgid "Go to page or object"
+msgstr "Ke halaman atau objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_DOCUMENT\n"
+"string.text"
+msgid "Go to document"
+msgstr "Ke dokumen"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_VANISH\n"
+"string.text"
+msgid "Fade object"
+msgstr "Kaburkan objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_INVISIBLE\n"
+"string.text"
+msgid "Hide object"
+msgstr "Sembunyikan objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_SOUND\n"
+"string.text"
+msgid "Play audio"
+msgstr "Putar audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_VERB\n"
+"string.text"
+msgid "Start object action"
+msgstr "Awali aksi objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_PROGRAM\n"
+"string.text"
+msgid "Run program"
+msgstr "Jalankan program"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_MACRO\n"
+"string.text"
+msgid "Run macro"
+msgstr "Jalankan makro"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_STOPPRESENTATION\n"
+"string.text"
+msgid "Exit presentation"
+msgstr "Keluar dari presentasi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_JUMP\n"
+"string.text"
+msgid "Target"
+msgstr "Target"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_ACTION\n"
+"string.text"
+msgid "Act~ion"
+msgstr "Aks~i"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_SOUND\n"
+"string.text"
+msgid "Audio"
+msgstr "Audio"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_PAGE_OBJECT\n"
+"string.text"
+msgid "Slide / Object"
+msgstr "Salindia / Objek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_DOCUMENT\n"
+"string.text"
+msgid "Document"
+msgstr "Dokumen"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_PROGRAM\n"
+"string.text"
+msgid "Program"
+msgstr "Program"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_MACRO\n"
+"string.text"
+msgid "Macro"
+msgstr "Makro"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECT_NONE\n"
+"string.text"
+msgid "No Effect"
+msgstr "Tanpa Efek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_TEXT\n"
+"string.text"
+msgid "Insert Text"
+msgstr "Sisip Teks"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_SINGULAR\n"
+"string.text"
+msgid " Slide"
+msgstr " Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_PLURAL\n"
+"string.text"
+msgid " Slides"
+msgstr " Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LOAD_PRESENTATION_LAYOUT\n"
+"string.text"
+msgid "Load Slide Design"
+msgstr "Muat Desain Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAGTYPE_URL\n"
+"string.text"
+msgid "Insert as Hyperlink"
+msgstr "Sisip sebagai Taut-luar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAGTYPE_EMBEDDED\n"
+"string.text"
+msgid "Insert as Copy"
+msgstr "Sisip sebagai Salinan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAGTYPE_LINK\n"
+"string.text"
+msgid "Insert as Link"
+msgstr "Sisip sebagai Taut"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_SMART\n"
+"string.text"
+msgid "Smart"
+msgstr "Cerdik"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "Kiri"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "Kanan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_TOP\n"
+"string.text"
+msgid "Top"
+msgstr "Atas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_BOTTOM\n"
+"string.text"
+msgid "Bottom"
+msgstr "Bawah"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_LO\n"
+"string.text"
+msgid "Top Left?"
+msgstr "Kiri Atas?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_LU\n"
+"string.text"
+msgid "Bottom Left?"
+msgstr "Kiri Bawah?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_RO\n"
+"string.text"
+msgid "Top Right?"
+msgstr "Kanan Atas?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_RU\n"
+"string.text"
+msgid "Bottom Right?"
+msgstr "Kanan Bawah?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_HORZ\n"
+"string.text"
+msgid "Horizontal"
+msgstr "Horisontal"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_VERT\n"
+"string.text"
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_ALL\n"
+"string.text"
+msgid "All?"
+msgstr "Semua?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CANT_PERFORM_IN_LIVEMODE\n"
+"string.text"
+msgid "This action can't be run in the live mode."
+msgstr "Aksi ini tak dapat dijalankan pada modus langsung."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBLISH_BACK\n"
+"string.text"
+msgid "Back"
+msgstr "Kembali"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBLISH_NEXT\n"
+"string.text"
+msgid "Continue"
+msgstr "Teruskan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBLISH_OUTLINE\n"
+"string.text"
+msgid "Overview"
+msgstr "Kilasan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EYEDROPPER\n"
+"string.text"
+msgid "Color Replacer"
+msgstr "Pengganti Warna"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_MORPHING\n"
+"string.text"
+msgid "Cross-fading"
+msgstr "Memudar silang"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_COLORRESOLUTION\n"
+"string.text"
+msgid "Color resolution"
+msgstr "Resolusi warna"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_EXPAND_PAGE\n"
+"string.text"
+msgid "Expand Slide"
+msgstr "Perluas Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SUMMARY_PAGE\n"
+"string.text"
+msgid "Table of Contents Slide"
+msgstr "Daftar Isi Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TWAIN_NO_SOURCE_UNX\n"
+"string.text"
+msgid "No SANE source is available at the moment."
+msgstr "Sumber SANE tidak tersedia saat ini."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TWAIN_NO_SOURCE\n"
+"string.text"
+msgid "At present, no TWAIN source is available."
+msgstr "Sumber TWAIN tidak tersedia saat ini."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIX\n"
+"string.text"
+msgid "Fixed"
+msgstr "Tetap"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_VAR\n"
+"string.text"
+msgid "Variable"
+msgstr "Variabel"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STANDARD_NORMAL\n"
+"string.text"
+msgid "Standard"
+msgstr "Standar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STANDARD_SMALL\n"
+"string.text"
+msgid "Standard (short)"
+msgstr "Standar (pendek)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STANDARD_BIG\n"
+"string.text"
+msgid "Standard (long)"
+msgstr "Standar (panjang)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_NAME_EXT\n"
+"string.text"
+msgid "File name"
+msgstr "Nama berkas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_FULLPATH\n"
+"string.text"
+msgid "Path/File name"
+msgstr "Nama direktori/berkas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "Direktori"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_NAME\n"
+"string.text"
+msgid "File name without extension"
+msgstr "Nama berkas tanpa ekstensi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NEW_CUSTOMSHOW\n"
+"string.text"
+msgid "New Custom Slide Show"
+msgstr "Pertunjukan Salindia Ubahan Baru"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_COPY_CUSTOMSHOW\n"
+"string.text"
+msgid "Copy "
+msgstr "Salin "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPRESS_DOCUMENT\n"
+"string.text"
+msgid "Presentation"
+msgstr "Presentasi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPRESS_DOCUMENT_FULLTYPE_60\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION Presentation"
+msgstr "%PRODUCTNAME %PRODUCTVERSION Presentation"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHIC_DOCUMENT\n"
+"string.text"
+msgid "Drawing"
+msgstr "Gambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHIC_DOCUMENT_FULLTYPE_60\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION Drawing"
+msgstr "%PRODUCTNAME %PRODUCTVERSION Drawing"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_BREAK_METAFILE\n"
+"string.text"
+msgid "Ungroup Metafile(s)..."
+msgstr "Bubarkan Kelompok Metafile"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_BREAK_FAIL\n"
+"string.text"
+msgid "It was not possible to ungroup all drawing objects."
+msgstr "Tidak mungkin membubarkan kelompok objek gambar."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBDLG_SAMENAME\n"
+"string.text"
+msgid ""
+"A design already exists with this name.\n"
+"Do you want to replace it?"
+msgstr ""
+"Sudah ada desain dengan nama seperti ini.\n"
+"Apakah desain itu akan diganti?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Teks"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_LINK\n"
+"string.text"
+msgid "Hyperlink"
+msgstr "Taut-luar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_VLINK\n"
+"string.text"
+msgid "Visited link"
+msgstr "Taut telah dikunjungi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_ALINK\n"
+"string.text"
+msgid "Active link"
+msgstr "Taut aktif"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "Catatan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_CONTENTS\n"
+"string.text"
+msgid "Table of contents"
+msgstr "Daftar isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_CLICKSTART\n"
+"string.text"
+msgid "Click here to start"
+msgstr "Kllik di sini untuk memulai"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_AUTHOR\n"
+"string.text"
+msgid "Author"
+msgstr "Penulis"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "Email"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_HOMEPAGE\n"
+"string.text"
+msgid "Homepage"
+msgstr "Homepage"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_INFO\n"
+"string.text"
+msgid "Further information"
+msgstr "Informasi tambahan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_DOWNLOAD\n"
+"string.text"
+msgid "Download presentation"
+msgstr "Unduh presentasi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_NOFRAMES\n"
+"string.text"
+msgid "Unfortunately your browser does not support floating frames."
+msgstr "Penelusur Internet Anda tidak mendukung bingkai ambang."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_FIRSTPAGE\n"
+"string.text"
+msgid "First page"
+msgstr "Halaman pertama"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_LASTPAGE\n"
+"string.text"
+msgid "Last page"
+msgstr "Halaman terakhir"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_SETTEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Teks"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_SETGRAPHIC\n"
+"string.text"
+msgid "Graphics"
+msgstr "Grafik"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_OUTLINE\n"
+"string.text"
+msgid "With contents"
+msgstr "Dengan isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_NOOUTLINE\n"
+"string.text"
+msgid "Without contents"
+msgstr "Tanpa isi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WEBVIEW_SAVE\n"
+"string.text"
+msgid "To given page"
+msgstr "Ke halaman tertentu"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_VECTORIZE\n"
+"string.text"
+msgid "Convert bitmap to polygon"
+msgstr "Konversi bitmap ke poligon"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRES_SOFTEND\n"
+"string.text"
+msgid "Click to exit presentation..."
+msgstr "Klik untuk keluar dari presentasi..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRES_PAUSE\n"
+"string.text"
+msgid "Pause..."
+msgstr "Jeda..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WIZARD_ORIGINAL\n"
+"string.text"
+msgid "<Original>"
+msgstr "<Asli>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ISLOADING\n"
+"string.text"
+msgid "Loading..."
+msgstr "Memuat..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_GRAF_TOOLBOX\n"
+"string.text"
+msgid "Graphics Object Bar"
+msgstr "Baris Objek Grafik"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_APPLY_3D_FAVOURITE\n"
+"string.text"
+msgid "Apply 3D favorite"
+msgstr "Pakai 3D favorit"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_GRAFFILTER\n"
+"string.text"
+msgid "Graphics filter"
+msgstr "Penyaring Grafik"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARNING_NOSOUNDFILE\n"
+"string.text"
+msgid ""
+"The file %\n"
+"is not a valid audio file !"
+msgstr ""
+"Berkas %s\n"
+"bukan suatu berkas audio yang valid!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CONVERT_TO_METAFILE\n"
+"string.text"
+msgid "Convert to metafile"
+msgstr "Konversi ke metafile"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CONVERT_TO_BITMAP\n"
+"string.text"
+msgid "Convert to bitmap"
+msgstr "Konversi ke bitmap"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_ERROR_CREATE_FILE\n"
+"string.text"
+msgid "Cannot create the file $(URL1)."
+msgstr "Tak dapat membuat berkas $(URL1)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_ERROR_OPEN_FILE\n"
+"string.text"
+msgid "Could not open the file $(URL1)."
+msgstr "Tak dapat membuka berkas $(URL1)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_ERROR_COPY_FILE\n"
+"string.text"
+msgid "The file $(URL1) could not be copied to $(URL2)"
+msgstr "Berkas $(URL1) tak dapat disalin ke $(URL2)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PAGE_BACKGROUND_TITLE\n"
+"string.text"
+msgid "Page Settings"
+msgstr "Pengaturan Halaman"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PAGE_BACKGROUND_TXT\n"
+"string.text"
+msgid "Background settings for all pages?"
+msgstr "Pengaturan latarbelakang untuk semua halaman?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TITLE_RENAMESLIDE\n"
+"string.text"
+msgid "Rename Slide"
+msgstr "Ganti Nama Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DESC_RENAMESLIDE\n"
+"string.text"
+msgid "Name"
+msgstr "Nama"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_TITLE\n"
+"string.text"
+msgid "Title Area for AutoLayouts"
+msgstr "Area Judul untuk Tata Letak Otomatis"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_OUTLINE\n"
+"string.text"
+msgid "Object Area for AutoLayouts"
+msgstr "Area Objek untuk Tata Letak Otomatis"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_FOOTER\n"
+"string.text"
+msgid "Footer Area"
+msgstr "Area Kaki"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_HEADER\n"
+"string.text"
+msgid "Header Area"
+msgstr "Area Tajuk"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_DATETIME\n"
+"string.text"
+msgid "Date Area"
+msgstr "Area Data"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_SLIDE\n"
+"string.text"
+msgid "Slide Number Area"
+msgstr "Area Nomor Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_NUMBER\n"
+"string.text"
+msgid "Page Number Area"
+msgstr "Area Nomor Halaman"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_HEADER\n"
+"string.text"
+msgid "<header>"
+msgstr "<tajuk>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_FOOTER\n"
+"string.text"
+msgid "<footer>"
+msgstr "<kaki>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_DATETIME\n"
+"string.text"
+msgid "<date/time>"
+msgstr "<tanggal/jam>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_NUMBER\n"
+"string.text"
+msgid "<number>"
+msgstr "<nomor>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_COUNT\n"
+"string.text"
+msgid "<count>"
+msgstr "<hitung>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_NOTES\n"
+"string.text"
+msgid "Notes Area"
+msgstr "Area Catatan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_HANGULHANJACONVERSION\n"
+"string.text"
+msgid "Hangul/Hanja Conversion"
+msgstr "Konversi Hangul/Hanja"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LEFT_PANE_IMPRESS_TITLE\n"
+"string.text"
+msgid "Slides"
+msgstr "Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LEFT_PANE_DRAW_TITLE\n"
+"string.text"
+msgid "Pages"
+msgstr "Halaman"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_RIGHT_PANE_TITLE\n"
+"string.text"
+msgid "Tasks"
+msgstr "Tugas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_TITLE\n"
+"string.text"
+msgid "Master Pages"
+msgstr "Halaman Induk"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_MENU_TITLE\n"
+"string.text"
+msgid "View"
+msgstr "Yang Ditampilkan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_MENU_LOCK\n"
+"string.text"
+msgid "~Dock Task Pane"
+msgstr "Tambatkan Panel Tu~gas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_MENU_UNLOCK\n"
+"string.text"
+msgid "~Undock Task Pane"
+msgstr "Lepaskan Panel T~ugas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_CURRENT_MASTER_PAGES_TITLE\n"
+"string.text"
+msgid "Used in This Presentation"
+msgstr "Digunakan oleh Presentasi ini"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_RECENT_MASTER_PAGES_TITLE\n"
+"string.text"
+msgid "Recently Used"
+msgstr "Digunakan Baru-baru ini"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_ALL_MASTER_PAGES_TITLE\n"
+"string.text"
+msgid "Available for Use"
+msgstr "Tersedia untuk Digunakan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_NOT_AVAILABLE_SUBSTITUTION\n"
+"string.text"
+msgid "Preview not available"
+msgstr "Pratinjau tidak tersedia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_PREPARING_PREVIEW_SUBSTITUTION\n"
+"string.text"
+msgid "Preparing preview"
+msgstr "Menyiapkan pratinjau"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_LAYOUT_MENU_TITLE\n"
+"string.text"
+msgid "Layouts"
+msgstr "Tata Letak"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHICS_STYLE_FAMILY\n"
+"string.text"
+msgid "Drawing Object Styles"
+msgstr "Gaya Objek Menggambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CELL_STYLE_FAMILY\n"
+"string.text"
+msgid "Cell Styles"
+msgstr "Gaya Sel"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"DLG_TABLEDESIGNPANE\n"
+"string.text"
+msgid "Table Designs"
+msgstr "Desain Tabel"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CUSTOMANIMATIONPANE\n"
+"string.text"
+msgid "Custom Animation"
+msgstr "Animasi Ubahan..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_TRANSITION_PANE\n"
+"string.text"
+msgid "Slide Transition"
+msgstr "Transisi Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NAVIGATOR_SHOW_NAMED_SHAPES\n"
+"string.text"
+msgid "Named shapes"
+msgstr "Bentuk dengan nama"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NAVIGATOR_SHOW_ALL_SHAPES\n"
+"string.text"
+msgid "All shapes"
+msgstr "Semua bentuk"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NAVIGATOR_SHAPE_BASE_NAME\n"
+"string.text"
+msgid "Shape %1"
+msgstr "Bentuk %1"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SET_BACKGROUND_PICTURE\n"
+"string.text"
+msgid "Set Background Image for Slide ..."
+msgstr "Atur Gambar Latar untuk Salindia ..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ACC_DIALOG_DESC\n"
+"string.text"
+msgid "Select a template from which to import page designs."
+msgstr "Memilih palet dari desain halaman yang akan diimpor."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_ANNOTATIONS_START\n"
+"string.text"
+msgid "Comments"
+msgstr "Komentar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_RESET_LAYOUT\n"
+"string.text"
+msgid "Reset Slide Layout"
+msgstr "Atur Ulang Tata Letak Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_TABLE\n"
+"string.text"
+msgid "Insert Table"
+msgstr "Sisip berkas"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_CHART\n"
+"string.text"
+msgid "Insert Chart"
+msgstr "Sisip Bagan"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_PICTURE\n"
+"string.text"
+msgid "Insert Image"
+msgstr "Sisip Gambar"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_MOVIE\n"
+"string.text"
+msgid "Insert Audio or Video"
+msgstr "Sisipkan Audio atau Video"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STRING_DRAG_AND_DROP_PAGES\n"
+"string.text"
+msgid "Drag and Drop Pages"
+msgstr "Seret dan Jatuhkan Halaman"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STRING_DRAG_AND_DROP_SLIDES\n"
+"string.text"
+msgid "Drag and Drop Slides"
+msgstr "Seret dan Jatuhkan Salindia"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PHOTO_ALBUM_EMPTY_WARNING\n"
+"string.text"
+msgid "Please add Images to the Album."
+msgstr "Harap tambahkan Gambar ke Album."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PHOTO_ALBUM_TEXTBOX\n"
+"string.text"
+msgid "Text Slide"
+msgstr "Salindia Teks"
+
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_DRAW_VIEWER_TOOLBOX\n"
+"string.text"
+msgid "Function Bar (viewing mode)"
+msgstr "Baris Fungsi (modus tinjau)"
+
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_DRAW_MEDIA_TOOLBOX\n"
+"string.text"
+msgid "Media Playback"
+msgstr "Putar Media"
+
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_DRAW_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table"
+msgstr "Tabel"

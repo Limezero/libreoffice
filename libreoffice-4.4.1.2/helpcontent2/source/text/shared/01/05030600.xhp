@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdocument version="1.0">
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+
+
+<meta>
+      <topic id="textshared0105030600xml" indexer="include" status="PUBLISH">
+         <title xml-lang="en-US" id="tit">Background</title>
+         <filename>/text/shared/01/05030600.xhp</filename>
+      </topic>
+   </meta>
+   <body>
+      <section id="hintergrund">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3151097"><bookmark_value>frames; backgrounds</bookmark_value>
+<bookmark_value>backgrounds; frames/sections/indexes</bookmark_value>
+<bookmark_value>sections; backgrounds</bookmark_value>
+<bookmark_value>indexes; backgrounds</bookmark_value>
+<bookmark_value>footers;backgrounds</bookmark_value>
+<bookmark_value>headers;backgrounds</bookmark_value>
+</bookmark>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/BackgroundPage" id="bm_id3147000" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3151097" role="heading" level="1" l10n="U" oldref="1"><link href="text/shared/01/05030600.xhp" name="Background">Background</link></paragraph>
+         <paragraph xml-lang="en-US" id="par_id3153748" role="paragraph" l10n="U" oldref="2"><ahelp hid="cui/ui/backgroundpage/BackgroundPage">Set the background color or graphic.</ahelp></paragraph>
+      </section>
+      <paragraph xml-lang="en-US" id="par_id3147653" role="paragraph" l10n="U" oldref="34">You can specify the background for <switchinline select="appl"><caseinline select="WRITER">paragraphs, pages, headers, footers, text frames, tables, table cells, sections, and indexes.
+</caseinline><caseinline select="CALC">cells and pages.
+</caseinline></switchinline></paragraph>
+      <section id="howtoget">
+         <embed href="text/shared/00/00040500.xhp#hintergrund"/>
+      </section>
+      <embed href="text/shared/guide/background.xhp#background"/>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/selectlb" id="bm_id3153321" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3154514" role="heading" level="2" l10n="U" oldref="4">As</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3154380" role="paragraph" l10n="U" oldref="5"><ahelp hid="cui/ui/backgroundpage/selectlb">Select the type of background that you want to apply.</ahelp></paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3151245" role="heading" level="2" l10n="U" oldref="7">Using a Color as a Background</paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/backgroundcolorset" id="bm_id3159414" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3148946" role="heading" level="3" l10n="U" oldref="8">Color Background</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3152361" role="paragraph" l10n="U" oldref="9"><ahelp hid="cui/ui/backgroundpage/backgroundcolorset">Click the color that you want to use as a background. To remove a background color, click <emph>No Fill</emph>.</ahelp></paragraph>
+
+      <embed href="text/shared/02/02160000.xhp#syzeichenhintergrund"/>
+      <embed href="text/shared/02/02170000.xhp#syabsatzhintergrund"/>
+      <embed href="text/shared/02/02160000.xhp#zeichenhintergrundtext"/>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/transparencymf" id="bm_id3150400" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3153524" role="heading" level="3" l10n="U"
+                 oldref="37"><switchinline select="appl"><caseinline select="WRITER">Transparency
+</caseinline></switchinline></paragraph>
+<switch select="appl">
+<case select="WRITER">
+<paragraph xml-lang="en-US" id="par_idN107A4" role="note" l10n="NEW">Background transparency can be set only for frames.</paragraph>
+</case>
+</switch>
+<paragraph xml-lang="en-US" id="par_id3150358" role="paragraph" l10n="U" oldref="38"><switchinline select="appl"><caseinline select="WRITER"><ahelp hid="cui/ui/backgroundpage/transparencymf">Set the transparency for the background color or graphic of a frame, where 100% is completely transparent and 0% is opaque. When you increase the transparency of the background, the underlying text or objects become visible through the background of the frame.</ahelp>
+</caseinline></switchinline></paragraph>
+      <embed href="text/shared/00/00000001.xhp#vorschau"/>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/paralb" id="bm_id3147228" localize="false"/>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/tablelb" id="bm_id3153352" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3154216" role="heading" level="3" l10n="U"
+                 oldref="11"><switchinline select="appl"><caseinline select="WRITER">For
+</caseinline></switchinline></paragraph>
+      <paragraph xml-lang="en-US" id="par_id3145419" role="paragraph" l10n="U" oldref="12"><switchinline select="appl"><caseinline select="WRITER"><ahelp hid="cui/ui/backgroundpage/tablelb">Select the area that you want to apply the background color to.</ahelp> For example, when you define the background color for a table, you can choose to apply it to the table, the active cell, the row, or the column.
+</caseinline></switchinline></paragraph>
+<switch select="appl">
+<case select="WRITER">
+<paragraph xml-lang="en-US" id="par_id3150497" role="note" l10n="U" oldref="13">This option is only available when you edit the background of a table or a paragraph style.</paragraph>
+</case>
+</switch>
+<switch select="appl">
+<case select="WRITER">
+<paragraph xml-lang="en-US" id="hd_id3151246" role="heading" level="2" l10n="U">Using a Gradient as a Background</paragraph>
+<paragraph xml-lang="en-US" id="hd_id3153525" role="heading" level="3" l10n="U">Background gradient</paragraph>
+<paragraph xml-lang="en-US" id="par_id3152364" role="paragraph" l10n="U"><ahelp hid="cui/ui/backgroundpage/gradientslb">Click the gradient that you want to use as a background. To remove a background gradient, set <emph>As</emph> to <emph>Color</emph>, then click <emph>No Fill</emph>.</ahelp></paragraph>
+<paragraph xml-lang="en-US" id="hd_id3153526" role="heading" level="3" l10n="U">Preview field</paragraph>
+<paragraph xml-lang="en-US" id="par_id3152362" role="paragraph" l10n="U"><ahelp hid="cui/ui/backgroundpage/previewctl">Displays a preview of the currently selected gradient.</ahelp></paragraph>
+</case>
+</switch>
+<paragraph xml-lang="en-US" id="hd_id3153056" role="heading" level="2" l10n="U"
+                 oldref="14">Using a Graphic as a Background</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3149983" role="heading" level="3" l10n="U"
+                 oldref="15">File</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3152462" role="paragraph" l10n="U" oldref="16">Contains information about the graphic file.</paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3145592" role="heading" level="3" l10n="U"
+                 oldref="17">Display field</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3154920" role="paragraph" l10n="U" oldref="18">Shows the path for the graphic file.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/link" id="bm_id3145264" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3145272" role="heading" level="3" l10n="U"
+                 oldref="19">Link</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3154150" role="paragraph" l10n="CHG" oldref="20"><ahelp hid="cui/ui/backgroundpage/link">Links to or embeds the graphic file in the current file.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/showpreview" id="bm_id3159196" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3155366" role="heading" level="3" l10n="U"
+                 oldref="21">Preview</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3147426" role="paragraph" l10n="U" oldref="22"><ahelp hid="cui/ui/backgroundpage/showpreview">Displays or hides a preview of the selected graphic.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/browse" id="bm_id3153095" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3154472" role="heading" level="3" l10n="U"
+                 oldref="23">Browse</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3153951" role="paragraph" l10n="U" oldref="24"><ahelp hid="cui/ui/backgroundpage/browse">Locate the graphic file that you want to use as a background, and then click <emph>Open</emph>.</ahelp></paragraph>
+      <paragraph xml-lang="en-US" id="hd_id3153726" role="heading" level="3" l10n="U"
+                 oldref="25">Type</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3147442" role="paragraph" l10n="U" oldref="26">Specify the way that you want to display the background graphic.</paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/windowpos" id="bm_id3083445" localize="false"/>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/positionrb" id="bm_id3156062" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3153366" role="heading" level="3" l10n="U"
+                 oldref="27">Position</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3153741" role="paragraph" l10n="U" oldref="28"><ahelp hid="cui/ui/backgroundpage/positionrb">Select this option, and then click a location in the position grid.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/arearb" id="bm_id3146146" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3156005" role="heading" level="3" l10n="U"
+                 oldref="29">Area</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3152596" role="paragraph" l10n="U" oldref="30"><ahelp hid="cui/ui/backgroundpage/arearb">Stretches the graphic to fill the entire background of the selected object.</ahelp></paragraph>
+<bookmark xml-lang="en-US" branch="hid/cui/ui/backgroundpage/tilerb" id="bm_id3153138" localize="false"/>
+<paragraph xml-lang="en-US" id="hd_id3145663" role="heading" level="3" l10n="U"
+                 oldref="32">Tile</paragraph>
+      <paragraph xml-lang="en-US" id="par_id3149481" role="paragraph" l10n="U" oldref="33"><ahelp hid="cui/ui/backgroundpage/tilerb">Repeats the graphic so that it covers the entire background of the selected object.</ahelp></paragraph>
+      <embed href="text/shared/00/00000001.xhp#vorschau"/>
+<bookmark xml-lang="en-US" branch="hid/SVX_HID_POPUP_COLOR_CTRL" id="bm_id3151075" localize="false"/>
+<paragraph xml-lang="en-US" id="par_id3151114" role="paragraph" l10n="U" oldref="35"><ahelp hid="." visibility="hidden">Click a color. Click No Fill to remove a background or highlighting color. Click Automatic to reset a font color.</ahelp></paragraph>
+   </body>
+</helpdocument>

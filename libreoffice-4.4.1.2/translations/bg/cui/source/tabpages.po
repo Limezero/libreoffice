@@ -1,0 +1,1155 @@
+#. extracted from cui/source/tabpages
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-01-23 05:08+0000\n"
+"Last-Translator: Hristo <h.hristov@icobgr.info>\n"
+"Language-Team: .\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1421989680.000000\n"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_NONE\n"
+"string.text"
+msgid "Set No Borders"
+msgstr "Премахване на кантовете"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_ONLYOUTER\n"
+"string.text"
+msgid "Set Outer Border Only"
+msgstr "Поставяне кантове само отвън"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERHORI\n"
+"string.text"
+msgid "Set Outer Border and Horizontal Lines"
+msgstr "Поставяне външни кантове и хоризонтални линии"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERALL\n"
+"string.text"
+msgid "Set Outer Border and All Inner Lines"
+msgstr "Поставяне външни кантове и всички вътрешни линии"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERINNER\n"
+"string.text"
+msgid "Set Outer Border Without Changing Inner Lines"
+msgstr "Поставяне външни кантове без промяна на вътрешните линии"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_DIAGONAL\n"
+"string.text"
+msgid "Set Diagonal Lines Only"
+msgstr "Задаване само на диагонални линии"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ALL\n"
+"string.text"
+msgid "Set All Four Borders"
+msgstr "Поставяне и на четирите канта"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_LEFTRIGHT\n"
+"string.text"
+msgid "Set Left and Right Borders Only"
+msgstr "Поставяне само на ляв и десен кант"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_TOPBOTTOM\n"
+"string.text"
+msgid "Set Top and Bottom Borders Only"
+msgstr "Поставяне само на горен и долен кант"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ONLYLEFT\n"
+"string.text"
+msgid "Set Left Border Only"
+msgstr "Поставяне само на ляв кант"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_HOR_PRESET_ONLYHOR\n"
+"string.text"
+msgid "Set Top and Bottom Borders, and All Inner Lines"
+msgstr "Задаване на горен и долен кант и всички вътрешни линии"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_VER_PRESET_ONLYVER\n"
+"string.text"
+msgid "Set Left and Right Borders, and All Inner Lines"
+msgstr "Задаване на ляв и десен кант и всички вътрешни линии"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_NONE\n"
+"string.text"
+msgid "No Shadow"
+msgstr "Без сянка"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Right"
+msgstr "Сянка надолу и надясно"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Top Right"
+msgstr "Сянка нагоре и надясно"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Left"
+msgstr "Сянка надолу и наляво"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPLEFT\n"
+"string.text"
+msgid "Cast Shadow to Top Left"
+msgstr "Сянка нагоре и наляво"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_LTR\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "Отляво надясно"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_RTL\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "Отдясно наляво"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_SUPER\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "Настройки от родителския обект"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_HORI\n"
+"string.text"
+msgid "Left-to-right (horizontal)"
+msgstr "Отляво надясно (хоризонтално)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_HORI\n"
+"string.text"
+msgid "Right-to-left (horizontal)"
+msgstr "Отдясно наляво (хоризонтално)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_VERT\n"
+"string.text"
+msgid "Right-to-left (vertical)"
+msgstr "Отдясно наляво (вертикално)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_VERT\n"
+"string.text"
+msgid "Left-to-right (vertical)"
+msgstr "Отляво надясно (вертикално)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Letter"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Long Bond"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "32 kai (голям)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "По избор"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Плик DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Плик C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Плик C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Плик C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Плик C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#6¾ Envelope\n"
+"itemlist.text"
+msgid "#6¾ Envelope"
+msgstr "Плик #6¾"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#7¾ (Monarch) Envelope\n"
+"itemlist.text"
+msgid "#7¾ (Monarch) Envelope"
+msgstr "Плик #7¾ (Monarch)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#9 Envelope\n"
+"itemlist.text"
+msgid "#9 Envelope"
+msgstr "Плик #9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#10 Envelope\n"
+"itemlist.text"
+msgid "#10 Envelope"
+msgstr "Плик #10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#11 Envelope\n"
+"itemlist.text"
+msgid "#11 Envelope"
+msgstr "Плик #11"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#12 Envelope\n"
+"itemlist.text"
+msgid "#12 Envelope"
+msgstr "Плик #12"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Японска пощенска картичка"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A2\n"
+"itemlist.text"
+msgid "A2"
+msgstr "A2"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A1\n"
+"itemlist.text"
+msgid "A1"
+msgstr "A1"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A0\n"
+"itemlist.text"
+msgid "A0"
+msgstr "A0"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Letter"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Long Bond"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "32 kai (голям)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "По избор"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Плик DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Плик C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Плик C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Плик C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Плик C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Dia Slide\n"
+"itemlist.text"
+msgid "Dia Slide"
+msgstr "Диапозитив"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 4:3\n"
+"itemlist.text"
+msgid "Screen 4:3"
+msgstr "Екран 4:3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:9\n"
+"itemlist.text"
+msgid "Screen 16:9"
+msgstr "Екран 16:9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:10\n"
+"itemlist.text"
+msgid "Screen 16:10"
+msgstr "Екран 16:10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Японска пощенска картичка"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_EXAMPLE\n"
+"string.text"
+msgid "Example"
+msgstr "Пример"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_PAGE_STYLE\n"
+"string.text"
+msgid "Page Style"
+msgstr "Стил за страници"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_GRADIENT\n"
+"string.text"
+msgid "Please enter a name for the gradient:"
+msgstr "Моля, въведете име на градиента:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_GRADIENT\n"
+"string.text"
+msgid ""
+"The gradient was modified without saving. \n"
+"Modify the selected gradient or add a new gradient."
+msgstr ""
+"Градиентът бе променен без съхраняване. \n"
+"Променете избрания градиент или добавете нов."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_NEW_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the bitmap:"
+msgstr "Моля, въведете име за растерното изображение:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_EXT_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the external bitmap:"
+msgstr "Моля, въведете име за външното растерно изображение:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_BITMAP\n"
+"string.text"
+msgid ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+msgstr ""
+"Растерното изображение бе променено без съхраняване. \n"
+"Променете избраното изображение или добавете ново."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINESTYLE\n"
+"string.text"
+msgid "Please enter a name for the line style:"
+msgstr "Моля, въведете име за стила за линии:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_LINESTYLE\n"
+"string.text"
+msgid ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+msgstr ""
+"Стилът за линии бе променен без съхраняване. \n"
+"Променете избрания стил за линии или добавете нов."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_HATCH\n"
+"string.text"
+msgid "Please enter a name for the hatching:"
+msgstr "Моля, въведете име за щриховката:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_HATCH\n"
+"string.text"
+msgid ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+msgstr ""
+"Щриховката бе променена без съхраняване. \n"
+"Променете избраниата щриховка или добавете нова."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHANGE\n"
+"string.text"
+msgid "Modify"
+msgstr "Промяна"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ADD\n"
+"string.text"
+msgid "Add"
+msgstr "Добавяне"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_COLOR\n"
+"string.text"
+msgid "Please enter a name for the new color:"
+msgstr "Моля, въведете име за новия цвят:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_COLOR\n"
+"string.text"
+msgid ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+msgstr ""
+"Цветът бе променен без съхраняване. \n"
+"Променете избрания цвят или добавете нов."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Таблица"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "Моля, въведете име за новия край на линия:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TRANSPARENT\n"
+"string.text"
+msgid "Transparent"
+msgstr "Прозрачен"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_NOSTYLE\n"
+"string.text"
+msgid "No %1"
+msgstr "Без %1"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FAMILY\n"
+"string.text"
+msgid "Family"
+msgstr "Фамилия"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Шрифт"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_STYLE\n"
+"string.text"
+msgid "Style"
+msgstr "Начертание"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TYPEFACE\n"
+"string.text"
+msgid "Typeface"
+msgstr "Шрифт"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USE_REPLACE\n"
+"string.text"
+msgid "Use replacement table"
+msgstr "Използване на таблицата за замяна"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_WORD\n"
+"string.text"
+msgid "Correct TWo INitial CApitals"
+msgstr "Коригиране на ДВе ГЛавни БУкви"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_SENT\n"
+"string.text"
+msgid "Capitalize first letter of every sentence"
+msgstr "Превръщане на първата буква от изречение в главна"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BOLD_UNDER\n"
+"string.text"
+msgid "Automatic *bold* and _underline_"
+msgstr "Автоматичен *получер* и _подчертан_ текст"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NO_DBL_SPACES\n"
+"string.text"
+msgid "Ignore double spaces"
+msgstr "Игнориране на поредните интервали"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DETECT_URL\n"
+"string.text"
+msgid "URL Recognition"
+msgstr "Разпознаване на URL"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DASH\n"
+"string.text"
+msgid "Replace dashes"
+msgstr "Замяна на тиретата"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CORRECT_ACCIDENTAL_CAPS_LOCK\n"
+"string.text"
+msgid "Correct accidental use of cAPS LOCK key"
+msgstr "Коригиране при случайно натиснат cAPS LOCK"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NON_BREAK_SPACE\n"
+"string.text"
+msgid "Add non-breaking space before specific punctuation marks in French text"
+msgstr "Добавяне на непрекъсваеми интервали пред съответната френска пунктуация"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ORDINAL\n"
+"string.text"
+msgid "Format ordinal numbers suffixes (1st -> 1^st)"
+msgstr "Форматиране на наставки за числителни редни (1st -> 1^st)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_EMPTY_PARA\n"
+"string.text"
+msgid "Remove blank paragraphs"
+msgstr "Премахване на празните абзаци"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USER_STYLE\n"
+"string.text"
+msgid "Replace Custom Styles"
+msgstr "Замяна на стиловете по избор"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BULLET\n"
+"string.text"
+msgid "Replace bullets with: "
+msgstr "Замяна на водачите с: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_RIGHT_MARGIN\n"
+"string.text"
+msgid "Combine single line paragraphs if length greater than"
+msgstr "Сливане на едноредови абзаци, ако дължината им надвишава"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NUM\n"
+"string.text"
+msgid "Apply numbering - symbol: "
+msgstr "Прилагане на номерация - символ: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BORDER\n"
+"string.text"
+msgid "Apply border"
+msgstr "Прилагане на кант"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CREATE_TABLE\n"
+"string.text"
+msgid "Create table"
+msgstr "Създаване на таблица"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_REPLACE_TEMPLATES\n"
+"string.text"
+msgid "Apply Styles"
+msgstr "Прилагане на стилове"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_AT_STT_END\n"
+"string.text"
+msgid "Delete spaces and tabs at beginning and end of paragraph"
+msgstr "Изтриване на интервали и табулатори в началото и в края на абзац"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_BETWEEN_LINES\n"
+"string.text"
+msgid "Delete spaces and tabs at end and start of line"
+msgstr "Изтриване на интервали и табулатори в началото и в края на ред"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CONNECTOR\n"
+"string.text"
+msgid "Connector"
+msgstr "Съединителна линия"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DIMENSION_LINE\n"
+"string.text"
+msgid "Dimension line"
+msgstr "Размерна линия"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "Зареждането на файла бе невъзможно!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_LOAD_ERROR\n"
+"string.text"
+msgid "The selected module could not be loaded."
+msgstr "Зареждането на избрания модул бе невъзможно."

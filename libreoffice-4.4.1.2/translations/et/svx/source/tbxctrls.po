@@ -1,0 +1,771 @@
+#. extracted from svx/source/tbxctrls
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-26 19:56+0100\n"
+"PO-Revision-Date: 2015-01-11 21:00+0000\n"
+"Last-Translator: Mihkel Tõnnov <mihhkel@gmail.com>\n"
+"Language-Team: Estonian <none>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421010027.000000\n"
+
+#: colrctrl.src
+msgctxt ""
+"colrctrl.src\n"
+"RID_SVXCTRL_COLOR\n"
+"dockingwindow.text"
+msgid "Colors"
+msgstr "Värvid"
+
+#: colrctrl.src
+msgctxt ""
+"colrctrl.src\n"
+"STR_COLORTABLE\n"
+"string.text"
+msgid "Color Palette"
+msgstr "Värvipalett"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_PERSPECTIVE\n"
+"string.text"
+msgid "~Perspective"
+msgstr "~Perspektiiv"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_PARALLEL\n"
+"string.text"
+msgid "P~arallel"
+msgstr "P~aralleel"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_NW\n"
+"string.text"
+msgid "Extrusion North-West"
+msgstr "Loodesuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_N\n"
+"string.text"
+msgid "Extrusion North"
+msgstr "Põhjasuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_NE\n"
+"string.text"
+msgid "Extrusion North-East"
+msgstr "Kirdesuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_W\n"
+"string.text"
+msgid "Extrusion West"
+msgstr "Läänesuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_NONE\n"
+"string.text"
+msgid "Extrusion Backwards"
+msgstr "Tagasi suunatud ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_E\n"
+"string.text"
+msgid "Extrusion East"
+msgstr "Idasuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_SW\n"
+"string.text"
+msgid "Extrusion South-West"
+msgstr "Kagusuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_S\n"
+"string.text"
+msgid "Extrusion South"
+msgstr "Lõunasuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"STR_DIRECTION + DIRECTION_SE\n"
+"string.text"
+msgid "Extrusion South-East"
+msgstr "Edelasuunaline ruumilisus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DIRECTION\n"
+"dockingwindow.text"
+msgid "Extrusion Direction"
+msgstr "Ruumilisuse suund"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DEPTH\n"
+"STR_CUSTOM\n"
+"string.text"
+msgid "~Custom..."
+msgstr "~Kohandatud..."
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DEPTH\n"
+"STR_INFINITY\n"
+"string.text"
+msgid "~Infinity"
+msgstr "~Lõpmatus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_DEPTH\n"
+"dockingwindow.text"
+msgid "Extrusion Depth"
+msgstr "Ruumilisuse sügavus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_LIGHTING\n"
+"STR_BRIGHT\n"
+"string.text"
+msgid "~Bright"
+msgstr "~Ere"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_LIGHTING\n"
+"STR_NORMAL\n"
+"string.text"
+msgid "~Normal"
+msgstr "~Normaalne"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_LIGHTING\n"
+"STR_DIM\n"
+"string.text"
+msgid "~Dim"
+msgstr "~Tuhm"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_LIGHTING\n"
+"dockingwindow.text"
+msgid "Extrusion Lighting"
+msgstr "Ruumipinna valgustus"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_SURFACE\n"
+"STR_WIREFRAME\n"
+"string.text"
+msgid "~Wire Frame"
+msgstr "~Joonsõrestik"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_SURFACE\n"
+"STR_MATTE\n"
+"string.text"
+msgid "~Matt"
+msgstr "~Matt"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_SURFACE\n"
+"STR_PLASTIC\n"
+"string.text"
+msgid "~Plastic"
+msgstr "~Plastik"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_SURFACE\n"
+"STR_METAL\n"
+"string.text"
+msgid "Me~tal"
+msgstr "Me~tall"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXFLOAT_EXTRUSION_SURFACE\n"
+"dockingwindow.text"
+msgid "Extrusion Surface"
+msgstr "Ruumipind"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_EXTRUSION_COLOR\n"
+"string.text"
+msgid "Extrusion Color"
+msgstr "Ruumipinna värv"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_0\n"
+"string.text"
+msgid "~0 cm"
+msgstr "~0 cm"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_1\n"
+"string.text"
+msgid "~1 cm"
+msgstr "~1 cm"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_2\n"
+"string.text"
+msgid "~2.5 cm"
+msgstr "~2,5 cm"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_3\n"
+"string.text"
+msgid "~5 cm"
+msgstr "~5 cm"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_4\n"
+"string.text"
+msgid "10 ~cm"
+msgstr "10 ~cm"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_0_INCH\n"
+"string.text"
+msgid "0 inch"
+msgstr "0 tolli"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_1_INCH\n"
+"string.text"
+msgid "0.~5 inch"
+msgstr "0,~5 tolli"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_2_INCH\n"
+"string.text"
+msgid "~1 inch"
+msgstr "~1 toll"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_3_INCH\n"
+"string.text"
+msgid "~2 inch"
+msgstr "~2 tolli"
+
+#: extrusioncontrols.src
+msgctxt ""
+"extrusioncontrols.src\n"
+"RID_SVXSTR_DEPTH_4_INCH\n"
+"string.text"
+msgid "~4 inch"
+msgstr "~4 tolli"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_ALIGNMENT\n"
+"STR_ALIGN_LEFT\n"
+"string.text"
+msgid "~Left Align"
+msgstr "Vasakjoondus"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_ALIGNMENT\n"
+"STR_ALIGN_CENTER\n"
+"string.text"
+msgid "~Center"
+msgstr "~Keskel"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_ALIGNMENT\n"
+"STR_ALIGN_RIGHT\n"
+"string.text"
+msgid "~Right Align"
+msgstr "Paremjoondus"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_ALIGNMENT\n"
+"STR_ALIGN_WORD\n"
+"string.text"
+msgid "~Word Justify"
+msgstr "Võrdne joondus"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_ALIGNMENT\n"
+"STR_ALIGN_STRETCH\n"
+"string.text"
+msgid "S~tretch Justify"
+msgstr "Venitatud joondus"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_ALIGNMENT\n"
+"dockingwindow.text"
+msgid "Fontwork Alignment"
+msgstr "Ilukirja joondus"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_VERY_TIGHT\n"
+"string.text"
+msgid "~Very Tight"
+msgstr "~Väga tihe"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_TIGHT\n"
+"string.text"
+msgid "~Tight"
+msgstr "~Tihe"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_NORMAL\n"
+"string.text"
+msgid "~Normal"
+msgstr "~Normaalne"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_LOOSE\n"
+"string.text"
+msgid "~Loose"
+msgstr "Hõre"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_VERY_LOOSE\n"
+"string.text"
+msgid "Very ~Loose"
+msgstr "Väga hõre"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_CUSTOM\n"
+"string.text"
+msgid "~Custom..."
+msgstr "~Kohandatud..."
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"STR_CHARS_SPACING_KERN_PAIRS\n"
+"string.text"
+msgid "~Kern Character Pairs"
+msgstr "~Koonda märkide paarid"
+
+#: fontworkgallery.src
+msgctxt ""
+"fontworkgallery.src\n"
+"RID_SVXFLOAT_FONTWORK_CHARSPACING\n"
+"dockingwindow.text"
+msgid "Fontwork Character Spacing"
+msgstr "Ilukirja märkide vahe"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFMODE\n"
+"string.text"
+msgid "Image Mode"
+msgstr "Pildirežiim"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFRED\n"
+"string.text"
+msgid "Red"
+msgstr "Punane"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFGREEN\n"
+"string.text"
+msgid "Green"
+msgstr "Roheline"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFBLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "Sinine"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFLUMINANCE\n"
+"string.text"
+msgid "Brightness"
+msgstr "Heledus"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFCONTRAST\n"
+"string.text"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFGAMMA\n"
+"string.text"
+msgid "Gamma"
+msgstr "Gamma"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_UNDO_GRAFTRANSPARENCY\n"
+"string.text"
+msgid "Transparency"
+msgstr "Läbipaistvus"
+
+#: grafctrl.src
+msgctxt ""
+"grafctrl.src\n"
+"RID_SVXSTR_GRAFCROP\n"
+"string.text"
+msgid "Crop"
+msgstr "Kärbi"
+
+#: lboxctrl.src
+msgctxt ""
+"lboxctrl.src\n"
+"RID_SVXSTR_NUM_UNDO_ACTIONS\n"
+"string.text"
+msgid "Actions to undo: $(ARG1)"
+msgstr "Tühistatavaid tegevusi: $(ARG1)"
+
+#: lboxctrl.src
+msgctxt ""
+"lboxctrl.src\n"
+"RID_SVXSTR_NUM_UNDO_ACTION\n"
+"string.text"
+msgid "Actions to undo: $(ARG1)"
+msgstr "Tühistatavaid tegevusi: $(ARG1)"
+
+#: lboxctrl.src
+msgctxt ""
+"lboxctrl.src\n"
+"RID_SVXSTR_NUM_REDO_ACTIONS\n"
+"string.text"
+msgid "Actions to redo: $(ARG1)"
+msgstr "Taastatavaid tegevusi: $(ARG1)"
+
+#: lboxctrl.src
+msgctxt ""
+"lboxctrl.src\n"
+"RID_SVXSTR_NUM_REDO_ACTION\n"
+"string.text"
+msgid "Actions to redo: $(ARG1)"
+msgstr "Taastatavaid tegevusi: $(ARG1)"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_TRANSPARENT\n"
+"string.text"
+msgid "No Fill"
+msgstr "Täitmata"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_FILLPATTERN\n"
+"string.text"
+msgid "Pattern"
+msgstr "Muster"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_FRAME\n"
+"string.text"
+msgid "Borders"
+msgstr "Äärised"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_FRAME_STYLE\n"
+"string.text"
+msgid "Border Style"
+msgstr "Äärise stiil"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_FRAME_COLOR\n"
+"string.text"
+msgid "Border Color"
+msgstr "Äärise värv"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_LINECOLOR\n"
+"string.text"
+msgid "Line Color"
+msgstr "Joone värv"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_FILLCOLOR\n"
+"string.text"
+msgid "Fill Color"
+msgstr "Täitevärv"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_MORENUMBERING\n"
+"string.text"
+msgid "More Numbering..."
+msgstr "Rohkem sätteid..."
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_MOREBULLETS\n"
+"string.text"
+msgid "More Bullets..."
+msgstr "Rohkem sätteid..."
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVX_STYLE_MENU\n"
+"RID_SVX_UPDATE_STYLE\n"
+"menuitem.text"
+msgid "Update to Match Selection"
+msgstr "Uuenda valikule vastavaks"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVX_STYLE_MENU\n"
+"RID_SVX_MODIFY_STYLE\n"
+"menuitem.text"
+msgid "Edit Style..."
+msgstr "Redigeeri stiili..."
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_EXTRAS_CHARBACKGROUND\n"
+"string.text"
+msgid "Highlighting"
+msgstr "Esiletõstmine"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_BACKGROUND\n"
+"string.text"
+msgid "Background"
+msgstr "Taust"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_AUTOMATIC\n"
+"string.text"
+msgid "Automatic"
+msgstr "Automaatne"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_PAGES\n"
+"string.text"
+msgid "Pages"
+msgstr "lk"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_CLEARFORM\n"
+"string.text"
+msgid "Clear formatting"
+msgstr "Puhasta vormindus"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_MORE_STYLES\n"
+"string.text"
+msgid "More Styles..."
+msgstr "Rohkem stiile..."
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_MORE\n"
+"string.text"
+msgid "More Options..."
+msgstr "Rohkem sätteid..."
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_TEXTCOLOR\n"
+"string.text"
+msgid "Font color"
+msgstr "Fondi värv"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_CHARFONTNAME\n"
+"string.text"
+msgid "Font Name"
+msgstr "Fondi nimi"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_CHARFONTNAME_NOTAVAILABLE\n"
+"string.text"
+msgid "Font Name. The current font is not available and will be substituted."
+msgstr "Fondi nimi. Praegune font pole saadaval ja asendatakse."
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_DEFAULT_PAL\n"
+"string.text"
+msgid "Default palette"
+msgstr "Vaikepalett"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_DOC_COLORS\n"
+"string.text"
+msgid "Document colors"
+msgstr "Dokumendi värvid"
+
+#: tbcontrl.src
+msgctxt ""
+"tbcontrl.src\n"
+"RID_SVXSTR_DOC_COLOR_PREFIX\n"
+"string.text"
+msgid "Document Color"
+msgstr "Dokumendi värv"
+
+#: tbunosearchcontrollers.src
+msgctxt ""
+"tbunosearchcontrollers.src\n"
+"RID_SVXSTR_FINDBAR_FIND\n"
+"string.text"
+msgid "Find"
+msgstr "Otsing"
+
+#: tbunosearchcontrollers.src
+msgctxt ""
+"tbunosearchcontrollers.src\n"
+"RID_SVXSTR_FINDBAR_MATCHCASE\n"
+"string.text"
+msgid "Match Case"
+msgstr "Tõstutundlik"

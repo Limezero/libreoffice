@@ -1,0 +1,3092 @@
+#. extracted from extensions/source/propctrlr
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-06-21 06:14+0000\n"
+"Last-Translator: ngoswami <ngoswami@redhat.com>\n"
+"Language-Team: Assamese <kde-i18n-doc@kde.org>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1371795266.0\n"
+
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_DETAIL_FORM\n"
+"string.text"
+msgid "Sub Form"
+msgstr "Sub Form"
+
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_MASTER_FORM\n"
+"string.text"
+msgid "Master Form"
+msgstr "Master Form"
+
+#. # will be replace with a name.
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_ERROR_RETRIEVING_COLUMNS\n"
+"string.text"
+msgid "The columns of '#' could not be retrieved."
+msgstr "'#'ৰ পৰা ফিল্ডৰ নামবোৰ উদ্ধাৰ কৰিব পৰা নগ'ল."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EDITMASK\n"
+"string.text"
+msgid "Edit mask"
+msgstr "মাস্ক সম্পাদনা কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LITERALMASK\n"
+"string.text"
+msgid "Literal mask"
+msgstr "লিটাৰেল মাস্ক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_READONLY\n"
+"string.text"
+msgid "Read-only"
+msgstr "কেৱল-পঢ়িবৰ বাবে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ENABLED\n"
+"string.text"
+msgid "Enabled"
+msgstr "সক্ষম কৰি থোৱা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ENABLE_VISIBLE\n"
+"string.text"
+msgid "Visible"
+msgstr "দৃশ্যমান"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_AUTOCOMPLETE\n"
+"string.text"
+msgid "AutoFill"
+msgstr "অট'ফিল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINECOUNT\n"
+"string.text"
+msgid "Line count"
+msgstr "ৰেখাৰ গণনা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MAXTEXTLEN\n"
+"string.text"
+msgid "Max. text length"
+msgstr "সর্বাধিক টেক্সট দৈর্ঘ্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SPIN\n"
+"string.text"
+msgid "Spin Button"
+msgstr "স্পিন বাটন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STRICTFORMAT\n"
+"string.text"
+msgid "Strict format"
+msgstr "নিখুঁত ফৰমেট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWTHOUSANDSEP\n"
+"string.text"
+msgid "Thousands separator"
+msgstr "সহস্ৰ পৃথককৰ্তা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PRINTABLE\n"
+"string.text"
+msgid "Printable"
+msgstr "প্ৰিন্ট কৰিব পৰা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TARGET_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TARGET_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "ফ্ৰেম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HELPTEXT\n"
+"string.text"
+msgid "Help text"
+msgstr "সহায় টেক্সট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HELPURL\n"
+"string.text"
+msgid "Help URL"
+msgstr "সহায় URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TAG\n"
+"string.text"
+msgid "Additional information"
+msgstr "অতিৰিক্ত তথ্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ECHO_CHAR\n"
+"string.text"
+msgid "Password character"
+msgstr "পাছৱাৰ্ডৰ আখৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TRISTATE\n"
+"string.text"
+msgid "Tristate"
+msgstr "ট্ৰাইষ্টেট্"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EMPTY_IS_NULL\n"
+"string.text"
+msgid "Empty string is NULL"
+msgstr "খালী ষ্ট্ৰীং NULL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DECIMAL_ACCURACY\n"
+"string.text"
+msgid "Decimal accuracy"
+msgstr "দশমিক শুদ্ধতা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_IMAGE_URL\n"
+"string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_SELECT_SEQ\n"
+"string.text"
+msgid "Default selection"
+msgstr "ডিফল্ট নির্বাচন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_BUTTON\n"
+"string.text"
+msgid "Default button"
+msgstr "ডিফল্ট বাটন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LABELCONTROL\n"
+"string.text"
+msgid "Label Field"
+msgstr "লেবেল ফিল্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LABEL\n"
+"string.text"
+msgid "Label"
+msgstr "লেবেল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALIGN\n"
+"string.text"
+msgid "Alignment"
+msgstr "শাৰীকৰণ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VERTICAL_ALIGN\n"
+"string.text"
+msgid "Vert. Alignment"
+msgstr "শাৰীকৰণ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"1\n"
+"string.text"
+msgid "Top"
+msgstr "ওপৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"2\n"
+"string.text"
+msgid "Middle"
+msgstr "মধ্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"3\n"
+"string.text"
+msgid "Bottom"
+msgstr "তলত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_IMAGEPOSITION\n"
+"string.text"
+msgid "Graphics alignment"
+msgstr "গ্ৰাফিক্সৰ শাৰীকৰণ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "আখৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BACKGROUNDCOLOR\n"
+"string.text"
+msgid "Background color"
+msgstr "পৃষ্ঠভূমিৰ ৰং"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BORDER\n"
+"string.text"
+msgid "Border"
+msgstr "সীমাৰেখা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ICONSIZE\n"
+"string.text"
+msgid "Icon size"
+msgstr "আইকনৰ আকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ICONSIZE_TYPE\n"
+"1\n"
+"string.text"
+msgid "Small"
+msgstr "সৰু"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ICONSIZE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Large"
+msgstr "ডাঙৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_POSITION\n"
+"string.text"
+msgid "Positioning"
+msgstr "মুক্ত অৱস্থান দিয়া"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "নেভিগেশ্বন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_RECORDACTIONS\n"
+"string.text"
+msgid "Acting on a record"
+msgstr "ৰেকৰ্ডত কাৰ্য কৰোঁতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_FILTERSORT\n"
+"string.text"
+msgid "Filtering / Sorting"
+msgstr "ফিল্টাৰিং/সঁজোৱা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HSCROLL\n"
+"string.text"
+msgid "Horizontal scroll bar"
+msgstr "অনুভূমিক স্ক্র'লবাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VSCROLL\n"
+"string.text"
+msgid "Vertical scroll bar"
+msgstr "উলম্ব স্ক্ৰ'ল বাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WORDBREAK\n"
+"string.text"
+msgid "Word break"
+msgstr "শব্দ বিৰতি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MULTILINE\n"
+"string.text"
+msgid "Multiline input"
+msgstr "বহুৰৈখিক ইনপুট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MULTISELECTION\n"
+"string.text"
+msgid "Multiselection"
+msgstr "বহু অংশবিশিষ্ট নির্বাচন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "নাম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_GROUP_NAME\n"
+"string.text"
+msgid "Group name"
+msgstr "দলৰ নাম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TABINDEX\n"
+"string.text"
+msgid "Tab order"
+msgstr "টেব ক্ৰমাংক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WHEEL_BEHAVIOR\n"
+"string.text"
+msgid "Mouse wheel scroll"
+msgstr "মাউচ হুইল স্ক্ৰল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr "ফিল্টাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SORT_CRITERIA\n"
+"string.text"
+msgid "Sort"
+msgstr "বৰ্গীকৰণ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_RECORDMARKER\n"
+"string.text"
+msgid "Record marker"
+msgstr "ৰেকৰ্ড সূচক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILTERPROPOSAL\n"
+"string.text"
+msgid "Filter proposal"
+msgstr "ফিল্টাৰ প্রস্তাৱ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "নেভিগেশ্বন বাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CYCLE\n"
+"string.text"
+msgid "Cycle"
+msgstr "আৱর্তন-চক্র"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TABSTOP\n"
+"string.text"
+msgid "Tabstop"
+msgstr "টেব ষ্টপ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CONTROLSOURCE\n"
+"string.text"
+msgid "Data field"
+msgstr "ডাটা ফিল্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DROPDOWN\n"
+"string.text"
+msgid "Dropdown"
+msgstr "তললৈ নমাওক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BOUNDCOLUMN\n"
+"string.text"
+msgid "Bound field"
+msgstr "বাউণ্ড ফিল্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTSOURCE\n"
+"string.text"
+msgid "List content"
+msgstr "তালিকাৰ বিষয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTSOURCETYPE\n"
+"string.text"
+msgid "Type of list contents"
+msgstr "তালিকা বিষয়সূচীৰ প্ৰকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURSORSOURCE\n"
+"string.text"
+msgid "Content"
+msgstr "বিষয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURSORSOURCETYPE\n"
+"string.text"
+msgid "Content type"
+msgstr "বিষয়ৰ প্রকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_ADDITIONS\n"
+"string.text"
+msgid "Allow additions"
+msgstr "সংযোজনবোৰ স্বীকাৰ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_DELETIONS\n"
+"string.text"
+msgid "Allow deletions"
+msgstr "সলনিবোৰ স্বীকাৰ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_EDITS\n"
+"string.text"
+msgid "Allow modifications"
+msgstr "সলনিবোৰ স্বীকাৰ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATAENTRY\n"
+"string.text"
+msgid "Add data only"
+msgstr "কেৱল ডাটা যোগ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATASOURCE\n"
+"string.text"
+msgid "Data source"
+msgstr "তথ্য উৎস"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MASTERFIELDS\n"
+"string.text"
+msgid "Link master fields"
+msgstr "মাষ্টাৰ ফিল্ডবোৰ সংযোগ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SLAVEFIELDS\n"
+"string.text"
+msgid "Link slave fields"
+msgstr "শ্লেভ ফিল্ডবোৰ সংযোগ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUEMIN\n"
+"string.text"
+msgid "Value min."
+msgstr "সৰ্বনিম্ন মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUEMAX\n"
+"string.text"
+msgid "Value max."
+msgstr "সৰ্বাধিক মূল্য।"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUESTEP\n"
+"string.text"
+msgid "Incr./decrement value"
+msgstr "মূল্য বৃদ্ধি কৰক/হ্রাস কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURRENCYSYMBOL\n"
+"string.text"
+msgid "Currency symbol"
+msgstr "মুদ্রা সংকেত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEMIN\n"
+"string.text"
+msgid "Date min."
+msgstr "নূন্যতম তাৰিখ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEMAX\n"
+"string.text"
+msgid "Date max."
+msgstr "সৰ্বাধিক তাৰিখ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEFORMAT\n"
+"string.text"
+msgid "Date format"
+msgstr "তাৰিখ ফৰমেট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SELECTEDITEMS\n"
+"string.text"
+msgid "Selection"
+msgstr "নিৰ্বাচন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEMIN\n"
+"string.text"
+msgid "Time min."
+msgstr "নূন্যতম সময়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEMAX\n"
+"string.text"
+msgid "Time max."
+msgstr "সৰ্বাধিক সময়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEFORMAT\n"
+"string.text"
+msgid "Time format"
+msgstr "সময় ফৰমেট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURRSYM_POSITION\n"
+"string.text"
+msgid "Prefix symbol"
+msgstr "উপসৰ্গৰ সংকেত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUE\n"
+"string.text"
+msgid "Value"
+msgstr "মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FORMATKEY\n"
+"string.text"
+msgid "Formatting"
+msgstr "ফৰমেট কৰি আছে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CLASSID\n"
+"string.text"
+msgid "Class ID"
+msgstr "শ্রেণী ID"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "উচ্চতা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "প্ৰস্থ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTINDEX\n"
+"string.text"
+msgid "List index"
+msgstr "তালিকাৰ অনুক্রমণিকা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ROWHEIGHT\n"
+"string.text"
+msgid "Row height"
+msgstr "শাৰীৰ উচ্চতা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILLCOLOR\n"
+"string.text"
+msgid "Fill color"
+msgstr "ৰং পূৰ্ণ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINECOLOR\n"
+"string.text"
+msgid "Line color"
+msgstr "ৰেখাৰ ৰং"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REFVALUE\n"
+"string.text"
+msgid "Reference value (on)"
+msgstr "প্ৰসংগ মূল্য (অন)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_UNCHECKEDREFVALUE\n"
+"string.text"
+msgid "Reference value (off)"
+msgstr "প্ৰসংগ মূল্য (অফ)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STRINGITEMLIST\n"
+"string.text"
+msgid "List entries"
+msgstr "তালিকাৰ প্রৱিষ্টিবোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BUTTONTYPE\n"
+"string.text"
+msgid "Action"
+msgstr "কার্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_ACTION\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_METHOD\n"
+"string.text"
+msgid "Type of submission"
+msgstr "সমৰ্পনৰ প্ৰকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_STATE\n"
+"string.text"
+msgid "Default status"
+msgstr "ডিফল্ট স্থিতি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_ENCODING\n"
+"string.text"
+msgid "Submission encoding"
+msgstr "আনুগত্য এনকডিং"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTVALUE\n"
+"string.text"
+msgid "Default value"
+msgstr "ডিফল্ট মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTTEXT\n"
+"string.text"
+msgid "Default text"
+msgstr "ডিফল্ট টেক্সট্"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTDATE\n"
+"string.text"
+msgid "Default date"
+msgstr "ডিফল্ট তাৰিখ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTTIME\n"
+"string.text"
+msgid "Default time"
+msgstr "ডিফল্ট সময়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_TARGET\n"
+"string.text"
+msgid "Frame"
+msgstr "ফ্ৰেম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"1\n"
+"string.text"
+msgid "Without frame"
+msgstr "(অবিহনে)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"2\n"
+"string.text"
+msgid "3D look"
+msgstr "3D চেহেৰা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"3\n"
+"string.text"
+msgid "Flat"
+msgstr "Flat"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"1\n"
+"string.text"
+msgid "Valuelist"
+msgstr "Valuelist"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Table"
+msgstr "টেবুল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"3\n"
+"string.text"
+msgid "Query"
+msgstr "প্ৰশ্ন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"4\n"
+"string.text"
+msgid "Sql"
+msgstr "Sql"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"5\n"
+"string.text"
+msgid "Sql [Native]"
+msgstr "Sql [Native]"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"6\n"
+"string.text"
+msgid "Tablefields"
+msgstr "Tablefields"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"1\n"
+"string.text"
+msgid "Left"
+msgstr "বাওঁফালৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"2\n"
+"string.text"
+msgid "Center"
+msgstr "কেন্দ্ৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"3\n"
+"string.text"
+msgid "Right"
+msgstr "সোঁফালৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "কোনো নহয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"2\n"
+"string.text"
+msgid "Submit form"
+msgstr "ফৰ্ম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"3\n"
+"string.text"
+msgid "Reset form"
+msgstr "পুনৰ স্থাপন কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"4\n"
+"string.text"
+msgid "Open document/web page"
+msgstr "ডকুমেন্ট খোলক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"5\n"
+"string.text"
+msgid "First record"
+msgstr "প্রথম ৰেকৰ্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"6\n"
+"string.text"
+msgid "Previous record"
+msgstr "পূৰ্বৱৰ্তী ৰেকৰ্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"7\n"
+"string.text"
+msgid "Next record"
+msgstr "পৰৱর্তী ৰেকৰ্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"8\n"
+"string.text"
+msgid "Last record"
+msgstr "অন্তিম ৰেকৰ্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"9\n"
+"string.text"
+msgid "Save record"
+msgstr "ৰেকৰ্ড ছেভ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"10\n"
+"string.text"
+msgid "Undo data entry"
+msgstr "পূৰ্ব নিৰ্দেশ বাতিল কৰক: ডাটা প্ৰৱিষ্টি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"11\n"
+"string.text"
+msgid "New record"
+msgstr "নতুন ৰেকৰ্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"12\n"
+"string.text"
+msgid "Delete record"
+msgstr "ৰেকৰ্ড ডিলিট কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"13\n"
+"string.text"
+msgid "Refresh form"
+msgstr "পুনৰ সজীৱ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_METHOD\n"
+"1\n"
+"string.text"
+msgid "Get"
+msgstr "পোৱা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_METHOD\n"
+"2\n"
+"string.text"
+msgid "Post"
+msgstr "পোষ্ট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"1\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"2\n"
+"string.text"
+msgid "Multipart"
+msgstr "Multipart"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"3\n"
+"string.text"
+msgid "Text"
+msgstr "টেক্সট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"1\n"
+"string.text"
+msgid "Standard (short)"
+msgstr "মানবিশিষ্ট (চুটি)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"2\n"
+"string.text"
+msgid "Standard (short YY)"
+msgstr "মানবিশিষ্ট (চুটি YY)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"3\n"
+"string.text"
+msgid "Standard (short YYYY)"
+msgstr "মানবিশিষ্ট (চুটি YYYY)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"4\n"
+"string.text"
+msgid "Standard (long)"
+msgstr "মানবিশিষ্ট (দীঘল)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"5\n"
+"string.text"
+msgid "DD/MM/YY"
+msgstr "DD/MM/YY"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"6\n"
+"string.text"
+msgid "MM/DD/YY"
+msgstr "MM/DD/YY"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"7\n"
+"string.text"
+msgid "YY/MM/DD"
+msgstr "YY/MM/DD"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"8\n"
+"string.text"
+msgid "DD/MM/YYYY"
+msgstr "DD/MM/YYYY"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"9\n"
+"string.text"
+msgid "MM/DD/YYYY"
+msgstr "MM/DD/YYYY"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"10\n"
+"string.text"
+msgid "YYYY/MM/DD"
+msgstr "YYYY/MM/DD"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"11\n"
+"string.text"
+msgid "YY-MM-DD"
+msgstr "YY-MM-DD"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"12\n"
+"string.text"
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"1\n"
+"string.text"
+msgid "13:45"
+msgstr "13:45"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"2\n"
+"string.text"
+msgid "13:45:00"
+msgstr "13:45:00"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"3\n"
+"string.text"
+msgid "01:45 PM"
+msgstr "01:45 PM"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"4\n"
+"string.text"
+msgid "01:45:00 PM"
+msgstr "01:45:00 PM"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"1\n"
+"string.text"
+msgid "Not Selected"
+msgstr "নিৰ্বাচন কৰা হোৱা নাই"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"2\n"
+"string.text"
+msgid "Selected"
+msgstr "নিৰ্বাৰ্চিত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"3\n"
+"string.text"
+msgid "Not Defined"
+msgstr "সংজ্ঞা নিৰূপিত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"1\n"
+"string.text"
+msgid "All records"
+msgstr "ৰেকৰ্ডবোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"2\n"
+"string.text"
+msgid "Active record"
+msgstr "সক্ৰিয় ৰেকৰ্ড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"3\n"
+"string.text"
+msgid "Current page"
+msgstr "সদায় বৰ্তমান পৃষ্ঠাৰ সৈতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "নহয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "হয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"3\n"
+"string.text"
+msgid "Parent Form"
+msgstr "ফৰ্ম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "কোনো নহয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"2\n"
+"string.text"
+msgid "Single"
+msgstr "Single"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"3\n"
+"string.text"
+msgid "Multi"
+msgstr "বহু-অংশবিশিষ্ট ৰেখা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"4\n"
+"string.text"
+msgid "Range"
+msgstr "পৰিসৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEPARAMETER\n"
+"string.text"
+msgid "Fill parameters"
+msgstr "পেৰামিটাৰবোৰ পূৰ্ণ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ACTIONPERFORMED\n"
+"string.text"
+msgid "Execute action"
+msgstr "কাৰ্য্য পুৰন কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_AFTERUPDATE\n"
+"string.text"
+msgid "After updating"
+msgstr "আপডেট কৰাৰ পাছত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_BEFOREUPDATE\n"
+"string.text"
+msgid "Before updating"
+msgstr "আপডেট কৰাৰ আগতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEROWCHANGE\n"
+"string.text"
+msgid "Before record action"
+msgstr "কাৰ্য ৰেকৰ্ড কৰাৰ আগতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ROWCHANGE\n"
+"string.text"
+msgid "After record action"
+msgstr "কাৰ্য ৰেকৰ্ড কৰাৰ পাছত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_CONFIRMDELETE\n"
+"string.text"
+msgid "Confirm deletion"
+msgstr "ডিলিট কৰাটো নিশ্চিত কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ERROROCCURRED\n"
+"string.text"
+msgid "Error occurred"
+msgstr "ভুল হল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_FOCUSGAINED\n"
+"string.text"
+msgid "When receiving focus"
+msgstr "যেতিয়া ফ'কাছ পায়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_FOCUSLOST\n"
+"string.text"
+msgid "When losing focus"
+msgstr "যেতিয়া ফ'কাছ হেৰায়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ITEMSTATECHANGED\n"
+"string.text"
+msgid "Item status changed"
+msgstr "আইটেমৰ স্থিতি পৰিৱর্তন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_KEYTYPED\n"
+"string.text"
+msgid "Key pressed"
+msgstr "কী হেঁচা হল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_KEYUP\n"
+"string.text"
+msgid "Key released"
+msgstr "কী ৰিলিজড"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_LOADED\n"
+"string.text"
+msgid "When loading"
+msgstr "ল'ড কৰোতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RELOADING\n"
+"string.text"
+msgid "Before reloading"
+msgstr "পুনৰ ল'ড কৰাৰ আগতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RELOADED\n"
+"string.text"
+msgid "When reloading"
+msgstr "পুনৰ ল'ড কৰোতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEDRAGGED\n"
+"string.text"
+msgid "Mouse moved while key pressed"
+msgstr "কী হেঁচা দি থাকোতে মাউচটো নিয়া হ'ল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEENTERED\n"
+"string.text"
+msgid "Mouse inside"
+msgstr "মাউছ ভিতৰৰ ফালে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEEXITED\n"
+"string.text"
+msgid "Mouse outside"
+msgstr "মাউছ বাহিৰৰ ফালে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEMOVED\n"
+"string.text"
+msgid "Mouse moved"
+msgstr "মাউছ স্থানান্তৰিত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEPRESSED\n"
+"string.text"
+msgid "Mouse button pressed"
+msgstr "মাউছৰ বাটনত হেঁচা দিয়া হল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSERELEASED\n"
+"string.text"
+msgid "Mouse button released"
+msgstr "মাউছৰ বাটন ৰিলিজ কৰা হল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_POSITIONING\n"
+"string.text"
+msgid "Before record change"
+msgstr "ৰেকৰ্ড সলনি কৰাৰ আগতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_POSITIONED\n"
+"string.text"
+msgid "After record change"
+msgstr "ৰেকৰ্ড সলনি কৰাৰ পাছত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RESETTED\n"
+"string.text"
+msgid "After resetting"
+msgstr "পুনঃস্থাপিত কৰাৰ পাছত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVERESETTED\n"
+"string.text"
+msgid "Prior to reset"
+msgstr "পুনৰ স্থাপন কৰাৰ আগৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEACTIONPERFORMED\n"
+"string.text"
+msgid "Approve action"
+msgstr "কাৰ্য্যৰ অনুমতি দিয়ক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_SUBMITTED\n"
+"string.text"
+msgid "Before submitting"
+msgstr "জমা দিয়াৰ আগতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_TEXTCHANGED\n"
+"string.text"
+msgid "Text modified"
+msgstr "টেক্সট ৰূপান্তৰিত কৰা হ'ল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_UNLOADING\n"
+"string.text"
+msgid "Before unloading"
+msgstr "আনল'ড কৰাৰ আগতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_UNLOADED\n"
+"string.text"
+msgid "When unloading"
+msgstr "যেতিয়া আনল'ড কৰোতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_CHANGED\n"
+"string.text"
+msgid "Changed"
+msgstr "সলনি কৰা হল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVENTS\n"
+"string.text"
+msgid "Events"
+msgstr "ঘটনাবোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ESCAPE_PROCESSING\n"
+"string.text"
+msgid "Analyze SQL command"
+msgstr "SQL নির্দেশ বিশ্লেষণ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_POSITIONX\n"
+"string.text"
+msgid "PositionX"
+msgstr "স্থান X"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_POSITIONY\n"
+"string.text"
+msgid "PositionY"
+msgstr "স্থান Y"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "শিৰোনাম"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STEP\n"
+"string.text"
+msgid "Page (step)"
+msgstr "পৃষ্ঠা (স্তৰ)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE\n"
+"string.text"
+msgid "Progress value"
+msgstr "অগ্ৰগতি মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE_MIN\n"
+"string.text"
+msgid "Progress value min."
+msgstr "সৰ্বনিম্ন অগ্ৰগতি মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE_MAX\n"
+"string.text"
+msgid "Progress value max."
+msgstr "সর্বাধিক অগ্ৰগতি মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE\n"
+"string.text"
+msgid "Scroll value"
+msgstr "স্ক্ৰ'ল মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE_MAX\n"
+"string.text"
+msgid "Scroll value max."
+msgstr "সর্বাধিক স্ক্ৰ'ল মূল্য।"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE_MIN\n"
+"string.text"
+msgid "Scroll value min."
+msgstr "সৰ্বনিম্ন স্ক্ৰ'ল মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_WIDTH\n"
+"string.text"
+msgid "Scroll width"
+msgstr "প্ৰস্থক স্ক্ৰল কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_HEIGHT\n"
+"string.text"
+msgid "Scroll height"
+msgstr "উচ্চতাক স্ক্ৰল কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_TOP\n"
+"string.text"
+msgid "Scroll top"
+msgstr "ওপৰক স্ক্ৰল কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_LEFT\n"
+"string.text"
+msgid "Scroll left"
+msgstr "বাঁওফালে স্ক্ৰল কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_SCROLLVALUE\n"
+"string.text"
+msgid "Default scroll value"
+msgstr "ডিফল্ট স্ক্ৰ'ল মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINEINCREMENT\n"
+"string.text"
+msgid "Small change"
+msgstr "সৰু সলনি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BLOCKINCREMENT\n"
+"string.text"
+msgid "Large change"
+msgstr "ডাঙৰ সলনি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REPEAT_DELAY\n"
+"string.text"
+msgid "Delay"
+msgstr "বিলম্ব"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REPEAT\n"
+"string.text"
+msgid "Repeat"
+msgstr "পুনৰাবৃত্তি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VISIBLESIZE\n"
+"string.text"
+msgid "Visible size"
+msgstr "দৃশ্যমান আকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ORIENTATION\n"
+"string.text"
+msgid "Orientation"
+msgstr "অনুস্থাপন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ORIENTATION\n"
+"1\n"
+"string.text"
+msgid "Horizontal"
+msgstr "অনুভূমিক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ORIENTATION\n"
+"2\n"
+"string.text"
+msgid "Vertical"
+msgstr "উলম্ব"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ADJUSTMENTVALUECHANGED\n"
+"string.text"
+msgid "While adjusting"
+msgstr "সমাযোজন কৰোতে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "তাৰিখ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STATE\n"
+"string.text"
+msgid "State"
+msgstr "ৰাজ্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "সময়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCALEIMAGE\n"
+"string.text"
+msgid "Scale"
+msgstr "জোখক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PUSHBUTTONTYPE\n"
+"string.text"
+msgid "Button type"
+msgstr "বাটনৰ প্রকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"1\n"
+"string.text"
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"2\n"
+"string.text"
+msgid "OK"
+msgstr "OK"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"3\n"
+"string.text"
+msgid "Cancel"
+msgstr "বাতিল কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"4\n"
+"string.text"
+msgid "Help"
+msgstr "সহায়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_UNABLETOCONNECT\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "ডাটা উত্স \"$name$\"লৈ সংযোগ প্ৰতিস্থাপন কৰিব পৰা নগ'ল."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "টেক্সট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BOUND_CELL\n"
+"string.text"
+msgid "Linked cell"
+msgstr "সংযোগিত কক্ষ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LIST_CELL_RANGE\n"
+"string.text"
+msgid "Source cell range"
+msgstr "উত্স কক্ষৰ পৰিসৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CELL_EXCHANGE_TYPE\n"
+"string.text"
+msgid "Contents of the linked cell"
+msgstr "সংযোগিত কক্ষৰ বিষয়বোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CELL_EXCHANGE_TYPE\n"
+"1\n"
+"string.text"
+msgid "The selected entry"
+msgstr "নিৰ্বাচিত নিবেশ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CELL_EXCHANGE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Position of the selected entry"
+msgstr "নিৰ্বাচিত নিবেশৰ স্থান"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_SCROLLBARS\n"
+"string.text"
+msgid "Scrollbars"
+msgstr "স্ক্ৰ'লবাৰবোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"1\n"
+"string.text"
+msgid "Single-line"
+msgstr "একমাত্ৰ ৰেখা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"2\n"
+"string.text"
+msgid "Multi-line"
+msgstr "বহু-অংশবিশিষ্ট ৰেখা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"3\n"
+"string.text"
+msgid "Multi-line with formatting"
+msgstr "ফৰমেটিংৰ সৈতে বহু-অংশবিশিষ্ট ৰেখা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SYMBOLCOLOR\n"
+"string.text"
+msgid "Symbol color"
+msgstr "প্ৰতীকৰ ৰং"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINEEND_FORMAT\n"
+"string.text"
+msgid "Text lines end with"
+msgstr "...ৰ সৈতে টেক্সটৰ ৰেখাবোৰ শেষ হয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LINEEND_FORMAT\n"
+"1\n"
+"string.text"
+msgid "LF (Unix)"
+msgstr "LF (ইউনিক্স)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LINEEND_FORMAT\n"
+"2\n"
+"string.text"
+msgid "CR+LF (Windows)"
+msgstr "CR+LF (উইণ্ড'জ)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "কোনো নহয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"2\n"
+"string.text"
+msgid "Horizontal"
+msgstr "অনুভূমিক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"3\n"
+"string.text"
+msgid "Vertical"
+msgstr "উলম্ব"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"4\n"
+"string.text"
+msgid "Both"
+msgstr "দুয়োটা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr "টেবুল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr "প্ৰশ্ন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"3\n"
+"string.text"
+msgid "SQL command"
+msgstr "SQL নির্দেশ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TOGGLE\n"
+"string.text"
+msgid "Toggle"
+msgstr "টোগল"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FOCUSONCLICK\n"
+"string.text"
+msgid "Take Focus on Click"
+msgstr "ক্লিকত ফ'কাছ লওক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HIDEINACTIVESELECTION\n"
+"string.text"
+msgid "Hide selection"
+msgstr "নিৰ্বাচন লুকুৱাওক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VISUALEFFECT\n"
+"string.text"
+msgid "Style"
+msgstr "শৈলী"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VISUALEFFECT\n"
+"1\n"
+"string.text"
+msgid "3D"
+msgstr "3D"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VISUALEFFECT\n"
+"2\n"
+"string.text"
+msgid "Flat"
+msgstr "Flat"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BORDERCOLOR\n"
+"string.text"
+msgid "Border color"
+msgstr "সীমাৰেখাৰ ৰং"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"1\n"
+"string.text"
+msgid "Left top"
+msgstr "বাওফালে ওপৰৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"2\n"
+"string.text"
+msgid "Left centered"
+msgstr "বাওঁফালে কেন্দ্রীকৃত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"3\n"
+"string.text"
+msgid "Left bottom"
+msgstr "বাওঁফালে তলত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"4\n"
+"string.text"
+msgid "Right top"
+msgstr "সোঁফালৰ ওপৰত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"5\n"
+"string.text"
+msgid "Right centered"
+msgstr "সোঁফালে কেন্দ্রিত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"6\n"
+"string.text"
+msgid "Right bottom"
+msgstr "সোঁফালে তলত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"7\n"
+"string.text"
+msgid "Above left"
+msgstr "ওপৰত বাওঁফালে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"8\n"
+"string.text"
+msgid "Above centered"
+msgstr "ওপৰত কেন্দ্ৰীকৃত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"9\n"
+"string.text"
+msgid "Above right"
+msgstr "ওপৰত সোঁফালে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"10\n"
+"string.text"
+msgid "Below left"
+msgstr "তলত বাওঁফালে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"11\n"
+"string.text"
+msgid "Below centered"
+msgstr "তলত কেন্দ্রিত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"12\n"
+"string.text"
+msgid "Below right"
+msgstr "তলত সোঁফালে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"13\n"
+"string.text"
+msgid "Centered"
+msgstr "কেন্দ্রীকৃত"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_AUTOLINEBREAK\n"
+"string.text"
+msgid "Wrap text automatically"
+msgstr "স্বয়ংক্রিয়ভাৱে টেক্সট আবৃত কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TEXTTYPE\n"
+"string.text"
+msgid "Text type"
+msgstr "টেক্সটৰ প্রকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHOWHIDE\n"
+"1\n"
+"string.text"
+msgid "Hide"
+msgstr "লুকুৱাওক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHOWHIDE\n"
+"2\n"
+"string.text"
+msgid "Show"
+msgstr "দেখুৱাওক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XML_DATA_MODEL\n"
+"string.text"
+msgid "XML data model"
+msgstr "XML ডাটা আৰ্হি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BIND_EXPRESSION\n"
+"string.text"
+msgid "Binding expression"
+msgstr "বাইণ্ডিং অভিব্যক্তি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_REQUIRED\n"
+"string.text"
+msgid "Required"
+msgstr "প্ৰয়োজনীয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LIST_BINDING\n"
+"string.text"
+msgid "List entry source"
+msgstr "প্ৰৱিষ্টিৰ উৎস তালিকাভুক্ত কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_RELEVANT\n"
+"string.text"
+msgid "Relevant"
+msgstr "প্ৰাসংগিক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_READONLY\n"
+"string.text"
+msgid "Read-only"
+msgstr "কেৱল-পঢ়িবৰ বাবে"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_CONSTRAINT\n"
+"string.text"
+msgid "Constraint"
+msgstr "বাধ্যবাধকতা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_CALCULATION\n"
+"string.text"
+msgid "Calculation"
+msgstr "গণনা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_DATA_TYPE\n"
+"string.text"
+msgid "Data type"
+msgstr "ডাটা প্রকাৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_WHITESPACES\n"
+"string.text"
+msgid "Whitespaces"
+msgstr "ৱাইটস্পেছেছ্"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"1\n"
+"string.text"
+msgid "Preserve"
+msgstr "সংৰক্ষণ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"2\n"
+"string.text"
+msgid "Replace"
+msgstr "প্ৰতিস্থাপন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"3\n"
+"string.text"
+msgid "Collapse"
+msgstr "স্খলন কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_PATTERN\n"
+"string.text"
+msgid "Pattern"
+msgstr "আৰ্হি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_LENGTH\n"
+"string.text"
+msgid "Length"
+msgstr "দৈর্ঘ্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_LENGTH\n"
+"string.text"
+msgid "Length (at least)"
+msgstr "দৈৰ্ঘ্য (আটাইতকৈ কমত)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_LENGTH\n"
+"string.text"
+msgid "Length (at most)"
+msgstr "দৈৰ্ঘ্য (আটাইতকৈ বেছিসংখ্যকত)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_TOTAL_DIGITS\n"
+"string.text"
+msgid "Digits (total)"
+msgstr "সংখ্যাবোৰ (সর্বমুঠ)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_FRACTION_DIGITS\n"
+"string.text"
+msgid "Digits (fraction)"
+msgstr "সংখ্যাবোৰ (ভগ্নাংশ)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_INCLUSIVE\n"
+"string.text"
+msgid "Max. (inclusive)"
+msgstr "সৰ্বাধিক (অন্তৰ্ভুক্তিকৃত)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_EXCLUSIVE\n"
+"string.text"
+msgid "Max. (exclusive)"
+msgstr "সৰ্বাধিক (আছুতীয়া)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_INCLUSIVE\n"
+"string.text"
+msgid "Min. (inclusive)"
+msgstr "সৰ্বনিম্ন (অন্তৰ্ভুক্তিকৃত)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_EXCLUSIVE\n"
+"string.text"
+msgid "Min. (exclusive)"
+msgstr "সৰ্বনিম্ন (আছুতীয়া)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMISSION_ID\n"
+"string.text"
+msgid "Submission"
+msgstr "সমৰ্পন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BINDING_UI_NAME\n"
+"string.text"
+msgid "Binding"
+msgstr "বাধ্যবাধকতা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SELECTION_TYPE\n"
+"string.text"
+msgid "Selection type"
+msgstr "নিৰ্বাচন"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ROOT_DISPLAYED\n"
+"string.text"
+msgid "Root displayed"
+msgstr "প্ৰদৰ্শিত মূল্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWS_HANDLES\n"
+"string.text"
+msgid "Show handles"
+msgstr "ডাঙৰ নালবোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWS_ROOT_HANDLES\n"
+"string.text"
+msgid "Show root handles"
+msgstr "ডাঙৰ নালবোৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EDITABLE\n"
+"string.text"
+msgid "Editable"
+msgstr "কেৱল পঢ়িবৰ বাবে ডকুমেন্টত সম্পাদনা কৰিব পাৰি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_INVOKES_STOP_NOT_EDITING\n"
+"string.text"
+msgid "Invokes stop node editing"
+msgstr "টেক্সটৰ সম্পাদনা"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DECORATION\n"
+"string.text"
+msgid "With title bar"
+msgstr "শিৰোনামৰ সৈতে কিতাপৰ উদ্ধৃতি"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NOLABEL\n"
+"string.text"
+msgid "No Label"
+msgstr "Label9"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "নহয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"2\n"
+"string.text"
+msgid "Keep Ratio"
+msgstr "অনুপাত ৰাখক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"3\n"
+"string.text"
+msgid "Fit to Size"
+msgstr "আকাৰৰ বাবে যোগ্য"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_INPUT_REQUIRED\n"
+"string.text"
+msgid "Input required"
+msgstr "প্রয়োজনীয় ইনপুট"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WRITING_MODE\n"
+"string.text"
+msgid "Text direction"
+msgstr "টেক্সটৰ দিশ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"1\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "বাঁওফালৰ পৰা সোঁফাললৈ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"2\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "সোঁফালৰ পৰা বাওঁফাললৈ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"3\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "ছুপাৰঅৰ্ডিনেট বস্তু ছেটীংছ ব্যৱহাৰ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"1\n"
+"string.text"
+msgid "Never"
+msgstr "কেতিয়াও নহয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"2\n"
+"string.text"
+msgid "When focused"
+msgstr "যেতিয়া মনোযোগ নিবদ্ধ কৰা হয়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"3\n"
+"string.text"
+msgid "Always"
+msgstr "সদায়"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ANCHOR_TYPE\n"
+"string.text"
+msgid "Anchor"
+msgstr "সংযোগ কৰক"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"1\n"
+"string.text"
+msgid "To Paragraph"
+msgstr "পেৰেগ্ৰাফলৈ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"2\n"
+"string.text"
+msgid "As Character"
+msgstr "আখৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"3\n"
+"string.text"
+msgid "To Page"
+msgstr "পৃষ্ঠালৈ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"4\n"
+"string.text"
+msgid "To Frame"
+msgstr "ফ্ৰেমলৈ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"5\n"
+"string.text"
+msgid "To Character"
+msgstr "আখৰ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHEET_ANCHOR_TYPE\n"
+"1\n"
+"string.text"
+msgid "To Page"
+msgstr "পৃষ্ঠালৈ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHEET_ANCHOR_TYPE\n"
+"2\n"
+"string.text"
+msgid "To Cell"
+msgstr "কোষলৈ"
+
+#. That's the 'Regular' as used for a font style (as opposed to 'italic' and 'bold'), so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_REGULAR\n"
+"string.text"
+msgid "Regular"
+msgstr "নিয়মিত"
+
+#. That's the 'Bold Italic' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_BOLD_ITALIC\n"
+"string.text"
+msgid "Bold Italic"
+msgstr "বল্ড ইটালীক"
+
+#. That's the 'Italic' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_ITALIC\n"
+"string.text"
+msgid "Italic"
+msgstr "ইতালীয়"
+
+#. That's the 'Bold' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_BOLD\n"
+"string.text"
+msgid "Bold"
+msgstr "ডাঠ"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONT_DEFAULT\n"
+"string.text"
+msgid "(Default)"
+msgstr "ডিফল্ট"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_CONFIRM_DELETE_DATA_TYPE\n"
+"string.text"
+msgid ""
+"Do you want to delete the data type '#type#' from the model?\n"
+"Please note that this will affect all controls which are bound to this data type."
+msgstr ""
+"আৰ্হিটোৰ পৰা আপুনি ডাটা প্ৰকাৰ '#type#' টো ডিলিট কৰিবলৈ বিচাৰেনেকি?\n"
+"অনুগ্ৰহ কৰি মন কৰিব যে এইটোৱে সকলো নিয়ন্ত্ৰনত প্ৰভাব পেলাব যিবিলাক এই ডাটা প্ৰকাৰটোৰ লগত সংযুক্ত."
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "বাটন"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "বিকল্প বাটন"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "বাকছ পৰীক্ষা কৰক"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "লেবেল ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "গোট বাকছ"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "টেক্সটৰ বাকছ"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "ফৰমেট কৰি থোৱা ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "তালিকা বাকছ"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "কম্বো বাকছ"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "ছবি বাটন"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_HIDDENCONTROL\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "লুকোৱাই থোৱা নিয়ন্ত্রণ"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_UNKNOWNCONTROL\n"
+"string.text"
+msgid "Control (unknown type)"
+msgstr "নিয়ন্ত্ৰণ (অজ্ঞাত প্ৰকাৰ)"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "ছবি নিয়ন্ত্ৰণ"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "ফাইল নির্বাচন"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "তাৰিখ ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "সময় ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "সংখ্যা ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "মুদ্রা ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "আৰ্হি ফিল্ড"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "টেবুলৰ নিয়ন্ত্ৰণ "
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_STANDARD\n"
+"string.text"
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_PROPPAGE_DEFAULT\n"
+"string.text"
+msgid "General"
+msgstr "সাধাৰণ"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_PROPPAGE_DATA\n"
+"string.text"
+msgid "Data"
+msgstr "ডাটা"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_RSC_ENUM_YESNO\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "নহয়"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_RSC_ENUM_YESNO\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "হয়"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_HELP_SECTION_LABEL\n"
+"string.text"
+msgid "Help"
+msgstr "সহায়"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_EMBED_IMAGE_PLACEHOLDER\n"
+"string.text"
+msgid "<Embedded-Image>"
+msgstr "<Embedded-Image>"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_TEXT_FORMAT\n"
+"string.text"
+msgid "Text"
+msgstr "টেক্সট"
+
+#: selectlabeldialog.src
+msgctxt ""
+"selectlabeldialog.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "ফর্মবোৰ"

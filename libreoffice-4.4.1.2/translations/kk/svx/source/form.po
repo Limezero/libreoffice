@@ -1,0 +1,1629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-11-28 09:01+0000\n"
+"Last-Translator: Baurzhan <baurthefirst@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: ~\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1417165285.000000\n"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_MODEL\n"
+"string.text"
+msgid ""
+"Deleting the model '$MODELNAME' affects all controls currently bound to this model.\n"
+"Do you really want to delete this model?"
+msgstr ""
+"«$MODELNAME» моделін өшіру ағымдағы кезде бұл модельмен байланыста тұрған барлық басқару элементтеріне әсер етеді.\n"
+"Бұл модельді өшіру керек пе?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_INSTANCE\n"
+"string.text"
+msgid ""
+"Deleting the instance '$INSTANCENAME' affects all controls currently bound to this instance.\n"
+"Do you really want to delete this instance?"
+msgstr ""
+"«$INSTANCENAME» көшірмесін өшіру ағымдағы кезде бұл көшірмемен байланыста тұрған барлық басқару элементтеріне әсер етеді.\n"
+"Бұл көшірмені өшіру керек пе?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ELEMENT\n"
+"string.text"
+msgid ""
+"Deleting the element '$ELEMENTNAME' affects all controls currently bound to this element.\n"
+"Do you really want to delete this element?"
+msgstr ""
+"«$ELEMENTNAME» элементін өшіру ағымдағы кезде бұл элементпен байланыста тұрған барлық басқару элементтеріне әсер етеді.\n"
+"Бұл элементті өшіру керек пе?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
+msgstr "'$ATTRIBUTENAME' атрибутын өшіруді шынымен қалайсыз ба?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_SUBMISSION\n"
+"string.text"
+msgid ""
+"Deleting the submission '$SUBMISSIONNAME' affects all controls currently bound to this submission.\n"
+"\n"
+"Do you really want to delete this submission?"
+msgstr ""
+"«$SUBMISSIONNAME» жіберуін өшіру ағымдағы кезде бұл жіберумен байланыста тұрған барлық басқару элементтеріне әсер етеді.\n"
+"\n"
+"Бұл жіберуді өшіру керек пе?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_BINDING\n"
+"string.text"
+msgid ""
+"Deleting the binding '$BINDINGNAME' affects all controls currently bound to this binding.\n"
+"\n"
+"Do you really want to delete this binding?"
+msgstr ""
+"«$BINDINGNAME» байланысын өшіру ағымдағы кезде бұл байланыспен байланыста тұрған барлық басқару элементтеріне әсер етеді.\n"
+"\n"
+"Бұл байланысты өшіру керек пе?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLNAME\n"
+"string.text"
+msgid "The name '%1' is not valid in XML. Please enter a different name."
+msgstr "«%1» аты XML ішінде рұқсат етілмеген. Басқа атын көрсетіңіз."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLPREFIX\n"
+"string.text"
+msgid "The prefix '%1' is not valid in XML. Please enter a different prefix."
+msgstr "«%1» префиксі XML ішінде рұқсат етілмеген. Басқа префиксін көрсетіңіз."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DOUBLE_MODELNAME\n"
+"string.text"
+msgid "The name '%1' already exists. Please enter a new name."
+msgstr "«%1» аты бар болып тұр. Басқа атын көрсетіңіз."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_EMPTY_SUBMISSIONNAME\n"
+"string.text"
+msgid "The submission must have a name."
+msgstr "Көріністің аты болуы тиіс."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD\n"
+"menuitem.text"
+msgid "Add Item"
+msgstr "Элементті қосу"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"menuitem.text"
+msgid "Add Element"
+msgstr "Элементті қосу"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"menuitem.text"
+msgid "Add Attribute"
+msgstr "Атрибутты қосу"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_EDIT\n"
+"menuitem.text"
+msgid "Edit"
+msgstr "Түзету"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_REMOVE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "Өшіру"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_POST\n"
+"string.text"
+msgid "Post"
+msgstr "Post"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_PUT\n"
+"string.text"
+msgid "Put"
+msgstr "Put"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_GET\n"
+"string.text"
+msgid "Get"
+msgstr "Get"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_NONE\n"
+"string.text"
+msgid "None"
+msgstr "Жоқ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_INST\n"
+"string.text"
+msgid "Instance"
+msgstr "Дана"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_DOC\n"
+"string.text"
+msgid "Document"
+msgstr "Құжат"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_PARENT\n"
+"string.text"
+msgid "Submission: "
+msgstr "Көрініс: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ID\n"
+"string.text"
+msgid "ID: "
+msgstr "Код: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_BIND\n"
+"string.text"
+msgid "Binding: "
+msgstr "Байланыс: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REF\n"
+"string.text"
+msgid "Reference: "
+msgstr "Сілтеме: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ACTION\n"
+"string.text"
+msgid "Action: "
+msgstr "Әрекет: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_METHOD\n"
+"string.text"
+msgid "Method: "
+msgstr "Тәсіл: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REPLACE\n"
+"string.text"
+msgid "Replace: "
+msgstr "Алмастыру: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ELEMENT\n"
+"string.text"
+msgid "Add Element"
+msgstr "Элементті қосу"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ELEMENT\n"
+"string.text"
+msgid "Edit Element"
+msgstr "Элементті түзету"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ELEMENT\n"
+"string.text"
+msgid "Delete Element"
+msgstr "Элементті өшіру"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ATTRIBUTE\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Атрибутты қосу"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ATTRIBUTE\n"
+"string.text"
+msgid "Edit Attribute"
+msgstr "Атрибутты түзету"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Delete Attribute"
+msgstr "Атрибутты өшіру"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_BINDING\n"
+"string.text"
+msgid "Add Binding"
+msgstr "Байланысты қосу"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_BINDING\n"
+"string.text"
+msgid "Edit Binding"
+msgstr "Байланысты түзету"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_BINDING\n"
+"string.text"
+msgid "Delete Binding"
+msgstr "Байланысты өшіру"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_SUBMISSION\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Жаңа көрініс"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_SUBMISSION\n"
+"string.text"
+msgid "Edit Submission"
+msgstr "Көріністі түзету"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_SUBMISSION\n"
+"string.text"
+msgid "Delete Submission"
+msgstr "Көріністі өшіру"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ELEMENT\n"
+"string.text"
+msgid "Element"
+msgstr "Элемент"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ATTRIBUTE\n"
+"string.text"
+msgid "Attribute"
+msgstr "Атрибут"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING\n"
+"string.text"
+msgid "Binding"
+msgstr "Байланыстыру"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING_EXPR\n"
+"string.text"
+msgid "Binding expression"
+msgstr "Байланыстыру өрнегі"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "Ө~шіру"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_EDIT\n"
+"menuitem.text"
+msgid "~Edit"
+msgstr "Тү~зету"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NULL\n"
+"menuitem.text"
+msgid "~Is Null"
+msgstr "~Бос"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NOT_NULL\n"
+"menuitem.text"
+msgid "I~s not Null"
+msgstr "Бо~с емес"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_FORM\n"
+"menuitem.text"
+msgid "Form"
+msgstr "Форма"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_HIDDEN\n"
+"menuitem.text"
+msgid "Hidden Control"
+msgstr "Жасырын басқару элементі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_NEW\n"
+"menuitem.text"
+msgid "~New"
+msgstr "Ж~аңа"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_CHANGECONTROLTYPE\n"
+"menuitem.text"
+msgid "Replace with"
+msgstr "Немен алмастыру"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "Ө~шіру"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_TAB_DIALOG\n"
+"menuitem.text"
+msgid "Tab Order..."
+msgstr "Белсендіру реті..."
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_RENAME_OBJECT\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "Атын ө~згерту"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_SHOW_PROPERTY_BROWSER\n"
+"menuitem.text"
+msgid "Propert~ies"
+msgstr "Қас~иеттері"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_OPEN_READONLY\n"
+"menuitem.text"
+msgid "Open in Design Mode"
+msgstr "Дизайн режимінде ашу"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_AUTOCONTROLFOCUS\n"
+"menuitem.text"
+msgid "Automatic Control Focus"
+msgstr "Басқару элементіне автофокус"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_EDIT\n"
+"menuitem.text"
+msgid "~Text Box"
+msgstr "Мә~тіндік өрісі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_BUTTON\n"
+"menuitem.text"
+msgid "~Button"
+msgstr "~Батырма"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FIXEDTEXT\n"
+"menuitem.text"
+msgid "La~bel field"
+msgstr "~Белгі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_GROUPBOX\n"
+"menuitem.text"
+msgid "G~roup Box"
+msgstr "Т~оп"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_LISTBOX\n"
+"menuitem.text"
+msgid "L~ist Box"
+msgstr "Ті~зім"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CHECKBOX\n"
+"menuitem.text"
+msgid "~Check Box"
+msgstr "~Жалауша"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_RADIOBUTTON\n"
+"menuitem.text"
+msgid "~Radio Button"
+msgstr "~Ауыстырғыш батырмасы"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_COMBOBOX\n"
+"menuitem.text"
+msgid "Combo Bo~x"
+msgstr "Тізімі б~ар өріс"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGEBUTTON\n"
+"menuitem.text"
+msgid "I~mage Button"
+msgstr "Г~рафикалық батырма"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FILECONTROL\n"
+"menuitem.text"
+msgid "~File Selection"
+msgstr "~Файлды таңдау"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_DATE\n"
+"menuitem.text"
+msgid "~Date Field"
+msgstr "~Күн өрісі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_TIME\n"
+"menuitem.text"
+msgid "Tim~e Field"
+msgstr "Уақы~т өрісі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NUMERIC\n"
+"menuitem.text"
+msgid "~Numerical Field"
+msgstr "~Сандык өріс"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CURRENCY\n"
+"menuitem.text"
+msgid "C~urrency Field"
+msgstr "Ақ~ша өрісі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_PATTERN\n"
+"menuitem.text"
+msgid "~Pattern Field"
+msgstr "~Енгізу маскасы бар өрісі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGECONTROL\n"
+"menuitem.text"
+msgid "Ima~ge Control"
+msgstr "~Басқарудың графикалық элементі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FORMATTED\n"
+"menuitem.text"
+msgid "Fo~rmatted Field"
+msgstr "Пі~шімделген өріс"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SCROLLBAR\n"
+"menuitem.text"
+msgid "Scroll bar"
+msgstr "Айналдыру жолағы"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SPINBUTTON\n"
+"menuitem.text"
+msgid "Spin Button"
+msgstr "Санағыш"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NAVIGATIONBAR\n"
+"menuitem.text"
+msgid "Navigation Bar"
+msgstr "Навигация панелі"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_SVX_FMEXPLORER\n"
+"dockingwindow.text"
+msgid "Form Navigator"
+msgstr "Формалар навигаторы"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_CONTEXT_ADDFORM\n"
+"string.text"
+msgid "Error while creating form"
+msgstr "Форманы жасау қатесі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_FIELDREQUIRED\n"
+"string.text"
+msgid "Input required in field '#'. Please enter a value."
+msgstr "«#» өрісі үшін деректерді енгізу керек. Мәнді енгізіңіз."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_DUPLICATE_NAME\n"
+"string.text"
+msgid ""
+"Entry already exists.\n"
+"Please choose another name."
+msgstr ""
+"Жазба бар болып тұр.\n"
+"Басқа атын таңдаңыз."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "Формалар"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NO_PROPERTIES\n"
+"string.text"
+msgid "No control selected"
+msgstr "Басқару элементі таңдалмады"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_CONTROL\n"
+"string.text"
+msgid "Properties: "
+msgstr "Қасиеттері: "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_FORM\n"
+"string.text"
+msgid "Form Properties"
+msgstr "Форма қасиеттері"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FMEXPLORER\n"
+"string.text"
+msgid "Form Navigator"
+msgstr "Формалар навигаторы"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORM\n"
+"string.text"
+msgid "Form"
+msgstr "Форма"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr "Кесте"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr "Сұраным"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"3\n"
+"string.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_STDFORMNAME\n"
+"string.text"
+msgid "Form"
+msgstr "Форма"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_HIDDEN\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "Жасырын басқару элементі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_CONTROL\n"
+"string.text"
+msgid "Control"
+msgstr "Басқару элементі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_TEXT\n"
+"string.text"
+msgid "Record"
+msgstr "Жазба"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_FROM_TEXT\n"
+"string.text"
+msgid "of"
+msgstr "барлығы"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Add field:"
+msgstr "Өрісті қосу:"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_WRITEERROR\n"
+"string.text"
+msgid "Error writing data to database"
+msgstr "Деректерді дерекқорға жазу қатесі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SYNTAXERROR\n"
+"string.text"
+msgid "Syntax error in query expression"
+msgstr "Сұраным өрнегінде синтаксис қате бар"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORD\n"
+"string.text"
+msgid "You intend to delete 1 record."
+msgstr "Сіз 1 жазбаны өшіруді қаладыңыз. "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORDS\n"
+"string.text"
+msgid "# records will be deleted."
+msgstr "# жазба өшіріледі."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM\n"
+"string.text"
+msgid ""
+"If you click Yes, you won't be able to undo this operation.\n"
+"Do you want to continue anyway?"
+msgstr ""
+"Егер сіз Иә батырмасын бассаңыз, онда операцияны болдырмауға мүмкін болмайды!\n"
+"Сонда да жалғастыру керек пе?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_NO_ELEMENT\n"
+"string.text"
+msgid "Choose an entry from the list or enter a text corresponding to one of the list items."
+msgstr "Тізімнен элементті таңдаңыз, немесе тізімнің бір элементіне сәйкес келетін мәтінді енгізіңіз."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_GROUPBOX\n"
+"string.text"
+msgid "Frame element"
+msgstr "Фрейм элементі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Навигация"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATIONBAR\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "Навигация панелі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_COLUMN\n"
+"string.text"
+msgid "Col"
+msgstr "Баған"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_PROPERTY\n"
+"string.text"
+msgid "Set property '#'"
+msgstr "«#» қасиетін орнату"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_INSERT\n"
+"string.text"
+msgid "Insert in container"
+msgstr "Контейнерге кірістіру"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE\n"
+"string.text"
+msgid "Delete #"
+msgstr "# өшіру"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE_MULTIPLE\n"
+"string.text"
+msgid "Delete # objects"
+msgstr "# объектті өшіру"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REPLACE\n"
+"string.text"
+msgid "Replace a container element"
+msgstr "Контейнер элементін алмастыру"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_DELETE_LOGICAL\n"
+"string.text"
+msgid "Delete structure"
+msgstr "Құрылымды өшіру"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_MODEL_REPLACE\n"
+"string.text"
+msgid "Replace Control"
+msgstr "Басқару элементін алмастыру"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Күн"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Уақыт"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Push Button"
+msgstr "Батырма"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "Ауыстырғыш"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "Жалауша"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "Белгі өрісі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "Топ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "Мәтіндік өріс"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Пішімделген өріс"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "Тізім"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "Тізімі бар өріс"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "Графикалық батырма"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "Графикалық басқару элементі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "Файлды таңдау"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "Күн өрісі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "Уақыт өрісі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "Сандық өрісі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "Валюта өрісі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "Енгізу маскасы бар өріс"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "Кесте басқару элементі "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SCROLLBAR\n"
+"string.text"
+msgid "Scrollbar"
+msgstr "Айналдыру жолағы"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SPINBUTTON\n"
+"string.text"
+msgid "Spin Button"
+msgstr "Санағыш"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NAVBAR\n"
+"string.text"
+msgid "Navigation Bar"
+msgstr "Навигация панелі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Топтық ерекшелеу"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NODATACONTROLS\n"
+"string.text"
+msgid "No data-related controls in the current form!"
+msgstr "Ағымдағы формада кесте өрісіне байланысқан басқару элементтері жоқ!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_DATE\n"
+"string.text"
+msgid " (Date)"
+msgstr " (Күн)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_TIME\n"
+"string.text"
+msgid " (Time)"
+msgstr " (Уақыт)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_NAVIGATOR\n"
+"string.text"
+msgid "Filter navigator"
+msgstr "Сүзгілер навигаторы"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_FOR\n"
+"string.text"
+msgid "Filter for"
+msgstr "Кейін сүзгілеу"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_OR\n"
+"string.text"
+msgid "Or"
+msgstr "Немесе"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NOCONTROLS_FOR_EXTERNALDISPLAY\n"
+"string.text"
+msgid "Valid bound controls which can be used in the table view do not exist in the current form."
+msgstr "Ағымдағы формада кестеде қолдануға болатын дұрыс байланысқан басқару элементтері жоқ."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_AUTOFIELD\n"
+"string.text"
+msgid "<AutoField>"
+msgstr "<Автоөріс>"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"1\n"
+"string.text"
+msgid "LIKE"
+msgstr "LIKE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"2\n"
+"string.text"
+msgid "NOT"
+msgstr "NOT"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"3\n"
+"string.text"
+msgid "EMPTY"
+msgstr "EMPTY"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"4\n"
+"string.text"
+msgid "TRUE"
+msgstr "TRUE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"5\n"
+"string.text"
+msgid "FALSE"
+msgstr "FALSE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"6\n"
+"string.text"
+msgid "IS"
+msgstr "IS"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"7\n"
+"string.text"
+msgid "BETWEEN"
+msgstr "BETWEEN"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"8\n"
+"string.text"
+msgid "OR"
+msgstr "НЕМЕСЕ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"9\n"
+"string.text"
+msgid "AND"
+msgstr "ЖӘНЕ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"10\n"
+"string.text"
+msgid "Average"
+msgstr "Орташа мәні"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"11\n"
+"string.text"
+msgid "Count"
+msgstr "Саны"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"12\n"
+"string.text"
+msgid "Maximum"
+msgstr "Максималды мәні"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"13\n"
+"string.text"
+msgid "Minimum"
+msgstr "Минималды мәні"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"14\n"
+"string.text"
+msgid "Sum"
+msgstr "Сома"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"15\n"
+"string.text"
+msgid "Every"
+msgstr "Әрбір"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"16\n"
+"string.text"
+msgid "Any"
+msgstr "Кез-келген"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"17\n"
+"string.text"
+msgid "Some"
+msgstr "Кейбір"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"18\n"
+"string.text"
+msgid "STDDEV_POP"
+msgstr "STDDEV_POP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"19\n"
+"string.text"
+msgid "STDDEV_SAMP"
+msgstr "STDDEV_SAMP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"20\n"
+"string.text"
+msgid "VAR_SAMP"
+msgstr "VAR_SAMP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"21\n"
+"string.text"
+msgid "VAR_POP"
+msgstr "VAR_POP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"22\n"
+"string.text"
+msgid "Collect"
+msgstr "Жинақ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"23\n"
+"string.text"
+msgid "Fusion"
+msgstr "Бірігуі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"24\n"
+"string.text"
+msgid "Intersection"
+msgstr "Қиылысу"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ERROR\n"
+"string.text"
+msgid "Syntax error in SQL statement"
+msgstr "SQL өрнегіндегі синтаксис қатесі"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE\n"
+"string.text"
+msgid "The value #1 cannot be used with LIKE."
+msgstr "#1 мәні LIKE амалымен бірге қолдану мүмкін емес."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE\n"
+"string.text"
+msgid "LIKE cannot be used with this field."
+msgstr "Бұл өрісте LIKE қолдануға болмайды."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID\n"
+"string.text"
+msgid "The value entered is not a valid date. Please enter a date in a valid format, for example, MM/DD/YY."
+msgstr "Өрістегі күннің пішімі жарамсыз. АА/КК/ЖЖ пішімінде күнді енгізіңіз."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with an integer."
+msgstr "Өрісті бүтін санмен салыстыруға болмайды."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE\n"
+"string.text"
+msgid "The database does not contain a table named \"#\"."
+msgstr "Дерекқорда «#» кестесі жоқ."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_OR_QUERY\n"
+"string.text"
+msgid "The database does contain neither a table nor a query named \"#\"."
+msgstr "Дерекқорда «#» деп аталатын кесте не сұранымы жоқ."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_EXISTS\n"
+"string.text"
+msgid "The database already contains a table or view with name \"#\"."
+msgstr "Дерекқорда «#» деп аталатын кесте не көрініс бар болып тұр."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_QUERY_EXISTS\n"
+"string.text"
+msgid "The database already contains a query with name \"#\"."
+msgstr "Дерекқорда «#» деп аталатын сұраным бар болып тұр."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_COLUMN\n"
+"string.text"
+msgid "The column \"#1\" is unknown in the table \"#2\"."
+msgstr "Белгісіз «#1» бағаны «#2» кестесінде."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with a floating point number."
+msgstr "Өрісті қалқымалы үтірлі санмен салыстыруға болмайды."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE\n"
+"string.text"
+msgid "The entered criterion cannot be compared with this field."
+msgstr "Берілген шартты бұл өріспен салыстыру мүмкін емес."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATANAVIGATOR\n"
+"string.text"
+msgid "Data Navigator"
+msgstr "Деректер навигаторы"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_READONLY_VIEW\n"
+"string.text"
+msgid " (read-only)"
+msgstr " (тек оқу үшін ғана)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "Бұл файл бар болып тұр. Оны үстінен жазу керек пе?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_OBJECT_LABEL\n"
+"string.text"
+msgid "#object# label"
+msgstr "#object# белгі"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_STYLE\n"
+"menuitem.text"
+msgid "St~yle"
+msgstr "Ст~иль"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_ALIGNMENT\n"
+"menuitem.text"
+msgid "~Alignment"
+msgstr "~Туралау"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_SPACING\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "Жо~лдар аралығы"

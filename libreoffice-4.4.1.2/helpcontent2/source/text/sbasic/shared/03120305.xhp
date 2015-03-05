@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03120305xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">LTrim Function [Runtime]</title>
+<filename>/text/sbasic/shared/03120305.xhp</filename>
+</topic>
+<history>
+<created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+<lastedited date="2005-01-03T15:50:42">converted from old format - fpe</lastedited>
+</history>
+</meta>
+<body>
+<section id="ltrim">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3147574"><bookmark_value>LTrim function</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="hd_id3147574" xml-lang="en-US" level="1" l10n="U" oldref="1"><link href="text/sbasic/shared/03120305.xhp" name="LTrim Function [Runtime]">LTrim Function [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_id3145316" xml-lang="en-US" l10n="U" oldref="2">Removes all leading spaces at the start of a string expression.</paragraph>
+</section>
+<paragraph role="heading" id="hd_id3154924" xml-lang="en-US" level="2" l10n="U" oldref="3">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_id3148552" xml-lang="en-US" oldref="4">LTrim (Text As String)</paragraph>
+</bascode>
+<paragraph role="heading" id="hd_id3156344" xml-lang="en-US" level="2" l10n="U" oldref="5">Return value:</paragraph>
+<paragraph role="paragraph" id="par_id3151056" xml-lang="en-US" l10n="U" oldref="6">String</paragraph>
+<paragraph role="heading" id="hd_id3150543" xml-lang="en-US" level="2" l10n="U" oldref="7">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_id3150792" xml-lang="en-US" l10n="U" oldref="8">
+<emph>Text:</emph> Any string expression.</paragraph>
+<paragraph role="paragraph" id="par_id3125863" xml-lang="en-US" l10n="U" oldref="9">Use this function to remove spaces at the beginning of a string expression.</paragraph>
+<embed href="text/sbasic/shared/00000003.xhp#errorcode"/>
+<embed href="text/sbasic/shared/00000003.xhp#err5"/>
+<paragraph role="heading" id="hd_id3145419" xml-lang="en-US" level="2" l10n="U" oldref="10">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Sub ExampleSpaces</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim sText2 As String,sText As String,sOut As String</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sText2 = " &lt;*Las Vegas*&gt; "</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sOut = "'"+sText2 +"'"+ Chr(13)</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sText = Ltrim(sText2) ' sText = "&lt;*Las Vegas*&gt; "</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sOut = sOut + "'"+sText +"'" + Chr(13)</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sText = Rtrim(sText2) ' sText = " &lt;*Las Vegas*&gt;"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sOut = sOut +"'"+ sText +"'" + Chr(13)</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sText = Trim(sText2) ' sText = "&lt;*Las Vegas*&gt;"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    sOut = sOut +"'"+ sText +"'"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    MsgBox sOut</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Sub</paragraph>
+</bascode>
+</body>
+</helpdocument>

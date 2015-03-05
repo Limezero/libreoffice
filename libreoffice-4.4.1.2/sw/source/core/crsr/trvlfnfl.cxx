@@ -1,0 +1,339 @@
+/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
+/*
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ */
+
+#include <svx/svdmodel.hxx>
+#include <svx/svdpage.hxx>
+#include <crsrsh.hxx>
+#include <doc.hxx>
+#include <pagefrm.hxx>
+#include <cntfrm.hxx>
+#include <ftnfrm.hxx>
+#include <viewimp.hxx>
+#include <swcrsr.hxx>
+#include <dflyobj.hxx>
+#include <ndtxt.hxx>
+#include <flyfrm.hxx>
+#include <txtfrm.hxx>
+#include <txtftn.hxx>
+#include <ftnidx.hxx>
+#include <viscrs.hxx>
+#include <callnk.hxx>
+
+bool SwCrsrShell::CallCrsrFN( FNCrsr fnCrsr )
+{
+    SwCallLink aLk( *this ); // watch Crsr-Moves
+    SwCursor* pCrsr = getShellCrsr( true );
+    bool bRet = (pCrsr->*fnCrsr)();
+    if( bRet )
+        UpdateCrsr( SwCrsrShell::SCROLLWIN | SwCrsrShell::CHKRANGE |
+                    SwCrsrShell::READONLY );
+    return bRet;
+}
+
+bool SwCursor::GotoFtnTxt()
+{
+    // jump from content to footnote
+    bool bRet = false;
+    SwTxtNode* pTxtNd = GetPoint()->nNode.GetNode().GetTxtNode();
+
+    SwTxtAttr *const pFtn( (pTxtNd)
+        ? pTxtNd->GetTxtAttrForCharAt(
+            GetPoint()->nContent.GetIndex(), RES_TXTATR_FTN)
+        : 0);
+    if (pFtn)
+    {
+        SwCrsrSaveState aSaveState( *this );
+        GetPoint()->nNode = *static_cast<SwTxtFtn*>(pFtn)->GetStartNode();
+
+        SwCntntNode* pCNd = GetDoc()->GetNodes().GoNextSection(
+                                            &GetPoint()->nNode,
+                                            true, !IsReadOnlyAvailable() );
+        if( pCNd )
+        {
+            GetPoint()->nContent.Assign( pCNd, 0 );
+            bRet = !IsSelOvr( nsSwCursorSelOverFlags::SELOVER_CHECKNODESSECTION |
+                              nsSwCursorSelOverFlags::SELOVER_TOGGLE );
+        }
+    }
+    return bRet;
+}
+
+bool SwCrsrShell::GotoFtnTxt()
+{
+    bool bRet = CallCrsrFN( &SwCursor::GotoFtnTxt );
+    if( !bRet )
+    {
+        SwTxtNode* pTxtNd = _GetCrsr() ?
+                   _GetCrsr()->GetPoint()->nNode.GetNode().GetTxtNode() : NULL;
+        if( pTxtNd )
+        {
+            const SwFrm *pFrm = pTxtNd->getLayoutFrm( GetLayout(), &_GetCrsr()->GetSttPos(),
+                                                 _GetCrsr()->Start() );
+            const SwFtnBossFrm* pFtnBoss;
+            bool bSkip = pFrm && pFrm->IsInFtn();
+            while( pFrm && 0 != ( pFtnBoss = pFrm->FindFtnBossFrm() ) )
+            {
+                if( 0 != ( pFrm = pFtnBoss->FindFtnCont() ) )
+                {
+                    if( bSkip )
+                        bSkip = false;
+                    else
+                    {
+                        const SwCntntFrm* pCnt = static_cast<const SwLayoutFrm*>
+                                                        (pFrm)->ContainsCntnt();
+                        if( pCnt )
+                        {
+                            const SwCntntNode* pNode = pCnt->GetNode();
+                            _GetCrsr()->GetPoint()->nNode = *pNode;
+                            _GetCrsr()->GetPoint()->nContent.Assign(
+                                const_cast<SwCntntNode*>(pNode),
+                                static_cast<const SwTxtFrm*>(pCnt)->GetOfst() );
+                            UpdateCrsr( SwCrsrShell::SCROLLWIN |
+                                SwCrsrShell::CHKRANGE | SwCrsrShell::READONLY );
+                            bRet = true;
+                            break;
+                        }
+                    }
+                }
+                if( pFtnBoss->GetNext() && !pFtnBoss->IsPageFrm() )
+                    pFrm = pFtnBoss->GetNext();
+                else
+                    pFrm = pFtnBoss->GetUpper();
+            }
+        }
+    }
+    return bRet;
+}
+
+bool SwCursor::GotoFtnAnchor()
+{
+    // jump from footnote to anchor
+    const SwNode* pSttNd = GetNode().FindFootnoteStartNode();
+    if( pSttNd )
+    {
+        // search in all footnotes in document for this StartIndex
+        const SwTxtFtn* pTxtFtn;
+        const SwFtnIdxs& rFtnArr = pSttNd->GetDoc()->GetFtnIdxs();
+        for( size_t n = 0; n < rFtnArr.size(); ++n )
+            if( 0 != ( pTxtFtn = rFtnArr[ n ])->GetStartNode() &&
+                pSttNd == &pTxtFtn->GetStartNode()->GetNode() )
+            {
+                SwCrsrSaveState aSaveState( *this );
+
+                SwTxtNode& rTNd = (SwTxtNode&)pTxtFtn->GetTxtNode();
+                GetPoint()->nNode = rTNd;
+                GetPoint()->nContent.Assign( &rTNd, pTxtFtn->GetStart() );
+
+                return !IsSelOvr( nsSwCursorSelOverFlags::SELOVER_CHECKNODESSECTION |
+                                  nsSwCursorSelOverFlags::SELOVER_TOGGLE );
+            }
+    }
+    return false;
+}
+
+bool SwCrsrShell::GotoFtnAnchor()
+{
+    // jump from footnote to anchor
+    SwCallLink aLk( *this ); // watch Crsr-Moves
+    bool bRet = m_pCurCrsr->GotoFtnAnchor();
+    if( bRet )
+    {
+        // special treatment for table header row
+        m_pCurCrsr->GetPtPos() = Point();
+        UpdateCrsr( SwCrsrShell::SCROLLWIN | SwCrsrShell::CHKRANGE |
+                    SwCrsrShell::READONLY );
+    }
+    return bRet;
+}
+
+inline bool CmpLE( const SwTxtFtn& rFtn, sal_uLong nNd, sal_Int32 nCnt )
+{
+    const sal_uLong nTNd = rFtn.GetTxtNode().GetIndex();
+    return nTNd < nNd || ( nTNd == nNd && rFtn.GetStart() <= nCnt );
+}
+
+inline bool CmpL( const SwTxtFtn& rFtn, sal_uLong nNd, sal_Int32 nCnt )
+{
+    const sal_uLong nTNd = rFtn.GetTxtNode().GetIndex();
+    return nTNd < nNd || ( nTNd == nNd && rFtn.GetStart() < nCnt );
+}
+
+bool SwCursor::GotoNextFtnAnchor()
+{
+    const SwFtnIdxs& rFtnArr = GetDoc()->GetFtnIdxs();
+    const SwTxtFtn* pTxtFtn = 0;
+    size_t nPos = 0;
+
+    if( rFtnArr.SeekEntry( GetPoint()->nNode, &nPos ))
+    {
+        // there is a footnote with this index, so search also for the next one
+        if( nPos < rFtnArr.size() )
+        {
+            sal_uLong nNdPos = GetPoint()->nNode.GetIndex();
+            const sal_Int32 nCntPos = GetPoint()->nContent.GetIndex();
+
+            pTxtFtn = rFtnArr[ nPos ];
+            // search forwards
+            if( CmpLE( *pTxtFtn, nNdPos, nCntPos ) )
+            {
+                pTxtFtn = 0;
+                for( ++nPos; nPos < rFtnArr.size(); ++nPos )
+                {
+                    pTxtFtn = rFtnArr[ nPos ];
+                    if( !CmpLE( *pTxtFtn, nNdPos, nCntPos ) )
+                        break; // found
+                    pTxtFtn = 0;
+                }
+            }
+            else if( nPos )
+            {
+                // search backwards
+                pTxtFtn = 0;
+                while( nPos )
+                {
+                    pTxtFtn = rFtnArr[ --nPos ];
+                    if( CmpLE( *pTxtFtn, nNdPos, nCntPos ) )
+                    {
+                        pTxtFtn = rFtnArr[ ++nPos ];
+                        break; // found
+                    }
+                }
+            }
+        }
+    }
+    else if( nPos < rFtnArr.size() )
+        pTxtFtn = rFtnArr[ nPos ];
+
+    bool bRet = 0 != pTxtFtn;
+    if( bRet )
+    {
+        SwCrsrSaveState aSaveState( *this );
+
+        SwTxtNode& rTNd = (SwTxtNode&)pTxtFtn->GetTxtNode();
+        GetPoint()->nNode = rTNd;
+        GetPoint()->nContent.Assign( &rTNd, pTxtFtn->GetStart() );
+        bRet = !IsSelOvr();
+    }
+    return bRet;
+}
+
+bool SwCursor::GotoPrevFtnAnchor()
+{
+    const SwFtnIdxs& rFtnArr = GetDoc()->GetFtnIdxs();
+    const SwTxtFtn* pTxtFtn = 0;
+    size_t nPos = 0;
+
+    if( rFtnArr.SeekEntry( GetPoint()->nNode, &nPos ) )
+    {
+        // there is a footnote with this index, so search also for the next one
+        sal_uLong nNdPos = GetPoint()->nNode.GetIndex();
+        const sal_Int32 nCntPos = GetPoint()->nContent.GetIndex();
+
+        pTxtFtn = rFtnArr[ nPos ];
+        // search forwards
+        if( CmpL( *pTxtFtn, nNdPos, nCntPos ))
+        {
+            for( ++nPos; nPos < rFtnArr.size(); ++nPos )
+            {
+                pTxtFtn = rFtnArr[ nPos ];
+                if( !CmpL( *pTxtFtn, nNdPos, nCntPos ) )
+                {
+                    pTxtFtn = rFtnArr[ nPos-1 ];
+                    break;
+                }
+            }
+        }
+        else if( nPos )
+        {
+            // search backwards
+            pTxtFtn = 0;
+            while( nPos )
+            {
+                pTxtFtn = rFtnArr[ --nPos ];
+                if( CmpL( *pTxtFtn, nNdPos, nCntPos ))
+                    break; // found
+                pTxtFtn = 0;
+            }
+        }
+        else
+            pTxtFtn = 0;
+    }
+    else if( nPos )
+        pTxtFtn = rFtnArr[ nPos-1 ];
+
+    bool bRet = 0 != pTxtFtn;
+    if( bRet )
+    {
+        SwCrsrSaveState aSaveState( *this );
+
+        SwTxtNode& rTNd = (SwTxtNode&)pTxtFtn->GetTxtNode();
+        GetPoint()->nNode = rTNd;
+        GetPoint()->nContent.Assign( &rTNd, pTxtFtn->GetStart() );
+        bRet = !IsSelOvr();
+    }
+    return bRet;
+}
+
+bool SwCrsrShell::GotoNextFtnAnchor()
+{
+    return CallCrsrFN( &SwCursor::GotoNextFtnAnchor );
+}
+
+bool SwCrsrShell::GotoPrevFtnAnchor()
+{
+    return CallCrsrFN( &SwCursor::GotoPrevFtnAnchor );
+}
+
+/// jump from border to anchor
+bool SwCrsrShell::GotoFlyAnchor()
+{
+    SET_CURR_SHELL( this );
+    const SwFrm* pFrm = GetCurrFrm();
+    do {
+        pFrm = pFrm->GetUpper();
+    } while( pFrm && !pFrm->IsFlyFrm() );
+
+    if( !pFrm ) // no FlyFrame
+        return false;
+
+    SwCallLink aLk( *this ); // watch Crsr-Moves
+    SwCrsrSaveState aSaveState( *m_pCurCrsr );
+
+    // jump in BodyFrame closest to FlyFrame
+    SwRect aTmpRect( m_aCharRect );
+    if( !pFrm->Frm().IsInside( aTmpRect ))
+        aTmpRect = pFrm->Frm();
+    Point aPt( aTmpRect.Left(), aTmpRect.Top() +
+                ( aTmpRect.Bottom() - aTmpRect.Top() ) / 2 );
+    aPt.setX(aPt.getX() > (pFrm->Frm().Left() + (pFrm->Frm().SSize().Width() / 2 ))
+                ? pFrm->Frm().Right()
+                : pFrm->Frm().Left());
+
+    const SwPageFrm* pPageFrm = pFrm->FindPageFrm();
+    const SwCntntFrm* pFndFrm = pPageFrm->GetCntntPos( aPt, false, true );
+    pFndFrm->GetCrsrOfst( m_pCurCrsr->GetPoint(), aPt );
+
+    bool bRet = !m_pCurCrsr->IsInProtectTable() && !m_pCurCrsr->IsSelOvr();
+    if( bRet )
+        UpdateCrsr( SwCrsrShell::SCROLLWIN | SwCrsrShell::CHKRANGE |
+                    SwCrsrShell::READONLY );
+    return bRet;
+}
+
+/* vim:set shiftwidth=4 softtabstop=4 expandtab: */

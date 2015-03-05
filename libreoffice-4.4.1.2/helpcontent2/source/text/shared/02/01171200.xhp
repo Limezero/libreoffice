@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textshared0201171200xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">Display Grid</title>
+<filename>/text/shared/02/01171200.xhp</filename>
+</topic>
+<history>
+<created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+<lastedited date="2006-02-24T11:39:12">converted from old format - fpe</lastedited>
+</history>
+</meta>
+<body><comment>UFI: removed help ids</comment>
+<paragraph role="heading" id="hd_id3150476" xml-lang="en-US" level="1" l10n="CHG" oldref="1">Display Grid</paragraph>
+<embed href="text/shared/optionen/01050100.xhp#rastersicht"/>
+<switch select="appl">
+<case select="DRAW"><embed href="text/shared/optionen/01050100.xhp#rastertextdraw"/>
+</case>
+</switch>
+<switch select="appl">
+<case select="IMPRESS"><embed href="text/shared/optionen/01050100.xhp#rastertext"/>
+</case>
+</switch>
+<section id="syrastsicht">
+<table id="tbl_id3149549">
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3153750" xml-lang="en-US" l10n="E">
+<image id="img_id3153049" src="cmd/sc_gridvisible.png" width="0.1665inch" height="0.1665inch"><alt id="alt_id3153049" xml-lang="en-US">Icon</alt>
+	</image></paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3155536" xml-lang="en-US" l10n="CHG" oldref="4">Display Grid</paragraph>
+</tablecell>
+</tablerow>
+</table>
+
+</section>
+</body>
+</helpdocument>

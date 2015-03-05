@@ -1,0 +1,6971 @@
+#. extracted from scaddins/source/analysis
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-08 01:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date before or after a specified number of workdays"
+msgstr "ត្រឡប់​លេខ​ស៊េរី​​កាលបរិច្ឆេទ​​មុន ឬ​ក្រោយ ចំនួន​ថ្ងៃ​ធ្វើការ​ដែល​បាន​បញ្ជាក់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"4\n"
+"string.text"
+msgid "Days"
+msgstr "ថ្ងៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"5\n"
+"string.text"
+msgid "The number of workdays before or after the start date"
+msgstr "ចំនួន​ថ្ងៃ​ធ្វើការ មុន​ ឬ​​ក្រោយ​កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "ថ្ងៃ​សម្រាក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"7\n"
+"string.text"
+msgid "List of date values of days off (vacation, holidays, etc.)"
+msgstr "បញ្ជី​តម្លៃ​កាលបរិច្ឆេទ​នៃ​ថ្ងៃ​ឈប់​ (វិស្សមកាល ថ្ងៃ​សម្រាក​ ។ល។)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"1\n"
+"string.text"
+msgid "Returns the number of years (including fractional part) between two dates"
+msgstr "ត្រឡប់​ចំនួន​ឆ្នាំ (រួម​ទាំង​ផ្នែក​ទសភាគ) រវាង​កាលបរិច្ឆេទ​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "កាលបរិច្ឆេទ​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "កាលបរិច្ឆេទ​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"6\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"7\n"
+"string.text"
+msgid "Basis indicates the day-count convention to use in the calculation"
+msgstr "បង្ហាញ​ជា​មូលដ្ឋាន​អំពី​សម្មតិកម្ម​ចំនួន​ថ្ងៃ​ដែល​ត្រូវ​ប្រើ​នៅ​ក្នុង​ការ​គណនា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date that is a specified number of months before or after the start date"
+msgstr "ត្រឡប់​លេខ​ស៊េរី​នៃ​កាល​បរិច្ឆេទ​ដែល​ជា​ចំនួន​ខែ​ដែល​បាន​បញ្ជាក់ មុន ឬ​បន្ទាប់​ពី​កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "ខែ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "ចំនួន​ខែ មុន​ ឬ​ ក្រោយ​កាលបរិច្ឆេទ​ចាប់ផ្តើម​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of the calendar week in which the specified date occurs."
+msgstr "ត្រឡប់​ចំនួន​សប្តាហ៍​ប្រតិទិន​នៃ​កាល​បរិច្ឆេទ​ដែល​បាន​បញ្ជាក់ ។"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "កាល​​បរិច្ឆេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"3\n"
+"string.text"
+msgid "The date"
+msgstr "កាលបរិច្ឆេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"4\n"
+"string.text"
+msgid "Return type"
+msgstr "ប្រភេទ​ត្រឡប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"5\n"
+"string.text"
+msgid "Indicates the first day of the week (1 = Sunday, other values = Monday)"
+msgstr "បង្ហាញ​ថ្ងៃ​ទី​មួយ​នៃ​សប្ដាហ៍ (១ = ថ្ងៃអាទិត្យ តម្លៃ​ផ្សេងទៀត = ថ្ងៃចន្ទ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the last day of the month that comes a certain number of months before or after the start date"
+msgstr "ត្រឡប់​លេខ​ស៊េរី​នៃ​ថ្ងៃ​ចុង​ក្រោយ​នៃ​ខែ ដែល​ជា​ចំនួន​ខែ​ជាក់លាក់ មុន ឬ​បន្ទាប់​ពី​កាល​បរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "ខែ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "ចំនួន​ខែ មុន​ ឬ​ ក្រោយ​កាលបរិច្ឆេទ​ចាប់ផ្តើម​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of workdays between two dates"
+msgstr "ត្រឡប់​ចំនួន​ថ្ងៃ​ធ្វើការ​ រវាង​កាលបរិច្ឆេទ​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "កាលបរិច្ឆេទ​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "កាលបរិច្ឆេទ​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "កាលបរិច្ឆេទ​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "ថ្ងៃ​សម្រាក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"7\n"
+"string.text"
+msgid "List of date values representing days off (vacation, holidays, etc.)"
+msgstr "បញ្ជី​តម្លៃ​កាលបរិច្ឆេទ តំណាង​ឲ្យ​ថ្ងៃ​ឈប់​ (វិស្សមកាល ថ្ងៃ​សម្រាក​ ។ល។)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is even"
+msgstr "ត្រឡប់​តម្លៃ​  'ពិត' ​បើ​ចំនួន​ជា​លេខ​គូ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is odd"
+msgstr "ត្រឡប់​តម្លៃ​ 'ពិត'​ ​បើ​ចំនួន​ជា​លេខ​សេស​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"1\n"
+"string.text"
+msgid "Returns the multinomial coefficient of a set of numbers"
+msgstr "ត្រឡប់​មេគុណ​ពហុធា​នៃ​​សំណុំ​ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers for which you want the multinomial coefficient"
+msgstr "ចំនួន ​ឬ​ បញ្ជី​ចំនួន​​ដែល​អ្នក​ចង់​គណនា​រក​​មេគុណ​ពហុធា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of a power series"
+msgstr "ត្រឡប់​ផល​បូក នៃ​ស៊េរី​ស្វ័យ​គុណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"3\n"
+"string.text"
+msgid "The independent variable of the power series"
+msgstr "អថេរ​ឯករាជ្យ នៃ​ស៊េរី​ស្វ័យ​គុណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"5\n"
+"string.text"
+msgid "The initial power to which x is to be raised"
+msgstr "ស្វ័យគុណ​ដំបូង​ដែល ​x ​ត្រូវ​បាន​លើក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"6\n"
+"string.text"
+msgid "M"
+msgstr "M"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"7\n"
+"string.text"
+msgid "The increment by which to increase n for each term in the series"
+msgstr "ចំនួន​បន្ថែម​​ដែល​បង្កើន ​n ​សម្រាប់​តួ​នីមួយៗ​ក្នុង​ស៊េរី"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"8\n"
+"string.text"
+msgid "Coefficients"
+msgstr "មេគុណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"9\n"
+"string.text"
+msgid "Set of coefficients by which each successive power of the variable x is multiplied"
+msgstr "សំណុំ​​មេគុណ ដែល​ស្វ័យគុណ​បន្ត​គ្នា​នីមួយៗ​​​នៃ​អថេរ​ x ​ត្រូវ​បាន​គុណ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"1\n"
+"string.text"
+msgid "Returns the integer portion of a division"
+msgstr "ត្រឡប់​ផល​ចែក​គត់ ​នៃ​វិធី​ចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "ភាគ​យក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "តំណាងចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "ភាគបែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "តួ​ចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"1\n"
+"string.text"
+msgid "Returns a number rounded to a specified multiple"
+msgstr "ត្រឡប់​ចំនួន​ដែល​បាន​បង្គត់ ទៅ​ជា​ពហុគុណ​ជាក់លាក់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"3\n"
+"string.text"
+msgid "The number to round off"
+msgstr "ចំនួន​ដែល​ត្រូវ​បង្គត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"4\n"
+"string.text"
+msgid "Multiple"
+msgstr "ពហុគុណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"5\n"
+"string.text"
+msgid "The multiple to which you want to round number"
+msgstr "ពហុគុណ​ដែល​អ្នក​ចង់​បង្គត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a number which has been multiplied by pi"
+msgstr "ត្រឡប់​ឫស​ការេ នៃ​ចំនួន​ដែល​បាន​គុណ​នឹង​​ pi"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"3\n"
+"string.text"
+msgid "The number by which pi is multiplied"
+msgstr "ចំនួន​ដែល​គុណ​ជាមួយ​ pi"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"1\n"
+"string.text"
+msgid "Returns a random integer between the numbers you specify"
+msgstr "ត្រឡប់​ចំនួន​គត់​ចៃដន្យ រវាង​ចំនួន​ដែល​អ្នក​បញ្ជាក់​លម្អិត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"2\n"
+"string.text"
+msgid "Bottom"
+msgstr "បាត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"3\n"
+"string.text"
+msgid "The smallest integer returned"
+msgstr "ចំនួន​គត់​តូច​បំផុត​ដែល​​បាន​ត្រឡប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"4\n"
+"string.text"
+msgid "Top"
+msgstr "កំពូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"5\n"
+"string.text"
+msgid "The largest integer returned"
+msgstr "ចំនួន​គត់​ធំ​បំផុត​​ដែល​បាន​ត្រឡប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"1\n"
+"string.text"
+msgid "Returns the greatest common divisor"
+msgstr "ត្រឡប់​តួ​ចែក​រួម​ធំ​បំផុត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "ចំនួន ​ឬ​បញ្ជី​ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"1\n"
+"string.text"
+msgid "Returns the least common multiple"
+msgstr "ត្រឡប់​ពហុគុណ​រួម​តូច​បំផុត​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "ចំនួន ​ឬ​បញ្ជី​ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"1\n"
+"string.text"
+msgid "Returns the modified Bessel function In(x)"
+msgstr "ត្រឡប់​អនុគមន៍​ Bessel In(x)​ ដែល​បាន​កែប្រែ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "តម្លៃ​ដែល​អនុគមន៍​ត្រូវ​បាន​​វាយ​តម្លៃ​នៅ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "លំដាប់​អនុគមន៍ Bessel"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Jn(x)"
+msgstr "ត្រឡប់​អនុគមន៍ Bessel Jn(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "តម្លៃ​ដែល​អនុគមន៍​ត្រូវ​បាន​​វាយ​តម្លៃ​នៅ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "លំដាប់​អនុគមន៍ Bessel"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Kn(x)"
+msgstr "ត្រឡប់​អនុគមន៍​ Bessel Kn(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "តម្លៃ​ដែល​អនុគមន៍​ត្រូវ​បាន​​វាយ​តម្លៃ​នៅ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "លំដាប់​អនុគមន៍ Bessel"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Yn(x)"
+msgstr "ត្រឡប់​អនុគមន៍​ Bessel Yn(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "តម្លៃ​ដែល​អនុគមន៍​ត្រូវ​បាន​​វាយ​តម្លៃ​នៅ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "លំដាប់​អនុគមន៍ Bessel"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to an octal number"
+msgstr "បម្លែង​ចំនួន​គោល​ពីរ​ ទៅ​ជា​ចំនួន​គោល​ប្រាំ​បី"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "ចំនួន​គោល​ពីរ ​ដែល​ត្រូវ​បម្លែង ​(ជា​អក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a decimal number"
+msgstr "បម្លែង​ចំនួន​គោល​ពីរ​ ទៅ​ជា​ចំនួន​គោល​ដប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "ចំនួន​គោល​ពីរ ​ដែល​ត្រូវ​បម្លែង ​(ជា​អក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a hexadecimal number"
+msgstr "បម្លែង​ចំនួន​គោល​ពីរ​ ទៅ​ជា​ចំនួន​គោល​ដប់​ប្រាំ​មួយ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "ចំនួន​គោល​ពីរ ​ដែល​ត្រូវ​បម្លែង ​(ជា​អក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used."
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ ​។"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a binary number"
+msgstr "បម្លែង​ចំនួន​គោល​ប្រាំ​បី ​ទៅ​ជា​ចំនួន​គោល​ពីរ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "ចំនួន​គោល​ប្រាំ​បី ដែល​ត្រូវ​បម្លែង​ (ជាអក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a decimal number"
+msgstr "បម្លែង​ចំនួន​គោល​ប្រាំ​បី ​ទៅ​ជា​ចំនួន​គោល​ដប់​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "ចំនួន​គោល​ប្រាំ​បី ដែល​ត្រូវ​បម្លែង​ (ជាអក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a hexadecimal number"
+msgstr "បម្លែង​ចំនួន​គោល​ប្រាំ​បី ​ទៅ​ជា​ចំនួន​គោល​ដប់​ប្រាំ​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "ចំនួន​គោល​ប្រាំ​បី ដែល​ត្រូវ​បម្លែង​ (ជាអក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a binary number"
+msgstr "បម្លែង​ចំនួន​គោល​ដប់ ​ទៅ​ជា​ចំនួន​គោល​ពីរ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "ចំនួន​គត់​គោល​ដប់ ​ដែល​ត្រូវ​បម្លែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a hexadecimal number"
+msgstr "បម្លែង​ចំនួន​គោល​ដប់ ​ទៅ​ជា​ចំនួន​គោល​ដប់​ប្រាំ​មួយ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "ចំនួន​គត់​គោល​ដប់ ​ដែល​ត្រូវ​បម្លែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number into an octal number"
+msgstr "បម្លែង​ចំនួន​គោល​ដប់ ​ទៅ​ជា​ចំនួន​គោល​ប្រាំ​បី"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "ចំនួន​គោល​ដប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a binary number"
+msgstr "បម្លែង​ចំនួន​គោល​ដប់​ប្រាំ​មួយ​ ទៅ​ជា​ចំនួន​គោល​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "ចំនួន​គោល​ដប់​ប្រាំ​មួយ​ ដែល​ត្រូវ​បម្លែង​ (ជា​អក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a decimal number"
+msgstr "បម្លែង​ចំនួន​គោល​ដប់​ប្រាំ​មួយ​ ទៅ​ជា​ចំនួន​គោល​ដប់​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "ចំនួន​គោល​ដប់​ប្រាំ​មួយ​ ដែល​ត្រូវ​បម្លែង​ (ជា​អក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to an octal number"
+msgstr "បម្លែង​ចំនួន​គោល​ដប់​ប្រាំ​មួយ ​ទៅ​ជា​ចំនួន​គោល​ប្រាំ​បី"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "ចំនួន​គោល​ដប់​ប្រាំ​មួយ​ ដែល​ត្រូវ​បម្លែង​ (ជា​អក្សរ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ខ្ទង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ចំនួន​ខ្ទង់​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"1\n"
+"string.text"
+msgid "Tests whether two values are equal"
+msgstr "សាកល្បង​ថា ​តើ​តម្លៃ​ពីរ​ស្មើ​គ្នា​ឬ​ទេ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"2\n"
+"string.text"
+msgid "Number 1"
+msgstr "ចំនួន ១"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"3\n"
+"string.text"
+msgid "The first number"
+msgstr "ចំនួន​ទី​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"4\n"
+"string.text"
+msgid "Number 2"
+msgstr "ចំនួន ២"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"5\n"
+"string.text"
+msgid "The second number"
+msgstr "ចំនួន​ទី​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"1\n"
+"string.text"
+msgid "Returns the error function"
+msgstr "ត្រឡប់​អនុគមន៍​កំហុស"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "លីមីត​ក្រោម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "លីមីត​ក្រោម​ សម្រាប់​ការ​រួម​បញ្ចូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"4\n"
+"string.text"
+msgid "Upper limit"
+msgstr "លីមីត​លើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"5\n"
+"string.text"
+msgid "The upper limit for integration"
+msgstr "លីមីត​លើ សម្រាប់​ការ​រួមបញ្ចូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"1\n"
+"string.text"
+msgid "Returns the complementary error function"
+msgstr "ត្រឡប់​អនុគមន៍​កំហុស​បំពេញ​ឲ្យ​គ្នា​ទៅ​វិញ​ទៅ​មក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "លីមីត​ក្រោម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "លីមីត​ក្រោម​ សម្រាប់​ការ​រួម​បញ្ចូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"1\n"
+"string.text"
+msgid "Tests whether a number is greater than a threshold value"
+msgstr "សាកល្បង​ថា ​តើ​ចំនួន​មួយ​ធំ​ជាង​តម្លៃ​ជំហាន​ឬ​ទេ ?"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"3\n"
+"string.text"
+msgid "The value to test against step"
+msgstr "តម្លៃ​ត្រូវ​សាកល្បង​ទល់​នឹង​ជំហាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"4\n"
+"string.text"
+msgid "Step"
+msgstr "ជំហាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"5\n"
+"string.text"
+msgid "The threshold value"
+msgstr "តម្លៃ​កម្រិត​ពន្លឺ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"1\n"
+"string.text"
+msgid "Returns the double factorial of Number"
+msgstr "ត្រឡប់​ហ្វាក់តូរីយ្យែល​ទ្វេ​នៃ​ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"1\n"
+"string.text"
+msgid "Returns the absolute value (modulus) of a complex number"
+msgstr "ត្រឡប់​តម្លៃ​ដាច់​ខាត​ (modulus) នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"1\n"
+"string.text"
+msgid "Returns the imaginary coefficient of a complex number"
+msgstr "ត្រឡប់​មេគុណ​ប្រឌិត នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"1\n"
+"string.text"
+msgid "Returns a complex number raised to a real power"
+msgstr "ត្រឡប់​ចំនួន​កុំផ្លិច ដែល​បាន​លើក​ជា​ស្វ័យគុណ​គត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"4\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"5\n"
+"string.text"
+msgid "Power to which the complex number is raised"
+msgstr "ស្វ័យគុណ​ ដែល​ចំនួន​កុំផ្លិច​ត្រូវ​បាន​លើក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"1\n"
+"string.text"
+msgid "Returns the argument theta, an angle expressed in radians"
+msgstr "ត្រឡប់​តែតា​អាគុយម៉ង់ មុំ​មួយ​ដែល​គិត​ជា​រ៉ាដ្យ៉ង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"1\n"
+"string.text"
+msgid "Returns the cosine of a complex number"
+msgstr "ត្រឡប់​កូស៊ីនុស នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"1\n"
+"string.text"
+msgid "Returns the quotient of two complex numbers"
+msgstr "ត្រឡប់​ផល​ចែក​ នៃ​ចំនួន​កុំផ្លិច​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "ភាគ​យក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "តំណាងចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "ភាគបែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "តួ​ចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"1\n"
+"string.text"
+msgid "Returns the algebraic form of the exponential of a complex number"
+msgstr "ត្រឡប់​ទម្រង់​ពិជគណិត​នៃ​អិចស្ប៉ូណង់ស្យែល នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"1\n"
+"string.text"
+msgid "Returns the complex conjugate of a complex number"
+msgstr "ត្រឡប់​ការ​បំបែក​ស្មុគ​ស្មាញ នៃ​ចំនួន​កុំផ្លិច​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"1\n"
+"string.text"
+msgid "Returns the natural logarithm of a complex number"
+msgstr "ត្រឡប់​លោការីត​ធម្មជាតិ ​នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"1\n"
+"string.text"
+msgid "Returns the base-10 logarithm of a complex number"
+msgstr "ត្រឡប់​លោការីត​គោល​ដប់​នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"1\n"
+"string.text"
+msgid "Returns the base-2 logarithm of a complex number"
+msgstr "ត្រឡប់​​លោការីត​គោល​ពីរ ​នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"1\n"
+"string.text"
+msgid "Returns the product of several complex numbers"
+msgstr "ត្រឡប់​ផលគុណ ​នៃ​ចំនួន​កុំផ្លិច​ច្រើន​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"3\n"
+"string.text"
+msgid "The first complex number"
+msgstr "ចំនួន​កុំផ្លិច​ទីមួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"4\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"5\n"
+"string.text"
+msgid "Another complex number"
+msgstr "ចំនួន​កុំផ្លិច​ផ្សេង​ទៀត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"1\n"
+"string.text"
+msgid "Returns the real coefficient of a complex number"
+msgstr "ត្រឡប់​មេគុណ​ពិត នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"1\n"
+"string.text"
+msgid "Returns the sine of a complex number"
+msgstr "ត្រឡប់​ស៊ីនុស នៃ​ចំនួន​កុំផ្លិច​​មួយ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"1\n"
+"string.text"
+msgid "Returns the difference of two complex numbers"
+msgstr "ត្រឡប់​ផលដក នៃ​ចំនួន​កុំផ្លិច​​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"2\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "ចំនួន​កុំផ្លិច​​ទី​ ១"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"3\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "ចំនួន​កុំផ្លិច​​ទី​ ១"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"4\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "ចំនួន​កុំផ្លិច​​ទី​ ២"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"5\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "ចំនួន​កុំផ្លិច​​ទី​ ២"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a complex number"
+msgstr "ត្រឡប់​ឫស​ការេ នៃ​​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of complex numbers"
+msgstr "ត្រឡប់​ផលបូក​នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"1\n"
+"string.text"
+msgid "Returns the tangent of a complex number"
+msgstr "ត្រឡប់​តង់សង់​នៃ​ចំនួន​កុំផ្លិច​​មួយ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"1\n"
+"string.text"
+msgid "Returns the secant of a complex number"
+msgstr "ត្រឡប់​ស៊ីនុស នៃ​ចំនួន​កុំផ្លិច​​មួយ​"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"1\n"
+"string.text"
+msgid "Returns the cosecant of a complex number"
+msgstr "ត្រឡប់​កូស៊ីនុស នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"1\n"
+"string.text"
+msgid "Returns the cotangent of a complex number"
+msgstr "ត្រឡប់​កូតង់សង់ នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic sine of a complex number"
+msgstr "ត្រឡប់​​ស៊ីនុស​អ៊ីពែរបូល នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosine of a complex number"
+msgstr "ត្រឡប់​កូស៊ីនុស​អ៊ីពែរបូល នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic secant of a complex number"
+msgstr "ត្រឡប់​ស៊ីនុស​អ៊ីពែរបូល នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosecant of a complex number"
+msgstr "ត្រឡប់​កូស៊ីនុស​អ៊ីពែរបូល នៃ​ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ចំនួន​កុំផ្លិច"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"1\n"
+"string.text"
+msgid "Converts real and imaginary coefficients into a complex number"
+msgstr "បម្លែង​មេគុណ​ពិត ​និង​ប្រឌិត​ ទៅ​ជា​ចំនួន​កុំផ្លិច​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"2\n"
+"string.text"
+msgid "Real num"
+msgstr "ចំនួន​ពិត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"3\n"
+"string.text"
+msgid "The real coefficient"
+msgstr "មេគុណ​ពិត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"4\n"
+"string.text"
+msgid "I num"
+msgstr "ចំនួន I"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"5\n"
+"string.text"
+msgid "The imaginary coefficient"
+msgstr "មេគុណ​ប្រឌិត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"6\n"
+"string.text"
+msgid "Suffix"
+msgstr "បច្ច័យ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"7\n"
+"string.text"
+msgid "The suffix"
+msgstr "បច្ច័យ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"1\n"
+"string.text"
+msgid "Converts a number from one measurement system to another"
+msgstr "បម្លែង​ចំនួន​មួយ ​ពី​ប្រព័ន្ធ​រង្វាស់​មួយ​ទៅ​មួយ​ផ្សេង​ទៀត"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"4\n"
+"string.text"
+msgid "From unit"
+msgstr "ពី​ឯកតា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"5\n"
+"string.text"
+msgid "Unit of measure for number"
+msgstr "ឯកតា​រង្វាស់​សម្រាប់​ចំនួន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"6\n"
+"string.text"
+msgid "To unit"
+msgstr "ទៅ​ជា​ឯកតា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"7\n"
+"string.text"
+msgid "Unit of measure for the result"
+msgstr "ឯកតា​រង្វាស់​សម្រាប់​លទ្ធផល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "ត្រឡប់​ការ​រំលោះ​ជា​​បន្តបន្ទាប់​ដែល​អាច​លៃ​តាម​ចំនួន​នៃ​ទ្រព្យសកម្ម ​សម្រាប់​កំឡុង​ពេល​គណនេយ្យ​នីមួយៗ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "ថ្លៃដើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "ថ្លៃ​ដើម​នៃ​ទ្រព្យសកម្ម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "កាលបរិច្ឆេទ​ទិញ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "កាលបរិច្ឆេទ​ទិញ​ទ្រព្យសកម្ម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "កំឡុងពេល​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"7\n"
+"string.text"
+msgid "Date the first period ends"
+msgstr "កាលបរិច្ឆេទ​ដែល​កំឡុងពេល​ដំបូង​នឹង​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "តម្លៃ​​​សង្គ្រោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"9\n"
+"string.text"
+msgid "Salvage value of an asset at the end of its life"
+msgstr "តម្លៃ​​​សង្គ្រោះ​​របស់​ទ្រព្យ​សកម្ម​ នៅ​ចុង​បញ្ចប់​អាយុកាល​​​របស់​វា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "កំឡុងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "កំឡុងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "អត្រា​​រំលោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "មូលដ្ឋាន​ឆ្នាំ​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "ត្រឡប់​ការ​រំលោះ​ជា​​បន្តបន្ទាប់​ដែល​អាច​លៃ​តាម​ចំនួន​នៃ​ទ្រព្យសកម្ម ​សម្រាប់​កំឡុង​ពេល​គណនេយ្យ​នីមួយៗ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "ថ្លៃដើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "ថ្លៃ​ដើម​នៃ​ទ្រព្យសកម្ម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "កាលបរិច្ឆេទ​ទិញ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "កាលបរិច្ឆេទ​ទិញ​ទ្រព្យសកម្ម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "កំឡុងពេល​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"7\n"
+"string.text"
+msgid "The date the first period ends"
+msgstr "កាលបរិច្ឆេទ​ដែល​កំឡុងពេល​ដំបូង​​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "តម្លៃ​​​សង្គ្រោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"9\n"
+"string.text"
+msgid "The salvage value of an asset at the end of its life"
+msgstr "តម្លៃ​​​សង្គ្រោះ​​របស់​ទ្រព្យ​សកម្ម នៅ​ចុង​បញ្ចប់​អាយុកាល​​របស់​វា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "កំឡុងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "កំឡុងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "អត្រា​​រំលោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "មូលដ្ឋាន​ឆ្នាំ​ដែល​ត្រូវ​ប្រើ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays periodic interest"
+msgstr "ត្រឡប់​​​ប្រាក់​ការ​កើន​ឡើង សម្រាប់​មូលប័ត្រ​​ដែល​បង់​ការ​ប្រាក់​តាម​ពេល​​កំណត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"3\n"
+"string.text"
+msgid "Issue date of the security"
+msgstr "កាល​បរិច្ឆេទ​ចេញ​ផ្សាយ​នៃ​មូលប័ត្រ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"4\n"
+"string.text"
+msgid "First interest"
+msgstr "ការ​ប្រាក់​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"5\n"
+"string.text"
+msgid "First interest date of the security"
+msgstr "កាល​បរិច្ឆេទ​ការ​ប្រាក់​ដំបូង​នៃ​មូលប័ត្រ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"6\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"7\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"10\n"
+"string.text"
+msgid "Par"
+msgstr "ចុះ​លើ​ប័ណ្ណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"11\n"
+"string.text"
+msgid "The par value"
+msgstr "តម្លៃ​ចុះ​លើ​ប័ណ្ណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays interest at maturity"
+msgstr "ត្រឡប់​ប្រាក់​ការ​កើន​ឡើង សម្រាប់​មូលប័ត្រ​​ដែល​បង់​ការ​ប្រាក់​នៅ​ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"3\n"
+"string.text"
+msgid "The issue date"
+msgstr "កាលបរិច្ឆេទ​ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"4\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"5\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"8\n"
+"string.text"
+msgid "Par"
+msgstr "ចុះ​លើ​ប័ណ្ណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"9\n"
+"string.text"
+msgid "The par value"
+msgstr "តម្លៃ​ចុះ​លើ​ប័ណ្ណ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"1\n"
+"string.text"
+msgid "Returns the amount paid out at maturity for a fully invested security"
+msgstr "ត្រឡប់​ចំនួន​ត្រូវ​បង់​នៅ​ថ្ងៃ​ដល់​កំណត់​បង់ សម្រាប់​មូលប័ត្រ​ដែល​បាន​វិនិយោគ​ទាំងស្រុង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "វិនិយោគទុន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "វិនិយោគទុន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"8\n"
+"string.text"
+msgid "Discount"
+msgstr "អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"9\n"
+"string.text"
+msgid "The discount"
+msgstr "អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"1\n"
+"string.text"
+msgid "Returns the discount rate for a security"
+msgstr "ត្រឡប់​អត្រា​អប្បហារ ​សម្រាប់​មូលប័ត្រ​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"1\n"
+"string.text"
+msgid "Returns the annual Macaulay duration of a security with periodic interest payments"
+msgstr "ត្រឡប់​កំឡុងពេល ​Macaulay ប្រចាំ​ឆ្នាំ របស់​មូលប័ត្រ​ដោយ​​បង់​ការ​ប្រាក់​តាម​កាលកំណត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "គូប៉ុង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "អត្រា​គូប៉ុង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"1\n"
+"string.text"
+msgid "Returns the effective annual interest rate"
+msgstr "ត្រឡប់​អត្រា​ការ​ប្រាក់​​​​​ប្រចាំ​ឆ្នាំ​ជាក់ស្តែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"2\n"
+"string.text"
+msgid "Nominal rate"
+msgstr "អត្រា​​នាមករណ៍"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"3\n"
+"string.text"
+msgid "The nominal rate"
+msgstr "អត្រា​នាមករណ៍"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "Npery"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "កំឡុងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative principal on a loan to be paid between two periods"
+msgstr "ត្រឡប់​ប្រាក់​ដើម​សន្សំ​លើ​ប្រាក់​កម្ចី ​ដែល​ត្រូវ​បង់​រវាង​កំឡុងពេល​ពីរ ។"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "Nper"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "ចំនួន​កំឡុងពេល​បង់​ប្រាក់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "Pv"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "តម្លៃ​បច្ចុប្បន្ន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "កំឡុង​ពេល​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "កំឡុងពេល​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "កំឡុង​ពេល​​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "កំឡុងពេល​​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "ប្រភេទ​ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative interest to be paid between two periods"
+msgstr "ត្រឡប់​ការ​ប្រាក់​សន្សំ ​ដែល​ត្រូវ​បង់​រវាង​កំឡុងពេល​ពីរ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "Nper"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "ចំនួន​កំឡុងពេល​បង់​ប្រាក់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "Pv"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "តម្លៃ​បច្ចុប្បន្ន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "កំឡុង​ពេល​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "កំឡុងពេល​ចាប់ផ្តើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "កំឡុង​ពេល​​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "កំឡុងពេល​​បញ្ចប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "ប្រភេទ​ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays periodic interest"
+msgstr "ត្រឡប់​ថ្លៃ​ក្នុង​ឯកតា​តម្លៃ​សន្មត​នៃ​រូបិយប័ណ្ណ ១០០ របស់​មូលប័ត្រ​ដែល​បង់​ការ​ប្រាក់​តាម​ពេល​កំណត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a discounted security"
+msgstr "ត្រឡប់​ថ្លៃ​ក្នុង​ឯកតា​តម្លៃ​​សន្មត​នៃ​រូបិយប័ណ្ណ ១០០ របស់​​មូលប័ត្រ​អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"7\n"
+"string.text"
+msgid "The discount"
+msgstr "អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays interest at maturity"
+msgstr "ត្រឡប់​ថ្លៃ​ក្នុង​ឯកតា​តម្លៃ​​សន្មត​នៃ​រូបិយប័ណ្ណ ១០០ របស់​មូលប័ត្រ​​ដែល​បង់​ការ​ប្រាក់​នៅ​ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "កាលបរិច្ឆេទ​ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"1\n"
+"string.text"
+msgid "Returns the Macaulay modified duration for a security with an assumed par value of 100 currency units"
+msgstr "ត្រឡប់​កំឡុង​ពេល​ដែល​បាន​កែ​ប្រែ Macaulay សម្រាប់​​មូលប័ត្រ ដោយ​តម្លៃ​ធម្មតា​ដែល​បាន​សន្មត​នៃ​ឯកតា​រូបិយប័ណ្ណ ​១០០"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "គូប៉ុង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "អត្រា​គូប៉ុង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"1\n"
+"string.text"
+msgid "Returns the annual nominal interest rate"
+msgstr "ត្រឡប់​អត្រា​ការ​ប្រាក់​នាម​ករណ៍​ប្រចាំ​ឆ្នាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"2\n"
+"string.text"
+msgid "Effective rate"
+msgstr "អត្រា​​ជាក់ស្តែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"3\n"
+"string.text"
+msgid "The effective interest rate"
+msgstr "អត្រា​ការ​ប្រាក់​ជាក់ស្តែង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "Npery"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "កំឡុងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a decimal into a price expressed as a fraction"
+msgstr "បម្លែង​ថ្លៃ​គិត​ជា​ទសភាគ ទៅ​ជា​ថ្លៃ​គិត​ជា​ប្រភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"2\n"
+"string.text"
+msgid "Decimal dollar"
+msgstr "ដុល្លារ​ទសភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "ចំនួន​គោល​ដប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "ប្រភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "តួ​ចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a fraction into a price expressed as a decimal"
+msgstr "បម្លែងថ្លៃ​គិត​ជា​ប្រភាគ ទៅ​ជា​ថ្លៃ​គិត​ជា​ទសភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"2\n"
+"string.text"
+msgid "Fractional dollar"
+msgstr "ដុល្លារ​ប្រភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"3\n"
+"string.text"
+msgid "The number as a fraction"
+msgstr "ចំនួន​ជា​ប្រភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "ប្រភាគ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "តួ​ចែក"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield on a security that pays periodic interest"
+msgstr "ត្រឡប់​ចំណូល​លើ​មូលប័ត្រ ដែល​បង់​ការ​ប្រាក់​តាម​ពេល​កំណត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"8\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"9\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield for a discounted security"
+msgstr "ត្រឡប់​ចំណូល​​ប្រចាំ​ឆ្នាំ សម្រាប់​មូលប័ត្រ​​អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield of a security that pays interest at maturity"
+msgstr "ត្រឡប់​ចំណូល​ប្រចាំ​ឆ្នាំ​នៃ​មូលប័ត្រ​មួយ ដែល​បង់​​ការ​​ប្រាក់​​នៅ​​ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "កាលបរិច្ឆេទ​ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"1\n"
+"string.text"
+msgid "Returns the bond-equivalent yield for a treasury bill"
+msgstr "ត្រឡប់​ចំណូល​សមមូល​នឹង​ប័ណ្ណ​បំណុល ​សម្រាប់​ប័ណ្ណ​រតនាគារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "អត្រា​អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price of 100 currency units face value for a treasury bill"
+msgstr "ត្រឡប់​ថ្លៃ​ក្នុង​ឯកតា​តម្លៃសន្មត​នៃ​រូបិយប័ណ្ណ ១០០ សម្រាប់​​ប័ណ្ណ​រតនាគារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "អត្រា​អប្បហារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield for a treasury bill"
+msgstr "ត្រឡប់​ចំណូល សម្រាប់​ប័ណ្ណ​រតនាគារ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd first period"
+msgstr "ត្រឡប់​ថ្លៃ​ក្នុង​ឯកតា​តម្លៃសន្មត $១០០ របស់​មូលប័ត្រ​ ដោយ​កំឡុង​ពេល​ដំបូង​​សេស"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "កាលបរិច្ឆេទ​ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "គូប៉ុង​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "កាលបរិច្ឆេទ​គូប៉ុង​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"12\n"
+"string.text"
+msgid "Yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"13\n"
+"string.text"
+msgid "The yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd first period"
+msgstr "ត្រឡប់​ចំណូល​​មូលប័ត្រ ដោយ​កំឡុង​ពេល​ដំបូង​សេស"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "កាលបរិច្ឆេទ​ការ​ចេញ​ផ្សាយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "គូប៉ុង​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "កាលបរិច្ឆេទ​គូប៉ុង​ដំបូង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"12\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"13\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd last period"
+msgstr "ត្រឡប់​ថ្លៃ​ក្នុង​ឯកតា​តម្លៃ​សន្មត $១០០ របស់​មូលប័ត្រ​ ដោយ​កំឡុង​ពេល​ចុង​ក្រោយ​​សេស"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "ការ​ប្រាក់​ចុង​ក្រោយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "កាលបរិច្ឆេទ​​ការ​ប្រាក់​ចុង​ក្រោយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "ចំណូល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd last period"
+msgstr "ត្រឡប់​ចំណូល​​មូលប័ត្រ​មួយ​ ជា​មួយ​កំឡុង​ពេល​ចុង​ក្រោយ​សេស"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "ការ​ប្រាក់​ចុង​ក្រោយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "កាលបរិច្ឆេទ​​ការ​ប្រាក់​ចុង​ក្រោយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "ថ្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"1\n"
+"string.text"
+msgid "Returns the internal rate of return for a non-periodic schedule of payments"
+msgstr "ត្រឡប់​អត្រា​ខាង​ក្នុង​នៃ​ការ​ត្រឡប់ សម្រាប់​ការ​បង់​ប្រាក់​តាម​តារាង​ពេល​មិន​កំណត់​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"2\n"
+"string.text"
+msgid "Values"
+msgstr "តម្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"3\n"
+"string.text"
+msgid "The values"
+msgstr "តម្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"4\n"
+"string.text"
+msgid "Dates"
+msgstr "កាលបរិច្ឆេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"5\n"
+"string.text"
+msgid "The dates"
+msgstr "កាលបរិច្ឆេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"6\n"
+"string.text"
+msgid "Guess"
+msgstr "ស្មាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"7\n"
+"string.text"
+msgid "The guess"
+msgstr "ការស្មាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"1\n"
+"string.text"
+msgid "Returns the net present value for a non-periodic schedule of payments"
+msgstr "ត្រឡប់​តម្លៃ​បច្ចុប្បន្ន​សុទ្ធ សម្រាប់​ការ​បង់​ប្រាក់​តាម​តារាង​ពេល​មិន​កំណត់​មួយ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "អត្រា"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"4\n"
+"string.text"
+msgid "Values"
+msgstr "តម្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"5\n"
+"string.text"
+msgid "The values"
+msgstr "តម្លៃ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"6\n"
+"string.text"
+msgid "Dates"
+msgstr "កាលបរិច្ឆេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"7\n"
+"string.text"
+msgid "The dates"
+msgstr "កាលបរិច្ឆេទ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"1\n"
+"string.text"
+msgid "Returns the interest rate for a fully invested security"
+msgstr "ត្រឡប់​អត្រា​ការ​ប្រាក់ សម្រាប់​មូលប័ត្រ​​ដែល​បាន​វិនិយោគ​ទាំងស្រុង"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "វិនិយោគទុន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "វិនិយោគទុន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ការ​លោះ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "តម្លៃ​វត្ថុបញ្ជាំ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"1\n"
+"string.text"
+msgid "Returns the first coupon date after the settlement date"
+msgstr "ត្រឡប់​កាល​បរិច្ឆេទ​​គូប៉ុង​ដំបូង បន្ទាប់​ពី​​កាលបរិច្ឆេទ​ទូ​ទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days in the coupon period containing the settlement date"
+msgstr "ត្រឡប់​ចំនួន​ថ្ងៃ​​ ក្នុង​​រយៈពេល​គូប៉ុង​ដែល​មាន​កាលបរិច្ឆេទ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the settlement date to the next coupon date"
+msgstr "ត្រឡប់​ចំនួន​ថ្ងៃ​ ចាប់​ពី​កាល​បរិច្ឆេទ​ទូទាត់​ រហូត​ដល់​កាលបរិច្ឆេទ​គូប៉ុង​បន្ទាប់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the beginning of the coupon period to the settlement date"
+msgstr "ត្រឡប់​ចំនួន​នៃ​ថ្ងៃ ពី​ដើម​នៃ​រយៈពេល​គូប៉ុង រហូត​ដល់​កាលបរិច្ឆេទ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"1\n"
+"string.text"
+msgid "Returns the last coupon date preceding the settlement date"
+msgstr "ត្រឡប់​កាល​បរិច្ឆេទ​គូប៉ុង​ចុង​ក្រោយ មុន​កាល​បរិច្ឆេទ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of coupons payable between the settlement and maturity dates"
+msgstr "ត្រឡប់​ចំនួន​គូប៉ុង​ដែល​អាច​បង់ រវាង​កាលបរិច្ឆេទ​ទូទាត់ និង​ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "ការ​ទូទាត់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ថ្ងៃ​ដល់​កំណត់​បង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ប្រេកង់"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "មូលដ្ឋាន"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"1\n"
+"string.text"
+msgid "Returns the future value of the initial principal after a series of compound interest rates are applied"
+msgstr "ត្រឡប់​តម្លៃ​អនាគត​ប្រាក់​ដើម​ដំបូង ​បន្ទាប់​ពី​អនុវត្ត​ស៊េរី​នៃ​អត្រា​ការ​ប្រាក់​សមាស"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"2\n"
+"string.text"
+msgid "Principal"
+msgstr "ប្រាក់​ដើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"3\n"
+"string.text"
+msgid "The principal"
+msgstr "ប្រាក់​ដើម"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"4\n"
+"string.text"
+msgid "Schedule"
+msgstr "តារាងពេល"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"5\n"
+"string.text"
+msgid "The schedule"
+msgstr "តារាងពេល"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Workday\n"
+"string.text"
+msgid "WORKDAY"
+msgstr "WORKDAY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yearfrac\n"
+"string.text"
+msgid "YEARFRAC"
+msgstr "YEARFRAC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Edate\n"
+"string.text"
+msgid "EDATE"
+msgstr "EDATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Weeknum\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "WEEKNUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Eomonth\n"
+"string.text"
+msgid "EOMONTH"
+msgstr "EOMONTH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Networkdays\n"
+"string.text"
+msgid "NETWORKDAYS"
+msgstr "NETWORKDAYS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amordegrc\n"
+"string.text"
+msgid "AMORDEGRC"
+msgstr "AMORDEGRC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amorlinc\n"
+"string.text"
+msgid "AMORLINC"
+msgstr "AMORLINC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrint\n"
+"string.text"
+msgid "ACCRINT"
+msgstr "ACCRINT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrintm\n"
+"string.text"
+msgid "ACCRINTM"
+msgstr "ACCRINTM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Received\n"
+"string.text"
+msgid "RECEIVED"
+msgstr "RECEIVED"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Disc\n"
+"string.text"
+msgid "DISC"
+msgstr "DISC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Duration\n"
+"string.text"
+msgid "DURATION"
+msgstr "DURATION"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Effect\n"
+"string.text"
+msgid "EFFECT"
+msgstr "EFFECT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumprinc\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "CUMPRINC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumipmt\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "CUMIPMT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Price\n"
+"string.text"
+msgid "PRICE"
+msgstr "PRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricedisc\n"
+"string.text"
+msgid "PRICEDISC"
+msgstr "PRICEDISC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricemat\n"
+"string.text"
+msgid "PRICEMAT"
+msgstr "PRICEMAT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mduration\n"
+"string.text"
+msgid "MDURATION"
+msgstr "MDURATION"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Nominal\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "NOMINAL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarfr\n"
+"string.text"
+msgid "DOLLARFR"
+msgstr "DOLLARFR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarde\n"
+"string.text"
+msgid "DOLLARDE"
+msgstr "DOLLARDE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yield\n"
+"string.text"
+msgid "YIELD"
+msgstr "YIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yielddisc\n"
+"string.text"
+msgid "YIELDDISC"
+msgstr "YIELDDISC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yieldmat\n"
+"string.text"
+msgid "YIELDMAT"
+msgstr "YIELDMAT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbilleq\n"
+"string.text"
+msgid "TBILLEQ"
+msgstr "TBILLEQ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillprice\n"
+"string.text"
+msgid "TBILLPRICE"
+msgstr "TBILLPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillyield\n"
+"string.text"
+msgid "TBILLYIELD"
+msgstr "TBILLYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfprice\n"
+"string.text"
+msgid "ODDFPRICE"
+msgstr "ODDFPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfyield\n"
+"string.text"
+msgid "ODDFYIELD"
+msgstr "ODDFYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlprice\n"
+"string.text"
+msgid "ODDLPRICE"
+msgstr "ODDLPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlyield\n"
+"string.text"
+msgid "ODDLYIELD"
+msgstr "ODDLYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xirr\n"
+"string.text"
+msgid "XIRR"
+msgstr "XIRR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xnpv\n"
+"string.text"
+msgid "XNPV"
+msgstr "XNPV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Intrate\n"
+"string.text"
+msgid "INTRATE"
+msgstr "INTRATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupncd\n"
+"string.text"
+msgid "COUPNCD"
+msgstr "COUPNCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdays\n"
+"string.text"
+msgid "COUPDAYS"
+msgstr "COUPDAYS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaysnc\n"
+"string.text"
+msgid "COUPDAYSNC"
+msgstr "COUPDAYSNC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaybs\n"
+"string.text"
+msgid "COUPDAYBS"
+msgstr "COUPDAYBS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Couppcd\n"
+"string.text"
+msgid "COUPPCD"
+msgstr "COUPPCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupnum\n"
+"string.text"
+msgid "COUPNUM"
+msgstr "COUPNUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Fvschedule\n"
+"string.text"
+msgid "FVSCHEDULE"
+msgstr "FVSCHEDULE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Iseven\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "ISEVEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Isodd\n"
+"string.text"
+msgid "ISODD"
+msgstr "ISODD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gcd\n"
+"string.text"
+msgid "GCD"
+msgstr "GCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Lcm\n"
+"string.text"
+msgid "LCM"
+msgstr "LCM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Multinomial\n"
+"string.text"
+msgid "MULTINOMIAL"
+msgstr "MULTINOMIAL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Seriessum\n"
+"string.text"
+msgid "SERIESSUM"
+msgstr "SERIESSUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Quotient\n"
+"string.text"
+msgid "QUOTIENT"
+msgstr "QUOTIENT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mround\n"
+"string.text"
+msgid "MROUND"
+msgstr "MROUND"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Sqrtpi\n"
+"string.text"
+msgid "SQRTPI"
+msgstr "SQRTPI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Randbetween\n"
+"string.text"
+msgid "RANDBETWEEN"
+msgstr "RANDBETWEEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besseli\n"
+"string.text"
+msgid "BESSELI"
+msgstr "BESSELI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselj\n"
+"string.text"
+msgid "BESSELJ"
+msgstr "BESSELJ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselk\n"
+"string.text"
+msgid "BESSELK"
+msgstr "BESSELK"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bessely\n"
+"string.text"
+msgid "BESSELY"
+msgstr "BESSELY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Dec\n"
+"string.text"
+msgid "BIN2DEC"
+msgstr "BIN2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Hex\n"
+"string.text"
+msgid "BIN2HEX"
+msgstr "BIN2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Oct\n"
+"string.text"
+msgid "BIN2OCT"
+msgstr "BIN2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Delta\n"
+"string.text"
+msgid "DELTA"
+msgstr "DELTA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Bin\n"
+"string.text"
+msgid "DEC2BIN"
+msgstr "DEC2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Hex\n"
+"string.text"
+msgid "DEC2HEX"
+msgstr "DEC2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Oct\n"
+"string.text"
+msgid "DEC2OCT"
+msgstr "DEC2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erf\n"
+"string.text"
+msgid "ERF"
+msgstr "ERF"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erfc\n"
+"string.text"
+msgid "ERFC"
+msgstr "ERFC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gestep\n"
+"string.text"
+msgid "GESTEP"
+msgstr "GESTEP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Bin\n"
+"string.text"
+msgid "HEX2BIN"
+msgstr "HEX2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Dec\n"
+"string.text"
+msgid "HEX2DEC"
+msgstr "HEX2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Oct\n"
+"string.text"
+msgid "HEX2OCT"
+msgstr "HEX2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imabs\n"
+"string.text"
+msgid "IMABS"
+msgstr "IMABS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imaginary\n"
+"string.text"
+msgid "IMAGINARY"
+msgstr "IMAGINARY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Impower\n"
+"string.text"
+msgid "IMPOWER"
+msgstr "IMPOWER"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imargument\n"
+"string.text"
+msgid "IMARGUMENT"
+msgstr "IMARGUMENT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcos\n"
+"string.text"
+msgid "IMCOS"
+msgstr "IMCOS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imdiv\n"
+"string.text"
+msgid "IMDIV"
+msgstr "IMDIV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imexp\n"
+"string.text"
+msgid "IMEXP"
+msgstr "IMEXP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imconjugate\n"
+"string.text"
+msgid "IMCONJUGATE"
+msgstr "IMCONJUGATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imln\n"
+"string.text"
+msgid "IMLN"
+msgstr "IMLN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog10\n"
+"string.text"
+msgid "IMLOG10"
+msgstr "IMLOG10"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog2\n"
+"string.text"
+msgid "IMLOG2"
+msgstr "IMLOG2"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Improduct\n"
+"string.text"
+msgid "IMPRODUCT"
+msgstr "IMPRODUCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imreal\n"
+"string.text"
+msgid "IMREAL"
+msgstr "IMREAL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsin\n"
+"string.text"
+msgid "IMSIN"
+msgstr "IMSIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsub\n"
+"string.text"
+msgid "IMSUB"
+msgstr "IMSUB"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsum\n"
+"string.text"
+msgid "IMSUM"
+msgstr "IMSUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsqrt\n"
+"string.text"
+msgid "IMSQRT"
+msgstr "IMSQRT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imtan\n"
+"string.text"
+msgid "IMTAN"
+msgstr "IMTAN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsec\n"
+"string.text"
+msgid "IMSEC"
+msgstr "IMSECH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsc\n"
+"string.text"
+msgid "IMCSC"
+msgstr "IMCSC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcosh\n"
+"string.text"
+msgid "IMCOSH"
+msgstr "IMCOSH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsch\n"
+"string.text"
+msgid "IMCSCH"
+msgstr "IMCSCH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Complex\n"
+"string.text"
+msgid "COMPLEX"
+msgstr "COMPLEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Bin\n"
+"string.text"
+msgid "OCT2BIN"
+msgstr "OCT2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Dec\n"
+"string.text"
+msgid "OCT2DEC"
+msgstr "OCT2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Hex\n"
+"string.text"
+msgid "OCT2HEX"
+msgstr "OCT2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Convert\n"
+"string.text"
+msgid "CONVERT"
+msgstr "CONVERT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Factdouble\n"
+"string.text"
+msgid "FACTDOUBLE"
+msgstr "FACTDOUBLE"

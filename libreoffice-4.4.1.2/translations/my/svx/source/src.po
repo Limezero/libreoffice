@@ -1,0 +1,1192 @@
+#. extracted from svx/source/src
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-11 23:24+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr "သတိပေးချက်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADTEMPLATE\n"
+"string.text"
+msgid "$(ERR) loading the template $(ARG1)"
+msgstr "$(ARG1) ပုံစံပြား ဆွဲတင်နေသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ARG1) မှတ်တမ်းမှတ်ရာ သိမ်းသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEASDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ARG1) မှတ်တမ်းမှတ်ရာ သိမ်းသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCINFO\n"
+"string.text"
+msgid "$(ERR) displaying doc. information for document $(ARG1)"
+msgstr "$(ERR) ပြသသော doc. မှတ်တမ်းမှတ်ရာ $(ARG1) အတွက် သတင်းအချက်အလက်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCTEMPLATE\n"
+"string.text"
+msgid "$(ERR) writing document $(ARG1) as template"
+msgstr "$(ARG1) ပုံစံပြားအဖြစ် ‌မှတ်တမ်းမှတ်ရာ ရေးသည့် $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_MOVEORCOPYCONTENTS\n"
+"string.text"
+msgid "$(ERR) copying or moving document contents"
+msgstr "မှတ်တမ်းမှတ်ရာ မာတိကာများ မိတ္တူကူးယူသော (သို့) ရွှေ့ပြောင်းသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCMANAGER\n"
+"string.text"
+msgid "$(ERR) starting the Document Manager"
+msgstr "မှတ်တမ်းမှတ်ရာ မန်နေဂျာ စတင်လုပ်ဆောင်နေသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_OPENDOC\n"
+"string.text"
+msgid "$(ERR) loading document $(ARG1)"
+msgstr "$(ARG1) မှတ်တမ်းမှတ်ရာ ဆွဲတင်သည့် $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOCDIRECT\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "မှတ်တမ်းမှတ်ရာ အသစ်တစ်ခု ဖန်တီးသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOC\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "မှတ်တမ်းမှတ်ရာ အသစ်တစ်ခု ဖန်တီးသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_CREATEOBJSH\n"
+"string.text"
+msgid "$(ERR) expanding entry"
+msgstr "$(ERR) တိုးချဲ့ ဝင်ရောက်မှု"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADBASIC\n"
+"string.text"
+msgid "$(ERR) loading BASIC of document $(ARG1)"
+msgstr "$(ARG1) မှတ်တမ်းမှတ်ရာ၏ BASIC ဆွဲတင်နေသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SEARCHADDRESS\n"
+"string.text"
+msgid "$(ERR) searching for an address"
+msgstr "ကွန်ရက် လိပ်စာတစ်ခုအတွက် ရှာဖွေသော $(ERR)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ABORT\n"
+"string.text"
+msgid "Abort"
+msgstr "ရပ်တန့်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent object"
+msgstr "တကယ်မရှိသော အရာဝတ္ထု"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ALREADYEXISTS\n"
+"string.text"
+msgid "Object already exists"
+msgstr "အရာဝတ္ထု အဆင်သင့် တည်ရှိသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ACCESS\n"
+"string.text"
+msgid "Object not accessible"
+msgstr "အရာဝတ္ထု သုံးခွင့် မရပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PATH\n"
+"string.text"
+msgid "Inadmissible path"
+msgstr "လက်မခံနိုင်သော လမ်းကြောင်း"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_LOCKING\n"
+"string.text"
+msgid "Locking problem"
+msgstr "သော့ကျသွားသောပြဿနာ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PARAMETER\n"
+"string.text"
+msgid "Wrong parameter"
+msgstr "ကိုယ်စားပြုတန်ဖိုး မှားယွင်းသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SPACE\n"
+"string.text"
+msgid "Resource exhausted"
+msgstr "ရင်းမြစ် ကုန်ခမ်းသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTSUPPORTED\n"
+"string.text"
+msgid "Action not supported"
+msgstr "လုပ်ဆောင်ချက်မရှိပါ"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_READ\n"
+"string.text"
+msgid "Read-Error"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ဖတ်ခြင်း-အမှား\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ဖတ်သော-အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_WRITE\n"
+"string.text"
+msgid "Write Error"
+msgstr "ရေးသွင်းမှု အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_UNKNOWN\n"
+"string.text"
+msgid "unknown"
+msgstr "မသိသော"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_VERSION\n"
+"string.text"
+msgid "Version Incompatibility"
+msgstr "ဗားရှင်းပုံစံ ကိုက်ညီမှုမရှိပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_GENERAL\n"
+"string.text"
+msgid "General Error"
+msgstr "အထွေထွေ အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_FORMAT\n"
+"string.text"
+msgid "Incorrect format"
+msgstr "မှားယွင်းသော စီစဉ်ဖွဲ့စည်းမှုပုံစံ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_CREATE\n"
+"string.text"
+msgid "Error creating object"
+msgstr "အရာဝတ္ထုဖန်တီးမှုအမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SBX\n"
+"string.text"
+msgid "Inadmissible value or data type"
+msgstr "လက်မခံနိုင်သောတန်ဖိုး(သို့)အချက်အလက်ပုံစံ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_RUNTIME\n"
+"string.text"
+msgid "BASIC runtime error"
+msgstr "BASIC လုပ်ဆောင်ချိန် အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_COMPILER\n"
+"string.text"
+msgid "BASIC syntax error"
+msgstr "BASIC ဝါကျထုံးဖွဲ့မှုအမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"1\n"
+"string.text"
+msgid "General Error"
+msgstr "အထွေထွေ အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_GENERAL\n"
+"string.text"
+msgid "General input/output error."
+msgstr "အထွေထွေ အသွင်း/အထုတ် အမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_MISPLACEDCHAR\n"
+"string.text"
+msgid "Invalid file name."
+msgstr "ဖိုင်အမည်မှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent file."
+msgstr "ဖိုင်မတည်ရှိပါ။"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ALREADYEXISTS\n"
+"string.text"
+msgid "File already exists."
+msgstr ""
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ဖိုင် အဆင်သင့် တည်ရှိသည်\n"
+"#-#-#-#-#  classes.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ဖိုင်ရှိပြီးဖြစ်သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTADIRECTORY\n"
+"string.text"
+msgid "The object is not a directory."
+msgstr "အရာဝတ္ထုသည် ဒိုင်ယာထရီတစ်ခု မဟုတ်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTAFILE\n"
+"string.text"
+msgid "The object is not a file."
+msgstr "အရာဝတ္ထုသည် ဖိုင်‌တစ်ခု မဟုတ်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDDEVICE\n"
+"string.text"
+msgid "The specified device is invalid."
+msgstr "သတ်မှတ်ထားသောကိရိယာမှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ACCESSDENIED\n"
+"string.text"
+msgid ""
+"The object cannot be accessed\n"
+"due to insufficient user rights."
+msgstr ""
+"အရာဝတ္ထု သွားရောက်မရယူနိုင်ပါ \n"
+"အသုံးပြုသူ၏ အခွင့်အရေးမလုံလောက်သောကြောင့်ဖြစ်သည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_LOCKVIOLATION\n"
+"string.text"
+msgid "Sharing violation while accessing the object."
+msgstr "အရာဝတ္ထုများ သွားရောက်ရယူစဉ် ချိုးဖောက်မှုဖြစ်ခြင်း။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFSPACE\n"
+"string.text"
+msgid "No more space on device."
+msgstr "ကိရိယာပေါ်တွင် နေရာလွတ်များမရှိပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ISWILDCARD\n"
+"string.text"
+msgid ""
+"This operation cannot be run on\n"
+"files containing wildcards."
+msgstr ""
+"ဤလုပ်ဆောင်မှုသည် \n"
+"wildcards ပါဝင်သောဖိုင်များတွင်မလုပ်ဆောင်နိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSUPPORTED\n"
+"string.text"
+msgid "This operation is not supported on this operating system."
+msgstr "ဤကွန်ပျူတာလည်ပတ်မှုစနစ် ပရိုဂရမ်ပေါ်တွင် ဤလုပ်ဆောင်ချက် အထောက်အကူမပြုပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_TOOMANYOPENFILES\n"
+"string.text"
+msgid "There are too many files open."
+msgstr "ဖိုင်အမြောက်အများဖွင့်ထားသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTREAD\n"
+"string.text"
+msgid "Data could not be read from the file."
+msgstr "ဖိုင်မှ အချက်အလက်များ မဖတ်နိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTWRITE\n"
+"string.text"
+msgid "The file could not be written."
+msgstr "ဖိုင် မရေးနိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFMEMORY\n"
+"string.text"
+msgid "The operation could not be run due to insufficient memory."
+msgstr "မှတ်ဉာဏ်မလုံလောက်မှုကြောင့် လုပ်ဆောင်ချက်မပြု နိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTSEEK\n"
+"string.text"
+msgid "The seek operation could not be run."
+msgstr "ကြိုးပမ်းရှာဖွေလုပ်ဆောင်မှုမရှိနိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTTELL\n"
+"string.text"
+msgid "The tell operation could not be run."
+msgstr "စကားပြောလုပ်ဆောင်မှုမရှိနိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGVERSION\n"
+"string.text"
+msgid "Incorrect file version."
+msgstr "မှားယွင်းသော ဖိုင်ဗားရှင်းပုံစံ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGFORMAT\n"
+"string.text"
+msgid "Incorrect file format."
+msgstr "ဖိုင်စီစဉ်ဖွဲ့စည်းမှု ပုံစံအမှား"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDCHAR\n"
+"string.text"
+msgid "The file name contains invalid characters."
+msgstr "ဖိုင်အမည်တွင် မှားယွင်းသော အက္ခရာများ ပါဝင်သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_UNKNOWN\n"
+"string.text"
+msgid "An unknown I/O error has occurred."
+msgstr "မသိသော I/O အမှားတစ်ခု ဖြစ်ပွားသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDACCESS\n"
+"string.text"
+msgid "An invalid attempt was made to access the file."
+msgstr "ဖိုင်ကိုသွားရောက်ရယူရန်မှားယွင်းသောကြိုးပမ်းအားထုတ်မှုတစ်ခုပြုခဲ့သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTCREATE\n"
+"string.text"
+msgid "The file could not be created."
+msgstr "ဖိုင် မဖန်တီးနိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDPARAMETER\n"
+"string.text"
+msgid "The operation was started under an invalid parameter."
+msgstr "မှားယွင်းသော ကိုယ်စားပြုတန်ဖိုးများအောက်တွင် စတင်ဆောင်ရွက်ခဲ့သည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ABORT\n"
+"string.text"
+msgid "The operation on the file was aborted."
+msgstr "ဖိုင်လုပ်ဆောင်မှုရပ်တန့်ခဲ့သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTSPATH\n"
+"string.text"
+msgid "Path to the file does not exist."
+msgstr "ဖိုင်သို့ လမ်းကြောင်း မတည်ရှိပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_RECURSIVE\n"
+"string.text"
+msgid "An object cannot be copied into itself."
+msgstr "အရာဝတ္ထုတစ်ခုသည် ၎င်းအတွင်းသို့ ကိုယ်တိုင်မိတ္တူမကူးယူနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOSTDTEMPLATE\n"
+"string.text"
+msgid "The default template could not be opened."
+msgstr "နဂိုမူလ ပုံစံပြားအား မဖွင့်နိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TEMPLATENOTFOUND\n"
+"string.text"
+msgid "The specified template could not be found."
+msgstr "သတ်မှတ် ပုံစံပြား ရှာမတွေ့နိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTATEMPLATE\n"
+"string.text"
+msgid "The file cannot be used as template."
+msgstr "ပုံစံပြားကဲ့သို့ ဖိုင် အသုံးမပြု နိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTREADDOCINFO\n"
+"string.text"
+msgid ""
+"Document information could not be read from the file because\n"
+"the document information format is unknown or because document information does not\n"
+"exist."
+msgstr ""
+"ဖိုင်မှ မှတ်တမ်းမှတ်ရာ သတင်းအချက်အလက် မဖတ်နိုင်ခြင်းမှာ \n"
+"မသိသော (သို့မဟုတ်) \n"
+"မတည်ရှိသောကြောင့် ဖြစ်သည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_ALREADYOPEN\n"
+"string.text"
+msgid "This document has already been opened for editing."
+msgstr "တည်းဖြတ်ရန်အတွက် ဤမှတ်တမ်းမှတ်ရာ အဆင်သင့် ဖွင့်ထားသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGPASSWORD\n"
+"string.text"
+msgid "The wrong password has been entered."
+msgstr "စကားဝှက်အမှားဖြင့် ဝင်ရောက်ခဲ့သည်။"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOLOADFAILED\n"
+"string.text"
+msgid "Error reading file."
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ဖိုင်ဖတ်စဉ်အမှား\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ဖိုင်ဖတ်စဉ်အမှား။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENTREADONLY\n"
+"string.text"
+msgid "The document was opened as read-only."
+msgstr "မှတ်တမ်းမှတ်ရာကို ဖတ်ရန်အတွက်သာ ဖွင့်ထားသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_OLEGENERAL\n"
+"string.text"
+msgid "General OLE Error."
+msgstr "အထွေထွေ OLE အမှား။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_NAME_RESOLVE\n"
+"string.text"
+msgid "The host name $(ARG1) could not be resolved."
+msgstr "အိမ်ရှင်အမည်  $(ARG1) မဖြေရှင်းနိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_CONNECT\n"
+"string.text"
+msgid "Could not establish Internet connection to $(ARG1)."
+msgstr "$(ARG1) သို့ အင်တာနက် ချိတ်ဆက်ထားမှုမရှိပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_READ\n"
+"string.text"
+msgid ""
+"Error reading data from the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+"အင်တာနက်မှ ဖတ်သော အချက်အလက်အမှား \n"
+"ဆာဗာမှ အမှာစာ ပေးပို့မှုအမှား $(ARG1)။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_WRITE\n"
+"string.text"
+msgid ""
+"Error transferring data to the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+"အင်တာနက်သို့ အချက်အလက်များ ပေးပို့စဉ် အမှား \n"
+"ဆာဗာမှ အမှာစာ ပေးပို့မှုအမှား $(ARG1)။ "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_GENERAL\n"
+"string.text"
+msgid "General Internet error has occurred."
+msgstr "အထွေထွေ အင်တာနက် အမှား ဖြစ်ပွားသည်"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_OFFLINE\n"
+"string.text"
+msgid "The requested Internet data is not available in the cache and cannot be transmitted as the Online mode has not be activated."
+msgstr "တောင်းဆိုသည့် အင်တာနက် အချက်အလက်များကို ကက်ခ်ျတွင် အသုံးမပြု နိုင်ပါ။ အွန်လိုင်းမှ ပေးပို့ဆက်သွယ်ထားခြင်းမရှိပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFXMSG_STYLEREPLACE\n"
+"string.text"
+msgid "Should the $(ARG1) Style be replaced?"
+msgstr "$(ARG1)ပုံစံကိုအစားထိုးသင့်ပါသလား။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOFILTER\n"
+"string.text"
+msgid "A filter has not been found."
+msgstr "စစ်ထုတ်ကိရိယာ ရှာမတွေ့ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTFINDORIGINAL\n"
+"string.text"
+msgid "The original could not be determined."
+msgstr "မူလအတိုင်း မဆုံးဖြတ်နိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATECONTENT\n"
+"string.text"
+msgid "The contents could not be created."
+msgstr "မာတိကာများ မဖန်တီးနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATELINK\n"
+"string.text"
+msgid "The link could not be created."
+msgstr "ချိတ်ဆက် မဖန်တီးနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGBMKFORMAT\n"
+"string.text"
+msgid "The link format is invalid."
+msgstr "ချိတ်ဆက်စီစဉ်ဖွဲ့စည်းမှုပုံစံမှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display is invalid."
+msgstr "ပြသထားသောအိုင်ကွန်၏အစိတ်အပိုင်းများဖွဲ့စည်းပုံမှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display can not be saved."
+msgstr "ပြသထားသော အိုင်ကွန်၏ အစိတ်အပိုင်းများ ဖွဲ့စည်းပုံကို မသိမ်းနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTDELICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display could not be deleted."
+msgstr "ပြသထားသော အိုင်ကွန်၏ အစိတ်အပိုင်းများ ဖွဲ့စည်းပုံကို မဖျက်နိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMECONTENT\n"
+"string.text"
+msgid "Contents cannot be renamed."
+msgstr "မာတိကာများကို အမည်ပြန်မပေးနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDBMKPATH\n"
+"string.text"
+msgid "The bookmark folder is invalid."
+msgstr "စာညှပ်များပါဝင်သည့်ဖိုင်တွဲမှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEURLCFGFILE\n"
+"string.text"
+msgid "The configuration of the URLs to be saved locally could not be saved."
+msgstr "အတွင်းပိုင်းတွင် သိမ်းထားသော URLs ၏ အစိတ်အပိုင်းများ ဖွဲ့စည်းပုံကို မသိမ်းဆည်းနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGURLCFGFORMAT\n"
+"string.text"
+msgid "The configuration format of the URLs to be saved locally is invalid."
+msgstr "အတွင်းပိုင်းတွင် သိမ်းထားသော URLs ၏ အစိတ်အပိုင်းများ ဖွဲ့စည်းပုံကို မသိမ်းဆည်းနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NODOCUMENT\n"
+"string.text"
+msgid "This action cannot be applied to a document that does not exist."
+msgstr "မှတ်တမ်းမှတ်ရာတစ်ခုသို့ ဤလုပ်ဆောင်ချက် လက်တွေ့ အသုံးမချနိုင်ပါ ထိုအရာ မတည်ရှိပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDLINK\n"
+"string.text"
+msgid "The link refers to an invalid target."
+msgstr "မှားယွင်းသော ဦးတည်ချက်တစ်ခုသို့ ချိတ်ဆက်ရည်ညွှန်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDTRASHPATH\n"
+"string.text"
+msgid "The Recycle Bin path is invalid."
+msgstr "အမှိုက်ပုံး လမ်းကြောင်း မှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTRESTORABLE\n"
+"string.text"
+msgid "The entry could not be restored."
+msgstr "အဝင် မသိုမှီးနိုင်ပါ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NAMETOOLONG\n"
+"string.text"
+msgid "The file name is too long for the target file system."
+msgstr "ဦးတည်ထားသည့် ဖိုင်စနစ်အတွင်; ဖိုင်အမည်ရှည်လျားလွန်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CONSULTUSER\n"
+"string.text"
+msgid "The details for running the function are incomplete."
+msgstr "အသေးစိတ်ကျသော ဖန်ရှင်လုပ်ဆောင်ချက်များ ပြည့်စုံမှုမရှိပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDSYNTAX\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "အချက်အလက်သွင်း ဝါကျထုံးဖွဲ့မှု မှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "အချက်အလက်သွင်း ဝါကျထုံးဖွဲ့မှု မှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "အချက်အလက်သွင်း ဝါကျထုံးဖွဲ့မှု မှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONG_CDF_FORMAT\n"
+"string.text"
+msgid "The channel document has an invalid format."
+msgstr "အစီအစဉ်လိုင်းနှင့်ပတ်သက်သည့်မှတ်တမ်းမှတ်ရာစီစဉ်ဖွဲ့စည်းမှုပုံစံမှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_EMPTY_SERVER\n"
+"string.text"
+msgid "The server must not be empty."
+msgstr "ဆာဗာအလွတ်မဖြစ်ရပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NO_ABOBOX\n"
+"string.text"
+msgid "A subscription folder is required to install a Channel."
+msgstr "အစီအစဉ်လိုင်းတစ်ခုထည့်သွင်းရန် ဖိုင်တွဲတစ်ခုလိုအပ်သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSTORABLEINBINARYFORMAT\n"
+"string.text"
+msgid ""
+"This document contains attributes that cannot be saved in the selected format.\n"
+"Please save the document in a %PRODUCTNAME %PRODUCTVERSION file format."
+msgstr ""
+"အရည်အချင်းများ ပါဝင်သည့် ဤမှတ်တမ်းမှတ်ရာကို ရွေးချယ်ထားသည့် စီစဉ်ဖွဲ့စည်းမှုပုံစံတွင် မသိမ်းထားနိုင်ပါ။ \n"
+" %PRODUCTNAME %PRODUCTVERSION ဖိုင် စီစဉ်ဖွဲ့စည်းမှု ပုံစံတစ်ခုတွင် မှတ်တမ်းမှတ်ရာကို သိမ်းပေးပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TARGETFILECORRUPTED\n"
+"string.text"
+msgid "The file $(FILENAME) cannot be saved. Please check your system settings. You can find an automatically generated backup copy of this file in folder $(PATH) named $(BACKUPNAME)."
+msgstr "$(FILENAME) ဖိုင်ကို မသိမ်းနိုင်ပါ။ သင့်ကွန်ပျူတာ၏ ပြင်ဆင်ချိန်ညှိမှုများကို စစ်ဆေးပေးပါ။ $(BACKUPNAME) ဟုအမည်ပေးထားသည့် $(PATH)  ဖိုင်တွဲအတွင်းတွင် ဤဖိုင်နှင့်ပတ်သက်၍ အလိုအလျောက် ကော်ပီကူးယူထားသည့် အရံဖိုင်တစ်ခုအား ရှာတွေ့နိုင်သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOMOREDOCUMENTSALLOWED\n"
+"string.text"
+msgid "The maximum number of documents that can be opened at the same time has been reached. You need to close one or more documents before you can open a new document."
+msgstr "ရောက်ရှိခဲ့သည့် တစ်ချိန်တည်းမှာပင် မှတ်တမ်းမှတ်ရာများ၏ အကြီးဆုံးနံပါတ်ကို ဖွင့်နိုင်သည်။ မှတ်တမ်းမှတ်ရာအသစ်တစ်ခုကို မဖွင့်မီ တစ်ခု (သို့) မြောက်များလှစွာသော မှတ်တမ်းမှတ်ရာများကို ပိတ်ရန်လိုအပ်သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEBACKUP\n"
+"string.text"
+msgid "Could not create backup copy."
+msgstr "အရံဖိုင်အားမကူးယူနိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_MACROS_SUPPORT_DISABLED\n"
+"string.text"
+msgid ""
+"An attempt was made to execute a macro.\n"
+"For security reasons, macro support is disabled."
+msgstr ""
+"မက်ခရိုလုပ်ဆောင်မှုပြုရန်ကြိုးပမ်းအားထုတ်မှုတစ်ခုဖြစ်သည်။\n"
+"လုံခြုံရေးဆိုင်ရာအကြောင်းပြချက်အရ မက်ခရိုထောက်ပံ့မှု ဆိုင်ရာ အသုံးမပြု နိုင်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED_MAC\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in %PRODUCTNAME - Preferences - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+"ဤမှတ်တမ်းမှတ်ရာတွင်မက်ခရိုများပါဝင်သည်။\n"
+"\n"
+"မက်ခရိုများတွင်ဗိုင်;ရပ်စ်များပါဝင်သည်။ ‘ကိရိယာများ-ရွေးပိုင်ခွင့်များ- %PRODUCTNAME- လုံခြုံရေးဆိုင်ရာ’များရှိ လက်ရှိမက်ခရို၏ ပြင်ဆင်ချိန်ညှိမှု များကြောင့် မက်ခရိုများ လုပ်ဆောင်မှုမပြု နိုင်ပါ။\n"
+"\n"
+"ထို့ကြောင့် လုပ်ဆောင်မှုအချို့ အသုံးဝင်နိုင်မည်မဟုတ်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in Tools - Options - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+"ဤမှတ်တမ်းမှတ်ရာတွင်မက်ခရိုများပါဝင်သည်။\n"
+"\n"
+"မက်ခရိုများတွင်ဗိုင်;ရပ်စ်များပါဝင်သည်။ ‘ကိရိယာများ-ရွေးပိုင်ခွင့်များ- %PRODUCTNAME- လုံခြုံရေးဆိုင်ရာ’များရှိ လက်ရှိမက်ခရို၏ ပြင်ဆင်ချိန်ညှိမှု များကြောင့် မက်ခရိုများ လုပ်ဆောင်မှုမပြု နိုင်ပါ။\n"
+"\n"
+"ထို့ကြောင့် လုပ်ဆောင်မှုအချို့ အသုံးဝင်နိုင်မည်မဟုတ်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_BROKENSIGNATURE\n"
+"string.text"
+msgid ""
+"The digitally signed document content and/or macros do not match the current document signature.\n"
+"\n"
+"This could be the result of document manipulation or of structural document damage due to data transmission.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+"ဒစ်ဂျစ်တယ်နည်းဖြင့် မှန်ကန်စွာထည့်သွင်းထားသော မှတ်တမ်းမှတ်ရာရှိ အကြောင်းအချက်များနှင့် /သို့  မက်ခရိုများနှင့် လက်ရှိမှတ်တမ်းမှတ်ရာတွင်ပါဝင်သော အကြောင်းအချက်များ ကိုက်ညီမှုမရှိပါ။\n"
+"\n"
+"အချက်အလက်များ လွှဲပြောင်းပေးပို့မှုကြောင့် မှတ်တမ်းမှတ်ရာရှိ ရလဒ်အဖြေများနှင့် ဖွဲ့စည်းတည်ဆောက်မှု ပုံစံများပျက်စီးသွားနိုင်သည်။\n"
+"\n"
+"ကျွန်ုပ်တို့အနေဖြင့် အကြံကောင်းပေးလိုသည်မှာ လက်ရှိမှတ်တမ်းမှတ်ရာတွင် ပါဝင်သော အကြောင်းအချက်များကို ယုံကြည်မှုမရှိပါနှင့်။\n"
+"ဤမှတ်တမ်းမှတ်ရာအတွက် မက်ခရိုဆောင်ရွက်ချက်များ လုပ်ဆောင်မှုမပြု နိုင်ပါ။\n"
+" "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INCOMPLETE_ENCRYPTION\n"
+"string.text"
+msgid ""
+"The encrypted document contains unexpected non-encrypted streams.\n"
+"\n"
+"This could be the result of document manipulation.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+"ကုဒ်များဖြင့်လျှို့ဝှက်ရေးသားထားသည့်မှတ်တမ်းမှတ်ရာတွင် မျှော်လင့်မထားသော လျှို့ဝှက်ရေးသားမထားသည့် စာကြောင်းများပါဝင်သည်။\n"
+"\n"
+"မှတ်တမ်းမှတ်ရာ ဆောင်ရွက်ချက်များ၏ အဖြေဖြစ်နိုင်သည်။\n"
+"\n"
+"ကျွန်ုပ်တို့အနေဖြင့် အကြံကောင်းပေးလိုသည်မှာ လက်ရှိမှတ်တမ်းမှတ်ရာတွင် ပါဝင်သော အကြောင်းအချက်များကိုယုံကြည်မှုမရှိပါနှင့်။\n"
+"ဤမှတ်တမ်းမှတ်ရာအတွက် မက်ခရိုလုပ်ဆောင်ချက်များ အသုံးမဝင်ဖြစ်နေသည်။\n"
+" "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDLENGTH\n"
+"string.text"
+msgid "Invalid data length."
+msgstr "အချက်အလက်အရှည်မှန်ကန်မှုမရှိပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CURRENTDIR\n"
+"string.text"
+msgid "Function not possible: path contains current directory."
+msgstr "လုပ်ဆောင်ချက်များမဖြစ်နိုင်ပါ။ လက်ရှိဒိုင်ယာထရီတွင်လမ်းကြောင်းပါဝင်သည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSAMEDEVICE\n"
+"string.text"
+msgid "Function not possible: device (drive) not identical."
+msgstr "လုပ်ဆောင်ချက်များမဖြစ်နိုင်ပါ။ ကိရိယာ(ဒရိုက်)ထပ်တူမညီပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_DEVICENOTREADY\n"
+"string.text"
+msgid "Device (drive) not ready."
+msgstr "ကိရိယာ(ဒရိုက်)အဆင်သင့်မဖြစ်ပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_BADCRC\n"
+"string.text"
+msgid "Wrong check amount."
+msgstr "စစ်ဆေးသည့်ပမာဏမှားယွင်းသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRITEPROTECTED\n"
+"string.text"
+msgid "Function not possible: write protected."
+msgstr "လုပ်ဆောင်ချက်များမဖြစ်နိုင်ပါ။ ရေးသားထည့်သွင်းမှု ကို ကာကွယ်ထားသည်။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_SHARED_NOPASSWORDCHANGE\n"
+"string.text"
+msgid ""
+"The password of a shared spreadsheet cannot be set or changed.\n"
+"Deactivate sharing mode first."
+msgstr ""
+"မျှဝေအသုံးပြုထားသောစာရွက်အချပ်လွှာ၏စကားဝှက်ကိုအသုံးမပြု နိုင်ပါ (သို့) မပြောင်းလဲနိုင်ပါ။\n"
+"ဝေမျှအသုံးပြုသည့်နည်းလမ်းကို ပထမဦးစွာ ဆောင်ရွက်မှုမပြုပါ။"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_FORMAT_ROWCOL\n"
+"string.text"
+msgid "File format error found at $(ARG1)(row,col)."
+msgstr "$(ARG1)(row,col) ၌ ဖိုင် စီစဉ် ဖွဲ့စည်းမှုပုံစံ အမှား ရှာတွေ့သည်"

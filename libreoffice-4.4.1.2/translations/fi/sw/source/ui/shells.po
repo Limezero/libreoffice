@@ -1,0 +1,454 @@
+#. extracted from sw/source/ui/shells
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-22 11:11+0200\n"
+"Last-Translator: Harri Pitkänen <hatapitk@iki.fi>\n"
+"Language-Team: Finnish <discuss@fi.libreoffice.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr "Kuvatiedostoa ei voi avata"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr "Kuvatiedostoa ei voi lukea"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr "Tuntematon kuvatiedostomuoto"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr "Tätä kuvatiedoston versiota ei tueta"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr "Kuvasuodatinta ei löytynyt"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to insert the image."
+msgstr "Muisti ei riitä kuvan lisäämiseen."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_INSERT_GRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr "Lisää kuva"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_NO_ADDRESSBOOK\n"
+"string.text"
+msgid "An Address Book does not exist"
+msgstr "Osoitekirjaa ei ole olemassa"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_COMMENT\n"
+"string.text"
+msgid "Comment: "
+msgstr "Huomautus: "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_INSERTED\n"
+"string.text"
+msgid "Insertion"
+msgstr "Lisäys"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_DELETED\n"
+"string.text"
+msgid "Deletion"
+msgstr "Poisto"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_AUTOFMT\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Automaattinen korjaus"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FORMATED\n"
+"string.text"
+msgid "Formats"
+msgstr "Muodot"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TABLECHG\n"
+"string.text"
+msgid "Table Changes"
+msgstr "Taulukon muutokset"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FMTCOLLSET\n"
+"string.text"
+msgid "Applied Paragraph Styles"
+msgstr "Käytetyt kappaletyylit"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TITLE\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Automaattinen korjaus"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_MSG\n"
+"string.text"
+msgid ""
+"AutoCorrect completed.\n"
+"You can accept or reject all changes,\n"
+"or accept or reject particular changes."
+msgstr ""
+"Automaattinen korjaus valmis.\n"
+"Voit hyväksyä tai hylätä kaikki muutokset\n"
+"tai voit hyväksyä tai hylätä yksittäisiä muutoksia."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_ACCEPT_ALL\n"
+"string.text"
+msgid "Accept All"
+msgstr "Hyväksy kaikki"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_REJECT_ALL\n"
+"string.text"
+msgid "Reject All"
+msgstr "Hylkää kaikki"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_EDIT\n"
+"string.text"
+msgid "Edit Changes"
+msgstr "Muokkaa muutoksia"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "Sivu "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT\n"
+"string.text"
+msgid "Page %1 of %2"
+msgstr "Sivu %1 / %2"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT_CUSTOM\n"
+"string.text"
+msgid "Page %1 of %2 (Page %3)"
+msgstr "Sivu %1 / %2 (Sivu %3)"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "Tekstin muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table Object Bar"
+msgstr "Taulukon muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_FRAME_TOOLBOX\n"
+"string.text"
+msgid "Frame Object Bar"
+msgstr "Kehyksen muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_GRAFIK_TOOLBOX\n"
+"string.text"
+msgid "Images Object Bar"
+msgstr "Kuvien muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_OLE_TOOLBOX\n"
+"string.text"
+msgid "Object"
+msgstr "Objekti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "Piirrosmuotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "Bézier-muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar/Images"
+msgstr "Tekstin muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_NUM_TOOLBOX\n"
+"string.text"
+msgid "Numbering Object Bar"
+msgstr "Numeroinnin muotoilurivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Teksti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Taulukko"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Kehys"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Kuva"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Objekti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_LIST\n"
+"string.text"
+msgid "List"
+msgstr "Luettelo"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "Piirros"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAWFORM\n"
+"string.text"
+msgid "Forms"
+msgstr "Lomakkeet"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_BEZIER\n"
+"string.text"
+msgid "Bézier"
+msgstr "Bézier"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW_TEXT\n"
+"string.text"
+msgid "Draw text"
+msgstr "Piirrä teksti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_MEDIA\n"
+"string.text"
+msgid "Media"
+msgstr "Media"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Siirtyminen"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Kappale"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Kuva"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_OLE\n"
+"string.text"
+msgid "OLE object"
+msgstr "OLE-objekti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Kehys"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Taulukko"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_ROW\n"
+"string.text"
+msgid "Table row"
+msgstr "Taulukon rivi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_CELL\n"
+"string.text"
+msgid "Table cell"
+msgstr "Taulukon solu"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PAGE\n"
+"string.text"
+msgid "Page"
+msgstr "Sivu"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_HEADER\n"
+"string.text"
+msgid "Header"
+msgstr "Ylätunniste"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FOOTER\n"
+"string.text"
+msgid "Footer"
+msgstr "Alatunniste"

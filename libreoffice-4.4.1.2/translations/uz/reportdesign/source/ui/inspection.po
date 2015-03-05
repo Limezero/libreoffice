@@ -1,0 +1,789 @@
+#. extracted from reportdesign/source/ui/inspection
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-12 01:16+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PROPPAGE_DEFAULT\n"
+"string.text"
+msgid "General"
+msgstr "Umumiy"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PROPPAGE_DATA\n"
+"string.text"
+msgid "Data"
+msgstr "Maʼlumot"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BOOL\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Yoʻq"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BOOL\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "Ha"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE\n"
+"string.text"
+msgid "Force New Page"
+msgstr "Yangi sahifa"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Yoʻq"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"2\n"
+"string.text"
+msgid "Before Section"
+msgstr "Boʻlimdan oldin"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"3\n"
+"string.text"
+msgid "After Section"
+msgstr "Boʻlimdan keyin"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"4\n"
+"string.text"
+msgid "Before & After Section"
+msgstr "Boʻlimdan oldin va keyin"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_NEWROWORCOL\n"
+"string.text"
+msgid "New Row Or Column"
+msgstr "Yangi satr yoki ustun"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER\n"
+"string.text"
+msgid "Keep Together"
+msgstr "Birlashtirish"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Yoʻq"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"2\n"
+"string.text"
+msgid "Whole Group"
+msgstr "Butun guruh"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"3\n"
+"string.text"
+msgid "With First Detail"
+msgstr "Ilk tafsilot bilan"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CANGROW\n"
+"string.text"
+msgid "Can Grow"
+msgstr "Kengayyadigan"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CANSHRINK\n"
+"string.text"
+msgid "Can Shrink"
+msgstr "Qisqaradigan"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPEATSECTION\n"
+"string.text"
+msgid "Repeat Section"
+msgstr "Boʻlimni takrorlash"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRINTREPEATEDVALUES\n"
+"string.text"
+msgid "Print repeated values"
+msgstr "Takrorlanadigan qiymatlarni chop etish"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CONDITIONALPRINTEXPRESSION\n"
+"string.text"
+msgid "Conditional Print Expression"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_STARTNEWCOLUMN\n"
+"string.text"
+msgid "Start new column"
+msgstr "Yangi ustun boshlash"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_STARTNEWPAGE\n"
+"string.text"
+msgid "Start new page"
+msgstr "Yangi sahifa boshlash"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_RESETPAGENUMBER\n"
+"string.text"
+msgid "Reset page number"
+msgstr "Sahifa raqamlarini olib tashlash"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CHARTTYPE\n"
+"string.text"
+msgid "Chart type"
+msgstr "Diagramma turi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRINTWHENGROUPCHANGE\n"
+"string.text"
+msgid "Print repeated value on group change"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VISIBLE\n"
+"string.text"
+msgid "Visible"
+msgstr "Koʻrinadigan"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER\n"
+"string.text"
+msgid "Group keep together"
+msgstr "Guruhlarni birlashtirish"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER_CONST\n"
+"1\n"
+"string.text"
+msgid "Per Page"
+msgstr "Sahifada"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER_CONST\n"
+"2\n"
+"string.text"
+msgid "Per Column"
+msgstr "Ustunda"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Yoʻq"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"2\n"
+"string.text"
+msgid "Section"
+msgstr "Boʻlim"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"3\n"
+"string.text"
+msgid "Automatic"
+msgstr "Avtomatik"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PAGEHEADEROPTION\n"
+"string.text"
+msgid "Page header"
+msgstr "Sahifaning ustgi kolontituli"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PAGEFOOTEROPTION\n"
+"string.text"
+msgid "Page footer"
+msgstr "Sahifaning ostgi kolontituli"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"1\n"
+"string.text"
+msgid "All Pages"
+msgstr "Barcha sahifalar"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"2\n"
+"string.text"
+msgid "Not With Report Header"
+msgstr "Hisobot ustgi kolontitulsiz"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"3\n"
+"string.text"
+msgid "Not With Report Footer"
+msgstr "Hisobot ostgi kolontitulsiz"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"4\n"
+"string.text"
+msgid "Not With Report Header/Footer"
+msgstr "Hisobot ustgi/ostgi kolontitullarsiz"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DEEPTRAVERSING\n"
+"string.text"
+msgid "Deep traversing"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PREEVALUATED\n"
+"string.text"
+msgid "Pre evaluation"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_POSITIONX\n"
+"string.text"
+msgid "Position X"
+msgstr "X holati"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_POSITIONY\n"
+"string.text"
+msgid "Position Y"
+msgstr "Y holati"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "Kengligi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "Balandligi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_INITIALFORMULA\n"
+"string.text"
+msgid "Initial value"
+msgstr "Boshlangʻich qiymat"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRESERVEIRI\n"
+"string.text"
+msgid "Preserve as Link"
+msgstr "Bogʻlama sifatida saqlash"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORMULA\n"
+"string.text"
+msgid "Formula"
+msgstr "Formula"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DATAFIELD\n"
+"string.text"
+msgid "Data field"
+msgstr "Maʼlumot maydoni"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Shrift"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BACKCOLOR\n"
+"string.text"
+msgid "Background color"
+msgstr "Orqa fon rangi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BACKTRANSPARENT\n"
+"string.text"
+msgid "Background Transparent"
+msgstr "Orqa fon shaffofligi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CONTROLBACKGROUNDTRANSPARENT\n"
+"string.text"
+msgid "Background Transparent"
+msgstr "Orqa fon shaffofligi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_OVERLAP_OTHER_CONTROL\n"
+"string.text"
+msgid "This operation is not allowed. The control overlaps with another one."
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_ILLEGAL_POSITION\n"
+"string.text"
+msgid "This position can not be set. It is invalid."
+msgstr "Xato holatni oʻrnatib boʻlmaydi."
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SCOPE_GROUP\n"
+"string.text"
+msgid "Group: %1"
+msgstr "Guruh: %1"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORMULALIST\n"
+"string.text"
+msgid "Function"
+msgstr "Funksiya"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SCOPE\n"
+"string.text"
+msgid "Scope"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE\n"
+"string.text"
+msgid "Data Field Type"
+msgstr "Ma'lumot maydoni turi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"1\n"
+"string.text"
+msgid "Field or Formula"
+msgstr "Maydon yoki formula"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"2\n"
+"string.text"
+msgid "Function"
+msgstr "Funksiya"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"3\n"
+"string.text"
+msgid "Counter"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"4\n"
+"string.text"
+msgid "User defined Function"
+msgstr "Foydalanuvchi funksiyasi"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MASTERFIELDS\n"
+"string.text"
+msgid "Link master fields"
+msgstr "Asosiy maydonlar bilan bogʻlanish"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DETAILFIELDS\n"
+"string.text"
+msgid "Link slave fields"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_EXPLANATION\n"
+"string.text"
+msgid "Charts can be used to display detailed data about the current record of the report. To do this, you can specify which columns in the chart match which columns in the report."
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DETAILLABEL\n"
+"string.text"
+msgid "Chart"
+msgstr "Diagramma"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MASTERLABEL\n"
+"string.text"
+msgid "Report"
+msgstr "Hisobot"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PREVIEW_COUNT\n"
+"string.text"
+msgid "Preview Row(s)"
+msgstr "Satr(lar)ni oldindan koʻrish"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_AREA\n"
+"string.text"
+msgid "Area"
+msgstr "Maydon"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MIMETYPE\n"
+"string.text"
+msgid "Report Output Format"
+msgstr "Hisobotning formati"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICALALIGN\n"
+"string.text"
+msgid "Vert. Alignment"
+msgstr "Vertikal tekislash"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"1\n"
+"string.text"
+msgid "Top"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqori\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqori\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqorida\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqorida\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ust\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqorida\n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ustki chegara\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqorida\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Yuqori"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"2\n"
+"string.text"
+msgid "Middle"
+msgstr "Oʻrtada"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"3\n"
+"string.text"
+msgid "Bottom"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Past\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Past\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Pastda\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Pastda\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Past\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Pastda\n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Pastki chegara\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Pastda\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Past"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST\n"
+"string.text"
+msgid "Horz. Alignment"
+msgstr "Vertikal tekislash"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"1\n"
+"string.text"
+msgid "Left"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chapda\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chapga\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chapda\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chapga\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chapdan\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chap\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chapda\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chap"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"2\n"
+"string.text"
+msgid "Right"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻngda\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻngga\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻngda\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻngda\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻng\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"O'ng\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻngda\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Oʻng"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"3\n"
+"string.text"
+msgid "Block"
+msgstr "Qora"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"4\n"
+"string.text"
+msgid "Center"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markazda\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markaz\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markazda\n"
+"#-#-#-#-#  tabpages.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markazga\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markazda\n"
+"#-#-#-#-#  accessibility.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markaz\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Markaz"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_COUNTER\n"
+"string.text"
+msgid "Counter"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_ACCUMULATION\n"
+"string.text"
+msgid "Accumulation"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_MINIMUM\n"
+"string.text"
+msgid "Minimum"
+msgstr "Minimum"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_MAXIMUM\n"
+"string.text"
+msgid "Maximum"
+msgstr "Maksimum"

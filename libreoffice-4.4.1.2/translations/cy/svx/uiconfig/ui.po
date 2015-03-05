@@ -1,0 +1,4759 @@
+#. extracted from svx/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-07 11:09+0100\n"
+"PO-Revision-Date: 2015-01-22 11:55+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421927743.000000\n"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"AcceptRejectChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Manage Changes"
+msgstr "Rheoli Newidiadau"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "_Accept"
+msgstr "_Derbyn"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"reject\n"
+"label\n"
+"string.text"
+msgid "_Reject"
+msgstr "_Gwrthod"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"acceptall\n"
+"label\n"
+"string.text"
+msgid "A_ccept All"
+msgstr "_Derbyn Popeth"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"rejectall\n"
+"label\n"
+"string.text"
+msgid "R_eject All"
+msgstr "_Gwrthod Popeth"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"AddConditionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Condition"
+msgstr "Ychwanegu Amod"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Condition:"
+msgstr "_Amod:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Result:"
+msgstr "_Canlyniad:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit Namespaces..."
+msgstr "_Golygu Gofodenwau..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Enw:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"valueft\n"
+"label\n"
+"string.text"
+msgid "_Default value:"
+msgstr "_Gwerth rhagosodedig:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Item"
+msgstr "Eitem"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"datatypeft\n"
+"label\n"
+"string.text"
+msgid "_Data type:"
+msgstr "Math o _ddata:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"required\n"
+"label\n"
+"string.text"
+msgid "_Required"
+msgstr "_Angenrheidiol"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"requiredcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Amod"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevant\n"
+"label\n"
+"string.text"
+msgid "R_elevant"
+msgstr "_Perthnasol"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevantcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Amod"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraint\n"
+"label\n"
+"string.text"
+msgid "_Constraint"
+msgstr "_Cyfyngiad"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonly\n"
+"label\n"
+"string.text"
+msgid "Read-_only"
+msgstr "Darllen yn _unig"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calc_ulate"
+msgstr "_Cyfrifo"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraintcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Amod"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonlycond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Amod"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculatecond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Amod"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Gosodiadau"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"AddInstanceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Instance"
+msgstr "Ychwanegu Enghraifft"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Enw:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Instance"
+msgstr "Golygu'r Enghraifft"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "_URL:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"link\n"
+"label\n"
+"string.text"
+msgid "_Link instance"
+msgstr "_Cysylltu enghraifft"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"AddModelDialog\n"
+"title\n"
+"string.text"
+msgid "Add Model"
+msgstr "Ychwanegu Model"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "Model data updates change document's modification status"
+msgstr "Mae diweddariadau data model yn newid statws newid dogfen"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Enw:"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Model"
+msgstr "Ailenwi Model"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"AddNamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Namespace"
+msgstr "Ychwanegu Gofod Enw"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Prefix:"
+msgstr "_Rhagddodiad:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "_URL:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Namespace"
+msgstr "Golygu Gofod Enw"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"AddSubmissionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Ychwanegu Argymhelliad"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Enw:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Binding e_xpression:"
+msgstr "Mynegiant _rhwymo:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Action:"
+msgstr "_Gweithred:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Method:"
+msgstr "_Dull:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Binding:"
+msgstr "_Rhwymiad:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Replace:"
+msgstr "_Newid:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"AsianPhoneticGuideDialog\n"
+"title\n"
+"string.text"
+msgid "Asian Phonetic Guide"
+msgstr "Asiaidd"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"basetextft\n"
+"label\n"
+"string.text"
+msgid "Base text "
+msgstr "Testun base "
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"rubytextft\n"
+"label\n"
+"string.text"
+msgid "Ruby text"
+msgstr "Testun Ruby"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Alignment:"
+msgstr "Aliniad:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Position:"
+msgstr "Safle:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styleft\n"
+"label\n"
+"string.text"
+msgid "Character style for ruby text:"
+msgstr "Nod Arddull ar gyfer testun ruby:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styles\n"
+"label\n"
+"string.text"
+msgid "Styles"
+msgstr "Arddulliau"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Chwith"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Canol"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "De"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"3\n"
+"stringlist.text"
+msgid "0 1 0"
+msgstr "0 1 0"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"4\n"
+"stringlist.text"
+msgid "1 2 1"
+msgstr "1 2 1"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"0\n"
+"stringlist.text"
+msgid "Top"
+msgstr "Brig"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"1\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "Gwaelod"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Preview:"
+msgstr "Rhagolwg:"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"ChineseConversionDialog\n"
+"title\n"
+"string.text"
+msgid "Chinese Conversion"
+msgstr "Cyfieithiad Tsieineeg"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"tosimplified\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "Tsieineeg _traddodiadol i Tsieineeg symledig"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"totraditional\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "Tsieineeg _symledig i Tsieineeg traddodiadol"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Conversion Direction"
+msgstr "Cyfeiriad Trosi"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"commonterms\n"
+"label\n"
+"string.text"
+msgid "Translate _common terms"
+msgstr "Cyfieithu _termau cyffredin"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"editterms\n"
+"label\n"
+"string.text"
+msgid "_Edit Terms..."
+msgstr "_Golygu Termau..."
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Common Terms"
+msgstr "Termau Cyffredin"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"ChineseDictionaryDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Dictionary"
+msgstr "Golygu Geiriadur"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"tradtosimple\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "Tsieineeg _traddodiadol i Tsieineeg symledig"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"simpletotrad\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "Tsieineeg _symledig i Tsieineeg traddodiadol"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"reverse\n"
+"label\n"
+"string.text"
+msgid "Reverse mapping"
+msgstr "Mapio gwrth-droi"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"termft\n"
+"label\n"
+"string.text"
+msgid "Term"
+msgstr "Term"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"mappingft\n"
+"label\n"
+"string.text"
+msgid "Mapping"
+msgstr "Mapio"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"propertyft\n"
+"label\n"
+"string.text"
+msgid "Property"
+msgstr "Priodwedd"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"0\n"
+"stringlist.text"
+msgid "Other"
+msgstr "Arall"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"1\n"
+"stringlist.text"
+msgid "Foreign"
+msgstr "Estron"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"2\n"
+"stringlist.text"
+msgid "First name"
+msgstr "Enw cyntaf"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"3\n"
+"stringlist.text"
+msgid "Last name"
+msgstr "Cyfenw"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"4\n"
+"stringlist.text"
+msgid "Title"
+msgstr "Teitl"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"5\n"
+"stringlist.text"
+msgid "Status"
+msgstr "Statws"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"6\n"
+"stringlist.text"
+msgid "Place name"
+msgstr "Enw lle"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"7\n"
+"stringlist.text"
+msgid "Business"
+msgstr "Busnes"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"8\n"
+"stringlist.text"
+msgid "Adjective"
+msgstr "Ansoddair"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"9\n"
+"stringlist.text"
+msgid "Idiom"
+msgstr "Idiom"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"10\n"
+"stringlist.text"
+msgid "Abbreviation"
+msgstr "Byrfodd"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"11\n"
+"stringlist.text"
+msgid "Numerical"
+msgstr "Rhifiadol"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"12\n"
+"stringlist.text"
+msgid "Noun"
+msgstr "Enw"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"13\n"
+"stringlist.text"
+msgid "Verb"
+msgstr "Berf"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"14\n"
+"stringlist.text"
+msgid "Brand name"
+msgstr "Enw masnachol"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "_Newid"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Recent"
+msgstr "Diweddar"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"color_picker_button\n"
+"label\n"
+"string.text"
+msgid "Custom Color…"
+msgstr "Lliw Cyfaddas…"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"CompressGraphicDialog\n"
+"title\n"
+"string.text"
+msgid "Compress Image"
+msgstr "Cywasgu Delwedd"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-lossless\n"
+"label\n"
+"string.text"
+msgid "Lossless compression"
+msgstr "Cywasgiad digoll"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"checkbox-reduce-resolution\n"
+"label\n"
+"string.text"
+msgid "Reduce image resolution"
+msgstr "Lleihau cydraniad delwedd"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Width:"
+msgstr "Lled:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "Uchder:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-jpeg\n"
+"label\n"
+"string.text"
+msgid "JPEG compression"
+msgstr "Cywasgiad JPEG"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Resolution:"
+msgstr "Cydraniad:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Quality:"
+msgstr "Ansawdd:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Compression:"
+msgstr "Cywasgiad:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Interpolation:"
+msgstr "Rhyngosodiad:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "DPI"
+msgstr "DPI"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Compression Options"
+msgstr "Dewisiadau Cywasgu"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Original size:"
+msgstr "Maint gwreiddiol:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "View size:"
+msgstr "Maint golwg:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Image capacity:"
+msgstr "Cynhwysedd delwedd:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "New capacity:"
+msgstr "Cynhwysedd newydd:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calculate"
+msgstr "Cyfrifo"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "Type:"
+msgstr "Math:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Image Information"
+msgstr "Gwybodaeth Delwedd"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Dim"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"1\n"
+"stringlist.text"
+msgid "Bilinear"
+msgstr "Deulinol"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"2\n"
+"stringlist.text"
+msgid "Bicubic"
+msgstr "Deugiwbig"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"3\n"
+"stringlist.text"
+msgid "Lanczos"
+msgstr "Lanczos"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsbutton\n"
+"label\n"
+"string.text"
+msgid "_Models"
+msgstr "_Modelau"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instance\n"
+"label\n"
+"string.text"
+msgid "Instance"
+msgstr "Enghraifft"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"submissions\n"
+"label\n"
+"string.text"
+msgid "Submissions"
+msgstr "Cyflwyniadau"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"bindings\n"
+"label\n"
+"string.text"
+msgid "Bindings"
+msgstr "Rhwymiadau"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instances\n"
+"label\n"
+"string.text"
+msgid "_Instances"
+msgstr "_Enghreifftiau"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Ychwanegu..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Golygu..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesremove\n"
+"label\n"
+"string.text"
+msgid "_Remove..."
+msgstr "_Tynnu..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesdetails\n"
+"label\n"
+"string.text"
+msgid "_Show Details"
+msgstr "Dangos _Manylion"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Ychwanegu..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Golygu..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsremove\n"
+"label\n"
+"string.text"
+msgid "_Remove"
+msgstr "_Tynnu"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"title\n"
+"string.text"
+msgid "Delete footer?"
+msgstr "Dileu troedyn?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the footer?"
+msgstr "Ydych chi'n siŵr eich bod am ddileu'r data hwn?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the footer will be deleted and can not be restored."
+msgstr "Bydd cynnwys y troedyn yn cael ei ddileu ac nid oes modd ei adfer."
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"title\n"
+"string.text"
+msgid "Delete header?"
+msgstr "Dileu pennyn?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the header?"
+msgstr "Ydych chi'n siŵr eich bod am ddileu'r pennyn?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the header will be deleted and can not be restored."
+msgstr "Bydd cynnwys y pennyn yn cael ei ddileu ac nid oes modd ei adfer."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"DocRecoveryBrokenDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "_Save"
+msgstr "_Cadw"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid ""
+"The automatic recovery process was interrupted.\n"
+"\n"
+"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+msgstr ""
+"Ymyrrwyd ar y broses o adfer awtomatig.\n"
+"\n"
+"Bydd y dogfennau rhestrir isod yn cael eu cadw yn y ffolder enwyd isod drwy glicio 'Cadw'. Cliciwch 'Diddymu' i gau'r dewin heb gadw'r dogfennau."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Documents:"
+msgstr "Dogfennau:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Save to:"
+msgstr "_Cadw i:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"change\n"
+"label\n"
+"string.text"
+msgid "Chan_ge..."
+msgstr "_Newid..."
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"DocRecoveryProgressDialog\n"
+"title\n"
+"string.text"
+msgid "Documents Are Being Saved"
+msgstr "Mae'r Dogfennau'n Cael eu Cadw"
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Progress of saving:"
+msgstr "Cynnydd cadw:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"DocRecoveryRecoverDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"next\n"
+"label\n"
+"string.text"
+msgid "_Start Recovery >"
+msgstr "_Cychwyn Adfer >"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Discard Recovery Data"
+msgstr "Hepgor Adfer Data"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"desc\n"
+"label\n"
+"string.text"
+msgid ""
+"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"\n"
+"Press 'Discard Recovery Data' to abandon attempting recovery of these documents.\n"
+"\n"
+"The 'Status' column shows whether the document can be recovered."
+msgstr ""
+"Pwyswch 'Cychwyn Adfer' i gychwyn y broses adfer y dogfennau sydd wedi eu rhestri isod.\n"
+"\n"
+"Pwyswch 'Hepgor Adfer Data' i hepgor ceisio adfer y dogfennau hyn.\n"
+"\n"
+"Mae'r golofn 'Statws' yn dangos os oes modd adfer y ddogfen."
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status of recovered documents:"
+msgstr "Statws dogfennau wedi eu hadfer:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "Document Name"
+msgstr "Enw Dogfen"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"statusft\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Statws"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Recovering document:"
+msgstr "Adfer dogfen:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "Adfer Dogfen %PRODUCTNAME"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"DocRecoverySaveDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
+msgstr "Oherwydd gwall annisgwyl chwalodd %PRODUCTNAME. Bydd yr holl ffeiliau roeddech yn gweithio arnynt yn cael eu cadw. Y tro nesaf byddwch yn cychwyn %PRODUCTNAME bydd eich ffeiliau wedi eu hadfer yn awtomatig."
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "The following files will be recovered:"
+msgstr "Bydd y ffeiliau canlynol yn cael eu hadfer:"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "Adfer Dogfen %PRODUCTNAME"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"ExtrustionDepthDialog\n"
+"title\n"
+"string.text"
+msgid "Extrusion Depth"
+msgstr "Dyfnder Allwthiad"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Value"
+msgstr "_Gwerth"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Depth"
+msgstr "Dyfnder"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"FindReplaceDialog\n"
+"title\n"
+"string.text"
+msgid "Find & Replace"
+msgstr "Canfod ac Amnewid"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"search\n"
+"label\n"
+"string.text"
+msgid "_Find Next"
+msgstr "_Canfod Nesaf"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchall\n"
+"label\n"
+"string.text"
+msgid "Find _All"
+msgstr "Canfod _Popeth"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search For"
+msgstr "_Chwilio Am"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "_Newid"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replaceall\n"
+"label\n"
+"string.text"
+msgid "Replace A_ll"
+msgstr "Newid P_opeth"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Re_place With"
+msgstr "_Amnewid Gyda"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"selection\n"
+"label\n"
+"string.text"
+msgid "C_urrent selection only"
+msgstr "_Dewis presennol yn unig"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"regexp\n"
+"label\n"
+"string.text"
+msgid "Regular e_xpressions"
+msgstr "Mynegiadau _rheolaidd"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"attributes\n"
+"label\n"
+"string.text"
+msgid "Attri_butes..."
+msgstr "_Priodweddau..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "For_mat..."
+msgstr "Ffor_mat..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"noformat\n"
+"label\n"
+"string.text"
+msgid "_No Format"
+msgstr "_Dim Fformat"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"backwards\n"
+"label\n"
+"string.text"
+msgid "Bac_kwards"
+msgstr "_Nôl"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"layout\n"
+"label\n"
+"string.text"
+msgid "Search for st_yles"
+msgstr "Chwilio am _arddulliau"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorediacritics\n"
+"label\n"
+"string.text"
+msgid "Ignore diacritics CTL"
+msgstr "Anwybyddu diocritig CTL"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similarity\n"
+"label\n"
+"string.text"
+msgid "S_imilarity search"
+msgstr "Chwilio _tebygrwydd"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similaritybtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Comments"
+msgstr "Sylwadau"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"allsheets\n"
+"label\n"
+"string.text"
+msgid "Search in all sheets"
+msgstr "Chwilio ym mhob dalen"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslike\n"
+"label\n"
+"string.text"
+msgid "Sounds like (Japanese)"
+msgstr "I'w glywed fel (Japaneeg)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslikebtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcharwidth\n"
+"label\n"
+"string.text"
+msgid "Match character width"
+msgstr "Cydweddu lled nod"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorekashida\n"
+"label\n"
+"string.text"
+msgid "Ig_nore kashida CTL"
+msgstr "_Anwybyddu CTL kashida"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchinlabel\n"
+"label\n"
+"string.text"
+msgid "Search i_n:"
+msgstr "_Chwilio yn:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"0\n"
+"stringlist.text"
+msgid "Formulas"
+msgstr "Fformiwlâu"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"1\n"
+"stringlist.text"
+msgid "Values"
+msgstr "Gwerthoedd"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"2\n"
+"stringlist.text"
+msgid "Notes"
+msgstr "Nodiadau"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchdir\n"
+"label\n"
+"string.text"
+msgid "Search _direction:"
+msgstr "Cyfeiriad c_hwilio:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"rows\n"
+"label\n"
+"string.text"
+msgid "Ro_ws"
+msgstr "_Rhesi"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"cols\n"
+"label\n"
+"string.text"
+msgid "Colu_mns"
+msgstr "_Colofnau"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Other _options"
+msgstr "_Dewisiadau eraill"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcase\n"
+"label\n"
+"string.text"
+msgid "Ma_tch case"
+msgstr "Cydweddu _maint"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"wholewords\n"
+"label\n"
+"string.text"
+msgid "Whole wor_ds only"
+msgstr "_Geiriau cyfan yn unig"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"entirecells\n"
+"label\n"
+"string.text"
+msgid "_Entire cells"
+msgstr "_Celloedd cyfan"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"FloatingContour\n"
+"title\n"
+"string.text"
+msgid "Contour Editor"
+msgstr "Golygydd Amlinell"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Gosod"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_WORKPLACE\n"
+"label\n"
+"string.text"
+msgid "Workspace"
+msgstr "Man gwaith"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Dewis"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Petryal"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elips"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Polygon"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Pwyntiau Golygu"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Pwyntiau Symud"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Pwyntiau Mewnosod"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Pwyntiau Dileu"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_AUTOCONTOUR\n"
+"label\n"
+"string.text"
+msgid "AutoContour"
+msgstr "AwtoAmlinell"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Dadwneud "
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Ail-wneud"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_PIPETTE\n"
+"label\n"
+"string.text"
+msgid "Pipette"
+msgstr "Piped"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"spinbutton\n"
+"tooltip_text\n"
+"string.text"
+msgid "Color Tolerance"
+msgstr "Goddefiad Lliw"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"FontworkGalleryDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Gallery"
+msgstr "Oriel Fontwork"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a Fontwork style:"
+msgstr "Dewis arddull Fontwork:"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"FontworkSpacingDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Character Spacing"
+msgstr "Gosod Bylchu Nod Fontwork"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Value:"
+msgstr "_Gwerth:"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "This instance is linked with the form."
+msgstr "Mae'r enghraifft yma wedi ei gysylltu â'r ffurflen."
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid ""
+"The changes you make to this instance will be lost when the form is reloaded.\n"
+"\n"
+"How do you want to proceed?"
+msgstr ""
+"Bydd y newidiadau wnaed i'r enghraifft yn cael ei golli pan fydd y ffurflen yn cael ei hail-lwytho.\n"
+"\n"
+"Sut hoffech chi barhau?"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Edit"
+msgstr "_Golygu"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkHeaderOn\n"
+"label\n"
+"string.text"
+msgid "Hea_der on"
+msgstr "_Pennyn ymlaen"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkFooterOn\n"
+"label\n"
+"string.text"
+msgid "_Footer on"
+msgstr "_Troedyn ar"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameLR\n"
+"label\n"
+"string.text"
+msgid "Same _content left/right"
+msgstr "_Yr un cynnwys chwith/de"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameFP\n"
+"label\n"
+"string.text"
+msgid "Same content on first page"
+msgstr "Yr un cynnwys ar y dudalen gyntaf"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelLeftMarg\n"
+"label\n"
+"string.text"
+msgid "_Left margin:"
+msgstr "Ymyl _chwith:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelRightMarg\n"
+"label\n"
+"string.text"
+msgid "R_ight margin:"
+msgstr "Ymyl _de:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelSpacing\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "_Bylchu:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkDynSpacing\n"
+"label\n"
+"string.text"
+msgid "Use d_ynamic spacing"
+msgstr "_Defnyddio bylchu deinamig"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeight\n"
+"label\n"
+"string.text"
+msgid "_Height:"
+msgstr "_Uchder:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkAutofit\n"
+"label\n"
+"string.text"
+msgid "_AutoFit height"
+msgstr "_AwtoFfitio uchder"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonMore\n"
+"label\n"
+"string.text"
+msgid "More..."
+msgstr "Rhagor..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonEdit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Golygu..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeaderFormat\n"
+"label\n"
+"string.text"
+msgid "Header"
+msgstr "Pennyn"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelFooterFormat\n"
+"label\n"
+"string.text"
+msgid "Footer"
+msgstr "Troedyn"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"ImapDialog\n"
+"title\n"
+"string.text"
+msgid "ImageMap Editor"
+msgstr "Golygydd ImageMap"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Gosod"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_OPEN\n"
+"label\n"
+"string.text"
+msgid "Open..."
+msgstr "Agor..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SAVEAS\n"
+"label\n"
+"string.text"
+msgid "Save..."
+msgstr "Cadw..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Dewis"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Petryal"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elips"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Polygon"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_FREEPOLY\n"
+"label\n"
+"string.text"
+msgid "Freeform Polygon"
+msgstr "Polygon Rhyddffurf"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Pwyntiau Golygu"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Pwyntiau Symud"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Pwyntiau Mewnosod"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Pwyntiau Dileu"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Dadwneud "
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Ail-wneud"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_ACTIVE\n"
+"label\n"
+"string.text"
+msgid "Active"
+msgstr "Gweithredol"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_MACRO\n"
+"label\n"
+"string.text"
+msgid "Macro..."
+msgstr "Macro..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_PROPERTY\n"
+"label\n"
+"string.text"
+msgid "Properties..."
+msgstr "Priodweddau..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Address:"
+msgstr "Cyfeiriad:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"targetft\n"
+"label\n"
+"string.text"
+msgid "Frame:"
+msgstr "Ffrâm:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"textft\n"
+"label\n"
+"string.text"
+msgid "Text:"
+msgstr "Testun:"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm Linked Graphic"
+msgstr "Cadarnhau Graffig Cysylltiedig"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "The file %FILENAME will not be stored along with your document, but only referenced as a link."
+msgstr "Ni fydd y ffeil %FILENAME yn cael ei chadw ynghyd â'ch dogfen, ond wedi ei chyfeirio fel cyswllt."
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "This is dangerous if you move and/or rename the files. Do you want to embed the graphic instead?"
+msgstr "Mae'n beryglus os ydych yn symud a/neu ailenwi'r ffeiliau. Hoffech chi fewnblannu'r graffig yn lle hynny?"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Keep Link"
+msgstr "_Cadw Cyswllt"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "_Embed Graphic"
+msgstr "_Mewnosod Graffeg"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ask\n"
+"label\n"
+"string.text"
+msgid "_Ask when linking a graphic"
+msgstr "_Gofynnwch wrth gysylltu â graffig"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"NamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Namespaces for Forms"
+msgstr "Gofod Enwau Ffurflenni"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Ychwanegu..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Golygu..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"prefix\n"
+"label\n"
+"string.text"
+msgid "Prefix"
+msgstr "Rhagddodiad"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"url\n"
+"label\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Namespaces"
+msgstr "Gofod enw"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"usegridsnap\n"
+"label\n"
+"string.text"
+msgid "_Snap to grid"
+msgstr "_Snapio i'r grid"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"gridvisible\n"
+"label\n"
+"string.text"
+msgid "_Visible grid"
+msgstr "Grid _gweladwy"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Grid"
+msgstr "Grid"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawx\n"
+"label\n"
+"string.text"
+msgid "H_orizontal:"
+msgstr "_Llorweddol:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawy\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "_Fertigol:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"synchronize\n"
+"label\n"
+"string.text"
+msgid "Synchronize a_xes"
+msgstr "Cydamseru _echelau"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Resolution"
+msgstr "Cydraniad"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "bylch(au)"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "bylch(au)"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisionx\n"
+"label\n"
+"string.text"
+msgid "Horizont_al:"
+msgstr "_Llorweddol:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisiony\n"
+"label\n"
+"string.text"
+msgid "V_ertical:"
+msgstr "F_ertigol:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Subdivision"
+msgstr "Israniad"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snaphelplines\n"
+"label\n"
+"string.text"
+msgid "To snap lines"
+msgstr "I linellau snapio"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapborder\n"
+"label\n"
+"string.text"
+msgid "To the _page margins"
+msgstr "I _ymylon y dudalen"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapframe\n"
+"label\n"
+"string.text"
+msgid "To object _frame"
+msgstr "I _ffrâm y gwrthrych"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snappoints\n"
+"label\n"
+"string.text"
+msgid "To obje_ct points"
+msgstr "I _bwyntiau'r gwrthrych"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Snap range:"
+msgstr "_Ystod snapio:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Snap"
+msgstr "Snap"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"ortho\n"
+"label\n"
+"string.text"
+msgid "_When creating or moving objects"
+msgstr "_Wrth greu neu symud gwrthrychau"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"bigortho\n"
+"label\n"
+"string.text"
+msgid "_Extend edges"
+msgstr "_Ymylon estynedig"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"rotate\n"
+"label\n"
+"string.text"
+msgid "When ro_tating:"
+msgstr "Wrth _droi:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Point reducti_on:"
+msgstr "_Lleihad pwynt:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Snap Position"
+msgstr "Pwynt Snapio"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_1\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1"
+msgstr "Bylchu: 1"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_115\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.15"
+msgstr "Bylchu: 1.15"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_15\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.5"
+msgstr "Bylchu: 1.5"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_2\n"
+"label\n"
+"string.text"
+msgid "Spacing: 2"
+msgstr "Bylchu: 2"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Line Spacing:"
+msgstr "Bylchu Llinell:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"0\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Sengl"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"1\n"
+"stringlist.text"
+msgid "1.5 Lines"
+msgstr "1.5 Llinell"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"2\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Dwbl"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"3\n"
+"stringlist.text"
+msgid "Proportional"
+msgstr "Cyfraneddol"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"4\n"
+"stringlist.text"
+msgid "At least"
+msgstr "O leiaf"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"5\n"
+"stringlist.text"
+msgid "Leading"
+msgstr "Arwain"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"6\n"
+"stringlist.text"
+msgid "Fixed"
+msgstr "Gosodedig"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"value_label\n"
+"label\n"
+"string.text"
+msgid "Value:"
+msgstr "Gwerth:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Custom Value"
+msgstr "Gwerth Cyfaddas"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Newid Cyfrinair"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpassL\n"
+"label\n"
+"string.text"
+msgid "_Password:"
+msgstr "C_yfrinair:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpass\n"
+"label\n"
+"string.text"
+msgid "Old Password"
+msgstr "Hen Gyfrinair"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Pa_ssword:"
+msgstr "C_yfrinair:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Confi_rm:"
+msgstr "C_adarnhau:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "New Password"
+msgstr "Cyfrinair Newydd"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"title\n"
+"string.text"
+msgid "Delete the contour?"
+msgstr "Dileu'r amlinell?"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"text\n"
+"string.text"
+msgid ""
+"Setting a new workspace will\n"
+"cause the contour to be deleted."
+msgstr ""
+"Bydd gosod y man gwaith newydd\n"
+"yn achosi i'r amlinell gael ei ddileu."
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Are you sure you want to continue?"
+msgstr "Ydych chi'n siŵr eich bod am barhau?"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this object?"
+msgstr "Dileu'r gwrthrych?"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this object?"
+msgstr "Ydych chi wir am ddileu'r gwrthrych?"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this theme?"
+msgstr "Dileu'r thema?"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this theme?"
+msgstr "Ydych chi wir am ddileu'r thema?"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Cadw newidiadau ImageMap?"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Mae'r ImageMap wedi newid."
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Hoffech chi gadw'r newid?"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"title\n"
+"string.text"
+msgid "Create a new contour?"
+msgstr "Creu amlinell newydd?"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to create a new contour?"
+msgstr "Creu amlinell newydd?"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save contour changes?"
+msgstr "Cadw newidiadau'r amlinell?"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The contour has been modified."
+msgstr "Mae'r amlinell wedi newid."
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Hoffech chi gadw'r newid?"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Cadw newidiadau ImageMap?"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Mae'r ImageMap wedi newid."
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Hoffech chi gadw'r newid?"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"title\n"
+"string.text"
+msgid "Unlink the graphics?"
+msgstr "Datgysylltu'r graffig?"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"text\n"
+"string.text"
+msgid "This graphic object is linked to the document."
+msgstr "Mae'r gwrthrych graffig hwn wedi ei gysylltu â'r ddogfen."
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to unlink the graphics in order to edit it?"
+msgstr "Hoffech chi ddatgysylltu'r graffig er mwyn ei olygu?"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "List"
+msgstr "Rhestr"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"filter\n"
+"label\n"
+"string.text"
+msgid "Filter"
+msgstr "Hidl"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Date:"
+msgstr "_Dyddiad:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "_Author:"
+msgstr "_Awdur:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "A_ction:"
+msgstr "_Gweithred:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "C_omment:"
+msgstr "_Sylw:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"actionlist-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Action"
+msgstr "Gweithred"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"starttime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Time"
+msgstr "Dyddiad Cychwyn"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endtime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Time"
+msgstr "Dyddiad Gorffen"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"enddate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Date"
+msgstr "Dyddiad Gorffen"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"and\n"
+"label\n"
+"string.text"
+msgid "a_nd"
+msgstr "_a"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startdate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Date"
+msgstr "Dyddiad Cychwyn"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"0\n"
+"stringlist.text"
+msgid "earlier than"
+msgstr "cyn"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"1\n"
+"stringlist.text"
+msgid "since"
+msgstr "ers"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"2\n"
+"stringlist.text"
+msgid "equal to"
+msgstr "yn gyfartal â"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"3\n"
+"stringlist.text"
+msgid "not equal to"
+msgstr "heb fod yn hafal â"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"4\n"
+"stringlist.text"
+msgid "between"
+msgstr "rhwng"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"5\n"
+"stringlist.text"
+msgid "since saving"
+msgstr "ers cadw"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Date Condition"
+msgstr "Cyflwr Dyddiad"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Gosod y dyddiad a'r amser cyfredol"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Gosod y dyddiad a'r amser cyfredol"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"range\n"
+"label\n"
+"string.text"
+msgid "_Range:"
+msgstr "_Ystod:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"dotdotdot\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set reference"
+msgstr "Gosod cyfeirnod"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "Action"
+msgstr "Gweithred"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Safle"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "Author"
+msgstr "Awdur"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Date"
+msgstr "Dyddiad"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Nodyn"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"changes-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Changes"
+msgstr "Newidiadau"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to save your changes?"
+msgstr "Hoffech chi gadw eich newidiadau?"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "The content of the current form has been modified."
+msgstr "Mae cynnwys y ffurflen gyfredol wedi ei newid."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Fill:"
+msgstr "Llanw:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Fill:"
+msgstr "Llanw:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"label\n"
+"string.text"
+msgid "_Fill:"
+msgstr "_Llanw:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Dewis y math o lawn i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Dewis y math o lawn i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Dewis y lliw i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Dewis y lliw i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Dewis yr effaith i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Dewis yr effaith i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Transparency"
+msgstr "Tryloywder"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Transparency"
+msgstr "Tryloywder"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Tryloywder:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Dewis y math o dryloywder i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Dewis y math o dryloywder i'w osod."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Dim"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"1\n"
+"stringlist.text"
+msgid "Solid"
+msgstr "Solet"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"2\n"
+"stringlist.text"
+msgid "Linear"
+msgstr "Llinol"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"3\n"
+"stringlist.text"
+msgid "Axial"
+msgstr "Echelinol"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"4\n"
+"stringlist.text"
+msgid "Radial"
+msgstr "Rheiddiol"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"5\n"
+"stringlist.text"
+msgid "Ellipsoid"
+msgstr "Elipsoid"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"6\n"
+"stringlist.text"
+msgid "Quadratic"
+msgstr "Cwadratig"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"7\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Sgwâr"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Pennu amrywiad tryloywder graddiant."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Pennu amrywiad tryloywder graddiant."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "Pennu 0% ar gyfer di-draidd llawn i 100% ar gyfer tryloywder llawn."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "Pennu 0% ar gyfer di-draidd llawn i 100% ar gyfer tryloywder llawn."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"brightnesslabel\n"
+"label\n"
+"string.text"
+msgid "_Brightness:"
+msgstr "_Disgleirdeb:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Pennu disgleirdeb y graffig."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Pennu disgleirdeb y graffig."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"contrastlabel\n"
+"label\n"
+"string.text"
+msgid "_Contrast:"
+msgstr "_Cyferbyniad:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Pennu maint y gwahaniaeth rhwng rhannau golau a thywyll y graffig."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Pennu maint y gwahaniaeth rhwng rhannau golau a thywyll y graffig."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"colorlmodelabel\n"
+"label\n"
+"string.text"
+msgid "Color _mode:"
+msgstr "_Modd lliw:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Dim tryloywder:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Pennu canran y tryloywder; 0% di-draidd llawn a 100% yn gwbl dryloyw."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Pennu canran y tryloywder; 0% di-draidd llawn a 100% yn gwbl dryloyw."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Red"
+msgstr "Coch"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_text\n"
+"string.text"
+msgid "Red"
+msgstr "Coch"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Green"
+msgstr "Gwyrdd"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_text\n"
+"string.text"
+msgid "Green"
+msgstr "Gwyrdd"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Blue"
+msgstr "Glas"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_text\n"
+"string.text"
+msgid "Blue"
+msgstr "Glas"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Pennu gwerth y gamma sy'n effeithio ar ddisgleirdeb gwerthoedd y tôn canolig."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Pennu gwerth y gamma sy'n effeithio ar ddisgleirdeb gwerthoedd y tôn canolig."
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line"
+msgstr "Llinell"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line"
+msgstr "Llinell"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Llinell yn gorffen gyda Saeth"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Llinell yn gorffen gyda Saeth"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Petryal"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Petryal"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elips"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_text\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elips"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Testun (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_text\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Testun (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Curve"
+msgstr "Cromlin"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_text\n"
+"string.text"
+msgid "Curve"
+msgstr "Cromlin"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Connector"
+msgstr "Cysylltydd"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_text\n"
+"string.text"
+msgid "Connector"
+msgstr "Cysylltydd"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Llinellau a Saethau"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Llinellau a Saethau"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Siapiau Sylfaenol"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Siapiau Sylfaenol"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Siapiau Symbol"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Siapiau Symbol"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Saethau Bloc"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_text\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Saethau Bloc"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Siart Llif"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Siart Llif"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Callouts"
+msgstr "Testun Label"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Callouts"
+msgstr "Testun Label"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Stars"
+msgstr "Sêr"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_text\n"
+"string.text"
+msgid "Stars"
+msgstr "Sêr"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Lled:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "UDewis lled y llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Dewis lled y llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"colorlabel\n"
+"label\n"
+"string.text"
+msgid "_Color:"
+msgstr "_Lliw:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Pennu tryloywder y llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Pennu tryloywder y llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Dewis lliw'r llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Dewis lliw'r llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Dewis lliw'r llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Dewis lliw'r llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"translabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Tryloywder:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"stylelabel\n"
+"label\n"
+"string.text"
+msgid "_Style:"
+msgstr "_Arddull:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Dewis arddull y llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Dewis arddull y llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"arrowlabel\n"
+"label\n"
+"string.text"
+msgid "_Arrow:"
+msgstr "_Saeth:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Dewis arddull blaen pen y saeth."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Dewis arddull blaen pen y saeth."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Dewis arddull diwedd pen y saeth."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Dewis arddull diwedd pen y saeth."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"cornerlabel\n"
+"label\n"
+"string.text"
+msgid "_Corner style:"
+msgstr "_­Arddull cornel:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Dewis arddull cysylltiadau ymylol."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Dewis arddull cysylltiadau ymylol."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"0\n"
+"stringlist.text"
+msgid "Rounded"
+msgstr "Crwn"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"1\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- dim -"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"2\n"
+"stringlist.text"
+msgid "Mitered"
+msgstr "Meitro"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"3\n"
+"stringlist.text"
+msgid "Beveled"
+msgstr "Befelu"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"caplabel\n"
+"label\n"
+"string.text"
+msgid "Ca_p style:"
+msgstr "A_rddull cap:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Dewis arddull cap llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Dewis arddull cap llinell."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"0\n"
+"stringlist.text"
+msgid "Flat"
+msgstr "Gwastad"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"1\n"
+"stringlist.text"
+msgid "Round"
+msgstr "Crwn"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"2\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Sgwâr"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"numberbullet\n"
+"tooltip_text\n"
+"string.text"
+msgid "Bullets and Numbering"
+msgstr "Bwledi a Rhifo"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"backgroundcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Paragraph Background Color"
+msgstr "Lliw Cefndir Paragraff"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"horizontalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Horizontal Alignment"
+msgstr "Alinio Llorweddol"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"verticalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Vertical Alignment"
+msgstr "Aliniad Fertigol"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"spacinglabel\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "_Bylchu:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Spacing"
+msgstr "Bylchu"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspaceinc\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Paragraph Spacing"
+msgstr "Cynyddu Bylchu Paragraff"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacedec\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Paragraph Spacing"
+msgstr "Lleihau Bylchu Paragraff"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aboveparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Above Paragraph Spacing"
+msgstr "Bylchu Uwchlaw Paragraff"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"belowparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Below Paragraph Spacing"
+msgstr "Bylchu Islaw Paragraff"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"setlinespacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line Spacing"
+msgstr "Bylchu Llinell"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indentlabel\n"
+"label\n"
+"string.text"
+msgid "_Indent:"
+msgstr "_Mewnoliad:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Mewnoliad"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"increaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Cynyddu'r Mewnoliad"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"decreaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Lleihau'r Mewnoliad"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Newid i Fewnoliad Crog"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promotedemote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Mewnoliad"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Cynyddu'r Mewnoliad"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"demote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Lleihau'r Mewnoliad"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent2\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Newid i Fewnoliad Crog"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"beforetextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Before Text Indent"
+msgstr "Cyn Mewnoliad Testun"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aftertextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "After Text Indent"
+msgstr "Wedi Mewnoliad Testun"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"firstlineindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "First Line Indent"
+msgstr "Mewnoliad Llinell Gyntaf"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontallabel\n"
+"label\n"
+"string.text"
+msgid "_Horizontal:"
+msgstr "_Llorweddol:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Rhowch werth y safle llorweddol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Rhowch werth y safle llorweddol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticallabel\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "_Fertigol:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Rhowch werth y safle fertigol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Rhowch werth y safle fertigol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Lled:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Rhowch led ar gyfer y gwrthrych hwn."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Rhowch led ar gyfer y gwrthrych hwn."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"heightlabel\n"
+"label\n"
+"string.text"
+msgid "H_eight:"
+msgstr "_Uchder:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Rhowch uchder ar gyfer y gwrthrych hwn."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Rhowch uchder ar gyfer y gwrthrych hwn."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"label\n"
+"string.text"
+msgid "_Keep ratio"
+msgstr "_Cadw cymhareb"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Cadw cyfrannau wrth newid maint y gwrthrych hwn."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_text\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Cadw cyfrannau wrth newid maint y gwrthrych hwn."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotationlabel\n"
+"label\n"
+"string.text"
+msgid "_Rotation:"
+msgstr "_Troi:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Dewis ongl y troi."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Dewis ongl y troi."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliplabel\n"
+"label\n"
+"string.text"
+msgid "_Flip:"
+msgstr "_Fflipio:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Fflipio'r gwrthrych yn fertigol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Fflipio'r gwrthrych yn fertigol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Fflipio’r gwrthrych yn llorweddol."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Fflipio’r gwrthrych yn llorweddol."
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"TextControlCharacterPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Character"
+msgstr "Nod"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Ffont"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Effeithiau Ffontiau"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Safle"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"TextControlParagraphPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Paragraff"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_STD\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Mewnoliad a Bylchu"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ALIGN\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Aliniad"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ASIAN\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Typograffeg Asiaidd"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_TABULATOR\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabiau"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD\n"
+"label\n"
+"string.text"
+msgid "Add Item"
+msgstr "Ychwanegu Eitem"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"label\n"
+"string.text"
+msgid "Add Element"
+msgstr "Ychwanegu Elfen"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"label\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Ychwanegu Priodwedd"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_EDIT\n"
+"label\n"
+"string.text"
+msgid "Edit"
+msgstr "Golygu"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_REMOVE\n"
+"label\n"
+"string.text"
+msgid "Delete"
+msgstr "Dileu"

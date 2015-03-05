@@ -1,0 +1,331 @@
+#. extracted from reportdesign/source/ui/dlg
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-06 01:19+0200\n"
+"Last-Translator: bruno <bruno.gallart@orange.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_NUMBERED_CONDITION\n"
+"string.text"
+msgid "Condition $number$"
+msgstr "Condicion $number$"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_COLOR_WHITE\n"
+"string.text"
+msgid "White"
+msgstr "Blanc"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_CHARCOLOR\n"
+"string.text"
+msgid "Font color"
+msgstr "Color de poliça"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_CHARBACKGROUND\n"
+"string.text"
+msgid "Background"
+msgstr "Rèire plan"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"STR_TRANSPARENT\n"
+"string.text"
+msgid "No Fill"
+msgstr "Pas d'emplenatge"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_SORTUP\n"
+"toolboxitem.text"
+msgid "Sort Ascending"
+msgstr "Triada creissenta"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_SORTDOWN\n"
+"toolboxitem.text"
+msgid "Sort Descending"
+msgstr "Triada descreissenta"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_FM_REMOVE_FILTER_SORT\n"
+"toolboxitem.text"
+msgid "Remove sorting"
+msgstr "Suprimir la triada"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"RID_TB_SORTING\n"
+"SID_ADD_CONTROL_PAIR\n"
+"toolboxitem.text"
+msgid "Insert"
+msgstr "Inserir"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"ADDFIELD_FL_HELP_SEPARATOR\n"
+"fixedline.text"
+msgid "Help"
+msgstr "Ajuda"
+
+#: CondFormat.src
+msgctxt ""
+"CondFormat.src\n"
+"ADDFIELD_HELP_FIELD\n"
+"fixedtext.text"
+msgid "Highlight the fields to insert into the selected section of the template, then click Insert or press Enter."
+msgstr "Metètz en susbrilhança los camps d'inserir dins la seccion seleccionada del modèl, puèi clicatz sus Inserir o quichatz sus Entrada."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_EXPRESSION\n"
+"string.text"
+msgid "Field/Expression"
+msgstr "Camp/expression"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_SORTING\n"
+"string.text"
+msgid "Sort Order"
+msgstr "Òrdre de triada"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_PREFIXCHARS\n"
+"string.text"
+msgid "Prefix Characters"
+msgstr "Caractèrs de prefix"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_YEAR\n"
+"string.text"
+msgid "Year"
+msgstr "Annada"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_QUARTER\n"
+"string.text"
+msgid "Quarter"
+msgstr "Trimèstre"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_MONTH\n"
+"string.text"
+msgid "Month"
+msgstr "Mes"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_WEEK\n"
+"string.text"
+msgid "Week"
+msgstr "Setmana"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_DAY\n"
+"string.text"
+msgid "Day"
+msgstr "Jorn"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HOUR\n"
+"string.text"
+msgid "Hour"
+msgstr "Ora"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_MINUTE\n"
+"string.text"
+msgid "Minute"
+msgstr "Minuta"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_INTERVAL\n"
+"string.text"
+msgid "Interval"
+msgstr "Interval"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_FIELD\n"
+"string.text"
+msgid "Select a field or type an expression to sort or group on."
+msgstr "Seleccionar un camp o picar una expression de triar o d'acampar."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_HEADER\n"
+"string.text"
+msgid "Display a header for this group?"
+msgstr "Afichar una entèsta per aqueste grop ?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_FOOTER\n"
+"string.text"
+msgid "Display a footer for this group?"
+msgstr "Afichar un pè de pagina per aqueste grop ?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_GROUPON\n"
+"string.text"
+msgid "Select the value or range of values that starts a new group."
+msgstr "Seleccionatz la valor o la plaja de valors qu'avia un grop novèl."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_INTERVAL\n"
+"string.text"
+msgid "Interval or number of characters to group on."
+msgstr "Interval o nombre de caractèrs d'acampar."
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_KEEP\n"
+"string.text"
+msgid "Keep group together on one page?"
+msgstr "Conservar lo grop sus una pagina ?"
+
+#: GroupsSorting.src
+msgctxt ""
+"GroupsSorting.src\n"
+"STR_RPT_HELP_SORT\n"
+"string.text"
+msgid "Select ascending or descending sort order. Ascending means from A to Z or 0 to 9"
+msgstr "Seleccionar un òrdre de triada creissent o descreissent. Creissent significa de A a Z o de 0 a 9"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_STR_FUNCTIONS\n"
+"string.text"
+msgid "Functions"
+msgstr "Foncions"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_STR_GROUPS\n"
+"string.text"
+msgid "Groups"
+msgstr "Gropes"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_SORTINGANDGROUPING\n"
+"menuitem.text"
+msgid "Sorting and Grouping..."
+msgstr "Triada e acampament..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_PAGEHEADERFOOTER\n"
+"menuitem.text"
+msgid "Page Header/Footer..."
+msgstr "Entèsta/pè de pagina..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_REPORTHEADERFOOTER\n"
+"menuitem.text"
+msgid "Report Header/Footer..."
+msgstr "Entèsta/pè de pagina de rapòrt..."
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_RPT_NEW_FUNCTION\n"
+"menuitem.text"
+msgid "New Function"
+msgstr "Foncion novèla"
+
+#: Navigator.src
+msgctxt ""
+"Navigator.src\n"
+"RID_MENU_NAVIGATOR\n"
+"SID_SHOW_PROPERTYBROWSER\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr "Proprietats..."
+
+#. The space after the word is no error. #PAGENUMBER# is a replacement and & must not be translated as well as "
+#: PageNumber.src
+msgctxt ""
+"PageNumber.src\n"
+"STR_RPT_PN_PAGE\n"
+"string.text"
+msgid "\"Page \" & #PAGENUMBER#"
+msgstr "\"Pagina \" & #PAGENUMBER#"
+
+#. The space before and after the word is no error. #PAGECOUNT# is a replacement and & must not be translated  as well as "
+#: PageNumber.src
+msgctxt ""
+"PageNumber.src\n"
+"STR_RPT_PN_PAGE_OF\n"
+"string.text"
+msgid " & \" of \" & #PAGECOUNT#"
+msgstr " & \" de \" & #PAGECOUNT#"

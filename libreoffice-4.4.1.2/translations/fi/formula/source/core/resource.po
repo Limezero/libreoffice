@@ -1,0 +1,3401 @@
+#. extracted from formula/source/core/resource
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-07 11:08+0100\n"
+"PO-Revision-Date: 2015-01-09 17:10+0000\n"
+"Last-Translator: Harri <hatapitk@iki.fi>\n"
+"Language-Team: Finnish <discuss@fi.libreoffice.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1420823440.000000\n"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IF\n"
+"string.text"
+msgid "IF"
+msgstr "JOS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IF_ERROR\n"
+"string.text"
+msgid "IFERROR"
+msgstr "JOSVIRHE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IF_NA\n"
+"string.text"
+msgid "IFNA"
+msgstr "JOSPUUTTUU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHOSE\n"
+"string.text"
+msgid "CHOOSE"
+msgstr "VALITSE.INDEKSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AND\n"
+"string.text"
+msgid "AND"
+msgstr "JA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_OR\n"
+"string.text"
+msgid "OR"
+msgstr "TAI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_XOR\n"
+"string.text"
+msgid "XOR"
+msgstr "XTAI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NOT\n"
+"string.text"
+msgid "NOT"
+msgstr "EI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NEG\n"
+"string.text"
+msgid "NEG"
+msgstr "NEG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PI\n"
+"string.text"
+msgid "PI"
+msgstr "PII"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANDOM\n"
+"string.text"
+msgid "RAND"
+msgstr "SATUNNAISLUKU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRUE\n"
+"string.text"
+msgid "TRUE"
+msgstr "TOSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FALSE\n"
+"string.text"
+msgid "FALSE"
+msgstr "EPÄTOSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_ACT_DATE\n"
+"string.text"
+msgid "TODAY"
+msgstr "TÄMÄ.PÄIVÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_ACT_TIME\n"
+"string.text"
+msgid "NOW"
+msgstr "NYT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NO_VALUE\n"
+"string.text"
+msgid "NA"
+msgstr "PUUTTUU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CURRENT\n"
+"string.text"
+msgid "CURRENT"
+msgstr "CURRENT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DEG\n"
+"string.text"
+msgid "DEGREES"
+msgstr "ASTEET"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RAD\n"
+"string.text"
+msgid "RADIANS"
+msgstr "RADIAANIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SIN\n"
+"string.text"
+msgid "SIN"
+msgstr "SIN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COS\n"
+"string.text"
+msgid "COS"
+msgstr "COS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TAN\n"
+"string.text"
+msgid "TAN"
+msgstr "TAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COT\n"
+"string.text"
+msgid "COT"
+msgstr "COT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_SIN\n"
+"string.text"
+msgid "ASIN"
+msgstr "ASIN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COS\n"
+"string.text"
+msgid "ACOS"
+msgstr "ACOS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_TAN\n"
+"string.text"
+msgid "ATAN"
+msgstr "ATAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COT\n"
+"string.text"
+msgid "ACOT"
+msgstr "ACOT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SIN_HYP\n"
+"string.text"
+msgid "SINH"
+msgstr "SINH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COS_HYP\n"
+"string.text"
+msgid "COSH"
+msgstr "COSH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TAN_HYP\n"
+"string.text"
+msgid "TANH"
+msgstr "TANH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COT_HYP\n"
+"string.text"
+msgid "COTH"
+msgstr "COTH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_SIN_HYP\n"
+"string.text"
+msgid "ASINH"
+msgstr "ASINH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COS_HYP\n"
+"string.text"
+msgid "ACOSH"
+msgstr "ACOSH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_TAN_HYP\n"
+"string.text"
+msgid "ATANH"
+msgstr "ATANH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COT_HYP\n"
+"string.text"
+msgid "ACOTH"
+msgstr "ACOTH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COSECANT\n"
+"string.text"
+msgid "CSC"
+msgstr "CSC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SECANT\n"
+"string.text"
+msgid "SEC"
+msgstr "SEC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COSECANT_HYP\n"
+"string.text"
+msgid "CSCH"
+msgstr "CSCH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SECANT_HYP\n"
+"string.text"
+msgid "SECH"
+msgstr "SECH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXP\n"
+"string.text"
+msgid "EXP"
+msgstr "EKSPONENTTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LN\n"
+"string.text"
+msgid "LN"
+msgstr "LUONNLOG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SQRT\n"
+"string.text"
+msgid "SQRT"
+msgstr "NELIÖJUURI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FACT\n"
+"string.text"
+msgid "FACT"
+msgstr "KERTOMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_YEAR\n"
+"string.text"
+msgid "YEAR"
+msgstr "VUOSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_MONTH\n"
+"string.text"
+msgid "MONTH"
+msgstr "KUUKAUSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DAY\n"
+"string.text"
+msgid "DAY"
+msgstr "PÄIVÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_HOUR\n"
+"string.text"
+msgid "HOUR"
+msgstr "TUNNIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_MIN\n"
+"string.text"
+msgid "MINUTE"
+msgstr "MINUUTIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_SEC\n"
+"string.text"
+msgid "SECOND"
+msgstr "SEKUNNIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PLUS_MINUS\n"
+"string.text"
+msgid "SIGN"
+msgstr "ETUMERKKI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ABS\n"
+"string.text"
+msgid "ABS"
+msgstr "ITSEISARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INT\n"
+"string.text"
+msgid "INT"
+msgstr "KOKONAISLUKU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PHI\n"
+"string.text"
+msgid "PHI"
+msgstr "PHI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAUSS\n"
+"string.text"
+msgid "GAUSS"
+msgstr "GAUSS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_EMPTY\n"
+"string.text"
+msgid "ISBLANK"
+msgstr "ONTYHJÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_STRING\n"
+"string.text"
+msgid "ISTEXT"
+msgstr "ONTEKSTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_NON_STRING\n"
+"string.text"
+msgid "ISNONTEXT"
+msgstr "ONEI_TEKSTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_LOGICAL\n"
+"string.text"
+msgid "ISLOGICAL"
+msgstr "ONTOTUUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TYPE\n"
+"string.text"
+msgid "TYPE"
+msgstr "TYYPPI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CELL\n"
+"string.text"
+msgid "CELL"
+msgstr "SOLU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_REF\n"
+"string.text"
+msgid "ISREF"
+msgstr "ONVIITT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_VALUE\n"
+"string.text"
+msgid "ISNUMBER"
+msgstr "ONLUKU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_FORMULA\n"
+"string.text"
+msgid "ISFORMULA"
+msgstr "ONKAAVA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_NV\n"
+"string.text"
+msgid "ISNA"
+msgstr "ONPUUTTUU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_ERR\n"
+"string.text"
+msgid "ISERR"
+msgstr "ONVIRH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_ERROR\n"
+"string.text"
+msgid "ISERROR"
+msgstr "ONVIRHE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_EVEN\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "ONPARILLINEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_ODD\n"
+"string.text"
+msgid "ISODD"
+msgstr "ONPARITON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_N\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DATE_VALUE\n"
+"string.text"
+msgid "DATEVALUE"
+msgstr "PÄIVÄYSARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_TIME_VALUE\n"
+"string.text"
+msgid "TIMEVALUE"
+msgstr "AIKA_ARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CODE\n"
+"string.text"
+msgid "CODE"
+msgstr "KOODI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRIM\n"
+"string.text"
+msgid "TRIM"
+msgstr "POISTA.VÄLIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_UPPER\n"
+"string.text"
+msgid "UPPER"
+msgstr "ISOT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PROPPER\n"
+"string.text"
+msgid "PROPER"
+msgstr "ERISNIMI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOWER\n"
+"string.text"
+msgid "LOWER"
+msgstr "PIENET"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LEN\n"
+"string.text"
+msgid "LEN"
+msgstr "PITUUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VALUE\n"
+"string.text"
+msgid "VALUE"
+msgstr "ARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CLEAN\n"
+"string.text"
+msgid "CLEAN"
+msgstr "SIIVOA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHAR\n"
+"string.text"
+msgid "CHAR"
+msgstr "MERKKI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_JIS\n"
+"string.text"
+msgid "JIS"
+msgstr "JIS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ASC\n"
+"string.text"
+msgid "ASC"
+msgstr "ASC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_UNICODE\n"
+"string.text"
+msgid "UNICODE"
+msgstr "UNICODE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_UNICHAR\n"
+"string.text"
+msgid "UNICHAR"
+msgstr "UNICHAR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG10\n"
+"string.text"
+msgid "LOG10"
+msgstr "LOG10"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EVEN\n"
+"string.text"
+msgid "EVEN"
+msgstr "PARILLINEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ODD\n"
+"string.text"
+msgid "ODD"
+msgstr "PARITON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STD_NORM_DIST\n"
+"string.text"
+msgid "NORMSDIST"
+msgstr "NORM.JAKAUMA.NORMIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STD_NORM_DIST_MS\n"
+"string.text"
+msgid "NORM.S.DIST"
+msgstr "NORM_JAKAUMA.NORMIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FISHER\n"
+"string.text"
+msgid "FISHER"
+msgstr "FISHER"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FISHER_INV\n"
+"string.text"
+msgid "FISHERINV"
+msgstr "FISHER.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_S_NORM_INV\n"
+"string.text"
+msgid "NORMSINV"
+msgstr "NORM.JAKAUMA.NORMIT.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_S_NORM_INV_MS\n"
+"string.text"
+msgid "NORM.S.INV"
+msgstr "NORM_JAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_LN\n"
+"string.text"
+msgid "GAMMALN"
+msgstr "GAMMALN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_LN_MS\n"
+"string.text"
+msgid "GAMMALN.PRECISE"
+msgstr "GAMMALN.TARKKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_TYPE\n"
+"string.text"
+msgid "ERRORTYPE"
+msgstr "VIRHEEN.LAJI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FORMULA\n"
+"string.text"
+msgid "FORMULA"
+msgstr "KAAVA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARABIC\n"
+"string.text"
+msgid "ARABIC"
+msgstr "ARABIC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_TAN_2\n"
+"string.text"
+msgid "ATAN2"
+msgstr "ATAN2"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CEIL\n"
+"string.text"
+msgid "CEILING"
+msgstr "PYÖRISTÄ.KERR.YLÖS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CEIL_MS\n"
+"string.text"
+msgid "CEILING.PRECISE"
+msgstr "PYÖRISTÄ.KERR.YLÖS.TARKKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CEIL_ISO\n"
+"string.text"
+msgid "ISO.CEILING"
+msgstr "ISO.PYÖRISTÄ.KERR.YLÖS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FLOOR_MS\n"
+"string.text"
+msgid "FLOOR.PRECISE"
+msgstr "PYÖRISTÄ.KERR.ALAS.TARKKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FLOOR\n"
+"string.text"
+msgid "FLOOR"
+msgstr "PYÖRISTÄ.KERR.ALAS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROUND\n"
+"string.text"
+msgid "ROUND"
+msgstr "PYÖRISTÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROUND_UP\n"
+"string.text"
+msgid "ROUNDUP"
+msgstr "PYÖRISTÄ.DES.YLÖS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROUND_DOWN\n"
+"string.text"
+msgid "ROUNDDOWN"
+msgstr "PYÖRISTÄ.DES.ALAS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRUNC\n"
+"string.text"
+msgid "TRUNC"
+msgstr "KATKAISE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG\n"
+"string.text"
+msgid "LOG"
+msgstr "LOG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_POWER\n"
+"string.text"
+msgid "POWER"
+msgstr "POTENSSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GGT\n"
+"string.text"
+msgid "GCD"
+msgstr "SUURIN.YHT.TEKIJÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KGV\n"
+"string.text"
+msgid "LCM"
+msgstr "PIENIN.YHT.JAETTAVA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MOD\n"
+"string.text"
+msgid "MOD"
+msgstr "JAKOJ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_PRODUCT\n"
+"string.text"
+msgid "SUMPRODUCT"
+msgstr "TULOJEN.SUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_SQ\n"
+"string.text"
+msgid "SUMSQ"
+msgstr "NELIÖSUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_X2MY2\n"
+"string.text"
+msgid "SUMX2MY2"
+msgstr "NELIÖSUMMIEN.EROTUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_X2DY2\n"
+"string.text"
+msgid "SUMX2PY2"
+msgstr "NELIÖSUMMIEN.SUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_XMY2\n"
+"string.text"
+msgid "SUMXMY2"
+msgstr "EROTUSTEN.NELIÖSUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DATE\n"
+"string.text"
+msgid "DATE"
+msgstr "PÄIVÄYS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_TIME\n"
+"string.text"
+msgid "TIME"
+msgstr "AIKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DIFF_DATE\n"
+"string.text"
+msgid "DAYS"
+msgstr "PÄIVÄT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DIFF_DATE_360\n"
+"string.text"
+msgid "DAYS360"
+msgstr "PÄIVÄT360"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DATEDIF\n"
+"string.text"
+msgid "DATEDIF"
+msgstr "PVMERO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIN\n"
+"string.text"
+msgid "MIN"
+msgstr "MIN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIN_A\n"
+"string.text"
+msgid "MINA"
+msgstr "MINA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAX\n"
+"string.text"
+msgid "MAX"
+msgstr "MAKS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAX_A\n"
+"string.text"
+msgid "MAXA"
+msgstr "MAKSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM\n"
+"string.text"
+msgid "SUM"
+msgstr "SUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PRODUCT\n"
+"string.text"
+msgid "PRODUCT"
+msgstr "TULO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE\n"
+"string.text"
+msgid "AVERAGE"
+msgstr "KESKIARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_A\n"
+"string.text"
+msgid "AVERAGEA"
+msgstr "KESKIARVOA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT\n"
+"string.text"
+msgid "COUNT"
+msgstr "LASKE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_2\n"
+"string.text"
+msgid "COUNTA"
+msgstr "LASKE.A"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NBW\n"
+"string.text"
+msgid "NPV"
+msgstr "NNA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IKV\n"
+"string.text"
+msgid "IRR"
+msgstr "SISÄINEN.KORKO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIRR\n"
+"string.text"
+msgid "MIRR"
+msgstr "MSISÄINEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ISPMT\n"
+"string.text"
+msgid "ISPMT"
+msgstr "ISPMT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR\n"
+"string.text"
+msgid "VAR"
+msgstr "VAR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_A\n"
+"string.text"
+msgid "VARA"
+msgstr "VARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_P\n"
+"string.text"
+msgid "VARP"
+msgstr "VARP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_P_A\n"
+"string.text"
+msgid "VARPA"
+msgstr "VARPA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_P_MS\n"
+"string.text"
+msgid "VAR.P"
+msgstr "VAR.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_S\n"
+"string.text"
+msgid "VAR.S"
+msgstr "VAR.S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV\n"
+"string.text"
+msgid "STDEV"
+msgstr "KESKIHAJONTA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_A\n"
+"string.text"
+msgid "STDEVA"
+msgstr "KESKIHAJONTAA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_P\n"
+"string.text"
+msgid "STDEVP"
+msgstr "KESKIHAJONTAP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_P_A\n"
+"string.text"
+msgid "STDEVPA"
+msgstr "KESKIHAJONTAPA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_P_MS\n"
+"string.text"
+msgid "STDEV.P"
+msgstr "KESKIHAJONTA.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_S\n"
+"string.text"
+msgid "STDEV.S"
+msgstr "KESKIHAJONTA.S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_B\n"
+"string.text"
+msgid "B"
+msgstr "B"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_DIST\n"
+"string.text"
+msgid "NORMDIST"
+msgstr "NORM.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_DIST_MS\n"
+"string.text"
+msgid "NORM.DIST"
+msgstr "NORMAALI.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXP_DIST\n"
+"string.text"
+msgid "EXPONDIST"
+msgstr "EKSPONENTIAALIJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXP_DIST_MS\n"
+"string.text"
+msgid "EXPON.DIST"
+msgstr "EKSPONENTIAALI.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BINOM_DIST\n"
+"string.text"
+msgid "BINOMDIST"
+msgstr "BINOMIJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BINOM_DIST_MS\n"
+"string.text"
+msgid "BINOM.DIST"
+msgstr "BINOMI.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_POISSON_DIST\n"
+"string.text"
+msgid "POISSON"
+msgstr "POISSON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_POISSON_DIST_MS\n"
+"string.text"
+msgid "POISSON.DIST"
+msgstr "POISSON.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KOMBIN\n"
+"string.text"
+msgid "COMBIN"
+msgstr "KOMBINAATIO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KOMBIN_2\n"
+"string.text"
+msgid "COMBINA"
+msgstr "KOMBINAATIOA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VARIATIONEN\n"
+"string.text"
+msgid "PERMUT"
+msgstr "PERMUTAATIO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VARIATIONEN_2\n"
+"string.text"
+msgid "PERMUTATIONA"
+msgstr "PERMUTAATIOA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BW\n"
+"string.text"
+msgid "PV"
+msgstr "NYKYARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DIA\n"
+"string.text"
+msgid "SYD"
+msgstr "VUOSIPOISTO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GDA\n"
+"string.text"
+msgid "DDB"
+msgstr "DDB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GDA_2\n"
+"string.text"
+msgid "DB"
+msgstr "DB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VBD\n"
+"string.text"
+msgid "VDB"
+msgstr "VDB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LAUFZ\n"
+"string.text"
+msgid "DURATION"
+msgstr "KESTO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LIA\n"
+"string.text"
+msgid "SLN"
+msgstr "STP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RMZ\n"
+"string.text"
+msgid "PMT"
+msgstr "PMT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COLUMNS\n"
+"string.text"
+msgid "COLUMNS"
+msgstr "SARAKKEET"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROWS\n"
+"string.text"
+msgid "ROWS"
+msgstr "RIVIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TABLES\n"
+"string.text"
+msgid "SHEETS"
+msgstr "TAULUKKO.MÄÄRÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COLUMN\n"
+"string.text"
+msgid "COLUMN"
+msgstr "SARAKE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROW\n"
+"string.text"
+msgid "ROW"
+msgstr "RIVI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TABLE\n"
+"string.text"
+msgid "SHEET"
+msgstr "TAULUKKO.NUMERO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZGZ\n"
+"string.text"
+msgid "RRI"
+msgstr "RRI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZW\n"
+"string.text"
+msgid "FV"
+msgstr "TULEVA.ARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZZR\n"
+"string.text"
+msgid "NPER"
+msgstr "NJAKSO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZINS\n"
+"string.text"
+msgid "RATE"
+msgstr "KORKO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZINS_Z\n"
+"string.text"
+msgid "IPMT"
+msgstr "IPMT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KAPZ\n"
+"string.text"
+msgid "PPMT"
+msgstr "PPMT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KUM_ZINS_Z\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "MAKSETTU.KORKO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KUM_KAP_Z\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "MAKSETTU.LYHENNYS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EFFEKTIV\n"
+"string.text"
+msgid "EFFECTIVE"
+msgstr "EFFECTIVE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NOMINAL\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "KORKO.VUOSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUB_TOTAL\n"
+"string.text"
+msgid "SUBTOTAL"
+msgstr "VÄLISUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_SUM\n"
+"string.text"
+msgid "DSUM"
+msgstr "TSUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_COUNT\n"
+"string.text"
+msgid "DCOUNT"
+msgstr "TLASKE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_COUNT_2\n"
+"string.text"
+msgid "DCOUNTA"
+msgstr "TLASKEA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_AVERAGE\n"
+"string.text"
+msgid "DAVERAGE"
+msgstr "TKESKIARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_GET\n"
+"string.text"
+msgid "DGET"
+msgstr "TNOUDA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_MAX\n"
+"string.text"
+msgid "DMAX"
+msgstr "TMAKS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_MIN\n"
+"string.text"
+msgid "DMIN"
+msgstr "TMIN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_PRODUCT\n"
+"string.text"
+msgid "DPRODUCT"
+msgstr "TTULO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_STD_DEV\n"
+"string.text"
+msgid "DSTDEV"
+msgstr "TKESKIHAJONTA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_STD_DEV_P\n"
+"string.text"
+msgid "DSTDEVP"
+msgstr "TKESKIHAJONTAP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_VAR\n"
+"string.text"
+msgid "DVAR"
+msgstr "TVARIANSSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_VAR_P\n"
+"string.text"
+msgid "DVARP"
+msgstr "TVARIANSSIP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INDIRECT\n"
+"string.text"
+msgid "INDIRECT"
+msgstr "EPÄSUORA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ADDRESS\n"
+"string.text"
+msgid "ADDRESS"
+msgstr "OSOITE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MATCH\n"
+"string.text"
+msgid "MATCH"
+msgstr "VASTINE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_EMPTY_CELLS\n"
+"string.text"
+msgid "COUNTBLANK"
+msgstr "LASKE.TYHJÄT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_IF\n"
+"string.text"
+msgid "COUNTIF"
+msgstr "LASKE.JOS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_IF\n"
+"string.text"
+msgid "SUMIF"
+msgstr "SUMMA.JOS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_IF\n"
+"string.text"
+msgid "AVERAGEIF"
+msgstr "KESKIARVO.JOS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_IFS\n"
+"string.text"
+msgid "SUMIFS"
+msgstr "SUMMA.JOS.JOUKKO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_IFS\n"
+"string.text"
+msgid "AVERAGEIFS"
+msgstr "KESKIARVO.JOS.JOUKKO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_IFS\n"
+"string.text"
+msgid "COUNTIFS"
+msgstr "LASKE.JOS.JOUKKO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOOKUP\n"
+"string.text"
+msgid "LOOKUP"
+msgstr "HAKU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_V_LOOKUP\n"
+"string.text"
+msgid "VLOOKUP"
+msgstr "PHAKU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_H_LOOKUP\n"
+"string.text"
+msgid "HLOOKUP"
+msgstr "VHAKU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MULTI_AREA\n"
+"string.text"
+msgid "MULTIRANGE"
+msgstr "MULTIRANGE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_OFFSET\n"
+"string.text"
+msgid "OFFSET"
+msgstr "SIIRTYMÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INDEX\n"
+"string.text"
+msgid "INDEX"
+msgstr "INDEKSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AREAS\n"
+"string.text"
+msgid "AREAS"
+msgstr "ALUEET"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CURRENCY\n"
+"string.text"
+msgid "DOLLAR"
+msgstr "VALUUTTA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_REPLACE\n"
+"string.text"
+msgid "REPLACE"
+msgstr "KORVAA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FIXED\n"
+"string.text"
+msgid "FIXED"
+msgstr "KIINTEÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FIND\n"
+"string.text"
+msgid "FIND"
+msgstr "ETSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXACT\n"
+"string.text"
+msgid "EXACT"
+msgstr "VERTAA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LEFT\n"
+"string.text"
+msgid "LEFT"
+msgstr "VASEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RIGHT\n"
+"string.text"
+msgid "RIGHT"
+msgstr "OIKEA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SEARCH\n"
+"string.text"
+msgid "SEARCH"
+msgstr "KÄY.LÄPI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MID\n"
+"string.text"
+msgid "MID"
+msgstr "POIMI.TEKSTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LENB\n"
+"string.text"
+msgid "LENB"
+msgstr "PITUUSB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RIGHTB\n"
+"string.text"
+msgid "RIGHTB"
+msgstr "OIKEAB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LEFTB\n"
+"string.text"
+msgid "LEFTB"
+msgstr "VASENB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIDB\n"
+"string.text"
+msgid "MIDB"
+msgstr "POIMI.TEKSTIB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TEXT\n"
+"string.text"
+msgid "TEXT"
+msgstr "TEKSTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUBSTITUTE\n"
+"string.text"
+msgid "SUBSTITUTE"
+msgstr "VAIHDA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_REPT\n"
+"string.text"
+msgid "REPT"
+msgstr "TOISTA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONCAT\n"
+"string.text"
+msgid "CONCATENATE"
+msgstr "KETJUTA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_VALUE\n"
+"string.text"
+msgid "MVALUE"
+msgstr "MVALUE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_DET\n"
+"string.text"
+msgid "MDETERM"
+msgstr "MDETERM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_INV\n"
+"string.text"
+msgid "MINVERSE"
+msgstr "MKÄÄNTEINEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_MULT\n"
+"string.text"
+msgid "MMULT"
+msgstr "MKERRO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_TRANS\n"
+"string.text"
+msgid "TRANSPOSE"
+msgstr "TRANSPONOI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MATRIX_UNIT\n"
+"string.text"
+msgid "MUNIT"
+msgstr "YKSIKKÖMATRIISI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BACK_SOLVER\n"
+"string.text"
+msgid "GOALSEEK"
+msgstr "GOALSEEK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HYP_GEOM_DIST\n"
+"string.text"
+msgid "HYPGEOMDIST"
+msgstr "HYPERGEOM.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HYP_GEOM_DIST_MS\n"
+"string.text"
+msgid "HYPGEOM.DIST"
+msgstr "HYPERGEOM_JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_NORM_DIST\n"
+"string.text"
+msgid "LOGNORMDIST"
+msgstr "LOGNORM.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_NORM_DIST_MS\n"
+"string.text"
+msgid "LOGNORM.DIST"
+msgstr "LOGNORM_JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST\n"
+"string.text"
+msgid "TDIST"
+msgstr "TJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST_2T\n"
+"string.text"
+msgid "T.DIST.2T"
+msgstr "T.JAKAUMA.2S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST_MS\n"
+"string.text"
+msgid "T.DIST"
+msgstr "T.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST_RT\n"
+"string.text"
+msgid "T.DIST.RT"
+msgstr "T.JAKAUMA.OH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_DIST\n"
+"string.text"
+msgid "FDIST"
+msgstr "FJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_DIST_LT\n"
+"string.text"
+msgid "F.DIST"
+msgstr "F.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_DIST_RT\n"
+"string.text"
+msgid "F.DIST.RT"
+msgstr "F.JAKAUMA.OH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_DIST\n"
+"string.text"
+msgid "CHIDIST"
+msgstr "CHIJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_DIST_MS\n"
+"string.text"
+msgid "CHISQ.DIST.RT"
+msgstr "CHINELIÖ.JAKAUMA.OH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEIBULL\n"
+"string.text"
+msgid "WEIBULL"
+msgstr "WEIBULL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEIBULL_MS\n"
+"string.text"
+msgid "WEIBULL.DIST"
+msgstr "WEIBULL.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NEG_BINOM_VERT\n"
+"string.text"
+msgid "NEGBINOMDIST"
+msgstr "BINOMIJAKAUMA.NEG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NEG_BINOM_DIST_MS\n"
+"string.text"
+msgid "NEGBINOM.DIST"
+msgstr "BINOMI.JAKAUMA.NEG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KRIT_BINOM\n"
+"string.text"
+msgid "CRITBINOM"
+msgstr "BINOMIJAKAUMA.KRIT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BINOM_INV\n"
+"string.text"
+msgid "BINOM.INV"
+msgstr "BINOMIJAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KURT\n"
+"string.text"
+msgid "KURT"
+msgstr "KURT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HAR_MEAN\n"
+"string.text"
+msgid "HARMEAN"
+msgstr "KESKIARVO.HARM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GEO_MEAN\n"
+"string.text"
+msgid "GEOMEAN"
+msgstr "KESKIARVO.GEOM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STANDARD\n"
+"string.text"
+msgid "STANDARDIZE"
+msgstr "NORMITA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVE_DEV\n"
+"string.text"
+msgid "AVEDEV"
+msgstr "KESKIPOIKKEAMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SCHIEFE\n"
+"string.text"
+msgid "SKEW"
+msgstr "JAKAUMAN.VINOUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SKEWP\n"
+"string.text"
+msgid "SKEWP"
+msgstr "JAKAUMAN.VINOUS.POP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DEV_SQ\n"
+"string.text"
+msgid "DEVSQ"
+msgstr "OIKAISTU.NELIÖSUMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MEDIAN\n"
+"string.text"
+msgid "MEDIAN"
+msgstr "MEDIAANI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MODAL_VALUE\n"
+"string.text"
+msgid "MODE"
+msgstr "MOODI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MODAL_VALUE_MS\n"
+"string.text"
+msgid "MODE.SNGL"
+msgstr "MOODI.YKSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MODAL_VALUE_MULTI\n"
+"string.text"
+msgid "MODE.MULT"
+msgstr "MOODI.USEA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_Z_TEST\n"
+"string.text"
+msgid "ZTEST"
+msgstr "ZTESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_Z_TEST_MS\n"
+"string.text"
+msgid "Z.TEST"
+msgstr "Z.TESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AGGREGATE\n"
+"string.text"
+msgid "AGGREGATE"
+msgstr "KOOSTE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_TEST\n"
+"string.text"
+msgid "TTEST"
+msgstr "TTESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_TEST_MS\n"
+"string.text"
+msgid "T.TEST"
+msgstr "T.TESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANK\n"
+"string.text"
+msgid "RANK"
+msgstr "ARVON.MUKAAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENTILE\n"
+"string.text"
+msgid "PERCENTILE"
+msgstr "PROSENTTIPISTE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENT_RANK\n"
+"string.text"
+msgid "PERCENTRANK"
+msgstr "PROSENTTIJÄRJESTYS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENTILE_INC\n"
+"string.text"
+msgid "PERCENTILE.INC"
+msgstr "PROSENTTIPISTE.SIS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENT_RANK_INC\n"
+"string.text"
+msgid "PERCENTRANK.INC"
+msgstr "PROSENTTIJÄRJESTYS.SIS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_QUARTILE_INC\n"
+"string.text"
+msgid "QUARTILE.INC"
+msgstr "NELJÄNNES.SIS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANK_EQ\n"
+"string.text"
+msgid "RANK.EQ"
+msgstr "ARVON.MUKAAN.TASAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENTILE_EXC\n"
+"string.text"
+msgid "PERCENTILE.EXC"
+msgstr "PROSENTTIPISTE.ULK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENT_RANK_EXC\n"
+"string.text"
+msgid "PERCENTRANK.EXC"
+msgstr "PROSENTTIJÄRJESTYS.ULK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_QUARTILE_EXC\n"
+"string.text"
+msgid "QUARTILE.EXC"
+msgstr "NELJÄNNES.ULK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANK_AVG\n"
+"string.text"
+msgid "RANK.AVG"
+msgstr "ARVON.MUKAAN.KESKIARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LARGE\n"
+"string.text"
+msgid "LARGE"
+msgstr "SUURI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SMALL\n"
+"string.text"
+msgid "SMALL"
+msgstr "PIENI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FREQUENCY\n"
+"string.text"
+msgid "FREQUENCY"
+msgstr "TAAJUUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_QUARTILE\n"
+"string.text"
+msgid "QUARTILE"
+msgstr "NELJÄNNES"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_INV\n"
+"string.text"
+msgid "NORMINV"
+msgstr "NORM.JAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_INV_MS\n"
+"string.text"
+msgid "NORM.INV"
+msgstr "NORMAALI.JAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONFIDENCE\n"
+"string.text"
+msgid "CONFIDENCE"
+msgstr "LUOTTAMUSVÄLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONFIDENCE_N\n"
+"string.text"
+msgid "CONFIDENCE.NORM"
+msgstr "LUOTTAMUSVÄLI.NORM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONFIDENCE_T\n"
+"string.text"
+msgid "CONFIDENCE.T"
+msgstr "LUOTTAMUSVÄLI.T"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_TEST\n"
+"string.text"
+msgid "FTEST"
+msgstr "FTESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_TEST_MS\n"
+"string.text"
+msgid "F.TEST"
+msgstr "F.TESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRIM_MEAN\n"
+"string.text"
+msgid "TRIMMEAN"
+msgstr "KESKIARVO.TASATTU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PROB\n"
+"string.text"
+msgid "PROB"
+msgstr "TODENNÄKÖISYYS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CORREL\n"
+"string.text"
+msgid "CORREL"
+msgstr "KORRELAATIO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COVAR\n"
+"string.text"
+msgid "COVAR"
+msgstr "KOVARIANSSI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COVARIANCE_P\n"
+"string.text"
+msgid "COVARIANCE.P"
+msgstr "KOVARIANSSI.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COVARIANCE_S\n"
+"string.text"
+msgid "COVARIANCE.S"
+msgstr "KOVARIANSSI.S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PEARSON\n"
+"string.text"
+msgid "PEARSON"
+msgstr "PEARSON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RSQ\n"
+"string.text"
+msgid "RSQ"
+msgstr "PEARSON.NELIÖ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STEYX\n"
+"string.text"
+msgid "STEYX"
+msgstr "KESKIVIRHE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SLOPE\n"
+"string.text"
+msgid "SLOPE"
+msgstr "KULMAKERROIN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INTERCEPT\n"
+"string.text"
+msgid "INTERCEPT"
+msgstr "LEIKKAUSPISTE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TREND\n"
+"string.text"
+msgid "TREND"
+msgstr "SUUNTAUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GROWTH\n"
+"string.text"
+msgid "GROWTH"
+msgstr "KASVU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RGP\n"
+"string.text"
+msgid "LINEST"
+msgstr "LINREGR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RKP\n"
+"string.text"
+msgid "LOGEST"
+msgstr "LOGREGR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FORECAST\n"
+"string.text"
+msgid "FORECAST"
+msgstr "ENNUSTE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_INV\n"
+"string.text"
+msgid "CHIINV"
+msgstr "CHIJAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_INV_MS\n"
+"string.text"
+msgid "CHISQ.INV.RT"
+msgstr "CHINELIÖ.KÄÄNT.OH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_DIST\n"
+"string.text"
+msgid "GAMMADIST"
+msgstr "GAMMAJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_DIST_MS\n"
+"string.text"
+msgid "GAMMA.DIST"
+msgstr "GAMMA.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_INV\n"
+"string.text"
+msgid "GAMMAINV"
+msgstr "GAMMAJAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_INV_MS\n"
+"string.text"
+msgid "GAMMA.INV"
+msgstr "GAMMA.JAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_INV\n"
+"string.text"
+msgid "TINV"
+msgstr "TJAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_INV_2T\n"
+"string.text"
+msgid "T.INV.2T"
+msgstr "T.KÄÄNT.2S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_INV_MS\n"
+"string.text"
+msgid "T.INV"
+msgstr "T.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_INV\n"
+"string.text"
+msgid "FINV"
+msgstr "FJAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_INV_LT\n"
+"string.text"
+msgid "F.INV"
+msgstr "F.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_INV_RT\n"
+"string.text"
+msgid "F.INV.RT"
+msgstr "F.KÄÄNT.OH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_TEST\n"
+"string.text"
+msgid "CHITEST"
+msgstr "CHITESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_TEST_MS\n"
+"string.text"
+msgid "CHISQ.TEST"
+msgstr "CHINELIÖ.TESTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_INV\n"
+"string.text"
+msgid "LOGINV"
+msgstr "LOGNORM.JAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_INV_MS\n"
+"string.text"
+msgid "LOGNORM.INV"
+msgstr "LOGNORM.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TABLE_OP\n"
+"string.text"
+msgid "MULTIPLE.OPERATIONS"
+msgstr "MULTIPLE.OPERATIONS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_DIST\n"
+"string.text"
+msgid "BETADIST"
+msgstr "BEETAJAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_INV\n"
+"string.text"
+msgid "BETAINV"
+msgstr "BEETAJAKAUMA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_DIST_MS\n"
+"string.text"
+msgid "BETA.DIST"
+msgstr "BEETA.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_INV_MS\n"
+"string.text"
+msgid "BETA.INV"
+msgstr "BEETA.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEEK\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "VIIKKO.NRO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EASTERSUNDAY\n"
+"string.text"
+msgid "EASTERSUNDAY"
+msgstr "PÄÄSIÄISSUNNUNTAI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DAY_OF_WEEK\n"
+"string.text"
+msgid "WEEKDAY"
+msgstr "VIIKONPÄIVÄ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NETWORKDAYS_MS\n"
+"string.text"
+msgid "NETWORKDAYS.INTL"
+msgstr "TYÖPÄIVÄT.KANSVÄL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WORKDAY_MS\n"
+"string.text"
+msgid "WORKDAY.INTL"
+msgstr "TYÖPÄIVÄ.KANSVÄL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NO_NAME\n"
+"string.text"
+msgid "#NAME!"
+msgstr "#NIMI!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STYLE\n"
+"string.text"
+msgid "STYLE"
+msgstr "TYYLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DDE\n"
+"string.text"
+msgid "DDE"
+msgstr "DDE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BASE\n"
+"string.text"
+msgid "BASE"
+msgstr "KANTA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DECIMAL\n"
+"string.text"
+msgid "DECIMAL"
+msgstr "DESIMAALI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONVERT\n"
+"string.text"
+msgid "CONVERT"
+msgstr "CONVERT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROMAN\n"
+"string.text"
+msgid "ROMAN"
+msgstr "ROMAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HYPERLINK\n"
+"string.text"
+msgid "HYPERLINK"
+msgstr "HYPERLINKKI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INFO\n"
+"string.text"
+msgid "INFO"
+msgstr "KUVAUS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BAHTTEXT\n"
+"string.text"
+msgid "BAHTTEXT"
+msgstr "BAHTTEKSTI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_PIVOT_DATA\n"
+"string.text"
+msgid "GETPIVOTDATA"
+msgstr "NOUDA.PIVOT.TIEDOT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EUROCONVERT\n"
+"string.text"
+msgid "EUROCONVERT"
+msgstr "EUROCONVERT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NUMBERVALUE\n"
+"string.text"
+msgid "NUMBERVALUE"
+msgstr "NUMEROARVO"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA\n"
+"string.text"
+msgid "GAMMA"
+msgstr "GAMMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHISQ_DIST\n"
+"string.text"
+msgid "CHISQDIST"
+msgstr "CHINELIÖ.JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHISQ_DIST_MS\n"
+"string.text"
+msgid "CHISQ.DIST"
+msgstr "CHINELIÖ_JAKAUMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHISQ_INV\n"
+"string.text"
+msgid "CHISQINV"
+msgstr "CHINELIÖ.KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHISQ_INV_MS\n"
+"string.text"
+msgid "CHISQ.INV"
+msgstr "CHINELIÖ_KÄÄNT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITAND\n"
+"string.text"
+msgid "BITAND"
+msgstr "BITTI.JA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITOR\n"
+"string.text"
+msgid "BITOR"
+msgstr "BITTI.TAI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITXOR\n"
+"string.text"
+msgid "BITXOR"
+msgstr "BITTI.XTAI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITRSHIFT\n"
+"string.text"
+msgid "BITRSHIFT"
+msgstr "BITTI.SIIRTO.OIKEA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITLSHIFT\n"
+"string.text"
+msgid "BITLSHIFT"
+msgstr "BITTI.SIIRTO.VASEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NULL\n"
+"string.text"
+msgid "#NULL!"
+msgstr "#NULL!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_DIVZERO\n"
+"string.text"
+msgid "#DIV/0!"
+msgstr "#JAKO/0!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_VALUE\n"
+"string.text"
+msgid "#VALUE!"
+msgstr "#ARVO!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_REF\n"
+"string.text"
+msgid "#REF!"
+msgstr "#VIITTAUS!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NAME\n"
+"string.text"
+msgid "#NAME?"
+msgstr "#NIMI?"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NUM\n"
+"string.text"
+msgid "#NUM!"
+msgstr "#NUM!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NA\n"
+"string.text"
+msgid "#N/A"
+msgstr "#N/A"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FILTERXML\n"
+"string.text"
+msgid "FILTERXML"
+msgstr "SUODATA.XML"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COLOR\n"
+"string.text"
+msgid "COLOR"
+msgstr "VÄRI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEBSERVICE\n"
+"string.text"
+msgid "WEBSERVICE"
+msgstr "VERKKOPALVELU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERF_MS\n"
+"string.text"
+msgid "ERF.PRECISE"
+msgstr "VIRHEFUNKTIO.TARKKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERFC_MS\n"
+"string.text"
+msgid "ERFC.PRECISE"
+msgstr "VIRHEFUNKTIO.KOMPLEMENTTI.TARKKA"

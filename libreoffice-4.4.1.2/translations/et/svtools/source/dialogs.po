@@ -1,0 +1,1211 @@
+#. extracted from svtools/source/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:02+0200\n"
+"PO-Revision-Date: 2014-01-06 00:42+0200\n"
+"Last-Translator: Mihkel Tõnnov <mihhkel@gmail.com>\n"
+"Language-Team: Estonian <none>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_NO_FIELD_SELECTION\n"
+"string.text"
+msgid "<none>"
+msgstr "<puudub>"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_COMPANY\n"
+"string.text"
+msgid "Company"
+msgstr "Ettevõte"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_DEPARTMENT\n"
+"string.text"
+msgid "Department"
+msgstr "Osakond"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_FIRSTNAME\n"
+"string.text"
+msgid "First name"
+msgstr "Eesnimi"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_LASTNAME\n"
+"string.text"
+msgid "Last name"
+msgstr "Perekonnanimi"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_STREET\n"
+"string.text"
+msgid "Street"
+msgstr "Tänav"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_COUNTRY\n"
+"string.text"
+msgid "Country"
+msgstr "Riik"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_ZIPCODE\n"
+"string.text"
+msgid "ZIP Code"
+msgstr "Postiindeks"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_CITY\n"
+"string.text"
+msgid "City"
+msgstr "Linn"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Tiitel"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_POSITION\n"
+"string.text"
+msgid "Position"
+msgstr "Ametikoht"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_ADDRFORM\n"
+"string.text"
+msgid "Addr. Form"
+msgstr "Aadr. vorm"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_INITIALS\n"
+"string.text"
+msgid "Initials"
+msgstr "Initsiaalid"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_SALUTATION\n"
+"string.text"
+msgid "Complimentary close"
+msgstr "Viisakas hüvastijätt"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_HOMETEL\n"
+"string.text"
+msgid "Tel: Home"
+msgstr "Tel. kodus"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_WORKTEL\n"
+"string.text"
+msgid "Tel: Work"
+msgstr "Tel. tööl"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_FAX\n"
+"string.text"
+msgid "FAX"
+msgstr "Faks"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "E-post"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_NOTE\n"
+"string.text"
+msgid "Note"
+msgstr "Märkus"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER1\n"
+"string.text"
+msgid "User 1"
+msgstr "Kasutaja 1"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER2\n"
+"string.text"
+msgid "User 2"
+msgstr "Kasutaja 2"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER3\n"
+"string.text"
+msgid "User 3"
+msgstr "Kasutaja 3"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER4\n"
+"string.text"
+msgid "User 4"
+msgstr "Kasutaja 4"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_ID\n"
+"string.text"
+msgid "ID"
+msgstr "ID"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_STATE\n"
+"string.text"
+msgid "State"
+msgstr "Maakond"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_OFFICETEL\n"
+"string.text"
+msgid "Tel: Office"
+msgstr "Tel. tööl"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_PAGER\n"
+"string.text"
+msgid "Pager"
+msgstr "Peiler"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_MOBILE\n"
+"string.text"
+msgid "Mobile"
+msgstr "Mobiil"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_TELOTHER\n"
+"string.text"
+msgid "Tel: Other"
+msgstr "Tel. muu"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_CALENDAR\n"
+"string.text"
+msgid "Calendar"
+msgstr "Kalender"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_INVITE\n"
+"string.text"
+msgid "Invite"
+msgstr "Küllakutse"
+
+#: filedlg2.src
+msgctxt ""
+"filedlg2.src\n"
+"STR_FILEDLG_OPEN\n"
+"string.text"
+msgid "Open"
+msgstr "Ava"
+
+#: filedlg2.src
+msgctxt ""
+"filedlg2.src\n"
+"STR_FILEDLG_TYPE\n"
+"string.text"
+msgid "File ~type"
+msgstr "Failitüüp"
+
+#: filedlg2.src
+msgctxt ""
+"filedlg2.src\n"
+"STR_FILEDLG_SAVE\n"
+"string.text"
+msgid "Save"
+msgstr "Salvesta"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_STRING\n"
+"string.text"
+msgid "Unformatted text"
+msgstr "Vormindamata tekst"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_BITMAP\n"
+"string.text"
+msgid "Bitmap"
+msgstr "Bittraster"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_GDIMETAFILE\n"
+"string.text"
+msgid "GDI metafile"
+msgstr "GDI metafail"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_RTF\n"
+"string.text"
+msgid "Formatted text [RTF]"
+msgstr "Vormindatud tekst [RTF]"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DRAWING\n"
+"string.text"
+msgid "Drawing format"
+msgstr "Joonistusvorming"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SVXB\n"
+"string.text"
+msgid "SVXB (StarView bitmap/animation)"
+msgstr "SVXB (StarView bittraster/animatsioon)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_INTERNALLINK_STATE\n"
+"string.text"
+msgid "Status Info from Svx Internal Link"
+msgstr "Olekuinfo Svx siselingist"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SOLK\n"
+"string.text"
+msgid "SOLK (%PRODUCTNAME Link)"
+msgstr "SOLK (%PRODUCTNAME'i link)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_NETSCAPE_BOOKMARK\n"
+"string.text"
+msgid "Netscape Bookmark"
+msgstr "Netscape'i järjehoidja"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARSERVER\n"
+"string.text"
+msgid "Star server format"
+msgstr "Star serveri vorming"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STAROBJECT\n"
+"string.text"
+msgid "Star object format"
+msgstr "Star objekti vorming"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_APPLETOBJECT\n"
+"string.text"
+msgid "Applet object"
+msgstr "Apleti objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_PLUGIN_OBJECT\n"
+"string.text"
+msgid "Plug-in object"
+msgstr "Plugina objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_30\n"
+"string.text"
+msgid "StarWriter 3.0 object"
+msgstr "StarWriter 3.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_40\n"
+"string.text"
+msgid "StarWriter 4.0 object"
+msgstr "StarWriter 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_50\n"
+"string.text"
+msgid "StarWriter 5.0 object"
+msgstr "StarWriter 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERWEB_40\n"
+"string.text"
+msgid "StarWriter/Web 4.0 object"
+msgstr "StarWriter/Web 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERWEB_50\n"
+"string.text"
+msgid "StarWriter/Web 5.0 object"
+msgstr "StarWriter/Web 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERGLOB_40\n"
+"string.text"
+msgid "StarWriter/Master 4.0 object"
+msgstr "StarWriter/Master 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERGLOB_50\n"
+"string.text"
+msgid "StarWriter/Master 5.0 object"
+msgstr "StarWriter/Master 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW\n"
+"string.text"
+msgid "StarDraw object"
+msgstr "StarDraw' objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW_40\n"
+"string.text"
+msgid "StarDraw 4.0 object"
+msgstr "StarDraw 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMPRESS_50\n"
+"string.text"
+msgid "StarImpress 5.0 object"
+msgstr "StarImpress 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW_50\n"
+"string.text"
+msgid "StarDraw 5.0 object"
+msgstr "StarDraw 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC\n"
+"string.text"
+msgid "StarCalc object"
+msgstr "StarCalc objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC_40\n"
+"string.text"
+msgid "StarCalc  4.0 object"
+msgstr "StarCalc  4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC_50\n"
+"string.text"
+msgid "StarCalc 5.0 object"
+msgstr "StarCalc 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART\n"
+"string.text"
+msgid "StarChart object"
+msgstr "StarChart'i objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART_40\n"
+"string.text"
+msgid "StarChart 4.0 object"
+msgstr "StarChart 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART_50\n"
+"string.text"
+msgid "StarChart 5.0 object"
+msgstr "StarChart 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMAGE\n"
+"string.text"
+msgid "StarImage object"
+msgstr "StarImage objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMAGE_40\n"
+"string.text"
+msgid "StarImage 4.0 object"
+msgstr "StarImage 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMAGE_50\n"
+"string.text"
+msgid "StarImage 5.0 object"
+msgstr "StarImage 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH\n"
+"string.text"
+msgid "StarMath object"
+msgstr "StarMath objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH_40\n"
+"string.text"
+msgid "StarMath 4.0 object"
+msgstr "StarMath 4.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH_50\n"
+"string.text"
+msgid "StarMath 5.0 object"
+msgstr "StarMath 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STAROBJECT_PAINTDOC\n"
+"string.text"
+msgid "StarObject Paint object"
+msgstr "StarObject Paint objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_HTML\n"
+"string.text"
+msgid "HTML (HyperText Markup Language)"
+msgstr "HTML (HyperText Markup Language)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_HTML_SIMPLE\n"
+"string.text"
+msgid "HTML format"
+msgstr "HTML-vorming"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_BIFF_5\n"
+"string.text"
+msgid "Biff5 (Microsoft Excel 5.0/95)"
+msgstr "Biff5 (Microsoft Excel 5.0/95)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_BIFF_8\n"
+"string.text"
+msgid "Biff8 (Microsoft Excel 97/2000/XP/2003)"
+msgstr "Biff8 (Microsoft Excel 97/2000/XP/2003)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SYLK\n"
+"string.text"
+msgid "Sylk"
+msgstr "Sylk"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_LINK\n"
+"string.text"
+msgid "DDE link"
+msgstr "DDE-link"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DIF\n"
+"string.text"
+msgid "DIF"
+msgstr "DIF"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_MSWORD_DOC\n"
+"string.text"
+msgid "Microsoft Word object"
+msgstr "Microsoft Word objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STAR_FRAMESET_DOC\n"
+"string.text"
+msgid "StarFrameSet object"
+msgstr "StarFrameSet objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_OFFICE_DOC\n"
+"string.text"
+msgid "Office document object"
+msgstr "Office dokumendi objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_NOTES_DOCINFO\n"
+"string.text"
+msgid "Notes document info"
+msgstr "Märkmete dokumendi info"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SFX_DOC\n"
+"string.text"
+msgid "Sfx document"
+msgstr "Sfx dokument"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHARTDOCUMENT_50\n"
+"string.text"
+msgid "StarChart 5.0 object"
+msgstr "StarChart 5.0 objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_GRAPHOBJ\n"
+"string.text"
+msgid "Graphic object"
+msgstr "Pildiobjekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Writer object"
+msgstr "OpenOffice.org 1.0 Writeri objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERWEB_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Writer/Web object"
+msgstr "OpenOffice.org 1.0 Writeri/veebi objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERGLOB_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Writer/Master object"
+msgstr "OpenOffice.org 1.0 Writeri põhiobjekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Draw object"
+msgstr "OpenOffice.org 1.0 Draw' objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMPRESS_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Impress object"
+msgstr "OpenOffice.org 1.0 Impressi objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Calc object"
+msgstr "OpenOffice.org 1.0 Calci objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Chart object"
+msgstr "OpenOffice.org 1.0 Charti objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Math object"
+msgstr "OpenOffice.org 1.0 Mathi objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_WMF\n"
+"string.text"
+msgid "Windows metafile"
+msgstr "Windowsi metafail"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DBACCESS_QUERY\n"
+"string.text"
+msgid "Data source object"
+msgstr "Andmeallika objekt"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DBACCESS_TABLE\n"
+"string.text"
+msgid "Data source table"
+msgstr "Andmeallika tabel"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DBACCESS_COMMAND\n"
+"string.text"
+msgid "SQL query"
+msgstr "SQL-päring"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DIALOG_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 dialog"
+msgstr "OpenOffice.org 1.0 dialoog"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_FILEGRPDESCRIPTOR\n"
+"string.text"
+msgid "Link"
+msgstr "Link"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_HTML_NO_COMMENT\n"
+"string.text"
+msgid "HTML format without comments"
+msgstr "HTML-vorming ilma kommentaarideta"
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_GENERALERROR&S_MAX\n"
+"string.text"
+msgid "General OLE error."
+msgstr "Üldine OLE-tõrge."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_CANT_BINDTOSOURCE&S_MAX\n"
+"string.text"
+msgid "The connection to the object cannot be established."
+msgstr "Ühenduse loomine objektiga ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOCACHE_UPDATED&S_MAX\n"
+"string.text"
+msgid "No cache files were updated."
+msgstr "Vahemälu faile ei värskendatud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_SOMECACHES_NOTUPDATED&S_MAX\n"
+"string.text"
+msgid "Some cache files were not updated."
+msgstr "Mõnda vahemälufaili ei värskendatud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_UNAVAILABLE&S_MAX\n"
+"string.text"
+msgid "Status of object cannot be determined in a timely manner."
+msgstr "Objekti olekut pole võimalik tuvastada mõistliku aja jooksul."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_E_CLASSDIFF&S_MAX\n"
+"string.text"
+msgid "Source of the OLE link has been converted."
+msgstr "OLE-lingi allikas teisendati."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_OBJECT&S_MAX\n"
+"string.text"
+msgid "The object could not be found."
+msgstr "Objekti ei leitud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_EXCEEDED_DEADLINE&S_MAX\n"
+"string.text"
+msgid "The process could not be completed within the specified time period."
+msgstr "Protsessi ei lõpetatud ettenähtud aja jooksul."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_CONNECT_MANUALLY&S_MAX\n"
+"string.text"
+msgid "OLE could not connect to a network device (server)."
+msgstr "OLE ei suutnud ühenduda võrguseadmega (server)."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_INTERMEDIATE_INTERFACE_NOT_SUPPORTED&S_MAX\n"
+"string.text"
+msgid "The object found does not support the interface required for the desired operation."
+msgstr "Leitud objekt ei toeta soovitud tegevuse jaoks vajalikku liidest."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NO_INTERFACE&S_MAX\n"
+"string.text"
+msgid "Interface not supported."
+msgstr "Liides pole toetatud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_OUT_OF_MEMORY&S_MAX\n"
+"string.text"
+msgid "Insufficient memory."
+msgstr "Mälu pole piisavalt."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_SYNTAX&S_MAX\n"
+"string.text"
+msgid "The connection name could not be processed."
+msgstr "Ühenduse nime töötlemine ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_REDUCED_TO_SELF&S_MAX\n"
+"string.text"
+msgid "The connection name could not be reduced further."
+msgstr "Ühenduse nime pole võimalik rohkem vähendada."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_INVERSE&S_MAX\n"
+"string.text"
+msgid "The connection name has no inverse."
+msgstr "Ühenduse nimel pole vastandit."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_PREFIX&S_MAX\n"
+"string.text"
+msgid "No common prefix exists."
+msgstr "Ühist prefiksit pole olemas."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_HIM&S_MAX\n"
+"string.text"
+msgid "The connection name is contained in the other one."
+msgstr "Ühenduse nimi sisaldub teises nimes."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_US&S_MAX\n"
+"string.text"
+msgid "The connection names (the receiver and the other moniker) are identical."
+msgstr "Ühenduse nimed (saatja ja vastuvõtja) on samad."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_ME&S_MAX\n"
+"string.text"
+msgid "The connection name is contained in the other one."
+msgstr "Ühenduse nimi sisaldub teises nimes."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NOT_BINDABLE&S_MAX\n"
+"string.text"
+msgid "The connection name cannot be connected. This is a relative name."
+msgstr "Ühenduse nimega ühendumine pole võimalik. See on suhteline nimi."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOT_IMPLEMENTED&S_MAX\n"
+"string.text"
+msgid "Operation not implemented."
+msgstr "Operatsioon pole realiseeritud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_STORAGE&S_MAX\n"
+"string.text"
+msgid "No storage."
+msgstr "Ruum on otsas."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_FALSE&S_MAX\n"
+"string.text"
+msgid "False."
+msgstr "Väär."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NEED_GENERIC&S_MAX\n"
+"string.text"
+msgid "Monikers must be composed generically."
+msgstr "Vastuvõtjaid peab koostama üldiselt."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_PENDING&S_MAX\n"
+"string.text"
+msgid "Data not available at this time."
+msgstr "Seekord pole andmeid saadaval."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOT_INPLACEACTIVE & S_MAX\n"
+"string.text"
+msgid "Object could not be activated InPlace."
+msgstr "Objekti pole võimalik koha peal aktiveerida."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_LINDEX & S_MAX\n"
+"string.text"
+msgid "Invalid index."
+msgstr "Vigane indeks."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_CANNOT_DOVERB_NOW & S_MAX\n"
+"string.text"
+msgid "The action cannot be executed in the object's current state."
+msgstr "Toimingut ei saa objekti praeguses olekus teostada."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_OLEOBJ_INVALIDHWND & S_MAX\n"
+"string.text"
+msgid "An invalid window was passed when activated."
+msgstr "Aktiveerimisel edastati vigane aken."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOVERBS & S_MAX\n"
+"string.text"
+msgid "The object does not support any actions."
+msgstr "Objekt ei toeta ühtegi toimingut."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_INVALIDVERB & S_MAX\n"
+"string.text"
+msgid "The action is not defined. The default action will be executed."
+msgstr "See toiming pole defineeritud. Käivitatakse vaikimisi toiming."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_CONNECT & S_MAX\n"
+"string.text"
+msgid "A link to the network could not be re-established."
+msgstr "Võrguühenduse taastamine ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOTIMPL & S_MAX\n"
+"string.text"
+msgid "Object does not support this action."
+msgstr "Objekt ei toeta seda toimingut."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_CANTOPENFILE & S_MAX\n"
+"string.text"
+msgid "The specified file could not be opened."
+msgstr "Määratletud faili avamine ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERRCTX\n"
+"ERRCTX_SO_DOVERB\n"
+"string.text"
+msgid "$(ERR) activating object"
+msgstr "$(ERR) objekti aktiveerimisel"
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_ERROR_OBJNOCREATE\n"
+"string.text"
+msgid "Object % could not be inserted."
+msgstr "Objekti % lisamine ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_ERROR_OBJNOCREATE_FROM_FILE\n"
+"string.text"
+msgid "Object from file % could not be inserted."
+msgstr "Objekti lisamine failist % ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_ERROR_OBJNOCREATE_PLUGIN\n"
+"string.text"
+msgid "Plug-in from document % could not be inserted."
+msgstr "Plugina lisamine dokumendist % ei õnnestunud."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_FURTHER_OBJECT\n"
+"string.text"
+msgid "Further objects"
+msgstr "Muud objektid"
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_UNKNOWN_SOURCE\n"
+"string.text"
+msgid "Unknown source"
+msgstr "Tundmatu server"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "Lõpeta"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_NEXT\n"
+"string.text"
+msgid "~Next >>"
+msgstr "Edasi >>"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_PREVIOUS\n"
+"string.text"
+msgid "<< Bac~k"
+msgstr "<< Tagasi"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_ROADMAP_TITLE\n"
+"string.text"
+msgid "Steps"
+msgstr "Sammud"

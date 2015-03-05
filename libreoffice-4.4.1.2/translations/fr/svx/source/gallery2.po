@@ -1,0 +1,1438 @@
+#. extracted from svx/source/gallery2
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-06-01 16:49+0200\n"
+"Last-Translator: sophie <gautier.sophie@gmail.com>\n"
+"Language-Team: ll.org\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1356521138.0\n"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXDLG_GALLERYBROWSER\n"
+"dockingwindow.text"
+msgid "Gallery"
+msgstr "Gallery"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ACTUALIZE_PROGRESS\n"
+"string.text"
+msgid "Update"
+msgstr "Actualiser"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FOPENERROR\n"
+"string.text"
+msgid "This file cannot be opened"
+msgstr "Impossible d'ouvrir ce fichier"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOTHEME\n"
+"string.text"
+msgid "Invalid Theme Name!"
+msgstr "Le nom du thème est incorrect !"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT1_UI\n"
+"string.text"
+msgid "Wave - Sound File"
+msgstr "Wave - Fichier son"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT2_UI\n"
+"string.text"
+msgid "Audio Interchange File Format"
+msgstr "Audio Interchange File Format"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT3_UI\n"
+"string.text"
+msgid "AU - Sound File"
+msgstr "AU - Fichier son"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FILTER\n"
+"string.text"
+msgid "Graphics filter"
+msgstr "Filtre d'images"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LENGTH\n"
+"string.text"
+msgid "Length:"
+msgstr "Longueur :"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SIZE\n"
+"string.text"
+msgid "Size:"
+msgstr "Taille :"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DELETEDD\n"
+"string.text"
+msgid "Do you want to delete the linked file?"
+msgstr "Voulez-vous supprimer le fichier lié ?"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SGIERROR\n"
+"string.text"
+msgid ""
+"This file cannot be opened.\n"
+"Do you want to enter a different search path? "
+msgstr ""
+"Impossible d'ouvrir ce fichier.\n"
+"Voulez-vous indiquer un autre chemin de recherche ? "
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NEWTHEME\n"
+"string.text"
+msgid "New Theme"
+msgstr "Nouveau thème"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_BROWSER\n"
+"string.text"
+msgid "~Organizer..."
+msgstr "~Gérer..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_THEMEERR\n"
+"string.text"
+msgid ""
+"This theme name already exists.\n"
+"Please choose a different one."
+msgstr ""
+"Le nom de ce thème existe déjà.\n"
+"Veuillez en choisir un autre."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_IMPORTTHEME\n"
+"string.text"
+msgid "I~mport..."
+msgstr "Im~porter..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_CREATETHEME\n"
+"string.text"
+msgid "New Theme..."
+msgstr "Nouveau thème..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DIALOGID\n"
+"string.text"
+msgid "Assign ID"
+msgstr "Attribuer un ID"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Titre"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "Chemin"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ICONVIEW\n"
+"string.text"
+msgid "Icon View"
+msgstr "Affichage des icônes"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LISTVIEW\n"
+"string.text"
+msgid "Detailed View"
+msgstr "Liste détaillée"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ACTUALIZE\n"
+"menuitem.text"
+msgid "Update"
+msgstr "Actualiser"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Supprimer"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~Renommer"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ASSIGN_ID\n"
+"menuitem.text"
+msgid "Assign ~ID"
+msgstr "Attribuer un ~ID"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_PROPERTIES\n"
+"menuitem.text"
+msgid "Propert~ies..."
+msgstr "Propr~iétés..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_ADD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "~Insérer"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_BACKGROUND\n"
+"menuitem.text"
+msgid "Insert as Bac~kground"
+msgstr "Insérer ~comme arrière-plan"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PREVIEW\n"
+"menuitem.text"
+msgid "~Preview"
+msgstr "~Aperçu"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_TITLE\n"
+"menuitem.text"
+msgid "~Title"
+msgstr "~Titre"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Supprimer"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_COPYCLIPBOARD\n"
+"menuitem.text"
+msgid "~Copy"
+msgstr "C~opier"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PASTECLIPBOARD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "~Insérer"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_3D\n"
+"string.text"
+msgid "3D Effects"
+msgstr "Effets 3D"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMATIONS\n"
+"string.text"
+msgid "Animations"
+msgstr "Animations"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BULLETS\n"
+"string.text"
+msgid "Bullets"
+msgstr "Puces"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OFFICE\n"
+"string.text"
+msgid "Office"
+msgstr "Bureau"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS\n"
+"string.text"
+msgid "Flags"
+msgstr "Drapeaux"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS\n"
+"string.text"
+msgid "Flow Charts"
+msgstr "Organigrammes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr "Frimousses"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS\n"
+"string.text"
+msgid "Pictures"
+msgstr "Photos"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BACKGROUNDS\n"
+"string.text"
+msgid "Backgrounds"
+msgstr "Arrière-plans"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE\n"
+"string.text"
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_INTERACTION\n"
+"string.text"
+msgid "Interaction"
+msgstr "Interaction"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS\n"
+"string.text"
+msgid "Maps"
+msgstr "Cartes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE\n"
+"string.text"
+msgid "People"
+msgstr "Personnes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SURFACES\n"
+"string.text"
+msgid "Surfaces"
+msgstr "Textures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTERS\n"
+"string.text"
+msgid "Computers"
+msgstr "Ordinateurs"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DIAGRAMS\n"
+"string.text"
+msgid "Diagrams"
+msgstr "Diagrammes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ENVIRONMENT\n"
+"string.text"
+msgid "Environment"
+msgstr "Environnement"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCE\n"
+"string.text"
+msgid "Finance"
+msgstr "Finance"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TRANSPORT\n"
+"string.text"
+msgid "Transport"
+msgstr "Transport"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TXTSHAPES\n"
+"string.text"
+msgid "Textshapes"
+msgstr "Formes de texte"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SOUNDS\n"
+"string.text"
+msgid "Sounds"
+msgstr "Sons"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SYMBOLS\n"
+"string.text"
+msgid "Symbols"
+msgstr "Symboles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MYTHEME\n"
+"string.text"
+msgid "My Theme"
+msgstr "Mon thème"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "Flèches"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BALLOONS\n"
+"string.text"
+msgid "Balloons"
+msgstr "Bulles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_KEYBOARD\n"
+"string.text"
+msgid "Keyboard"
+msgstr "Clavier"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Heure"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PRESENTATION\n"
+"string.text"
+msgid "Presentation"
+msgstr "Présentation"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CALENDAR\n"
+"string.text"
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Navigation"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMMUNICATION\n"
+"string.text"
+msgid "Communication"
+msgstr "Communication"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCES\n"
+"string.text"
+msgid "Finances"
+msgstr "Économie"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER\n"
+"string.text"
+msgid "Computers"
+msgstr "Ordinateurs"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLIMA\n"
+"string.text"
+msgid "Climate"
+msgstr "Climat"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EDUCATION\n"
+"string.text"
+msgid "School & University"
+msgstr "École & université"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TROUBLE\n"
+"string.text"
+msgid "Problem Solving"
+msgstr "Solutions"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SCREENBEANS\n"
+"string.text"
+msgid "Screen Beans"
+msgstr "ScreenBeans"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_POLYGONS\n"
+"string.text"
+msgid "Shapes - polygons"
+msgstr "Formes – polygones"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_1\n"
+"string.text"
+msgid "Shapes 1"
+msgstr "Formes 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_2\n"
+"string.text"
+msgid "Shapes 2"
+msgstr "Formes 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMALS\n"
+"string.text"
+msgid "Animals"
+msgstr "Animaux"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CARS\n"
+"string.text"
+msgid "Cars"
+msgstr "Voitures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUGS\n"
+"string.text"
+msgid "Bugs"
+msgstr "Insectes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_OTHER\n"
+"string.text"
+msgid "Cisco - Other"
+msgstr "Cisco – autres"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_MEDIA\n"
+"string.text"
+msgid "Cisco - Media"
+msgstr "Cisco - média"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_PRODUCTS\n"
+"string.text"
+msgid "Cisco - Products"
+msgstr "Cisco – produits"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_WAN_LAN\n"
+"string.text"
+msgid "Cisco - WAN - LAN"
+msgstr "Cisco - WAN - LAN"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_USUAL\n"
+"string.text"
+msgid "Domino - usual"
+msgstr "Domino – courants"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_NUMBERED\n"
+"string.text"
+msgid "Domino - numbered"
+msgstr "Domino – numérotés"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_1\n"
+"string.text"
+msgid "Electronics - parts 1"
+msgstr "Électronique – partie 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_2\n"
+"string.text"
+msgid "Electronics - parts 2"
+msgstr "Électronique – partie 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_3\n"
+"string.text"
+msgid "Electronics - parts 3"
+msgstr "Électronique – partie 3"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_4\n"
+"string.text"
+msgid "Electronics - parts 4"
+msgstr "Électronique – partie 4"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_CIRCUIT\n"
+"string.text"
+msgid "Electronics - circuit"
+msgstr "Électronique – circuits"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_SIGNS\n"
+"string.text"
+msgid "Electronics - signs"
+msgstr "Électronique – signes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_GAUGES\n"
+"string.text"
+msgid "Electronics - gauges"
+msgstr "Électronique – jauges"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE_1\n"
+"string.text"
+msgid "People"
+msgstr "Personnes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_OVERLAY\n"
+"string.text"
+msgid "Architecture - overlay"
+msgstr "Architecture – revêtement"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_FURNITURES\n"
+"string.text"
+msgid "Architecture - furniture"
+msgstr "Architecture – meubles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BUILDINGS\n"
+"string.text"
+msgid "Architecture - buildings"
+msgstr "Architecture – immeubles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BATHROOM_KITCHEN\n"
+"string.text"
+msgid "Architecture - bathroom, kitchen"
+msgstr "Architecture – SDB, cuisine"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_KITCHEN\n"
+"string.text"
+msgid "Architecture - kitchen"
+msgstr "Architecture – cuisine"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_WINDOWS_DOORS\n"
+"string.text"
+msgid "Architecture - windows, doors"
+msgstr "Architecture – fenêtres, portes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_1\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Organigrammes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_2\n"
+"string.text"
+msgid "Flowcharts 2"
+msgstr "Organigrammes 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FORALSTUDIOA\n"
+"string.text"
+msgid "Foral-StudioA"
+msgstr "Foral-StudioA"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FAUNA\n"
+"string.text"
+msgid "Photos - Fauna"
+msgstr "Photos – faune"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_BUILDINGS\n"
+"string.text"
+msgid "Photos - Buildings"
+msgstr "Photos – immeubles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_PLANTS\n"
+"string.text"
+msgid "Photos - Plants"
+msgstr "Photos – plantes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_STATUES\n"
+"string.text"
+msgid "Photos - Statues"
+msgstr "Photos - statues"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_LANDSCAPES\n"
+"string.text"
+msgid "Photos - Landscapes"
+msgstr "Photos – paysages"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CITIES\n"
+"string.text"
+msgid "Photos - Cities"
+msgstr "Photos – villes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FLOWERS\n"
+"string.text"
+msgid "Photos - Flowers"
+msgstr "Photos – fleurs"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_THERAPEUTICS_GENERAL\n"
+"string.text"
+msgid "Therapeutics - general"
+msgstr "Soins de santé – divers"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_WEATHER\n"
+"string.text"
+msgid "Weather"
+msgstr "Météo"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_VECHILES\n"
+"string.text"
+msgid "Vehicles"
+msgstr "Véhicules"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS\n"
+"string.text"
+msgid "Signs"
+msgstr "Panneaux de signalisation"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BLUE_MAN\n"
+"string.text"
+msgid "Blue Man"
+msgstr "Homme bleu"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CHEMISTRY_AMINO_ACIDS\n"
+"string.text"
+msgid "Chemistry - Amino acids"
+msgstr "Chimie – acides aminés"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_SIGNS\n"
+"string.text"
+msgid "Logical signs"
+msgstr "Panneaux logiques"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_GATES\n"
+"string.text"
+msgid "Logical gates"
+msgstr "Portes logiques"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGOS\n"
+"string.text"
+msgid "Logos"
+msgstr "Logos"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SMILES\n"
+"string.text"
+msgid "Smilies"
+msgstr "Émoticones"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS_1\n"
+"string.text"
+msgid "Arrows"
+msgstr "Flèches"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_01_CLOCK\n"
+"string.text"
+msgid "Clock - 01 clock"
+msgstr "Horloge – 01 heure"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_02_CLOCK\n"
+"string.text"
+msgid "Clock - 02 clock"
+msgstr "Horloge – 02 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_03_CLOCK\n"
+"string.text"
+msgid "Clock - 03 clock"
+msgstr "Horloge – 03 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_04_CLOCK\n"
+"string.text"
+msgid "Clock - 04 clock"
+msgstr "Horloge – 04 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_05_CLOCK\n"
+"string.text"
+msgid "Clock - 05 clock"
+msgstr "Horloge – 05 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_06_CLOCK\n"
+"string.text"
+msgid "Clock - 06 clock"
+msgstr "Horloge – 06 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_07_CLOCK\n"
+"string.text"
+msgid "Clock - 07 clock"
+msgstr "Horloge – 07 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_08_CLOCK\n"
+"string.text"
+msgid "Clock - 08 clock"
+msgstr "Horloge – 08 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_09_CLOCK\n"
+"string.text"
+msgid "Clock - 09 clock"
+msgstr "Horloge – 09 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_10_CLOCK\n"
+"string.text"
+msgid "Clock - 10 clock"
+msgstr "Horloge – 10 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_11_CLOCK\n"
+"string.text"
+msgid "Clock - 11 clock"
+msgstr "Horloge – 11 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_12_CLOCK\n"
+"string.text"
+msgid "Clock - 12 clock"
+msgstr "Horloge – 12 heures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PNEUMATIC_PARTS\n"
+"string.text"
+msgid "Pneumatic - parts"
+msgstr "Pneumatique – composants"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_GENERAL\n"
+"string.text"
+msgid "Computer - general"
+msgstr "Ordinateurs – général"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK\n"
+"string.text"
+msgid "Computer - network"
+msgstr "Ordinateurs – réseau"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK_DEVICES\n"
+"string.text"
+msgid "Computer - network devices"
+msgstr "Ordinateurs – périphériques réseau"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_WIFI\n"
+"string.text"
+msgid "Computer - WIFI"
+msgstr "Ordinateurs – WIFI"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NUMBERS\n"
+"string.text"
+msgid "Numbers"
+msgstr "Nombres"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS_DANGER\n"
+"string.text"
+msgid "Signs - danger"
+msgstr "Panneaux - danger"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OBJECTS\n"
+"string.text"
+msgid "Objects"
+msgstr "Objets"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AFRICA\n"
+"string.text"
+msgid "Maps - Africa"
+msgstr "Cartes – Afrique"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_UNITED_STATES_OF_AMERICA\n"
+"string.text"
+msgid "Maps - United States of America"
+msgstr "Cartes – États-Unis d'Amérique"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AUSTRALIA\n"
+"string.text"
+msgid "Maps - Australia"
+msgstr "Cartes – Australie"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ASIA\n"
+"string.text"
+msgid "Maps - Asia"
+msgstr "Cartes – Asie"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SOUTH_AMERICA\n"
+"string.text"
+msgid "Maps - South America"
+msgstr "Cartes – Amérique Latine"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE\n"
+"string.text"
+msgid "Maps - Europe"
+msgstr "Cartes – Europe"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE_1\n"
+"string.text"
+msgid "Maps - Europe 1"
+msgstr "Cartes – Europe 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE\n"
+"string.text"
+msgid "Maps - France"
+msgstr "Cartes – France"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE_COUNTRIES\n"
+"string.text"
+msgid "Maps - France - countries"
+msgstr "Cartes – France – régions"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SIGNS\n"
+"string.text"
+msgid "Maps - signs"
+msgstr "Cartes – panneaux"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CANADA\n"
+"string.text"
+msgid "Maps - Canada"
+msgstr "Cartes – Canada"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CONTINENTS\n"
+"string.text"
+msgid "Maps - Continents"
+msgstr "Cartes – continents"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_EAST\n"
+"string.text"
+msgid "Maps - Middle East"
+msgstr "Cartes – Moyen-Orient"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AMERICA\n"
+"string.text"
+msgid "Maps - Middle America"
+msgstr "Cartes – Amérique Centrale"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AGES\n"
+"string.text"
+msgid "Maps - Middle ages"
+msgstr "Cartes – Moyen Âge"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MEXICO\n"
+"string.text"
+msgid "Maps - Mexico"
+msgstr "Cartes – Mexique"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ANCIENT_TIMES\n"
+"string.text"
+msgid "Maps - Ancient times"
+msgstr "Cartes – antiquité"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SYMBOLS\n"
+"string.text"
+msgid "Maps - symbols"
+msgstr "Cartes – symboles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_HISTORY_1900\n"
+"string.text"
+msgid "Maps - history - 1900"
+msgstr "Cartes – histoire – 1900"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_WORLD\n"
+"string.text"
+msgid "Maps - World"
+msgstr "Cartes – monde"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CROPS\n"
+"string.text"
+msgid "Crops"
+msgstr "Cultures"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FRACTIONS\n"
+"string.text"
+msgid "Fractions"
+msgstr "Fractions"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS_1\n"
+"string.text"
+msgid "Flags"
+msgstr "Drapeaux"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_INSTRUMENTS\n"
+"string.text"
+msgid "Music - instruments"
+msgstr "Musique – instruments"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_SHEET_MUSIC\n"
+"string.text"
+msgid "Music - sheet music"
+msgstr "Musique – partitions"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SPECIAL_PICTOGRAMM\n"
+"string.text"
+msgid "Special Pictograms"
+msgstr "Pictogrammes spéciaux"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CELEBRATION\n"
+"string.text"
+msgid "Photos - Celebration"
+msgstr "Photos – fêtes"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FOODSANDDRINKS\n"
+"string.text"
+msgid "Photos - Foods and Drinks"
+msgstr "Photos – alimentation"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_HUMANS\n"
+"string.text"
+msgid "Photos - Humans"
+msgstr "Photos - humains"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_OBJECTS\n"
+"string.text"
+msgid "Photos - Objects"
+msgstr "Photos – objets"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_SPACE\n"
+"string.text"
+msgid "Photos - Space"
+msgstr "Photos – espace"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_TRAVEL\n"
+"string.text"
+msgid "Photos - Travel"
+msgstr "Photos – voyage"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OPENOFFICEORG_LOGOS\n"
+"string.text"
+msgid "OpenOffice.org logos"
+msgstr "Logos OpenOffice.org"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_RELIGION\n"
+"string.text"
+msgid "Religion"
+msgstr "Religion"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUILDINGS\n"
+"string.text"
+msgid "Buildings"
+msgstr "Immeubles"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE2\n"
+"string.text"
+msgid "Homepage 2"
+msgstr "Accueil 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELEMENTSBULLETS2\n"
+"string.text"
+msgid "Bullets 2"
+msgstr "Puces 2"

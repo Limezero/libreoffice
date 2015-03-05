@@ -1,0 +1,4760 @@
+#. extracted from svx/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreOffice 4.4\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-02-08 23:37+0100\n"
+"PO-Revision-Date: 2015-01-18 00:28+0200\n"
+"Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
+"Language-Team: sl.libreoffice.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Project-Style: openoffice\n"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"AcceptRejectChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Manage Changes"
+msgstr "Upravljaj spremembe"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"accept\n"
+"label\n"
+"string.text"
+msgid "_Accept"
+msgstr "_Sprejmi"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"reject\n"
+"label\n"
+"string.text"
+msgid "_Reject"
+msgstr "_Zavrni"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"acceptall\n"
+"label\n"
+"string.text"
+msgid "A_ccept All"
+msgstr "S_prejmi vse"
+
+#: acceptrejectchangesdialog.ui
+msgctxt ""
+"acceptrejectchangesdialog.ui\n"
+"rejectall\n"
+"label\n"
+"string.text"
+msgid "R_eject All"
+msgstr "Za_vrni vse"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"AddConditionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Condition"
+msgstr "Dodaj pogoj"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Condition:"
+msgstr "_Pogoj:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Result:"
+msgstr "_Rezultat:"
+
+#: addconditiondialog.ui
+msgctxt ""
+"addconditiondialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit Namespaces..."
+msgstr "_Uredi imenske prostore ..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Ime:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"valueft\n"
+"label\n"
+"string.text"
+msgid "_Default value:"
+msgstr "_Privzeta vrednost:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Item"
+msgstr "Element"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"datatypeft\n"
+"label\n"
+"string.text"
+msgid "_Data type:"
+msgstr "Vrsta po_datkov:"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"required\n"
+"label\n"
+"string.text"
+msgid "_Required"
+msgstr "_Zahtevano"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"requiredcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Pogoj"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevant\n"
+"label\n"
+"string.text"
+msgid "R_elevant"
+msgstr "_Ustrezen"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"relevantcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Pogoj"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraint\n"
+"label\n"
+"string.text"
+msgid "_Constraint"
+msgstr "_Omejitev"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonly\n"
+"label\n"
+"string.text"
+msgid "Read-_only"
+msgstr "Sam_o za branje"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calc_ulate"
+msgstr "Izrač_unaj"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"constraintcond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Pogoj"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"readonlycond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Pogoj"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"calculatecond\n"
+"label\n"
+"string.text"
+msgid "Condition"
+msgstr "Pogoj"
+
+#: adddataitemdialog.ui
+msgctxt ""
+"adddataitemdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"AddInstanceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Instance"
+msgstr "Dodaj primer"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Ime:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Instance"
+msgstr "Uredi primer"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "_URL:"
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: addinstancedialog.ui
+msgctxt ""
+"addinstancedialog.ui\n"
+"link\n"
+"label\n"
+"string.text"
+msgid "_Link instance"
+msgstr "_Primer povezave"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"AddModelDialog\n"
+"title\n"
+"string.text"
+msgid "Add Model"
+msgstr "Dodaj model"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "Model data updates change document's modification status"
+msgstr "Posodobitve podatkov modela spremenijo stanje sprememb dokumenta"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Ime:"
+
+#: addmodeldialog.ui
+msgctxt ""
+"addmodeldialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Model"
+msgstr "Uredi model"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"AddNamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Add Namespace"
+msgstr "Dodaj imenski prostor"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Prefix:"
+msgstr "_Predpona:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_URL:"
+msgstr "_URL:"
+
+#: addnamespacedialog.ui
+msgctxt ""
+"addnamespacedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Edit Namespace"
+msgstr "Uredi imenski prostor"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"AddSubmissionDialog\n"
+"title\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Dodaj oddajanje"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Ime:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Binding e_xpression:"
+msgstr "Vezavni _izraz:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Action:"
+msgstr "_Dejanje:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Method:"
+msgstr "_Metoda:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "_Binding:"
+msgstr "_Vezava:"
+
+#: addsubmissiondialog.ui
+msgctxt ""
+"addsubmissiondialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Replace:"
+msgstr "_Zamenjaj:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"AsianPhoneticGuideDialog\n"
+"title\n"
+"string.text"
+msgid "Asian Phonetic Guide"
+msgstr "Vodnik za azijsko izgovorjavo"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"basetextft\n"
+"label\n"
+"string.text"
+msgid "Base text "
+msgstr "Osnovno besedilo"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"rubytextft\n"
+"label\n"
+"string.text"
+msgid "Ruby text"
+msgstr "Fonetični zapis"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Alignment:"
+msgstr "Poravnava:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Position:"
+msgstr "Položaj:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styleft\n"
+"label\n"
+"string.text"
+msgid "Character style for ruby text:"
+msgstr "Slog znakov za fonetični zapis:"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"styles\n"
+"label\n"
+"string.text"
+msgid "Styles"
+msgstr "Slogi"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"0\n"
+"stringlist.text"
+msgid "Left"
+msgstr "Levo"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"1\n"
+"stringlist.text"
+msgid "Center"
+msgstr "Na sredini"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"2\n"
+"stringlist.text"
+msgid "Right"
+msgstr "Desno"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"3\n"
+"stringlist.text"
+msgid "0 1 0"
+msgstr "0 1 0"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"adjustlb\n"
+"4\n"
+"stringlist.text"
+msgid "1 2 1"
+msgstr "1 2 1"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"0\n"
+"stringlist.text"
+msgid "Top"
+msgstr "Zgoraj"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"positionlb\n"
+"1\n"
+"stringlist.text"
+msgid "Bottom"
+msgstr "Spodaj"
+
+#: asianphoneticguidedialog.ui
+msgctxt ""
+"asianphoneticguidedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Preview:"
+msgstr "Predogled:"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"ChineseConversionDialog\n"
+"title\n"
+"string.text"
+msgid "Chinese Conversion"
+msgstr "Kitajska pretvorba"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"tosimplified\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "Iz _tradicionalne kitajščine v poenostavljeno kitajščino"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"totraditional\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "Iz _poenostavljene kitajščine v tradicionalno kitajščino"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Conversion Direction"
+msgstr "Smer pretvorbe"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"commonterms\n"
+"label\n"
+"string.text"
+msgid "Translate _common terms"
+msgstr "Prevedi _pogoste izraze"
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"editterms\n"
+"label\n"
+"string.text"
+msgid "_Edit Terms..."
+msgstr "_Uredi izraze ..."
+
+#: chineseconversiondialog.ui
+msgctxt ""
+"chineseconversiondialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Common Terms"
+msgstr "Pogosti izrazi"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"ChineseDictionaryDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Dictionary"
+msgstr "Uredi slovar"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"tradtosimple\n"
+"label\n"
+"string.text"
+msgid "_Traditional Chinese to simplified Chinese"
+msgstr "Iz _tradicionalne kitajščine v poenostavljeno kitajščino"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"simpletotrad\n"
+"label\n"
+"string.text"
+msgid "_Simplified Chinese to traditional Chinese"
+msgstr "Iz _poenostavljene kitajščine v tradicionalno kitajščino"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"reverse\n"
+"label\n"
+"string.text"
+msgid "Reverse mapping"
+msgstr "Obratno preslikovanje"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"termft\n"
+"label\n"
+"string.text"
+msgid "Term"
+msgstr "Izraz"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"mappingft\n"
+"label\n"
+"string.text"
+msgid "Mapping"
+msgstr "Preslikovanje"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"propertyft\n"
+"label\n"
+"string.text"
+msgid "Property"
+msgstr "Lastnost"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"0\n"
+"stringlist.text"
+msgid "Other"
+msgstr "Drugo"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"1\n"
+"stringlist.text"
+msgid "Foreign"
+msgstr "Tujka"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"2\n"
+"stringlist.text"
+msgid "First name"
+msgstr "Ime"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"3\n"
+"stringlist.text"
+msgid "Last name"
+msgstr "Priimek"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"4\n"
+"stringlist.text"
+msgid "Title"
+msgstr "Naslov"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"5\n"
+"stringlist.text"
+msgid "Status"
+msgstr "Stanje"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"6\n"
+"stringlist.text"
+msgid "Place name"
+msgstr "Krajevno ime"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"7\n"
+"stringlist.text"
+msgid "Business"
+msgstr "Poslovno"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"8\n"
+"stringlist.text"
+msgid "Adjective"
+msgstr "Pridevnik"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"9\n"
+"stringlist.text"
+msgid "Idiom"
+msgstr "Posebnost govora"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"10\n"
+"stringlist.text"
+msgid "Abbreviation"
+msgstr "Okrajšava"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"11\n"
+"stringlist.text"
+msgid "Numerical"
+msgstr "Števnik"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"12\n"
+"stringlist.text"
+msgid "Noun"
+msgstr "Samostalnik"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"13\n"
+"stringlist.text"
+msgid "Verb"
+msgstr "Glagol"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"property\n"
+"14\n"
+"stringlist.text"
+msgid "Brand name"
+msgstr "Ime blagovne znamke"
+
+#: chinesedictionary.ui
+msgctxt ""
+"chinesedictionary.ui\n"
+"modify\n"
+"label\n"
+"string.text"
+msgid "_Modify"
+msgstr "_Spremeni"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Recent"
+msgstr "Zadnje uporabljeno"
+
+#: colorwindow.ui
+msgctxt ""
+"colorwindow.ui\n"
+"color_picker_button\n"
+"label\n"
+"string.text"
+msgid "Custom Color…"
+msgstr "Barva po meri ..."
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"CompressGraphicDialog\n"
+"title\n"
+"string.text"
+msgid "Compress Image"
+msgstr "Stisni sliko"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-lossless\n"
+"label\n"
+"string.text"
+msgid "Lossless compression"
+msgstr "Stiskanje brez izgub"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"checkbox-reduce-resolution\n"
+"label\n"
+"string.text"
+msgid "Reduce image resolution"
+msgstr "Zmanjšaj ločljivost slik"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Width:"
+msgstr "Širina:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "Višina:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"radio-jpeg\n"
+"label\n"
+"string.text"
+msgid "JPEG compression"
+msgstr "Stiskanje JPEG"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Resolution:"
+msgstr "Ločljivost:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Quality:"
+msgstr "Kakovost:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Compression:"
+msgstr "Stiskanje:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Interpolation:"
+msgstr "Interpolacija:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "sl. točk"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "sl. točk"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "DPI"
+msgstr "slik. točk/palec (DPI)"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Compression Options"
+msgstr "Možnosti tiskanja"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Original size:"
+msgstr "Izvirna velikost:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "View size:"
+msgstr "Vidna velikost:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Image capacity:"
+msgstr "Kapaciteta slike:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "New capacity:"
+msgstr "Nova kapaciteta:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"calculate\n"
+"label\n"
+"string.text"
+msgid "Calculate"
+msgstr "Izračunaj"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "Type:"
+msgstr "Vrsta:"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Image Information"
+msgstr "Podatki o sliki"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Brez"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"1\n"
+"stringlist.text"
+msgid "Bilinear"
+msgstr "Bilinearno"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"2\n"
+"stringlist.text"
+msgid "Bicubic"
+msgstr "Bikubično"
+
+#: compressgraphicdialog.ui
+msgctxt ""
+"compressgraphicdialog.ui\n"
+"interpolation-method-store\n"
+"3\n"
+"stringlist.text"
+msgid "Lanczos"
+msgstr "Lanczos"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsbutton\n"
+"label\n"
+"string.text"
+msgid "_Models"
+msgstr "_Modeli"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instance\n"
+"label\n"
+"string.text"
+msgid "Instance"
+msgstr "Primer"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"submissions\n"
+"label\n"
+"string.text"
+msgid "Submissions"
+msgstr "Oddajanja"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"bindings\n"
+"label\n"
+"string.text"
+msgid "Bindings"
+msgstr "Vezave"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instances\n"
+"label\n"
+"string.text"
+msgid "_Instances"
+msgstr "Pojavitve"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Dodaj ..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Uredi ..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesremove\n"
+"label\n"
+"string.text"
+msgid "_Remove..."
+msgstr "Odst_rani"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"instancesdetails\n"
+"label\n"
+"string.text"
+msgid "_Show Details"
+msgstr "_Pokaži podrobnosti"
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsadd\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Dodaj ..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsedit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Uredi ..."
+
+#: datanavigator.ui
+msgctxt ""
+"datanavigator.ui\n"
+"modelsremove\n"
+"label\n"
+"string.text"
+msgid "_Remove"
+msgstr "Odst_rani"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"title\n"
+"string.text"
+msgid "Delete footer?"
+msgstr "Želite izbrisati nogo?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the footer?"
+msgstr "Ali ste prepričani, da želite izbrisati nogo?"
+
+#: deletefooterdialog.ui
+msgctxt ""
+"deletefooterdialog.ui\n"
+"DeleteFooterDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the footer will be deleted and can not be restored."
+msgstr "Celotna vsebina noge bo izbrisana in je ne bo mogoče obnoviti."
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"title\n"
+"string.text"
+msgid "Delete header?"
+msgstr "Želite izbrisati glavo?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the header?"
+msgstr "Ali ste prepričani, da želite izbrisati glavo?"
+
+#: deleteheaderdialog.ui
+msgctxt ""
+"deleteheaderdialog.ui\n"
+"DeleteHeaderDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "All contents of the header will be deleted and can not be restored."
+msgstr "Celotna vsebina glave bo izbrisana in je ne bo mogoče obnoviti."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"DocRecoveryBrokenDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "_Save"
+msgstr "_Shrani"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid ""
+"The automatic recovery process was interrupted.\n"
+"\n"
+"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+msgstr ""
+"Postopek samodejne obnovitve je bil prekinjen.\n"
+"\n"
+"Spodaj navedeni dokumenti bodo shranjeni v spodaj izpisani mapi, če kliknete »Shrani«. Kliknite »Prekliči« za izhod iz čarovnika brez shranjevanja dokumentov."
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Documents:"
+msgstr "Dokumenti:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Save to:"
+msgstr "_Shrani v:"
+
+#: docrecoverybrokendialog.ui
+msgctxt ""
+"docrecoverybrokendialog.ui\n"
+"change\n"
+"label\n"
+"string.text"
+msgid "Chan_ge..."
+msgstr "Spre_meni ..."
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"DocRecoveryProgressDialog\n"
+"title\n"
+"string.text"
+msgid "Documents Are Being Saved"
+msgstr "Dokumenti se shranjujejo"
+
+#: docrecoveryprogressdialog.ui
+msgctxt ""
+"docrecoveryprogressdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Progress of saving:"
+msgstr "Napredek shranjevanja:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"DocRecoveryRecoverDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"next\n"
+"label\n"
+"string.text"
+msgid "_Start Recovery >"
+msgstr "_Začni obnavljanje >"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Discard Recovery Data"
+msgstr "Zavrzi obnovljene podatke"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"desc\n"
+"label\n"
+"string.text"
+msgid ""
+"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"\n"
+"Press 'Discard Recovery Data' to abandon attempting recovery of these documents.\n"
+"\n"
+"The 'Status' column shows whether the document can be recovered."
+msgstr ""
+"Pritisnite »Začni obnavljanje«, da se začne obnovitev dokumentov, navedenih spodaj.\n"
+"\n"
+"Pritisnite »Zavrzi obnovljene podatke«, da opustite poskus obnove teh dokumentov.\n"
+"\n"
+"Stolpec »Stanje« prikazuje, ali je bil dokument uspešno obnovljen."
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Status of recovered documents:"
+msgstr "Stanje obnovljenih dokumentov:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "Document Name"
+msgstr "Ime dokumenta"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"statusft\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Stanje"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Recovering document:"
+msgstr "Obnavljanje dokumenta:"
+
+#: docrecoveryrecoverdialog.ui
+msgctxt ""
+"docrecoveryrecoverdialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "Obnovitev dokumenta %PRODUCTNAME"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"DocRecoverySaveDialog\n"
+"title\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
+msgstr "Program %PRODUCTNAME se je sesul iz neznanega vzroka. Vse datoteke, s katerimi ste delali, bodo zdaj shranjene. Ob prvem naslednjem zagonu %PRODUCTNAME bodo vaše datoteke samodejno obnovljene."
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "The following files will be recovered:"
+msgstr "Obnovljene bodo naslednje datoteke:"
+
+#: docrecoverysavedialog.ui
+msgctxt ""
+"docrecoverysavedialog.ui\n"
+"title\n"
+"label\n"
+"string.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "Obnovitev dokumenta %PRODUCTNAME"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"ExtrustionDepthDialog\n"
+"title\n"
+"string.text"
+msgid "Extrusion Depth"
+msgstr "Globina izrivanja"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Value"
+msgstr "_Vrednost"
+
+#: extrustiondepthdialog.ui
+msgctxt ""
+"extrustiondepthdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Depth"
+msgstr "Globina"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"FindReplaceDialog\n"
+"title\n"
+"string.text"
+msgid "Find & Replace"
+msgstr "Najdi in zamenjaj"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"search\n"
+"label\n"
+"string.text"
+msgid "_Find Next"
+msgstr "Naj_di naslednje"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchall\n"
+"label\n"
+"string.text"
+msgid "Find _All"
+msgstr "Najdi _vse"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search For"
+msgstr "_Išči"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replace\n"
+"label\n"
+"string.text"
+msgid "_Replace"
+msgstr "_Zamenjaj"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"replaceall\n"
+"label\n"
+"string.text"
+msgid "Replace A_ll"
+msgstr "Zamenjaj v_se"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Re_place With"
+msgstr "Za_menjaj z"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"selection\n"
+"label\n"
+"string.text"
+msgid "C_urrent selection only"
+msgstr "Sa_mo trenutni izbor"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"regexp\n"
+"label\n"
+"string.text"
+msgid "Regular e_xpressions"
+msgstr "_Regularni izrazi"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"attributes\n"
+"label\n"
+"string.text"
+msgid "Attri_butes..."
+msgstr "_Atributi ..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"format\n"
+"label\n"
+"string.text"
+msgid "For_mat..."
+msgstr "_Oblika ..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"noformat\n"
+"label\n"
+"string.text"
+msgid "_No Format"
+msgstr "_Brez oblike"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"backwards\n"
+"label\n"
+"string.text"
+msgid "Bac_kwards"
+msgstr "N_azaj"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"layout\n"
+"label\n"
+"string.text"
+msgid "Search for st_yles"
+msgstr "Išči slo_ge"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorediacritics\n"
+"label\n"
+"string.text"
+msgid "Ignore diacritics CTL"
+msgstr "Prezri razločevalne znake kompleksnih abeced (CTL)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similarity\n"
+"label\n"
+"string.text"
+msgid "S_imilarity search"
+msgstr "Iskanje p_odobnosti"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"similaritybtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Comments"
+msgstr "Komentarji"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"allsheets\n"
+"label\n"
+"string.text"
+msgid "Search in all sheets"
+msgstr "Išči na vseh listih"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslike\n"
+"label\n"
+"string.text"
+msgid "Sounds like (Japanese)"
+msgstr "Zveni kot (japonščina)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"soundslikebtn\n"
+"label\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcharwidth\n"
+"label\n"
+"string.text"
+msgid "Match character width"
+msgstr "Razlikuj širine znakov"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"ignorekashida\n"
+"label\n"
+"string.text"
+msgid "Ig_nore kashida CTL"
+msgstr "Prezri raz_ločevalne znake kompleksnih abeced (CTL)"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchinlabel\n"
+"label\n"
+"string.text"
+msgid "Search i_n:"
+msgstr "Išči _v:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"0\n"
+"stringlist.text"
+msgid "Formulas"
+msgstr "Formule"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"1\n"
+"stringlist.text"
+msgid "Values"
+msgstr "Vrednosti"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"calcsearchin\n"
+"2\n"
+"stringlist.text"
+msgid "Notes"
+msgstr "Opombe"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"searchdir\n"
+"label\n"
+"string.text"
+msgid "Search _direction:"
+msgstr "S_mer iskanja:"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"rows\n"
+"label\n"
+"string.text"
+msgid "Ro_ws"
+msgstr "V_rstice"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"cols\n"
+"label\n"
+"string.text"
+msgid "Colu_mns"
+msgstr "Stolp_ci"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Other _options"
+msgstr "Razne m_ožnosti"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"matchcase\n"
+"label\n"
+"string.text"
+msgid "Ma_tch case"
+msgstr "Ra_zlikuj velike in male črke"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"wholewords\n"
+"label\n"
+"string.text"
+msgid "Whole wor_ds only"
+msgstr "Samo cele bese_de"
+
+#: findreplacedialog.ui
+msgctxt ""
+"findreplacedialog.ui\n"
+"entirecells\n"
+"label\n"
+"string.text"
+msgid "_Entire cells"
+msgstr "_Cele celice"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"FloatingContour\n"
+"title\n"
+"string.text"
+msgid "Contour Editor"
+msgstr "Urejevalnik obrisov"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Uporabi"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_WORKPLACE\n"
+"label\n"
+"string.text"
+msgid "Workspace"
+msgstr "Delovni prostor"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Izberi"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Pravokotnik"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elipsa"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Mnogokotnik"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Uredi točke"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Premakni točke"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Vstavi točke"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Izbriši točke"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_AUTOCONTOUR\n"
+"label\n"
+"string.text"
+msgid "AutoContour"
+msgstr "Samodejno obriši"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Razveljavi"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Uveljavi"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"TBI_PIPETTE\n"
+"label\n"
+"string.text"
+msgid "Pipette"
+msgstr "Kapalka"
+
+#: floatingcontour.ui
+msgctxt ""
+"floatingcontour.ui\n"
+"spinbutton\n"
+"tooltip_text\n"
+"string.text"
+msgid "Color Tolerance"
+msgstr "Barvna odstopanja"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"FontworkGalleryDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Gallery"
+msgstr "Stavec – galerija"
+
+#: fontworkgallerydialog.ui
+msgctxt ""
+"fontworkgallerydialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a Fontwork style:"
+msgstr "Izberite slog Stavca:"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"FontworkSpacingDialog\n"
+"title\n"
+"string.text"
+msgid "Fontwork Character Spacing"
+msgstr "Stavec – razmik med znaki"
+
+#: fontworkspacingdialog.ui
+msgctxt ""
+"fontworkspacingdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Value:"
+msgstr "_Vrednost:"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "This instance is linked with the form."
+msgstr "Ta primer je povezan z obrazcem."
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"FormLinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid ""
+"The changes you make to this instance will be lost when the form is reloaded.\n"
+"\n"
+"How do you want to proceed?"
+msgstr ""
+"Spremembe primera bodo izgubljene, ko se obrazec ponovno naloži.\n"
+"\n"
+"Kako želite nadaljevati?"
+
+#: formlinkwarndialog.ui
+msgctxt ""
+"formlinkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Edit"
+msgstr "_Uredi"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkHeaderOn\n"
+"label\n"
+"string.text"
+msgid "Hea_der on"
+msgstr "G_lava vključena"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkFooterOn\n"
+"label\n"
+"string.text"
+msgid "_Footer on"
+msgstr "_Noga vključena"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameLR\n"
+"label\n"
+"string.text"
+msgid "Same _content left/right"
+msgstr "Enaka _vsebina levo/desno"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkSameFP\n"
+"label\n"
+"string.text"
+msgid "Same content on first page"
+msgstr "Enaka vsebina na prvi strani"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelLeftMarg\n"
+"label\n"
+"string.text"
+msgid "_Left margin:"
+msgstr "_Levi rob:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelRightMarg\n"
+"label\n"
+"string.text"
+msgid "R_ight margin:"
+msgstr "De_sni rob:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelSpacing\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "_Razmik:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkDynSpacing\n"
+"label\n"
+"string.text"
+msgid "Use d_ynamic spacing"
+msgstr "Uporabi _dinamične razmike"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeight\n"
+"label\n"
+"string.text"
+msgid "_Height:"
+msgstr "_Višina:"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"checkAutofit\n"
+"label\n"
+"string.text"
+msgid "_AutoFit height"
+msgstr "S_amodejno prilagodi višino"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonMore\n"
+"label\n"
+"string.text"
+msgid "More..."
+msgstr "Dodatno ..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"buttonEdit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Uredi ..."
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelHeaderFormat\n"
+"label\n"
+"string.text"
+msgid "Header"
+msgstr "Glava"
+
+#: headfootformatpage.ui
+msgctxt ""
+"headfootformatpage.ui\n"
+"labelFooterFormat\n"
+"label\n"
+"string.text"
+msgid "Footer"
+msgstr "Noga"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"ImapDialog\n"
+"title\n"
+"string.text"
+msgid "ImageMap Editor"
+msgstr "Urejevalnik slik s povezavami"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_APPLY\n"
+"label\n"
+"string.text"
+msgid "Apply"
+msgstr "Uporabi"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_OPEN\n"
+"label\n"
+"string.text"
+msgid "Open..."
+msgstr "Odpri ..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SAVEAS\n"
+"label\n"
+"string.text"
+msgid "Save..."
+msgstr "Shrani ..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_SELECT\n"
+"label\n"
+"string.text"
+msgid "Select"
+msgstr "Izberi"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_RECT\n"
+"label\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Pravokotnik"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_CIRCLE\n"
+"label\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elipsa"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLY\n"
+"label\n"
+"string.text"
+msgid "Polygon"
+msgstr "Mnogokotnik"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_FREEPOLY\n"
+"label\n"
+"string.text"
+msgid "Freeform Polygon"
+msgstr "Prostoročni mnogokotnik"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYEDIT\n"
+"label\n"
+"string.text"
+msgid "Edit Points"
+msgstr "Uredi točke"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYMOVE\n"
+"label\n"
+"string.text"
+msgid "Move Points"
+msgstr "Premakni točke"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYINSERT\n"
+"label\n"
+"string.text"
+msgid "Insert Points"
+msgstr "Vstavi točke"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_POLYDELETE\n"
+"label\n"
+"string.text"
+msgid "Delete Points"
+msgstr "Izbriši točke"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_UNDO\n"
+"label\n"
+"string.text"
+msgid "Undo "
+msgstr "Razveljavi"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_REDO\n"
+"label\n"
+"string.text"
+msgid "Redo"
+msgstr "Uveljavi"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_ACTIVE\n"
+"label\n"
+"string.text"
+msgid "Active"
+msgstr "Aktivno"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_MACRO\n"
+"label\n"
+"string.text"
+msgid "Macro..."
+msgstr "Makro ..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"TBI_PROPERTY\n"
+"label\n"
+"string.text"
+msgid "Properties..."
+msgstr "Lastnosti ..."
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"urlft\n"
+"label\n"
+"string.text"
+msgid "Address:"
+msgstr "Naslov:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"targetft\n"
+"label\n"
+"string.text"
+msgid "Frame:"
+msgstr "Okvir:"
+
+#: imapdialog.ui
+msgctxt ""
+"imapdialog.ui\n"
+"textft\n"
+"label\n"
+"string.text"
+msgid "Text:"
+msgstr "Besedilo:"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm Linked Graphic"
+msgstr "Povezana grafika"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"text\n"
+"string.text"
+msgid "The file %FILENAME will not be stored along with your document, but only referenced as a link."
+msgstr "Datoteka %FILENAME ne bo shranjena skupaj z vašim dokumentom, temveč bo povezana s sklicno povezavo."
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"LinkWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "This is dangerous if you move and/or rename the files. Do you want to embed the graphic instead?"
+msgstr "To je nevarno, če premaknete ali/in preimenujete datoteke. Želite raje vdelati grafiko v dokument?"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ok\n"
+"label\n"
+"string.text"
+msgid "_Keep Link"
+msgstr "O_bdrži povezavo"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "_Embed Graphic"
+msgstr "_Vdelaj grafiko"
+
+#: linkwarndialog.ui
+msgctxt ""
+"linkwarndialog.ui\n"
+"ask\n"
+"label\n"
+"string.text"
+msgid "_Ask when linking a graphic"
+msgstr "_Vprašaj pred povezovanjem z grafiko"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"NamespaceDialog\n"
+"title\n"
+"string.text"
+msgid "Namespaces for Forms"
+msgstr "Imenski prostori za obrazce"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "_Add..."
+msgstr "_Dodaj ..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "_Edit..."
+msgstr "_Uredi ..."
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"prefix\n"
+"label\n"
+"string.text"
+msgid "Prefix"
+msgstr "Predpona"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"url\n"
+"label\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: namespacedialog.ui
+msgctxt ""
+"namespacedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Namespaces"
+msgstr "Imenski prostori"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"usegridsnap\n"
+"label\n"
+"string.text"
+msgid "_Snap to grid"
+msgstr "Pripni na _mrežo"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"gridvisible\n"
+"label\n"
+"string.text"
+msgid "_Visible grid"
+msgstr "V_idna mreža"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Grid"
+msgstr "Mreža"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawx\n"
+"label\n"
+"string.text"
+msgid "H_orizontal:"
+msgstr "V_odoravno:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"flddrawy\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "_Navpično:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"synchronize\n"
+"label\n"
+"string.text"
+msgid "Synchronize a_xes"
+msgstr "Uskladi o_si"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Resolution"
+msgstr "Ločljivost"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "točk(e)"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "space(s)"
+msgstr "točk(e)"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisionx\n"
+"label\n"
+"string.text"
+msgid "Horizont_al:"
+msgstr "Vodorav_no:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"divisiony\n"
+"label\n"
+"string.text"
+msgid "V_ertical:"
+msgstr "N_avpično:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Subdivision"
+msgstr "Podrazdelki"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snaphelplines\n"
+"label\n"
+"string.text"
+msgid "To snap lines"
+msgstr "Na črte za pripenjanje"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapborder\n"
+"label\n"
+"string.text"
+msgid "To the _page margins"
+msgstr "Na robove s_trani"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snapframe\n"
+"label\n"
+"string.text"
+msgid "To object _frame"
+msgstr "Na _okvir predmeta"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"snappoints\n"
+"label\n"
+"string.text"
+msgid "To obje_ct points"
+msgstr "Na _točke predmeta"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Snap range:"
+msgstr "Obseg _pripenjanja:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Snap"
+msgstr "Pripni"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"ortho\n"
+"label\n"
+"string.text"
+msgid "_When creating or moving objects"
+msgstr "_Med ustvar. ali premik. predmetov"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"bigortho\n"
+"label\n"
+"string.text"
+msgid "_Extend edges"
+msgstr "_Razširi robove"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"rotate\n"
+"label\n"
+"string.text"
+msgid "When ro_tating:"
+msgstr "Pri su_kanju:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Point reducti_on:"
+msgstr "Zmanjša_nje št. točk:"
+
+#: optgridpage.ui
+msgctxt ""
+"optgridpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Snap Position"
+msgstr "Položaj pripenjanja"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_1\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1"
+msgstr "Razmik: 1"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_115\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.15"
+msgstr "Razmik: 1,15"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_15\n"
+"label\n"
+"string.text"
+msgid "Spacing: 1.5"
+msgstr "Razmik: 1,5"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"spacing_2\n"
+"label\n"
+"string.text"
+msgid "Spacing: 2"
+msgstr "Razmik: 2"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Line Spacing:"
+msgstr "Razmik med vrsticami:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"0\n"
+"stringlist.text"
+msgid "Single"
+msgstr "Enojno"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"1\n"
+"stringlist.text"
+msgid "1.5 Lines"
+msgstr "1,5 vrstice"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"2\n"
+"stringlist.text"
+msgid "Double"
+msgstr "Dvojno"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"3\n"
+"stringlist.text"
+msgid "Proportional"
+msgstr "Sorazmerno"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"4\n"
+"stringlist.text"
+msgid "At least"
+msgstr "Najmanj"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"5\n"
+"stringlist.text"
+msgid "Leading"
+msgstr "Vodilno"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"line_dist\n"
+"6\n"
+"stringlist.text"
+msgid "Fixed"
+msgstr "Fiksno"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"value_label\n"
+"label\n"
+"string.text"
+msgid "Value:"
+msgstr "Vrednost:"
+
+#: paralinespacingcontrol.ui
+msgctxt ""
+"paralinespacingcontrol.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Custom Value"
+msgstr "Vrednost po meri"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Change Password"
+msgstr "Sprememba gesla"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpassL\n"
+"label\n"
+"string.text"
+msgid "_Password:"
+msgstr "_Geslo:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"oldpass\n"
+"label\n"
+"string.text"
+msgid "Old Password"
+msgstr "Staro geslo"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Pa_ssword:"
+msgstr "Ge_slo:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Confi_rm:"
+msgstr "Po_trdi:"
+
+#: passwd.ui
+msgctxt ""
+"passwd.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "New Password"
+msgstr "Novo geslo"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"title\n"
+"string.text"
+msgid "Delete the contour?"
+msgstr "Izbriši obris"
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"text\n"
+"string.text"
+msgid ""
+"Setting a new workspace will\n"
+"cause the contour to be deleted."
+msgstr ""
+"Nastavitev novega delovnega prostora\n"
+"bo povzročila brisanje obrisa."
+
+#: querydeletecontourdialog.ui
+msgctxt ""
+"querydeletecontourdialog.ui\n"
+"QueryDeleteContourDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Are you sure you want to continue?"
+msgstr "Ste prepričani, da želite nadaljevati?"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this object?"
+msgstr "Izbriši predmet"
+
+#: querydeleteobjectdialog.ui
+msgctxt ""
+"querydeleteobjectdialog.ui\n"
+"QueryDeleteObjectDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this object?"
+msgstr "Resnično želite izbrisati ta predmet?"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"title\n"
+"string.text"
+msgid "Delete this theme?"
+msgstr "Izbriši izbrano temo"
+
+#: querydeletethemedialog.ui
+msgctxt ""
+"querydeletethemedialog.ui\n"
+"QueryDeleteThemeDialog\n"
+"text\n"
+"string.text"
+msgid "Do you really want to delete this theme?"
+msgstr "Resnično želite izbrisati to temo?"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Shrani spremenjeno sliko s povezavami"
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Slika s povezavami je bila spremenjena."
+
+#: querymodifyimagemapchangesdialog.ui
+msgctxt ""
+"querymodifyimagemapchangesdialog.ui\n"
+"QueryModifyImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Želite shraniti spremembe?"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"title\n"
+"string.text"
+msgid "Create a new contour?"
+msgstr "Ustvari nov obris"
+
+#: querynewcontourdialog.ui
+msgctxt ""
+"querynewcontourdialog.ui\n"
+"QueryNewContourDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to create a new contour?"
+msgstr "Ali želite ustvariti nov obris?"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save contour changes?"
+msgstr "Shrani spremenjeni obris"
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The contour has been modified."
+msgstr "Obris je bil spremenjen."
+
+#: querysavecontchangesdialog.ui
+msgctxt ""
+"querysavecontchangesdialog.ui\n"
+"QuerySaveContourChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Želite shraniti spremembe?"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"title\n"
+"string.text"
+msgid "Save ImageMap changes?"
+msgstr "Shrani spremenjeno sliko s povezavami"
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"text\n"
+"string.text"
+msgid "The ImageMap has been modified."
+msgstr "Slika s povezavami je bila spremenjena."
+
+#: querysaveimagemapchangesdialog.ui
+msgctxt ""
+"querysaveimagemapchangesdialog.ui\n"
+"QuerySaveImageMapChangesDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to save the changes?"
+msgstr "Želite shraniti spremembe?"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"title\n"
+"string.text"
+msgid "Unlink the graphics?"
+msgstr "Odstranitev povezave"
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"text\n"
+"string.text"
+msgid "This graphic object is linked to the document."
+msgstr "Ta slika oz. grafični predmet je povezan z dokumentom."
+
+#: queryunlinkgraphicsdialog.ui
+msgctxt ""
+"queryunlinkgraphicsdialog.ui\n"
+"QueryUnlinkGraphicsDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Do you want to unlink the graphics in order to edit it?"
+msgstr "Želite odstraniti povezavo, da bi lahko uredili sliko?"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"view\n"
+"label\n"
+"string.text"
+msgid "List"
+msgstr "Seznam"
+
+#: redlinecontrol.ui
+msgctxt ""
+"redlinecontrol.ui\n"
+"filter\n"
+"label\n"
+"string.text"
+msgid "Filter"
+msgstr "Filter"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "_Date:"
+msgstr "_Datum:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "_Author:"
+msgstr "_Avtor:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "A_ction:"
+msgstr "De_janje:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "C_omment:"
+msgstr "K_omentar:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"actionlist-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Action"
+msgstr "Dejanje"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"starttime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Time"
+msgstr "Začetni čas"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endtime\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Time"
+msgstr "Končni čas"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"enddate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "End Date"
+msgstr "Končni datum"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"and\n"
+"label\n"
+"string.text"
+msgid "a_nd"
+msgstr "i_n"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startdate\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Start Date"
+msgstr "Začetni datum"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"0\n"
+"stringlist.text"
+msgid "earlier than"
+msgstr "pred"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"1\n"
+"stringlist.text"
+msgid "since"
+msgstr "od"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"2\n"
+"stringlist.text"
+msgid "equal to"
+msgstr "enako"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"3\n"
+"stringlist.text"
+msgid "not equal to"
+msgstr "ni enako"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"4\n"
+"stringlist.text"
+msgid "between"
+msgstr "med"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond\n"
+"5\n"
+"stringlist.text"
+msgid "since saving"
+msgstr "od zadnjega shranjevanja"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"datecond-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Date Condition"
+msgstr "Datumski pogoj"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"startclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Nastavi trenutni čas in datum"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"endclock\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set current time and date"
+msgstr "Nastavi trenutni čas in datum"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"range\n"
+"label\n"
+"string.text"
+msgid "_Range:"
+msgstr "_Obseg:"
+
+#: redlinefilterpage.ui
+msgctxt ""
+"redlinefilterpage.ui\n"
+"dotdotdot\n"
+"tooltip_text\n"
+"string.text"
+msgid "Set reference"
+msgstr "Nastavi sklic"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"action\n"
+"label\n"
+"string.text"
+msgid "Action"
+msgstr "Dejanje"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Položaj"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "Author"
+msgstr "Avtor"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"date\n"
+"label\n"
+"string.text"
+msgid "Date"
+msgstr "Datum"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"comment\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Komentar"
+
+#: redlineviewpage.ui
+msgctxt ""
+"redlineviewpage.ui\n"
+"changes-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Changes"
+msgstr "Spremembe"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"text\n"
+"string.text"
+msgid "Do you want to save your changes?"
+msgstr "Želite shraniti spremembe?"
+
+#: savemodifieddialog.ui
+msgctxt ""
+"savemodifieddialog.ui\n"
+"SaveModifiedDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "The content of the current form has been modified."
+msgstr "Vsebina trenutnega obrazca je bila spremenjena."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Fill:"
+msgstr "Polnilo:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Fill:"
+msgstr "Polnilo:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"filllabel\n"
+"label\n"
+"string.text"
+msgid "_Fill:"
+msgstr "Po_lnilo:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Izberite želeno vrsto polnila."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the fill type to apply."
+msgstr "Izberite želeno vrsto polnila."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Izberite želeno barvo."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color to apply."
+msgstr "Izberite želeno barvo."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Izberite želeni učinek."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"fillattr\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the effect to apply."
+msgstr "Izberite želeni učinek."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Transparency"
+msgstr "Prosojnost"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"tooltip_text\n"
+"string.text"
+msgid "Transparency"
+msgstr "Prosojnost"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Prosojnost:"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Izberite želeno vrsto prosojnosti."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the type of transparency to apply."
+msgstr "Izberite želeno vrsto prosojnosti."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"0\n"
+"stringlist.text"
+msgid "None"
+msgstr "Brez"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"1\n"
+"stringlist.text"
+msgid "Solid"
+msgstr "Polno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"2\n"
+"stringlist.text"
+msgid "Linear"
+msgstr "Linearno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"3\n"
+"stringlist.text"
+msgid "Axial"
+msgstr "Osno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"4\n"
+"stringlist.text"
+msgid "Radial"
+msgstr "Radialno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"5\n"
+"stringlist.text"
+msgid "Ellipsoid"
+msgstr "Elipsoidno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"6\n"
+"stringlist.text"
+msgid "Quadratic"
+msgstr "Pravokotno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"transtype\n"
+"7\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Kvadratno"
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Določite variacijo prosojnosti preliva."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"gradient\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the variation of gradient transparency."
+msgstr "Določite variacijo prosojnosti preliva."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "Določite 0 % za polno prekrivnost oz. 100 % za polno prosojnost."
+
+#: sidebararea.ui
+msgctxt ""
+"sidebararea.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify 0% for fully opaque through 100% for fully transparent."
+msgstr "Določite 0 % za polno prekrivnost oz. 100 % za polno prosojnost."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"brightnesslabel\n"
+"label\n"
+"string.text"
+msgid "_Brightness:"
+msgstr "Svet_lost:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Določite svetilnost slike."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setbrightness\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the luminance of the graphic."
+msgstr "Določite svetilnost slike."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"contrastlabel\n"
+"label\n"
+"string.text"
+msgid "_Contrast:"
+msgstr "_Kontrast:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Določite stopnjo razlike med najsvetlejšimi in najtemnejšimi deli slike."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setcontrast\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the degree of difference between the lightest and darkest parts of the graphic."
+msgstr "Določite stopnjo razlike med najsvetlejšimi in najtemnejšimi deli slike."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"colorlmodelabel\n"
+"label\n"
+"string.text"
+msgid "Color _mode:"
+msgstr "Barvni _način:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"transparencylabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Prosojnost:"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Določite odstotek prosojnosti: 0 % pomeni povsem prekrivno in 100 % povsem prosojno."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"settransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the percentage of transparency; 0% is fully opaque and 100% is fully transparent."
+msgstr "Določite odstotek prosojnosti: 0 % pomeni povsem prekrivno in 100 % povsem prosojno."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Red"
+msgstr "Rdeča"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setred\n"
+"tooltip_text\n"
+"string.text"
+msgid "Red"
+msgstr "Rdeča"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Green"
+msgstr "Zelena"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgreen\n"
+"tooltip_text\n"
+"string.text"
+msgid "Green"
+msgstr "Zelena"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Blue"
+msgstr "Modra"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setblue\n"
+"tooltip_text\n"
+"string.text"
+msgid "Blue"
+msgstr "Modra"
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Določite vrednost gama, ki vpliva na svetlost vrednosti srednjih tonov."
+
+#: sidebargraphic.ui
+msgctxt ""
+"sidebargraphic.ui\n"
+"setgamma\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the gamma value that affects the brightness of the midtone values."
+msgstr "Določite vrednost gama, ki vpliva na svetlost vrednosti srednjih tonov."
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line"
+msgstr "Črta"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"line\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line"
+msgstr "Črta"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Črta s puščico na koncu"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"arrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line ends with Arrow"
+msgstr "Črta s puščico na koncu"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Pravokotnik"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"rectangle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Rectangle"
+msgstr "Pravokotnik"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elipsa"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"ellipse\n"
+"tooltip_text\n"
+"string.text"
+msgid "Ellipse"
+msgstr "Elipsa"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Besedilo (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"text\n"
+"tooltip_text\n"
+"string.text"
+msgid "Text (F2)"
+msgstr "Besedilo (F2)"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Curve"
+msgstr "Krivulja"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"curve\n"
+"tooltip_text\n"
+"string.text"
+msgid "Curve"
+msgstr "Krivulja"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Connector"
+msgstr "Konektor"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"connector\n"
+"tooltip_text\n"
+"string.text"
+msgid "Connector"
+msgstr "Konektor"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Črte in puščice"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"linearrow\n"
+"tooltip_text\n"
+"string.text"
+msgid "Lines and Arrows"
+msgstr "Črte in puščice"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Osnovni liki"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"basicshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Basic Shapes"
+msgstr "Osnovni liki"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Simbolični liki"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"symbolshapes\n"
+"tooltip_text\n"
+"string.text"
+msgid "Symbol Shapes"
+msgstr "Simbolični liki"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Votle puščice"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"blockarrows\n"
+"tooltip_text\n"
+"string.text"
+msgid "Block Arrows"
+msgstr "Votle puščice"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Diagrami poteka"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"flowcharts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Diagrami poteka"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Callouts"
+msgstr "Oblački"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"callouts\n"
+"tooltip_text\n"
+"string.text"
+msgid "Callouts"
+msgstr "Oblački"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Stars"
+msgstr "Zvezde"
+
+#: sidebarinsert.ui
+msgctxt ""
+"sidebarinsert.ui\n"
+"stars\n"
+"tooltip_text\n"
+"string.text"
+msgid "Stars"
+msgstr "Zvezde"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Širina:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Izberite širino črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"width\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the width of the line."
+msgstr "Izberite širino črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"colorlabel\n"
+"label\n"
+"string.text"
+msgid "_Color:"
+msgstr "_Barva"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Določite prosojnost črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linetransparency\n"
+"tooltip_text\n"
+"string.text"
+msgid "Specify the transparency of the line."
+msgstr "Določite prosojnost črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Izberite barvo črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"color\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Izberite barvo črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Izberite barvo črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"setcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the color of the line."
+msgstr "Izberite barvo črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"translabel\n"
+"label\n"
+"string.text"
+msgid "_Transparency:"
+msgstr "_Prosojnost:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"stylelabel\n"
+"label\n"
+"string.text"
+msgid "_Style:"
+msgstr "_Slog:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Izberite slog črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line."
+msgstr "Izberite slog črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"arrowlabel\n"
+"label\n"
+"string.text"
+msgid "_Arrow:"
+msgstr "P_uščica:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Izberite slog začetne puščice."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"beginarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the beginning arrowhead."
+msgstr "Izberite slog začetne puščice."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Izberite slog končne puščice."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"endarrowstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the ending arrowhead."
+msgstr "Izberite slog končne puščice."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"cornerlabel\n"
+"label\n"
+"string.text"
+msgid "_Corner style:"
+msgstr "Slog preloma _črt:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Izberite slog preloma črt."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the edge connections."
+msgstr "Izberite slog preloma črt."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"0\n"
+"stringlist.text"
+msgid "Rounded"
+msgstr "zaobljeno"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"1\n"
+"stringlist.text"
+msgid "- none -"
+msgstr "- brez -"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"2\n"
+"stringlist.text"
+msgid "Mitered"
+msgstr "nazobčano"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"edgestyle\n"
+"3\n"
+"stringlist.text"
+msgid "Beveled"
+msgstr "dvojno obrobljeno"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"caplabel\n"
+"label\n"
+"string.text"
+msgid "Ca_p style:"
+msgstr "Slog koni_c:"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Izberite slog konic črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the style of the line caps."
+msgstr "Izberite slog konic črte."
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"0\n"
+"stringlist.text"
+msgid "Flat"
+msgstr "Plosko"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"1\n"
+"stringlist.text"
+msgid "Round"
+msgstr "Zaobljeno"
+
+#: sidebarline.ui
+msgctxt ""
+"sidebarline.ui\n"
+"linecapstyle\n"
+"2\n"
+"stringlist.text"
+msgid "Square"
+msgstr "Pravokotno"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"numberbullet\n"
+"tooltip_text\n"
+"string.text"
+msgid "Bullets and Numbering"
+msgstr "Označevanje in oštevilčevanje"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"backgroundcolor\n"
+"tooltip_text\n"
+"string.text"
+msgid "Paragraph Background Color"
+msgstr "Barva ozadja odstavka"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"horizontalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Horizontal Alignment"
+msgstr "Vodoravna poravnava"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"verticalalignment\n"
+"tooltip_text\n"
+"string.text"
+msgid "Vertical Alignment"
+msgstr "Navpična poravnava"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"spacinglabel\n"
+"label\n"
+"string.text"
+msgid "_Spacing:"
+msgstr "_Razmik:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Spacing"
+msgstr "Razmik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspaceinc\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Paragraph Spacing"
+msgstr "Povečaj razmik med odstavki"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"paraspacedec\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Paragraph Spacing"
+msgstr "Zmanjšaj razmik med odstavki"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aboveparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Above Paragraph Spacing"
+msgstr "Razmik nad odstavkom"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"belowparaspacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Below Paragraph Spacing"
+msgstr "Razmik pod odstavkom"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"setlinespacing\n"
+"tooltip_text\n"
+"string.text"
+msgid "Line Spacing"
+msgstr "Razmik med vrsticami"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indentlabel\n"
+"label\n"
+"string.text"
+msgid "_Indent:"
+msgstr "_Zamik:"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"indent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"increaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Povečaj zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"decreaseindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Zmanjšaj zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Preklopi na viseči zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promotedemote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Indent"
+msgstr "Zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"promote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Increase Indent"
+msgstr "Povečaj zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"demote\n"
+"tooltip_text\n"
+"string.text"
+msgid "Decrease Indent"
+msgstr "Zmanjšaj zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"hangingindent2\n"
+"tooltip_text\n"
+"string.text"
+msgid "Switch to Hanging Indent"
+msgstr "Preklopi na viseči zamik"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"beforetextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "Before Text Indent"
+msgstr "Zamik pred besedilom"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"aftertextindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "After Text Indent"
+msgstr "Zamik za besedilom"
+
+#: sidebarparagraph.ui
+msgctxt ""
+"sidebarparagraph.ui\n"
+"firstlineindent\n"
+"tooltip_text\n"
+"string.text"
+msgid "First Line Indent"
+msgstr "Zamik prve vrstice"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontallabel\n"
+"label\n"
+"string.text"
+msgid "_Horizontal:"
+msgstr "_Vodoravno:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Vnesite vrednost za vodoravni položaj."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"horizontalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the horizontal position."
+msgstr "Vnesite vrednost za vodoravni položaj."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticallabel\n"
+"label\n"
+"string.text"
+msgid "_Vertical:"
+msgstr "_Navpično:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Vnesite vrednost za navpični položaj."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"verticalpos\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter the value for the vertical position."
+msgstr "Vnesite vrednost za navpični položaj."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"widthlabel\n"
+"label\n"
+"string.text"
+msgid "_Width:"
+msgstr "_Širina:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Vnesite širino za izbrani predmet."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectwidth\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a width for the selected object."
+msgstr "Vnesite širino za izbrani predmet."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"heightlabel\n"
+"label\n"
+"string.text"
+msgid "H_eight:"
+msgstr "V_išina:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Vnesite višino za izbrani predmet."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"selectheight\n"
+"tooltip_text\n"
+"string.text"
+msgid "Enter a height for the selected object."
+msgstr "Vnesite višino za izbrani predmet."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"label\n"
+"string.text"
+msgid "_Keep ratio"
+msgstr "_Ohrani razmerje"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Ohrani razmerje mer, ko spremenite velikost izbranega predmeta."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"ratio\n"
+"tooltip_text\n"
+"string.text"
+msgid "Maintain proportions when you resize the selected object."
+msgstr "Ohrani razmerje mer, ko spremenite velikost izbranega predmeta."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotationlabel\n"
+"label\n"
+"string.text"
+msgid "_Rotation:"
+msgstr "_Zasuk:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Izberite kot za zasuk."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"rotation\n"
+"tooltip_text\n"
+"string.text"
+msgid "Select the angle for rotation."
+msgstr "Izberite kot za zasuk."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliplabel\n"
+"label\n"
+"string.text"
+msgid "_Flip:"
+msgstr "O_brni:"
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Obrni izbrani predmet navpično."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"flipvertical\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object vertically."
+msgstr "Obrni izbrani predmet navpično."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Obrni izbrani predmet vodoravno."
+
+#: sidebarpossize.ui
+msgctxt ""
+"sidebarpossize.ui\n"
+"fliphorizontal\n"
+"tooltip_text\n"
+"string.text"
+msgid "Flip the selected object horizontally."
+msgstr "Obrni izbrani predmet vodoravno."
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"TextControlCharacterPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Character"
+msgstr "Znak"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Pisava"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"fonteffects\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Učinki pisave"
+
+#: textcontrolchardialog.ui
+msgctxt ""
+"textcontrolchardialog.ui\n"
+"position\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Položaj"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"TextControlParagraphPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Odstavek"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_STD\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Zamiki in razmiki"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ALIGN\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Poravnava"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_PARA_ASIAN\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Azijska tipografija"
+
+#: textcontrolparadialog.ui
+msgctxt ""
+"textcontrolparadialog.ui\n"
+"labelTP_TABULATOR\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabulatorji"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD\n"
+"label\n"
+"string.text"
+msgid "Add Item"
+msgstr "Dodaj element"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"label\n"
+"string.text"
+msgid "Add Element"
+msgstr "Dodaj element"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"label\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Dodaj atribut"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_EDIT\n"
+"label\n"
+"string.text"
+msgid "Edit"
+msgstr "Uredi"
+
+#: xformspage.ui
+msgctxt ""
+"xformspage.ui\n"
+"TBI_ITEM_REMOVE\n"
+"label\n"
+"string.text"
+msgid "Delete"
+msgstr "Izbriši"

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03050500xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">On Error GoTo ... Resume Statement [Runtime]</title>
+<filename>/text/sbasic/shared/03050500.xhp</filename>
+</topic>
+</meta>
+<body>
+<section id="onerrorgotoresume">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3146795"><bookmark_value>Resume Next parameter</bookmark_value>
+<bookmark_value>On Error GoTo ... Resume statement</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="hd_id3146795" xml-lang="en-US" level="1" l10n="U" oldref="1"><link href="text/sbasic/shared/03050500.xhp" name="On Error GoTo ... Resume Statement [Runtime]">On Error GoTo ... Resume Statement [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_id3150358" xml-lang="en-US" l10n="U" oldref="2">Enables an error-handling routine after an error occurs, or resumes program execution.</paragraph>
+</section>
+<paragraph role="heading" id="hd_id3151212" xml-lang="en-US" level="2" l10n="U" oldref="3">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_id3145173" xml-lang="en-US" oldref="4">On {[Local] Error GoTo Labelname | GoTo 0 | Resume Next}</paragraph>
+</bascode>
+<paragraph role="heading" id="hd_id3154125" xml-lang="en-US" level="2" l10n="U" oldref="5">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_id3150869" xml-lang="en-US" l10n="U" oldref="7"><emph>GoTo Labelname:</emph> If an error occurs, enables the error-handling routine that starts at the line "Labelname".</paragraph>
+<paragraph role="paragraph" id="par_id3150439" xml-lang="en-US" l10n="U" oldref="8"><emph>Resume Next:</emph> If an error occurs, program execution continues with the statement that follows the statement in which the error occurred.</paragraph>
+<paragraph role="paragraph" id="par_id3149482" xml-lang="en-US" l10n="U" oldref="9"><emph>GoTo 0:</emph> Disables the error handler in the current procedure.</paragraph>
+
+<paragraph role="paragraph" id="par_id3149483" xml-lang="en-US" l10n="U" oldref="9"><emph>Local:</emph> "On error" is global in scope, and remains active until canceled by another "On error" statement. "On Local error" is local to the routine which invokes it. Local error handling overrides any previous global setting. When the invoking routine exits, the local error handling is canceled automatically, and any previous global setting is restored.</paragraph>
+
+<paragraph role="paragraph" id="par_id3148619" xml-lang="en-US" l10n="CGH" oldref="10">The On Error GoTo statement is used to react to errors that occur in a macro.<comment>see i112231: The statement must be inserted at the start of a procedure (in a local error-handling routine) or at the start of a module.</comment></paragraph>
+<paragraph role="heading" id="hd_id3146985" xml-lang="en-US" level="2" l10n="U" oldref="11">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Sub ExampleReset</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">On Error GoTo ErrorHandler</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim iNumber As Integer</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim iCount As Integer</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim sLine As String</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim aFile As String</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    aFile = "c:\data.txt"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    iNumber = Freefile</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Open aFile For Output As #iNumber</paragraph>
+<paragraph role="bascode" id="par_id3153876" xml-lang="en-US" l10n="U" oldref="52">    Print #iNumber, "This is a line of text"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Close #iNumber</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    iNumber = Freefile</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Open aFile For Input As iNumber</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    For iCount = 1 To 5</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">        Line Input #iNumber, sLine</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">        If sLine &lt;&gt;"" Then</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">            Rem</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">        End If</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Next iCount</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Close #iNumber</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Exit Sub</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">ErrorHandler:</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Reset</paragraph>
+<paragraph role="bascode" id="par_id3146916" xml-lang="en-US" l10n="U" oldref="67">    MsgBox "All files will be closed",0,"Error"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Sub</paragraph>
+</bascode>
+</body>
+</helpdocument>

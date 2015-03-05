@@ -1,0 +1,81 @@
+#. extracted from sw/source/ui/dochdl
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-11-29 14:50+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1385736625.0\n"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_NOGLOS\n"
+"string.text"
+msgid "AutoText for Shortcut '%1' not found."
+msgstr "لم يتم العثور على النص التلقائي للاختصار '%1'."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_NO_TABLE\n"
+"string.text"
+msgid "A table cannot be inserted into another table. However, you can paste the data into the document when the cursor is not in a table."
+msgstr "لا يمكن إدراج جدول في جدول آخر. على كلٍّ، يمكنك لصق البيانات في المستند عندما لا يكون المؤشر داخل أي جدول."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_ERR_INSERT_GLOS\n"
+"string.text"
+msgid "AutoText could not be created."
+msgstr ""
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_CLPBRD_FORMAT_ERROR\n"
+"string.text"
+msgid "Requested clipboard format is not available."
+msgstr ""
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATETEXT\n"
+"string.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME رايتر"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATEGRAPHIC\n"
+"string.text"
+msgid "Image [%PRODUCTNAME Writer]"
+msgstr "صورة [%PRODUCTNAME رايتر]"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATEOLE\n"
+"string.text"
+msgid "Object [%PRODUCTNAME Writer]"
+msgstr "كائن [%PRODUCTNAME رايتر]"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_DDEFORMAT\n"
+"string.text"
+msgid "DDE link"
+msgstr "ارتباط DDE"

@@ -1,0 +1,455 @@
+#. extracted from sw/source/ui/shells
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-01-22 06:04+0000\n"
+"Last-Translator: அருண் குமார் <thangam.arunx@gmail.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421906647.000000\n"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr "பிம்பக் கோப்பைத் திறக்க முடியவில்லை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr "பிம்பக் கோப்பை படிக்க முடியவில்லை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr "அறியா பிம்ப வடிவம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr "இப்படக் கோப்பு பதிப்பு ஆதரிக்கப்படவில்லை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr "பிம்ப வடிகட்டி காணப்படவில்லை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to insert the image."
+msgstr "படத்தை நுழைக்க போதுமான நினைவகமில்லை."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_INSERT_GRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr "படத்தை செருகு"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_NO_ADDRESSBOOK\n"
+"string.text"
+msgid "An Address Book does not exist"
+msgstr "ஒரு முகவரி நூல் இருக்கவில்லை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_COMMENT\n"
+"string.text"
+msgid "Comment: "
+msgstr "கருத்து: "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_INSERTED\n"
+"string.text"
+msgid "Insertion"
+msgstr "சேர்க்கை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_DELETED\n"
+"string.text"
+msgid "Deletion"
+msgstr "அழிப்பு"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_AUTOFMT\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "தானியக்க சரிபார்த்தல்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FORMATED\n"
+"string.text"
+msgid "Formats"
+msgstr "வடிவூட்டங்கள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TABLECHG\n"
+"string.text"
+msgid "Table Changes"
+msgstr "அட்டவணை மாற்றங்கள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FMTCOLLSET\n"
+"string.text"
+msgid "Applied Paragraph Styles"
+msgstr "செயலான பத்திப் பாணிகள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TITLE\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "தானியக்க சரிபார்த்தல்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_MSG\n"
+"string.text"
+msgid ""
+"AutoCorrect completed.\n"
+"You can accept or reject all changes,\n"
+"or accept or reject particular changes."
+msgstr ""
+"தானியக்க வடிவம் முடிந்தது.\n"
+"நீங்கள் மாற்றங்களை ஏற்கலாம் அல்லது மறுக்கலாம்,\n"
+"அல்லது குறிப்பிட்ட மாற்றங்களை ஏற்கலாம் அல்லது மறுக்கலாம்."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_ACCEPT_ALL\n"
+"string.text"
+msgid "Accept All"
+msgstr "அனைத்தும் ஏற்றுக்கொள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_REJECT_ALL\n"
+"string.text"
+msgid "Reject All"
+msgstr "அனைத்தும் நிராகரி"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_EDIT\n"
+"string.text"
+msgid "Edit Changes"
+msgstr "மாற்றங்களை பதிப்பிக்க"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "பக்கம் "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT\n"
+"string.text"
+msgid "Page %1 of %2"
+msgstr "பக்கம் %2 இல் %1"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT_CUSTOM\n"
+"string.text"
+msgid "Page %1 of %2 (Page %3)"
+msgstr "பக்கம் %2 இல் %1 (பக்கம் %3)"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "உரைப் பொருட் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table Object Bar"
+msgstr "பட்டி பொருட் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_FRAME_TOOLBOX\n"
+"string.text"
+msgid "Frame Object Bar"
+msgstr "சட்டப் பொருட் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_GRAFIK_TOOLBOX\n"
+"string.text"
+msgid "Images Object Bar"
+msgstr "சட்டப் பொருட் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_OLE_TOOLBOX\n"
+"string.text"
+msgid "Object"
+msgstr "பொருள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "வரைப் பொருட் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "Bézier பொருள் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar/Images"
+msgstr "உரைப் பொருள் பட்டை/படங்கள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_NUM_TOOLBOX\n"
+"string.text"
+msgid "Numbering Object Bar"
+msgstr "எண்ணிடல் பொருள் பட்டை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "உரை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "சட்டம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "படம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "பொருள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_LIST\n"
+"string.text"
+msgid "List"
+msgstr "பட்டி"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "ஓவியம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAWFORM\n"
+"string.text"
+msgid "Forms"
+msgstr "படிவங்கள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_BEZIER\n"
+"string.text"
+msgid "Bézier"
+msgstr "Bézier"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW_TEXT\n"
+"string.text"
+msgid "Draw text"
+msgstr "உரையை அளிக்க"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_MEDIA\n"
+"string.text"
+msgid "Media"
+msgstr "ஊடகம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "வழிசெலுத்தல்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph"
+msgstr "பத்தி"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "படம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_OLE\n"
+"string.text"
+msgid "OLE object"
+msgstr "OLE பொருள்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "சட்டம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_ROW\n"
+"string.text"
+msgid "Table row"
+msgstr "பட்டி வரிசை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_CELL\n"
+"string.text"
+msgid "Table cell"
+msgstr "அட்டவணை கலம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PAGE\n"
+"string.text"
+msgid "Page"
+msgstr "பக்கம்"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_HEADER\n"
+"string.text"
+msgid "Header"
+msgstr "தலைப்புரை"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FOOTER\n"
+"string.text"
+msgid "Footer"
+msgstr "அடிக்குறிப்பு"

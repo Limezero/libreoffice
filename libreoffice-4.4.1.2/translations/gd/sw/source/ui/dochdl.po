@@ -1,0 +1,82 @@
+#. extracted from sw/source/ui/dochdl
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-01-14 01:37+0000\n"
+"Last-Translator: Michael <fios@akerbeltz.org>\n"
+"Language-Team: Akerbeltz\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1421199437.000000\n"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_NOGLOS\n"
+"string.text"
+msgid "AutoText for Shortcut '%1' not found."
+msgstr "Cha deach fèin-teacsa na h-ath-ghoirid \"%1\" a lorg."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_NO_TABLE\n"
+"string.text"
+msgid "A table cannot be inserted into another table. However, you can paste the data into the document when the cursor is not in a table."
+msgstr "Chan urrainn dhut clàr a chur am broinn clàir. Ge-tà, 's urrainn dhut an dàta a chur dhan chlàr mur eil an cùrsair sa chlàr."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_ERR_INSERT_GLOS\n"
+"string.text"
+msgid "AutoText could not be created."
+msgstr "Cha b' urrainn dhuinn am fèin-teacsa a chruthachadh."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_CLPBRD_FORMAT_ERROR\n"
+"string.text"
+msgid "Requested clipboard format is not available."
+msgstr "Chan eil fòrmat an stòr-bhùird a dh'iarr thu ri fhaighinn."
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATETEXT\n"
+"string.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME Writer"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATEGRAPHIC\n"
+"string.text"
+msgid "Image [%PRODUCTNAME Writer]"
+msgstr "Dealbh [%PRODUCTNAME Writer]"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_PRIVATEOLE\n"
+"string.text"
+msgid "Object [%PRODUCTNAME Writer]"
+msgstr "Oibseact [%PRODUCTNAME Writer]"
+
+#: dochdl.src
+msgctxt ""
+"dochdl.src\n"
+"STR_DDEFORMAT\n"
+"string.text"
+msgid "DDE link"
+msgstr "Ceangal DDE"

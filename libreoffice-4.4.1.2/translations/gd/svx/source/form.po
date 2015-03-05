@@ -1,0 +1,1631 @@
+#. extracted from svx/source/form
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-08 06:26+0000\n"
+"Last-Translator: Michael <fios@akerbeltz.org>\n"
+"Language-Team: Akerbeltz\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1418020016.000000\n"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_MODEL\n"
+"string.text"
+msgid ""
+"Deleting the model '$MODELNAME' affects all controls currently bound to this model.\n"
+"Do you really want to delete this model?"
+msgstr ""
+"Bidh buaidh air gach uidheam-smachd a tha co-cheangailte ris a' mhodail seo aig an àm seo ma sguabas tu às am modail '$MODELNAME'.\n"
+"A bheil thu cinnteach gu bheil thu airson am modail seo a sguabadh às?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_INSTANCE\n"
+"string.text"
+msgid ""
+"Deleting the instance '$INSTANCENAME' affects all controls currently bound to this instance.\n"
+"Do you really want to delete this instance?"
+msgstr ""
+"Bidh buaidh air gach uidheam-smachd a tha co-cheangailte ris an lethbhreac seo aig an àm seo ma sguabas tu às an lethbhreac seo de '$INSTANCENAME'.\n"
+"A bheil thu cinnteach gu bheil thu airson an lethbhreac seo a sguabadh às?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ELEMENT\n"
+"string.text"
+msgid ""
+"Deleting the element '$ELEMENTNAME' affects all controls currently bound to this element.\n"
+"Do you really want to delete this element?"
+msgstr ""
+"Bidh buaidh air gach uidheam-smachd a tha co-cheangailte ris an eileamaid seo aig an àm seo ma sguabas tu às an eileamaid '$ELEMENTNAME'.\n"
+"A bheil thu cinnteach gu bheil thu airson am modail seo a sguabadh às?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
+msgstr "A bheil thu cinnteach gu bheil thu airson a' bhuadh '$ATTRIBUTENAME' a sguabadh às?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_SUBMISSION\n"
+"string.text"
+msgid ""
+"Deleting the submission '$SUBMISSIONNAME' affects all controls currently bound to this submission.\n"
+"\n"
+"Do you really want to delete this submission?"
+msgstr ""
+"Bidh buaidh air gach uidheam-smachd a tha co-cheangailte ris an tagradh seo aig an àm seo ma sguabas tu às an tagradh '$SUBMISSIONNAME'.\n"
+"\n"
+"A bheil thu cinnteach gu bheil thu airson an tagradh seo a sguabadh às?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_BINDING\n"
+"string.text"
+msgid ""
+"Deleting the binding '$BINDINGNAME' affects all controls currently bound to this binding.\n"
+"\n"
+"Do you really want to delete this binding?"
+msgstr ""
+"Bidh buaidh air gach uidheam-smachd a tha co-cheangailte ris a' cheangladh seo aig an àm seo ma sguabas tu às an ceangladh '$BINDINGNAME'.\n"
+"\n"
+"A bheil thu cinnteach gu bheil thu airson an ceangladh seo a sguabadh às?"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLNAME\n"
+"string.text"
+msgid "The name '%1' is not valid in XML. Please enter a different name."
+msgstr "Chan eil an t-ainm '%1' ann an XML dligheach. Cuir a-steach ainm eile."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLPREFIX\n"
+"string.text"
+msgid "The prefix '%1' is not valid in XML. Please enter a different prefix."
+msgstr "Chan eil an ro-leasachan '%1' ann an XML dligheach. Cuir a-steach ro-leasachan eile."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DOUBLE_MODELNAME\n"
+"string.text"
+msgid "The name '%1' already exists. Please enter a new name."
+msgstr "Tha an t-ainm \"%1\" ann mu thràth. Cuir a-steach ainm eile."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_EMPTY_SUBMISSIONNAME\n"
+"string.text"
+msgid "The submission must have a name."
+msgstr "Feumaidh ainm a bhith aig an tagradh."
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD\n"
+"menuitem.text"
+msgid "Add Item"
+msgstr "Cuir oibseact ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"menuitem.text"
+msgid "Add Element"
+msgstr "Cuir eileamaid ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"menuitem.text"
+msgid "Add Attribute"
+msgstr "Cuir buadh ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_EDIT\n"
+"menuitem.text"
+msgid "Edit"
+msgstr "Deasaich"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_REMOVE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "Sguab às"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_POST\n"
+"string.text"
+msgid "Post"
+msgstr "Post"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_PUT\n"
+"string.text"
+msgid "Put"
+msgstr "Cuir"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_GET\n"
+"string.text"
+msgid "Get"
+msgstr "Faigh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_NONE\n"
+"string.text"
+msgid "None"
+msgstr "Chan eil gin"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_INST\n"
+"string.text"
+msgid "Instance"
+msgstr "Lethbhreac"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_DOC\n"
+"string.text"
+msgid "Document"
+msgstr "Sgrìobhainn"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_PARENT\n"
+"string.text"
+msgid "Submission: "
+msgstr "Tagradh: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ID\n"
+"string.text"
+msgid "ID: "
+msgstr "ID: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_BIND\n"
+"string.text"
+msgid "Binding: "
+msgstr "Ceangladh: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REF\n"
+"string.text"
+msgid "Reference: "
+msgstr "Co-chomharran: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ACTION\n"
+"string.text"
+msgid "Action: "
+msgstr "Gnìomh: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_METHOD\n"
+"string.text"
+msgid "Method: "
+msgstr "Dòigh: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REPLACE\n"
+"string.text"
+msgid "Replace: "
+msgstr "Cuir 'na àite: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ELEMENT\n"
+"string.text"
+msgid "Add Element"
+msgstr "Cuir eileamaid ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ELEMENT\n"
+"string.text"
+msgid "Edit Element"
+msgstr "Deasaich an eileamaid"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ELEMENT\n"
+"string.text"
+msgid "Delete Element"
+msgstr "Sguab às an eileamaid"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ATTRIBUTE\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Cuir buadh ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ATTRIBUTE\n"
+"string.text"
+msgid "Edit Attribute"
+msgstr "Deasaich a' bhuadh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Delete Attribute"
+msgstr "Sguab às a' bhuadh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_BINDING\n"
+"string.text"
+msgid "Add Binding"
+msgstr "Cuir ceangladh ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_BINDING\n"
+"string.text"
+msgid "Edit Binding"
+msgstr "Deasaich an ceangladh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_BINDING\n"
+"string.text"
+msgid "Delete Binding"
+msgstr "Sguab às an ceangladh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_SUBMISSION\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Cuir tagradh ris"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_SUBMISSION\n"
+"string.text"
+msgid "Edit Submission"
+msgstr "Deasaich an tagradh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_SUBMISSION\n"
+"string.text"
+msgid "Delete Submission"
+msgstr "Sguab às an tagradh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ELEMENT\n"
+"string.text"
+msgid "Element"
+msgstr "Eileamaid"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ATTRIBUTE\n"
+"string.text"
+msgid "Attribute"
+msgstr "Buadh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING\n"
+"string.text"
+msgid "Binding"
+msgstr "Nasgadh"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING_EXPR\n"
+"string.text"
+msgid "Binding expression"
+msgstr "Eas-preisean nasgaidh"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "Sgua~b às"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_EDIT\n"
+"menuitem.text"
+msgid "~Edit"
+msgstr "D~easaich"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NULL\n"
+"menuitem.text"
+msgid "~Is Null"
+msgstr "A tha 'na neo~ini"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NOT_NULL\n"
+"menuitem.text"
+msgid "I~s not Null"
+msgstr "Nach eil 'na ne~oini"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_FORM\n"
+"menuitem.text"
+msgid "Form"
+msgstr "Foirm"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_HIDDEN\n"
+"menuitem.text"
+msgid "Hidden Control"
+msgstr "Uidheam-smachd falaichte"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_NEW\n"
+"menuitem.text"
+msgid "~New"
+msgstr "Ù~r"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_CHANGECONTROLTYPE\n"
+"menuitem.text"
+msgid "Replace with"
+msgstr "Cuir na leanas 'na àite"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "Sgua~b às"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_TAB_DIALOG\n"
+"menuitem.text"
+msgid "Tab Order..."
+msgstr "Òrdugh nan tabaichean..."
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_RENAME_OBJECT\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "Cui~r ainm ùr air"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_SHOW_PROPERTY_BROWSER\n"
+"menuitem.text"
+msgid "Propert~ies"
+msgstr "Rogha~innean"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_OPEN_READONLY\n"
+"menuitem.text"
+msgid "Open in Design Mode"
+msgstr "Fosgail sa mhodh dealbhaidh"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_AUTOCONTROLFOCUS\n"
+"menuitem.text"
+msgid "Automatic Control Focus"
+msgstr "Smachd fèin-obrachail an fhòcais"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_EDIT\n"
+"menuitem.text"
+msgid "~Text Box"
+msgstr "Bogsa ~teacsa"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_BUTTON\n"
+"menuitem.text"
+msgid "~Button"
+msgstr "~Putan"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FIXEDTEXT\n"
+"menuitem.text"
+msgid "La~bel field"
+msgstr "Raon leu~bail"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_GROUPBOX\n"
+"menuitem.text"
+msgid "G~roup Box"
+msgstr "Bog~sa buidhinn"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_LISTBOX\n"
+"menuitem.text"
+msgid "L~ist Box"
+msgstr "Bogsa ~liosta"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CHECKBOX\n"
+"menuitem.text"
+msgid "~Check Box"
+msgstr "B~ogsa dearbhaidh"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_RADIOBUTTON\n"
+"menuitem.text"
+msgid "~Radio Button"
+msgstr "Putan ~rèidio"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_COMBOBOX\n"
+"menuitem.text"
+msgid "Combo Bo~x"
+msgstr "Bogsa co~mbo"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGEBUTTON\n"
+"menuitem.text"
+msgid "I~mage Button"
+msgstr "P~utan ìomhaighe"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FILECONTROL\n"
+"menuitem.text"
+msgid "~File Selection"
+msgstr "Taghadh ~faidhle"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_DATE\n"
+"menuitem.text"
+msgid "~Date Field"
+msgstr "Raon a' ~chinn-là"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_TIME\n"
+"menuitem.text"
+msgid "Tim~e Field"
+msgstr "Raon ~an ama"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NUMERIC\n"
+"menuitem.text"
+msgid "~Numerical Field"
+msgstr "Rao~n àireamhail"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CURRENCY\n"
+"menuitem.text"
+msgid "C~urrency Field"
+msgstr "Raon ~an airgeadra"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_PATTERN\n"
+"menuitem.text"
+msgid "~Pattern Field"
+msgstr "Raon ~pàtrain"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGECONTROL\n"
+"menuitem.text"
+msgid "Ima~ge Control"
+msgstr "Ui~dheam-smachd ìomhaighe"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FORMATTED\n"
+"menuitem.text"
+msgid "Fo~rmatted Field"
+msgstr "~Raon fòrmataichte"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SCROLLBAR\n"
+"menuitem.text"
+msgid "Scroll bar"
+msgstr "Bàr-sgrolaidh"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SPINBUTTON\n"
+"menuitem.text"
+msgid "Spin Button"
+msgstr "Putan toinnidh"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NAVIGATIONBAR\n"
+"menuitem.text"
+msgid "Navigation Bar"
+msgstr "Bàr na seòladaireachd"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_SVX_FMEXPLORER\n"
+"dockingwindow.text"
+msgid "Form Navigator"
+msgstr "Seòladair an fhoirm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_CONTEXT_ADDFORM\n"
+"string.text"
+msgid "Error while creating form"
+msgstr "Mearachd rè cruthachadh an fhoirm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_FIELDREQUIRED\n"
+"string.text"
+msgid "Input required in field '#'. Please enter a value."
+msgstr "Tha feum air dàta san raon '#'. Cuir a-steach luach."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_DUPLICATE_NAME\n"
+"string.text"
+msgid ""
+"Entry already exists.\n"
+"Please choose another name."
+msgstr ""
+"Tha innteart mar sin ann mu thràth.\n"
+"Tagh ainm eile."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "Foirmean"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NO_PROPERTIES\n"
+"string.text"
+msgid "No control selected"
+msgstr "Cha deach uidheam-smachd a thaghadh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_CONTROL\n"
+"string.text"
+msgid "Properties: "
+msgstr "Roghainnean: "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_FORM\n"
+"string.text"
+msgid "Form Properties"
+msgstr "Roghainnean an fhoirm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FMEXPLORER\n"
+"string.text"
+msgid "Form Navigator"
+msgstr "Seòladair an fhoirm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORM\n"
+"string.text"
+msgid "Form"
+msgstr "Foirm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr "Clàr"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr "Ceist"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"3\n"
+"string.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_STDFORMNAME\n"
+"string.text"
+msgid "Form"
+msgstr "Foirm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_HIDDEN\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "Uidheam-smachd falaichte"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_CONTROL\n"
+"string.text"
+msgid "Control"
+msgstr "Uidheaman-smachd"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_TEXT\n"
+"string.text"
+msgid "Record"
+msgstr "Reacord"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_FROM_TEXT\n"
+"string.text"
+msgid "of"
+msgstr "de"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Add field:"
+msgstr "Cuir ris raon:"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_WRITEERROR\n"
+"string.text"
+msgid "Error writing data to database"
+msgstr "Mearachd le sgrìobhadh an dàta san stòr-dàta"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SYNTAXERROR\n"
+"string.text"
+msgid "Syntax error in query expression"
+msgstr "Mearachd co-chàraidh ann an eas-preisean na ceiste"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORD\n"
+"string.text"
+msgid "You intend to delete 1 record."
+msgstr "Tha thu gu bhith sguabadh às 1 reacord."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORDS\n"
+"string.text"
+msgid "# records will be deleted."
+msgstr "Thèid # reacord(an) a sguabadh às."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM\n"
+"string.text"
+msgid ""
+"If you click Yes, you won't be able to undo this operation.\n"
+"Do you want to continue anyway?"
+msgstr ""
+"Ma bhriogas tu air Tha, chan urrainn dhut seo a neo-dhèanamh.\n"
+"A bheil thu airson leantainn air adhart co-dhiù?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_NO_ELEMENT\n"
+"string.text"
+msgid "Choose an entry from the list or enter a text corresponding to one of the list items."
+msgstr "Tagh rud on liosta no cuir a-steach teacsa a tha co-ionnann ri fear air an liosta."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_GROUPBOX\n"
+"string.text"
+msgid "Frame element"
+msgstr "Eileamaid frèama"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Seòladaireachd"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATIONBAR\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "Bàr na seòladaireachd"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_COLUMN\n"
+"string.text"
+msgid "Col"
+msgstr "Colbh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_PROPERTY\n"
+"string.text"
+msgid "Set property '#'"
+msgstr "Suidhich an roghainn '#'"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_INSERT\n"
+"string.text"
+msgid "Insert in container"
+msgstr "Cuir dhan t-soitheach"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE\n"
+"string.text"
+msgid "Delete #"
+msgstr "Sguab às #"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE_MULTIPLE\n"
+"string.text"
+msgid "Delete # objects"
+msgstr "Sguab às # oibseact(an)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REPLACE\n"
+"string.text"
+msgid "Replace a container element"
+msgstr "Cuir rud an àite eileamaid an t-soithich"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_DELETE_LOGICAL\n"
+"string.text"
+msgid "Delete structure"
+msgstr "Sguab às structar"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_MODEL_REPLACE\n"
+"string.text"
+msgid "Replace Control"
+msgstr "Cuir rud an àite an uidheim-smachd"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Ceann-là"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Àm"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Push Button"
+msgstr "Putan putaidh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "Putan roghainne"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "Bogsa dearbhaidh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "Raon leubail"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "Bogsa buidhinn"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "Bogsa teacsa"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Raon fòrmataichte"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "Bogsa liosta"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "Bogsa combo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "Putan ìomhaighe"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "Uidheam-smachd ìomhaighe"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "Taghadh faidhle"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "Raon a' chinn-là"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "Raon an ama"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "Raon àireamhail"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "Raon an airgeadra"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "Raon pàtrain"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "Uidheam-smachd clàir "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SCROLLBAR\n"
+"string.text"
+msgid "Scrollbar"
+msgstr "Bàr-sgrolaidh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SPINBUTTON\n"
+"string.text"
+msgid "Spin Button"
+msgstr "Putan toinnidh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NAVBAR\n"
+"string.text"
+msgid "Navigation Bar"
+msgstr "Bàr na seòladaireachd"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Ioma-thaghadh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NODATACONTROLS\n"
+"string.text"
+msgid "No data-related controls in the current form!"
+msgstr "Chan eil uidheam-smachd a tha co-cheangailte ris a' cheann-là san fhoirm seo!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_DATE\n"
+"string.text"
+msgid " (Date)"
+msgstr " (Ceann-là)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_TIME\n"
+"string.text"
+msgid " (Time)"
+msgstr " (Àm)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_NAVIGATOR\n"
+"string.text"
+msgid "Filter navigator"
+msgstr "Seòladair na criathraige"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_FOR\n"
+"string.text"
+msgid "Filter for"
+msgstr "Criathrag airson"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_OR\n"
+"string.text"
+msgid "Or"
+msgstr "No"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NOCONTROLS_FOR_EXTERNALDISPLAY\n"
+"string.text"
+msgid "Valid bound controls which can be used in the table view do not exist in the current form."
+msgstr "Chan eil uidheaman-smachd ceangailte dligheach san fhoirm seo as urrainn dhut chleachdadh ann an sealladh a' chlàir."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_AUTOFIELD\n"
+"string.text"
+msgid "<AutoField>"
+msgstr "<Fèin-raon>"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"1\n"
+"string.text"
+msgid "LIKE"
+msgstr "LIKE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"2\n"
+"string.text"
+msgid "NOT"
+msgstr "NOT"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"3\n"
+"string.text"
+msgid "EMPTY"
+msgstr "EMPTY"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"4\n"
+"string.text"
+msgid "TRUE"
+msgstr "TRUE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"5\n"
+"string.text"
+msgid "FALSE"
+msgstr "FALSE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"6\n"
+"string.text"
+msgid "IS"
+msgstr "IS"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"7\n"
+"string.text"
+msgid "BETWEEN"
+msgstr "BETWEEN"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"8\n"
+"string.text"
+msgid "OR"
+msgstr "OR"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"9\n"
+"string.text"
+msgid "AND"
+msgstr "AND"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"10\n"
+"string.text"
+msgid "Average"
+msgstr "Cuibheas"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"11\n"
+"string.text"
+msgid "Count"
+msgstr "Cunnt"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"12\n"
+"string.text"
+msgid "Maximum"
+msgstr "Meud as motha"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"13\n"
+"string.text"
+msgid "Minimum"
+msgstr "Meud as lugha"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"14\n"
+"string.text"
+msgid "Sum"
+msgstr "Suim"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"15\n"
+"string.text"
+msgid "Every"
+msgstr "Gach"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"16\n"
+"string.text"
+msgid "Any"
+msgstr "Gin"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"17\n"
+"string.text"
+msgid "Some"
+msgstr "Grunn"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"18\n"
+"string.text"
+msgid "STDDEV_POP"
+msgstr "STDDEV_POP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"19\n"
+"string.text"
+msgid "STDDEV_SAMP"
+msgstr "STDDEV_SAMP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"20\n"
+"string.text"
+msgid "VAR_SAMP"
+msgstr "VAR_SAMP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"21\n"
+"string.text"
+msgid "VAR_POP"
+msgstr "VAR_POP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"22\n"
+"string.text"
+msgid "Collect"
+msgstr "Cruinnich"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"23\n"
+"string.text"
+msgid "Fusion"
+msgstr "Co-aonadh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"24\n"
+"string.text"
+msgid "Intersection"
+msgstr "Eadar-ghearradh"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ERROR\n"
+"string.text"
+msgid "Syntax error in SQL statement"
+msgstr "Mearachd co-chàraidh san aithris SQL"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE\n"
+"string.text"
+msgid "The value #1 cannot be used with LIKE."
+msgstr "Chan urrainn dhut an luach #1 a chleachdadh le LIKE."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE\n"
+"string.text"
+msgid "LIKE cannot be used with this field."
+msgstr "Chan urrainn dhut LIKE a chleachdadh leis an raon seo."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID\n"
+"string.text"
+msgid "The value entered is not a valid date. Please enter a date in a valid format, for example, MM/DD/YY."
+msgstr "Cha do chuir thu a-steach ceann-là dligheach. Cuir a-steach ceann-là le fòrmat dligheach, mar eisimpleir LL/MM/BB."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with an integer."
+msgstr "Chan ghabh coimeas a dhèanamh eadar an raon agus àireamh shlàn."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE\n"
+"string.text"
+msgid "The database does not contain a table named \"#\"."
+msgstr "Chan eil clàr san stòr-dàta air a bheil \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_OR_QUERY\n"
+"string.text"
+msgid "The database does contain neither a table nor a query named \"#\"."
+msgstr "Chan eil clàr no ceist san stòr-dàta air a bheil \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_EXISTS\n"
+"string.text"
+msgid "The database already contains a table or view with name \"#\"."
+msgstr "Tha clàr no sealladh san stòr-dàta mu thràth air a bheil \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_QUERY_EXISTS\n"
+"string.text"
+msgid "The database already contains a query with name \"#\"."
+msgstr "Tha ceist san stòr-dàta mu thràth air a bheil \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_COLUMN\n"
+"string.text"
+msgid "The column \"#1\" is unknown in the table \"#2\"."
+msgstr "Chan aithnichear an colbh \"#1\" sa chlàr \"#2\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with a floating point number."
+msgstr "Chan ghabh coimeas a dhèanamh eadar an raon agus àireamh puinge air fleòd."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE\n"
+"string.text"
+msgid "The entered criterion cannot be compared with this field."
+msgstr "Cha ghabh coimeas a dhèanamh eadar an raon seo is an cuspair-deuchainn a chuir thu a-steach."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATANAVIGATOR\n"
+"string.text"
+msgid "Data Navigator"
+msgstr "Seòladair dàta"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_READONLY_VIEW\n"
+"string.text"
+msgid " (read-only)"
+msgstr " (ri leughadh a-mhàin)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "Tha am faidhle seo ann mu thràth. A bheil thu airson sgrìobhadh thairis air?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_OBJECT_LABEL\n"
+"string.text"
+msgid "#object# label"
+msgstr "leubail #object#"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_STYLE\n"
+"menuitem.text"
+msgid "St~yle"
+msgstr "Sto~idhle"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_ALIGNMENT\n"
+"menuitem.text"
+msgid "~Alignment"
+msgstr "Co-~thaobhadh"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_SPACING\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "Beàrnadh eadar dà ~loidhne"

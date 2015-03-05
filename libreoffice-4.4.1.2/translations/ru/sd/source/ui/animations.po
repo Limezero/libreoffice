@@ -1,0 +1,563 @@
+#. extracted from sd/source/ui/animations
+msgid ""
+msgstr ""
+"Project-Id-Version: animations\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:04+0200\n"
+"PO-Revision-Date: 2014-06-27 19:48+0000\n"
+"Last-Translator: bormant <bormant@mail.ru>\n"
+"Language-Team: Russian <l10n@ru.libreoffice.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1403898497.000000\n"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_WITH_CLICK\n"
+"menuitem.text"
+msgid "Start On ~Click"
+msgstr "Начать по щелчку"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_WITH_PREVIOUS\n"
+"menuitem.text"
+msgid "Start ~With Previous"
+msgstr "Начать с предыдущего"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_AFTER_PREVIOUS\n"
+"menuitem.text"
+msgid "Start ~After Previous"
+msgstr "Начать после предыдущего"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_OPTIONS\n"
+"menuitem.text"
+msgid "~Effect Options..."
+msgstr "Параметры эффекта..."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_DURATION\n"
+"menuitem.text"
+msgid "~Timing..."
+msgstr "Хронометраж..."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_REMOVE\n"
+"menuitem.text"
+msgid "~Remove"
+msgstr "Удалить"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_25\n"
+"menuitem.text"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_50\n"
+"menuitem.text"
+msgid "Smaller"
+msgstr "Маленький"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_150\n"
+"menuitem.text"
+msgid "Larger"
+msgstr "Большой"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_400\n"
+"menuitem.text"
+msgid "Extra large"
+msgstr "Огромный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_25\n"
+"menuitem.text"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_50\n"
+"menuitem.text"
+msgid "Smaller"
+msgstr "Маленький"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_150\n"
+"menuitem.text"
+msgid "Larger"
+msgstr "Большой"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_400\n"
+"menuitem.text"
+msgid "Extra large"
+msgstr "Огромный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_HORIZONTAL\n"
+"menuitem.text"
+msgid "Horizontal"
+msgstr "По горизонтали"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_VERTICAL\n"
+"menuitem.text"
+msgid "Vertical"
+msgstr "По вертикали"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_BOTH\n"
+"menuitem.text"
+msgid "Both"
+msgstr "Оба"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_QUARTER_SPIN\n"
+"menuitem.text"
+msgid "Quarter spin"
+msgstr "Четверть оборота"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_HALF_SPIN\n"
+"menuitem.text"
+msgid "Half spin"
+msgstr "Пол-оборота"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_FULL_SPIN\n"
+"menuitem.text"
+msgid "Full spin"
+msgstr "Полный оборот"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_TWO_SPINS\n"
+"menuitem.text"
+msgid "Two spins"
+msgstr "Два оборота"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_CLOCKWISE\n"
+"menuitem.text"
+msgid "Clockwise"
+msgstr "По часовой стрелке"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_COUNTERCLOCKWISE\n"
+"menuitem.text"
+msgid "Counter-clockwise"
+msgstr "Против часовой стрелки"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_BOLD\n"
+"menuitem.text"
+msgid "Bold"
+msgstr "Полужирный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_ITALIC\n"
+"menuitem.text"
+msgid "Italic"
+msgstr "Курсив"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_UNDERLINED\n"
+"menuitem.text"
+msgid "Underlined"
+msgstr "Подчёркнутый"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_VERY_SLOW\n"
+"string.text"
+msgid "Very slow"
+msgstr "Очень медленно"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_SLOW\n"
+"string.text"
+msgid "Slow"
+msgstr "Низкая"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_NORMAL\n"
+"string.text"
+msgid "Medium"
+msgstr "Средняя"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_FAST\n"
+"string.text"
+msgid "Fast"
+msgstr "Высокая"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_VERY_FAST\n"
+"string.text"
+msgid "Very fast"
+msgstr "Очень быстро"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_NONE\n"
+"string.text"
+msgid "none"
+msgstr "нет"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_UNTIL_NEXT_CLICK\n"
+"string.text"
+msgid "Until next click"
+msgstr "До следующего щелчка"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_UNTIL_END_OF_SLIDE\n"
+"string.text"
+msgid "Until end of slide"
+msgstr "До конца слайда"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DIRECTION_PROPERTY\n"
+"string.text"
+msgid "Direction"
+msgstr "Направление"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_ZOOM_PROPERTY\n"
+"string.text"
+msgid "Zoom"
+msgstr "Масштаб"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SPOKES_PROPERTY\n"
+"string.text"
+msgid "Spokes"
+msgstr "Спицы"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FIRST_COLOR_PROPERTY\n"
+"string.text"
+msgid "First color"
+msgstr "Первый цвет"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SECOND_COLOR_PROPERTY\n"
+"string.text"
+msgid "Second color"
+msgstr "Второй цвет"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FILL_COLOR_PROPERTY\n"
+"string.text"
+msgid "Fill color"
+msgstr "Цвет заливки"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_STYLE_PROPERTY\n"
+"string.text"
+msgid "Style"
+msgstr "Стиль"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_PROPERTY\n"
+"string.text"
+msgid "Font"
+msgstr "Гарнитура"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_COLOR_PROPERTY\n"
+"string.text"
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_SIZE_STYLE_PROPERTY\n"
+"string.text"
+msgid "Style"
+msgstr "Стиль"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_STYLE_PROPERTY\n"
+"string.text"
+msgid "Typeface"
+msgstr "Начертание"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_LINE_COLOR_PROPERTY\n"
+"string.text"
+msgid "Line color"
+msgstr "Цвет линии"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SIZE_PROPERTY\n"
+"string.text"
+msgid "Font size"
+msgstr "Кегль"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SCALE_PROPERTY\n"
+"string.text"
+msgid "Size"
+msgstr "Размер"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_AMOUNT_PROPERTY\n"
+"string.text"
+msgid "Amount"
+msgstr "Количество"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_COLOR_PROPERTY\n"
+"string.text"
+msgid "Color"
+msgstr "Цвет"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_NO_SOUND\n"
+"string.text"
+msgid "(No sound)"
+msgstr "(Без звука)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_STOP_PREVIOUS_SOUND\n"
+"string.text"
+msgid "(Stop previous sound)"
+msgstr "(Остановить предыдущий звук)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_BROWSE_SOUND\n"
+"string.text"
+msgid "Other sound..."
+msgstr "Другой звук..."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SAMPLE\n"
+"string.text"
+msgid "Sample"
+msgstr "Пример"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_1_SPOKES\n"
+"string.text"
+msgid "1 Spoke"
+msgstr "1 спица"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_2_SPOKES\n"
+"string.text"
+msgid "2 Spokes"
+msgstr "2 спицы"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_3_SPOKES\n"
+"string.text"
+msgid "3 Spokes"
+msgstr "3 спицы"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_4_SPOKES\n"
+"string.text"
+msgid "4 Spokes"
+msgstr "4 спицы"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_8_SPOKES\n"
+"string.text"
+msgid "8 Spokes"
+msgstr "8 спиц"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_INSTANT\n"
+"string.text"
+msgid "Instant"
+msgstr "Немедленный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_GRADUAL\n"
+"string.text"
+msgid "Gradual"
+msgstr "Постепенный"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_TRIGGER\n"
+"string.text"
+msgid "Trigger"
+msgstr "Запуск"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_LIST_HELPTEXT\n"
+"string.text"
+msgid "First select the slide element and then click 'Add...' to add an animation effect."
+msgstr "Сначала выделите элемент слайда, затем щёлкните «Добавить...» для добавления эффекта анимации."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_USERPATH\n"
+"string.text"
+msgid "User paths"
+msgstr "Пользовательские пути"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_SLIDETRANSITION_NONE\n"
+"string.text"
+msgid "No transition"
+msgstr "Без переходов"

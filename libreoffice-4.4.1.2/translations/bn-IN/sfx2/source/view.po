@@ -1,0 +1,192 @@
+#. extracted from sfx2/source/view
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2014-12-19 08:26+0000\n"
+"Last-Translator: Saibal <sray@redhat.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1418977619.000000\n"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NODEFPRINTER\n"
+"string.text"
+msgid ""
+"No default printer found.\n"
+"Please choose a printer and try again."
+msgstr ""
+"কোনো পূর্বনির্ধারিত মুদ্রণযন্ত্র পাওয়া যায়নি।\n"
+"অনুগ্রহ করে একটি মুদ্রণযন্ত্র  নির্বাচন করুন এবং আবার চেষ্টা করুন।"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NOSTARTPRINTER\n"
+"string.text"
+msgid ""
+"Could not start printer.\n"
+"Please check your printer configuration."
+msgstr ""
+"মুদ্রণযন্ত্র চালু করা যাবে না।\n"
+"অনুগ্রহ করে আপনার মুদ্রণযন্ত্রের কনফিগারেশন পরীক্ষা করুন।"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_PRINTER_BUSY\n"
+"string.text"
+msgid "Printer busy"
+msgstr "মুদ্রণযন্ত্রটি ব্যস্ত"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_PRINT\n"
+"string.text"
+msgid "Error while printing"
+msgstr "মুদ্রণের সময় ত্রুটি"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "পৃষ্ঠা"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_SAVE_TEMPLATE\n"
+"string.text"
+msgid "Error saving template "
+msgstr "ফর্মা সংরক্ষণের সময় ত্রুটি"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_READONLY\n"
+"string.text"
+msgid " (read-only)"
+msgstr " (শুধুমাত্র-পাঠযোগ্য)"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_NEWORI\n"
+"string.text"
+msgid ""
+"The page size and orientation have been modified.\n"
+"Would you like to save the new settings in the\n"
+"active document?"
+msgstr ""
+"পৃষ্ঠার আকৃতি এবং স্থিতিবিন্যাস পরিবর্তন করা হয়েছে।\n"
+"আপনি কি নতুন বিন্যাসটি সক্রিয় নথিতে সংরক্ষণ করতে চান?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_NEWSIZE\n"
+"string.text"
+msgid ""
+"The page size has been modified.\n"
+"Should the new settings be saved\n"
+"in the active document?"
+msgstr ""
+"পৃষ্ঠার আকৃতি পরিবর্তন করা হয়েছে।\n"
+"নতুন বিন্যাস কি সক্রিয় নথিতে সংরক্ষণ করা হবে?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_NEWORISIZE\n"
+"string.text"
+msgid ""
+"The page size and orientation have been modified.\n"
+"Would you like to save the new settings in the\n"
+"active document?"
+msgstr ""
+"পৃষ্ঠার আকৃতি এবং স্থিতিবিন্যাস পরিবর্তন করা হয়েছে।\n"
+"আপনি কি নতুন বিন্যাসটি সক্রিয় নথিতে সংরক্ষণ করতে চান?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_CANT_CLOSE\n"
+"string.text"
+msgid ""
+"The document cannot be closed because a\n"
+" print job is being carried out."
+msgstr ""
+"নথিটি বন্ধ করা যাবে না কারণ\n"
+"একটি মুদ্রণ কাজ চলছে।"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_SEND_MAIL\n"
+"string.text"
+msgid ""
+"An error occurred in sending the message. Possible errors could be a missing user account or a defective setup.\n"
+"Please check the %PRODUCTNAME settings or your e-mail program settings."
+msgstr ""
+"বার্তা প্রেরণ একটি ত্রুটি দেখা দিয়েছে। অনুপস্থিত ব্যবহারকারীর হিসাব বা ত্রুটিপূর্ণ সেটআপের কারণে সম্ভাব্য ত্রুটি দেখা দিতে পারে।\n"
+"অনুগ্রহ করে %PRODUCTNAME সেটিং বা আপনার ই-মেইল সেটিং পরীক্ষা করুন।"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_QUERY_OPENASTEMPLATE\n"
+"string.text"
+msgid "This document cannot be edited, possibly due to missing access rights. Do you want to edit a copy of the document?"
+msgstr "সম্ভবত অনুপস্থিত প্রবেশাধিকারের কারণে, এই নথিটি সম্পাদনা করা যাবে না। আপনি কি নথির একটি অনুলিপি সম্পাদনা করতে চান?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_REPAIREDDOCUMENT\n"
+"string.text"
+msgid " (repaired document)"
+msgstr "(সংশোধিত নথি)"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NONCHECKEDOUT_DOCUMENT\n"
+"string.text"
+msgid "This document is not checked out on the server."
+msgstr "এই ডকুমেন্ট সার্ভারে চেক অাউট করা হয়নি।"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_READONLY_DOCUMENT\n"
+"string.text"
+msgid "This document is open in read-only mode."
+msgstr "এই নথি শুধুমাত্র-পাঠযোগ্য মোডে খোলা হয়।"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"BT_CHECKOUT\n"
+"pushbutton.text"
+msgid "Check Out"
+msgstr "চেক অাউট"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"BT_READONLY_EDIT\n"
+"pushbutton.text"
+msgid "Edit Document"
+msgstr "নথি সম্পাদনা করুন"

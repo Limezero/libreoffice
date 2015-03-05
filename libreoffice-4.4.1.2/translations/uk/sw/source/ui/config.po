@@ -1,0 +1,419 @@
+#. extracted from sw/source/ui/config
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-02-17 09:30+0000\n"
+"Last-Translator: Андрій <andriykopanytsia@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1424165414.000000\n"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"ST_SCRIPT_ASIAN\n"
+"string.text"
+msgid "Asian"
+msgstr "Азійські"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"ST_SCRIPT_CTL\n"
+"string.text"
+msgid "CTL"
+msgstr "Складне письмо"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"ST_SCRIPT_WESTERN\n"
+"string.text"
+msgid "Western"
+msgstr "Західні"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"%PRODUCTNAME %s\n"
+"itemlist.text"
+msgid "%PRODUCTNAME %s"
+msgstr "%PRODUCTNAME %s"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Contents\n"
+"itemlist.text"
+msgid "Contents"
+msgstr "Зміст"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Page ba~ckground\n"
+"itemlist.text"
+msgid "Page ba~ckground"
+msgstr "Тло сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"P~ictures and other graphic objects\n"
+"itemlist.text"
+msgid "P~ictures and other graphic objects"
+msgstr "Зображення та інші графічні об'єкти"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Hidden te~xt\n"
+"itemlist.text"
+msgid "Hidden te~xt"
+msgstr "Схований ~текст"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"~Text placeholders\n"
+"itemlist.text"
+msgid "~Text placeholders"
+msgstr "~Текстові заповнювачі"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Form control~s\n"
+"itemlist.text"
+msgid "Form control~s"
+msgstr "Елементи керування"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Color\n"
+"itemlist.text"
+msgid "Color"
+msgstr "Колір"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Print text in blac~k\n"
+"itemlist.text"
+msgid "Print text in blac~k"
+msgstr "Друкувати текст чорним"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Pages\n"
+"itemlist.text"
+msgid "Pages"
+msgstr "Сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Print ~automatically inserted blank pages\n"
+"itemlist.text"
+msgid "Print ~automatically inserted blank pages"
+msgstr "Друкувати ~автоматично вставлені порожні сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"~Use only paper tray from printer preferences\n"
+"itemlist.text"
+msgid "~Use only paper tray from printer preferences"
+msgstr "Подача паперу згідно налаштувань принтера"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "Точка"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"None (document only)\n"
+"itemlist.text"
+msgid "None (document only)"
+msgstr "Немає (тільки документ)"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Comments only\n"
+"itemlist.text"
+msgid "Comments only"
+msgstr "Тільки примітки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Place at end of document\n"
+"itemlist.text"
+msgid "Place at end of document"
+msgstr "Розмістити в кінці документа"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Place at end of page\n"
+"itemlist.text"
+msgid "Place at end of page"
+msgstr "Розмістити в кінці сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"~Comments\n"
+"itemlist.text"
+msgid "~Comments"
+msgstr "Зміст"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Page sides\n"
+"itemlist.text"
+msgid "Page sides"
+msgstr "Сторони листків"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"All pages\n"
+"itemlist.text"
+msgid "All pages"
+msgstr "Усі сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Back sides / left pages\n"
+"itemlist.text"
+msgid "Back sides / left pages"
+msgstr "Зворотні сторони / ліві сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Front sides / right pages\n"
+"itemlist.text"
+msgid "Front sides / right pages"
+msgstr "Фронтальні сторони / праві сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Include\n"
+"itemlist.text"
+msgid "Include"
+msgstr "Включати"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Broch~ure\n"
+"itemlist.text"
+msgid "Broch~ure"
+msgstr "Бро~шурою"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Left-to-right script\n"
+"itemlist.text"
+msgid "Left-to-right script"
+msgstr "Зліва направо"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Right-to-left script\n"
+"itemlist.text"
+msgid "Right-to-left script"
+msgstr "Справа наліво"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Range and copies\n"
+"itemlist.text"
+msgid "Range and copies"
+msgstr "Область друку та копії"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"~All pages\n"
+"itemlist.text"
+msgid "~All pages"
+msgstr "Усі сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Pa~ges\n"
+"itemlist.text"
+msgid "Pa~ges"
+msgstr "Сторінки"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"~Selection\n"
+"itemlist.text"
+msgid "~Selection"
+msgstr "Виділення"
+
+#: optdlg.src
+msgctxt ""
+"optdlg.src\n"
+"STR_PRINTOPTUI\n"
+"Place in margins\n"
+"itemlist.text"
+msgid "Place in margins"
+msgstr "Помістити на полях"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Millimeter\n"
+"itemlist.text"
+msgid "Millimeter"
+msgstr "Міліметр"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Centimeter\n"
+"itemlist.text"
+msgid "Centimeter"
+msgstr "Сантиметр"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Meter\n"
+"itemlist.text"
+msgid "Meter"
+msgstr "Метр"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Kilometer\n"
+"itemlist.text"
+msgid "Kilometer"
+msgstr "Кілометр"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Inch\n"
+"itemlist.text"
+msgid "Inch"
+msgstr "Дюйм"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Foot\n"
+"itemlist.text"
+msgid "Foot"
+msgstr "Фут"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Miles\n"
+"itemlist.text"
+msgid "Miles"
+msgstr "Милі"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Pica\n"
+"itemlist.text"
+msgid "Pica"
+msgstr "Піка"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Point\n"
+"itemlist.text"
+msgid "Point"
+msgstr "Точка"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Char\n"
+"itemlist.text"
+msgid "Char"
+msgstr "Символ"
+
+#: optload.src
+msgctxt ""
+"optload.src\n"
+"STR_ARR_METRIC\n"
+"Line\n"
+"itemlist.text"
+msgid "Line"
+msgstr "Рядок"

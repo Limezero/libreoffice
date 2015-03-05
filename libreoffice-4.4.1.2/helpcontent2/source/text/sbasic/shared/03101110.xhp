@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03101110xhp" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">DefCur Statement [Runtime]</title>
+<filename>/text/sbasic/shared/03101110.xhp</filename>
+</topic>
+<history>
+<created date="2005-04-25T15:14:37">DefCurr</created>
+<lastedited date="2005-04-27T10:51:20"/>
+</history>
+</meta>
+<body>
+<section id="defcur">
+<bookmark xml-lang="en-US" branch="index" id="bm_id9555345"><bookmark_value>DefCur statement</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="par_idN1057D" xml-lang="en-US" level="1" l10n="NEW"><link href="text/sbasic/shared/03101110.xhp">DefCur Statement [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_idN1058D" xml-lang="en-US" l10n="NEW">If no type-declaration character or keyword is specified, the DefCur statement sets the default variable type, according to a letter range.</paragraph>
+</section>
+<paragraph role="heading" id="par_idN10590" xml-lang="en-US" level="2" l10n="NEW">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_idN10594" xml-lang="en-US">Defxxx Characterrange1[, Characterrange2[,...]]</paragraph>
+</bascode>
+<paragraph role="heading" id="par_idN10597" xml-lang="en-US" level="2" l10n="NEW">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_idN1059B" xml-lang="en-US" l10n="NEW">
+<emph>Characterrange:</emph> Letters that specify the range of variables that you want to set a default data type for.</paragraph>
+<paragraph role="paragraph" id="par_idN105A2" xml-lang="en-US" l10n="NEW">
+<emph>xxx:</emph> Keyword that defines the default variable type:</paragraph>
+<paragraph role="paragraph" id="par_idN105A9" xml-lang="en-US" l10n="NEW">
+<emph>Keyword:</emph> Default variable type</paragraph>
+<paragraph role="paragraph" id="par_idN105B0" xml-lang="en-US" l10n="NEW">
+<emph>DefCur:</emph> Currency</paragraph>
+<paragraph role="heading" id="par_idN105B7" xml-lang="en-US" level="2" l10n="NEW">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_idN105BB" xml-lang="en-US">REM Prefix definitions for variable types:</paragraph>
+<paragraph role="bascode" id="par_idN105BE" xml-lang="en-US" localize="false">DefBool b</paragraph>
+<paragraph role="bascode" id="par_idN105C1" xml-lang="en-US" localize="false">DefDate t</paragraph>
+<paragraph role="bascode" id="par_idN105C4" xml-lang="en-US" localize="false">DefDbL d</paragraph>
+<paragraph role="bascode" id="par_idN105C7" xml-lang="en-US" localize="false">DefInt i</paragraph>
+<paragraph role="bascode" id="par_idN105CA" xml-lang="en-US" localize="false">DefLng l</paragraph>
+<paragraph role="bascode" id="par_idN105CD" xml-lang="en-US" localize="false">DefObj o</paragraph>
+<paragraph role="bascode" id="par_idN105D0" xml-lang="en-US" localize="false">DefVar v</paragraph>
+<paragraph role="bascode" id="par_idN105D3" xml-lang="en-US" localize="false">DefCur c</paragraph>
+<paragraph role="bascode" id="par_idN105D6" xml-lang="en-US" localize="false">Sub ExampleDefCur</paragraph>
+<paragraph role="bascode" id="par_idN105D9" xml-lang="en-US">    cCur=Currency REM cCur is an implicit currency variable</paragraph>
+<paragraph role="bascode" id="par_idN105DC" xml-lang="en-US" localize="false">End Sub</paragraph>
+</bascode>
+</body>
+</helpdocument>

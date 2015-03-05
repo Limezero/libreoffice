@@ -1,0 +1,773 @@
+#. extracted from scaddins/source/pricing
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2014-10-21 17:59+0000\n"
+"Last-Translator: Antón <meixome@certima.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1413914370.000000\n"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"1\n"
+"string.text"
+msgid "Pricing of a barrier option"
+msgstr "Prezo dunha opción barreira"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "prezo ao contado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"3\n"
+"string.text"
+msgid "Price/value of the underlying asset"
+msgstr "Prezo/valor do activo subxacente"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the underlying asset"
+msgstr "Volatilidade anual do activo subxacente"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"6\n"
+"string.text"
+msgid "r"
+msgstr "r"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"7\n"
+"string.text"
+msgid "Interest rate (continuously compounded)"
+msgstr "Taxa de xuro (xuro composto)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"8\n"
+"string.text"
+msgid "rf"
+msgstr "rf"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"9\n"
+"string.text"
+msgid "Foreign interest rate (continuously compounded)"
+msgstr "Taxa de xuros externa (xuro composto)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"10\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"11\n"
+"string.text"
+msgid "Time to maturity of the option in years"
+msgstr "Tempo de vencemento da opción en anos"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"12\n"
+"string.text"
+msgid "strike"
+msgstr "prezo no mercado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"13\n"
+"string.text"
+msgid "Strike level of the option"
+msgstr "Nivel do prezo no mercado da opción"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"14\n"
+"string.text"
+msgid "barrier_low"
+msgstr "barreira_base"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"15\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "Barreira inferior (0 para a barreira máis baixa)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"16\n"
+"string.text"
+msgid "barrier_up"
+msgstr "barreira_tope"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"17\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "Barreira superior (0 para a barreira máis alta)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"18\n"
+"string.text"
+msgid "rebate"
+msgstr "desconto"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"19\n"
+"string.text"
+msgid "Amount of money paid at maturity if barrier was hit"
+msgstr "Montante pagado ao vencemento cando se acada algunha das barreiras"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"20\n"
+"string.text"
+msgid "put/call"
+msgstr "venda/compra"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"21\n"
+"string.text"
+msgid "String to define if the option is a (p)ut or a (c)all"
+msgstr "Cadea que define se a opción é posición de venda (p) ou unha compra (c)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"22\n"
+"string.text"
+msgid "knock in/out"
+msgstr "barreira de activación/desactivación"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"23\n"
+"string.text"
+msgid "String to define if the option is of type knock-(i)n or knock-(o)ut"
+msgstr "Cadea que define se a opción é de tipo activador (i) ou desactivador (o)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"24\n"
+"string.text"
+msgid "barrier_type"
+msgstr "tipo_barreira"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"25\n"
+"string.text"
+msgid "String to define whether the barrier is observed (c)ontinuously or only at the (e)nd/maturity"
+msgstr "Cadea que define se a barreira se considera (c)ontinuamente ou soamente ao r(e)mate/vencemento"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"26\n"
+"string.text"
+msgid "greek"
+msgstr "grega"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptBarrier\n"
+"27\n"
+"string.text"
+msgid "Optional parameter, if left out then the function simply returns the option price; if set, the function returns price sensitivities (Greeks) to one of the input parameters; possible values are (d)elta, (g)amma, (t)heta, v(e)ga, v(o)lga, v(a)nna, (r)ho, rho(f)"
+msgstr "Parámetro opcional. Cando se omite, a función devolve o prezo da opción; cando se define, a función devolve as sensibilidades do prezo (gregas) para un dos parámetros de entrada; os valores posíbeis son (d)elta, (g)amma, (t)heta, v(e)ga, v(o)lga, v(a)nna, (r)ho, rho(f)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"1\n"
+"string.text"
+msgid "Pricing of a touch/no-touch option"
+msgstr "Prezo dunha opción con aproximación/sen aproximación"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "prezo ao contado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"3\n"
+"string.text"
+msgid "Price/value of the underlying asset"
+msgstr "Prezo/valor do activo subxacente"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the underlying asset"
+msgstr "Volatilidade anual do activo subxacente"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"6\n"
+"string.text"
+msgid "r"
+msgstr "r"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"7\n"
+"string.text"
+msgid "Interest rate (continuously compounded)"
+msgstr "Taxa de xuro (xuro composto)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"8\n"
+"string.text"
+msgid "rf"
+msgstr "rf"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"9\n"
+"string.text"
+msgid "Foreign interest rate (continuously compounded)"
+msgstr "Taxa de xuros externa (xuro composto)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"10\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"11\n"
+"string.text"
+msgid "Time to maturity of the option in years"
+msgstr "Tempo de vencemento da opción en anos"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"12\n"
+"string.text"
+msgid "barrier_low"
+msgstr "barreira_base"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"13\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "Barreira inferior (0 para a barreira máis baixa)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"14\n"
+"string.text"
+msgid "barrier_up"
+msgstr "barreira_tope"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"15\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "Barreira superior (0 para a barreira máis alta)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"16\n"
+"string.text"
+msgid "foreign/domestic"
+msgstr "externa/doméstica"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"17\n"
+"string.text"
+msgid "String to define if the option pays one unit of (d)omestic currency (cash or nothing) or (f)oreign currency (asset or nothing)"
+msgstr "Cade que define se a opción paga unha unidade de moeda (d)oméstica (en efectivo ou nada) ou en (f) moeda estranxeira (activo ou nada)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"18\n"
+"string.text"
+msgid "knock in/out"
+msgstr "barreira de activación/desactivación"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"19\n"
+"string.text"
+msgid "String to define if the option is of type knock-(i)n (touch) or knock-(o)ut (no-touch)"
+msgstr "Cadea que define cando a opción é de tipo activador (i) ou desactivadora (o)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"20\n"
+"string.text"
+msgid "barrier_type"
+msgstr "tipo_barreira"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"21\n"
+"string.text"
+msgid "String to define whether the barrier is observed (c)ontinuously or only at the (e)nd/maturity"
+msgstr "Cadea que define cando se considera a barreira (c)ontinuamente ou soamente no r(e)mate/vencemento"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"22\n"
+"string.text"
+msgid "greek"
+msgstr "grega"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptTouch\n"
+"23\n"
+"string.text"
+msgid "Optional parameter, if left out then the function simply returns the option price; if set, the function returns price sensitivities (Greeks) to one of the input parameters; possible values are (d)elta, (g)amma, (t)heta, v(e)ga, v(o)lga, v(a)nna, (r)ho, rho(f)"
+msgstr "Parámetro opcional. Cando non se define, a función devolve o prezo da opción; cando se define, a función devolve as sensibilidades do prezo (gregas) para un dos parámetros indicados; os valores posíbeis son (d)elta, (g)amma, (t)heta, v(e)ga, v(o)lga, v(a)nna, (r)ho, rho(f)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"1\n"
+"string.text"
+msgid "Probability that an asset hits a barrier assuming it follows dS/S = mu dt + vol dW"
+msgstr "Probabilidade de que un activo acade unha barreira, seguindo a ecuación dS/S = mu dt + vol dW"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "prezo ao contado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"3\n"
+"string.text"
+msgid "Price/value S of the underlying asset"
+msgstr "Prezo/valor S do activo de base"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the underlying asset"
+msgstr "Volatilidade anual do activo de base"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"6\n"
+"string.text"
+msgid "drift"
+msgstr "derivado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"7\n"
+"string.text"
+msgid "Parameter mu in dS/S = mu dt + vol dW"
+msgstr "Parámetro mu en dS/S = mu dt + vol dW"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"8\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"9\n"
+"string.text"
+msgid "Time to maturity"
+msgstr "Tempo para o vencemento"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"10\n"
+"string.text"
+msgid "barrier_low"
+msgstr "barreira_base"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"11\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "Barreira inferior (0 para a barreira máis baixa)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"12\n"
+"string.text"
+msgid "barrier_up"
+msgstr "barreira_tope"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbHit\n"
+"13\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "Barreira superior (0 para a barreira máis alta)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"1\n"
+"string.text"
+msgid "Probability that an asset will at maturity end up between two barrier levels, assuming it follows dS/S = mu dt + vol dW (if the last two optional parameters (strike, put/call) are specified, the probability of S_T in [strike, upper barrier] for a call and S_T in [lower barrier, strike] for a put will be returned)"
+msgstr "Probabilidade de que un activo acadará no seu vencemento a estar entre dous niveis de barreras, segundo a ecuación dS/S = mu dt + vol dW (De se especificaren os parámetros opcionais «prezo de exercicio» e «venda/compra», devolverá a probabilidade de S_T en [prezo de exercicio, barreira superior]) para una compra e S_T en [barreira inferior, prezo de exercicio] para una venda)."
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"2\n"
+"string.text"
+msgid "spot"
+msgstr "prezo ao contado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"3\n"
+"string.text"
+msgid "Price/value of the asset"
+msgstr "Prezo/valor do activo"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"4\n"
+"string.text"
+msgid "vol"
+msgstr "vol"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"5\n"
+"string.text"
+msgid "Annual volatility of the asset"
+msgstr "Volatilidade anual do activo"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"6\n"
+"string.text"
+msgid "drift"
+msgstr "derivado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"7\n"
+"string.text"
+msgid "Parameter mu from dS/S = mu dt + vol dW"
+msgstr "Parámento mu de dS/S = mu dt + vol dW"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"8\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"9\n"
+"string.text"
+msgid "Time to maturity in years"
+msgstr "Tempo para o vencemento en anos"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"10\n"
+"string.text"
+msgid "barrier_low"
+msgstr "barreira_base"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"11\n"
+"string.text"
+msgid "Lower barrier (set to 0 for no lower barrier)"
+msgstr "Barreira inferior (0 para a barreira máis baixa)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"12\n"
+"string.text"
+msgid "barrier_up"
+msgstr "barreira_tope"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"13\n"
+"string.text"
+msgid "Upper barrier (set to 0 for no upper barrier)"
+msgstr "Barreira superior (0 para a barreira máis alta)"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"14\n"
+"string.text"
+msgid "put/call"
+msgstr "venda/compra"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"15\n"
+"string.text"
+msgid "Optional (p)ut/(c)all indicator"
+msgstr "Opcional (p) venda/(c)ompra"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"16\n"
+"string.text"
+msgid "strike"
+msgstr "prezo no mercado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_DESCRIPTIONS.PRICING_FUNCDESC_OptProbInMoney\n"
+"17\n"
+"string.text"
+msgid "Optional strike level"
+msgstr "Nivel opcional do prezo de mercado"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptBarrier\n"
+"string.text"
+msgid "OPT_BARRIER"
+msgstr "OPT_BARRIER"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptTouch\n"
+"string.text"
+msgid "OPT_TOUCH"
+msgstr "OPT_TOUCH"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptProbHit\n"
+"string.text"
+msgid "OPT_PROB_HIT"
+msgstr "OPT_PROB_HIT"
+
+#: pricing.src
+msgctxt ""
+"pricing.src\n"
+"RID_PRICING_FUNCTION_NAMES\n"
+"PRICING_FUNCNAME_OptProbInMoney\n"
+"string.text"
+msgid "OPT_PROB_INMONEY"
+msgstr "OPT_PROB_INMONEY"

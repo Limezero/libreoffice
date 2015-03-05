@@ -1,0 +1,1154 @@
+#. extracted from cui/source/tabpages
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-11-27 21:08+0000\n"
+"Last-Translator: quest-88 <quest-88@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1417122532.000000\n"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_NONE\n"
+"string.text"
+msgid "Set No Borders"
+msgstr "Bez krawędzi"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_ONLYOUTER\n"
+"string.text"
+msgid "Set Outer Border Only"
+msgstr "Tylko zewnętrzne krawędzie"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERHORI\n"
+"string.text"
+msgid "Set Outer Border and Horizontal Lines"
+msgstr "Zewnętrzne krawędzie i linie poziome"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERALL\n"
+"string.text"
+msgid "Set Outer Border and All Inner Lines"
+msgstr "Zewnętrzne krawędzie i wszystkie linie wewnętrzne"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERINNER\n"
+"string.text"
+msgid "Set Outer Border Without Changing Inner Lines"
+msgstr "Zewnętrzne krawędzie bez zmiany linii wewnętrznych"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_DIAGONAL\n"
+"string.text"
+msgid "Set Diagonal Lines Only"
+msgstr "Tylko linie skośne"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ALL\n"
+"string.text"
+msgid "Set All Four Borders"
+msgstr "Wszystkie cztery krawędzie"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_LEFTRIGHT\n"
+"string.text"
+msgid "Set Left and Right Borders Only"
+msgstr "Tylko lewa i prawa krawędź"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_TOPBOTTOM\n"
+"string.text"
+msgid "Set Top and Bottom Borders Only"
+msgstr "Tylko górna i dolna krawędź"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ONLYLEFT\n"
+"string.text"
+msgid "Set Left Border Only"
+msgstr "Tylko lewa krawędź"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_HOR_PRESET_ONLYHOR\n"
+"string.text"
+msgid "Set Top and Bottom Borders, and All Inner Lines"
+msgstr "Krawędź górna i dolna oraz wszystkie linie wewnętrzne"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_VER_PRESET_ONLYVER\n"
+"string.text"
+msgid "Set Left and Right Borders, and All Inner Lines"
+msgstr "Krawędź lewa i prawa oraz wszystkie linie wewnętrzne"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_NONE\n"
+"string.text"
+msgid "No Shadow"
+msgstr "Brak cienia"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Right"
+msgstr "Cień na dole i z prawej"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Top Right"
+msgstr "Cień na górze i z prawej"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Left"
+msgstr "Cień na dole i z lewej"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPLEFT\n"
+"string.text"
+msgid "Cast Shadow to Top Left"
+msgstr "Cień na górze i z lewej"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_LTR\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "Z-lewej-do-prawej"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_RTL\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "Z-prawej-do-lewej"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_SUPER\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "Użyj ustawień obiektu nadrzędnego"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_HORI\n"
+"string.text"
+msgid "Left-to-right (horizontal)"
+msgstr "Od lewej do prawej (poziomo)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_HORI\n"
+"string.text"
+msgid "Right-to-left (horizontal)"
+msgstr "Od prawej do lewej (poziomo)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_VERT\n"
+"string.text"
+msgid "Right-to-left (vertical)"
+msgstr "Od prawej do lewej (pionowo)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_VERT\n"
+"string.text"
+msgid "Left-to-right (vertical)"
+msgstr "Od lewej do prawej (pionowo)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Letter"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Long Bond"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "Big 32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "Użytkownika"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Koperta DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Koperta C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Koperta C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Koperta C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Koperta C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#6¾ Envelope\n"
+"itemlist.text"
+msgid "#6¾ Envelope"
+msgstr "Koperta #6¾"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#7¾ (Monarch) Envelope\n"
+"itemlist.text"
+msgid "#7¾ (Monarch) Envelope"
+msgstr "Koperta (Monarch) #7¾"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#9 Envelope\n"
+"itemlist.text"
+msgid "#9 Envelope"
+msgstr "Koperta #9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#10 Envelope\n"
+"itemlist.text"
+msgid "#10 Envelope"
+msgstr "Koperta #10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#11 Envelope\n"
+"itemlist.text"
+msgid "#11 Envelope"
+msgstr "Koperta #11"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#12 Envelope\n"
+"itemlist.text"
+msgid "#12 Envelope"
+msgstr "Koperta #12"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Japońska pocztówka"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A2\n"
+"itemlist.text"
+msgid "A2"
+msgstr "A2"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A1\n"
+"itemlist.text"
+msgid "A1"
+msgstr "A1"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A0\n"
+"itemlist.text"
+msgid "A0"
+msgstr "A0"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Letter"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Long Bond"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "Big 32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "Użytkownika"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Koperta DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Koperta C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Koperta C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Koperta C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Koperta C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Dia Slide\n"
+"itemlist.text"
+msgid "Dia Slide"
+msgstr "Przezrocze"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 4:3\n"
+"itemlist.text"
+msgid "Screen 4:3"
+msgstr "Ekran 4:3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:9\n"
+"itemlist.text"
+msgid "Screen 16:9"
+msgstr "Ekran 16:9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:10\n"
+"itemlist.text"
+msgid "Screen 16:10"
+msgstr "Ekran 16:10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Japońska pocztówka"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_EXAMPLE\n"
+"string.text"
+msgid "Example"
+msgstr "Przykład"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_PAGE_STYLE\n"
+"string.text"
+msgid "Page Style"
+msgstr "Styl strony"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_GRADIENT\n"
+"string.text"
+msgid "Please enter a name for the gradient:"
+msgstr "Podaj nazwę gradientu:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_GRADIENT\n"
+"string.text"
+msgid ""
+"The gradient was modified without saving. \n"
+"Modify the selected gradient or add a new gradient."
+msgstr ""
+"Gradient został zmieniony, lecz nie zapisany. \n"
+"Możesz zmienić zaznaczony gradient lub dodać nowy."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_NEW_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the bitmap:"
+msgstr "Podaj nazwę mapy bitowej:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_EXT_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the external bitmap:"
+msgstr "Podaj nazwę zewnętrznej mapy bitowej:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_BITMAP\n"
+"string.text"
+msgid ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+msgstr ""
+"Mapa bitowa została zmieniona, lecz nie zapisana. \n"
+"Możesz zmienić zaznaczoną mapę bitową lub dodać nową."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINESTYLE\n"
+"string.text"
+msgid "Please enter a name for the line style:"
+msgstr "Podaj nazwę nowego stylu linii:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_LINESTYLE\n"
+"string.text"
+msgid ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+msgstr ""
+"Styl linii został zmieniony, lecz nie zapisany. \n"
+"Możesz zmienić zaznaczony styl linii lub dodać nowy."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_HATCH\n"
+"string.text"
+msgid "Please enter a name for the hatching:"
+msgstr "Podaj nazwę kreskowania:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_HATCH\n"
+"string.text"
+msgid ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+msgstr ""
+"Kreskowanie zostało zmienione, lecz nie zapisane. \n"
+"Możesz zmienić zaznaczone kreskowanie lub dodać nowe."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHANGE\n"
+"string.text"
+msgid "Modify"
+msgstr "Modyfikuj"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ADD\n"
+"string.text"
+msgid "Add"
+msgstr "Dodaj"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_COLOR\n"
+"string.text"
+msgid "Please enter a name for the new color:"
+msgstr "Podaj nazwę nowego koloru:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_COLOR\n"
+"string.text"
+msgid ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+msgstr ""
+"Kolor został zmieniony, lecz nie zapisany.\n"
+"Możesz zmienić zaznaczony kolor lub dodać nowy."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabela"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "Podaj nazwę nowego grota strzałki:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TRANSPARENT\n"
+"string.text"
+msgid "Transparent"
+msgstr "Przezroczyste"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_NOSTYLE\n"
+"string.text"
+msgid "No %1"
+msgstr "Nie %1"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FAMILY\n"
+"string.text"
+msgid "Family"
+msgstr "Rodzina"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Czcionka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_STYLE\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TYPEFACE\n"
+"string.text"
+msgid "Typeface"
+msgstr "Krój"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USE_REPLACE\n"
+"string.text"
+msgid "Use replacement table"
+msgstr "Użyj tabeli zamian"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_WORD\n"
+"string.text"
+msgid "Correct TWo INitial CApitals"
+msgstr "Poprawiaj DWie POczątkowe WErsaliki"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_SENT\n"
+"string.text"
+msgid "Capitalize first letter of every sentence"
+msgstr "Początek każdego zdania wielką literą"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BOLD_UNDER\n"
+"string.text"
+msgid "Automatic *bold* and _underline_"
+msgstr "Automatyczne *pogrubianie* i _podkreślanie_"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NO_DBL_SPACES\n"
+"string.text"
+msgid "Ignore double spaces"
+msgstr "Ignoruj podwójne spacje"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DETECT_URL\n"
+"string.text"
+msgid "URL Recognition"
+msgstr "Rozpoznawanie adresów URL"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DASH\n"
+"string.text"
+msgid "Replace dashes"
+msgstr "Zamień myślniki"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CORRECT_ACCIDENTAL_CAPS_LOCK\n"
+"string.text"
+msgid "Correct accidental use of cAPS LOCK key"
+msgstr "Poprawiaj przypadkowe użycie klawisza cAPS LOCK"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NON_BREAK_SPACE\n"
+"string.text"
+msgid "Add non-breaking space before specific punctuation marks in French text"
+msgstr "Dodaj spację nierozdzielającą przed określonymi znakami interpunkcyjnymi w tekście francuskim"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ORDINAL\n"
+"string.text"
+msgid "Format ordinal numbers suffixes (1st -> 1^st)"
+msgstr "Formatuj sufiksy liczb porządkowych (1st -> 1^st)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_EMPTY_PARA\n"
+"string.text"
+msgid "Remove blank paragraphs"
+msgstr "Usuń puste akapity"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USER_STYLE\n"
+"string.text"
+msgid "Replace Custom Styles"
+msgstr "Zamień style niestandardowe"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BULLET\n"
+"string.text"
+msgid "Replace bullets with: "
+msgstr "Zamień znaki wypunktowania na: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_RIGHT_MARGIN\n"
+"string.text"
+msgid "Combine single line paragraphs if length greater than"
+msgstr "Połącz akapity jednowierszowe dłuższe niż"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NUM\n"
+"string.text"
+msgid "Apply numbering - symbol: "
+msgstr "Zastosuj numerację - symbol: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BORDER\n"
+"string.text"
+msgid "Apply border"
+msgstr "Zastosuj krawędź"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CREATE_TABLE\n"
+"string.text"
+msgid "Create table"
+msgstr "Utwórz tabelę"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_REPLACE_TEMPLATES\n"
+"string.text"
+msgid "Apply Styles"
+msgstr "Zastosuj style"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_AT_STT_END\n"
+"string.text"
+msgid "Delete spaces and tabs at beginning and end of paragraph"
+msgstr "Usuń spacje i tabulatory na początku i na końcu akapitu"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_BETWEEN_LINES\n"
+"string.text"
+msgid "Delete spaces and tabs at end and start of line"
+msgstr "Usuń spacje i tabulatory na początku i na końcu wiersza"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CONNECTOR\n"
+"string.text"
+msgid "Connector"
+msgstr "Łącznik"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DIMENSION_LINE\n"
+"string.text"
+msgid "Dimension line"
+msgstr "Linia wymiarowa"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "Nie można załadować pliku!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_LOAD_ERROR\n"
+"string.text"
+msgid "The selected module could not be loaded."
+msgstr "Nie można załadować wybranego modułu."

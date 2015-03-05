@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+
+
+		<helpdocument version="1.0">
+<meta>
+<topic id="textsharedguidestandard_templatexml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">Changing Default Templates</title>
+<filename>/text/shared/guide/standard_template.xhp</filename>
+</topic>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="index" id="bm_id3154285"><bookmark_value>modifying, see changing</bookmark_value>
+<bookmark_value>changing, see also editing and replacing</bookmark_value>
+<bookmark_value>default templates; changing</bookmark_value>
+<bookmark_value>defaults;documents</bookmark_value>
+<bookmark_value>custom templates</bookmark_value>
+<bookmark_value>updating; templates</bookmark_value>
+<bookmark_value>editing;templates</bookmark_value>
+<bookmark_value>templates;editing and saving</bookmark_value>
+<bookmark_value>saving;templates</bookmark_value>
+<bookmark_value>resetting;templates</bookmark_value>
+</bookmark><comment>MW deleted "changing;"</comment><paragraph role="heading" id="hd_id3154285" xml-lang="en-US" level="1" l10n="U" oldref="36"><variable id="standard_template"><link href="text/shared/guide/standard_template.xhp" name="Changing Default Templates">Changing Default Templates</link>
+</variable></paragraph>
+<section id="text">
+<paragraph role="paragraph" id="par_id3152811" xml-lang="en-US" l10n="U" oldref="2">When you open a new document with <emph>File - New</emph>, a blank document appears based on a $[officename] template. You can edit, modify, or replace this template so that the new document contains your customized Styles or other contents.</paragraph>
+<paragraph role="heading" id="hd_id3150792" xml-lang="en-US" level="2" l10n="U" oldref="3">Modifying Default Templates</paragraph>
+<list type="unordered">
+<listitem>
+<paragraph role="listitem" id="par_id3154365" xml-lang="en-US" l10n="U" oldref="4">First, open either an existing $[officename] template and modify it, or open a new document and edit it as necessary to create the desired template.</paragraph>
+</listitem>
+</list>
+<paragraph role="note" id="par_id3159152" xml-lang="en-US" l10n="U" oldref="6">You can define a document template for each $[officename] module. The following describes how to proceed for text documents.</paragraph>
+<list type="ordered">
+<listitem>
+<paragraph role="paragraph" id="par_id3145748" xml-lang="en-US" l10n="U" oldref="8">Save the document by choosing<emph> File</emph> -<emph> Save As Template</emph>and saving the document in the <emph>My Templates</emph> category.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id3154011" xml-lang="en-US" l10n="U" oldref="9">Choose <emph>File - New - Templates</emph>.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id3145799" xml-lang="en-US" l10n="CHG" oldref="11">Double-click <emph>My Templates</emph> in the list. You will see the user-defined templates in the user directory specified under <emph><switchinline select="sys"><caseinline select="MAC">%PRODUCTNAME - Preferences</caseinline><defaultinline>Tools - Options</defaultinline></switchinline> - %PRODUCTNAME - Paths</emph>. Select the template you have just saved.</paragraph>
+</listitem>
+<listitem>
+<paragraph role="paragraph" id="par_id3146901" xml-lang="en-US" l10n="U" oldref="26">Choose <emph>Set as default</emph>. The next time you open a new text document, the new document will be based on the new default template.</paragraph>
+</listitem>
+</list>
+<paragraph role="heading" id="hd_id3153764" xml-lang="en-US" level="2" l10n="U" oldref="13">Using Custom Templates</paragraph>
+<paragraph role="paragraph" id="par_id3150386" xml-lang="en-US" l10n="CHG" oldref="14">There are several ways to make your work easier by using your own custom templates. </paragraph>
+<paragraph role="heading" id="hd_id3149109" xml-lang="en-US" level="3" l10n="U" oldref="15">Templates in the Template Folder</paragraph>
+<paragraph role="paragraph" id="par_id3146918" xml-lang="en-US" l10n="CHG" oldref="16">You can save a new template with <emph>File - Save As Template</emph> or by selecting "Template" file type in any Save dialog. Save the template in the user directory specified under <emph><switchinline select="sys"><caseinline select="MAC">%PRODUCTNAME - Preferences</caseinline><defaultinline>Tools - Options</defaultinline></switchinline> - %PRODUCTNAME - Paths</emph> to be able to access the template from within the <emph>File - New - Templates</emph> dialog.</paragraph>
+<paragraph role="paragraph" id="par_id3147343" xml-lang="en-US" l10n="U" oldref="17">To open the template for editing, choose <emph>File - New - Templates</emph>, select the template and click the <emph>Edit</emph> button.</paragraph>
+</section>
+<section id="relatedtopics">
+<paragraph role="paragraph" id="par_id3147315" xml-lang="en-US" l10n="U" oldref="37"><link href="text/shared/01/01110000.xhp" name="Templates">Templates</link></paragraph>
+<switch select="appl">
+<case select="WRITER"><embed href="text/swriter/guide/template_default.xhp#template_default"/>
+</case>
+</switch></section>
+</body>
+</helpdocument>

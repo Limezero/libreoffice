@@ -1,0 +1,1178 @@
+#. extracted from svx/source/src
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2012-12-07 12:04+0530\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: Assamese <kde-i18n-doc@kde.org>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1350058020.0\n"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr "সতৰ্কবাৰ্তা"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADTEMPLATE\n"
+"string.text"
+msgid "$(ERR) loading the template $(ARG1)"
+msgstr "$(ERR) য়ে $(ARG1) নমুনাটো ল'ড কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ERR) য়ে $(ARG1) দস্তাবেজটো সংৰক্ষণ কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEASDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ERR) য়ে $(ARG1) দস্তাবেজটো সংৰক্ষণ কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCINFO\n"
+"string.text"
+msgid "$(ERR) displaying doc. information for document $(ARG1)"
+msgstr "$(ARG1) দস্তাবেজটোৰ কাৰণে $(ERR) য়ে দস্তাবেজ তথ্য প্ৰদৰ্শন কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCTEMPLATE\n"
+"string.text"
+msgid "$(ERR) writing document $(ARG1) as template"
+msgstr "$(ARG1) নমুনা হিচাপে $(ERR) য়ে দস্তাবেজ লিখি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_MOVEORCOPYCONTENTS\n"
+"string.text"
+msgid "$(ERR) copying or moving document contents"
+msgstr "$(ERR) য়ে দস্তাবেজৰ বিষয়বোৰৰ প্ৰতিলিপি বা স্থান পৰিৱৰ্তন কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCMANAGER\n"
+"string.text"
+msgid "$(ERR) starting the Document Manager"
+msgstr "$(ERR) য়ে দস্তাবেজ পৰিচালকটো আৰম্ভ কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_OPENDOC\n"
+"string.text"
+msgid "$(ERR) loading document $(ARG1)"
+msgstr "$(ERR)য়ে $(ARG1) দস্তাবেজটো ল'ড কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOCDIRECT\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "$(ERR) য়ে নতুন দস্তাবেজ সৃষ্টি কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOC\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "$(ERR) য়ে নতুন দস্তাবেজ সৃষ্টি কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_CREATEOBJSH\n"
+"string.text"
+msgid "$(ERR) expanding entry"
+msgstr "$(ERR) প্ৰৱিষ্টি প্ৰসাৰ কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADBASIC\n"
+"string.text"
+msgid "$(ERR) loading BASIC of document $(ARG1)"
+msgstr "$(ERR) য়ে $(ARG1) ৰ BASIC ল'ড কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SEARCHADDRESS\n"
+"string.text"
+msgid "$(ERR) searching for an address"
+msgstr "$(ERR) য়ে এটা ঠিকনাৰ সন্ধান কৰি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ABORT\n"
+"string.text"
+msgid "Abort"
+msgstr "এবৰ্ট"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent object"
+msgstr "অস্তিত্বহীন বস্তু"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ALREADYEXISTS\n"
+"string.text"
+msgid "Object already exists"
+msgstr "বস্তু ইতিমধ্যে বৰ্তি আছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ACCESS\n"
+"string.text"
+msgid "Object not accessible"
+msgstr "বস্তু প্ৰৱেশযোগ্য নহয়"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PATH\n"
+"string.text"
+msgid "Inadmissible path"
+msgstr "অনুমোদিত নোহোৱা পথ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_LOCKING\n"
+"string.text"
+msgid "Locking problem"
+msgstr "লক কৰোতে হোৱা অসুবিধা"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PARAMETER\n"
+"string.text"
+msgid "Wrong parameter"
+msgstr "ভুল পেৰামিটাৰ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SPACE\n"
+"string.text"
+msgid "Resource exhausted"
+msgstr "ক্লান্ত সম্পদ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTSUPPORTED\n"
+"string.text"
+msgid "Action not supported"
+msgstr "কার্য অসমর্থিত"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_READ\n"
+"string.text"
+msgid "Read-Error"
+msgstr "পঢ়া-ত্ৰুটি"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_WRITE\n"
+"string.text"
+msgid "Write Error"
+msgstr "লিখোতে ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_UNKNOWN\n"
+"string.text"
+msgid "unknown"
+msgstr "অজ্ঞাত"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_VERSION\n"
+"string.text"
+msgid "Version Incompatibility"
+msgstr "সংস্কৰণৰ অসামঞ্জস্য"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_GENERAL\n"
+"string.text"
+msgid "General Error"
+msgstr "সাধাৰণ ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_FORMAT\n"
+"string.text"
+msgid "Incorrect format"
+msgstr "অশুদ্ধ ফৰমেট"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_CREATE\n"
+"string.text"
+msgid "Error creating object"
+msgstr "বস্তু সৃষ্টি কৰাত ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SBX\n"
+"string.text"
+msgid "Inadmissible value or data type"
+msgstr "অনুমোদিত নোহোৱা মূল্য বা ডাটাৰ প্ৰকাৰ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_RUNTIME\n"
+"string.text"
+msgid "BASIC runtime error"
+msgstr "BASIC ৰানটাইম ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_COMPILER\n"
+"string.text"
+msgid "BASIC syntax error"
+msgstr "BASIC ছিনটেক্সৰ ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"1\n"
+"string.text"
+msgid "General Error"
+msgstr "সাধাৰণ ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_GENERAL\n"
+"string.text"
+msgid "General input/output error."
+msgstr "সাধাৰণ input/output ভুল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_MISPLACEDCHAR\n"
+"string.text"
+msgid "Invalid file name."
+msgstr "অকার্যকৰী ফাইল নাম."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent file."
+msgstr "ফাইল নাই।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ALREADYEXISTS\n"
+"string.text"
+msgid "File already exists."
+msgstr "ফাইল ইতিমধ্যে আছে।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTADIRECTORY\n"
+"string.text"
+msgid "The object is not a directory."
+msgstr "বস্তু পঞ্জিকা নহয়।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTAFILE\n"
+"string.text"
+msgid "The object is not a file."
+msgstr "বস্তু ফাইল নহয়।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDDEVICE\n"
+"string.text"
+msgid "The specified device is invalid."
+msgstr "যন্ত্ৰ অবৈধ।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ACCESSDENIED\n"
+"string.text"
+msgid ""
+"The object cannot be accessed\n"
+"due to insufficient user rights."
+msgstr ""
+"অপৰ্যাপ্ত ব্যৱহাৰকৰ্তাৰ অধিকাৰৰ কাৰণে\n"
+"বস্তু অবিগম কৰিব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_LOCKVIOLATION\n"
+"string.text"
+msgid "Sharing violation while accessing the object."
+msgstr "বস্তু অভিগম কৰোঁতে সেয়াৰিং ভায়োলেছন।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFSPACE\n"
+"string.text"
+msgid "No more space on device."
+msgstr "যন্ত্ৰত স্থান নাই।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ISWILDCARD\n"
+"string.text"
+msgid ""
+"This operation cannot be run on\n"
+"files containing wildcards."
+msgstr ""
+"wildcards থকা কাৰণে কাৰ্য্য\n"
+"ফাইলত কৰিব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSUPPORTED\n"
+"string.text"
+msgid "This operation is not supported on this operating system."
+msgstr "ইয়াত এই কাৰ্য্যৰ সমৰ্থন নাই।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_TOOMANYOPENFILES\n"
+"string.text"
+msgid "There are too many files open."
+msgstr "বহুত ফাইল খোলা আছে."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTREAD\n"
+"string.text"
+msgid "Data could not be read from the file."
+msgstr "ফাইলৰ তথ্য পঢ়িব পা ন'গ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTWRITE\n"
+"string.text"
+msgid "The file could not be written."
+msgstr "ডাটা লিখিব পৰা নগ'ল ."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFMEMORY\n"
+"string.text"
+msgid "The operation could not be run due to insufficient memory."
+msgstr "পৰ্যাপ্ত স্মৃতি নথকাৰ বাবে কাৰ্যটো চলাব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTSEEK\n"
+"string.text"
+msgid "The seek operation could not be run."
+msgstr "বিচাৰিব পৰা ন'গ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTTELL\n"
+"string.text"
+msgid "The tell operation could not be run."
+msgstr "tell operation কৰিব পৰা ন'গ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGVERSION\n"
+"string.text"
+msgid "Incorrect file version."
+msgstr "অশুদ্ধ ফাইল সংস্কৰণ।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGFORMAT\n"
+"string.text"
+msgid "Incorrect file format."
+msgstr "অশুদ্ধ ফৰমেট"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDCHAR\n"
+"string.text"
+msgid "The file name contains invalid characters."
+msgstr "ফাইলৰ নামত অবৈধ আখৰ।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_UNKNOWN\n"
+"string.text"
+msgid "An unknown I/O error has occurred."
+msgstr "এটা অজ্ঞাত I/O ভুল হ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDACCESS\n"
+"string.text"
+msgid "An invalid attempt was made to access the file."
+msgstr "অবৈধ ধৰণে ফাইল অভিগম কৰা হৈছিল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTCREATE\n"
+"string.text"
+msgid "The file could not be created."
+msgstr "ফাইল স্থাপন কৰিব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDPARAMETER\n"
+"string.text"
+msgid "The operation was started under an invalid parameter."
+msgstr "অবৈধ স্থিতিমাপেৰে কাৰ্য্য আৰম্ভ কৰা হৈছিল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ABORT\n"
+"string.text"
+msgid "The operation on the file was aborted."
+msgstr "ফাইলত চলোৱা কাৰ্য্য বন্ধ হ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTSPATH\n"
+"string.text"
+msgid "Path to the file does not exist."
+msgstr "ফাইলটোৰ পথৰ অস্তিত্ব নাই."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_RECURSIVE\n"
+"string.text"
+msgid "An object cannot be copied into itself."
+msgstr "এটা বস্তু বস্তুটোলৈ প্ৰতিলিপি কৰিব নোৱাৰি."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOSTDTEMPLATE\n"
+"string.text"
+msgid "The default template could not be opened."
+msgstr "অবিকল্পিত templateটো খুলিব পৰা নগ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TEMPLATENOTFOUND\n"
+"string.text"
+msgid "The specified template could not be found."
+msgstr "ৰূপৰেখা ডাইৰেকটৰি খন পাব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTATEMPLATE\n"
+"string.text"
+msgid "The file cannot be used as template."
+msgstr "ফাইলক এটা বৰ্গীকৰণ নিৰ্ণায়ক হিচাপে ব্যৱহাৰ কৰিব নোৱাৰি."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTREADDOCINFO\n"
+"string.text"
+msgid ""
+"Document information could not be read from the file because\n"
+"the document information format is unknown or because document information does not\n"
+"exist."
+msgstr ""
+"ফাইলৰ পৰা তথ্য পঢ়িব পৰা ন'গ'ল কাৰণ\n"
+"আলেখ্যনৰ আকৃতি অজ্ঞাত বা কাৰণ তাৰ তথ্য\n"
+"নাই।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_ALREADYOPEN\n"
+"string.text"
+msgid "This document has already been opened for editing."
+msgstr "এই দস্তাবেজ ইতিমধ্যে সম্পাদনৰ কাৰণে খোলা হৈছে।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGPASSWORD\n"
+"string.text"
+msgid "The wrong password has been entered."
+msgstr "ভুল পাছৱাৰ্ড ভৰোৱা হৈছে।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOLOADFAILED\n"
+"string.text"
+msgid "Error reading file."
+msgstr "ফাইল পঢ়োতে ভুল হৈছে"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENTREADONLY\n"
+"string.text"
+msgid "The document was opened as read-only."
+msgstr "কেৱল পঢ়িবৰ বাবে প্ৰকাৰত দস্তাবেজ খোলা হ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_OLEGENERAL\n"
+"string.text"
+msgid "General OLE Error."
+msgstr "সাধাৰণ OLE ভুল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_NAME_RESOLVE\n"
+"string.text"
+msgid "The host name $(ARG1) could not be resolved."
+msgstr "$(ARG1) ডাইৰেকটৰিখন বুজিব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_CONNECT\n"
+"string.text"
+msgid "Could not establish Internet connection to $(ARG1)."
+msgstr "$(ARG1) লৈ ইন্টাৰ্নে'ট সংযোগ স্থাপন কৰিব পৰা ন'গ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_READ\n"
+"string.text"
+msgid ""
+"Error reading data from the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+"ইন্টাৰনেট পৰা তথ্য পঢ়োতে ভুল হৈছে।\n"
+"চাৰ্ভাৰ ত্ৰুটি বাৰ্তা: $(ARG1)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_WRITE\n"
+"string.text"
+msgid ""
+"Error transferring data to the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+"ইন্টাৰনেটলে তথ্য পঠাওতে ত্ৰুটি।\n"
+"চাৰ্ভাৰ ত্ৰুটি বাৰ্তা: $(ARG1)."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_GENERAL\n"
+"string.text"
+msgid "General Internet error has occurred."
+msgstr "সাধাৰণ ইন্টাৰনেট ত্ৰুটি দেখা দিছে।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_OFFLINE\n"
+"string.text"
+msgid "The requested Internet data is not available in the cache and cannot be transmitted as the Online mode has not be activated."
+msgstr "অনুৰোধ কৰা ইন্টাৰনেট তথ্য ক্যাশত নাই আৰু অনলাইন অৱস্থা সক্ৰিয় নোহোৱা কাৰণে পঠিয়াব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFXMSG_STYLEREPLACE\n"
+"string.text"
+msgid "Should the $(ARG1) Style be replaced?"
+msgstr "$(ARG1) শৈলীটো প্ৰতিস্থাপিত কৰাটো উচিতনে?"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOFILTER\n"
+"string.text"
+msgid "A filter has not been found."
+msgstr "ফিল্টাৰ পোৱা নগ'ল"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTFINDORIGINAL\n"
+"string.text"
+msgid "The original could not be determined."
+msgstr "মূলটো নিৰ্ধাৰণ কৰিব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATECONTENT\n"
+"string.text"
+msgid "The contents could not be created."
+msgstr "বিষয়সূচীটো সৃষ্টি কৰিব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATELINK\n"
+"string.text"
+msgid "The link could not be created."
+msgstr "সংযোগটো স্থাপন কৰিব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGBMKFORMAT\n"
+"string.text"
+msgid "The link format is invalid."
+msgstr "সংযোগ ফৰমেটটো অকাৰ্যকৰী."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display is invalid."
+msgstr "আইকন প্ৰদৰ্শনটোৰ ৰূপৰেখাটো অকাৰ্যকৰী ."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display can not be saved."
+msgstr "আইকন প্ৰদৰ্শনটোৰ ৰূপৰেখাটো সংৰক্ষণ কৰিব নোৱাৰি."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTDELICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display could not be deleted."
+msgstr "আইকন প্ৰদৰ্শনটোৰ ৰূপৰেখাটো ডিলিট কৰিব পৰা নগ'ল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMECONTENT\n"
+"string.text"
+msgid "Contents cannot be renamed."
+msgstr "বিষয়সূচী পুনঃ নামকৰণ কৰিব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDBMKPATH\n"
+"string.text"
+msgid "The bookmark folder is invalid."
+msgstr "পৃষ্ঠাসংকেত ফল্ডাৰটো অকাৰ্যকৰী."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEURLCFGFILE\n"
+"string.text"
+msgid "The configuration of the URLs to be saved locally could not be saved."
+msgstr "স্থানীয়ভাবে ৰক্ষা কৰিব লগা URL ৰ বিন্যাস ৰক্ষা কৰিব পৰা ন'গ'ল।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGURLCFGFORMAT\n"
+"string.text"
+msgid "The configuration format of the URLs to be saved locally is invalid."
+msgstr "স্থানীয়ভাবে ৰক্ষা কৰিব লগা URL ৰ বিন্যাস অবৈধ।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NODOCUMENT\n"
+"string.text"
+msgid "This action cannot be applied to a document that does not exist."
+msgstr "নথকা দস্তাবেজত এই কাৰ্য্য কৰিব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDLINK\n"
+"string.text"
+msgid "The link refers to an invalid target."
+msgstr "অবৈধ লক্ষ্যলৈ সংযোগ।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDTRASHPATH\n"
+"string.text"
+msgid "The Recycle Bin path is invalid."
+msgstr "Recycle Bin পথ অবৈধ।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTRESTORABLE\n"
+"string.text"
+msgid "The entry could not be restored."
+msgstr "নিবেশ উদ্ধাৰ কৰিব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NAMETOOLONG\n"
+"string.text"
+msgid "The file name is too long for the target file system."
+msgstr "লক্ষ্য ফাইল ছিষ্টেমটোৰ কাৰণে ফাইলৰ নামটো বৰ দীঘল."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CONSULTUSER\n"
+"string.text"
+msgid "The details for running the function are incomplete."
+msgstr "ফাংকশ্বনটো চলাৰ কাৰণে বিস্তৃত বিৱৰণবোৰ অসম্পূৰ্ণ."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDSYNTAX\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "ইনপুট ছিন্টেক্সটো অকাৰ্যকৰী."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "ইনপুট ছিন্টেক্সটো অকাৰ্যকৰী."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "ইনপুট ছিন্টেক্সটো অকাৰ্যকৰী."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONG_CDF_FORMAT\n"
+"string.text"
+msgid "The channel document has an invalid format."
+msgstr "চেনেল দস্তাবেজটোৰ এটা অকাৰ্যকৰী ফৰমেট আছে."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_EMPTY_SERVER\n"
+"string.text"
+msgid "The server must not be empty."
+msgstr "সেৱক খালী হ'ব নাপায়।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NO_ABOBOX\n"
+"string.text"
+msgid "A subscription folder is required to install a Channel."
+msgstr "এটা চেনেল ইনষ্টল কৰিবলৈ এটা বৰঙণি ফল্ডাৰৰ প্ৰয়োজন."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSTORABLEINBINARYFORMAT\n"
+"string.text"
+msgid ""
+"This document contains attributes that cannot be saved in the selected format.\n"
+"Please save the document in a %PRODUCTNAME %PRODUCTVERSION file format."
+msgstr ""
+"এই দস্তাবেজটোৱে এট্রিবিয়ুটবোৰ ধাৰণ কৰে যিবোৰ নিৰ্বাচিত ফৰমেটটোত সংৰক্ষণ কৰিব নোৱাৰি.\n"
+"অনুগ্ৰহ কৰি দস্তাবেজটো এটা %PRODUCTNAME %PRODUCTVERSION ফাইল ফৰমেটত সংৰক্ষণ কৰক."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TARGETFILECORRUPTED\n"
+"string.text"
+msgid "The file $(FILENAME) cannot be saved. Please check your system settings. You can find an automatically generated backup copy of this file in folder $(PATH) named $(BACKUPNAME)."
+msgstr "$(FILENAME) এই ফাইলটো সংৰক্ষণ কৰিব পৰা নাযায়.অনুগ্ৰহ কৰি আপোনাৰ ছিষ্টেম ছেটিংছ পৰীক্ষা কৰক। আপুনি এই ফাইলটোৰ এটা স্বয়ংক্ৰিয়ভাৱে উত্পাদিত বেকআপ প্ৰতিলিপি $(BACKUPNAME) নামাঙ্কিত $(PATH) ফল্ডাৰত বিচাৰিব পাৰে।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOMOREDOCUMENTSALLOWED\n"
+"string.text"
+msgid "The maximum number of documents that can be opened at the same time has been reached. You need to close one or more documents before you can open a new document."
+msgstr "একে সময়তে খুলিব পৰা ডকুমেন্টাৰ সৰ্বাধিক সংখ্যা পোৱা গ'ল। আৰু এটা খোলাৰ আগতে আপুনি একাধিক দস্তাবেজ খুলিব লাগিব।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEBACKUP\n"
+"string.text"
+msgid "Could not create backup copy."
+msgstr "নকল সৃষ্টি কৰিব নোৱাৰি।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_MACROS_SUPPORT_DISABLED\n"
+"string.text"
+msgid ""
+"An attempt was made to execute a macro.\n"
+"For security reasons, macro support is disabled."
+msgstr ""
+"এটা macro চলাবলৈ চেষ্টা কৰা হৈছিল।\n"
+"সুৰক্ষাৰ কাৰণে, macro সমৰ্থন নিষ্ক্ৰিয়।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED_MAC\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in %PRODUCTNAME - Preferences - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+"এই দস্তাবেজে মেক্ৰসমূহ অন্তৰ্ভুক্ত কৰে।\n"
+"\n"
+"মেক্ৰসমূহত ভাইৰাছ থাকিব পাৰে। %PRODUCTNAME - পছন্দসমূহ - %PRODUCTNAME - সুৰক্ষাত বৰ্তমান সুৰক্ষা সংহতিৰ বাবে মেক্ৰসমূহৰ এক্সিকিউষণ অসামৰ্থবান কৰা আছে।\n"
+"\n"
+"সেয়েহে, কিছুমান কাৰ্য্যকৰীতা উপলব্ধ নাথাকিব পাৰে।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in Tools - Options - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+"ইয়াত macros আছে।\n"
+"\n"
+"Macros ত ভাইৰাছ থাকিব পাৰে। বৰ্ত্তমানৰ macro সুৰক্ষাৰ কাৰণে তাক চলাব নোৱাৰি যিহক Tools - Options - %PRODUCTNAME - Security ত কোৱা হৈছে।\n"
+"\n"
+"সেইকাৰণে, কিছু কাৰ্যক্ষমতা পোৱা নাযাব।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_BROKENSIGNATURE\n"
+"string.text"
+msgid ""
+"The digitally signed document content and/or macros do not match the current document signature.\n"
+"\n"
+"This could be the result of document manipulation or of structural document damage due to data transmission.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+"এই digitally signed দস্তাবেজৰ বিষয়ত আৰু/বা macros এ দস্তাবেজৰ চহিতকে বেলেগ।\n"
+"\n"
+"ইয়াৰ কাৰণ document manipulation বা তথ্যৰ লেনদেনত হোৱা structural document damage হ'ব পাৰে।\n"
+"\n"
+"আমি উপদেশ দিওঁ যে আপুনি ইয়াৰ বিষয়বস্তুত বিশ্বাস নকৰিব। \n"
+"ইয়াত macros চলাব নোৱাৰি।\n"
+" "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INCOMPLETE_ENCRYPTION\n"
+"string.text"
+msgid ""
+"The encrypted document contains unexpected non-encrypted streams.\n"
+"\n"
+"This could be the result of document manipulation.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+"ইনক্ৰিপ্টেড দস্তাবেজটোত অপ্ৰত্যাশীত নন-ইনক্ৰিপ্টেড স্ট্ৰিমসমূহ অন্তৰ্ভুক্ত হৈ আছে।\n"
+"\n"
+"এইটো দস্তাবেজ পৰিৱৰ্তনৰ পৰিণতি হব পাৰে।\n"
+"\n"
+"আমি উপদেশ দিও যে আপুনি বৰ্তমান দস্তাবেজৰ সমলক ভৰষা নকৰিব।\n"
+"এই দস্তাবেজৰ কাৰণে মেক্ৰ প্ৰেৰণ অসামৰ্থবান কৰা আছে।\n"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDLENGTH\n"
+"string.text"
+msgid "Invalid data length."
+msgstr "অকাৰ্যকৰী ডাটাৰ দৈর্ঘ্য"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CURRENTDIR\n"
+"string.text"
+msgid "Function not possible: path contains current directory."
+msgstr "ফাংকশ্বন সম্ভৱ নহয়: পথত বৰ্তমান ডাইৰেকটৰি থাকে."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSAMEDEVICE\n"
+"string.text"
+msgid "Function not possible: device (drive) not identical."
+msgstr "ফাংকশ্বন সম্ভৱ নহয়: সঁজুলি (ড্ৰাইভ) অবিকল নহয়."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_DEVICENOTREADY\n"
+"string.text"
+msgid "Device (drive) not ready."
+msgstr "সঁজুলি (ড্ৰাইভ) সাজু নহয়।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_BADCRC\n"
+"string.text"
+msgid "Wrong check amount."
+msgstr "ভুল পৰীক্ষণ পৰিমাণ."
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRITEPROTECTED\n"
+"string.text"
+msgid "Function not possible: write protected."
+msgstr "ফাংকশ্বন সম্ভৱ নহয়: লিখা সুৰক্ষিত"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_SHARED_NOPASSWORDCHANGE\n"
+"string.text"
+msgid ""
+"The password of a shared spreadsheet cannot be set or changed.\n"
+"Deactivate sharing mode first."
+msgstr ""
+"এটা সেয়াৰ স্প্ৰেডশিটৰ পাছওৱাৰ্ড সংহতি অথবা সলনি কৰিব নোৱাৰি।\n"
+"প্ৰথমে সেয়াৰ অৱস্থা অসক্ৰিয় কৰক।"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_FORMAT_ROWCOL\n"
+"string.text"
+msgid "File format error found at $(ARG1)(row,col)."
+msgstr "$(ARG1)(row,col) ত ফাইল বিন্যাস ত্ৰুটি পোৱা গল।"

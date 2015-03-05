@@ -1,0 +1,1656 @@
+#. extracted from svx/source/form
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-11 23:22+0200\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kmr-Latn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_MODEL\n"
+"string.text"
+msgid ""
+"Deleting the model '$MODELNAME' affects all controls currently bound to this model.\n"
+"Do you really want to delete this model?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_INSTANCE\n"
+"string.text"
+msgid ""
+"Deleting the instance '$INSTANCENAME' affects all controls currently bound to this instance.\n"
+"Do you really want to delete this instance?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ELEMENT\n"
+"string.text"
+msgid ""
+"Deleting the element '$ELEMENTNAME' affects all controls currently bound to this element.\n"
+"Do you really want to delete this element?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_SUBMISSION\n"
+"string.text"
+msgid ""
+"Deleting the submission '$SUBMISSIONNAME' affects all controls currently bound to this submission.\n"
+"\n"
+"Do you really want to delete this submission?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_BINDING\n"
+"string.text"
+msgid ""
+"Deleting the binding '$BINDINGNAME' affects all controls currently bound to this binding.\n"
+"\n"
+"Do you really want to delete this binding?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLNAME\n"
+"string.text"
+msgid "The name '%1' is not valid in XML. Please enter a different name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLPREFIX\n"
+"string.text"
+msgid "The prefix '%1' is not valid in XML. Please enter a different prefix."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DOUBLE_MODELNAME\n"
+"string.text"
+msgid "The name '%1' already exists. Please enter a new name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_EMPTY_SUBMISSIONNAME\n"
+"string.text"
+msgid "The submission must have a name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD\n"
+"menuitem.text"
+msgid "Add Item"
+msgstr "Hêman lê Zêde bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"menuitem.text"
+msgid "Add Element"
+msgstr "Hêman Lêzêde bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"menuitem.text"
+msgid "Add Attribute"
+msgstr "Wesf Têxê"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_EDIT\n"
+"menuitem.text"
+msgid "Edit"
+msgstr "Serrast bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_REMOVE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "Jê bibe"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_POST\n"
+"string.text"
+msgid "Post"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_PUT\n"
+"string.text"
+msgid "Put"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_GET\n"
+"string.text"
+msgid "Get"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_NONE\n"
+"string.text"
+msgid "None"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_INST\n"
+"string.text"
+msgid "Instance"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_DOC\n"
+"string.text"
+msgid "Document"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_PARENT\n"
+"string.text"
+msgid "Submission: "
+msgstr "Pêşniyar: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ID\n"
+"string.text"
+msgid "ID: "
+msgstr "ID: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_BIND\n"
+"string.text"
+msgid "Binding: "
+msgstr "Cildkirin: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REF\n"
+"string.text"
+msgid "Reference: "
+msgstr "Referans: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ACTION\n"
+"string.text"
+msgid "Action: "
+msgstr "Çalakî: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_METHOD\n"
+"string.text"
+msgid "Method: "
+msgstr "Rêbaz: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REPLACE\n"
+"string.text"
+msgid "Replace: "
+msgstr "Guherandin: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ELEMENT\n"
+"string.text"
+msgid "Add Element"
+msgstr "Hêman Lêzêde bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ELEMENT\n"
+"string.text"
+msgid "Edit Element"
+msgstr "Hêman Lêzêde bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ELEMENT\n"
+"string.text"
+msgid "Delete Element"
+msgstr "Elementê Jê Bibe"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ATTRIBUTE\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Wesf Têxê"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ATTRIBUTE\n"
+"string.text"
+msgid "Edit Attribute"
+msgstr "Wesfê Serrast Bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Delete Attribute"
+msgstr "Wesfê Jê Bibe"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_BINDING\n"
+"string.text"
+msgid "Add Binding"
+msgstr "Cildkirinê Têxê"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_BINDING\n"
+"string.text"
+msgid "Edit Binding"
+msgstr "Cildkirinê Serrast Bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_BINDING\n"
+"string.text"
+msgid "Delete Binding"
+msgstr "Cildkirinê Jê Bibe"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_SUBMISSION\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Pêşniyar Lê Zêde Bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_SUBMISSION\n"
+"string.text"
+msgid "Edit Submission"
+msgstr "Pêşniyar Sererast Bike"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_SUBMISSION\n"
+"string.text"
+msgid "Delete Submission"
+msgstr "Pêşniyar Jê Bibe"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ELEMENT\n"
+"string.text"
+msgid "Element"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ATTRIBUTE\n"
+"string.text"
+msgid "Attribute"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING\n"
+"string.text"
+msgid "Binding"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING_EXPR\n"
+"string.text"
+msgid "Binding expression"
+msgstr ""
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Jê bibe"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_EDIT\n"
+"menuitem.text"
+msgid "~Edit"
+msgstr "~Sererast bike"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NULL\n"
+"menuitem.text"
+msgid "~Is Null"
+msgstr "Vala ~Ye"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NOT_NULL\n"
+"menuitem.text"
+msgid "I~s not Null"
+msgstr "Ne Vala Y~e"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_FORM\n"
+"menuitem.text"
+msgid "Form"
+msgstr "Form"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_HIDDEN\n"
+"menuitem.text"
+msgid "Hidden Control"
+msgstr "Kontrola Nepen"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_NEW\n"
+"menuitem.text"
+msgid "~New"
+msgstr "~Nû"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_CHANGECONTROLTYPE\n"
+"menuitem.text"
+msgid "Replace with"
+msgstr "Biguherîne bi"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê Bibe\n"
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Jê bibe\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jêbirin\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  customize.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Jê bibe\n"
+"#-#-#-#-#  ucbexplorer.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jêbirin\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  schedule.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  dlged.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  extension.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jêbirin\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe\n"
+"#-#-#-#-#  textconversiondlgs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Jê bibe"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_TAB_DIALOG\n"
+"menuitem.text"
+msgid "Tab Order..."
+msgstr "Rêza Hilfirînê..."
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_RENAME_OBJECT\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "Ji nû ve bi~navîne"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_SHOW_PROPERTY_BROWSER\n"
+"menuitem.text"
+msgid "Propert~ies"
+msgstr "Taybet~mendî"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_OPEN_READONLY\n"
+"menuitem.text"
+msgid "Open in Design Mode"
+msgstr "Di Moda Sêwirandinê De Veke"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_AUTOCONTROLFOCUS\n"
+"menuitem.text"
+msgid "Automatic Control Focus"
+msgstr "Nîskoka Kontrolkirinê Ya Jixweber"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_EDIT\n"
+"menuitem.text"
+msgid "~Text Box"
+msgstr "~Qutiya Nivîsê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_BUTTON\n"
+"menuitem.text"
+msgid "~Button"
+msgstr "~Bişkok"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FIXEDTEXT\n"
+"menuitem.text"
+msgid "La~bel field"
+msgstr "Qada etîketê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_GROUPBOX\n"
+"menuitem.text"
+msgid "G~roup Box"
+msgstr "Qutiya Komê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_LISTBOX\n"
+"menuitem.text"
+msgid "L~ist Box"
+msgstr "Qutiya L~îsteyê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CHECKBOX\n"
+"menuitem.text"
+msgid "~Check Box"
+msgstr "Qutiya Kontrolkirinê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_RADIOBUTTON\n"
+"menuitem.text"
+msgid "~Radio Button"
+msgstr "Bişkojka Radyoyê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_COMBOBOX\n"
+"menuitem.text"
+msgid "Combo Bo~x"
+msgstr "Qutiya Combo"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGEBUTTON\n"
+"menuitem.text"
+msgid "I~mage Button"
+msgstr "Bişkoka Wêneyan"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FILECONTROL\n"
+"menuitem.text"
+msgid "~File Selection"
+msgstr "Hilbijartina ~pelî"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_DATE\n"
+"menuitem.text"
+msgid "~Date Field"
+msgstr "Qada ~Dîrokê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_TIME\n"
+"menuitem.text"
+msgid "Tim~e Field"
+msgstr "Qada ~Demê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NUMERIC\n"
+"menuitem.text"
+msgid "~Numerical Field"
+msgstr "Qada Hejmarî"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CURRENCY\n"
+"menuitem.text"
+msgid "C~urrency Field"
+msgstr "Qada Yekeya Pereyan"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_PATTERN\n"
+"menuitem.text"
+msgid "~Pattern Field"
+msgstr "Qada Rûpoşkirî"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGECONTROL\n"
+"menuitem.text"
+msgid "Ima~ge Control"
+msgstr "Kontrolkirina Wêneyan"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FORMATTED\n"
+"menuitem.text"
+msgid "Fo~rmatted Field"
+msgstr "Qada Teşebûyî"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SCROLLBAR\n"
+"menuitem.text"
+msgid "Scroll bar"
+msgstr "Darikê şemitandinê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SPINBUTTON\n"
+"menuitem.text"
+msgid "Spin Button"
+msgstr "Bişkoka Zivirandinê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NAVIGATIONBAR\n"
+"menuitem.text"
+msgid "Navigation Bar"
+msgstr "Darika Navîgasiyonê"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_SVX_FMEXPLORER\n"
+"dockingwindow.text"
+msgid "Form Navigator"
+msgstr "Geroka Formê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_CONTEXT_ADDFORM\n"
+"string.text"
+msgid "Error while creating form"
+msgstr "Dema pêkanîna formê de çewtî derket"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_FIELDREQUIRED\n"
+"string.text"
+msgid "Input required in field '#'. Please enter a value."
+msgstr "Di qadên '#' de têketin pêwist e. Ji kerema nirxekî têkevin."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_DUPLICATE_NAME\n"
+"string.text"
+msgid ""
+"Entry already exists.\n"
+"Please choose another name."
+msgstr ""
+"Têketan jixwe heye.\n"
+"Ji kerema xwe navekî din hilbijêrin."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "Form"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NO_PROPERTIES\n"
+"string.text"
+msgid "No control selected"
+msgstr "Tu kontrol nehatiye hilbijartin"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_CONTROL\n"
+"string.text"
+msgid "Properties: "
+msgstr "Taybetmendî:"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_FORM\n"
+"string.text"
+msgid "Form Properties"
+msgstr "Taybetiyên Forman"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FMEXPLORER\n"
+"string.text"
+msgid "Form Navigator"
+msgstr "Geroka Formê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORM\n"
+"string.text"
+msgid "Form"
+msgstr "Form"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr "Tablo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr "Lêpirsîn"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"3\n"
+"string.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_STDFORMNAME\n"
+"string.text"
+msgid "Form"
+msgstr "Form"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_HIDDEN\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "Kontrola Veşartî"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_CONTROL\n"
+"string.text"
+msgid "Control"
+msgstr "Kontrol"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_TEXT\n"
+"string.text"
+msgid "Record"
+msgstr "Tomar"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_FROM_TEXT\n"
+"string.text"
+msgid "of"
+msgstr "ji"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Add field:"
+msgstr "Qadekê lê zêde bike:"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_WRITEERROR\n"
+"string.text"
+msgid "Error writing data to database"
+msgstr "Çewtiya nivîsîna daneyan ji danegehê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SYNTAXERROR\n"
+"string.text"
+msgid "Syntax error in query expression"
+msgstr "Di îfadeya lêpirsînê de xeletiya peyvrêziyê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORD\n"
+"string.text"
+msgid "You intend to delete 1 record."
+msgstr "We daxwaza jêbirîna 1 tomarekî kir."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORDS\n"
+"string.text"
+msgid "# records will be deleted."
+msgstr "# tomar dê bên jêbirin."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM\n"
+"string.text"
+msgid ""
+"If you click Yes, you won't be able to undo this operation.\n"
+"Do you want to continue anyway?"
+msgstr ""
+"Heke hun pêl Erê bikin, hun nikarin vê karê paşde vegerînin.\n"
+"Hun dîsa jî dixwazin bidomînin?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_NO_ELEMENT\n"
+"string.text"
+msgid "Choose an entry from the list or enter a text corresponding to one of the list items."
+msgstr "Ji lîsteyê têketanekî hilbijêrin an gorê lîsteya hêmanan nivîsekî têkevin."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_GROUPBOX\n"
+"string.text"
+msgid "Frame element"
+msgstr "Hêmana çarçoveyê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Navîgasiyon"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATIONBAR\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "Darikê gerokê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_COLUMN\n"
+"string.text"
+msgid "Col"
+msgstr "Sit"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_PROPERTY\n"
+"string.text"
+msgid "Set property '#'"
+msgstr "Taybetiya '#' ava bike"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_INSERT\n"
+"string.text"
+msgid "Insert in container"
+msgstr "Li tabloyê zêde bike"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE\n"
+"string.text"
+msgid "Delete #"
+msgstr "Jê Bibe #"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE_MULTIPLE\n"
+"string.text"
+msgid "Delete # objects"
+msgstr "Bireserên # jê bibe"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REPLACE\n"
+"string.text"
+msgid "Replace a container element"
+msgstr "Hêmana tabloyê biguherîne"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_DELETE_LOGICAL\n"
+"string.text"
+msgid "Delete structure"
+msgstr "Veavakirine jê bibe"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_MODEL_REPLACE\n"
+"string.text"
+msgid "Replace Control"
+msgstr "Kontrol Biguherîne"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Dîrok"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Dem"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Push Button"
+msgstr "Bişkoka Paldanê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "Bişkoka Vebijêrkê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "Qutiya Kontrolkirinê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "Qada Etîketê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "Qutiya Komê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "Qutiya Nivîsê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Qada Teşebûyî"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "Qutiya lîstê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "Qutiya Combo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "Bişkoka Wêneyan"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "Kontrolkirina Wêneyan"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "Hilbijartina Pelan"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "Qada Dîrokê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "Qada Demê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "Qada Hejmarî"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "Qada Yekeya Pereyan"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "Qada Rûpoşkirî"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "Kontrolkirina Tabloyan "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SCROLLBAR\n"
+"string.text"
+msgid "Scrollbar"
+msgstr "Darikê xişkirinê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SPINBUTTON\n"
+"string.text"
+msgid "Spin Button"
+msgstr "Bişkoka Zivirandinê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NAVBAR\n"
+"string.text"
+msgid "Navigation Bar"
+msgstr "Darika Navîgasiyonê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Hilbijartina pirahî(multî)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NODATACONTROLS\n"
+"string.text"
+msgid "No data-related controls in the current form!"
+msgstr "Di forma heyî de tu kontrolên dane-têkildar tuneye!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_DATE\n"
+"string.text"
+msgid " (Date)"
+msgstr "(Dîrok)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_TIME\n"
+"string.text"
+msgid " (Time)"
+msgstr " (Dem)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_NAVIGATOR\n"
+"string.text"
+msgid "Filter navigator"
+msgstr "Gerînoka parzûnê"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_FOR\n"
+"string.text"
+msgid "Filter for"
+msgstr "Parzûn ji bo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_OR\n"
+"string.text"
+msgid "Or"
+msgstr "An jî"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NOCONTROLS_FOR_EXTERNALDISPLAY\n"
+"string.text"
+msgid "Valid bound controls which can be used in the table view do not exist in the current form."
+msgstr "Kontrolên girêdanê ya derbasdar yê ku di dîtina tablo de tên bikaranîn di forma heyî tune in."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_AUTOFIELD\n"
+"string.text"
+msgid "<AutoField>"
+msgstr "<AutoField>"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"1\n"
+"string.text"
+msgid "LIKE"
+msgstr "WEK"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"2\n"
+"string.text"
+msgid "NOT"
+msgstr "NA"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"3\n"
+"string.text"
+msgid "EMPTY"
+msgstr "VALA"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"4\n"
+"string.text"
+msgid "TRUE"
+msgstr "RAST"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"5\n"
+"string.text"
+msgid "FALSE"
+msgstr "ŞAŞ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"6\n"
+"string.text"
+msgid "IS"
+msgstr "E"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"7\n"
+"string.text"
+msgid "BETWEEN"
+msgstr "NAVBER"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"8\n"
+"string.text"
+msgid "OR"
+msgstr "AN"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"9\n"
+"string.text"
+msgid "AND"
+msgstr "Û"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"10\n"
+"string.text"
+msgid "Average"
+msgstr "Kêmzêde"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"11\n"
+"string.text"
+msgid "Count"
+msgstr "Bihijmêre"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"12\n"
+"string.text"
+msgid "Maximum"
+msgstr "Pirtirîn"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"13\n"
+"string.text"
+msgid "Minimum"
+msgstr "Kêmtirîn"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"14\n"
+"string.text"
+msgid "Sum"
+msgstr "Têhev"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"15\n"
+"string.text"
+msgid "Every"
+msgstr "Her"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"16\n"
+"string.text"
+msgid "Any"
+msgstr "Ne Yek"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"17\n"
+"string.text"
+msgid "Some"
+msgstr "Hinek"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"18\n"
+"string.text"
+msgid "STDDEV_POP"
+msgstr "STDDEV_POP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"19\n"
+"string.text"
+msgid "STDDEV_SAMP"
+msgstr "STDDEV_SAMP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"20\n"
+"string.text"
+msgid "VAR_SAMP"
+msgstr "VAR_SAMP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"21\n"
+"string.text"
+msgid "VAR_POP"
+msgstr "VAR_POP"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"22\n"
+"string.text"
+msgid "Collect"
+msgstr "Berhev Bike"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"23\n"
+"string.text"
+msgid "Fusion"
+msgstr "Bike Yek"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"24\n"
+"string.text"
+msgid "Intersection"
+msgstr "Hevbirîn"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ERROR\n"
+"string.text"
+msgid "Syntax error in SQL statement"
+msgstr "Di fermana SQL de xeletiya hevoksaziye"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE\n"
+"string.text"
+msgid "The value #1 cannot be used with LIKE."
+msgstr "Nirxa #1 bi WEK re nayê bikaranîn."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE\n"
+"string.text"
+msgid "LIKE cannot be used with this field."
+msgstr "WEK bi vê qadê re nayê bikaranîn."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID\n"
+"string.text"
+msgid "The value entered is not a valid date. Please enter a date in a valid format, for example, MM/DD/YY."
+msgstr "Nirxa têketî dîrokekî nederbasdar e. Ji kerema xwe dîrokê bi teşeyekî derbasdar têkevin, wek mînak, MM/RR/SS."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with an integer."
+msgstr "Qad bi hejmarekî tam re nayê berhevdan."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE\n"
+"string.text"
+msgid "The database does not contain a table named \"#\"."
+msgstr "Di danegeh de tabloyekî bi navê \"#\" tuneye."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_OR_QUERY\n"
+"string.text"
+msgid "The database does contain neither a table nor a query named \"#\"."
+msgstr "Di danegeh de ne tabloyek ne jî lêpirsînek bi navê \"#\" heye."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_EXISTS\n"
+"string.text"
+msgid "The database already contains a table or view with name \"#\"."
+msgstr "Di danegeh de jixwe tabloyek an dîtinek bi navê \"#\" heye."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_QUERY_EXISTS\n"
+"string.text"
+msgid "The database already contains a query with name \"#\"."
+msgstr "Di danegeh de jixwe lêpirsînek bi navê \"#\" heye."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_COLUMN\n"
+"string.text"
+msgid "The column \"#1\" is unknown in the table \"#2\"."
+msgstr "Sitûna \"#1\" di tabloya \"#2\" de nayê zanîn."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with a floating point number."
+msgstr "Qad bi hejmarekî xala diherike re nayê berhevdan."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE\n"
+"string.text"
+msgid "The entered criterion cannot be compared with this field."
+msgstr "Pîvana têketî bi qadê re nayê berhevdan."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATANAVIGATOR\n"
+"string.text"
+msgid "Data Navigator"
+msgstr "Geroka Dane"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_READONLY_VIEW\n"
+"string.text"
+msgid " (read-only)"
+msgstr "(tenê-xwendin)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "Pel jixwe heye. Bila li ser were nivîsîn?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_OBJECT_LABEL\n"
+"string.text"
+msgid "#object# label"
+msgstr "#bireser# etîket"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_STYLE\n"
+"menuitem.text"
+msgid "St~yle"
+msgstr "~Teşe"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_ALIGNMENT\n"
+"menuitem.text"
+msgid "~Alignment"
+msgstr "~Hîzakirin"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_SPACING\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "~Navbera rêzikan"

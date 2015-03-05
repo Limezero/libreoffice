@@ -1,0 +1,627 @@
+#. extracted from dbaccess/source/ui/app
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-09-30 11:52+0000\n"
+"Last-Translator: moumita <moumita.ciil@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mni\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1412077940.000000\n"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_FORM\n"
+"string.text"
+msgid "Create Form in Design View..."
+msgstr "দিজাইন  ভিউদা ফোৰ্ম নৌনা শেম্মু.."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_FORM_AUTO\n"
+"string.text"
+msgid "Use Wizard to Create Form..."
+msgstr "ফোৰ্ম নৌনা শেম্নবা ৱিজাৰ্দ শিজিন্নৌ..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_REPORT_AUTO\n"
+"string.text"
+msgid "Use Wizard to Create Report..."
+msgstr "রিপোর্ত নৌনা শেম্নবা ৱিজাৰ্দ শিজিন্নৌ..."
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_REPORT\n"
+"string.text"
+msgid "Create Report in Design View..."
+msgstr "দিজাইন  ভিউদা ফোৰ্ম নৌনা শেম্মু.."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_QUERY\n"
+"string.text"
+msgid "Create Query in Design View..."
+msgstr "দিজাইন ভিউদা ৱাহং নৌনা শেম্মু..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_QUERY_SQL\n"
+"string.text"
+msgid "Create Query in SQL View..."
+msgstr "SQL ভিউদা ৱাহং নৌনা শেম্মু..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_QUERY_AUTO\n"
+"string.text"
+msgid "Use Wizard to Create Query..."
+msgstr "ৱাহং নৌনা শেম্নবা ৱিজাৰ্দ শিজিন্নৌ..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_TABLE\n"
+"string.text"
+msgid "Create Table in Design View..."
+msgstr "দিজাইন  ভিউগা তেবল নৌনা শেম্মু..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_TABLE_AUTO\n"
+"string.text"
+msgid "Use Wizard to Create Table..."
+msgstr "তেবল নৌনা শেম্নবা ৱিজাৰ্দ শিজিন্নৌ"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NEW_VIEW\n"
+"string.text"
+msgid "Create View..."
+msgstr "শক্তম নৌনা শেম্বা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_FORMS_CONTAINER\n"
+"string.text"
+msgid "Forms"
+msgstr "ফোর্মস"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_REPORTS_CONTAINER\n"
+"string.text"
+msgid "Reports"
+msgstr "রিপোৰ্তশিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_NEW\n"
+"SID_APP_NEW_FORM\n"
+"menuitem.text"
+msgid "Form..."
+msgstr "ফোর্ম..."
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_NEW\n"
+"SID_APP_NEW_REPORT\n"
+"menuitem.text"
+msgid "Report..."
+msgstr "থাদোকপা..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_NEW\n"
+"SID_DB_NEW_VIEW_SQL\n"
+"menuitem.text"
+msgid "View (Simple)..."
+msgstr "শক্তম (ইচম-চম্বা)..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_PASTE_SPECIAL\n"
+"menuitem.text"
+msgid "Paste Special..."
+msgstr "মরুওইবা হাপচিনবা..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_DELETE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "মুত্থত্পা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_RENAME\n"
+"menuitem.text"
+msgid "Rename"
+msgstr "মিং হোংবা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_EDIT\n"
+"menuitem.text"
+msgid "Edit"
+msgstr "শেমদোক-শাদোকপা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_EDIT_SQL_VIEW\n"
+"menuitem.text"
+msgid "Edit in SQL View..."
+msgstr "SQL মীৎযেংদা শেমদোকপা..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_OPEN\n"
+"menuitem.text"
+msgid "Open"
+msgstr "হাংবা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_DB_APP_CONVERTTOVIEW\n"
+"menuitem.text"
+msgid "Create as View"
+msgstr "শক্তমগুম্না নৌনা শেম্বা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_FORM_CREATE_REPWIZ_PRE_SEL\n"
+"menuitem.text"
+msgid "Form Wizard..."
+msgstr "ফোর্ম ৱিজার্দ..."
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_APP_NEW_REPORT_PRE_SEL\n"
+"menuitem.text"
+msgid "Report..."
+msgstr "থাদোকপা..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_REPORT_CREATE_REPWIZ_PRE_SEL\n"
+"menuitem.text"
+msgid "Report Wizard..."
+msgstr "রিপোৰ্ত ৱিজার্দ..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"SID_SELECTALL\n"
+"menuitem.text"
+msgid "Select All"
+msgstr "খুদিংমক খনবা"
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT.MN_PROPS\n"
+"SID_DB_APP_DSPROPS\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr "মগুনশিং"
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT.MN_PROPS\n"
+"SID_DB_APP_DSCONNECTION_TYPE\n"
+"menuitem.text"
+msgid "Connection Type..."
+msgstr "শম্নবগী মওং"
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT.MN_PROPS\n"
+"SID_DB_APP_DSADVANCED_SETTINGS\n"
+"menuitem.text"
+msgid "Advanced Settings..."
+msgstr "এদভান্সদ সেতিংস"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_EDIT\n"
+"MN_PROPS\n"
+"menuitem.text"
+msgid "~Database"
+msgstr "দতাবেজ"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_QUERY_DELETE_DATASOURCE\n"
+"string.text"
+msgid "Do you want to delete the data source '%1'?"
+msgstr "অদোম দতা হৌফম '%1'দু মুত্থত্পা পামবিবরা?"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_APP_TITLE\n"
+"string.text"
+msgid " - %PRODUCTNAME Base"
+msgstr " - %PRODUCTNAME হৌফম"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_REPORTS_HELP_TEXT_WIZARD\n"
+"string.text"
+msgid "The wizard will guide you through the steps necessary to create a report."
+msgstr "রিপোর্ত অমা নৌনা শেম্বা মতমদা ৱিজার্তনা অদোমবু দরকার ওইবা খোংথাং খুদিংমক মতেং পাংগনি."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_FORMS_HELP_TEXT\n"
+"string.text"
+msgid "Create a form by specifying the record source, controls, and control properties."
+msgstr "রেকোর্তকী হৌফম, কন্ত্রোলশিং, অমশুং কন্ত্রোল মগুনশিং মশক তাক্তুনা ফোর্ম অমা নৌনা শেম্মু."
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_STR_REPORT_HELP_TEXT\n"
+"string.text"
+msgid "Create a report by specifying the record source, controls, and control properties."
+msgstr "রেকোর্তকী হৌফম, কন্ত্রোলশিং, অমশুং কন্ত্রোল মগুনশিং মশক তাক্তুনা ফোর্ম অমা নৌনা শেম্মু."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_FORMS_HELP_TEXT_WIZARD\n"
+"string.text"
+msgid "The wizard will guide you through the steps necessary to create a form."
+msgstr "ফোর্ম অমা শেম্বা মতমদা ৱিজার্দনা অদোমবু দরকার ওইবা খোংথাং খুদিংমক্তা মতেং পাংগনি"
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_STR_QUERIES_HELP_TEXT\n"
+"string.text"
+msgid "Create a query by specifying the filters, input tables, field names, and properties for sorting or grouping."
+msgstr "ফিল্তরশিং, ইনপুত তেবলশিং, ফিল্দ মমিংশিং, অমশুং মথং-মনাও শেম্বগী অমশুং কাংলুপ শেম্বগী মশক তাক্তুনা ৱাহং অমা নৌনা শেম্মু ."
+
+#: app.src
+#, fuzzy
+msgctxt ""
+"app.src\n"
+"RID_STR_QUERIES_HELP_TEXT_SQL\n"
+"string.text"
+msgid "Create a query entering an SQL statement directly."
+msgstr "SQL স্তেতমেন্ত অমদা হকথেংন্না চংলক্লিবা ৱাহং অমা নৌনা শেম্মু."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_QUERIES_HELP_TEXT_WIZARD\n"
+"string.text"
+msgid "The wizard will guide you through the steps necessary to create a query."
+msgstr "ৱাহং অমা নৌনা শেম্বদা চংবা দরকার ওইবা খোংথাং খুদিংমক ৱিজার্দনা অদোমবু মতেং পাংগনি."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_TABLES_HELP_TEXT_DESIGN\n"
+"string.text"
+msgid "Create a table by specifying the field names and properties, as well as the data types."
+msgstr "দতা মখলশিংদা তৌবগুম্না, ফিল্দ মমিংশিং অমশুং মগুনশিং মশক তাক্তুনা তেবল অমা নৌনা শেম্মু."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_TABLES_HELP_TEXT_WIZARD\n"
+"string.text"
+msgid "Choose from a selection of business and personal table samples, which you customize to create a table."
+msgstr "লল্লোনবগী অমশুং লনাইগী ওইবা নোম্নাশিংগী খনগত্পদগী খল্লো, মদুদি অদোম্না অনৌবা তেবল অমা নৌনা শেম্নবা কস্তমাইজ তৌবা."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_VIEWS_HELP_TEXT_DESIGN\n"
+"string.text"
+msgid "Create a view by specifying the tables and field names you would like to have visible."
+msgstr "তেবলশিং অমশুং ফিল্দগী মিংশিং  মশক তাক্তুনা অদোম্না পাম্বা উতনিংঙাই ওইবা শক্তম অমখক নৌনা শেম্মু."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_VIEWS_HELP_TEXT_WIZARD\n"
+"string.text"
+msgid "Opens the view wizard"
+msgstr "ভিউ ৱিজার্দ হাংঙু"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DATABASE\n"
+"string.text"
+msgid "Database"
+msgstr "দতাবেজ"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_TASKS\n"
+"string.text"
+msgid "Tasks"
+msgstr "থবকশিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DESCRIPTION\n"
+"string.text"
+msgid "Description"
+msgstr "শন্দোকনা তাকপা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "মমাংগী শক্তম য়েংশিনবা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DISABLEPREVIEW\n"
+"string.text"
+msgid "Disable Preview"
+msgstr "মমাংগী শক্তম য়েংশিনবা ঙমদবা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_QUERY_CLOSEDOCUMENTS\n"
+"string.text"
+msgid ""
+"The connection type has been altered.\n"
+"For the changes to take effect, all forms, reports, queries and tables must be closed.\n"
+"\n"
+"Do you want to close all documents now?"
+msgstr ""
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_PREVIEW\n"
+"SID_DB_APP_DISABLE_PREVIEW\n"
+"menuitem.text"
+msgid "None"
+msgstr "অমত্তা নত্তে"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_PREVIEW\n"
+"SID_DB_APP_VIEW_DOCINFO_PREVIEW\n"
+"menuitem.text"
+msgid "Document Information"
+msgstr "দোকুমেন্ত ঈ-পাউ"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MENU_APP_PREVIEW\n"
+"SID_DB_APP_VIEW_DOC_PREVIEW\n"
+"menuitem.text"
+msgid "Document"
+msgstr "দোকুমেন্ত "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_FORM\n"
+"string.text"
+msgid "Form"
+msgstr "ফোর্ম"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_REPORT\n"
+"string.text"
+msgid "Report"
+msgstr "রিপোর্ত"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FRM_LABEL\n"
+"string.text"
+msgid "F~orm name"
+msgstr "ফোর্ম মমিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_RPT_LABEL\n"
+"string.text"
+msgid "~Report name"
+msgstr "রিপোর্ত মমিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FOLDER_LABEL\n"
+"string.text"
+msgid "F~older name"
+msgstr "ফোল্দর মমিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_SUB_DOCS_WITH_SCRIPTS\n"
+"string.text"
+msgid "The document contains forms or reports with embedded macros."
+msgstr ""
+"দোকুমেন্ত অসিদা ফোর্মশিং অমসুং/নত্রগা মেক্রোজগা লোযনবা পাউদমশিং অমসুং/নত্রগা \n"
+" হাপচিল্লবা স্ক্রিপ্তশিং যাওই."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_SUB_DOCS_WITH_SCRIPTS_DETAIL\n"
+"string.text"
+msgid ""
+"Macros should be embedded into the database document itself.\n"
+"\n"
+"You can continue to use your document as before, however, you are encouraged to migrate your macros. The menu item 'Tools / Migrate Macros ...' will assist you with this.\n"
+"\n"
+"Note that you won't be able to embed macros into the database document itself until this migration is done. "
+msgstr ""
+"হৌজিক্কী মতমদা স্ক্রিপ্তশিং অমসুং মেক্রোজ দাতাবেজ দোকুমেন্ত অসিমক্তা \n"
+" হাপচিনগদবনি.\n"
+" \n"
+" অদোম্না হান্নগী অদুগুম্না অদোমগী দোকুমেন্ত মখাতানা শিজিন্নবা যাগনি, অদুবু \n"
+" অদোমগী স্ক্রিপ্তশিং অমসুং মেক্রোজ মফম হোংদোক্নবা হাযজরি. মেন্য়ু আইতেম \n"
+" 'তুলশিং / স্ক্রিপ্তশিং অমসুং মেক্রোজ মফম হোংদোকপা...' অসিনা অদোম্বু মতেং \n"
+" পাংগনি.\n"
+" \n"
+" খঙজিল্লু মদুদি অদোম্না মেক্রোজ নত্রগা স্ক্রিপ্তশিং মফম হোংবা অসি তৌদ্রিবা \n"
+" ফাওবা দাতাবেজ দোকুমেন্তদা হাপচিনবা যারোই."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_EMBEDDED_DATABASE\n"
+"string.text"
+msgid "Embedded database"
+msgstr "হাপচিল্লবা দাতাবেজ"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_NO_DIFF_CAT\n"
+"string.text"
+msgid "You cannot select different categories."
+msgstr "অদোম্না তোঙানবা কাংলুপশিং খনবা যাদে."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_STR_UNSUPPORTED_OBJECT_TYPE\n"
+"string.text"
+msgid "Unsupported object type found ($type$)."
+msgstr "তেংবাংদবা ওবজেক্ত মখল ফংলে ($type$)."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PAGETITLE_GENERAL\n"
+"string.text"
+msgid "Advanced Properties"
+msgstr "এদভান্স ওইবা প্রোপর্তিশিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PAGETITLE_ADVANCED\n"
+"string.text"
+msgid "Additional Settings"
+msgstr "অহেনবা সেত্তিংশিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PAGETITLE_CONNECTION\n"
+"string.text"
+msgid "Connection settings"
+msgstr "মরি শম্নবগী সেত্তিংশিং"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_TBL_LABEL\n"
+"string.text"
+msgid "~Table Name"
+msgstr "তেবলগী মিং (~T)"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_VW_LABEL\n"
+"string.text"
+msgid "~Name of table view"
+msgstr "তেবল মীৎযেংগী মমিং (~N)"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_QRY_LABEL\n"
+"string.text"
+msgid "~Query name"
+msgstr "ৱাহং মমিং (~Q)"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_TITLE_RENAME\n"
+"string.text"
+msgid "Rename to"
+msgstr "মিং ওনবা"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_TITLE_PASTE_AS\n"
+"string.text"
+msgid "Insert as"
+msgstr "মসিগুম্না হাপচিনবা"

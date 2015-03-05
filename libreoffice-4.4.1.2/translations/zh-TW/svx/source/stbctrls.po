@@ -1,0 +1,289 @@
+#. extracted from svx/source/stbctrls
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-23 23:02+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_INSERT_HELPTEXT\n"
+"string.text"
+msgid "Insert mode. Click to change to overwrite mode."
+msgstr "插入模式。點按可更換回覆寫模式。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_OVERWRITE_HELPTEXT\n"
+"string.text"
+msgid "Overwrite mode. Click to change to insert mode."
+msgstr "覆寫模式。點按可更換回插入模式。"
+
+#. To be shown in the status bar when in overwrite mode, please try to make it not longer than the word 'Overwrite'.
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_OVERWRITE_TEXT\n"
+"string.text"
+msgid "Overwrite"
+msgstr "覆寫"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_STANDARD\n"
+"menuitem.text"
+msgid "Standard selection"
+msgstr "標準選取"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_EXTENDED\n"
+"menuitem.text"
+msgid "Extending selection"
+msgstr "擴展選取"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_ADDED\n"
+"menuitem.text"
+msgid "Adding selection"
+msgstr "追加選取"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_BLOCK\n"
+"menuitem.text"
+msgid "Block selection"
+msgstr "區塊選取"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_OK\n"
+"string.text"
+msgid "Digital Signature: The document signature is OK."
+msgstr "數位簽名︰文件簽名無誤。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_OK_NO_VERIFY\n"
+"string.text"
+msgid "Digital Signature: The document signature is OK, but the certificates could not be validated."
+msgstr "數位簽名︰文件簽名無誤，但無法驗證憑證。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_NOT_OK\n"
+"string.text"
+msgid "Digital Signature: The document signature does not match the document content. We strongly recommend you to do not trust this document."
+msgstr "數位簽名︰文件簽名不符合文件內容。強烈建議不要信任此文件。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_NO_SIG\n"
+"string.text"
+msgid "Digital Signature: The document is not signed."
+msgstr "數位簽名︰文件未經簽署。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_CERT_OK_PARTIAL_SIG\n"
+"string.text"
+msgid "Digital Signature: The document signature and the certificate are OK, but not all parts of the document are signed."
+msgstr "數位簽名：文件簽名與憑證沒問題，但某些文件組件尚未簽名。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_DOC_MODIFIED_YES\n"
+"string.text"
+msgid "The document has been modified. Double-click to save the document."
+msgstr "文件已修改。連按兩下以儲存此文件。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_DOC_MODIFIED_NO\n"
+"string.text"
+msgid "The document has not been modified since the last save."
+msgstr "文件自上次儲存後未經過修改。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_DOC_LOAD\n"
+"string.text"
+msgid "Loading document..."
+msgstr "正在載入文件..."
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_FIT_SLIDE\n"
+"string.text"
+msgid "Fit slide to current window."
+msgstr "調整投影片以適應目前視窗大小。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOMTOOL_HINT\n"
+"string.text"
+msgid "Zoom level. Right-click to change zoom level or click to open Zoom dialog."
+msgstr "遠近等級。點按右鍵可變更遠近等級，或點按可開啟遠近調整對話方塊。"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOM\n"
+"string.text"
+msgid "Adjust zoom level"
+msgstr "調整遠近等級"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOM_IN\n"
+"string.text"
+msgid "Zoom In"
+msgstr "拉近"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOM_OUT\n"
+"string.text"
+msgid "Zoom Out"
+msgstr "拉遠"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_ZOOM\n"
+"ZOOM_WHOLE_PAGE\n"
+"menuitem.text"
+msgid "Entire Page"
+msgstr "整頁"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_ZOOM\n"
+"ZOOM_PAGE_WIDTH\n"
+"menuitem.text"
+msgid "Page Width"
+msgstr "頁面寬度"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_ZOOM\n"
+"ZOOM_OPTIMAL\n"
+"menuitem.text"
+msgid "Optimal View"
+msgstr "最適檢視"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_AVG\n"
+"menuitem.text"
+msgid "Average"
+msgstr "平均值"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_COUNT2\n"
+"menuitem.text"
+msgid "CountA"
+msgstr "數目2"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_COUNT\n"
+"menuitem.text"
+msgid "Count"
+msgstr "數目"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_MAX\n"
+"menuitem.text"
+msgid "Maximum"
+msgstr "最大"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_MIN\n"
+"menuitem.text"
+msgid "Minimum"
+msgstr "最小"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_SUM\n"
+"menuitem.text"
+msgid "Sum"
+msgstr "小計"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_SELECTION_COUNT\n"
+"menuitem.text"
+msgid "Selection count"
+msgstr "選取計數"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_NONE\n"
+"menuitem.text"
+msgid "None"
+msgstr "無"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_XMLSECSTATBAR\n"
+"XMLSEC_CALL\n"
+"menuitem.text"
+msgid "Digital Signatures..."
+msgstr "數位簽名..."

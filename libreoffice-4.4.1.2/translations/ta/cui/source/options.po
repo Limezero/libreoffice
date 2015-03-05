@@ -1,0 +1,1432 @@
+#. extracted from cui/source/options
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-07 11:08+0100\n"
+"PO-Revision-Date: 2015-01-19 04:29+0000\n"
+"Last-Translator: அருண் குமார் <thangam.arunx@gmail.com>\n"
+"Language-Team: Tamil <kde-i18n-doc@kde.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421641793.000000\n"
+
+#: connpooloptions.src
+msgctxt ""
+"connpooloptions.src\n"
+"RID_SVXSTR_DRIVER_NAME\n"
+"string.text"
+msgid "Driver name"
+msgstr "இயக்கி பெயர்"
+
+#: connpooloptions.src
+msgctxt ""
+"connpooloptions.src\n"
+"RID_SVXSTR_POOLED_FLAG\n"
+"string.text"
+msgid "Pool"
+msgstr "குவியல்"
+
+#: connpooloptions.src
+msgctxt ""
+"connpooloptions.src\n"
+"RID_SVXSTR_POOL_TIMEOUT\n"
+"string.text"
+msgid "Timeout"
+msgstr "நேரம் கடந்து"
+
+#: connpooloptions.src
+msgctxt ""
+"connpooloptions.src\n"
+"RID_SVXSTR_YES\n"
+"string.text"
+msgid "Yes"
+msgstr "ஆம்"
+
+#: connpooloptions.src
+msgctxt ""
+"connpooloptions.src\n"
+"RID_SVXSTR_NO\n"
+"string.text"
+msgid "No"
+msgstr "இல்லை"
+
+#: dbregister.src
+msgctxt ""
+"dbregister.src\n"
+"RID_SVXSTR_TYPE\n"
+"string.text"
+msgid "Registered name"
+msgstr "பதிவுசெய்த பெயர்"
+
+#: dbregister.src
+msgctxt ""
+"dbregister.src\n"
+"RID_SVXSTR_PATH\n"
+"string.text"
+msgid "Database file"
+msgstr "தரவுத்தள கோப்பு"
+
+#: doclinkdialog.src
+msgctxt ""
+"doclinkdialog.src\n"
+"STR_LINKEDDOC_DOESNOTEXIST\n"
+"string.text"
+msgid ""
+"The file\n"
+"$file$\n"
+"does not exist."
+msgstr ""
+"இந்த கோப்பு\n"
+"$file$\n"
+"உள்ளிருக்கவில்லை."
+
+#: doclinkdialog.src
+msgctxt ""
+"doclinkdialog.src\n"
+"STR_LINKEDDOC_NO_SYSTEM_FILE\n"
+"string.text"
+msgid ""
+"The file\n"
+"$file$\n"
+"does not exist in the local file system."
+msgstr ""
+"$file$\n"
+"எனும் கோப்பு\n"
+"உள்ளமை கோப்புக் கட்டகத்திலில்லை."
+
+#: doclinkdialog.src
+msgctxt ""
+"doclinkdialog.src\n"
+"STR_NAME_CONFLICT\n"
+"string.text"
+msgid ""
+"The name '$file$' is already used for another database.\n"
+"Please choose a different name."
+msgstr ""
+"இந்த பெயர் '$file$' ஏற்கனவே மற்றொரு தரவுத்தளத்தில் பயன்படுத்தப்பட்டது.\n"
+"ஒரு வித்தியாசமான பெயரை தேர்ந்தெடு."
+
+#: doclinkdialog.src
+msgctxt ""
+"doclinkdialog.src\n"
+"RID_SVXSTR_QUERY_DELETE_CONFIRM\n"
+"string.text"
+msgid "Do you want to delete the entry?"
+msgstr "நீங்கள் இந்த உள்ளிட்டை அழிக்க விரும்புகிறீர்களா?"
+
+#: optchart.src
+msgctxt ""
+"optchart.src\n"
+"RID_SVXSTR_DIAGRAM_ROW\n"
+"string.text"
+msgid "Data Series $(ROW)"
+msgstr "தரவு வரிசைகள் $(ROW)"
+
+#: optchart.src
+msgctxt ""
+"optchart.src\n"
+"RID_OPTSTR_COLOR_CHART_DELETE\n"
+"string.text"
+msgid "Chart Color Deletion"
+msgstr "வரைபு நிற அழிப்பு"
+
+#: optcolor.src
+msgctxt ""
+"optcolor.src\n"
+"RID_SVXSTR_COLOR_CONFIG_DELETE\n"
+"string.text"
+msgid "Do you really want to delete the color scheme?"
+msgstr "நிற திட்டத்தை உறுதியாக அழிக்க வேண்டுகிறீரா?"
+
+#: optcolor.src
+msgctxt ""
+"optcolor.src\n"
+"RID_SVXSTR_COLOR_CONFIG_DELETE_TITLE\n"
+"string.text"
+msgid "Color Scheme Deletion"
+msgstr "நிற திட்ட அழிப்பு"
+
+#: optcolor.src
+msgctxt ""
+"optcolor.src\n"
+"RID_SVXSTR_COLOR_CONFIG_SAVE1\n"
+"string.text"
+msgid "Save scheme"
+msgstr "திட்டத்தைச் சேமி"
+
+#: optcolor.src
+msgctxt ""
+"optcolor.src\n"
+"RID_SVXSTR_COLOR_CONFIG_SAVE2\n"
+"string.text"
+msgid "Name of color scheme"
+msgstr "நிற திட்டத்தின் பெயர்"
+
+#: optdict.src
+msgctxt ""
+"optdict.src\n"
+"RID_SVXSTR_OPT_DOUBLE_DICTS\n"
+"string.text"
+msgid ""
+"The specified name already exists.\n"
+"Please enter a new name."
+msgstr ""
+"குறிப்பிட்ட பெயர் ஏற்கனவே உள்ளது.\n"
+"புதிய பெயரை உள்ளிடுக."
+
+#: optdict.src
+msgctxt ""
+"optdict.src\n"
+"STR_MODIFY\n"
+"string.text"
+msgid "~Replace"
+msgstr "மாற்றிவை"
+
+#: optdict.src
+msgctxt ""
+"optdict.src\n"
+"RID_SVXSTR_CONFIRM_SET_LANGUAGE\n"
+"string.text"
+msgid "Do you want to change the '%1' dictionary language?"
+msgstr "'%1' அகராதி மொழியை மாற்ற வேண்டுகிறீரா?"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_HEADER1\n"
+"string.text"
+msgid "[L]"
+msgstr "[L]"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_HEADER2\n"
+"string.text"
+msgid "[S]"
+msgstr "[S]"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_CHG_MATH\n"
+"string.text"
+msgid "MathType to %PRODUCTNAME Math or reverse"
+msgstr "மேத்டைப்பை %PRODUCTNAME மேத்துக்கோ நேர்மாறாகவோ"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_CHG_WRITER\n"
+"string.text"
+msgid "WinWord to %PRODUCTNAME Writer or reverse"
+msgstr "வின்வேர்டை %PRODUCTNAME ரைட்டருக்கோ நேர்மாறாகவோ"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_CHG_CALC\n"
+"string.text"
+msgid "Excel to %PRODUCTNAME Calc or reverse"
+msgstr "எக்செலிலிருந்து %PRODUCTNAME கல்கிற்கோ நேர் எதிராகவோ"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_CHG_IMPRESS\n"
+"string.text"
+msgid "PowerPoint to %PRODUCTNAME Impress or reverse"
+msgstr "பவர்பொய்ண்டை %PRODUCTNAME இம்பிரஸுக்கோ நேர்மாறாகவோ"
+
+#: optfltr.src
+msgctxt ""
+"optfltr.src\n"
+"RID_SVXSTR_CHG_SMARTART\n"
+"string.text"
+msgid "SmartArt to %PRODUCTNAME shapes or reverse"
+msgstr "%PRODUCTNAME வடிவங்களுகான SmartArt"
+
+#: optgdlg.src
+msgctxt ""
+"optgdlg.src\n"
+"RID_SVXSTR_LANGUAGE_RESTART\n"
+"string.text"
+msgid "The language setting of the user interface has been updated and will take effect the next time you start %PRODUCTNAME %PRODUCTVERSION"
+msgstr "பயனர் முகப்பிற்கான மொழி அமைவு புதுப்பிக்கப்பட்டது, நீங்கள் அடுத்த முறை %PRODUCTNAME %PRODUCTVERSION ஐத் துவக்கும் போது விளைவைப் பெறும்"
+
+#: optinet2.src
+msgctxt ""
+"optinet2.src\n"
+"RID_SVXSTR_OPT_PROXYPORTS\n"
+"string.text"
+msgid ""
+"Invalid value!\n"
+"\n"
+"The maximum value for a port number is 65535."
+msgstr ""
+"செல்லாத மதிப்பு!\n"
+"\n"
+"ஒரு வாயில் எண்ணின் அதிகபட்ச மதிப்பு 65535 ஆகும்."
+
+#: optjava.src
+msgctxt ""
+"optjava.src\n"
+"RID_SVXSTR_JRE_NOT_RECOGNIZED\n"
+"string.text"
+msgid ""
+"The folder you selected does not contain a Java runtime environment.\n"
+"Please select a different folder."
+msgstr ""
+"நீங்கள் நேர்ந்தெடுத்த கோப்புறை ஜாவா ஓட்டநேர சூழலைக் கொண்டில்லை.\n"
+"வேறு கோப்புறையைத் தேர்ந்தெடுக்கவும்."
+
+#: optjava.src
+msgctxt ""
+"optjava.src\n"
+"RID_SVXSTR_JRE_FAILED_VERSION\n"
+"string.text"
+msgid ""
+"The Java runtime environment you selected is not the required version.\n"
+"Please select a different folder."
+msgstr ""
+"நீங்கள் தேர்ந்தெடுத்த ஜாவா ஓட்டநேர சூழல் ஒரு தேவையான பதிப்பு இல்லை.\n"
+"வேறொரு கோப்புறையைத் தேர்ந்தெடுக்கவும்."
+
+#: optjava.src
+msgctxt ""
+"optjava.src\n"
+"RID_SVXSTR_OPTIONS_RESTART\n"
+"string.text"
+msgid ""
+"You have to restart %PRODUCTNAME so the new or modified values can take effect.\n"
+"Please restart %PRODUCTNAME now."
+msgstr ""
+"நீங்கள் %PRODUCTNAME ஐ மறுதொடக்கம் செய்தால் தான் புதிய அல்லது மாற்றம் செய்யப்பட்ட மதிப்புகள் விளைவை ஏற்படுத்தும்.\n"
+"இப்போது %PRODUCTNAME ஐ மறுதொடக்கம் செய்யவும்."
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_SPELL\n"
+"string.text"
+msgid "Spelling"
+msgstr "எழுத்துக்கூட்டு"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_HYPH\n"
+"string.text"
+msgid "Hyphenation"
+msgstr "நடுக்கோடிடல்"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_THES\n"
+"string.text"
+msgid "Thesaurus"
+msgstr "நிகண்டு"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_GRAMMAR\n"
+"string.text"
+msgid "Grammar"
+msgstr "இலக்கணம்"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_CAPITAL_WORDS\n"
+"string.text"
+msgid "Check uppercase words"
+msgstr "பெரிய எழுத்துக்களைச் சோதி"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_WORDS_WITH_DIGITS\n"
+"string.text"
+msgid "Check words with numbers "
+msgstr "எண்களுடன் உள்ள சொற்களைச் சோதி "
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_SPELL_SPECIAL\n"
+"string.text"
+msgid "Check special regions"
+msgstr "குறிப்பிட்ட இடங்களில் மட்டும் தேடு"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_SPELL_AUTO\n"
+"string.text"
+msgid "Check spelling as you type"
+msgstr "தட்டச்சும்போதே எழுத்துக்கூட்டலைச் சோதி"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_GRAMMAR_AUTO\n"
+"string.text"
+msgid "Check grammar as you type"
+msgstr "தட்டச்சும்போதே எழுத்துக்கூட்டலைச் சோதி"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_NUM_MIN_WORDLEN\n"
+"string.text"
+msgid "Minimal number of characters for hyphenation: "
+msgstr "சொல்பிரிக்கத் தேவையான குறைந்தபட்ச வரியுருக்கள்: "
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_NUM_PRE_BREAK\n"
+"string.text"
+msgid "Characters before line break: "
+msgstr "வரிமுறிப்புக்கு முன்புள்ள வரியுருக்கள்: "
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_NUM_POST_BREAK\n"
+"string.text"
+msgid "Characters after line break: "
+msgstr "வரிமுறிப்புக்கு பிறகுள்ள வரியுருக்கள்: "
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_HYPH_AUTO\n"
+"string.text"
+msgid "Hyphenate without inquiry"
+msgstr "கேட்காமல் நடுக்கோடிடு"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_HYPH_SPECIAL\n"
+"string.text"
+msgid "Hyphenate special regions"
+msgstr "சில இடங்களில் சொல் பிரி"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_LINGU_MODULES_EDIT\n"
+"string.text"
+msgid "Edit Available language modules"
+msgstr "உள்ள மொழி நிரல்கூறுகளைத் தொகு"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_LINGU_DICS_EDIT_DIC\n"
+"string.text"
+msgid "Edit User-defined dictionaries"
+msgstr "பயனர்-வரையறுத்த அகராதிகளைத் தொகு"
+
+#: optlingu.src
+msgctxt ""
+"optlingu.src\n"
+"RID_SVXSTR_LINGU_OPTIONS_EDIT\n"
+"string.text"
+msgid "Edit Options"
+msgstr "விருப்பத்தேர்வுகளைத் தொகு"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_CONFIG_DIR\n"
+"string.text"
+msgid "Configuration"
+msgstr "வடிவாக்கல்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_WORK_PATH\n"
+"string.text"
+msgid "My Documents"
+msgstr "என் ஆவணங்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_GRAPHICS_PATH\n"
+"string.text"
+msgid "Images"
+msgstr "படங்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_BITMAP_PATH\n"
+"string.text"
+msgid "Icons"
+msgstr "படவுருக்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_PALETTE_PATH\n"
+"string.text"
+msgid "Palettes"
+msgstr "வண்ணங்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_BACKUP_PATH\n"
+"string.text"
+msgid "Backups"
+msgstr "காப்புநகல்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_MODULES_PATH\n"
+"string.text"
+msgid "Modules"
+msgstr "பகுதிகள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_TEMPLATE_PATH\n"
+"string.text"
+msgid "Templates"
+msgstr "வார்ப்புருக்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_GLOSSARY_PATH\n"
+"string.text"
+msgid "AutoText"
+msgstr "தானியுரை"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_DICTIONARY_PATH\n"
+"string.text"
+msgid "Dictionaries"
+msgstr "அகராதிகள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_HELP_DIR\n"
+"string.text"
+msgid "Help"
+msgstr "உதவி"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_GALLERY_DIR\n"
+"string.text"
+msgid "Gallery"
+msgstr "காட்சியகம்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_STORAGE_DIR\n"
+"string.text"
+msgid "Message Storage"
+msgstr "செய்தி சேகரிப்பு"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_TEMP_PATH\n"
+"string.text"
+msgid "Temporary files"
+msgstr "தற்காலிக கோப்புகள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_PLUGINS_PATH\n"
+"string.text"
+msgid "Plug-ins"
+msgstr "செருகல்கள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_FAVORITES_DIR\n"
+"string.text"
+msgid "Folder Bookmarks"
+msgstr "அடைவு நூற்குறிகள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_FILTER_PATH\n"
+"string.text"
+msgid "Filters"
+msgstr "வடிகட்டிகள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_ADDINS_PATH\n"
+"string.text"
+msgid "Add-ins"
+msgstr "உள்-சேர்ப்பவைகள்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_USERCONFIG_PATH\n"
+"string.text"
+msgid "User Configuration"
+msgstr "பயனர் வடிவாக்கம்"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_USERDICTIONARY_DIR\n"
+"string.text"
+msgid "User-defined dictionaries"
+msgstr "பயனர்-வரையறுத்த அகராதி"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_AUTOCORRECT_DIR\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "தானே திருத்து"
+
+#: optpath.src
+msgctxt ""
+"optpath.src\n"
+"RID_SVXSTR_KEY_LINGUISTIC_DIR\n"
+"string.text"
+msgid "Writing aids"
+msgstr "எழுத்து உதவிகள்"
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_SEARCHTERM\n"
+"string.text"
+msgid "Search term"
+msgstr "தேடல் சொல்"
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_SELECTEDPERSONA\n"
+"string.text"
+msgid "Selected Theme: "
+msgstr "தேர்வு செய்த கருப்பொருள் "
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_SEARCHING\n"
+"string.text"
+msgid "Searching, please wait..."
+msgstr "தேடுகிறது, தயவு செய்து காத்திருங்கள்..."
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_SEARCHERROR\n"
+"string.text"
+msgid "Cannot open %1, please try again later."
+msgstr "திறக்க முடியவில்லை %1, பிறகு மீண்டும் முயற்சிக்கவும்."
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_NORESULTS\n"
+"string.text"
+msgid "No results found."
+msgstr "முடிவுகள் ஏதும் காணப்படவில்லை."
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_APPLYPERSONA\n"
+"string.text"
+msgid "Applying Theme..."
+msgstr "தோற்றக்கருவைச் செயற்படுத்துகிறது..."
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_PERSONA_ABSTRACT\n"
+"string.text"
+msgid "Abstract"
+msgstr "சுருக்கம்"
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_PERSONA_COLOR\n"
+"string.text"
+msgid "Color"
+msgstr "நிறம்"
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_PERSONA_MUSIC\n"
+"string.text"
+msgid "Music"
+msgstr "இசை"
+
+#: personalization.src
+msgctxt ""
+"personalization.src\n"
+"RID_SVXSTR_PERSONA_NATURE\n"
+"string.text"
+msgid "Nature"
+msgstr "இயற்கை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"%PRODUCTNAME\n"
+"itemlist.text"
+msgid "%PRODUCTNAME"
+msgstr "%PRODUCTNAME"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"User Data\n"
+"itemlist.text"
+msgid "User Data"
+msgstr "பயனர் தகவல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"General\n"
+"itemlist.text"
+msgid "General"
+msgstr "பொது"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Memory\n"
+"itemlist.text"
+msgid "Memory"
+msgstr "நினைவு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"View\n"
+"itemlist.text"
+msgid "View"
+msgstr "பார்வை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Paths\n"
+"itemlist.text"
+msgid "Paths"
+msgstr "பாதைகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Colors\n"
+"itemlist.text"
+msgid "Colors"
+msgstr "நிறங்கள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Fonts\n"
+"itemlist.text"
+msgid "Fonts"
+msgstr "எழுத்துருக்கள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Security\n"
+"itemlist.text"
+msgid "Security"
+msgstr "பாதுகாப்பு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Personalization\n"
+"itemlist.text"
+msgid "Personalization"
+msgstr "தனிப்பயனாக்கம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Appearance\n"
+"itemlist.text"
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Accessibility\n"
+"itemlist.text"
+msgid "Accessibility"
+msgstr "அணுகல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Advanced\n"
+"itemlist.text"
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Basic IDE Options\n"
+"itemlist.text"
+msgid "Basic IDE Options"
+msgstr "அடிப்படை IDE தேர்வுகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"Online Update\n"
+"itemlist.text"
+msgid "Online Update"
+msgstr "இணையப் புதுப்பித்தல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS\n"
+"OpenCL\n"
+"itemlist.text"
+msgid "OpenCL"
+msgstr "OpenCL"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS\n"
+"Language Settings\n"
+"itemlist.text"
+msgid "Language Settings"
+msgstr "மொழி அமைவுகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS\n"
+"Languages\n"
+"itemlist.text"
+msgid "Languages"
+msgstr "மொழிகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS\n"
+"Writing Aids\n"
+"itemlist.text"
+msgid "Writing Aids"
+msgstr "எழுத்து உதவிகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS\n"
+"Searching in Japanese\n"
+"itemlist.text"
+msgid "Searching in Japanese"
+msgstr "ஜப்பானியத்தில் தேடல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS\n"
+"Asian Layout\n"
+"itemlist.text"
+msgid "Asian Layout"
+msgstr "ஆசியத் தளக்கோலம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS\n"
+"Complex Text Layout\n"
+"itemlist.text"
+msgid "Complex Text Layout"
+msgstr "சிக்கலான உரை தளக்கோலம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG\n"
+"Internet\n"
+"itemlist.text"
+msgid "Internet"
+msgstr "இணையம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG\n"
+"Proxy\n"
+"itemlist.text"
+msgid "Proxy"
+msgstr "நிகராளி"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG\n"
+"E-mail\n"
+"itemlist.text"
+msgid "E-mail"
+msgstr "மின்னஞ்சல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"%PRODUCTNAME Writer\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Writer"
+msgstr "%PRODUCTNAME ரைடர்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"General\n"
+"itemlist.text"
+msgid "General"
+msgstr "பொது"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"View\n"
+"itemlist.text"
+msgid "View"
+msgstr "பார்வை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Formatting Aids\n"
+"itemlist.text"
+msgid "Formatting Aids"
+msgstr "வடிவூட்ட உதவிகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Grid\n"
+"itemlist.text"
+msgid "Grid"
+msgstr "பின்னல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Basic Fonts (Western)\n"
+"itemlist.text"
+msgid "Basic Fonts (Western)"
+msgstr "அடிப்படை எழுத்துருகள் (மேலை)"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Basic Fonts (Asian)\n"
+"itemlist.text"
+msgid "Basic Fonts (Asian)"
+msgstr "அடிப்படை எழுத்துருகள் (ஆசிய)"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Basic Fonts (CTL)\n"
+"itemlist.text"
+msgid "Basic Fonts (CTL)"
+msgstr "அடிப்படை எழத்து (CTL)"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Table\n"
+"itemlist.text"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Changes\n"
+"itemlist.text"
+msgid "Changes"
+msgstr "மாற்றங்கள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Comparison\n"
+"itemlist.text"
+msgid "Comparison"
+msgstr "ஒப்பீடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Compatibility\n"
+"itemlist.text"
+msgid "Compatibility"
+msgstr "இணக்கத்தன்மை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"AutoCaption\n"
+"itemlist.text"
+msgid "AutoCaption"
+msgstr "தானி படவிளக்கம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS\n"
+"Mail Merge E-mail\n"
+"itemlist.text"
+msgid "Mail Merge E-mail"
+msgstr "அஞ்சல் ஒன்றாக்க மின்னஞ்சல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"%PRODUCTNAME Writer/Web\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Writer/Web"
+msgstr "%PRODUCTNAME ரைட்டர்/வெப்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"View\n"
+"itemlist.text"
+msgid "View"
+msgstr "பார்வை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"Formatting Aids\n"
+"itemlist.text"
+msgid "Formatting Aids"
+msgstr "வடிவூட்ட உதவிகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"Grid\n"
+"itemlist.text"
+msgid "Grid"
+msgstr "பின்னல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"Table\n"
+"itemlist.text"
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS\n"
+"Background\n"
+"itemlist.text"
+msgid "Background"
+msgstr "பின்புலம்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS\n"
+"%PRODUCTNAME Math\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Math"
+msgstr "%PRODUCTNAME மேத்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS\n"
+"Settings\n"
+"itemlist.text"
+msgid "Settings"
+msgstr "அமைவுகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"%PRODUCTNAME Calc\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Calc"
+msgstr "%PRODUCTNAME கல்க்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"General\n"
+"itemlist.text"
+msgid "General"
+msgstr "பொது"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Defaults\n"
+"itemlist.text"
+msgid "Defaults"
+msgstr "முன்னிருப்புகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"View\n"
+"itemlist.text"
+msgid "View"
+msgstr "பார்வை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Calculate\n"
+"itemlist.text"
+msgid "Calculate"
+msgstr "கணக்கிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Formula\n"
+"itemlist.text"
+msgid "Formula"
+msgstr "விதி"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Sort Lists\n"
+"itemlist.text"
+msgid "Sort Lists"
+msgstr "பட்டியல்களை வரிசையாக்கு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Changes\n"
+"itemlist.text"
+msgid "Changes"
+msgstr "மாற்றங்கள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Compatibility\n"
+"itemlist.text"
+msgid "Compatibility"
+msgstr "இணக்கத்தன்மை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Grid\n"
+"itemlist.text"
+msgid "Grid"
+msgstr "பின்னல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS\n"
+"%PRODUCTNAME Impress\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Impress"
+msgstr "%PRODUCTNAME இம்பிரெஸ்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS\n"
+"General\n"
+"itemlist.text"
+msgid "General"
+msgstr "பொது"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS\n"
+"View\n"
+"itemlist.text"
+msgid "View"
+msgstr "பார்வை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS\n"
+"Grid\n"
+"itemlist.text"
+msgid "Grid"
+msgstr "பின்னல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS\n"
+"%PRODUCTNAME Draw\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Draw"
+msgstr "%PRODUCTNAME டிரோ"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS\n"
+"General\n"
+"itemlist.text"
+msgid "General"
+msgstr "பொது"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS\n"
+"View\n"
+"itemlist.text"
+msgid "View"
+msgstr "பார்வை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS\n"
+"Grid\n"
+"itemlist.text"
+msgid "Grid"
+msgstr "பின்னல்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS\n"
+"Print\n"
+"itemlist.text"
+msgid "Print"
+msgstr "அச்சிடு"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS\n"
+"Charts\n"
+"itemlist.text"
+msgid "Charts"
+msgstr "விளக்கப்படங்கள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS\n"
+"Default Colors\n"
+"itemlist.text"
+msgid "Default Colors"
+msgstr "முன்னிருப்பு நிறங்கள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG\n"
+"Load/Save\n"
+"itemlist.text"
+msgid "Load/Save"
+msgstr "ஏற்று/சேமி"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG\n"
+"General\n"
+"itemlist.text"
+msgid "General"
+msgstr "பொது"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG\n"
+"VBA Properties\n"
+"itemlist.text"
+msgid "VBA Properties"
+msgstr "VBA பண்புகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG\n"
+"Microsoft Office\n"
+"itemlist.text"
+msgid "Microsoft Office"
+msgstr "மைக்ரோசொப்ட் ஓபிஸ்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG\n"
+"HTML Compatibility\n"
+"itemlist.text"
+msgid "HTML Compatibility"
+msgstr "HTML ஒவ்வுமை"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS\n"
+"%PRODUCTNAME Base\n"
+"itemlist.text"
+msgid "%PRODUCTNAME Base"
+msgstr "%PRODUCTNAME பேஸ்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS\n"
+"Connections\n"
+"itemlist.text"
+msgid "Connections"
+msgstr "இணைப்புகள்"
+
+#: treeopt.src
+msgctxt ""
+"treeopt.src\n"
+"RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS\n"
+"Databases\n"
+"itemlist.text"
+msgid "Databases"
+msgstr "தரவுத்தளங்கள்"

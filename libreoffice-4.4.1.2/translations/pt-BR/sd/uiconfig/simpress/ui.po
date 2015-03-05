@@ -1,0 +1,3266 @@
+#. extracted from sd/uiconfig/simpress/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-11-24 18:00-0200\n"
+"Last-Translator: Olivier Hallot <olivier.hallot@libreoffice.org>\n"
+"Language-Team: Brazilian Portuguese <l10n@global.libreoffice.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1386694014.0\n"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"Assistent\n"
+"title\n"
+"string.text"
+msgid "Presentation Wizard"
+msgstr "Assistente de apresentação"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"lastPageButton\n"
+"label\n"
+"string.text"
+msgid "<< _Back"
+msgstr "<<_Voltar"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"nextPage1Button\n"
+"label\n"
+"string.text"
+msgid "_Next >>"
+msgstr "_Próximo >>"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"nextPage2Button\n"
+"label\n"
+"string.text"
+msgid "Next >>"
+msgstr "Próximo >>"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"finishButton\n"
+"label\n"
+"string.text"
+msgid "_Create"
+msgstr "_Criar"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"emptyRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Empty presentation"
+msgstr "Apr_esentação vazia"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"templateRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_From template"
+msgstr "A partir do _modelo"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"openRadiobutton\n"
+"label\n"
+"string.text"
+msgid "O_pen existing presentation"
+msgstr "Abrir uma a_presentação existente"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"openButton\n"
+"label\n"
+"string.text"
+msgid "Open..."
+msgstr "Abrir..."
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"typeLabel\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Tipo"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"layout2Label\n"
+"label\n"
+"string.text"
+msgid "_Select a Slide Design"
+msgstr "_Selecione um modelo de slide"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium5Radiobutton\n"
+"label\n"
+"string.text"
+msgid "_Original"
+msgstr "_Original"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium3Radiobutton\n"
+"label\n"
+"string.text"
+msgid "O_verhead sheet"
+msgstr "T_ransparência"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium4Radiobutton\n"
+"label\n"
+"string.text"
+msgid "P_aper"
+msgstr "P_apel"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium1Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Sc_reen"
+msgstr "Te_la"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium2Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Sli_de"
+msgstr "Sli_de fotográfico"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium6Radiobutton\n"
+"label\n"
+"string.text"
+msgid "W_idescreen"
+msgstr "Tela panorâmica"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"outTypesLabel\n"
+"label\n"
+"string.text"
+msgid "Select an Output Medium"
+msgstr "Selecione uma mídia de saída"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"effectLabel\n"
+"label\n"
+"string.text"
+msgid "_Effect:"
+msgstr "_Efeito:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"speedLabel\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "_Velocidade:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"page3EffectLabel\n"
+"label\n"
+"string.text"
+msgid "Select a Slide Transition"
+msgstr "Selecione uma transição de slide"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"liveRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "Pa_drão"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"kioskRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automática"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"breakLabel\n"
+"label\n"
+"string.text"
+msgid "Du_ration of pause:"
+msgstr "Du_ração da pausa:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"presTimeLabel\n"
+"label\n"
+"string.text"
+msgid "D_uration of page:"
+msgstr "Du_ração da página:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"logoCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Sh_ow logo"
+msgstr "Mostrar _logotipo"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"presTypeLabel\n"
+"label\n"
+"string.text"
+msgid "Select the Presentation Type"
+msgstr "Selecione o tipo de apresentação"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"pageListLabel\n"
+"label\n"
+"string.text"
+msgid "Ch_oose your pages"
+msgstr "Esc_olha suas páginas"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"summaryCheckbutton\n"
+"label\n"
+"string.text"
+msgid "C_reate summary"
+msgstr "Criar _resumo"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"previewCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Previe_w"
+msgstr "_Visualizar"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"startWithCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Do not show this wizard again"
+msgstr "_Não mostrar este assistente novamente"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"askNameLabel\n"
+"label\n"
+"string.text"
+msgid "What is _your name or the name of your company?"
+msgstr "Qual é o seu nome ou o nome da sua empresa?"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"askTopicLabel\n"
+"label\n"
+"string.text"
+msgid "What is _the subject of your presentation?"
+msgstr "Qual é o assun_to da sua apresentação?"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"askInfoLabel\n"
+"label\n"
+"string.text"
+msgid "Further ideas to be presented?"
+msgstr "Há mais ideias a apresentar?"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"personalLabel\n"
+"label\n"
+"string.text"
+msgid "Describe Your Basic Ideas"
+msgstr "Descreva suas ideias básicas"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"entrance\n"
+"label\n"
+"string.text"
+msgid "Entrance"
+msgstr "Entrada"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"emphasis\n"
+"label\n"
+"string.text"
+msgid "Emphasis"
+msgstr "Ênfase"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"exit\n"
+"label\n"
+"string.text"
+msgid "Exit"
+msgstr "Sair"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"motion_paths\n"
+"label\n"
+"string.text"
+msgid "Motion Paths"
+msgstr "Caminhos de movimento"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"misc_effects\n"
+"label\n"
+"string.text"
+msgid "Misc Effects"
+msgstr "Efeitos diversos"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"effect_speed_label\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "_Velocidade:"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "_Automatic preview"
+msgstr "Visualização _automática"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"prop_label1\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "_Direção:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_start\n"
+"label\n"
+"string.text"
+msgid "Accelerated start"
+msgstr "Início acelerado"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_end\n"
+"label\n"
+"string.text"
+msgid "Decelerated end"
+msgstr "Fim desacelerado"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Configurações"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_label\n"
+"label\n"
+"string.text"
+msgid "A_fter animation:"
+msgstr "A_pós animação:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "_Sound:"
+msgstr "_Som:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_label\n"
+"label\n"
+"string.text"
+msgid "_Text animation:"
+msgstr "Animação de _texto:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"dim_color_label\n"
+"label\n"
+"string.text"
+msgid "Di_m color:"
+msgstr "Cor de es_maecimento:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_delay_label\n"
+"label\n"
+"string.text"
+msgid "delay between characters"
+msgstr "atraso entre caracteres"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"0\n"
+"stringlist.text"
+msgid "Don't dim"
+msgstr "Não esmaecer"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"1\n"
+"stringlist.text"
+msgid "Dim with color"
+msgstr "Esmaecer com cor"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"2\n"
+"stringlist.text"
+msgid "Hide after animation"
+msgstr "Ocultar após animação"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"3\n"
+"stringlist.text"
+msgid "Hide on next animation"
+msgstr "Ocultar na próxima animação"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"0\n"
+"stringlist.text"
+msgid "All at once"
+msgstr "Tudo de uma vez"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"1\n"
+"stringlist.text"
+msgid "Word by word"
+msgstr "Palavra por palavra"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"2\n"
+"stringlist.text"
+msgid "Letter by letter"
+msgstr "Letra por letra"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Enhancement"
+msgstr "Aprimoramento"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"CustomAnimationProperties\n"
+"title\n"
+"string.text"
+msgid "Effect Options"
+msgstr "Opções de efeito"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"effect\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efeito"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"timing\n"
+"label\n"
+"string.text"
+msgid "Timing"
+msgstr "Cronometragem"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"textanim\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Animação de texto"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"add_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add Effect"
+msgstr "Adicionar efeito"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"remove_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Effect"
+msgstr "Remover efeito"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"change_effect\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Modify Effect"
+msgstr "Modificar efeito"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_up\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Up"
+msgstr "Mover para cima"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_down\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Down"
+msgstr "Mover para baixo"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"play\n"
+"tooltip_text\n"
+"string.text"
+msgid "Preview Effect"
+msgstr "Visualizar efeito"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Iniciar:"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_property\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "_Direção:"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_speed\n"
+"label\n"
+"string.text"
+msgid "Sp_eed:"
+msgstr "_Velocidade:"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Ao clicar"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Com o anterior"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Depois do anterior"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"more_properties\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_label\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efeito"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic pre_view"
+msgstr "Visualização _automática"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_label\n"
+"label\n"
+"string.text"
+msgid "_Group text:"
+msgstr "A_grupar texto:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"auto_after\n"
+"label\n"
+"string.text"
+msgid "_Automatically after:"
+msgstr "_Automaticamente após:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"0\n"
+"stringlist.text"
+msgid "As one object"
+msgstr "Como um objeto"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"1\n"
+"stringlist.text"
+msgid "All paragraphs at once"
+msgstr "Todos os parágrafos de uma vez"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"2\n"
+"stringlist.text"
+msgid "By 1st level paragraphs"
+msgstr "Pelos parágrafos de 1º nível"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"3\n"
+"stringlist.text"
+msgid "By 2nd level paragraphs"
+msgstr "Pelos parágrafos de 2º nível"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"4\n"
+"stringlist.text"
+msgid "By 3rd level paragraphs"
+msgstr "Pelos parágrafos de 3º nível"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"5\n"
+"stringlist.text"
+msgid "By 4th level paragraphs"
+msgstr "Pelos parágrafos de 4º nível"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"6\n"
+"stringlist.text"
+msgid "By 5th level paragraphs"
+msgstr "Pelos parágrafos de 5º nível"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"animate_shape\n"
+"label\n"
+"string.text"
+msgid "Animate attached _shape"
+msgstr "Animar _forma anexada"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"reverse_order\n"
+"label\n"
+"string.text"
+msgid "_In reverse order"
+msgstr "Na _ordem inversa"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_label\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Iniciar:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"delay_label\n"
+"label\n"
+"string.text"
+msgid "_Delay:"
+msgstr "A_traso:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"duration_label\n"
+"label\n"
+"string.text"
+msgid "S_peed:"
+msgstr "_Velocidade:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"repeat_label\n"
+"label\n"
+"string.text"
+msgid "_Repeat:"
+msgstr "_Repetir:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Ao clicar"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Com o anterior"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Depois do anterior"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rewind\n"
+"label\n"
+"string.text"
+msgid "Rewind _when done playing"
+msgstr "Re_bobinar quando terminar de executar"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_click_sequence\n"
+"label\n"
+"string.text"
+msgid "_Animate as part of click sequence"
+msgstr "_Animar como parte da sequência de cliques"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_interactive\n"
+"label\n"
+"string.text"
+msgid "Start _effect on click of:"
+msgstr "Iniciar _efeito no clique de:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Trigger"
+msgstr "Acionar"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"CustomSlideShows\n"
+"title\n"
+"string.text"
+msgid "Custom Slide Shows"
+msgstr "Apresentações de slides personalizadas"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"copy\n"
+"label\n"
+"string.text"
+msgid "Cop_y"
+msgstr "_Copiar"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"startshow\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "_Iniciar"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"usecustomshows\n"
+"label\n"
+"string.text"
+msgid "_Use custom slide show"
+msgstr "_Utilizar apresentação de slides personalizada"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"DefineCustomSlideShow\n"
+"title\n"
+"string.text"
+msgid "Define Custom Slide Show"
+msgstr "Definir apresentação de slides personalizada"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Nome:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Existing slides:"
+msgstr "Slides _existentes:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Selected slides:"
+msgstr "_Slides selecionados:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid ">>"
+msgstr ">>"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "<<"
+msgstr "<<"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"EditFieldsDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Field"
+msgstr "Editar campo"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"fixedRB\n"
+"label\n"
+"string.text"
+msgid "_Fixed"
+msgstr "_Fixo"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"varRB\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Variável"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Field Type"
+msgstr "Tipo do campo"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Language:"
+msgstr "_Idioma:"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "F_ormat"
+msgstr "F_ormato"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"HeaderFooterDialog\n"
+"title\n"
+"string.text"
+msgid "Header and Footer"
+msgstr "Cabeçalho e rodapé"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"apply_all\n"
+"label\n"
+"string.text"
+msgid "Appl_y to All"
+msgstr "Apl_icar a todos"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"slides\n"
+"label\n"
+"string.text"
+msgid "Slides"
+msgstr "Slides"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes and Handouts"
+msgstr "Notas e folhetos"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_cb\n"
+"label\n"
+"string.text"
+msgid "Heade_r"
+msgstr "Ca_beçalho"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_label\n"
+"label\n"
+"string.text"
+msgid "Header _text:"
+msgstr "_Texto do cabeçalho:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"datetime_cb\n"
+"label\n"
+"string.text"
+msgid "_Date and time"
+msgstr "_Data e hora"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_fixed\n"
+"label\n"
+"string.text"
+msgid "Fi_xed"
+msgstr "Fi_xo"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_auto\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Variável"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label\n"
+"label\n"
+"string.text"
+msgid "_Language:"
+msgstr "_Idioma:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label1\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Formato:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_cb\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "Ro_dapé"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_label\n"
+"label\n"
+"string.text"
+msgid "F_ooter text:"
+msgstr "Text_o do rodapé:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"slide_number\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Número do _slide"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"include_label\n"
+"label\n"
+"string.text"
+msgid "Include on Slide"
+msgstr "Incluir no slide"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"not_on_title\n"
+"label\n"
+"string.text"
+msgid "Do _not show on the first slide"
+msgstr "_Não mostrar no primeiro slide"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_a\n"
+"label\n"
+"string.text"
+msgid "_Page Number"
+msgstr "Número da _página"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_b\n"
+"label\n"
+"string.text"
+msgid "Include on page"
+msgstr "Incluir na página"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"InsertSlidesDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Inserir slides"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "A_ntes"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "_Depois"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Posição"
+
+#: interactiondialog.ui
+msgctxt ""
+"interactiondialog.ui\n"
+"InteractionDialog\n"
+"title\n"
+"string.text"
+msgid "Interaction"
+msgstr "Interação"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Action at mouse click:"
+msgstr "Ação no clique do mouse:"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"fttree\n"
+"label\n"
+"string.text"
+msgid "Target:"
+msgstr "Destino:"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Interaction"
+msgstr "Interação"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Procurar..."
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "_Localizar"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"sound-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Path Name"
+msgstr "Nome do caminho"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"MasterLayoutDialog\n"
+"title\n"
+"string.text"
+msgid "Master Elements"
+msgstr "Elementos do slide mestre"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"header\n"
+"label\n"
+"string.text"
+msgid "_Header"
+msgstr "Ca_beçalho"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "_Date/time"
+msgstr "_Data e hora"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"footer\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "Ro_dapé"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"pagenumber\n"
+"label\n"
+"string.text"
+msgid "_Page number"
+msgstr "Número da _página"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"slidenumber\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "Número do _slide"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"Placeholders\n"
+"label\n"
+"string.text"
+msgid "Placeholders"
+msgstr "Espaços reservados"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"qickedit\n"
+"label\n"
+"string.text"
+msgid "Allow quick editing"
+msgstr "Permitir edição rápida"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"textselected\n"
+"label\n"
+"string.text"
+msgid "Only text area selected"
+msgstr "Somente a área de texto é selecionável"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Text Objects"
+msgstr "Objetos de texto"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"startwithwizard\n"
+"label\n"
+"string.text"
+msgid "Start with _wizard"
+msgstr "Iniciar com o _assistente"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"newdoclbl\n"
+"label\n"
+"string.text"
+msgid "New Document"
+msgstr "Novo documento"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"copywhenmove\n"
+"label\n"
+"string.text"
+msgid "Copy when moving"
+msgstr "Copiar ao mover"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Unit of _measurement:"
+msgstr "Unidade de _medida:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"tapstoplabel\n"
+"label\n"
+"string.text"
+msgid "Ta_b stops:"
+msgstr "Paradas de _tabulação:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"objalwymov\n"
+"label\n"
+"string.text"
+msgid "Objects always moveable"
+msgstr "Objetos sempre móveis"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"distrotcb\n"
+"label\n"
+"string.text"
+msgid "Do not distort objects in curve"
+msgstr "Não distorcer objetos na curva"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"backgroundback\n"
+"label\n"
+"string.text"
+msgid "Use background cache"
+msgstr "Utilizar cache do plano de fundo"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Configurações"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enremotcont\n"
+"label\n"
+"string.text"
+msgid "Enable remote control"
+msgstr "Ativar controle remoto"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enprsntcons\n"
+"label\n"
+"string.text"
+msgid "Enable Presenter Console"
+msgstr "Ativar console do apresentador"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Presentation"
+msgstr "Apresentação"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Drawing scale:"
+msgstr "Escala do _desenho:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"widthlbl\n"
+"label\n"
+"string.text"
+msgid "Page _width:"
+msgstr "La_rgura da página:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"heightlbl\n"
+"label\n"
+"string.text"
+msgid "Page _height:"
+msgstr "_Altura da página:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Scale"
+msgstr "Escala"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"printermetrics\n"
+"label\n"
+"string.text"
+msgid "Us_e printer metrics for document formatting"
+msgstr "Utilizar a_s métricas da impressora na formatação do documento"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"cbCompatibility\n"
+"label\n"
+"string.text"
+msgid "Add _spacing between paragraphs and tables (in current document)"
+msgstr "Adicionar espaçamento entre parágrafos e tabelas (no documento atual)"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compatibility"
+msgstr "Compatibilidade"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"PhotoAlbumCreatorDialog\n"
+"title\n"
+"string.text"
+msgid "Create Photo Album"
+msgstr "Criar álbum de fotografias"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"create_btn\n"
+"label\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Inserir slides"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Remover imagem da lista"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Remover imagem da lista"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Mover imagem para cima"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Mover imagem para cima"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Mover imagem para baixo"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Mover imagem para baixo"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Visualizar"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Slide layout:"
+msgstr "Layout do slide:"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"asr_check\n"
+"label\n"
+"string.text"
+msgid "Keep aspect ratio"
+msgstr "Manter proporções"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "1 Image"
+msgstr "1 imagem"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "2 Images"
+msgstr "2 imagens"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "4 Images"
+msgstr "4 imagens"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"PresentationDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Apresentação de slides"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from\n"
+"label\n"
+"string.text"
+msgid "_From:"
+msgstr "_De:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from_cb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Starting slide"
+msgstr "Slide inicial"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allslides\n"
+"label\n"
+"string.text"
+msgid "All _slides"
+msgstr "Todos os _slides"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"customslideshow\n"
+"label\n"
+"string.text"
+msgid "_Custom slide show:"
+msgstr "_Apresentação de slides personalizada:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Range"
+msgstr "Intervalo"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"presdisplay_label\n"
+"label\n"
+"string.text"
+msgid "P_resentation display:"
+msgstr "Tela de ap_resentação:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"externalmonitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1 (external)"
+msgstr "Tela %1 (externa)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"monitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1"
+msgstr "Tela %1"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allmonitors_str\n"
+"label\n"
+"string.text"
+msgid "All displays"
+msgstr "Todas as telas"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"external_str\n"
+"label\n"
+"string.text"
+msgid "Auto External (Display %1)"
+msgstr "Automático externo (Tela %1)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Multiple Displays"
+msgstr "Múltiplas telas"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "Pa_drão"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"window\n"
+"label\n"
+"string.text"
+msgid "_Window"
+msgstr "_Janela"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "A_utomático"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"showlogo\n"
+"label\n"
+"string.text"
+msgid "Show _logo"
+msgstr "Mostrar _logotipo"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"tooltip_text\n"
+"string.text"
+msgid "Duration of pause"
+msgstr "Duração da pausa"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Pause Duration"
+msgstr "Duração da pausa"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Tipo"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"manualslides\n"
+"label\n"
+"string.text"
+msgid "Change slides _manually"
+msgstr "_Mudar slides manualmente"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointervisible\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer _visible"
+msgstr "Ponteiro do mouse _visível"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointeraspen\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer as _pen"
+msgstr "_Ponteiro do mouse como caneta"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"navigatorvisible\n"
+"label\n"
+"string.text"
+msgid "_Navigator visible"
+msgstr "_Navegador visível"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"animationsallowed\n"
+"label\n"
+"string.text"
+msgid "_Animations allowed"
+msgstr "Permitir _animações"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"changeslidesbyclick\n"
+"label\n"
+"string.text"
+msgid "Change slides by clic_king on background"
+msgstr "Mudar slides ao _clicar no plano de fundo"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"alwaysontop\n"
+"label\n"
+"string.text"
+msgid "Presentation always _on top"
+msgstr "Apresentaçã_o sempre por cima"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opções"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printname\n"
+"label\n"
+"string.text"
+msgid "Slide name"
+msgstr "Nome do slide"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printdatetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "Data e hora"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printhidden\n"
+"label\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "Páginas ocultas"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "Conteúdo"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalcolors\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Tamanho original"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"grayscale\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Escala de cinzas"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"blackandwhite\n"
+"label\n"
+"string.text"
+msgid "Black & white"
+msgstr "Preto & branco"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Cor"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalsize\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Tamanho original"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"fittoprintable\n"
+"label\n"
+"string.text"
+msgid "Fit to printable page"
+msgstr "Ajustar à área de impressão da página"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"distributeonmultiple\n"
+"label\n"
+"string.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Distribuir em várias folhas de papel"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"tilesheet\n"
+"label\n"
+"string.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "Preencher a folha de papel com o slide repetido"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Tamanho"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagenmcb\n"
+"label\n"
+"string.text"
+msgid "_Page name"
+msgstr "Nome da _página"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"datecb\n"
+"label\n"
+"string.text"
+msgid "D_ate"
+msgstr "D_ata"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"timecb\n"
+"label\n"
+"string.text"
+msgid "Ti_me"
+msgstr "_Hora"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"hiddenpgcb\n"
+"label\n"
+"string.text"
+msgid "H_idden pages"
+msgstr "Páginas o_cultas"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"printlbl\n"
+"label\n"
+"string.text"
+msgid "Print"
+msgstr "Imprimir"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagedefaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Padrão"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"fittopgrb\n"
+"label\n"
+"string.text"
+msgid "_Fit to page"
+msgstr "Ajustar à página"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"tilepgrb\n"
+"label\n"
+"string.text"
+msgid "_Tile pages"
+msgstr "Páginas _lado a lado"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"brouchrb\n"
+"label\n"
+"string.text"
+msgid "B_rochure"
+msgstr "Broch_ura"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"papertryfrmprntrcb\n"
+"label\n"
+"string.text"
+msgid "Paper tray from printer s_ettings"
+msgstr "_Bandeja de papel configurada na impressora"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"frontcb\n"
+"label\n"
+"string.text"
+msgid "Fr_ont"
+msgstr "_Frente"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"backcb\n"
+"label\n"
+"string.text"
+msgid "Ba_ck"
+msgstr "_Verso"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Page Options"
+msgstr "Opções da página"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"drawingcb\n"
+"label\n"
+"string.text"
+msgid "Drawing"
+msgstr "Desenho"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"notecb\n"
+"label\n"
+"string.text"
+msgid "Notes"
+msgstr "Notas"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"handoutcb\n"
+"label\n"
+"string.text"
+msgid "Handouts"
+msgstr "Folhetos"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "Estrutura de tópicos"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"contentlbl\n"
+"label\n"
+"string.text"
+msgid "Content"
+msgstr "Conteúdo"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"defaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Padrão"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"grayscalerb\n"
+"label\n"
+"string.text"
+msgid "Gra_yscale"
+msgstr "Escala de cin_zas"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"blackwhiterb\n"
+"label\n"
+"string.text"
+msgid "Black & _white"
+msgstr "Preto e branco"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "Qualidade"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"PublishingDialog\n"
+"title\n"
+"string.text"
+msgid "HTML Export"
+msgstr "Exportar para HTML"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"newDesignRadiobutton\n"
+"label\n"
+"string.text"
+msgid "New _design"
+msgstr "Novo _design"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"oldDesignRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Existing design"
+msgstr "Design existente"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"delDesingButton\n"
+"label\n"
+"string.text"
+msgid "Delete Selected Design"
+msgstr "Excluir design selecionado"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"descLabel\n"
+"label\n"
+"string.text"
+msgid "Select an existing design or create a new one"
+msgstr "Selecione um design existente ou crie um novo"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"assignLabel\n"
+"label\n"
+"string.text"
+msgid "Assign Design"
+msgstr "Atribuir design"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"ASPRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Active Server Pages (ASP)"
+msgstr "_ASP (Active Server Pages)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"perlRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Perl"
+msgstr "Perl"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"indexTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_URL for listeners:"
+msgstr "_URL para os ouvintes:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"URLTxtLabel\n"
+"label\n"
+"string.text"
+msgid "URL for _presentation:"
+msgstr "URL para a a_presentação:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"CGITxtLabel\n"
+"label\n"
+"string.text"
+msgid "URL for _Perl scripts:"
+msgstr "URL para os _scripts Perl:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"webCastLabel\n"
+"label\n"
+"string.text"
+msgid "Webcast"
+msgstr "Webcast"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"chgDefaultRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_As stated in document"
+msgstr "Como est_abelecido no documento"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"chgAutoRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automática"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"durationTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_Slide view time:"
+msgstr "Tempo de exibição do _slide"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"endlessCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Endless"
+msgstr "_Infinito"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"kioskLabel\n"
+"label\n"
+"string.text"
+msgid "Advance Slides"
+msgstr "Avançar slides"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"contentCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Create title page"
+msgstr "Criar página de título"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"notesCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Show notes"
+msgstr "Mostrar notas"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"htmlOptionsLabel\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opções"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"webCastRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_WebCast"
+msgstr "_Webcast"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"kioskRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automática"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"singleDocumentRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Single-document HTML"
+msgstr "Documento único _HTML"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"framesRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Standard HTML with _frames"
+msgstr "HTML padrão com _quadros"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"standardRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Standard H_TML format"
+msgstr "Formato H_TML padrão"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"publicationLabel\n"
+"label\n"
+"string.text"
+msgid "Publication Type"
+msgstr "Tipo de publicação"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"pngRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_PNG"
+msgstr "_PNG"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"gifRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_GIF"
+msgstr "_GIF"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"jpgRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_JPG"
+msgstr "_JPG"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"qualityTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_Quality:"
+msgstr "_Qualidade:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"saveImgAsLabel\n"
+"label\n"
+"string.text"
+msgid "Save Images As"
+msgstr "Salvar imagens como"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"resolution1Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Low (_640 × 480 pixels)"
+msgstr "Baixa resolução (_640 × 480 pixels)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"resolution2Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Medium (_800 × 600 pixels)"
+msgstr "Resolução média (_800 × 600 pixels)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"resolution3Radiobutton\n"
+"label\n"
+"string.text"
+msgid "High (_1024 × 768 pixels)"
+msgstr "Alta resolução (_1024 × 768 pixels)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"monitorResolutionLabel\n"
+"label\n"
+"string.text"
+msgid "Monitor Resolution"
+msgstr "Resolução do monitor"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"sldSoundCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Export sounds when slide advances"
+msgstr "_Exportar sons ao avançar slide"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"hiddenSlidesCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Export _hidden slides"
+msgstr "Exportar slides _ocultos"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"effectsLabel\n"
+"label\n"
+"string.text"
+msgid "Effects"
+msgstr "Efeitos"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"authorTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_Author:"
+msgstr "_Autor:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"emailTxtLabel\n"
+"label\n"
+"string.text"
+msgid "E-_mail address:"
+msgstr "Endereço de e-_mail:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"wwwTxtLabel\n"
+"label\n"
+"string.text"
+msgid "Your hom_epage:"
+msgstr "Sua hom_epage:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"addInformLabel\n"
+"label\n"
+"string.text"
+msgid "Additional _information:"
+msgstr "_Informações adicionais:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"downloadCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Link to a copy of the _original presentation"
+msgstr "_Vincular a uma cópia da apresentação original"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"infTitlePageLabel\n"
+"label\n"
+"string.text"
+msgid "Information for the Title Page"
+msgstr "Informações para a página de título"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"textOnlyCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Text only"
+msgstr "Somente _texto"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"buttonStyleLabel\n"
+"label\n"
+"string.text"
+msgid "Select Button Style"
+msgstr "Selecionar estilo dos botões"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"docColorsRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Apply color scheme from document"
+msgstr "_Aplicar esquema de cores do documento"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"defaultRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Use _browser colors"
+msgstr "Utilizar as _cores do navegador"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"userRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Use custom color scheme"
+msgstr "Utilizar esquema de cores _personalizado"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"vLinkButton\n"
+"label\n"
+"string.text"
+msgid "_Visited Link"
+msgstr "_Vínculo visitado"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"aLinkButton\n"
+"label\n"
+"string.text"
+msgid "Active Li_nk"
+msgstr "Vínculo a_tivo"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"linkButton\n"
+"label\n"
+"string.text"
+msgid "Hyper_link"
+msgstr "Hiper_link"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"textButton\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Texto"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"backButton\n"
+"label\n"
+"string.text"
+msgid "Bac_kground"
+msgstr "Plano de _fundo"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"selectColorLabel\n"
+"label\n"
+"string.text"
+msgid "Select Color Scheme"
+msgstr "Selecionar esquema de cores"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"lastPageButton\n"
+"label\n"
+"string.text"
+msgid "<< Back"
+msgstr "<<_Voltar"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"nextPageButton\n"
+"label\n"
+"string.text"
+msgid "Ne_xt >>"
+msgstr "_Próximo >>"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"finishButton\n"
+"label\n"
+"string.text"
+msgid "_Create"
+msgstr "_Criar"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"RemoteDialog\n"
+"title\n"
+"string.text"
+msgid "Impress Remote"
+msgstr "Controle remoto do Impress"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Connections"
+msgstr "Conexões"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"ruler\n"
+"label\n"
+"string.text"
+msgid "_Rulers visible"
+msgstr "_Réguas visíveis"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"dragstripes\n"
+"label\n"
+"string.text"
+msgid "_Snap Lines when moving"
+msgstr "Linhas de encai_xe ao mover"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"handlesbezier\n"
+"label\n"
+"string.text"
+msgid "_All control points in Bézier editor"
+msgstr "_Todos os pontos de controle no editor Bézier"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"moveoutline\n"
+"label\n"
+"string.text"
+msgid "_Contour of each individual object"
+msgstr "_Contorno de cada objeto individual"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Display"
+msgstr "Exibir"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"SlideDesignDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Design"
+msgstr "Modelos de slides"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"masterpage\n"
+"label\n"
+"string.text"
+msgid "_Exchange background page"
+msgstr "_Trocar página do plano de fundo"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"checkmasters\n"
+"label\n"
+"string.text"
+msgid "_Delete unused backgrounds"
+msgstr "_Excluir planos de fundo não utilizados"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a Slide Design"
+msgstr "Selecione um modelo de slide"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"load\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "_Carregar..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Apply to Selected Slides"
+msgstr "Aplicar aos slides selecionados"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_label\n"
+"label\n"
+"string.text"
+msgid "Speed:"
+msgstr "Velocidade:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"0\n"
+"stringlist.text"
+msgid "Slow"
+msgstr "Lenta"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"1\n"
+"stringlist.text"
+msgid "Medium"
+msgstr "Média"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"2\n"
+"stringlist.text"
+msgid "Fast"
+msgstr "Rápida"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "Sound:"
+msgstr "Som:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"0\n"
+"stringlist.text"
+msgid "No sound"
+msgstr "Sem som"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"1\n"
+"stringlist.text"
+msgid "Stop previous sound"
+msgstr "Parar som anterior"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"2\n"
+"stringlist.text"
+msgid "Other sound..."
+msgstr "Outro som..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"loop_sound\n"
+"label\n"
+"string.text"
+msgid "Loop until next sound"
+msgstr "Repetir até ao próximo som"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify Transition"
+msgstr "Modificar transição"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_mouse_click\n"
+"label\n"
+"string.text"
+msgid "On mouse click"
+msgstr "Ao clicar no mouse"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_auto_after\n"
+"label\n"
+"string.text"
+msgid "Automatically after:"
+msgstr "Automaticamente após:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Advance Slide"
+msgstr "Avançar slide"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"apply_to_all\n"
+"label\n"
+"string.text"
+msgid "Apply to All Slides"
+msgstr "Aplicar a todos os slides"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"play\n"
+"label\n"
+"string.text"
+msgid "Play"
+msgstr "Reproduzir"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"slide_show\n"
+"label\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Apresentação de slides"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic preview"
+msgstr "Visualização automática"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Header row"
+msgstr "Lin_ha de cabeçalho"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastRowStyle\n"
+"label\n"
+"string.text"
+msgid "Tot_al row"
+msgstr "Linh_a de total"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Banded rows"
+msgstr "Linhas _coloridas"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Fi_rst column"
+msgstr "P_rimeira coluna"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastColumnStyle\n"
+"label\n"
+"string.text"
+msgid "_Last column"
+msgstr "Última co_luna"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Ba_nded columns"
+msgstr "Colu_nas coloridas"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Image Styles"
+msgstr "Estilos de imagem"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "_Standard"
+msgstr "_Padrão"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"organizer\n"
+"label\n"
+"string.text"
+msgid "Organizer"
+msgstr "Organizador"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"line\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "Linha"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"area\n"
+"label\n"
+"string.text"
+msgid "Area"
+msgstr "Área"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"shadowing\n"
+"label\n"
+"string.text"
+msgid "Shadowing"
+msgstr "Sombras"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"transparency\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "Transparência"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Fonte"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"fonteffect\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Efeitos da fonte"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"indents\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Recuos e espaçamento"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Texto"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"animation\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Animação de texto"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"dimensioning\n"
+"label\n"
+"string.text"
+msgid "Dimensioning"
+msgstr "Cotação"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"connector\n"
+"label\n"
+"string.text"
+msgid "Connector"
+msgstr "Conector"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Alinhamento"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"asiantypo\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Tipografia asiática"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"tabs\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabulações"

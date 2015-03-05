@@ -1,0 +1,4081 @@
+#. extracted from svtools/source/misc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-04-15 11:55+0000\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1366026938.0\n"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SOURCEFILE\n"
+"string.text"
+msgid "Source code"
+msgstr "မူရင်းကုဒ်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_BOOKMARKFILE\n"
+"string.text"
+msgid "Bookmark file"
+msgstr "စာညှပ်ဖိုင် "
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_GRAPHIC_DOC\n"
+"string.text"
+msgid "Graphics"
+msgstr "ရုပ်ပုံဒီဇိုင်း"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_CFGFILE\n"
+"string.text"
+msgid "Configuration file"
+msgstr "ဖိုင်အစိတ်အပိုင်းများဖွဲ့စည်းပုံ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_APPLICATION\n"
+"string.text"
+msgid "Application"
+msgstr "အသုံးပြုပရိုဂရမ်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_DATABASE_TABLE\n"
+"string.text"
+msgid "Database table"
+msgstr "ဒေတာဘေ့စ်ဇယား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SYSFILE\n"
+"string.text"
+msgid "System file"
+msgstr "စနစ်ဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_WORD_DOC\n"
+"string.text"
+msgid "MS Word document"
+msgstr "MS Word မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_HELP_DOC\n"
+"string.text"
+msgid "Help file"
+msgstr "အကူဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_HTMLFILE\n"
+"string.text"
+msgid "HTML document"
+msgstr "HTML မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_ARCHIVFILE\n"
+"string.text"
+msgid "Archive file"
+msgstr "ဖိသိပ်သိုလှောင်ထားသည့်ဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_LOGFILE\n"
+"string.text"
+msgid "Log file"
+msgstr "ကွန်ပျူတာမှတ်တမ်းဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SDATABASE_DOC\n"
+"string.text"
+msgid "StarOffice Database"
+msgstr "StarOffice 5.0 ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_GLOBALDOC\n"
+"string.text"
+msgid "StarWriter 4.0 / 5.0 Master Document"
+msgstr "StarWriter 4.0 / 5.0 ပင်မ မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SIMAGE_DOC\n"
+"string.text"
+msgid "StarOffice Image"
+msgstr "StarOffice 5.0 ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_TEXTFILE\n"
+"string.text"
+msgid "Text file"
+msgstr "စာသားဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_LINK\n"
+"string.text"
+msgid "Link"
+msgstr "ကွင်းဆက်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SOFFICE_TEMPLATE_DOC\n"
+"string.text"
+msgid "StarOffice 3.0 - 5.0 Template"
+msgstr "StarOffice 5.0 ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_EXCEL_DOC\n"
+"string.text"
+msgid "MS Excel document"
+msgstr "MS Excel မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_EXCEL_TEMPLATE_DOC\n"
+"string.text"
+msgid "MS Excel template"
+msgstr "MS Excel ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_BATCHFILE\n"
+"string.text"
+msgid "Batch file"
+msgstr "အစီအစဉ်လိုက်ဆောင်ရွက်ပေးသောအစုဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FILE\n"
+"string.text"
+msgid "File"
+msgstr "ဖိုင်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "ဖိုင်တွဲ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_WRITER\n"
+"string.text"
+msgid "Text Document"
+msgstr "မှတ်တမ်းမှတ်ရာ စာသား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_CALC\n"
+"string.text"
+msgid "Spreadsheet"
+msgstr "စာရွက်အချပ်လွှာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_IMPRESS\n"
+"string.text"
+msgid "Presentation"
+msgstr "တင်ဆက်မှုပုံစံ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "ပုံဆွဲခြင်း"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_WRITERWEB\n"
+"string.text"
+msgid "HTML document"
+msgstr "HTML မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_GLOBALDOC\n"
+"string.text"
+msgid "Master document"
+msgstr "ပင်မ မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_MATH\n"
+"string.text"
+msgid "Formula"
+msgstr "ပုံသေနည်း"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FACTORY_DATABASE\n"
+"string.text"
+msgid "Database"
+msgstr "ဒေတာဘေ့စ်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_CALC_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Spreadsheet Template"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_DRAW_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Drawing Template"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_IMPRESS_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Presentation Template"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_WRITER_TEMPLATE\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Text Document Template"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_LOCALE_VOLUME\n"
+"string.text"
+msgid "Local drive"
+msgstr "အတွင်းရှိဒရိုက်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_FLOPPY_VOLUME\n"
+"string.text"
+msgid "Disk drive"
+msgstr "ဒစ်ခ်ဒရိုက်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_CDROM_VOLUME\n"
+"string.text"
+msgid "CD-ROM drive"
+msgstr "စီဒီရွမ်ဒရိုက်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_REMOTE_VOLUME\n"
+"string.text"
+msgid "Network connection"
+msgstr "ကွန်ရက်စနစ် ချိတ်ဆက်မှု"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_POWERPOINT\n"
+"string.text"
+msgid "MS PowerPoint Document"
+msgstr "MS PowerPoint မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_POWERPOINT_TEMPLATE\n"
+"string.text"
+msgid "MS PowerPoint Template"
+msgstr "MS PowerPoint ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_POWERPOINT_SHOW\n"
+"string.text"
+msgid "MS PowerPoint Show"
+msgstr "MS PowerPoint ပြသည်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXMATH_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Formula"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXCHART_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Chart"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXDRAW_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Drawing"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXCALC_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Spreadsheet"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXIMPRESS_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Presentation"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXWRITER_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Text Document"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_SXGLOBAL_DOC\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Master Document"
+msgstr ""
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_MATHML_DOC\n"
+"string.text"
+msgid "MathML Document"
+msgstr "MathML မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_DATABASE_DOC\n"
+"string.text"
+msgid "OpenDocument Database"
+msgstr "OpenDocument ဒေတာဘေ့စ်"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_DRAW_DOC\n"
+"string.text"
+msgid "OpenDocument Drawing"
+msgstr "OpenDocument ပုံဆွဲခြင်း"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_MATH_DOC\n"
+"string.text"
+msgid "OpenDocument Formula"
+msgstr "OpenDocument ပုံသေနည်း"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_GLOBAL_DOC\n"
+"string.text"
+msgid "OpenDocument Master Document"
+msgstr "OpenDocument ပင်မ မှတ်တမ်းမှတ်ရာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_IMPRESS_DOC\n"
+"string.text"
+msgid "OpenDocument Presentation"
+msgstr "OpenDocument တင်ဆက်မှုပုံစံ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_CALC_DOC\n"
+"string.text"
+msgid "OpenDocument Spreadsheet"
+msgstr "OpenDocument စာရွက်အချပ်လွှာ"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_WRITER_DOC\n"
+"string.text"
+msgid "OpenDocument Text"
+msgstr "OpenDocument စာသား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_CALC_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Spreadsheet Template"
+msgstr "OpenDocument စာရွက်အချပ်လွှာ ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_DRAW_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Drawing Template"
+msgstr "OpenDocument ပုံဆွဲခြင်း ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_IMPRESS_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Presentation Template"
+msgstr "OpenDocument တင်ဆက်မှု ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_OO_WRITER_TEMPLATE\n"
+"string.text"
+msgid "OpenDocument Text Template"
+msgstr "OpenDocument စာသား ပုံစံပြား"
+
+#: imagemgr.src
+msgctxt ""
+"imagemgr.src\n"
+"STR_DESCRIPTION_EXTENSION\n"
+"string.text"
+msgid "%PRODUCTNAME Extension"
+msgstr "%PRODUCTNAME တိုးချဲ့မှု"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NONE\n"
+"pairedlist.text"
+msgid "[None]"
+msgstr "(ဘာမျှမရှိပါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DONTKNOW\n"
+"pairedlist.text"
+msgid "Unknown"
+msgstr "မသိပါ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SYSTEM\n"
+"pairedlist.text"
+msgid "Default"
+msgstr "နဂိုမူလ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SYSTEM_CONFIG\n"
+"pairedlist.text"
+msgid "Default"
+msgstr "နဂိုမူလ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AFRIKAANS\n"
+"pairedlist.text"
+msgid "Afrikaans (South Africa)"
+msgstr "အာဖရိကန်(တောင်အာဖရိက)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ALBANIAN\n"
+"pairedlist.text"
+msgid "Albanian"
+msgstr "အဲဘေးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_PRIMARY_ONLY\n"
+"pairedlist.text"
+msgid "Arabic"
+msgstr "အာရဗစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_ALGERIA\n"
+"pairedlist.text"
+msgid "Arabic (Algeria)"
+msgstr "အာရဗစ်(အဲဂျေးရီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_BAHRAIN\n"
+"pairedlist.text"
+msgid "Arabic (Bahrain)"
+msgstr "အာရဗစ်(ဘာရိမ်း)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_CHAD\n"
+"pairedlist.text"
+msgid "Arabic (Chad)"
+msgstr "အာရဗစ် (ချက်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_COMOROS\n"
+"pairedlist.text"
+msgid "Arabic (Comoros)"
+msgstr "အာရဗစ် (ခိုမိုရိုစ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_DJIBOUTI\n"
+"pairedlist.text"
+msgid "Arabic (Djibouti)"
+msgstr "အာရဗစ် (ဒီဂျီဘောတီ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_EGYPT\n"
+"pairedlist.text"
+msgid "Arabic (Egypt)"
+msgstr "အာရဗစ်(အီဂျစ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_ERITREA\n"
+"pairedlist.text"
+msgid "Arabic (Eritrea)"
+msgstr "အာရဗစ် (အီသီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_IRAQ\n"
+"pairedlist.text"
+msgid "Arabic (Iraq)"
+msgstr "အာရဗစ်(အီရတ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_ISRAEL\n"
+"pairedlist.text"
+msgid "Arabic (Israel)"
+msgstr "အာရဗစ် (အစ်စရေး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_JORDAN\n"
+"pairedlist.text"
+msgid "Arabic (Jordan)"
+msgstr "အာရဗစ်(ဂျော်ဒန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_KUWAIT\n"
+"pairedlist.text"
+msgid "Arabic (Kuwait)"
+msgstr "အာရဗစ်(ကူဝိတ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_LEBANON\n"
+"pairedlist.text"
+msgid "Arabic (Lebanon)"
+msgstr "အာရဗစ်(လဘနွန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_LIBYA\n"
+"pairedlist.text"
+msgid "Arabic (Libya)"
+msgstr "အာရဗစ်(လစ်ဗျား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_MAURITANIA\n"
+"pairedlist.text"
+msgid "Arabic (Mauritania)"
+msgstr "အာရဗစ် (မောရီတနီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_MOROCCO\n"
+"pairedlist.text"
+msgid "Arabic (Morocco)"
+msgstr "အာရဗစ်(မော်ရကို)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_OMAN\n"
+"pairedlist.text"
+msgid "Arabic (Oman)"
+msgstr "အာရဗစ်(အိုမန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_PALESTINE\n"
+"pairedlist.text"
+msgid "Arabic (Palestine)"
+msgstr "အာရဗစ် (ပါလက်စတိုင်း)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_QATAR\n"
+"pairedlist.text"
+msgid "Arabic (Qatar)"
+msgstr "အာရဗစ်(ကာတာ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_SAUDI_ARABIA\n"
+"pairedlist.text"
+msgid "Arabic (Saudi Arabia)"
+msgstr "အာရဗစ်(ဆောဒီအာရေးဗီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_SOMALIA\n"
+"pairedlist.text"
+msgid "Arabic (Somalia)"
+msgstr "အာရဗစ် (ဆိုမာလီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARABIC_SUDAN\n"
+"pairedlist.text"
+msgid "Arabic (Sudan)"
+msgstr "အာရဗစ် (ဆူဒန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_SYRIA\n"
+"pairedlist.text"
+msgid "Arabic (Syria)"
+msgstr "အာရဗစ်(ဆီရီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_TUNISIA\n"
+"pairedlist.text"
+msgid "Arabic (Tunisia)"
+msgstr "အာရဗစ်(တူနီဆီးရား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_UAE\n"
+"pairedlist.text"
+msgid "Arabic (UAE)"
+msgstr "အာရဗစ်(ယူအေအီး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARABIC_YEMEN\n"
+"pairedlist.text"
+msgid "Arabic (Yemen)"
+msgstr "အာရဗစ်(ရဲမန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ARAGONESE\n"
+"pairedlist.text"
+msgid "Aragonese"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ARMENIAN\n"
+"pairedlist.text"
+msgid "Armenian"
+msgstr "အာမေးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ASSAMESE\n"
+"pairedlist.text"
+msgid "Assamese"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AZERI_LATIN\n"
+"pairedlist.text"
+msgid "Azerbaijani Latin"
+msgstr "အေဇာဘဂျနီ လက်တင်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AZERI_CYRILLIC\n"
+"pairedlist.text"
+msgid "Azerbaijani Cyrillic"
+msgstr "အေဇာဘဂျနီ ဆီးရီးလစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BASQUE\n"
+"pairedlist.text"
+msgid "Basque"
+msgstr "ဘက်စ်ကျူ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BENGALI\n"
+"pairedlist.text"
+msgid "Bengali (India)"
+msgstr "ဘင်္ဂါလီ(အိန္ဒိယ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BULGARIAN\n"
+"pairedlist.text"
+msgid "Bulgarian"
+msgstr "ဘာဂါရီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BELARUSIAN\n"
+"pairedlist.text"
+msgid "Belarusian"
+msgstr "ဘလာရုဆီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CATALAN\n"
+"pairedlist.text"
+msgid "Catalan"
+msgstr "ကတလန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CATALAN_VALENCIAN\n"
+"pairedlist.text"
+msgid "Catalan (Valencian)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_TRADITIONAL\n"
+"pairedlist.text"
+msgid "Chinese (traditional)"
+msgstr "တရုတ်(ရိုးရာ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_SIMPLIFIED\n"
+"pairedlist.text"
+msgid "Chinese (simplified)"
+msgstr "တရုတ်(ရိုးရိုး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_HONGKONG\n"
+"pairedlist.text"
+msgid "Chinese (Hong Kong)"
+msgstr "တရုတ်(ဟောင်ကောင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_SINGAPORE\n"
+"pairedlist.text"
+msgid "Chinese (Singapore)"
+msgstr "တရုတ်(စင်္ကာပူ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CHINESE_MACAU\n"
+"pairedlist.text"
+msgid "Chinese (Macau)"
+msgstr "တရုတ်(မက်ကော)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CROATIAN\n"
+"pairedlist.text"
+msgid "Croatian"
+msgstr "ခရိုအေတီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_CZECH\n"
+"pairedlist.text"
+msgid "Czech"
+msgstr "ချက်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DANISH\n"
+"pairedlist.text"
+msgid "Danish"
+msgstr "ဒက်နစ်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DUTCH\n"
+"pairedlist.text"
+msgid "Dutch (Netherlands)"
+msgstr "ဒတ်ခ်ျ (နယ်သာလန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DUTCH_BELGIAN\n"
+"pairedlist.text"
+msgid "Dutch (Belgium)"
+msgstr "ဒတ်ခ်ျ(ဘယ်ဂျီယန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_US\n"
+"pairedlist.text"
+msgid "English (USA)"
+msgstr "အင်္ဂလိပ်(ယူအက်စ်အေ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_UK\n"
+"pairedlist.text"
+msgid "English (UK)"
+msgstr "အင်္ဂလိပ်(ယူကေ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_UK_OED\n"
+"pairedlist.text"
+msgid "English, OED spelling (UK)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_AUS\n"
+"pairedlist.text"
+msgid "English (Australia)"
+msgstr "အင်္ဂလိပ်(ဩစတေးလျ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_CAN\n"
+"pairedlist.text"
+msgid "English (Canada)"
+msgstr "အင်္ဂလိပ်(ကနေဒါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_NZ\n"
+"pairedlist.text"
+msgid "English (New Zealand)"
+msgstr "အင်္ဂလိပ်(နယူးဇီလန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_EIRE\n"
+"pairedlist.text"
+msgid "English (Ireland)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_SAFRICA\n"
+"pairedlist.text"
+msgid "English (South Africa)"
+msgstr "အင်္ဂလိပ်(တောင်အာဖရိက)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_JAMAICA\n"
+"pairedlist.text"
+msgid "English (Jamaica)"
+msgstr "အင်္ဂလိပ်(ဂျမေကာ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_CARRIBEAN\n"
+"pairedlist.text"
+msgid "English (Caribbean)"
+msgstr "အင်္ဂလိပ်(ကာရီဘီယန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_BELIZE\n"
+"pairedlist.text"
+msgid "English (Belize)"
+msgstr "အင်္ဂလိပ်(ဘဲလီဇီ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_TRINIDAD\n"
+"pairedlist.text"
+msgid "English (Trinidad)"
+msgstr "အင်္ဂလိပ်(ထရီနီဒတ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_ZIMBABWE\n"
+"pairedlist.text"
+msgid "English (Zimbabwe)"
+msgstr "အင်္ဂလိပ်(ဇင်ဘာဘွေ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_PHILIPPINES\n"
+"pairedlist.text"
+msgid "English (Philippines)"
+msgstr "အင်္ဂလိပ်(ဖိလစ်ပိုင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ENGLISH_INDIA\n"
+"pairedlist.text"
+msgid "English (India)"
+msgstr "အင်္ဂလိပ်(အိန္ဒိယ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ESTONIAN\n"
+"pairedlist.text"
+msgid "Estonian"
+msgstr "အက်စတိုနီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FINNISH\n"
+"pairedlist.text"
+msgid "Finnish"
+msgstr "ဖစ်နစ်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FAEROESE\n"
+"pairedlist.text"
+msgid "Faroese"
+msgstr "ဖာရိုစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FARSI\n"
+"pairedlist.text"
+msgid "Persian"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH\n"
+"pairedlist.text"
+msgid "French (France)"
+msgstr "ပြင်သစ်(ဖရန့်စ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_BELGIAN\n"
+"pairedlist.text"
+msgid "French (Belgium)"
+msgstr "ပြင်သစ်(ဘယ်လဂျီယန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_CANADIAN\n"
+"pairedlist.text"
+msgid "French (Canada)"
+msgstr "ပြင်သစ်(ကနေဒါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_SWISS\n"
+"pairedlist.text"
+msgid "French (Switzerland)"
+msgstr "ပြင်သစ်(ဆွစ်ဇလန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_LUXEMBOURG\n"
+"pairedlist.text"
+msgid "French (Luxembourg)"
+msgstr "ပြင်သစ်(လူဇမ်ဘက်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_MONACO\n"
+"pairedlist.text"
+msgid "French (Monaco)"
+msgstr "ပြင်သစ်(မိုနာကို)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GASCON\n"
+"pairedlist.text"
+msgid "Gascon"
+msgstr "ဂက်စ်ကွန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN\n"
+"pairedlist.text"
+msgid "German (Germany)"
+msgstr "ဂျာမန်(ဂျာမနီ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_SWISS\n"
+"pairedlist.text"
+msgid "German (Switzerland)"
+msgstr "ဂျာမန်(ဆွစ်ဇလန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_AUSTRIAN\n"
+"pairedlist.text"
+msgid "German (Austria)"
+msgstr "ဂျာမန်(ဩစတေးလျ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_LUXEMBOURG\n"
+"pairedlist.text"
+msgid "German (Luxembourg)"
+msgstr "ဂျာမန်(လူဇန်ဘက်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GERMAN_LIECHTENSTEIN\n"
+"pairedlist.text"
+msgid "German (Liechtenstein)"
+msgstr "ဂျာမန်(လိုင်ခ်ျတန်တိန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GREEK\n"
+"pairedlist.text"
+msgid "Greek"
+msgstr "ဂရိ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GUJARATI\n"
+"pairedlist.text"
+msgid "Gujarati"
+msgstr "ဂူဂျာရတီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HEBREW\n"
+"pairedlist.text"
+msgid "Hebrew"
+msgstr "ဟီဘရူး"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HINDI\n"
+"pairedlist.text"
+msgid "Hindi"
+msgstr "ဟင်ဒီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HUNGARIAN\n"
+"pairedlist.text"
+msgid "Hungarian"
+msgstr "ဟောဂေးရီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ICELANDIC\n"
+"pairedlist.text"
+msgid "Icelandic"
+msgstr "အန္တလန်တစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_INDONESIAN\n"
+"pairedlist.text"
+msgid "Indonesian"
+msgstr "အင်ဒိုနီးရှား"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ITALIAN\n"
+"pairedlist.text"
+msgid "Italian (Italy)"
+msgstr "အီတလီလျန်(အီတလီ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ITALIAN_SWISS\n"
+"pairedlist.text"
+msgid "Italian (Switzerland)"
+msgstr "အီတလီလျန် (ဆွစ်ဇလန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_JAPANESE\n"
+"pairedlist.text"
+msgid "Japanese"
+msgstr "ဂျပန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KANNADA\n"
+"pairedlist.text"
+msgid "Kannada"
+msgstr "ကနေဒါ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KASHMIRI\n"
+"pairedlist.text"
+msgid "Kashmiri (Kashmir)"
+msgstr "ကတ်ခ်ျမီရီ(ကတ်ခ်ျမီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KASHMIRI_INDIA\n"
+"pairedlist.text"
+msgid "Kashmiri (India)"
+msgstr "ကတ်ခ်ျမီရီ(အိန္တိယ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KAZAKH\n"
+"pairedlist.text"
+msgid "Kazakh"
+msgstr "ကဇက်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KONKANI\n"
+"pairedlist.text"
+msgid "Konkani"
+msgstr "ကွန်ကာနီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KOREAN\n"
+"pairedlist.text"
+msgid "Korean (RoK)"
+msgstr "ကိုရီးယား(ရော့ခ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LATVIAN\n"
+"pairedlist.text"
+msgid "Latvian"
+msgstr "လာဗီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LITHUANIAN\n"
+"pairedlist.text"
+msgid "Lithuanian"
+msgstr "လီသူနေးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MACEDONIAN\n"
+"pairedlist.text"
+msgid "Macedonian"
+msgstr "မက်ဆီဒိုးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALAY_MALAYSIA\n"
+"pairedlist.text"
+msgid "Malay (Malaysia)"
+msgstr "မလေး(မလေးရှား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALAY_BRUNEI_DARUSSALAM\n"
+"pairedlist.text"
+msgid "Malay (Brunei Darussalam)"
+msgstr "မလေး (ဘရူနိုင်း ဒါရုဆလင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALAYALAM\n"
+"pairedlist.text"
+msgid "Malayalam"
+msgstr "မလေးအလမ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MANIPURI\n"
+"pairedlist.text"
+msgid "Manipuri"
+msgstr "မနီပျူရီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MARATHI\n"
+"pairedlist.text"
+msgid "Marathi"
+msgstr "မာရာသီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NEPALI\n"
+"pairedlist.text"
+msgid "Nepali (Nepal)"
+msgstr "နီပလီ(နီပေါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NEPALI_INDIA\n"
+"pairedlist.text"
+msgid "Nepali (India)"
+msgstr "နီပလီ(အိန္ဒိယ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NORWEGIAN_BOKMAL\n"
+"pairedlist.text"
+msgid "Norwegian, Bokmål"
+msgstr "နော်ဝေဂျီယန်၊ ဘော့မဲ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_NORWEGIAN_NYNORSK\n"
+"pairedlist.text"
+msgid "Norwegian, Nynorsk"
+msgstr "နော်ဝေဂျီယန်၊ နီနော့"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ODIA\n"
+"pairedlist.text"
+msgid "Odia"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_POLISH\n"
+"pairedlist.text"
+msgid "Polish"
+msgstr "ပိုလစ်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PORTUGUESE_ANGOLA\n"
+"pairedlist.text"
+msgid "Portuguese (Angola)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PORTUGUESE\n"
+"pairedlist.text"
+msgid "Portuguese (Portugal)"
+msgstr "ပေါ်တူဂီ(ပေါ်တူဂယ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PORTUGUESE_BRAZILIAN\n"
+"pairedlist.text"
+msgid "Portuguese (Brazil)"
+msgstr "ပေါ်တူဂီ(ဘရာဇီး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PUNJABI\n"
+"pairedlist.text"
+msgid "Punjabi"
+msgstr "ပန်ချာဘီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_RHAETO_ROMAN\n"
+"pairedlist.text"
+msgid "Rhaeto-Romance"
+msgstr "ရဟေတို-ရောမ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ROMANIAN\n"
+"pairedlist.text"
+msgid "Romanian (Romania)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ROMANIAN_MOLDOVA\n"
+"pairedlist.text"
+msgid "Romanian (Moldova)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_RUSSIAN\n"
+"pairedlist.text"
+msgid "Russian"
+msgstr "ရှရား"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SANSKRIT\n"
+"pairedlist.text"
+msgid "Sanskrit"
+msgstr "ဆန်းစကစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SERBIAN_CYRILLIC_SAM\n"
+"pairedlist.text"
+msgid "Serbian Cyrillic (Serbia and Montenegro)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SERBIAN_LATIN_SAM\n"
+"pairedlist.text"
+msgid "Serbian Latin (Serbia and Montenegro)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_CYRILLIC_SERBIA\n"
+"pairedlist.text"
+msgid "Serbian Cyrillic (Serbia)"
+msgstr "ဆာဗီယန်း ဆီးရီးလစ် (ဆာဗီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_LATIN_SERBIA\n"
+"pairedlist.text"
+msgid "Serbian Latin (Serbia)"
+msgstr "ဆာဗီယန်း လက်တင် (ဆာဗီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_CYRILLIC_MONTENEGRO\n"
+"pairedlist.text"
+msgid "Serbian Cyrillic (Montenegro)"
+msgstr "ဆာဗီယန်း ဆီးရီးလစ် (မွန်တီနီဂရိုး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SERBIAN_LATIN_MONTENEGRO\n"
+"pairedlist.text"
+msgid "Serbian Latin (Montenegro)"
+msgstr "ဆာဗီယန်း လက်တင် (မွန်တီနီဂရိုး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SERBIAN_LATIN_LSO\n"
+"pairedlist.text"
+msgid "Serbian Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SIDAMA\n"
+"pairedlist.text"
+msgid "Sidama"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SINDHI\n"
+"pairedlist.text"
+msgid "Sindhi"
+msgstr "စင်ဒီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SLOVAK\n"
+"pairedlist.text"
+msgid "Slovak"
+msgstr "ဆလိုဗက်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SLOVENIAN\n"
+"pairedlist.text"
+msgid "Slovenian"
+msgstr "ဆလိုဗေးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH\n"
+"pairedlist.text"
+msgid "Spanish (Spain)"
+msgstr "စပိန်နစ်ခ်ျ (စပိန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_MEXICAN\n"
+"pairedlist.text"
+msgid "Spanish (Mexico)"
+msgstr "စပိန်နစ်ခ်ျ (မက်ဆီကို)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_GUATEMALA\n"
+"pairedlist.text"
+msgid "Spanish (Guatemala)"
+msgstr "စပိန်နစ်ခ်ျ (ဂေါတီမာလ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_COSTARICA\n"
+"pairedlist.text"
+msgid "Spanish (Costa Rica)"
+msgstr "စပိန်နစ်ခ်ျ (ကော့စတာ ရီကာ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PANAMA\n"
+"pairedlist.text"
+msgid "Spanish (Panama)"
+msgstr "စပိန်နစ်ခ်ျ (ပနားမား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_DOMINICAN_REPUBLIC\n"
+"pairedlist.text"
+msgid "Spanish (Dom. Rep.)"
+msgstr "စပိန်နစ်ခ်ျ (ဒမ် ရပ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_VENEZUELA\n"
+"pairedlist.text"
+msgid "Spanish (Venezuela)"
+msgstr "စပိန်နစ်ခ်ျ (ဗင်နီဇွဲလား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_COLOMBIA\n"
+"pairedlist.text"
+msgid "Spanish (Colombia)"
+msgstr "စပိန်နစ်ခ်ျ (ကိုလမ်ဘီယာ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PERU\n"
+"pairedlist.text"
+msgid "Spanish (Peru)"
+msgstr "စပိန်နစ်ခ်ျ (ပီရူး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_ARGENTINA\n"
+"pairedlist.text"
+msgid "Spanish (Argentina)"
+msgstr "စပိန်နစ်ခ်ျ (အာဂျင်တီးနား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_ECUADOR\n"
+"pairedlist.text"
+msgid "Spanish (Ecuador)"
+msgstr "စပိန်နစ်ခ်ျ (အီကူအေဒါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_CHILE\n"
+"pairedlist.text"
+msgid "Spanish (Chile)"
+msgstr "စပိန်နစ်ခ်ျ (ချီလီ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_URUGUAY\n"
+"pairedlist.text"
+msgid "Spanish (Uruguay)"
+msgstr "စပိန်နစ်ခ်ျ (ဥရုဂွေး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PARAGUAY\n"
+"pairedlist.text"
+msgid "Spanish (Paraguay)"
+msgstr "စပိန်နစ်ခ်ျ (ပါရာဂွေး)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_BOLIVIA\n"
+"pairedlist.text"
+msgid "Spanish (Bolivia)"
+msgstr "စပိန်နစ်ခ်ျ (ဘောဗီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_EL_SALVADOR\n"
+"pairedlist.text"
+msgid "Spanish (El Salvador)"
+msgstr "စပိန်နစ်ခ်ျ (အီးအိုင် ဆာဗေးဒါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_HONDURAS\n"
+"pairedlist.text"
+msgid "Spanish (Honduras)"
+msgstr "စပိန်နစ်ခ်ျ (ဟွန်ဒူရက်စ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_NICARAGUA\n"
+"pairedlist.text"
+msgid "Spanish (Nicaragua)"
+msgstr "စပိန်နစ်ခ်ျ (နီကာရဂူရ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SPANISH_PUERTO_RICO\n"
+"pairedlist.text"
+msgid "Spanish (Puerto Rico)"
+msgstr "စပိန်နစ်ခ်ျ (ပရက်တို ရီကို)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SWAHILI\n"
+"pairedlist.text"
+msgid "Swahili (Kenya)"
+msgstr "ဆွာဟီလီ(ကင်ညာ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SWEDISH\n"
+"pairedlist.text"
+msgid "Swedish (Sweden)"
+msgstr "ဆွာဟီလီ(ဆွီဒင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SWEDISH_FINLAND\n"
+"pairedlist.text"
+msgid "Swedish (Finland)"
+msgstr "ဆွာဟီလီ(ဖင်လန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TAJIK\n"
+"pairedlist.text"
+msgid "Tajik"
+msgstr "တာဂျစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TAMIL\n"
+"pairedlist.text"
+msgid "Tamil"
+msgstr "တမေးလ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TATAR\n"
+"pairedlist.text"
+msgid "Tatar"
+msgstr "တတာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TELUGU\n"
+"pairedlist.text"
+msgid "Telugu"
+msgstr "တီလူဂု"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_THAI\n"
+"pairedlist.text"
+msgid "Thai"
+msgstr "ထိုင်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TURKISH\n"
+"pairedlist.text"
+msgid "Turkish"
+msgstr "တာကစ်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_URDU_PAKISTAN\n"
+"pairedlist.text"
+msgid "Urdu (Pakistan)"
+msgstr "အာဒု (ပါကစ်စတန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_URDU_INDIA\n"
+"pairedlist.text"
+msgid "Urdu (India)"
+msgstr "အာဒု (အိန္ဒိယ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UKRAINIAN\n"
+"pairedlist.text"
+msgid "Ukrainian"
+msgstr "ယူကနေးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UZBEK_LATIN\n"
+"pairedlist.text"
+msgid "Uzbek Latin"
+msgstr "ဥဇဘက် လက်တင်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UZBEK_CYRILLIC\n"
+"pairedlist.text"
+msgid "Uzbek Cyrillic"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_WELSH\n"
+"pairedlist.text"
+msgid "Welsh"
+msgstr "ဝီလက်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LATIN_VATICAN\n"
+"pairedlist.text"
+msgid "Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ESPERANTO\n"
+"pairedlist.text"
+msgid "Esperanto"
+msgstr "အက်စပရန်တို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KINYARWANDA\n"
+"pairedlist.text"
+msgid "Kinyarwanda (Rwanda)"
+msgstr "ကင်ညာဝန်ဒ (၀ရမ်ဒ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MAORI_NEW_ZEALAND\n"
+"pairedlist.text"
+msgid "Maori"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GALICIAN\n"
+"pairedlist.text"
+msgid "Galician"
+msgstr "ဂယ်လ်ဆီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DHIVEHI\n"
+"pairedlist.text"
+msgid "Dhivehi"
+msgstr "ဒဟီဗီဟီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SEPEDI\n"
+"pairedlist.text"
+msgid "Northern Sotho"
+msgstr "တောင်ဘက်ဆောသို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GAELIC_SCOTLAND\n"
+"pairedlist.text"
+msgid "Gaelic (Scotland)"
+msgstr "ဂေးလစ်(စကော့တလန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MONGOLIAN_CYRILLIC_MONGOLIA\n"
+"pairedlist.text"
+msgid "Mongolian Cyrillic"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MONGOLIAN_MONGOLIAN_MONGOLIA\n"
+"pairedlist.text"
+msgid "Mongolian Mongolian"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_INTERLINGUA\n"
+"pairedlist.text"
+msgid "Interlingua"
+msgstr "အင်တာလင်ဂွာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BOSNIAN_BOSNIA_HERZEGOVINA\n"
+"pairedlist.text"
+msgid "Bosnian"
+msgstr "ဘော့စနီးယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BENGALI_BANGLADESH\n"
+"pairedlist.text"
+msgid "Bengali (Bangladesh)"
+msgstr "ဘင်္ဂါလီ(ဘင်္ဂါးလားဒေ့ရှေ့)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_OCCITAN\n"
+"pairedlist.text"
+msgid "Occitan"
+msgstr "အောဆီတန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KHMER\n"
+"pairedlist.text"
+msgid "Khmer"
+msgstr "ခမာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_TURKEY\n"
+"pairedlist.text"
+msgid "Kurdish, Northern (Turkey)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_SYRIA\n"
+"pairedlist.text"
+msgid "Kurdish, Northern (Syria)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_IRAQ\n"
+"pairedlist.text"
+msgid "Kurdish, Central (Iraq)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_IRAN\n"
+"pairedlist.text"
+msgid "Kurdish, Central (Iran)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_SOUTHERN_IRAN\n"
+"pairedlist.text"
+msgid "Kurdish, Southern (Iran)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KURDISH_SOUTHERN_IRAQ\n"
+"pairedlist.text"
+msgid "Kurdish, Southern (Iraq)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN\n"
+"pairedlist.text"
+msgid "Sardinian"
+msgstr "ဆာဒီနီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_DZONGKHA\n"
+"pairedlist.text"
+msgid "Dzongkha"
+msgstr "ဒဇွန်းခ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SWAHILI_TANZANIA\n"
+"pairedlist.text"
+msgid "Swahili (Tanzania)"
+msgstr "ဆွာဟီလီ(တန်ဇနီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LAO\n"
+"pairedlist.text"
+msgid "Lao"
+msgstr "လာအို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GAELIC_IRELAND\n"
+"pairedlist.text"
+msgid "Irish"
+msgstr "အီရစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TIBETAN\n"
+"pairedlist.text"
+msgid "Tibetan (PR China)"
+msgstr "တီဘီတန်(ပီအာ တရုတ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GEORGIAN\n"
+"pairedlist.text"
+msgid "Georgian"
+msgstr "ဂျော်ဂျီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRISIAN_NETHERLANDS\n"
+"pairedlist.text"
+msgid "Frisian"
+msgstr "ဖရီဆီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TSWANA\n"
+"pairedlist.text"
+msgid "Tswana (South Africa)"
+msgstr "တဆွန်န (တောင်အာဖရိက)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_ZULU\n"
+"pairedlist.text"
+msgid "Zulu"
+msgstr "ဇူလူ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_VIETNAMESE\n"
+"pairedlist.text"
+msgid "Vietnamese"
+msgstr "ဗီနာမိစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BRETON\n"
+"pairedlist.text"
+msgid "Breton"
+msgstr "ဘရီတန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KALAALLISUT\n"
+"pairedlist.text"
+msgid "Kalaallisut"
+msgstr "ကလလီဆွတ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NDEBELE_SOUTH\n"
+"pairedlist.text"
+msgid "Ndebele, South"
+msgstr "နဒီဘလီ (တောင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SESOTHO\n"
+"pairedlist.text"
+msgid "Southern Sotho"
+msgstr "တောင်ဘက် ဆော်သို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SWAZI\n"
+"pairedlist.text"
+msgid "Swazi"
+msgstr "ဆွာဇီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TSONGA\n"
+"pairedlist.text"
+msgid "Tsonga"
+msgstr "တဆွန်ဂ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_VENDA\n"
+"pairedlist.text"
+msgid "Venda"
+msgstr "ဗန်ဒ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TSWANA_BOTSWANA\n"
+"pairedlist.text"
+msgid "Tswana (Botswana)"
+msgstr "တက်စ်၀န (ဘော့စ်၀န)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_XHOSA\n"
+"pairedlist.text"
+msgid "Xhosa"
+msgstr "ဇောစ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SINHALESE_SRI_LANKA\n"
+"pairedlist.text"
+msgid "Sinhala"
+msgstr "စင်ဟလာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MOORE\n"
+"pairedlist.text"
+msgid "Moore"
+msgstr "မိုးရီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BAMBARA\n"
+"pairedlist.text"
+msgid "Bambara"
+msgstr "ဘန်ဘရာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AKAN\n"
+"pairedlist.text"
+msgid "Akan"
+msgstr "အာကန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LUXEMBOURGISH\n"
+"pairedlist.text"
+msgid "Luxembourgish"
+msgstr "လူဇန်ဘက်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRIULIAN\n"
+"pairedlist.text"
+msgid "Friulian"
+msgstr "ဖရူလီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FIJIAN\n"
+"pairedlist.text"
+msgid "Fijian"
+msgstr "ဖီဂျီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AFRIKAANS_NAMIBIA\n"
+"pairedlist.text"
+msgid "Afrikaans (Namibia)"
+msgstr "အာဖရိကန် (နမီဘီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_NAMIBIA\n"
+"pairedlist.text"
+msgid "English (Namibia)"
+msgstr "အင်္ဂလိပ်(နမီဘီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_WALLOON\n"
+"pairedlist.text"
+msgid "Walloon"
+msgstr "ဝေါလွန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_COPTIC\n"
+"pairedlist.text"
+msgid "Coptic"
+msgstr "ကော့တစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TIGRIGNA_ERITREA\n"
+"pairedlist.text"
+msgid "Tigrigna (Eritrea)"
+msgstr "တီဂျစ်နား (အီသီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TIGRIGNA_ETHIOPIA\n"
+"pairedlist.text"
+msgid "Tigrigna (Ethiopia)"
+msgstr "တီဂျစ်နား (အီသီးယိုးပီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_AMHARIC_ETHIOPIA\n"
+"pairedlist.text"
+msgid "Amharic"
+msgstr "အမ်ဟရစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_KIRGHIZ\n"
+"pairedlist.text"
+msgid "Kirghiz"
+msgstr "ကီးဟစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GERMAN_BELGIUM\n"
+"pairedlist.text"
+msgid "German (Belgium)"
+msgstr "ဂျာမန်(ဘယ်လ်ဂျီယန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CHUVASH\n"
+"pairedlist.text"
+msgid "Chuvash"
+msgstr "ကောဗက်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_BURMESE\n"
+"pairedlist.text"
+msgid "Burmese"
+msgstr "မြန်မာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HAUSA_NIGERIA\n"
+"pairedlist.text"
+msgid "Hausa (Nigeria)"
+msgstr "ဟောစ(နိုင်ဂျေးရီးယား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_HAUSA_GHANA\n"
+"pairedlist.text"
+msgid "Hausa (Ghana)"
+msgstr "ဟောစ (ဂဟန)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_EWE_GHANA\n"
+"pairedlist.text"
+msgid "Éwé"
+msgstr "Éwé"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_GHANA\n"
+"pairedlist.text"
+msgid "English (Ghana)"
+msgstr "အင်္ဂလိပ်(ဂမ်န)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SANGO\n"
+"pairedlist.text"
+msgid "Sango"
+msgstr "ဆန်းဂို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TAGALOG\n"
+"pairedlist.text"
+msgid "Tagalog"
+msgstr "တာဂလော့"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GANDA\n"
+"pairedlist.text"
+msgid "Ganda"
+msgstr "ဂမ်ဒ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LINGALA_DRCONGO\n"
+"pairedlist.text"
+msgid "Lingala"
+msgstr "လင်ဂလာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LOW_GERMAN\n"
+"pairedlist.text"
+msgid "Low German"
+msgstr "ဂျာမန် အောက်ဘက်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_HILIGAYNON\n"
+"pairedlist.text"
+msgid "Hiligaynon"
+msgstr "ဟီလီဂေနွန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NYANJA\n"
+"pairedlist.text"
+msgid "Nyanja"
+msgstr "နီယန်ဂျာ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KASHUBIAN\n"
+"pairedlist.text"
+msgid "Kashubian"
+msgstr "ကက်စဘီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SPANISH_CUBA\n"
+"pairedlist.text"
+msgid "Spanish (Cuba)"
+msgstr "စပိန်နစ်ခ်ျ (ကူဘ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TETUN\n"
+"pairedlist.text"
+msgid "Tetun (Indonesia)"
+msgstr "တီထွန်း(အင်ဒိုနီးရှား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_QUECHUA_NORTH_BOLIVIA\n"
+"pairedlist.text"
+msgid "Quechua (Bolivia, North)"
+msgstr "ကူကွခ်ျ(ဘောလ်ဗီးယား၊ မြောက်ဘက်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_QUECHUA_SOUTH_BOLIVIA\n"
+"pairedlist.text"
+msgid "Quechua (Bolivia, South)"
+msgstr "ကူကွခ်ျ(ဘောလ်ဗီးယား၊ တောင်ဘက်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SOMALI\n"
+"pairedlist.text"
+msgid "Somali"
+msgstr "ဆိုမာလီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_INARI\n"
+"pairedlist.text"
+msgid "Sami, Inari (Finland)"
+msgstr "ဆမီ၊ အီနာရီ (ဖင်လန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_LULE_NORWAY\n"
+"pairedlist.text"
+msgid "Sami, Lule (Norway)"
+msgstr "ဆမီ၊ လူလဲ့ (နော်ဝေ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_LULE_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Lule (Sweden)"
+msgstr "ဆမီ၊ လူလဲ့ (ဆွီဒင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_NORTHERN_FINLAND\n"
+"pairedlist.text"
+msgid "Sami, Northern (Finland)"
+msgstr "ဆမီ၊ နော်သန် (ဖင်လန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_NORTHERN_NORWAY\n"
+"pairedlist.text"
+msgid "Sami, Northern (Norway)"
+msgstr "ဆမီ၊​ နော်သန်​ (နော်ဝေ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_NORTHERN_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Northern (Sweden)"
+msgstr "ဆမီ၊ နော်သန်​(ဆွီဒင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_SKOLT\n"
+"pairedlist.text"
+msgid "Sami, Skolt (Finland)"
+msgstr "ဆမီ၊ စကော့ (ဖင်လန်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_SOUTHERN_NORWAY\n"
+"pairedlist.text"
+msgid "Sami, Southern (Norway)"
+msgstr "ဆမီ၊ တောင်ဘက်​ (နော်ဝေ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_SAMI_SOUTHERN_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Southern (Sweden)"
+msgstr "ဆမီ၊ တောင်ဘက် (ဆွီဒင်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SAMI_KILDIN_RUSSIA\n"
+"pairedlist.text"
+msgid "Sami, Kildin (Russia)"
+msgstr "ဆာမိ၊ ကေဒင်(ရှရှား)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_GUARANI_PARAGUAY\n"
+"pairedlist.text"
+msgid "Guaraní, Paraguayan"
+msgstr "ဂူရ်နယ်၊ ပါရာဂူရမ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BODO_INDIA\n"
+"pairedlist.text"
+msgid "Bodo"
+msgstr "ဘိုဒို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_DOGRI_INDIA\n"
+"pairedlist.text"
+msgid "Dogri"
+msgstr "ဒေါ့ရိ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MAITHILI_INDIA\n"
+"pairedlist.text"
+msgid "Maithili"
+msgstr "မာသီလီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SANTALI_INDIA\n"
+"pairedlist.text"
+msgid "Santali"
+msgstr "ဆန်တလီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TETUN_TIMOR_LESTE\n"
+"pairedlist.text"
+msgid "Tetun (Timor-Leste)"
+msgstr "တီထွန်း(တိမော-လက်စ်တီ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TURKMEN\n"
+"pairedlist.text"
+msgid "Turkmen"
+msgstr "တာမန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_MALTESE\n"
+"pairedlist.text"
+msgid "Maltese"
+msgstr "မောတိစ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TOK_PISIN\n"
+"pairedlist.text"
+msgid "Tok Pisin"
+msgstr "တော့က် ပီဆင်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SHUSWAP\n"
+"pairedlist.text"
+msgid "Shuswap"
+msgstr "ရူဆွပ်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_OROMO\n"
+"pairedlist.text"
+msgid "Oromo"
+msgstr "အိုရိုမို"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ANCIENT_GREEK\n"
+"pairedlist.text"
+msgid "Greek, Ancient"
+msgstr "ဂရိ၊ အေးရှင့်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_YIDDISH\n"
+"pairedlist.text"
+msgid "Yiddish (Israel)"
+msgstr "ကူဒစ်ခ်ျ(အီရတ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_QUECHUA_ECUADOR\n"
+"pairedlist.text"
+msgid "Quechua (Ecuador)"
+msgstr "ကူကွခ်ျ(အီကူအေဒါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UIGHUR_CHINA\n"
+"pairedlist.text"
+msgid "Uyghur"
+msgstr "ယူဂါ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ASTURIAN\n"
+"pairedlist.text"
+msgid "Asturian"
+msgstr "ဩစတေးနီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_UPPER_SORBIAN_GERMANY\n"
+"pairedlist.text"
+msgid "Sorbian, Upper"
+msgstr "ဆော်ဘီးယန်း (အပေါ်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_LOWER_SORBIAN_GERMANY\n"
+"pairedlist.text"
+msgid "Sorbian, Lower"
+msgstr "ဆော်ဗီးယန် (အောက်ဘက်)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LATGALIAN\n"
+"pairedlist.text"
+msgid "Latgalian"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MAORE\n"
+"pairedlist.text"
+msgid "Maore"
+msgstr "မိုးရီ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BUSHI\n"
+"pairedlist.text"
+msgid "Bushi"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TAHITIAN\n"
+"pairedlist.text"
+msgid "Tahitian"
+msgstr "လာဗီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MALAGASY_PLATEAU\n"
+"pairedlist.text"
+msgid "Malagasy, Plateau"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_PAPIAMENTU\n"
+"pairedlist.text"
+msgid "Papiamentu (Netherlands Antilles)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PAPIAMENTU_ARUBA\n"
+"pairedlist.text"
+msgid "Papiamento (Aruba)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_CAMPIDANESE\n"
+"pairedlist.text"
+msgid "Sardinian, Campidanese"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_GALLURESE\n"
+"pairedlist.text"
+msgid "Sardinian, Gallurese"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_LOGUDORESE\n"
+"pairedlist.text"
+msgid "Sardinian, Logudorese"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SARDINIAN_SASSARESE\n"
+"pairedlist.text"
+msgid "Sardinian, Sassarese"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BAFIA\n"
+"pairedlist.text"
+msgid "Bafia"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_GIKUYU\n"
+"pairedlist.text"
+msgid "Gikuyu"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_YORUBA\n"
+"pairedlist.text"
+msgid "Yoruba"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_RUSYN_UKRAINE\n"
+"pairedlist.text"
+msgid "Rusyn (Ukraine)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_RUSYN_SLOVAKIA\n"
+"pairedlist.text"
+msgid "Rusyn (Slovakia)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_TAMAZIGHT_LATIN_ALGERIA\n"
+"pairedlist.text"
+msgid "Kabyle Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_YIDDISH_US\n"
+"pairedlist.text"
+msgid "Yiddish (USA)"
+msgstr "ရီးဒစ်ခ်ျ"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_HAWAIIAN_UNITED_STATES\n"
+"pairedlist.text"
+msgid "Hawaiian"
+msgstr "ဂယ်လ်ဆီယန်"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LIMBU\n"
+"pairedlist.text"
+msgid "Limbu"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LOJBAN\n"
+"pairedlist.text"
+msgid "Lojban"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_HAITIAN\n"
+"pairedlist.text"
+msgid "Haitian"
+msgstr "လာဗီးယန်း"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BEEMBE\n"
+"pairedlist.text"
+msgid "Beembe"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_BEKWEL\n"
+"pairedlist.text"
+msgid "Bekwel"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KITUBA\n"
+"pairedlist.text"
+msgid "Kituba"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LARI\n"
+"pairedlist.text"
+msgid "Lari"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MBOCHI\n"
+"pairedlist.text"
+msgid "Mbochi"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_EBOO\n"
+"pairedlist.text"
+msgid "Teke-Eboo"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_IBALI\n"
+"pairedlist.text"
+msgid "Teke-Ibali"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_TYEE\n"
+"pairedlist.text"
+msgid "Teke-Tyee"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_VILI\n"
+"pairedlist.text"
+msgid "Vili"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KEYID\n"
+"pairedlist.text"
+msgid "KeyID"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PALI_LATIN\n"
+"pairedlist.text"
+msgid "Pali Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KYRGYZ_CHINA\n"
+"pairedlist.text"
+msgid "Kyrgyz (China)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KOMI_ZYRIAN\n"
+"pairedlist.text"
+msgid "Komi-Zyrian"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KOMI_PERMYAK\n"
+"pairedlist.text"
+msgid "Komi-Permyak"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PITJANTJATJARA\n"
+"pairedlist.text"
+msgid "Pitjantjatjara"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ENGLISH_MALAWI\n"
+"pairedlist.text"
+msgid "English (Malawi)"
+msgstr "အင်္ဂလိပ်(ကနေဒါ)"
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_ERZYA\n"
+"pairedlist.text"
+msgid "Erzya"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MARI_MEADOW\n"
+"pairedlist.text"
+msgid "Mari, Meadow"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PAPIAMENTU_CURACAO\n"
+"pairedlist.text"
+msgid "Papiamento (Curaçao)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PAPIAMENTU_BONAIRE\n"
+"pairedlist.text"
+msgid "Papiamento (Bonaire)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KHANTY\n"
+"pairedlist.text"
+msgid "Khanty"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LIVONIAN\n"
+"pairedlist.text"
+msgid "Livonian"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MOKSHA\n"
+"pairedlist.text"
+msgid "Moksha"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MARI_HILL\n"
+"pairedlist.text"
+msgid "Mari, Hill"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NGANASAN\n"
+"pairedlist.text"
+msgid "Nganasan"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_OLONETS\n"
+"pairedlist.text"
+msgid "Olonets"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_VEPS\n"
+"pairedlist.text"
+msgid "Veps"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_VORO\n"
+"pairedlist.text"
+msgid "Võro"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NENETS\n"
+"pairedlist.text"
+msgid "Nenets"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AKA_CONGO\n"
+"pairedlist.text"
+msgid "Aka (Congo)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_DIBOLE\n"
+"pairedlist.text"
+msgid "Dibole"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_DOONDO\n"
+"pairedlist.text"
+msgid "Doondo"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KAAMBA\n"
+"pairedlist.text"
+msgid "Kaamba"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KOONGO_CONGO\n"
+"pairedlist.text"
+msgid "Koongo (Congo)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KUNYI\n"
+"pairedlist.text"
+msgid "Kunyi"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NGUNGWEL\n"
+"pairedlist.text"
+msgid "Ngungwel"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NJYEM_CONGO\n"
+"pairedlist.text"
+msgid "Njyem (Congo)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PUNU_CONGO\n"
+"pairedlist.text"
+msgid "Punu"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SUUNDI\n"
+"pairedlist.text"
+msgid "Suundi"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TEKE_KUKUYA\n"
+"pairedlist.text"
+msgid "Teke-Kukuya"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TSAANGI\n"
+"pairedlist.text"
+msgid "Tsaangi"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_YAKA\n"
+"pairedlist.text"
+msgid "Yaka"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_YOMBE_CONGO\n"
+"pairedlist.text"
+msgid "Yombe (Congo)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NKO\n"
+"pairedlist.text"
+msgid "N'ko"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_UDMURT\n"
+"pairedlist.text"
+msgid "Udmurt"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_TIBETAN_INDIA\n"
+"pairedlist.text"
+msgid "Tibetan (India)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CORNISH\n"
+"pairedlist.text"
+msgid "Cornish"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_SAMI_PITE_SWEDEN\n"
+"pairedlist.text"
+msgid "Sami, Pite (Sweden)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NGAEBERE\n"
+"pairedlist.text"
+msgid "Ngäbere"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KUMYK\n"
+"pairedlist.text"
+msgid "Kumyk"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_NOGAI\n"
+"pairedlist.text"
+msgid "Nogai"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KARAKALPAK_LATIN\n"
+"pairedlist.text"
+msgid "Karakalpak Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LADIN\n"
+"pairedlist.text"
+msgid "Ladin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_BURKINA_FASO\n"
+"pairedlist.text"
+msgid "French (Burkina Faso)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_PUINAVE\n"
+"pairedlist.text"
+msgid "Puinave"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_MANINKAKAN_EASTERN_LATIN\n"
+"pairedlist.text"
+msgid "Maninkakan, Eastern, Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_AVAR\n"
+"pairedlist.text"
+msgid "Avar"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CREE_PLAINS_LATIN\n"
+"pairedlist.text"
+msgid "Cree, Plains, Latin"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_CREE_PLAINS_SYLLABICS\n"
+"pairedlist.text"
+msgid "Cree, Plains, Syllabics"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_LENGO\n"
+"pairedlist.text"
+msgid "Lengo"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_COTE_D_IVOIRE\n"
+"pairedlist.text"
+msgid "French (Côte d'Ivoire)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_MALI\n"
+"pairedlist.text"
+msgid "French (Mali)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_FRENCH_SENEGAL\n"
+"pairedlist.text"
+msgid "French (Senegal)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_BENIN\n"
+"pairedlist.text"
+msgid "French (Benin)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_NIGER\n"
+"pairedlist.text"
+msgid "French (Niger)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_FRENCH_TOGO\n"
+"pairedlist.text"
+msgid "French (Togo)"
+msgstr ""
+
+#: langtab.src
+msgctxt ""
+"langtab.src\n"
+"STR_ARR_SVT_LANGUAGE_TABLE\n"
+"LANGUAGE_USER_KVEN_FINNISH\n"
+"pairedlist.text"
+msgid "Kven Finnish"
+msgstr ""
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_1BIT_THRESHOLD\n"
+"string.text"
+msgid "1 bit threshold"
+msgstr "၁ ဘစ် အတိုင်းအတာ သတ်မှတ်အဆင့်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_1BIT_DITHERED\n"
+"string.text"
+msgid "1 bit dithered"
+msgstr "၁ ဘစ် အရောင်ပြေသွားရန် ဖြေပေးသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_4BIT_GRAYSCALE\n"
+"string.text"
+msgid "4 bit grayscale"
+msgstr "၄ ဘစ် မီးခိုးရောင် စကေးများ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_4BIT_COLOR_PALETTE\n"
+"string.text"
+msgid "4 bit color"
+msgstr ""
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_8BIT_GRAYSCALE\n"
+"string.text"
+msgid "8 bit grayscale"
+msgstr "၄ ဘစ် မီးခိုးရောင် စကေးများ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_8BIT_COLOR_PALETTE\n"
+"string.text"
+msgid "8 bit color"
+msgstr ""
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_24BIT_TRUE_COLOR\n"
+"string.text"
+msgid "24 bit true color"
+msgstr "၂၄ ဘစ် အရောင်မှန်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_ESTIMATED_SIZE_PIX_1\n"
+"string.text"
+msgid "The picture needs about %1 KB of memory."
+msgstr ""
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_ESTIMATED_SIZE_PIX_2\n"
+"string.text"
+msgid "The picture needs about %1 KB of memory, the file size is %2 KB."
+msgstr ""
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_ESTIMATED_SIZE_VEC\n"
+"string.text"
+msgid "The file size is %1 KB."
+msgstr ""
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_READY\n"
+"string.text"
+msgid "Ready"
+msgstr "အဆင်သင့်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAUSED\n"
+"string.text"
+msgid "Paused"
+msgstr "ခေတ္တရပ်နားသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PENDING\n"
+"string.text"
+msgid "Pending deletion"
+msgstr "ပယ်ဖျက်ခြင်းမတိုင်မီအတောအတွင်း"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_BUSY\n"
+"string.text"
+msgid "Busy"
+msgstr "အလုပ်များသော"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_INITIALIZING\n"
+"string.text"
+msgid "Initializing"
+msgstr "အစပျိုးပြင်ဆင်သည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_WAITING\n"
+"string.text"
+msgid "Waiting"
+msgstr "စောင့်နေသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_WARMING_UP\n"
+"string.text"
+msgid "Warming up"
+msgstr "နှိုးပေးထားပါ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PROCESSING\n"
+"string.text"
+msgid "Processing"
+msgstr "လုပ်ဆောင်နေသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PRINTING\n"
+"string.text"
+msgid "Printing"
+msgstr "ပရင့်ထုတ်နေသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_OFFLINE\n"
+"string.text"
+msgid "Offline"
+msgstr "ဆက်သွယ်မှုမရှိပါ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr "အမှား"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_SERVER_UNKNOWN\n"
+"string.text"
+msgid "Unknown Server"
+msgstr "မသိသောဆာဗာ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAPER_JAM\n"
+"string.text"
+msgid "Paper jam"
+msgstr "စာရွက်ညပ်သည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAPER_OUT\n"
+"string.text"
+msgid "Not enough paper"
+msgstr "စာရွက်မလုံလောက်ပါ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_MANUAL_FEED\n"
+"string.text"
+msgid "Manual feed"
+msgstr "လက်ဖြင့်ဖြည့်သွင်းရေးသားချက်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAPER_PROBLEM\n"
+"string.text"
+msgid "Paper problem"
+msgstr "စာရွက်ပြဿနာ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_IO_ACTIVE\n"
+"string.text"
+msgid "I/O active"
+msgstr "I/O အလုပ်လုပ်နေသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_OUTPUT_BIN_FULL\n"
+"string.text"
+msgid "Output bin full"
+msgstr "အချက်အလက်များထုတ်သည့်အမှိုက်ပုံးပြည့်သည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_TONER_LOW\n"
+"string.text"
+msgid "Toner low"
+msgstr "တိုနာနည်းနေသည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_NO_TONER\n"
+"string.text"
+msgid "No toner"
+msgstr "တိုနာမရှိပါ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_PAGE_PUNT\n"
+"string.text"
+msgid "Delete Page"
+msgstr "စာမျက်နှာဖျက်ပါ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_USER_INTERVENTION\n"
+"string.text"
+msgid "User intervention necessary"
+msgstr "ကြားဝင်အသုံးပြုသူလိုအပ်သည်"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_OUT_OF_MEMORY\n"
+"string.text"
+msgid "Insufficient memory"
+msgstr "မှတ်ဉာဏ်လုံလောက်မှုမရှိ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_DOOR_OPEN\n"
+"string.text"
+msgid "Cover open"
+msgstr "အဖုံးဖွင့်ပါ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_POWER_SAVE\n"
+"string.text"
+msgid "Power save mode"
+msgstr "သိမ်းဆည်းမှုနည်းလမ်း"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_DEFPRINTER\n"
+"string.text"
+msgid "Default printer"
+msgstr "နဂိုမူလထားရှိမည့် ပရင်တာ"
+
+#: svtools.src
+msgctxt ""
+"svtools.src\n"
+"STR_SVT_PRNDLG_JOBCOUNT\n"
+"string.text"
+msgid "%d documents"
+msgstr "%d မှတ်တမ်းမှတ်ရာများ"
+
+#: undo.src
+msgctxt ""
+"undo.src\n"
+"STR_UNDO\n"
+"string.text"
+msgid "Undo: "
+msgstr "ပြန်ခေါ်ပါ -"
+
+#: undo.src
+msgctxt ""
+"undo.src\n"
+"STR_REDO\n"
+"string.text"
+msgid "Re~do: "
+msgstr "နောက်ဆုံးလုပ်ဆောင်ချက်များသို့ပြန်သွားပါ"
+
+#: undo.src
+msgctxt ""
+"undo.src\n"
+"STR_REPEAT\n"
+"string.text"
+msgid "~Repeat: "
+msgstr "~ထပ်တလဲလဲ-"

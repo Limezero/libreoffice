@@ -1,0 +1,1437 @@
+#. extracted from svx/source/gallery2
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-06-13 06:54+0000\n"
+"Last-Translator: Dimitris Spingos <dmtrs32@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1402642441.000000\n"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXDLG_GALLERYBROWSER\n"
+"dockingwindow.text"
+msgid "Gallery"
+msgstr "Συλλογή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ACTUALIZE_PROGRESS\n"
+"string.text"
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FOPENERROR\n"
+"string.text"
+msgid "This file cannot be opened"
+msgstr "Αδύνατο το άνοιγμα αυτού του αρχείου"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOTHEME\n"
+"string.text"
+msgid "Invalid Theme Name!"
+msgstr "Άκυρο όνομα θέματος!"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT1_UI\n"
+"string.text"
+msgid "Wave - Sound File"
+msgstr "Wave - Αρχείο ήχου"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT2_UI\n"
+"string.text"
+msgid "Audio Interchange File Format"
+msgstr "Μορφή αρχείου Audio Interchange"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT3_UI\n"
+"string.text"
+msgid "AU - Sound File"
+msgstr "AU - Αρχείο ήχου"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FILTER\n"
+"string.text"
+msgid "Graphics filter"
+msgstr "Φίλτρο γραφικών"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LENGTH\n"
+"string.text"
+msgid "Length:"
+msgstr "Μήκος:"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SIZE\n"
+"string.text"
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DELETEDD\n"
+"string.text"
+msgid "Do you want to delete the linked file?"
+msgstr "Θέλετε να διαγραφεί το συνδεδεμένο αρχείο;"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SGIERROR\n"
+"string.text"
+msgid ""
+"This file cannot be opened.\n"
+"Do you want to enter a different search path? "
+msgstr ""
+"Αδύνατο το άνοιγμα αυτού του αρχείου.\n"
+"Θέλετε να εισάγετε κάποια άλλη διαδρομή αναζήτησης; "
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NEWTHEME\n"
+"string.text"
+msgid "New Theme"
+msgstr "Δημιουργία θέματος"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_BROWSER\n"
+"string.text"
+msgid "~Organizer..."
+msgstr "~Οργανωτής..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_THEMEERR\n"
+"string.text"
+msgid ""
+"This theme name already exists.\n"
+"Please choose a different one."
+msgstr ""
+"Αυτό το όνομα θέματος υπάρχει ήδη.\n"
+"Παρακαλώ επιλέξτε κάποιο άλλο όνομα."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_IMPORTTHEME\n"
+"string.text"
+msgid "I~mport..."
+msgstr "Ε~ισαγωγή..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_CREATETHEME\n"
+"string.text"
+msgid "New Theme..."
+msgstr "Δημιουργία θέματος..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DIALOGID\n"
+"string.text"
+msgid "Assign ID"
+msgstr "Ανάθεση αναγνωριστικού"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Τίτλος"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "Διαδρομή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ICONVIEW\n"
+"string.text"
+msgid "Icon View"
+msgstr "Προβολή εικονιδίου"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LISTVIEW\n"
+"string.text"
+msgid "Detailed View"
+msgstr "Λεπτομερής προβολή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ACTUALIZE\n"
+"menuitem.text"
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Διαγραφή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~Μετονομασία"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ASSIGN_ID\n"
+"menuitem.text"
+msgid "Assign ~ID"
+msgstr "Ανάθεση ~αναγνωριστικού"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_PROPERTIES\n"
+"menuitem.text"
+msgid "Propert~ies..."
+msgstr "Ιδιότητ~ες..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_ADD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "Ε~ισαγωγή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_BACKGROUND\n"
+"menuitem.text"
+msgid "Insert as Bac~kground"
+msgstr "Εισαγωγή ως ~παρασκήνιο"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PREVIEW\n"
+"menuitem.text"
+msgid "~Preview"
+msgstr "~Προεπισκόπηση"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_TITLE\n"
+"menuitem.text"
+msgid "~Title"
+msgstr "~Τίτλος"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Διαγραφή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_COPYCLIPBOARD\n"
+"menuitem.text"
+msgid "~Copy"
+msgstr "Αντι~γραφή"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PASTECLIPBOARD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "Ε~ισαγωγή"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_3D\n"
+"string.text"
+msgid "3D Effects"
+msgstr "Εφέ 3Δ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMATIONS\n"
+"string.text"
+msgid "Animations"
+msgstr "Κινήσεις"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BULLETS\n"
+"string.text"
+msgid "Bullets"
+msgstr "Κουκκίδες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OFFICE\n"
+"string.text"
+msgid "Office"
+msgstr "Γραφείο"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS\n"
+"string.text"
+msgid "Flags"
+msgstr "Σημαίες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS\n"
+"string.text"
+msgid "Flow Charts"
+msgstr "Διαγράμματα ροής"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr "Εικονίδια emoticon"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS\n"
+"string.text"
+msgid "Pictures"
+msgstr "Εικόνες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BACKGROUNDS\n"
+"string.text"
+msgid "Backgrounds"
+msgstr "Παρασκήνια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE\n"
+"string.text"
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_INTERACTION\n"
+"string.text"
+msgid "Interaction"
+msgstr "Αλληλεπίδραση"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS\n"
+"string.text"
+msgid "Maps"
+msgstr "Χάρτες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE\n"
+"string.text"
+msgid "People"
+msgstr "Πρόσωπα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SURFACES\n"
+"string.text"
+msgid "Surfaces"
+msgstr "Επιφάνειες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTERS\n"
+"string.text"
+msgid "Computers"
+msgstr "Υπολογιστές"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DIAGRAMS\n"
+"string.text"
+msgid "Diagrams"
+msgstr "Διαγράμματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ENVIRONMENT\n"
+"string.text"
+msgid "Environment"
+msgstr "Περιβάλλον"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCE\n"
+"string.text"
+msgid "Finance"
+msgstr "Οικονομία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TRANSPORT\n"
+"string.text"
+msgid "Transport"
+msgstr "Μεταφορές"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TXTSHAPES\n"
+"string.text"
+msgid "Textshapes"
+msgstr "Σχήματα κειμένου"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SOUNDS\n"
+"string.text"
+msgid "Sounds"
+msgstr "Ήχοι"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SYMBOLS\n"
+"string.text"
+msgid "Symbols"
+msgstr "Σύμβολα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MYTHEME\n"
+"string.text"
+msgid "My Theme"
+msgstr "Το θέμα μου"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "Βέλη"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BALLOONS\n"
+"string.text"
+msgid "Balloons"
+msgstr "Φυσαλίδες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_KEYBOARD\n"
+"string.text"
+msgid "Keyboard"
+msgstr "Πληκτρολόγιο"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PRESENTATION\n"
+"string.text"
+msgid "Presentation"
+msgstr "Παρουσίαση"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CALENDAR\n"
+"string.text"
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Περιήγηση"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMMUNICATION\n"
+"string.text"
+msgid "Communication"
+msgstr "Επικοινωνία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCES\n"
+"string.text"
+msgid "Finances"
+msgstr "Οικονομικά"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER\n"
+"string.text"
+msgid "Computers"
+msgstr "Υπολογιστές"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLIMA\n"
+"string.text"
+msgid "Climate"
+msgstr "Κλίμα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EDUCATION\n"
+"string.text"
+msgid "School & University"
+msgstr "Σχολείο & Πανεπιστήμιο"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TROUBLE\n"
+"string.text"
+msgid "Problem Solving"
+msgstr "Επίλυση προβλημάτων"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SCREENBEANS\n"
+"string.text"
+msgid "Screen Beans"
+msgstr "Κόκκοι οθόνης"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_POLYGONS\n"
+"string.text"
+msgid "Shapes - polygons"
+msgstr "Σχήματα - πολύγωνα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_1\n"
+"string.text"
+msgid "Shapes 1"
+msgstr "Σχήματα 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_2\n"
+"string.text"
+msgid "Shapes 2"
+msgstr "Σχήματα 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMALS\n"
+"string.text"
+msgid "Animals"
+msgstr "Ζώα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CARS\n"
+"string.text"
+msgid "Cars"
+msgstr "Αυτοκίνητα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUGS\n"
+"string.text"
+msgid "Bugs"
+msgstr "Ζωύφια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_OTHER\n"
+"string.text"
+msgid "Cisco - Other"
+msgstr "Cisco - άλλα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_MEDIA\n"
+"string.text"
+msgid "Cisco - Media"
+msgstr "Cisco - μέσα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_PRODUCTS\n"
+"string.text"
+msgid "Cisco - Products"
+msgstr "Cisco - προϊόντα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_WAN_LAN\n"
+"string.text"
+msgid "Cisco - WAN - LAN"
+msgstr "Cisco - WAN - LAN"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_USUAL\n"
+"string.text"
+msgid "Domino - usual"
+msgstr "Ντόμινο - συνηθισμένο"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_NUMBERED\n"
+"string.text"
+msgid "Domino - numbered"
+msgstr "Ντόμινο - με αριθμούς"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_1\n"
+"string.text"
+msgid "Electronics - parts 1"
+msgstr "Ηλεκτρονικά εξαρτήματα 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_2\n"
+"string.text"
+msgid "Electronics - parts 2"
+msgstr "Ηλεκτρονικά εξαρτήματα 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_3\n"
+"string.text"
+msgid "Electronics - parts 3"
+msgstr "Ηλεκτρονικά εξαρτήματα 3"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_4\n"
+"string.text"
+msgid "Electronics - parts 4"
+msgstr "Ηλεκτρονικά εξαρτήματα 4"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_CIRCUIT\n"
+"string.text"
+msgid "Electronics - circuit"
+msgstr "Ηλεκτρονικά - κύκλωμα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_SIGNS\n"
+"string.text"
+msgid "Electronics - signs"
+msgstr "Ηλεκτρονικά - σύμβολα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_GAUGES\n"
+"string.text"
+msgid "Electronics - gauges"
+msgstr "Ηλεκτρονικά - μετρητές"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE_1\n"
+"string.text"
+msgid "People"
+msgstr "Πρόσωπα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_OVERLAY\n"
+"string.text"
+msgid "Architecture - overlay"
+msgstr "Αρχιτεκτονική - επιστρώσεις"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_FURNITURES\n"
+"string.text"
+msgid "Architecture - furniture"
+msgstr "Αρχιτεκτονική - εξοπλισμός"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BUILDINGS\n"
+"string.text"
+msgid "Architecture - buildings"
+msgstr "Αρχιτεκτονική - κτίρια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BATHROOM_KITCHEN\n"
+"string.text"
+msgid "Architecture - bathroom, kitchen"
+msgstr "Αρχιτεκτονική - μπάνιο, κουζίνα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_KITCHEN\n"
+"string.text"
+msgid "Architecture - kitchen"
+msgstr "Αρχιτεκτονική - κουζίνα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_WINDOWS_DOORS\n"
+"string.text"
+msgid "Architecture - windows, doors"
+msgstr "Αρχιτεκτονική - παράθυρα, πόρτες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_1\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "Διαγράμματα ροής"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_2\n"
+"string.text"
+msgid "Flowcharts 2"
+msgstr "Διαγράμματα ροής 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FORALSTUDIOA\n"
+"string.text"
+msgid "Foral-StudioA"
+msgstr "Foral-ΣτούντιοΑ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FAUNA\n"
+"string.text"
+msgid "Photos - Fauna"
+msgstr "Φωτογραφίες - Πανίδα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_BUILDINGS\n"
+"string.text"
+msgid "Photos - Buildings"
+msgstr "Φωτογραφίες - κτίρια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_PLANTS\n"
+"string.text"
+msgid "Photos - Plants"
+msgstr "Φωτογραφίες - φυτά"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_STATUES\n"
+"string.text"
+msgid "Photos - Statues"
+msgstr "Φωτογραφίες - αγάλματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_LANDSCAPES\n"
+"string.text"
+msgid "Photos - Landscapes"
+msgstr "Φωτογραφίες - τοπία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CITIES\n"
+"string.text"
+msgid "Photos - Cities"
+msgstr "Φωτογραφίες - πόλεις"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FLOWERS\n"
+"string.text"
+msgid "Photos - Flowers"
+msgstr "Φωτογραφίες - λουλούδια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_THERAPEUTICS_GENERAL\n"
+"string.text"
+msgid "Therapeutics - general"
+msgstr "Θεραπείες - γενικά"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_WEATHER\n"
+"string.text"
+msgid "Weather"
+msgstr "Καιρός"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_VECHILES\n"
+"string.text"
+msgid "Vehicles"
+msgstr "Οχήματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS\n"
+"string.text"
+msgid "Signs"
+msgstr "Σήματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BLUE_MAN\n"
+"string.text"
+msgid "Blue Man"
+msgstr "Γαλάζιος άντρας"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CHEMISTRY_AMINO_ACIDS\n"
+"string.text"
+msgid "Chemistry - Amino acids"
+msgstr "Χημεία - αμινοξέα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_SIGNS\n"
+"string.text"
+msgid "Logical signs"
+msgstr "Λογικά σήματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_GATES\n"
+"string.text"
+msgid "Logical gates"
+msgstr "Λογικές πύλες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGOS\n"
+"string.text"
+msgid "Logos"
+msgstr "Λογότυποι"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SMILES\n"
+"string.text"
+msgid "Smilies"
+msgstr "Μειδιάματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS_1\n"
+"string.text"
+msgid "Arrows"
+msgstr "Βέλη"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_01_CLOCK\n"
+"string.text"
+msgid "Clock - 01 clock"
+msgstr "Ρολόι - 01 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_02_CLOCK\n"
+"string.text"
+msgid "Clock - 02 clock"
+msgstr "Ρολόι - 02 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_03_CLOCK\n"
+"string.text"
+msgid "Clock - 03 clock"
+msgstr "Ρολόι - 03 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_04_CLOCK\n"
+"string.text"
+msgid "Clock - 04 clock"
+msgstr "Ρολόι - 04 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_05_CLOCK\n"
+"string.text"
+msgid "Clock - 05 clock"
+msgstr "Ρολόι - 05 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_06_CLOCK\n"
+"string.text"
+msgid "Clock - 06 clock"
+msgstr "Ρολόι - 06 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_07_CLOCK\n"
+"string.text"
+msgid "Clock - 07 clock"
+msgstr "Ρολόι - 07 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_08_CLOCK\n"
+"string.text"
+msgid "Clock - 08 clock"
+msgstr "Ρολόι - 08 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_09_CLOCK\n"
+"string.text"
+msgid "Clock - 09 clock"
+msgstr "Ρολόι - 09 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_10_CLOCK\n"
+"string.text"
+msgid "Clock - 10 clock"
+msgstr "Ρολόι - 10 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_11_CLOCK\n"
+"string.text"
+msgid "Clock - 11 clock"
+msgstr "Ρολόι - 11 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_12_CLOCK\n"
+"string.text"
+msgid "Clock - 12 clock"
+msgstr "Ρολόι - 12 η ώρα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PNEUMATIC_PARTS\n"
+"string.text"
+msgid "Pneumatic - parts"
+msgstr "Πνευματικά - εξαρτήματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_GENERAL\n"
+"string.text"
+msgid "Computer - general"
+msgstr "Υπολογιστής - γενικά"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK\n"
+"string.text"
+msgid "Computer - network"
+msgstr "Υπολογιστής - δίκτυο"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK_DEVICES\n"
+"string.text"
+msgid "Computer - network devices"
+msgstr "Υπολογιστής - συσκευές δικτύου"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_WIFI\n"
+"string.text"
+msgid "Computer - WIFI"
+msgstr "Υπολογιστής - WIFI"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NUMBERS\n"
+"string.text"
+msgid "Numbers"
+msgstr "Αριθμοί"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS_DANGER\n"
+"string.text"
+msgid "Signs - danger"
+msgstr "Σήματα - κίνδυνοι"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OBJECTS\n"
+"string.text"
+msgid "Objects"
+msgstr "Αντικείμενα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AFRICA\n"
+"string.text"
+msgid "Maps - Africa"
+msgstr "Χάρτες - Αφρική"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_UNITED_STATES_OF_AMERICA\n"
+"string.text"
+msgid "Maps - United States of America"
+msgstr "Χάρτες - Ενωμένες πολιτείες Αμερικής"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AUSTRALIA\n"
+"string.text"
+msgid "Maps - Australia"
+msgstr "Χάρτες - Αυστραλία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ASIA\n"
+"string.text"
+msgid "Maps - Asia"
+msgstr "Χάρτες - Ασία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SOUTH_AMERICA\n"
+"string.text"
+msgid "Maps - South America"
+msgstr "Χάρτες - Νότια Αμερική"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE\n"
+"string.text"
+msgid "Maps - Europe"
+msgstr "Χάρτες - Ευρώπη"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE_1\n"
+"string.text"
+msgid "Maps - Europe 1"
+msgstr "Χάρτες - Ευρώπη 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE\n"
+"string.text"
+msgid "Maps - France"
+msgstr "Χάρτες - Γαλλία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE_COUNTRIES\n"
+"string.text"
+msgid "Maps - France - countries"
+msgstr "Χάρτες - Γαλλία - περιφέρειες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SIGNS\n"
+"string.text"
+msgid "Maps - signs"
+msgstr "Χάρτες - σήματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CANADA\n"
+"string.text"
+msgid "Maps - Canada"
+msgstr "Χάρτες - Καναδάς"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CONTINENTS\n"
+"string.text"
+msgid "Maps - Continents"
+msgstr "Χάρτες - ήπειροι"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_EAST\n"
+"string.text"
+msgid "Maps - Middle East"
+msgstr "Χάρτες - Μέση Ανατολή"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AMERICA\n"
+"string.text"
+msgid "Maps - Middle America"
+msgstr "Χάρτες - Κεντρική Αμερική"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AGES\n"
+"string.text"
+msgid "Maps - Middle ages"
+msgstr "Χάρτες - Μεσαίωνας"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MEXICO\n"
+"string.text"
+msgid "Maps - Mexico"
+msgstr "Χάρτες - Μεξικό"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ANCIENT_TIMES\n"
+"string.text"
+msgid "Maps - Ancient times"
+msgstr "Χάρτες - αρχαιότητα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SYMBOLS\n"
+"string.text"
+msgid "Maps - symbols"
+msgstr "Χάρτες - σύμβολα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_HISTORY_1900\n"
+"string.text"
+msgid "Maps - history - 1900"
+msgstr "Χάρτες - ιστορία - 1900"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_WORLD\n"
+"string.text"
+msgid "Maps - World"
+msgstr "Χάρτες - κόσμος"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CROPS\n"
+"string.text"
+msgid "Crops"
+msgstr "Καλλιέργειες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FRACTIONS\n"
+"string.text"
+msgid "Fractions"
+msgstr "Κλάσματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS_1\n"
+"string.text"
+msgid "Flags"
+msgstr "Σημαίες"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_INSTRUMENTS\n"
+"string.text"
+msgid "Music - instruments"
+msgstr "Μουσική - όργανα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_SHEET_MUSIC\n"
+"string.text"
+msgid "Music - sheet music"
+msgstr "Μουσικά - μουσικά φύλλα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SPECIAL_PICTOGRAMM\n"
+"string.text"
+msgid "Special Pictograms"
+msgstr "Ειδικά εικονογράμματα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CELEBRATION\n"
+"string.text"
+msgid "Photos - Celebration"
+msgstr "Φωτογραφίες - εορτασμοί"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FOODSANDDRINKS\n"
+"string.text"
+msgid "Photos - Foods and Drinks"
+msgstr "Φωτογραφίες - τρόφιμα και ποτά"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_HUMANS\n"
+"string.text"
+msgid "Photos - Humans"
+msgstr "Φωτογραφίες - άνθρωποι"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_OBJECTS\n"
+"string.text"
+msgid "Photos - Objects"
+msgstr "Φωτογραφίες - αντικείμενα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_SPACE\n"
+"string.text"
+msgid "Photos - Space"
+msgstr "Φωτογραφίες - διάστημα"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_TRAVEL\n"
+"string.text"
+msgid "Photos - Travel"
+msgstr "Φωτογραφίες - ταξίδια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OPENOFFICEORG_LOGOS\n"
+"string.text"
+msgid "OpenOffice.org logos"
+msgstr "Λογότυποι OpenOffice.org"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_RELIGION\n"
+"string.text"
+msgid "Religion"
+msgstr "Θρησκεία"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUILDINGS\n"
+"string.text"
+msgid "Buildings"
+msgstr "Κτίρια"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE2\n"
+"string.text"
+msgid "Homepage 2"
+msgstr "Αρχική σελίδα 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELEMENTSBULLETS2\n"
+"string.text"
+msgid "Bullets 2"
+msgstr "Κουκκίδες 2"

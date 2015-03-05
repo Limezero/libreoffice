@@ -1,0 +1,1169 @@
+#. extracted from svx/source/src
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-12 00:47+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_ERROR\n"
+"string.text"
+msgid "Error"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"غلطی\n"
+"#-#-#-#-#  importwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"غلطی\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خامی\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خامی"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_WARNING\n"
+"string.text"
+msgid "Warning"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آگہی \n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آگہی \n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آگاہ کرنا\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آگاہ کرنا"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADTEMPLATE\n"
+"string.text"
+msgid "$(ERR) loading the template $(ARG1)"
+msgstr "$(ERR)ٹمپلیٹ لوڈکررہاہے $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ERR)دستاویزمحفوظ کرو $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SAVEASDOC\n"
+"string.text"
+msgid "$(ERR) saving the document $(ARG1)"
+msgstr "$(ERR)دستاویزمحفوظ کرو $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCINFO\n"
+"string.text"
+msgid "$(ERR) displaying doc. information for document $(ARG1)"
+msgstr "$(ERR) معلومات سےدستاویز $(ARG1)ظاہرکرودستاویز۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCTEMPLATE\n"
+"string.text"
+msgid "$(ERR) writing document $(ARG1) as template"
+msgstr "$(ERR)  تصنیف کرو دستاویز$(ARG1) جیسےٹمپلیٹ۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_MOVEORCOPYCONTENTS\n"
+"string.text"
+msgid "$(ERR) copying or moving document contents"
+msgstr "$(ERR) نقل کرویا ہٹاؤدستاویزکنٹینس"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_DOCMANAGER\n"
+"string.text"
+msgid "$(ERR) starting the Document Manager"
+msgstr "$(ERR) اسٹارٹینگ دستاویزمینجر"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_OPENDOC\n"
+"string.text"
+msgid "$(ERR) loading document $(ARG1)"
+msgstr "$(ERR)دستاویز لوڈکررہاہے $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOCDIRECT\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "$(ERR) نیادستاویزتخلیق کرو"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_NEWDOC\n"
+"string.text"
+msgid "$(ERR) creating a new document"
+msgstr "$(ERR) نیادستاویزتخلیق کرو"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_CREATEOBJSH\n"
+"string.text"
+msgid "$(ERR) expanding entry"
+msgstr "$(ERR) داخلہ پھیلاؤ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_LOADBASIC\n"
+"string.text"
+msgid "$(ERR) loading BASIC of document $(ARG1)"
+msgstr "$(ERR)دستاویزBASIC لوڈنگ $(ARG1)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRCTX\n"
+"ERRCTX_SFX_SEARCHADDRESS\n"
+"string.text"
+msgid "$(ERR) searching for an address"
+msgstr "$(ERR) ایڈریس ڈھونڈو"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ABORT\n"
+"string.text"
+msgid "Abort"
+msgstr "سا قط"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent object"
+msgstr "غیرموجودآبجیکٹ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ALREADYEXISTS\n"
+"string.text"
+msgid "Object already exists"
+msgstr "آبجیکٹ پہلےسےموجود"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_ACCESS\n"
+"string.text"
+msgid "Object not accessible"
+msgstr "آبجیکٹ قابل حصول نہیں"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PATH\n"
+"string.text"
+msgid "Inadmissible path"
+msgstr "نا قابل قبول پاتھ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_LOCKING\n"
+"string.text"
+msgid "Locking problem"
+msgstr "قفل لگانےمیں مشکل"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_PARAMETER\n"
+"string.text"
+msgid "Wrong parameter"
+msgstr "خفیہ پیرامیٹر"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SPACE\n"
+"string.text"
+msgid "Resource exhausted"
+msgstr "صرف شدہ وسیلہ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_NOTSUPPORTED\n"
+"string.text"
+msgid "Action not supported"
+msgstr "ایکشن معاون نہیں"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_READ\n"
+"string.text"
+msgid "Read-Error"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پڑھو-خامی  \n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"غلطی -پڑھو"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_WRITE\n"
+"string.text"
+msgid "Write Error"
+msgstr "خامی لکھو"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_UNKNOWN\n"
+"string.text"
+msgid "unknown"
+msgstr "نامعلوم"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_VERSION\n"
+"string.text"
+msgid "Version Incompatibility"
+msgstr "ورجنس ناموافق"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_GENERAL\n"
+"string.text"
+msgid "General Error"
+msgstr "عا م خامی"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_FORMAT\n"
+"string.text"
+msgid "Incorrect format"
+msgstr "نہ درست فورمیٹ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_CREATE\n"
+"string.text"
+msgid "Error creating object"
+msgstr "شئےکوتخلیق کرنےکےدوران خامی"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_SBX\n"
+"string.text"
+msgid "Inadmissible value or data type"
+msgstr "نا قابل قبول قیمت یا ڈاٹا  ٹائپ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_RUNTIME\n"
+"string.text"
+msgid "BASIC runtime error"
+msgstr "جاری وقت میں خامی BASIC "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_CLASS_COMPILER\n"
+"string.text"
+msgid "BASIC syntax error"
+msgstr "سینٹیکس خامیBASIC "
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"1\n"
+"string.text"
+msgid "General Error"
+msgstr "عا م خامی"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_GENERAL\n"
+"string.text"
+msgid "General input/output error."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_MISPLACEDCHAR\n"
+"string.text"
+msgid "Invalid file name."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTS\n"
+"string.text"
+msgid "Nonexistent file."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ALREADYEXISTS\n"
+"string.text"
+msgid "File already exists."
+msgstr "فائل غڈئ پَٹھٱ۪ی موجود"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTADIRECTORY\n"
+"string.text"
+msgid "The object is not a directory."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTAFILE\n"
+"string.text"
+msgid "The object is not a file."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDDEVICE\n"
+"string.text"
+msgid "The specified device is invalid."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ACCESSDENIED\n"
+"string.text"
+msgid ""
+"The object cannot be accessed\n"
+"due to insufficient user rights."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_LOCKVIOLATION\n"
+"string.text"
+msgid "Sharing violation while accessing the object."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFSPACE\n"
+"string.text"
+msgid "No more space on device."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ISWILDCARD\n"
+"string.text"
+msgid ""
+"This operation cannot be run on\n"
+"files containing wildcards."
+msgstr ""
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSUPPORTED\n"
+"string.text"
+msgid "This operation is not supported on this operating system."
+msgstr " $(ARG1)پیٹھ آپریشنس چھُنئ معاوُن یتھ آپریٹنگ سسٹمس پیٹھ۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_TOOMANYOPENFILES\n"
+"string.text"
+msgid "There are too many files open."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTREAD\n"
+"string.text"
+msgid "Data could not be read from the file."
+msgstr ""
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTWRITE\n"
+"string.text"
+msgid "The file could not be written."
+msgstr "کڑی تخلیق نہیں کرسکتے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_OUTOFMEMORY\n"
+"string.text"
+msgid "The operation could not be run due to insufficient memory."
+msgstr "نہ کافی میمری کی وجہ سےاوپریشن رن نہیں ہوسکتا۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTSEEK\n"
+"string.text"
+msgid "The seek operation could not be run."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTTELL\n"
+"string.text"
+msgid "The tell operation could not be run."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGVERSION\n"
+"string.text"
+msgid "Incorrect file version."
+msgstr ""
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRONGFORMAT\n"
+"string.text"
+msgid "Incorrect file format."
+msgstr "غلط فائل موڈ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDCHAR\n"
+"string.text"
+msgid "The file name contains invalid characters."
+msgstr ""
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_UNKNOWN\n"
+"string.text"
+msgid "An unknown I/O error has occurred."
+msgstr "نا مولوم غلطی آی اتھ۪ی۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDACCESS\n"
+"string.text"
+msgid "An invalid attempt was made to access the file."
+msgstr ""
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CANTCREATE\n"
+"string.text"
+msgid "The file could not be created."
+msgstr "کڑی تخلیق نہیں کرسکتے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDPARAMETER\n"
+"string.text"
+msgid "The operation was started under an invalid parameter."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_ABORT\n"
+"string.text"
+msgid "The operation on the file was aborted."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTEXISTSPATH\n"
+"string.text"
+msgid "Path to the file does not exist."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_RECURSIVE\n"
+"string.text"
+msgid "An object cannot be copied into itself."
+msgstr "خودبخودآبجیکٹ نقل نہیں کرسکتے۔"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOSTDTEMPLATE\n"
+"string.text"
+msgid "The default template could not be opened."
+msgstr "ٹیمپلیٹ کھل نہیں ہوسکی۔"
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TEMPLATENOTFOUND\n"
+"string.text"
+msgid "The specified template could not be found."
+msgstr "یہ مختص شدہ فائل كھولی نہيں جاسكتی۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTATEMPLATE\n"
+"string.text"
+msgid "The file cannot be used as template."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTREADDOCINFO\n"
+"string.text"
+msgid ""
+"Document information could not be read from the file because\n"
+"the document information format is unknown or because document information does not\n"
+"exist."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_ALREADYOPEN\n"
+"string.text"
+msgid "This document has already been opened for editing."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGPASSWORD\n"
+"string.text"
+msgid "The wrong password has been entered."
+msgstr "غلط خفیہ لفظ داخل نہیں کرسکتے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOLOADFAILED\n"
+"string.text"
+msgid "Error reading file."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENTREADONLY\n"
+"string.text"
+msgid "The document was opened as read-only."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_OLEGENERAL\n"
+"string.text"
+msgid "General OLE Error."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_NAME_RESOLVE\n"
+"string.text"
+msgid "The host name $(ARG1) could not be resolved."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_CONNECT\n"
+"string.text"
+msgid "Could not establish Internet connection to $(ARG1)."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_READ\n"
+"string.text"
+msgid ""
+"Error reading data from the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_WRITE\n"
+"string.text"
+msgid ""
+"Error transferring data to the Internet.\n"
+"Server error message: $(ARG1)."
+msgstr ""
+
+#: errtxt.src
+#, fuzzy
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_GENERAL\n"
+"string.text"
+msgid "General Internet error has occurred."
+msgstr "اندریم  غلطی آ  ئ۪ی"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_INET_OFFLINE\n"
+"string.text"
+msgid "The requested Internet data is not available in the cache and cannot be transmitted as the Online mode has not be activated."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFXMSG_STYLEREPLACE\n"
+"string.text"
+msgid "Should the $(ARG1) Style be replaced?"
+msgstr "اسٹائیل رپلیسڈ$(ARG1) ہوسکتا؟"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOFILTER\n"
+"string.text"
+msgid "A filter has not been found."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTFINDORIGINAL\n"
+"string.text"
+msgid "The original could not be determined."
+msgstr "اصل پختہ نہیں ہوسکتا۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATECONTENT\n"
+"string.text"
+msgid "The contents could not be created."
+msgstr "کنٹینس تخلیق نہیں ہوسکتا۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATELINK\n"
+"string.text"
+msgid "The link could not be created."
+msgstr "کڑی تخلیق نہیں کرسکتے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGBMKFORMAT\n"
+"string.text"
+msgid "The link format is invalid."
+msgstr "کڑی وضع نہ منظورہے"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display is invalid."
+msgstr "ظاہرآئکون میں ہئیت نہ منظورہے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display can not be saved."
+msgstr "ڈسپلےآئکون ہیئت میں محفوظ نہیں ہوسکتا۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTDELICONFILE\n"
+"string.text"
+msgid "The configuration of the icon display could not be deleted."
+msgstr "آئکون ہئیت ظاہر کرکےخارج کرسکتے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMECONTENT\n"
+"string.text"
+msgid "Contents cannot be renamed."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDBMKPATH\n"
+"string.text"
+msgid "The bookmark folder is invalid."
+msgstr "بک مارک فولڈرنہ منظورہے"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTWRITEURLCFGFILE\n"
+"string.text"
+msgid "The configuration of the URLs to be saved locally could not be saved."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONGURLCFGFORMAT\n"
+"string.text"
+msgid "The configuration format of the URLs to be saved locally is invalid."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NODOCUMENT\n"
+"string.text"
+msgid "This action cannot be applied to a document that does not exist."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDLINK\n"
+"string.text"
+msgid "The link refers to an invalid target."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDTRASHPATH\n"
+"string.text"
+msgid "The Recycle Bin path is invalid."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOTRESTORABLE\n"
+"string.text"
+msgid "The entry could not be restored."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NAMETOOLONG\n"
+"string.text"
+msgid "The file name is too long for the target file system."
+msgstr "ٹارگیٹ فائل سسٹم سےفائل نام زیادہ۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CONSULTUSER\n"
+"string.text"
+msgid "The details for running the function are incomplete."
+msgstr "فنکشن کی رنینگ کی معلومات  نامکمل ہے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INVALIDSYNTAX\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "انپوٹ سینٹیکس نہ منظورہے"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "انپوٹ سینٹیکس نہ منظورہے"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTRENAMEFOLDER\n"
+"string.text"
+msgid "The input syntax is invalid."
+msgstr "انپوٹ سینٹیکس نہ منظورہے"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_WRONG_CDF_FORMAT\n"
+"string.text"
+msgid "The channel document has an invalid format."
+msgstr "چینل دستاویزفارمیٹ میں نہ منظورہے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_EMPTY_SERVER\n"
+"string.text"
+msgid "The server must not be empty."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NO_ABOBOX\n"
+"string.text"
+msgid "A subscription folder is required to install a Channel."
+msgstr "شبشیرکشن فولڈرانسٹول چینل میں ریکورڈہے۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSTORABLEINBINARYFORMAT\n"
+"string.text"
+msgid ""
+"This document contains attributes that cannot be saved in the selected format.\n"
+"Please save the document in a %PRODUCTNAME %PRODUCTVERSION file format."
+msgstr ""
+"یہ دستاویزکنٹینس حرکت میں محفوظ نہیں ہوسکتامنتخب فارمیٹ میں براہ کرم دستاویزمحفوظ کرو.\n"
+" %PRODUCTNAME %PRODUCTVERSION  فائل فارمیٹ۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_TARGETFILECORRUPTED\n"
+"string.text"
+msgid "The file $(FILENAME) cannot be saved. Please check your system settings. You can find an automatically generated backup copy of this file in folder $(PATH) named $(BACKUPNAME)."
+msgstr "فائل محفوظ نہیں کرسکتے۔$(FILENAME)  باہ کرم جانچ کرےآپ کےسسٹم کومنتخب کرکے۔آپ ڈھونڈسکتےخودبخودآپ کےفائل فولڈرمیں جنریٹیٹگ کاپی آجائینگی۔   $(PATH) $(BACKUPNAME)"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_NOMOREDOCUMENTSALLOWED\n"
+"string.text"
+msgid "The maximum number of documents that can be opened at the same time has been reached. You need to close one or more documents before you can open a new document."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_CANTCREATEBACKUP\n"
+"string.text"
+msgid "Could not create backup copy."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_MACROS_SUPPORT_DISABLED\n"
+"string.text"
+msgid ""
+"An attempt was made to execute a macro.\n"
+"For security reasons, macro support is disabled."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED_MAC\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in %PRODUCTNAME - Preferences - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_DOCUMENT_MACRO_DISABLED\n"
+"string.text"
+msgid ""
+"This document contains macros.\n"
+"\n"
+"Macros may contain viruses. Execution of macros is disabled due to the current macro security setting in Tools - Options - %PRODUCTNAME - Security.\n"
+"\n"
+"Therefore, some functionality may not be available."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_BROKENSIGNATURE\n"
+"string.text"
+msgid ""
+"The digitally signed document content and/or macros do not match the current document signature.\n"
+"\n"
+"This could be the result of document manipulation or of structural document damage due to data transmission.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_INCOMPLETE_ENCRYPTION\n"
+"string.text"
+msgid ""
+"The encrypted document contains unexpected non-encrypted streams.\n"
+"\n"
+"This could be the result of document manipulation.\n"
+"\n"
+"We recommend that you do not trust the content of the current document.\n"
+"Execution of macros is disabled for this document.\n"
+" "
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_INVALIDLENGTH\n"
+"string.text"
+msgid "Invalid data length."
+msgstr "نہ درست ڈاٹا کی لمبائی۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_CURRENTDIR\n"
+"string.text"
+msgid "Function not possible: path contains current directory."
+msgstr "فنشن نہ ممکن:پاتھ کنٹینس کرنٹ ڈائریکٹری"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_NOTSAMEDEVICE\n"
+"string.text"
+msgid "Function not possible: device (drive) not identical."
+msgstr "فنشن نہ ممکن: (ڈرائیو) ڈیوئس مشابہ نہیں"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_DEVICENOTREADY\n"
+"string.text"
+msgid "Device (drive) not ready."
+msgstr "ڈیوئس (ڈرائیو) تیارنہیں۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_BADCRC\n"
+"string.text"
+msgid "Wrong check amount."
+msgstr "  غلط رقم کی جانچ"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_IO_WRITEPROTECTED\n"
+"string.text"
+msgid "Function not possible: write protected."
+msgstr "فنشن نہ ممکن:رائٹ پروٹیکٹ۔"
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_SHARED_NOPASSWORDCHANGE\n"
+"string.text"
+msgid ""
+"The password of a shared spreadsheet cannot be set or changed.\n"
+"Deactivate sharing mode first."
+msgstr ""
+
+#: errtxt.src
+msgctxt ""
+"errtxt.src\n"
+"RID_ERRHDL\n"
+"ERRCODE_SFX_FORMAT_ROWCOL\n"
+"string.text"
+msgid "File format error found at $(ARG1)(row,col)."
+msgstr ""

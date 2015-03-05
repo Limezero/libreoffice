@@ -1,0 +1,160 @@
+--- source/common/rbbidata.h
++++ source/common/rbbidata.h
+@@ -113,7 +113,7 @@
+                                     /*     StatusTable of the set of matching             */
+                                     /*     tags (rule status values)                      */
+     int16_t          fReserved;
+-    uint16_t         fNextState[2]; /*  Next State, indexed by char category.             */
++    uint16_t         fNextState[1]; /*  Next State, indexed by char category.             */
+                                     /*  This array does not have two elements             */
+                                     /*    Array Size is actually fData->fHeader->fCatCount         */
+                                     /*    CAUTION:  see RBBITableBuilder::getTableSize()  */
+@@ -126,7 +126,7 @@
+     uint32_t         fRowLen;       /*  Length of a state table row, in bytes.            */
+     uint32_t         fFlags;        /*  Option Flags for this state table                 */
+     uint32_t         fReserved;     /*  reserved                                          */
+-    char             fTableData[4]; /*  First RBBIStateTableRow begins here.              */
++    char             fTableData[1]; /*  First RBBIStateTableRow begins here.              */
+                                     /*    (making it char[] simplifies ugly address       */
+                                     /*     arithmetic for indexing variable length rows.) */
+ };
+--- source/common/rbbitblb.cpp
++++ source/common/rbbitblb.cpp
+@@ -1067,15 +1067,15 @@
+         return 0;
+     }
+ 
+-    size    = sizeof(RBBIStateTable) - 4;    // The header, with no rows to the table.
++    size    = offsetof(RBBIStateTable, fTableData);    // The header, with no rows to the table.
+ 
+     numRows = fDStates->size();
+     numCols = fRB->fSetBuilder->getNumCharCategories();
+ 
+-    //  Note  The declaration of RBBIStateTableRow is for a table of two columns.
+-    //        Therefore we subtract two from numCols when determining
++    //  Note  The declaration of RBBIStateTableRow is for a table of one columns.
++    //        Therefore we subtract one from numCols when determining
+     //        how much storage to add to a row for the total columns.
+-    rowSize = sizeof(RBBIStateTableRow) + sizeof(uint16_t)*(numCols-2);
++    rowSize = sizeof(RBBIStateTableRow) + sizeof(uint16_t)*(numCols-1);
+     size   += numRows * rowSize;
+     return size;
+ }
+@@ -1105,7 +1105,7 @@
+     }
+ 
+     table->fRowLen    = sizeof(RBBIStateTableRow) +
+-                            sizeof(uint16_t) * (fRB->fSetBuilder->getNumCharCategories() - 2);
++                            sizeof(uint16_t) * (fRB->fSetBuilder->getNumCharCategories() - 1);
+     table->fNumStates = fDStates->size();
+     table->fFlags     = 0;
+     if (fRB->fLookAheadHardBreak) {
+--- source/common/ucharstriebuilder.cpp
++++ source/common/ucharstriebuilder.cpp
+@@ -285,7 +285,7 @@
+ 
+ UCharsTrieBuilder::UCTLinearMatchNode::UCTLinearMatchNode(const UChar *units, int32_t len, Node *nextNode)
+         : LinearMatchNode(len, nextNode), s(units) {
+-    hash=hash*37+ustr_hashUCharsN(units, len);
++    hash=hash*37U+ustr_hashUCharsN(units, len);
+ }
+ 
+ UBool
+--- source/common/ucmndata.h
++++ source/common/ucmndata.h
+@@ -50,7 +50,7 @@
+ 
+ typedef struct {
+     uint32_t count;
+-    UDataOffsetTOCEntry entry[2];    /* Actual size of array is from count. */
++    UDataOffsetTOCEntry entry[1];    /* Actual size of array is from count. */
+ } UDataOffsetTOC;
+ 
+ /**
+--- source/common/unicode/stringtriebuilder.h
++++ source/common/unicode/stringtriebuilder.h
+@@ -269,7 +269,7 @@
+         void setValue(int32_t v) {
+             hasValue=TRUE;
+             value=v;
+-            hash=hash*37+v;
++            hash=hash*37U+v;
+         }
+     protected:
+         UBool hasValue;
+@@ -296,7 +296,7 @@
+     class LinearMatchNode : public ValueNode {
+     public:
+         LinearMatchNode(int32_t len, Node *nextNode)
+-                : ValueNode((0x333333*37+len)*37+hashCode(nextNode)),
++                : ValueNode((0x333333U*37+len)*37+hashCode(nextNode)),
+                   length(len), next(nextNode) {}
+         virtual UBool operator==(const Node &other) const;
+         virtual int32_t markRightEdgesFirst(int32_t edgeNumber);
+@@ -330,7 +330,7 @@
+             equal[length]=NULL;
+             values[length]=value;
+             ++length;
+-            hash=(hash*37+c)*37+value;
++            hash=(hash*37U+c)*37+value;
+         }
+         // Adds a unit which leads to another match node.
+         void add(int32_t c, Node *node) {
+@@ -338,7 +338,7 @@
+             equal[length]=node;
+             values[length]=0;
+             ++length;
+-            hash=(hash*37+c)*37+hashCode(node);
++            hash=(hash*37U+c)*37+hashCode(node);
+         }
+     protected:
+         Node *equal[kMaxBranchLinearSubNodeLength];  // NULL means "has final value".
+@@ -353,7 +353,7 @@
+     class SplitBranchNode : public BranchNode {
+     public:
+         SplitBranchNode(UChar middleUnit, Node *lessThanNode, Node *greaterOrEqualNode)
+-                : BranchNode(((0x555555*37+middleUnit)*37+
++                : BranchNode(((0x555555U*37+middleUnit)*37+
+                               hashCode(lessThanNode))*37+hashCode(greaterOrEqualNode)),
+                   unit(middleUnit), lessThan(lessThanNode), greaterOrEqual(greaterOrEqualNode) {}
+         virtual UBool operator==(const Node &other) const;
+@@ -370,7 +370,7 @@
+     class BranchHeadNode : public ValueNode {
+     public:
+         BranchHeadNode(int32_t len, Node *subNode)
+-                : ValueNode((0x666666*37+len)*37+hashCode(subNode)),
++                : ValueNode((0x666666U*37+len)*37+hashCode(subNode)),
+                   length(len), next(subNode) {}
+         virtual UBool operator==(const Node &other) const;
+         virtual int32_t markRightEdgesFirst(int32_t edgeNumber);
+--- source/common/uresbund.cpp
++++ source/common/uresbund.cpp
+@@ -53,7 +53,7 @@
+     UHashTok namekey, pathkey;
+     namekey.pointer = b->fName;
+     pathkey.pointer = b->fPath;
+-    return uhash_hashChars(namekey)+37*uhash_hashChars(pathkey);
++    return uhash_hashChars(namekey)+37U*uhash_hashChars(pathkey);
+ }
+ 
+ /* INTERNAL: compares two entries */
+--- source/common/ustring.cpp
++++ source/common/ustring.cpp
+@@ -1486,7 +1486,7 @@
+ */
+ 
+ #define STRING_HASH(TYPE, STR, STRLEN, DEREF) \
+-    int32_t hash = 0;                         \
++    uint32_t hash = 0;                         \
+     const TYPE *p = (const TYPE*) STR;        \
+     if (p != NULL) {                          \
+         int32_t len = (int32_t)(STRLEN);      \
+@@ -1497,7 +1497,7 @@
+             p += inc;                         \
+         }                                     \
+     }                                         \
+-    return hash
++    return static_cast<int32_t>(hash)
+ 
+ /* Used by UnicodeString to compute its hashcode - Not public API. */
+ U_CAPI int32_t U_EXPORT2

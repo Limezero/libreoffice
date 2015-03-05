@@ -1,0 +1,849 @@
+#. extracted from sfx2/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2012-12-26 11:15+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356520539.0\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_RESET\n"
+"string.text"
+msgid "~Reset"
+msgstr "~Misa kabusha"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_APPLY\n"
+"string.text"
+msgid "Apply"
+msgstr "Faka"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDNAME\n"
+"string.text"
+msgid "This name is already in use."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDSTYLE\n"
+"string.text"
+msgid "This Style does not exist."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDPARENT\n"
+"string.text"
+msgid ""
+"This Style cannot be used as a base Style,\n"
+"because it would result in a recursive reference."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_POOL_STYLE_NAME\n"
+"string.text"
+msgid ""
+"Name already exists as a default Style.\n"
+"Please choose another name."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE_USED\n"
+"string.text"
+msgid ""
+"One or more of the selected styles is in use in this document.\n"
+"If you delete these styles, text will revert to the parent style.\n"
+"Do you still wish to delete these styles?\n"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE\n"
+"string.text"
+msgid "Styles in use: "
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_NEW\n"
+"menuitem.text"
+msgid "New..."
+msgstr "Okusha..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_EDIT\n"
+"menuitem.text"
+msgid "Modify..."
+msgstr "Lungisa..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_HIDE\n"
+"menuitem.text"
+msgid "Hide"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_SHOW\n"
+"menuitem.text"
+msgid "Show"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_DELETE\n"
+"menuitem.text"
+msgid "Delete..."
+msgstr "Cisha..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_NAVIGATOR\n"
+"string.text"
+msgid "Navigator"
+msgstr "Inevigeytha"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_TASKPANE\n"
+"string.text"
+msgid "Task Pane"
+msgstr "I-pane yomsebenzi"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_SIDEBAR\n"
+"string.text"
+msgid "Sidebar"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_ERROR_WRONG_CONFIRM\n"
+"string.text"
+msgid "Faulty password confirmation"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_PDF_EXPORT_SEND\n"
+"string.text"
+msgid "Send"
+msgstr "Thumela"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_FONT_TABPAGE\n"
+"string.text"
+msgid "Font"
+msgstr ""
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_NEWOFFICEDOC\n"
+"string.text"
+msgid "%PRODUCTNAME document"
+msgstr "Ushicilelo lwe-%PRODUCTNAME"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"combobox.quickhelptext"
+msgid "Property Name"
+msgstr "Igama lomakhiwo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Checked by\n"
+"stringlist.text"
+msgid "Checked by"
+msgstr "Kuhlolwe ngu-"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Client\n"
+"stringlist.text"
+msgid "Client"
+msgstr "Ikhasimende"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Date completed\n"
+"stringlist.text"
+msgid "Date completed"
+msgstr "Usuku lokuqedwa"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Department\n"
+"stringlist.text"
+msgid "Department"
+msgstr "Umkhakha"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Destinations\n"
+"stringlist.text"
+msgid "Destinations"
+msgstr "Indawo yokufika"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Disposition\n"
+"stringlist.text"
+msgid "Disposition"
+msgstr "Ukuhlelwa"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Division\n"
+"stringlist.text"
+msgid "Division"
+msgstr "Ukwahlukaniswa"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Document number\n"
+"stringlist.text"
+msgid "Document number"
+msgstr "Inani ledokhumende"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Editor\n"
+"stringlist.text"
+msgid "Editor"
+msgstr "Umlungisi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"E-Mail\n"
+"stringlist.text"
+msgid "E-Mail"
+msgstr "Iposi lekhomputha"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Forward to\n"
+"stringlist.text"
+msgid "Forward to"
+msgstr "Dlulisela ku"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Group\n"
+"stringlist.text"
+msgid "Group"
+msgstr "Iqembu"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Info\n"
+"stringlist.text"
+msgid "Info"
+msgstr "Ulwazi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Language\n"
+"stringlist.text"
+msgid "Language"
+msgstr "Ulimi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Mailstop\n"
+"stringlist.text"
+msgid "Mailstop"
+msgstr "Ukuma kwemeyili"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Matter\n"
+"stringlist.text"
+msgid "Matter"
+msgstr "Udaba"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Office\n"
+"stringlist.text"
+msgid "Office"
+msgstr "Ihhovisi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Owner\n"
+"stringlist.text"
+msgid "Owner"
+msgstr "Umnikazi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Project\n"
+"stringlist.text"
+msgid "Project"
+msgstr "Iprojekthi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Publisher\n"
+"stringlist.text"
+msgid "Publisher"
+msgstr "Umsakazi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Purpose\n"
+"stringlist.text"
+msgid "Purpose"
+msgstr "Injongo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Received from\n"
+"stringlist.text"
+msgid "Received from"
+msgstr "Kwamukelwe kusuka ku"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded by\n"
+"stringlist.text"
+msgid "Recorded by"
+msgstr "Kuqoshwe ngu"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded date\n"
+"stringlist.text"
+msgid "Recorded date"
+msgstr "Usuku lokuqopha"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Reference\n"
+"stringlist.text"
+msgid "Reference"
+msgstr "Okukhonjiwe"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Source\n"
+"stringlist.text"
+msgid "Source"
+msgstr "Umthombo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Status\n"
+"stringlist.text"
+msgid "Status"
+msgstr "Isimo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Telephone number\n"
+"stringlist.text"
+msgid "Telephone number"
+msgstr "Inombolo yocingo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Typist\n"
+"stringlist.text"
+msgid "Typist"
+msgstr "Othayiphayo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"URL\n"
+"stringlist.text"
+msgid "URL"
+msgstr "URL"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "Umbhalo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"DateTime\n"
+"stringlist.text"
+msgid "DateTime"
+msgstr "Isikhathi sosuku"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Date\n"
+"stringlist.text"
+msgid "Date"
+msgstr "Usuku"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Duration\n"
+"stringlist.text"
+msgid "Duration"
+msgstr "Isikhathi"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Number\n"
+"stringlist.text"
+msgid "Number"
+msgstr "Inombolo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Yes or no\n"
+"stringlist.text"
+msgid "Yes or no"
+msgstr "Yebo noma cha"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_ST_DURATION_FORMAT\n"
+"string.text"
+msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+msgstr " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_YES\n"
+"radiobutton.text"
+msgid "Yes"
+msgstr "Yebo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_NO\n"
+"radiobutton.text"
+msgid "No"
+msgstr "Cha"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_PB_PROPERTY_REMOVE\n"
+"imagebutton.quickhelptext"
+msgid "Remove Property"
+msgstr "Susa umakhiwo"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_QUERY_WRONG_TYPE\n"
+"string.text"
+msgid ""
+"The value entered does not match the specified type.\n"
+"The value will be stored as text."
+msgstr ""
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_FILEDLG_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "Inguqulo yamanje"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_EXPORT\n"
+"string.text"
+msgid "Export"
+msgstr "Hweba ngaphandle"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "Faka"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_BUTTONINSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "~Faka"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_IMPORT_ALL\n"
+"string.text"
+msgid "<All formats>"
+msgstr "<Wonke amafomethi>"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "~Isandiso esisenzekelayo segama lefayela"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "~Ukhetho"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "Isi~xhumanisi"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "Um~bukiso wangaphambili"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "~Funda kuphela"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_PASSWORD\n"
+"string.text"
+msgid "Save with ~password"
+msgstr "Gcina n~gegama lokudlula"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_FILTER_OPTIONS\n"
+"string.text"
+msgid "Edit ~filter settings"
+msgstr "Hlela izilungiselelo ~zehluzo"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "~Dlala"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "~Misa"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "~Vula"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "~Gcina"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy"
+msgstr ""
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "Isitayela:"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_TEMPLATES\n"
+"string.text"
+msgid "~Templates:"
+msgstr "~Izigqwembe:"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "~Inguqulo:"
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"STR_QUERY_OVERWRITE\n"
+"string.text"
+msgid "Style already exists. Overwrite?"
+msgstr ""
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_MACRO_LOSS\n"
+"string.text"
+msgid "Do you really want to cancel the recording? Any steps recorded up to this point will be lost."
+msgstr "Ufuna ngempela ukunqamula ukuguqula ngalo mzuzu? Nanoma iziphi izigaba eziqoshiwe ngalesi sikhathi zizolahleka."
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_CANCEL_RECORDING\n"
+"string.text"
+msgid "Cancel Recording"
+msgstr "Nqamula ekuqopheni"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_DOCK\n"
+"string.text"
+msgid "Dock"
+msgstr "I-dock"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_UNDOCK\n"
+"string.text"
+msgid "Undock"
+msgstr "Susa i-dock"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASK_PANE_VIEW\n"
+"string.text"
+msgid "View"
+msgstr "Buka"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASKS\n"
+"string.text"
+msgid "Tasks"
+msgstr "Imisebenzi"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_ELEMTLIST\n"
+"string.text"
+msgid "Style List"
+msgstr "Uhlu lesitayela"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_FILTER_HIERARCHICAL\n"
+"string.text"
+msgid "Hierarchical"
+msgstr "Okunamaqophelo alandelana ngokwenyuka"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_WATERCAN\n"
+"toolboxitem.text"
+msgid "Fill Format Mode"
+msgstr "Gwalisa Indlela yesitayela"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_NEW_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "New Style from Selection"
+msgstr "Isitayela esisha sisuka okhethweni"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_UPDATE_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "Update Style"
+msgstr "Vuselela Isitayela"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER\n"
+"dockingwindow.text"
+msgid "Styles and Formatting"
+msgstr "Izitayela Nesimo Sombhalo"
+
+#: versdlg.src
+#, fuzzy
+msgctxt ""
+"versdlg.src\n"
+"STR_VIEWVERSIONCOMMENT\n"
+"string.text"
+msgid "View Version Comment"
+msgstr "Faka Amazwi Okuphawula Ohlelo"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"STR_NO_NAME_SET\n"
+"string.text"
+msgid "(no name set)"
+msgstr ""

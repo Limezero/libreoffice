@@ -1,0 +1,953 @@
+#. extracted from svtools/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-24 20:56+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1403790826.000000\n"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Width:"
+msgstr "寬度："
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "高度："
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"resolutionft\n"
+"label\n"
+"string.text"
+msgid "Resolution:"
+msgstr "解析度："
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "像素"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "像素"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "DPI"
+msgstr "DPI"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "大小"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"AddressTemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Templates: Address Book Assignment"
+msgstr "範本：通訊錄指派"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label33\n"
+"label\n"
+"string.text"
+msgid "Data source"
+msgstr "資料來源"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label43\n"
+"label\n"
+"string.text"
+msgid "Table"
+msgstr "表格"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"admin\n"
+"label\n"
+"string.text"
+msgid "_Address Data Source..."
+msgstr "地址資料來源(_A)..."
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label100\n"
+"label\n"
+"string.text"
+msgid "Address Book Source"
+msgstr "通訊錄來源"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label23\n"
+"label\n"
+"string.text"
+msgid "Field Assignment"
+msgstr "欄位指定"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"GraphicExportDialog\n"
+"title\n"
+"string.text"
+msgid "%1 Options"
+msgstr "%1 選項"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Width"
+msgstr "寬度"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Height"
+msgstr "高度"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"resolutionft\n"
+"label\n"
+"string.text"
+msgid "Resolution"
+msgstr "解析度"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "大小"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Color Depth"
+msgstr "色彩深度"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "1 is minimum Quality and smallest file size."
+msgstr "1 為最低品質與最小檔案大小。"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "100 is maximum Quality and biggest file size."
+msgstr "100 為最高品質語最大檔案大小。"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "品質"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label22\n"
+"label\n"
+"string.text"
+msgid "0 is biggest file size and fastest loading."
+msgstr "0 是最大的檔案大小與最快的載入。"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label23\n"
+"label\n"
+"string.text"
+msgid "9 is smallest file size and slowest loading."
+msgstr "9 是最小的檔案大小與最慢的載入。"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "Compression"
+msgstr "壓縮"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"rlecb\n"
+"label\n"
+"string.text"
+msgid "RLE Encoding"
+msgstr "RLE 編碼"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Compression"
+msgstr "壓縮"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"interlacedcb\n"
+"label\n"
+"string.text"
+msgid "Interlaced"
+msgstr "交錯"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Mode"
+msgstr "模式"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"savetransparencycb\n"
+"label\n"
+"string.text"
+msgid "Save transparency"
+msgstr "儲存透明度"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"labe\n"
+"label\n"
+"string.text"
+msgid "Drawing Objects"
+msgstr "繪圖物件"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"binarycb\n"
+"label\n"
+"string.text"
+msgid "Binary"
+msgstr "二進位"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"textcb\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "文字"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "Encoding"
+msgstr "編碼"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"tiffpreviewcb\n"
+"label\n"
+"string.text"
+msgid "Image Preview (TIFF)"
+msgstr "影像預覽 (TIFF)"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"epsipreviewcb\n"
+"label\n"
+"string.text"
+msgid "Interchange (EPSI)"
+msgstr "互換 (EPSI)"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label17\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "預覽"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"color1rb\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "色彩"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"color2rb\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "灰階"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label18\n"
+"label\n"
+"string.text"
+msgid "Color Format"
+msgstr "色彩格式"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"level1rb\n"
+"label\n"
+"string.text"
+msgid "Level 1"
+msgstr "層次 1"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"level2rb\n"
+"label\n"
+"string.text"
+msgid "Level 2"
+msgstr "層次 2"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label19\n"
+"label\n"
+"string.text"
+msgid "Version"
+msgstr "版本"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"compresslzw\n"
+"label\n"
+"string.text"
+msgid "LZW encoding"
+msgstr "LZW 編碼"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"compressnone\n"
+"label\n"
+"string.text"
+msgid "None"
+msgstr "無"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label20\n"
+"label\n"
+"string.text"
+msgid "Compression"
+msgstr "壓縮"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Information"
+msgstr "資訊"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "pixels/cm"
+msgstr "像素/公分"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "pixels/inch"
+msgstr "像素/英吋"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "pixels/meter"
+msgstr "像素/公尺"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "inches"
+msgstr "英吋"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "cm"
+msgstr "公分"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "mm"
+msgstr "公釐"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"3\n"
+"stringlist.text"
+msgid "points"
+msgstr "點"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"4\n"
+"stringlist.text"
+msgid "pixels"
+msgstr "像素"
+
+#: javadisableddialog.ui
+msgctxt ""
+"javadisableddialog.ui\n"
+"JavaDisabledDialog\n"
+"title\n"
+"string.text"
+msgid "Enable JRE?"
+msgstr "啟用 JRE？"
+
+#: javadisableddialog.ui
+msgctxt ""
+"javadisableddialog.ui\n"
+"JavaDisabledDialog\n"
+"text\n"
+"string.text"
+msgid "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. However, use of a JRE has been disabled. Do you want to enable the use of a JRE now?"
+msgstr "%PRODUCTNAME 需要有 Java 執行時期環境 (JRE) 才能執行此作業。然而，卻已停用 JRE 之使用。您是否想要立刻啟用 JRE 之使用？"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"PlaceEditDialog\n"
+"title\n"
+"string.text"
+msgid "File Services"
+msgstr "檔案服務"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "名稱"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "類型"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "File Service"
+msgstr "檔案服務"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"hostLabel\n"
+"label\n"
+"string.text"
+msgid "Host"
+msgstr "主機"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"pathLabel\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "路徑"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"portLabel\n"
+"label\n"
+"string.text"
+msgid "Port"
+msgstr "連接埠"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"webdavs\n"
+"label\n"
+"string.text"
+msgid "Secured WebDAV (HTTPS)"
+msgstr "加密的 WebDAV (HPPTS)"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Server Details"
+msgstr "伺服器詳細資料"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"bindingLabel\n"
+"label\n"
+"string.text"
+msgid "Binding URL"
+msgstr "榜定 URL"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"repositoryLabel\n"
+"label\n"
+"string.text"
+msgid "Repository"
+msgstr "儲存庫"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Server Type"
+msgstr "伺服器類型"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "路徑"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Server Details"
+msgstr "伺服器詳細資料"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Host"
+msgstr "主機"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "Share"
+msgstr "共享"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "路徑"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Server Details"
+msgstr "伺服器詳細資料"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "Login"
+msgstr "登入"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "User Details"
+msgstr "使用者詳細資料"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "WebDAV"
+msgstr "WebDAV"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "FTP"
+msgstr "FTP"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "SSH"
+msgstr "SSH"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Windows Share"
+msgstr "Windows 共享"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "CMIS"
+msgstr "CMIS"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"PrinterSetupDialog\n"
+"title\n"
+"string.text"
+msgid "Printer Setup"
+msgstr "設置印表機"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"options\n"
+"label\n"
+"string.text"
+msgid "Options..."
+msgstr "選項..."
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "名稱"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "狀態"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "類型"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Location"
+msgstr "位置"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "備註"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"properties\n"
+"label\n"
+"string.text"
+msgid "Properties..."
+msgstr "屬性..."
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Printer"
+msgstr "印表機"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"QueryDeleteDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm Delete"
+msgstr "確認刪除"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"QueryDeleteDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the selected data?"
+msgstr "您是否確定要刪除所選的資料？"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"QueryDeleteDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Entry: %s"
+msgstr "條目：%s"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"yes\n"
+"label\n"
+"string.text"
+msgid "_Delete"
+msgstr "刪除(_D)"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"all\n"
+"label\n"
+"string.text"
+msgid "Delete _All"
+msgstr "全部刪除(_A)"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"no\n"
+"label\n"
+"string.text"
+msgid "Do _Not Delete"
+msgstr "不要刪除(_N)"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"RestartDialog\n"
+"title\n"
+"string.text"
+msgid "Restart %PRODUCTNAME"
+msgstr "重新啟動 %PRODUCTNAME"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"yes\n"
+"label\n"
+"string.text"
+msgid "Restart now"
+msgstr "立刻重新啟動"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"no\n"
+"label\n"
+"string.text"
+msgid "Restart later"
+msgstr "稍後重新啟動"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"reason_java\n"
+"label\n"
+"string.text"
+msgid "For the selected Java runtime environment to work properly, %PRODUCTNAME must be restarted."
+msgstr "為讓所選 Java 執行時期環境能正常運作，必須重新啟動 %PRODUCTNAME。"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"reason_pdf\n"
+"label\n"
+"string.text"
+msgid "For the modified default print job format to take effect, %PRODUCTNAME must be restarted."
+msgstr "為讓修改的預設列印工作格式生效，必須重新啟動 %PRODUCTNAME。"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"reason_bibliography_install\n"
+"label\n"
+"string.text"
+msgid "For the bibliography to work properly, %PRODUCTNAME must be restarted."
+msgstr "為讓文獻引用正常運作，必須重新啟動 %PRODUCTNAME。"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "Do you want to restart %PRODUCTNAME now?"
+msgstr "您是否要立刻重新啟動 %PRODUCTNAME？"

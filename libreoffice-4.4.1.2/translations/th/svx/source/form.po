@@ -1,0 +1,1618 @@
+#. extracted from svx/source/form
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-08-12 17:05+0000\n"
+"Last-Translator: jteera <jteera5@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1407863101.000000\n"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_MODEL\n"
+"string.text"
+msgid ""
+"Deleting the model '$MODELNAME' affects all controls currently bound to this model.\n"
+"Do you really want to delete this model?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_INSTANCE\n"
+"string.text"
+msgid ""
+"Deleting the instance '$INSTANCENAME' affects all controls currently bound to this instance.\n"
+"Do you really want to delete this instance?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ELEMENT\n"
+"string.text"
+msgid ""
+"Deleting the element '$ELEMENTNAME' affects all controls currently bound to this element.\n"
+"Do you really want to delete this element?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_SUBMISSION\n"
+"string.text"
+msgid ""
+"Deleting the submission '$SUBMISSIONNAME' affects all controls currently bound to this submission.\n"
+"\n"
+"Do you really want to delete this submission?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_BINDING\n"
+"string.text"
+msgid ""
+"Deleting the binding '$BINDINGNAME' affects all controls currently bound to this binding.\n"
+"\n"
+"Do you really want to delete this binding?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLNAME\n"
+"string.text"
+msgid "The name '%1' is not valid in XML. Please enter a different name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLPREFIX\n"
+"string.text"
+msgid "The prefix '%1' is not valid in XML. Please enter a different prefix."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DOUBLE_MODELNAME\n"
+"string.text"
+msgid "The name '%1' already exists. Please enter a new name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_EMPTY_SUBMISSIONNAME\n"
+"string.text"
+msgid "The submission must have a name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD\n"
+"menuitem.text"
+msgid "Add Item"
+msgstr "เพิ่มรายการ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"menuitem.text"
+msgid "Add Element"
+msgstr "เพิ่มส่วนประกอบ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"menuitem.text"
+msgid "Add Attribute"
+msgstr "เพิ่มคุณลักษณะ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_EDIT\n"
+"menuitem.text"
+msgid "Edit"
+msgstr "แ~ก้ไข"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_REMOVE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "~ลบ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_POST\n"
+"string.text"
+msgid "Post"
+msgstr "โพสต์"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_PUT\n"
+"string.text"
+msgid "Put"
+msgstr "Put"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_GET\n"
+"string.text"
+msgid "Get"
+msgstr "Get"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_NONE\n"
+"string.text"
+msgid "None"
+msgstr "ไม่มี"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_INST\n"
+"string.text"
+msgid "Instance"
+msgstr "กรณี"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_DOC\n"
+"string.text"
+msgid "Document"
+msgstr "เอกสาร"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_PARENT\n"
+"string.text"
+msgid "Submission: "
+msgstr "Submission: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ID\n"
+"string.text"
+msgid "ID: "
+msgstr "หมายเลข:"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_BIND\n"
+"string.text"
+msgid "Binding: "
+msgstr "การประสาน (Binding): "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REF\n"
+"string.text"
+msgid "Reference: "
+msgstr "อ้างอิง:"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ACTION\n"
+"string.text"
+msgid "Action: "
+msgstr "การปฏิบัติการ:"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_METHOD\n"
+"string.text"
+msgid "Method: "
+msgstr "วิธีใช้:"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REPLACE\n"
+"string.text"
+msgid "Replace: "
+msgstr "แทนที่: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ELEMENT\n"
+"string.text"
+msgid "Add Element"
+msgstr "เพิ่มส่วนประกอบ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ELEMENT\n"
+"string.text"
+msgid "Edit Element"
+msgstr "แก้ไขส่วนประกอบ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ELEMENT\n"
+"string.text"
+msgid "Delete Element"
+msgstr "ลบส่วนประกอบ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ATTRIBUTE\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "เพิ่มคุณลักษณะ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ATTRIBUTE\n"
+"string.text"
+msgid "Edit Attribute"
+msgstr "แก้ไขคุณลักษณะ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Delete Attribute"
+msgstr "ลบคุณลักษณะ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_BINDING\n"
+"string.text"
+msgid "Add Binding"
+msgstr "เพิ่มการประสาน"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_BINDING\n"
+"string.text"
+msgid "Edit Binding"
+msgstr "แก้ไขการประสาน"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_BINDING\n"
+"string.text"
+msgid "Delete Binding"
+msgstr "ลบการประสาน"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_SUBMISSION\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Add Submission"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_SUBMISSION\n"
+"string.text"
+msgid "Edit Submission"
+msgstr "Edit Submission"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_SUBMISSION\n"
+"string.text"
+msgid "Delete Submission"
+msgstr "Delete Submission"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ELEMENT\n"
+"string.text"
+msgid "Element"
+msgstr "ส่วนประกอบ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ATTRIBUTE\n"
+"string.text"
+msgid "Attribute"
+msgstr "คุณลักษณะ"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING\n"
+"string.text"
+msgid "Binding"
+msgstr "การประสาน (Binding)"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING_EXPR\n"
+"string.text"
+msgid "Binding expression"
+msgstr "นิพจน์ประสาน"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~ลบ"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_EDIT\n"
+"menuitem.text"
+msgid "~Edit"
+msgstr "แ~ก้ไข"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NULL\n"
+"menuitem.text"
+msgid "~Is Null"
+msgstr "เป็นค่า~ว่าง"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NOT_NULL\n"
+"menuitem.text"
+msgid "I~s not Null"
+msgstr "ไ~ม่เป็นค่าว่าง"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_FORM\n"
+"menuitem.text"
+msgid "Form"
+msgstr "ฟอร์ม"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_HIDDEN\n"
+"menuitem.text"
+msgid "Hidden Control"
+msgstr "ซ่อนการควบคุม"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_NEW\n"
+"menuitem.text"
+msgid "~New"
+msgstr "ให~ม่"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_CHANGECONTROLTYPE\n"
+"menuitem.text"
+msgid "Replace with"
+msgstr "แทนที่ด้วย"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~ลบ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_TAB_DIALOG\n"
+"menuitem.text"
+msgid "Tab Order..."
+msgstr "ลำดับแท็บ..."
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_RENAME_OBJECT\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "เ~ปลี่ยนชื่อ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_SHOW_PROPERTY_BROWSER\n"
+"menuitem.text"
+msgid "Propert~ies"
+msgstr "คุณสม~บัติ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_OPEN_READONLY\n"
+"menuitem.text"
+msgid "Open in Design Mode"
+msgstr "เปิดในโหมดออกแบบ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_AUTOCONTROLFOCUS\n"
+"menuitem.text"
+msgid "Automatic Control Focus"
+msgstr "Automatic Control Focus ให้เคอร์เซอร์อยู่ที่ฟิลด์แรกเมื่อเปิดฟอร์ม"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_EDIT\n"
+"menuitem.text"
+msgid "~Text Box"
+msgstr "กล่อง~ข้อความ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_BUTTON\n"
+"menuitem.text"
+msgid "~Button"
+msgstr "~ปุ่ม"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FIXEDTEXT\n"
+"menuitem.text"
+msgid "La~bel field"
+msgstr "เขตข้อมูลป้าย~ชื่อ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_GROUPBOX\n"
+"menuitem.text"
+msgid "G~roup Box"
+msgstr "กล่อง~กลุ่ม"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_LISTBOX\n"
+"menuitem.text"
+msgid "L~ist Box"
+msgstr "กล่องรา~ยการ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CHECKBOX\n"
+"menuitem.text"
+msgid "~Check Box"
+msgstr "กล่อง~กาเครื่องหมาย"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_RADIOBUTTON\n"
+"menuitem.text"
+msgid "~Radio Button"
+msgstr "ปุ่ม~วิทยุ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_COMBOBOX\n"
+"menuitem.text"
+msgid "Combo Bo~x"
+msgstr "กล่~องคอมโบ "
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGEBUTTON\n"
+"menuitem.text"
+msgid "I~mage Button"
+msgstr "ปุ่มรูปภา~พ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FILECONTROL\n"
+"menuitem.text"
+msgid "~File Selection"
+msgstr "การเลือกแ~ฟ้ม"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_DATE\n"
+"menuitem.text"
+msgid "~Date Field"
+msgstr "เขตข้อมูล~วันที่"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_TIME\n"
+"menuitem.text"
+msgid "Tim~e Field"
+msgstr "เขตข้อมูลเว~ลา"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NUMERIC\n"
+"menuitem.text"
+msgid "~Numerical Field"
+msgstr "เขตข้อมูล~ตัวเลข"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CURRENCY\n"
+"menuitem.text"
+msgid "C~urrency Field"
+msgstr "เขตข้อมูลเ~งินตรา"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_PATTERN\n"
+"menuitem.text"
+msgid "~Pattern Field"
+msgstr "เขตข้อมูลของ~ลวดลาย"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGECONTROL\n"
+"menuitem.text"
+msgid "Ima~ge Control"
+msgstr "การควบคุมรูปภา~พ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FORMATTED\n"
+"menuitem.text"
+msgid "Fo~rmatted Field"
+msgstr "Fo~rmatted Field"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SCROLLBAR\n"
+"menuitem.text"
+msgid "Scroll bar"
+msgstr "แถบเลื่อนจอภาพ"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SPINBUTTON\n"
+"menuitem.text"
+msgid "Spin Button"
+msgstr "ปุ่มหมุน"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NAVIGATIONBAR\n"
+"menuitem.text"
+msgid "Navigation Bar"
+msgstr "แถบนำทาง"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_SVX_FMEXPLORER\n"
+"dockingwindow.text"
+msgid "Form Navigator"
+msgstr "ตัวนำทางแบบฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_CONTEXT_ADDFORM\n"
+"string.text"
+msgid "Error while creating form"
+msgstr "เกิดข้อผิดพลาดขณะสร้างฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_FIELDREQUIRED\n"
+"string.text"
+msgid "Input required in field '#'. Please enter a value."
+msgstr "ต้องการการป้อนเข้าในเขตข้อมูล '#' กรุณาใส่ค่า"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_DUPLICATE_NAME\n"
+"string.text"
+msgid ""
+"Entry already exists.\n"
+"Please choose another name."
+msgstr ""
+"รายการมีอยู่แล้ว\n"
+"กรุณาเลือกชื่ออื่น"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "ฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NO_PROPERTIES\n"
+"string.text"
+msgid "No control selected"
+msgstr "ไม่มีการเลือกการควบคุม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_CONTROL\n"
+"string.text"
+msgid "Properties: "
+msgstr "คุณสมบัติ: "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_FORM\n"
+"string.text"
+msgid "Form Properties"
+msgstr "คุณสมบัติของฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FMEXPLORER\n"
+"string.text"
+msgid "Form Navigator"
+msgstr "ตัวนำทางแบบฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORM\n"
+"string.text"
+msgid "Form"
+msgstr "ฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr "ตาราง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr "ข้อคำถาม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"3\n"
+"string.text"
+msgid "SQL"
+msgstr "SQL"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_STDFORMNAME\n"
+"string.text"
+msgid "Form"
+msgstr "ฟอร์ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_HIDDEN\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "ซ่อนการควบคุม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_CONTROL\n"
+"string.text"
+msgid "Control"
+msgstr "ควบคุม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_TEXT\n"
+"string.text"
+msgid "Record"
+msgstr "ระเบียน"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_FROM_TEXT\n"
+"string.text"
+msgid "of"
+msgstr "ของ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Add field:"
+msgstr "เพิ่มเขตข้อมูล:"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_WRITEERROR\n"
+"string.text"
+msgid "Error writing data to database"
+msgstr "เกิดข้อผิดพลาดขณะเขียนข้อมูลไปยังฐานข้อมูล"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SYNTAXERROR\n"
+"string.text"
+msgid "Syntax error in query expression"
+msgstr "ไวยากรณ์ผิดพลาดในนิพจน์ข้อคำถาม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORD\n"
+"string.text"
+msgid "You intend to delete 1 record."
+msgstr "คุณตั้งใจที่จะลบ 1 ระเบียน"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORDS\n"
+"string.text"
+msgid "# records will be deleted."
+msgstr "ระเบียน# จะถูกลบ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM\n"
+"string.text"
+msgid ""
+"If you click Yes, you won't be able to undo this operation.\n"
+"Do you want to continue anyway?"
+msgstr ""
+"ถ้าคุณคลิก ใช่  คุณจะไม่สามารถทำกลับปฏิบัติการนี้!\n"
+"คุณยังต้องการทำต่อหรือไม่ ?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_NO_ELEMENT\n"
+"string.text"
+msgid "Choose an entry from the list or enter a text corresponding to one of the list items."
+msgstr "เลือกรายการจากรายชื่อ หรือใส่ข้อความที่สัมพันธ์กับหนึ่งในรายการของรายชื่อ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_GROUPBOX\n"
+"string.text"
+msgid "Frame element"
+msgstr "ส่วนประกอบเฟรม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "การนำทาง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATIONBAR\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "แถบนำทาง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_COLUMN\n"
+"string.text"
+msgid "Col"
+msgstr "คอลัมน์"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_PROPERTY\n"
+"string.text"
+msgid "Set property '#'"
+msgstr "กำหนดคุณสมบัติ '#'"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_INSERT\n"
+"string.text"
+msgid "Insert in container"
+msgstr "แทรกในที่บรรจุ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE\n"
+"string.text"
+msgid "Delete #"
+msgstr "ลบ #"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE_MULTIPLE\n"
+"string.text"
+msgid "Delete # objects"
+msgstr "ลบวัตถุ # "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REPLACE\n"
+"string.text"
+msgid "Replace a container element"
+msgstr "แทนที่ส่วนประกอบของที่บรรจุ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_DELETE_LOGICAL\n"
+"string.text"
+msgid "Delete structure"
+msgstr "ลบโครงสร้าง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_MODEL_REPLACE\n"
+"string.text"
+msgid "Replace Control"
+msgstr "แทนที่การควบคุม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "วันที่"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "เวลา"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Push Button"
+msgstr "ปุ่มกด"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "ปุ่มตัวเลือก"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "กล่องกาเครื่องหมาย"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "เขตข้อมูลป้ายชื่อ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "กล่องจัดกลุ่ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "กล่องข้อความ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Formatted Field"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "กล่องรายการ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "กล่องคอมโบ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "ปุ่มรูปภาพ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "การควบคุมรูปภาพ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "การเลือกแฟ้ม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "เขตข้อมูลวันที่"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "เขตข้อมูลเวลา"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "เขตข้อมูลตัวเลข"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "เขตข้อมูลเงินตรา"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "เขตข้อมูลของลวดลาย"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "การควบคุมตาราง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SCROLLBAR\n"
+"string.text"
+msgid "Scrollbar"
+msgstr "แถบเลื่อน"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SPINBUTTON\n"
+"string.text"
+msgid "Spin Button"
+msgstr "ปุ่มหมุน"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NAVBAR\n"
+"string.text"
+msgid "Navigation Bar"
+msgstr "แถบนำทาง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "การเลือกหลายรายการ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NODATACONTROLS\n"
+"string.text"
+msgid "No data-related controls in the current form!"
+msgstr "ไม่มีการควบคุมข้อมูลที่สัมพันธ์กันในฟอร์มปัจจุบัน!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_DATE\n"
+"string.text"
+msgid " (Date)"
+msgstr " (วันที่)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_TIME\n"
+"string.text"
+msgid " (Time)"
+msgstr " (เวลา)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_NAVIGATOR\n"
+"string.text"
+msgid "Filter navigator"
+msgstr "ตัวนำทางตัวกรอง"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_FOR\n"
+"string.text"
+msgid "Filter for"
+msgstr "กรองเพื่อ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_OR\n"
+"string.text"
+msgid "Or"
+msgstr "หรือ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NOCONTROLS_FOR_EXTERNALDISPLAY\n"
+"string.text"
+msgid "Valid bound controls which can be used in the table view do not exist in the current form."
+msgstr "Valid bound controls which can be used in the table view do not exist in the current form."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_AUTOFIELD\n"
+"string.text"
+msgid "<AutoField>"
+msgstr "<เขตข้อมูลอัตโนมัติ>"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"1\n"
+"string.text"
+msgid "LIKE"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"2\n"
+"string.text"
+msgid "NOT"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"3\n"
+"string.text"
+msgid "EMPTY"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"4\n"
+"string.text"
+msgid "TRUE"
+msgstr "TRUE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"5\n"
+"string.text"
+msgid "FALSE"
+msgstr "FALSE"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"6\n"
+"string.text"
+msgid "IS"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"7\n"
+"string.text"
+msgid "BETWEEN"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"8\n"
+"string.text"
+msgid "OR"
+msgstr "OR"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"9\n"
+"string.text"
+msgid "AND"
+msgstr "AND"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"10\n"
+"string.text"
+msgid "Average"
+msgstr "เฉลี่ย"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"11\n"
+"string.text"
+msgid "Count"
+msgstr "นับ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"12\n"
+"string.text"
+msgid "Maximum"
+msgstr "มากที่สุด"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"13\n"
+"string.text"
+msgid "Minimum"
+msgstr "น้อยที่สุด"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"14\n"
+"string.text"
+msgid "Sum"
+msgstr "ผลรวม"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"15\n"
+"string.text"
+msgid "Every"
+msgstr "ทุก ๆ"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"16\n"
+"string.text"
+msgid "Any"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"17\n"
+"string.text"
+msgid "Some"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"18\n"
+"string.text"
+msgid "STDDEV_POP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"19\n"
+"string.text"
+msgid "STDDEV_SAMP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"20\n"
+"string.text"
+msgid "VAR_SAMP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"21\n"
+"string.text"
+msgid "VAR_POP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"22\n"
+"string.text"
+msgid "Collect"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"23\n"
+"string.text"
+msgid "Fusion"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"24\n"
+"string.text"
+msgid "Intersection"
+msgstr "Intersection"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ERROR\n"
+"string.text"
+msgid "Syntax error in SQL statement"
+msgstr "ไวยากรณ์ผิดพลาดในคำสั่ง SQL "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE\n"
+"string.text"
+msgid "The value #1 cannot be used with LIKE."
+msgstr "ไม่สามารถใช้ค่า #1 กับ LIKE ได้!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE\n"
+"string.text"
+msgid "LIKE cannot be used with this field."
+msgstr "ไม่สามารถใช้ LIKE กับเขตข้อมูลนี้ได้!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID\n"
+"string.text"
+msgid "The value entered is not a valid date. Please enter a date in a valid format, for example, MM/DD/YY."
+msgstr "ค่าที่ใส่ไม่ใช่วันที่ที่ถูกต้อง กรุณาใส่วันที่ในรูปแบบที่ถูกต้อง ตัวอย่างเช่น MM/DD/YY"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with an integer."
+msgstr "ไม่สามารถเปรียบเทียบเขตข้อมูลกับจำนวนเต็มได้"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE\n"
+"string.text"
+msgid "The database does not contain a table named \"#\"."
+msgstr "ไม่รู้จักตาราง \"#\" ในฐานข้อมูล"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_OR_QUERY\n"
+"string.text"
+msgid "The database does contain neither a table nor a query named \"#\"."
+msgstr "The database does contain neither a table nor a query named \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_EXISTS\n"
+"string.text"
+msgid "The database already contains a table or view with name \"#\"."
+msgstr "The database already contains a table or view with name \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_QUERY_EXISTS\n"
+"string.text"
+msgid "The database already contains a query with name \"#\"."
+msgstr "The database already contains a query with name \"#\"."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_COLUMN\n"
+"string.text"
+msgid "The column \"#1\" is unknown in the table \"#2\"."
+msgstr "ไม่รู้จักคอลัมน์ \"#1\" ในตาราง \"#2\""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with a floating point number."
+msgstr "ไม่สามารถเปรียบเทียบเขตข้อมูลกับตัวเลขทศนิยมได้"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE\n"
+"string.text"
+msgid "The entered criterion cannot be compared with this field."
+msgstr "The entered criterion cannot be compared with this field."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATANAVIGATOR\n"
+"string.text"
+msgid "Data Navigator"
+msgstr "ตัวนำทางข้อมูล"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_READONLY_VIEW\n"
+"string.text"
+msgid " (read-only)"
+msgstr " (อ่านอย่างเดียว)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr "แฟ้มนี้มีอยู่แล้ว ต้องการเขียนทับหรือไม่?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_OBJECT_LABEL\n"
+"string.text"
+msgid "#object# label"
+msgstr "ป้าย #object#"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_STYLE\n"
+"menuitem.text"
+msgid "St~yle"
+msgstr "~กระบวนแบบ"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_ALIGNMENT\n"
+"menuitem.text"
+msgid "~Alignment"
+msgstr "การ~ปรับแนว"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_SPACING\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "ระยะห่าง~บรรทัด"

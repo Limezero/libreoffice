@@ -1,0 +1,1437 @@
+#. extracted from svx/source/gallery2
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:09+0200\n"
+"PO-Revision-Date: 2014-12-01 16:43+0530\n"
+"Last-Translator: Shankar Prasad <svenkate AT redhat Dot com>\n"
+"Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356522555.0\n"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXDLG_GALLERYBROWSER\n"
+"dockingwindow.text"
+msgid "Gallery"
+msgstr "ಗ್ಯಾಲರಿ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ACTUALIZE_PROGRESS\n"
+"string.text"
+msgid "Update"
+msgstr "ಅಪ್ಡೇಟ್‌ ಮಾಡು"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FOPENERROR\n"
+"string.text"
+msgid "This file cannot be opened"
+msgstr "ಈ ಕಡತವನ್ನು ತೆರೆಯಲಾಗುವುದಿಲ್ಲ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NOTHEME\n"
+"string.text"
+msgid "Invalid Theme Name!"
+msgstr "ಅಮಾನ್ಯವಾದ ಸಿದ್ಧವಿನ್ಯಾಸದ ಹೆಸರು!"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT1_UI\n"
+"string.text"
+msgid "Wave - Sound File"
+msgstr "ವೇವ್ - ಶಬ್ದ ಕಡತ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT2_UI\n"
+"string.text"
+msgid "Audio Interchange File Format"
+msgstr "ಆಡಿಯೋ ಅದಲುಬದಲು ಕಡತ ವಿನ್ಯಾಸ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_EXTFORMAT3_UI\n"
+"string.text"
+msgid "AU - Sound File"
+msgstr "AU - ಶಬ್ದ ಕಡತ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_FILTER\n"
+"string.text"
+msgid "Graphics filter"
+msgstr "ಗ್ರಾಫಿಕ್ಸಿನ ಶೋಧಕ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LENGTH\n"
+"string.text"
+msgid "Length:"
+msgstr "ಉದ್ದ:"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SIZE\n"
+"string.text"
+msgid "Size:"
+msgstr "ಗಾತ್ರ:"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DELETEDD\n"
+"string.text"
+msgid "Do you want to delete the linked file?"
+msgstr "ಸಂಪರ್ಕಗೊಳಿಸಿದ ಕಡತವನ್ನು ಅಳಿಸಬೇಕೇ?"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_SGIERROR\n"
+"string.text"
+msgid ""
+"This file cannot be opened.\n"
+"Do you want to enter a different search path? "
+msgstr ""
+"ಈ ಕಡತವನ್ನು ತೆಗೆಯಲಾಗಲಿಲ್ಲ. ಬೇರೆ \n"
+"ಶೋಧಕ ಮಾರ್ಗವನ್ನು ನಮೂದಿಸಲು ಇಚ್ಛಿಸುತ್ತೀರಾ? "
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_NEWTHEME\n"
+"string.text"
+msgid "New Theme"
+msgstr "ಹೊಸ ಸಿದ್ಧವಿನ್ಯಾಸ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_BROWSER\n"
+"string.text"
+msgid "~Organizer..."
+msgstr "ಸಂಘಟಕ(~O)..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_THEMEERR\n"
+"string.text"
+msgid ""
+"This theme name already exists.\n"
+"Please choose a different one."
+msgstr ""
+"ಈ ಸಿದ್ಧವಿನ್ಯಾಸದ ಹೆಸರು ಈಗಾಗಲೇ ಲಭ್ಯವಿದೆ. \n"
+"ದಯವಿಟ್ಟು ಬೇರೆ ಹೆಸರನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_IMPORTTHEME\n"
+"string.text"
+msgid "I~mport..."
+msgstr "ಆಮದು ಮಾಡಿಕೊ(~m)..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_CREATETHEME\n"
+"string.text"
+msgid "New Theme..."
+msgstr "ಹೊಸ ಸಿದ್ಧವಿನ್ಯಾಸ..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_DIALOGID\n"
+"string.text"
+msgid "Assign ID"
+msgstr "ID ಯನ್ನು ನಿಯೋಜಿಸು"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "ಶೀರ್ಷಿಕೆ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "ಮಾರ್ಗ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_ICONVIEW\n"
+"string.text"
+msgid "Icon View"
+msgstr "ಲಾಂಛನ ನೋಟ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXSTR_GALLERY_LISTVIEW\n"
+"string.text"
+msgid "Detailed View"
+msgstr "ವಿವರವಾದ ನೋಟ"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ACTUALIZE\n"
+"menuitem.text"
+msgid "Update"
+msgstr "ಅಪ್ಡೇಟ್‌ ಮಾಡು"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "ಅಳಿಸು(~D)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "ಹೆಸರನ್ನು ಬದಲಾಯಿಸು(~R)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_ASSIGN_ID\n"
+"menuitem.text"
+msgid "Assign ~ID"
+msgstr "~ID ಯನ್ನು ನಿಯೋಜಿಸು"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY1\n"
+"MN_PROPERTIES\n"
+"menuitem.text"
+msgid "Propert~ies..."
+msgstr "ಗುಣಗಳು(~i)..."
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_ADD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "ಸೇರಿಸು (~I)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_BACKGROUND\n"
+"menuitem.text"
+msgid "Insert as Bac~kground"
+msgstr "ಹಿನ್ನೆಲೆಯಾಗಿ ಸೇರಿಸು (~k)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PREVIEW\n"
+"menuitem.text"
+msgid "~Preview"
+msgstr "ಮುನ್ನೋಟ(~P)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_TITLE\n"
+"menuitem.text"
+msgid "~Title"
+msgstr "ಶೀರ್ಷಿಕೆ(~T)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "ಅಳಿಸು(~D)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_COPYCLIPBOARD\n"
+"menuitem.text"
+msgid "~Copy"
+msgstr "ಕಾಪಿ ಮಾಡು(~C)"
+
+#: gallery.src
+msgctxt ""
+"gallery.src\n"
+"RID_SVXMN_GALLERY2\n"
+"MN_PASTECLIPBOARD\n"
+"menuitem.text"
+msgid "~Insert"
+msgstr "ಸೇರಿಸು(~I)"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_3D\n"
+"string.text"
+msgid "3D Effects"
+msgstr "3D ಪರಿಣಾಮಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMATIONS\n"
+"string.text"
+msgid "Animations"
+msgstr "ಸಜೀವನಗಳು(ಎನಿಮೇಶನ್‌ಗಳು)"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BULLETS\n"
+"string.text"
+msgid "Bullets"
+msgstr "ಅಂಶಸೂಚಕಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OFFICE\n"
+"string.text"
+msgid "Office"
+msgstr "ಆಫೀಸ್‌"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS\n"
+"string.text"
+msgid "Flags"
+msgstr "ಬಾವುಟಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS\n"
+"string.text"
+msgid "Flow Charts"
+msgstr "ಹರಿವು ನಕ್ಷೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr "ಎಮೋಟಿಕಾನ್‌ಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS\n"
+"string.text"
+msgid "Pictures"
+msgstr "ಚಿತ್ರಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BACKGROUNDS\n"
+"string.text"
+msgid "Backgrounds"
+msgstr "ಹಿನ್ನೆಲೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE\n"
+"string.text"
+msgid "Homepage"
+msgstr "ನೆಲೆಪುಟ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_INTERACTION\n"
+"string.text"
+msgid "Interaction"
+msgstr "ಪ್ರತಿಸ್ಪಂದನ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS\n"
+"string.text"
+msgid "Maps"
+msgstr "ನಕ್ಷೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE\n"
+"string.text"
+msgid "People"
+msgstr "ಜನರು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SURFACES\n"
+"string.text"
+msgid "Surfaces"
+msgstr "ಹೊರರೂಪಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTERS\n"
+"string.text"
+msgid "Computers"
+msgstr "ಗಣಕಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DIAGRAMS\n"
+"string.text"
+msgid "Diagrams"
+msgstr "ಚಿತ್ರರಚನೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ENVIRONMENT\n"
+"string.text"
+msgid "Environment"
+msgstr "ಪರಿಸರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCE\n"
+"string.text"
+msgid "Finance"
+msgstr "ಹಣಕಾಸು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TRANSPORT\n"
+"string.text"
+msgid "Transport"
+msgstr "ವರ್ಗಾವಣೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TXTSHAPES\n"
+"string.text"
+msgid "Textshapes"
+msgstr "ಪಠ್ಯಆಕೃತಿಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SOUNDS\n"
+"string.text"
+msgid "Sounds"
+msgstr "ಶಬ್ದಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SYMBOLS\n"
+"string.text"
+msgid "Symbols"
+msgstr "ಚಿಹ್ನೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MYTHEME\n"
+"string.text"
+msgid "My Theme"
+msgstr "ನನ್ನ ಸಿದ್ಧವಿನ್ಯಾಸ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "ಬಾಣಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BALLOONS\n"
+"string.text"
+msgid "Balloons"
+msgstr "ಬಲೂನ್‌ಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_KEYBOARD\n"
+"string.text"
+msgid "Keyboard"
+msgstr "ಕೀಲಿಮಣೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "ಸಮಯ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PRESENTATION\n"
+"string.text"
+msgid "Presentation"
+msgstr "ಪ್ರಸ್ತುತಿ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CALENDAR\n"
+"string.text"
+msgid "Calendar"
+msgstr "ಕ್ಯಾಲೆಂಡರ್"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "ನ್ಯಾವಿಗೇಶನ್"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMMUNICATION\n"
+"string.text"
+msgid "Communication"
+msgstr "ಸಂಪರ್ಕ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FINANCES\n"
+"string.text"
+msgid "Finances"
+msgstr "ಹಣಕಾಸು ವ್ಯವಹಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER\n"
+"string.text"
+msgid "Computers"
+msgstr "ಗಣಕಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLIMA\n"
+"string.text"
+msgid "Climate"
+msgstr "ಹವಾಮಾನ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_EDUCATION\n"
+"string.text"
+msgid "School & University"
+msgstr "ಶಾಲೆಗಳು ಮತ್ತು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_TROUBLE\n"
+"string.text"
+msgid "Problem Solving"
+msgstr "ಸಮಸ್ಯೆಯನ್ನು ಬಗೆಹರಿಸುವಿಕೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SCREENBEANS\n"
+"string.text"
+msgid "Screen Beans"
+msgstr "ತೆರೆಯ ಬೀಜಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_POLYGONS\n"
+"string.text"
+msgid "Shapes - polygons"
+msgstr "ಆಕಾರಗಳು - ಬಹುಭುಜಾಕೃತಿಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_1\n"
+"string.text"
+msgid "Shapes 1"
+msgstr "ಆಕೃತಿಗಳು 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SHAPES_2\n"
+"string.text"
+msgid "Shapes 2"
+msgstr "ಆಕೃತಿಗಳು 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ANIMALS\n"
+"string.text"
+msgid "Animals"
+msgstr "ಪ್ರಾಣಿಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CARS\n"
+"string.text"
+msgid "Cars"
+msgstr "ಕಾರುಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUGS\n"
+"string.text"
+msgid "Bugs"
+msgstr "ಹುಳುಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_OTHER\n"
+"string.text"
+msgid "Cisco - Other"
+msgstr "Cisco - ಇತರೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_MEDIA\n"
+"string.text"
+msgid "Cisco - Media"
+msgstr "Cisco - ಮಾಧ್ಯಮ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_PRODUCTS\n"
+"string.text"
+msgid "Cisco - Products"
+msgstr "Cisco - ಉತ್ಪನ್ನಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CISCO_WAN_LAN\n"
+"string.text"
+msgid "Cisco - WAN - LAN"
+msgstr "Cisco - WAN - LAN"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_USUAL\n"
+"string.text"
+msgid "Domino - usual"
+msgstr "ಡೊಮಿನೊ - ಚಾಲ್ತಿಯಲ್ಲಿರುವ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_DOMINO_NUMBERED\n"
+"string.text"
+msgid "Domino - numbered"
+msgstr "ಡೊಮಿನೊ - ಅಂಕೆಯುಕ್ತ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_1\n"
+"string.text"
+msgid "Electronics - parts 1"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಭಾಗಗಳು 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_2\n"
+"string.text"
+msgid "Electronics - parts 2"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಭಾಗಗಳು 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_3\n"
+"string.text"
+msgid "Electronics - parts 3"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಭಾಗಗಳು 3"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_4\n"
+"string.text"
+msgid "Electronics - parts 4"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಭಾಗಗಳು 4"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_CIRCUIT\n"
+"string.text"
+msgid "Electronics - circuit"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಸರ್ಕ್ಯುಟ್‌"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_SIGNS\n"
+"string.text"
+msgid "Electronics - signs"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಸಂಕೇತಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELECTRONICS_GAUGES\n"
+"string.text"
+msgid "Electronics - gauges"
+msgstr "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್‍ - ಮಾಪಕಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PEOPLE_1\n"
+"string.text"
+msgid "People"
+msgstr "ಜನರು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_OVERLAY\n"
+"string.text"
+msgid "Architecture - overlay"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್ - ಓವರ್ಲೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_FURNITURES\n"
+"string.text"
+msgid "Architecture - furniture"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್ - ಪೀಠೋಪಕರಣ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BUILDINGS\n"
+"string.text"
+msgid "Architecture - buildings"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್ - ಕಟ್ಟಡಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_BATHROOM_KITCHEN\n"
+"string.text"
+msgid "Architecture - bathroom, kitchen"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್ - ಸ್ನಾನಗೃಹ, ಅಡುಗೆ ಮನೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_KITCHEN\n"
+"string.text"
+msgid "Architecture - kitchen"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್ - ಅಡುಗೆ ಮನೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARCHITECTURE_WINDOWS_DOORS\n"
+"string.text"
+msgid "Architecture - windows, doors"
+msgstr "ಆರ್ಕಿಟೆಕ್ಚರ್ - ಕಿಟಕಿಗಳು, ಬಾಗಿಲುಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_1\n"
+"string.text"
+msgid "Flowcharts"
+msgstr "ಕ್ರಮಸೂಚಿ ನಕ್ಷೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLOWCHARTS_2\n"
+"string.text"
+msgid "Flowcharts 2"
+msgstr "ಕ್ರಮಸೂಚಿ ನಕ್ಷೆಗಳು 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FORALSTUDIOA\n"
+"string.text"
+msgid "Foral-StudioA"
+msgstr "ಫೋರಲ್-StudioA"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FAUNA\n"
+"string.text"
+msgid "Photos - Fauna"
+msgstr "ಚಿತ್ರಗಳು - ಪ್ರಾಣಿಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_BUILDINGS\n"
+"string.text"
+msgid "Photos - Buildings"
+msgstr "ಚಿತ್ರಗಳು - ಕಟ್ಟಡಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_PLANTS\n"
+"string.text"
+msgid "Photos - Plants"
+msgstr "ಚಿತ್ರಗಳು - ಗಿಡಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_STATUES\n"
+"string.text"
+msgid "Photos - Statues"
+msgstr "ಚಿತ್ರಗಳು - ಪ್ರತಿಮೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_LANDSCAPES\n"
+"string.text"
+msgid "Photos - Landscapes"
+msgstr "ಚಿತ್ರಗಳು - ಪ್ರಕೃತಿ ದೃಶ್ಯಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CITIES\n"
+"string.text"
+msgid "Photos - Cities"
+msgstr "ಚಿತ್ರಗಳು - ನಗರಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FLOWERS\n"
+"string.text"
+msgid "Photos - Flowers"
+msgstr "ಚಿತ್ರಗಳು - ಹೂವುಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_THERAPEUTICS_GENERAL\n"
+"string.text"
+msgid "Therapeutics - general"
+msgstr "ಚಿಕಿತ್ಸಕ - ಸಾಮಾನ್ಯ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_WEATHER\n"
+"string.text"
+msgid "Weather"
+msgstr "ಹವಾಮಾನ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_VECHILES\n"
+"string.text"
+msgid "Vehicles"
+msgstr "ವಾಹನಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS\n"
+"string.text"
+msgid "Signs"
+msgstr "ಚಿಹ್ನೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BLUE_MAN\n"
+"string.text"
+msgid "Blue Man"
+msgstr "ನೀಲಿ ಮನುಷ್ಯ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CHEMISTRY_AMINO_ACIDS\n"
+"string.text"
+msgid "Chemistry - Amino acids"
+msgstr "ರಸಾಯನಶಾಸ್ತ್ರ - ಅಮಿನೊ ಆಮ್ಲಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_SIGNS\n"
+"string.text"
+msgid "Logical signs"
+msgstr "ಲಾಜಿಕಲ್ ಚಿಹ್ನೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGICAL_GATES\n"
+"string.text"
+msgid "Logical gates"
+msgstr "ಲಾಜಿಕಲ್ ಗೇಟ್‌ಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_LOGOS\n"
+"string.text"
+msgid "Logos"
+msgstr "ಲಾಂಛನಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SMILES\n"
+"string.text"
+msgid "Smilies"
+msgstr "ಸ್ಮೈಲಿಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ARROWS_1\n"
+"string.text"
+msgid "Arrows"
+msgstr "ಬಾಣಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_01_CLOCK\n"
+"string.text"
+msgid "Clock - 01 clock"
+msgstr "ಗಡಿಯಾರ - 01 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_02_CLOCK\n"
+"string.text"
+msgid "Clock - 02 clock"
+msgstr "ಗಡಿಯಾರ - 02 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_03_CLOCK\n"
+"string.text"
+msgid "Clock - 03 clock"
+msgstr "ಗಡಿಯಾರ - 03 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_04_CLOCK\n"
+"string.text"
+msgid "Clock - 04 clock"
+msgstr "ಗಡಿಯಾರ - 04 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_05_CLOCK\n"
+"string.text"
+msgid "Clock - 05 clock"
+msgstr "ಗಡಿಯಾರ - 05 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_06_CLOCK\n"
+"string.text"
+msgid "Clock - 06 clock"
+msgstr "ಗಡಿಯಾರ - 06 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_07_CLOCK\n"
+"string.text"
+msgid "Clock - 07 clock"
+msgstr "ಗಡಿಯಾರ - 07 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_08_CLOCK\n"
+"string.text"
+msgid "Clock - 08 clock"
+msgstr "ಗಡಿಯಾರ - 08 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_09_CLOCK\n"
+"string.text"
+msgid "Clock - 09 clock"
+msgstr "ಗಡಿಯಾರ - 09 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_10_CLOCK\n"
+"string.text"
+msgid "Clock - 10 clock"
+msgstr "ಗಡಿಯಾರ - 10 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_11_CLOCK\n"
+"string.text"
+msgid "Clock - 11 clock"
+msgstr "ಗಡಿಯಾರ - 11 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CLOCK_12_CLOCK\n"
+"string.text"
+msgid "Clock - 12 clock"
+msgstr "ಗಡಿಯಾರ - 12 ಗಡಿಯಾರ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PNEUMATIC_PARTS\n"
+"string.text"
+msgid "Pneumatic - parts"
+msgstr "ವಾಯುಚಾಲಿತ - ಭಾಗಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_GENERAL\n"
+"string.text"
+msgid "Computer - general"
+msgstr "ಗಣಕಯಂತ್ರ - ಸಾಮಾನ್ಯ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK\n"
+"string.text"
+msgid "Computer - network"
+msgstr "ಗಣಕಯಂತ್ರ - ಜಾಲಬಂಧ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_NETWORK_DEVICES\n"
+"string.text"
+msgid "Computer - network devices"
+msgstr "ಗಣಕಯಂತ್ರ - ಜಾಲಬಂಧ ಸಾಧನಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_COMPUTER_WIFI\n"
+"string.text"
+msgid "Computer - WIFI"
+msgstr "ಗಣಕಯಂತ್ರ - ವೈಫೈ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_NUMBERS\n"
+"string.text"
+msgid "Numbers"
+msgstr "ಸಂಖ್ಯೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SIGNS_DANGER\n"
+"string.text"
+msgid "Signs - danger"
+msgstr "ಸಂಕೇತಗಳು - ಅಪಾಯ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OBJECTS\n"
+"string.text"
+msgid "Objects"
+msgstr "ವಸ್ತುಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AFRICA\n"
+"string.text"
+msgid "Maps - Africa"
+msgstr "ನಕ್ಷೆ - ಆಫ್ರಿಕಾ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_UNITED_STATES_OF_AMERICA\n"
+"string.text"
+msgid "Maps - United States of America"
+msgstr "ನಕ್ಷೆ - ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್‍ ಆಫ್ ಅಮೇರಿಕಾ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_AUSTRALIA\n"
+"string.text"
+msgid "Maps - Australia"
+msgstr "ನಕ್ಷೆ - ಆಸ್ಟ್ರೇಲಿಯಾ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ASIA\n"
+"string.text"
+msgid "Maps - Asia"
+msgstr "ನಕ್ಷೆ - ಏಶಿಯಾ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SOUTH_AMERICA\n"
+"string.text"
+msgid "Maps - South America"
+msgstr "ನಕ್ಷೆ - ದಕ್ಷಿಣ ಅಮೇರಿಕಾ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE\n"
+"string.text"
+msgid "Maps - Europe"
+msgstr "ನಕ್ಷೆ - ಯೂರೋಪ್"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_EUROPE_1\n"
+"string.text"
+msgid "Maps - Europe 1"
+msgstr "ನಕ್ಷೆ - ಯೂರೋಪ್ 1"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE\n"
+"string.text"
+msgid "Maps - France"
+msgstr "ನಕ್ಷೆ - ಫ್ರಾನ್ಸ್‍"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_FRANCE_COUNTRIES\n"
+"string.text"
+msgid "Maps - France - countries"
+msgstr "ನಕ್ಷೆ - ಫ್ರಾನ್ಸ್‍ - ದೇಶಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SIGNS\n"
+"string.text"
+msgid "Maps - signs"
+msgstr "ನಕ್ಷೆ - ಸಂಕೇತಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CANADA\n"
+"string.text"
+msgid "Maps - Canada"
+msgstr "ನಕ್ಷೆ - ಕೆನಡ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_CONTINENTS\n"
+"string.text"
+msgid "Maps - Continents"
+msgstr "ನಕ್ಷೆ - ಖಂಡಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_EAST\n"
+"string.text"
+msgid "Maps - Middle East"
+msgstr "ನಕ್ಷೆ - ಮಧ್ಯ ಪೂರ್ವ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AMERICA\n"
+"string.text"
+msgid "Maps - Middle America"
+msgstr "ನಕ್ಷೆ - ಮಧ್ಯ ಅಮೇರಿಕಾ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MIDDLE_AGES\n"
+"string.text"
+msgid "Maps - Middle ages"
+msgstr "ನಕ್ಷೆ - ಮಧ್ಯ ಯುಗ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_MEXICO\n"
+"string.text"
+msgid "Maps - Mexico"
+msgstr "ನಕ್ಷೆ - ಮೆಕ್ಸಿಕೊ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_ANCIENT_TIMES\n"
+"string.text"
+msgid "Maps - Ancient times"
+msgstr "ನಕ್ಷೆ - ಪುರಾತನ ಕಾಲ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_SYMBOLS\n"
+"string.text"
+msgid "Maps - symbols"
+msgstr "ನಕ್ಷೆ - ಚಿಹ್ನೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_HISTORY_1900\n"
+"string.text"
+msgid "Maps - history - 1900"
+msgstr "ನಕ್ಷೆ - ಇತಿಹಾಸ - 1900"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MAPS_WORLD\n"
+"string.text"
+msgid "Maps - World"
+msgstr "ನಕ್ಷೆ - ಪ್ರಪಂಚ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_CROPS\n"
+"string.text"
+msgid "Crops"
+msgstr "ಬೆಳೆಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FRACTIONS\n"
+"string.text"
+msgid "Fractions"
+msgstr "ಭಿನ್ನಾಂಕಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_FLAGS_1\n"
+"string.text"
+msgid "Flags"
+msgstr "ಬಾವುಟಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_INSTRUMENTS\n"
+"string.text"
+msgid "Music - instruments"
+msgstr "ಸಂಗೀತ - ವಾದ್ಯಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_MUSIC_SHEET_MUSIC\n"
+"string.text"
+msgid "Music - sheet music"
+msgstr "ಸಂಗೀತ - ಶೀಟ್ ಸಂಗೀತ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_SPECIAL_PICTOGRAMM\n"
+"string.text"
+msgid "Special Pictograms"
+msgstr "ವಿಶೇಷ ಚಿತ್ರಲಿಪಿಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_CELEBRATION\n"
+"string.text"
+msgid "Photos - Celebration"
+msgstr "ಚಿತ್ರಗಳು - ಆಚರಣೆ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_FOODSANDDRINKS\n"
+"string.text"
+msgid "Photos - Foods and Drinks"
+msgstr "ಚಿತ್ರಗಳು - ಆಹಾರಗಳು ಹಾಗು ಪಾನೀಯಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_HUMANS\n"
+"string.text"
+msgid "Photos - Humans"
+msgstr "ಚಿತ್ರಗಳು - ಮನುಷ್ಯರು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_OBJECTS\n"
+"string.text"
+msgid "Photos - Objects"
+msgstr "ಚಿತ್ರಗಳು - ವಸ್ತುಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_SPACE\n"
+"string.text"
+msgid "Photos - Space"
+msgstr "ಚಿತ್ರಗಳು - ಅಂತರಿಕ್ಷ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_PHOTOS_TRAVEL\n"
+"string.text"
+msgid "Photos - Travel"
+msgstr "ಚಿತ್ರಗಳು - ಪ್ರಯಾಣ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_OPENOFFICEORG_LOGOS\n"
+"string.text"
+msgid "OpenOffice.org logos"
+msgstr "OpenOffice.org ಲಾಂಛನಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_RELIGION\n"
+"string.text"
+msgid "Religion"
+msgstr "ಧರ್ಮ"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_BUILDINGS\n"
+"string.text"
+msgid "Buildings"
+msgstr "ಕಟ್ಟಡಗಳು"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_HOMEPAGE2\n"
+"string.text"
+msgid "Homepage 2"
+msgstr "ನೆಲೆಪುಟ 2"
+
+#: galtheme.src
+msgctxt ""
+"galtheme.src\n"
+"RID_GALLERYSTR_THEME_ELEMENTSBULLETS2\n"
+"string.text"
+msgid "Bullets 2"
+msgstr "ಅಂಶಸೂಚಕಗಳು 2"

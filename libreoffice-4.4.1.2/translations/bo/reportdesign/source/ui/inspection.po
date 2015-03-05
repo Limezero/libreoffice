@@ -1,0 +1,913 @@
+#. extracted from reportdesign/source/ui/inspection
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-12 00:04+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PROPPAGE_DEFAULT\n"
+"string.text"
+msgid "General"
+msgstr ""
+"#-#-#-#-#  tabledesign.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྒྱུནགཏན།\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྒྱུན་སྲོལ།\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྒྱུན་སྲོལ།\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྒྱུན་སྲོལ།\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྒྱུནགཏན།\n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྒྱུནགཏན།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PROPPAGE_DATA\n"
+"string.text"
+msgid "Data"
+msgstr "གཞི་གྲངས།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BOOL\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "མིན།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BOOL\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རེད།\n"
+"#-#-#-#-#  tabledesign.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རེད།\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རེད།\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རེད།\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིན།\n"
+"#-#-#-#-#  sbx.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རེད།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE\n"
+"string.text"
+msgid "Force New Page"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "མེད་པ།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"2\n"
+"string.text"
+msgid "Before Section"
+msgstr "དུམ་མཚམས་སྔོན་ལ།(~B)"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"3\n"
+"string.text"
+msgid "After Section"
+msgstr "དུམ་མཚམས་རྗེས་ལ།(~A)"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"4\n"
+"string.text"
+msgid "Before & After Section"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_NEWROWORCOL\n"
+"string.text"
+msgid "New Row Or Column"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER\n"
+"string.text"
+msgid "Keep Together"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "མིན།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"2\n"
+"string.text"
+msgid "Whole Group"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"3\n"
+"string.text"
+msgid "With First Detail"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CANGROW\n"
+"string.text"
+msgid "Can Grow"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CANSHRINK\n"
+"string.text"
+msgid "Can Shrink"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPEATSECTION\n"
+"string.text"
+msgid "Repeat Section"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRINTREPEATEDVALUES\n"
+"string.text"
+msgid "Print repeated values"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CONDITIONALPRINTEXPRESSION\n"
+"string.text"
+msgid "Conditional Print Expression"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_STARTNEWCOLUMN\n"
+"string.text"
+msgid "Start new column"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_STARTNEWPAGE\n"
+"string.text"
+msgid "Start new page"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_RESETPAGENUMBER\n"
+"string.text"
+msgid "Reset page number"
+msgstr "ཤོག་ཨང་དང་པོ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CHARTTYPE\n"
+"string.text"
+msgid "Chart type"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRINTWHENGROUPCHANGE\n"
+"string.text"
+msgid "Print repeated value on group change"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VISIBLE\n"
+"string.text"
+msgid "Visible"
+msgstr "མཐོང་ཐུབ་པ། (~V)"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER\n"
+"string.text"
+msgid "Group keep together"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER_CONST\n"
+"1\n"
+"string.text"
+msgid "Per Page"
+msgstr "ཤོག་ལྷེ་རེ་རེར།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER_CONST\n"
+"2\n"
+"string.text"
+msgid "Per Column"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "མེད་པ།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"2\n"
+"string.text"
+msgid "Section"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཁུལ་ཁོངས།\n"
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"按区域浏览\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ས་ཁོངས།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཁུལ་ཁོངས།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"3\n"
+"string.text"
+msgid "Automatic"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ་གྱི་བཟོ་ལྟ།\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།(~A)\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རང་འགུལ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PAGEHEADEROPTION\n"
+"string.text"
+msgid "Page header"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PAGEFOOTEROPTION\n"
+"string.text"
+msgid "Page footer"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"1\n"
+"string.text"
+msgid "All Pages"
+msgstr "ཡོངས་རྫོགས།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"2\n"
+"string.text"
+msgid "Not With Report Header"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"3\n"
+"string.text"
+msgid "Not With Report Footer"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"4\n"
+"string.text"
+msgid "Not With Report Header/Footer"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DEEPTRAVERSING\n"
+"string.text"
+msgid "Deep traversing"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PREEVALUATED\n"
+"string.text"
+msgid "Pre evaluation"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_POSITIONX\n"
+"string.text"
+msgid "Position X"
+msgstr "གནས་ས་X"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_POSITIONY\n"
+"string.text"
+msgid "Position Y"
+msgstr "གནས་ས་Y"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "ཞེང་ཚད།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "མཐོ་ཚད།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_INITIALFORMULA\n"
+"string.text"
+msgid "Initial value"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRESERVEIRI\n"
+"string.text"
+msgid "Preserve as Link"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORMULA\n"
+"string.text"
+msgid "Formula"
+msgstr "སྤྱི་འགྲོས།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DATAFIELD\n"
+"string.text"
+msgid "Data field"
+msgstr "གཞི་གྲངས་ཡིག་དུམ།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FONT\n"
+"string.text"
+msgid "Font"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས།\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས།\n"
+"#-#-#-#-#  styleui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས།\n"
+"#-#-#-#-#  animations.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Font\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས་མིང་།\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས།\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་གཟུགས།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BACKCOLOR\n"
+"string.text"
+msgid "Background color"
+msgstr "རྒྱབ་ལྗོངས་ཚོས་གཞི།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BACKTRANSPARENT\n"
+"string.text"
+msgid "Background Transparent"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CONTROLBACKGROUNDTRANSPARENT\n"
+"string.text"
+msgid "Background Transparent"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_OVERLAP_OTHER_CONTROL\n"
+"string.text"
+msgid "This operation is not allowed. The control overlaps with another one."
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_ILLEGAL_POSITION\n"
+"string.text"
+msgid "This position can not be set. It is invalid."
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SCOPE_GROUP\n"
+"string.text"
+msgid "Group: %1"
+msgstr "%1ཚོགས་ཆུང་ཁག་བགོས།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORMULALIST\n"
+"string.text"
+msgid "Function"
+msgstr "function"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SCOPE\n"
+"string.text"
+msgid "Scope"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE\n"
+"string.text"
+msgid "Data Field Type"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"1\n"
+"string.text"
+msgid "Field or Formula"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"2\n"
+"string.text"
+msgid "Function"
+msgstr "function"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"3\n"
+"string.text"
+msgid "Counter"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"4\n"
+"string.text"
+msgid "User defined Function"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MASTERFIELDS\n"
+"string.text"
+msgid "Link master fields"
+msgstr "འབྲེལ་མཐུད་བྱེད་པ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DETAILFIELDS\n"
+"string.text"
+msgid "Link slave fields"
+msgstr "འབྲེལ་མཐུད་བྱེད་པ།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_EXPLANATION\n"
+"string.text"
+msgid "Charts can be used to display detailed data about the current record of the report. To do this, you can specify which columns in the chart match which columns in the report."
+msgstr "ཡན་ལག་སྒྲོམ་གཟུགས་དེ་མ་གཞིའི་སྒྲོམ་གཟུགས་ཀྱི་མིག་སྔའི་ཟིན་ཐོའི་ཞིབ་ཕྲའི་གཞི་གྲངས་མངོན་སྒྱུར་སྤྱོད་ཆོག་དེའི་ཆེད་ཡན་ལག་སྒྲིམ་གཟུགས་ནང་གི་སྟར་གང་དག་དང་མ་གཞིའི་སྒྲིམ་གཟུགས་ནང་གི་སྟར་གང་དག་དང་ཟླ་སྒྲིག་བྱེད་མིན་གཏན་ཕབ་ཆོག"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DETAILLABEL\n"
+"string.text"
+msgid "Chart"
+msgstr ""
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Chart\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རིས་མཚོན།\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"དཔེ་རིས།ས\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རིས་མཚོན།\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"དཔེ་རིས།ས"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MASTERLABEL\n"
+"string.text"
+msgid "Report"
+msgstr ""
+"#-#-#-#-#  resource.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གོང་འབུལ་རེའུ་མིག\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གོང་འབུལ་རེའུ་མིག\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཐོ་འགོད།\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙན་ཐོ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PREVIEW_COUNT\n"
+"string.text"
+msgid "Preview Row(s)"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_AREA\n"
+"string.text"
+msgid "Area"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ས་ཁོངས།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Range"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MIMETYPE\n"
+"string.text"
+msgid "Report Output Format"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICALALIGN\n"
+"string.text"
+msgid "Vert. Alignment"
+msgstr "དྲང་འཕྱང་གྲལ་སྒྲིག"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"1\n"
+"string.text"
+msgid "Top"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྩེ་སྣེ།\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྟེང་།\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྩེ་སྣེ།\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྟེང་དུ།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གོང་། སྟེང་།\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གོང་། སྟེང་།\n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"top\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྟེང་ཕྱོགས།\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གོང་ལ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"2\n"
+"string.text"
+msgid "Middle"
+msgstr "ནང་།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"3\n"
+"string.text"
+msgid "Bottom"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"མཐིལ་སྣེ།\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"འོག\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"མཐིལ་སྣེ།\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"འོག་ལ།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"འོག\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"འོག\n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"bottom\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"འོག་ཕྱོགས།\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"འོག་ལ།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST\n"
+"string.text"
+msgid "Horz. Alignment"
+msgstr "དྲང་འཕྱང་གྲལ་སྒྲིག"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"1\n"
+"string.text"
+msgid "Left"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན།\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན།\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན་དུ།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན།\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན།\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན་ཕྱོགས།\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན་ཕྱོགས།\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡོན་ལ།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"2\n"
+"string.text"
+msgid "Right"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས།\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས།\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས་སུ།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས།\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས།\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས་ཕྱོགས།\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས་ཕྱོགས།\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གཡས་ལ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"3\n"
+"string.text"
+msgid "Block"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"4\n"
+"string.text"
+msgid "Center"
+msgstr ""
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"དཀྱིལ་བསྡུ།\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"དཀྱིལ་གནས།\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ནང་།\n"
+"#-#-#-#-#  accessibility.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ནང་།\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"དཀྱིལ་བསྡུ།"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_COUNTER\n"
+"string.text"
+msgid "Counter"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_ACCUMULATION\n"
+"string.text"
+msgid "Accumulation"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_MINIMUM\n"
+"string.text"
+msgid "Minimum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཆུང་ཤོས་ཐང་།\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཆུང་ཤོས།\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཐང་ཆུང་ཤོས།\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཐང་ཆུང་ཤོས།"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_MAXIMUM\n"
+"string.text"
+msgid "Maximum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཆེ་ཤོས་ཐང་།\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཆེ་ཤོས།\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གྲངས་ཐང་ཆེ་ཤོས་\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཐང་ཆེ་ཤོས།"

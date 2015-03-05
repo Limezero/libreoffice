@@ -1,0 +1,607 @@
+#. extracted from dbaccess/source/ui/tabledesign
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2012-11-18 15:47+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353253622.0\n"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_DBFIELDTYPES\n"
+"string.text"
+msgid "Unknown;Text;Number;Date/Time;Date;Time;Yes/No;Currency;Memo;Counter;Image;Text (fix);Decimal;Binary (fix);Binary;BigInt;Double;Float;Real;Integer;Small Integer;Tiny Integer;SQL Null;Object;Distinct;Structure;Field;BLOB;CLOB;REF;OTHER;Bit (fix)"
+msgstr "غير معروف؛نص؛رقم؛التاريخ/الوقت؛التاريخ؛الوقت؛نعم/لا؛العملة؛مذكرة؛عداد؛صورة؛نص (إصلاح)؛عشري؛ثنائي (إصلاح)؛ثنائي؛عدد صحيح كبير؛مزدوج؛حر؛حقيقي؛عدد صحيح؛عدد صحيح كبير؛عدد صحيح صغير جدًا؛SQL خالية؛كائن؛مميز؛بنية؛حقل؛BLOB؛CLOB؛مرجع؛خلاف ذلك؛بت (إصلاح)"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_UNDO_PRIMKEY\n"
+"string.text"
+msgid "Insert/remove primary key"
+msgstr "إدراج/إزالة مفتاح أساسي"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_VALUE_YES\n"
+"string.text"
+msgid "Yes"
+msgstr "نعم"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_VALUE_NO\n"
+"string.text"
+msgid "No"
+msgstr "لا"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_VALUE_ASC\n"
+"string.text"
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_VALUE_DESC\n"
+"string.text"
+msgid "Descending"
+msgstr "تنازلي"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_VALUE_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<بلا>"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_FIELD_NAME\n"
+"string.text"
+msgid "Field name"
+msgstr "اسم الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_FIELD_COLUMN_NAME\n"
+"string.text"
+msgid "Field Name"
+msgstr "اسم الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_FIELD_DATATYPE\n"
+"string.text"
+msgid "Field ~type"
+msgstr "~نوع الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_FIELD_COLUMN_DATATYPE\n"
+"string.text"
+msgid "Field Type"
+msgstr "نوع الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_FIELD_LENGTH\n"
+"string.text"
+msgid "Field length"
+msgstr "طول الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_HELP_TEXT\n"
+"string.text"
+msgid "Description"
+msgstr "الوصف"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_COLUMN_DESCRIPTION\n"
+"string.text"
+msgid "Column Description"
+msgstr "وصف العمود"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_FIELD_NULLABLE\n"
+"string.text"
+msgid "Input required"
+msgstr "الإدخال مطلوب"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_FIELD_AUTOINCREMENT\n"
+"string.text"
+msgid "~AutoValue"
+msgstr "~AutoValue"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_PROPERTIES\n"
+"string.text"
+msgid "Field Properties"
+msgstr "خصائص الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABPAGE_GENERAL\n"
+"string.text"
+msgid "General"
+msgstr "عام"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_TABLE_DESCRIPTION\n"
+"string.text"
+msgid "Description:"
+msgstr "الوصف:"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TAB_TABLE_PROPERTIES\n"
+"string.text"
+msgid "Table properties"
+msgstr "خصائص الجدول"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"RID_TABLEDESIGNROWPOPUPMENU\n"
+"SID_TABLEDESIGN_INSERTROWS\n"
+"menuitem.text"
+msgid "Insert Rows"
+msgstr "إدراج صفوف"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"RID_TABLEDESIGNROWPOPUPMENU\n"
+"SID_TABLEDESIGN_TABED_PRIMARYKEY\n"
+"menuitem.text"
+msgid "Primary Key"
+msgstr "المفتاح الأساسي"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABED_UNDO_CELLMODIFIED\n"
+"string.text"
+msgid "Modify cell"
+msgstr "تعديل الخلية"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABED_UNDO_ROWDELETED\n"
+"string.text"
+msgid "Delete row"
+msgstr "حذف صف"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABED_UNDO_TYPE_CHANGED\n"
+"string.text"
+msgid "Modify field type"
+msgstr "تعديل نوع الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABED_UNDO_ROWINSERTED\n"
+"string.text"
+msgid "Insert row"
+msgstr "إدراج صف"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABED_UNDO_NEWROWINSERTED\n"
+"string.text"
+msgid "Insert new row"
+msgstr "إدراج صف جديد"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABED_UNDO_PRIMKEY\n"
+"string.text"
+msgid "Insert/remove primary key"
+msgstr "إدراج/إزالة مفتاح أساسي"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_DEFAULT_VALUE\n"
+"string.text"
+msgid "~Default value"
+msgstr "ال~قيمة الافتراضية"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_FIELD_REQUIRED\n"
+"string.text"
+msgid "~Entry required"
+msgstr "الإدخال م~طلوب"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TEXT_LENGTH\n"
+"string.text"
+msgid "~Length"
+msgstr "ال~طول"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_NUMERIC_TYPE\n"
+"string.text"
+msgid "~Type"
+msgstr "ال~نوع"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_LENGTH\n"
+"string.text"
+msgid "~Length"
+msgstr "ال~طول"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_SCALE\n"
+"string.text"
+msgid "Decimal ~places"
+msgstr "ال~منازل العشرية"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_FORMAT\n"
+"string.text"
+msgid "Format example"
+msgstr "مثال التنسيق"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_BOOL_DEFAULT\n"
+"string.text"
+msgid ""
+"Select a value that is to appear in all new records as default.\n"
+"If the field is not to have a default value, select the empty string."
+msgstr ""
+"حدد القيمة التي ستظهر في كل السجلات الجديدة بشكل افتراضي.\n"
+"إذا لم يكن الحقل يحتوي على قيمة افتراضيّة، فحدد التسلسل الفارغ."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_DEFAULT_VALUE\n"
+"string.text"
+msgid ""
+"Enter a default value for this field.\n"
+"\n"
+"When you later enter data in the table, this string will be used in each new record for the field selected. It should, therefore, correspond to the cell format that needs to be entered below."
+msgstr ""
+"أدخل قيمة افتراضيِة لهذا الحقل.\n"
+"\n"
+"عندما تدخل بيانات لاحقاً في هذا الجدول، فسيتم استخدام هذه السلسلة في كل سجل جديد للحقل المحدد. لذلك يجب أن تكون السلسلة مطابقة لتنسيق الخلية الذي يجب إدخاله أدناه."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_FIELD_REQUIRED\n"
+"string.text"
+msgid "Activate this option if this field cannot contain NULL values, i.e. the user must always enter data."
+msgstr "قم بتنشيط هذا الخيار إذا كان لا يُسمح بإدخال قيم خالية NULL في هذا الحقل؛ أي إذا كان على المستخدم إدخال بيانات دائمًا."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_TEXT_LENGTH\n"
+"string.text"
+msgid "Enter the maximum text length permitted."
+msgstr "أدخل قيمة أقصى طول مسموح به للنص."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_NUMERIC_TYPE\n"
+"string.text"
+msgid "Enter the number format."
+msgstr "أدخل تنسيق الرقم."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_LENGTH\n"
+"string.text"
+msgid ""
+"Determine the length data can have in this field.\n"
+"\n"
+"If decimal fields, then the maximum length of the number to be entered, if binary fields, then the length of the data block.\n"
+"The value will be corrected accordingly when it exceeds the maximum for this database."
+msgstr ""
+"حدد حجم البيانات الذي يمكن إدخاله في هذا الحقل.\n"
+"\n"
+"إذا كان حقلاً عشريًا، فيجب إدخال أقصى طول للرقم؛ وإذا كان حقلاً ثنائيًا، فيجب إدخال حجم كتلة البيانات.\n"
+"سيتم تصحيح القيمة وفقًا لذلك عندما تتجاوز الحد الأقصى لقاعدة البيانات هذه."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_SCALE\n"
+"string.text"
+msgid "Specify the number of decimal places permitted in this field."
+msgstr "حدد عدد المنازل العشرية المسموح بها في هذا الحقل."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_FORMAT_CODE\n"
+"string.text"
+msgid "This is where you see how the data would be displayed in the current format (use the button on the right to modify the format)."
+msgstr "يمكن هنا رؤية كيفية ظهور البيانات بالتنسيق الحالي (استخدم الزر الموجود على اليسار لتعديل التنسيق)."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_FORMAT_BUTTON\n"
+"string.text"
+msgid "This is where you determine the output format of the data."
+msgstr "يمكن هنا تحديد تنسيق إخراج البيانات."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_AUTOINCREMENT\n"
+"string.text"
+msgid ""
+"Choose if this field should contain AutoIncrement values.\n"
+"\n"
+"You can not enter data in fields of this type. An intrinsic value will be assigned to each new record automatically (resulting from the increment of the previous record)."
+msgstr ""
+"اختر ما إذا كان يجب أن يحتوي هذا الحقل على قيم AutoIncrement.\n"
+"\n"
+"لا يمكنك إدخال البيانات في حقول بهذا النوع. سيتم تعيين قيمة فعليّة لكل سجل جديد تلقائيًا (نتيجة لزيادة قيمة السجل السابق)."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"PB_FORMAT\n"
+"pushbutton.text"
+msgid "~..."
+msgstr "~..."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_DUPLICATE_NAME\n"
+"string.text"
+msgid "The table cannot be saved because column name \"$column$\" was assigned twice."
+msgstr "لا يمكن حفظ الجدول نظرًا لتعيين اسم العمود \"$column$\" مرتين."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TBL_COLUMN_IS_KEYCOLUMN\n"
+"string.text"
+msgid "The column \"$column$\" belongs to the primary key. If the column is deleted, the primary key will also be deleted. Do you really want to continue?"
+msgstr "ينتمي العمود \"$column$\" إلى المفتاح الأساسي. وإذا تم حذفه، فسيتم أيضًا حذف المفتاح الأساسي. هل تريد المتابعة بالفعل؟"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TBL_COLUMN_IS_KEYCOLUMN_TITLE\n"
+"string.text"
+msgid "Primary Key Affected"
+msgstr "المفتاح الأساسي المتأثر"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_COLUMN_NAME\n"
+"string.text"
+msgid "Column"
+msgstr "العمود"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_QRY_CONTINUE\n"
+"string.text"
+msgid "Continue anyway?"
+msgstr "هل تريد المتابعة على أية حال؟"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_STAT_WARNING\n"
+"string.text"
+msgid "Warning!"
+msgstr "تحذير!"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_CONNECTION_MISSING\n"
+"string.text"
+msgid "The table could not be saved due to problems connecting to the database."
+msgstr "تعذر حفظ الجدول نظرًا لحدوث مشكلات في الاتصال بقاعدة البيانات."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_DATASOURCE_DELETED\n"
+"string.text"
+msgid "The table filter could not be adjusted because the data source has been deleted."
+msgstr "تعذر ضبط تصفية الجدول بسبب حذف مصدر البيانات."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_QUERY_SAVE_TABLE_EDIT_INDEXES\n"
+"string.text"
+msgid ""
+"Before you can edit the indexes of a table, you have to save it.\n"
+"Do you want to save the changes now?"
+msgstr ""
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_NO_PRIM_KEY_HEAD\n"
+"string.text"
+msgid "No primary key"
+msgstr "بدون مفتاح أساسي"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_NO_PRIM_KEY\n"
+"string.text"
+msgid ""
+"A unique index or primary key is required for data record identification in this database.\n"
+"You can only enter data into this table when one of these two structural conditions has been met.\n"
+"\n"
+"Should a primary key be created now?"
+msgstr ""
+"مطلوب وجود فهرس فريد أو مفتاح أساسي لتعريف سجل البيانات في قاعدة البيانات هذه.\n"
+"يمكنك إدخال البيانات في هذا الجدول فقط عند استيفاء أحد هذين الشرطين المتعلقين بالبنية.\n"
+"\n"
+"هل يلزم إنشاء مفتاح أساسي الآن؟"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_TITLE\n"
+"string.text"
+msgid " - %PRODUCTNAME Base: Table Design"
+msgstr " - قاعدة %PRODUCTNAME: تصميم الجدول"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_ALTER_ERROR\n"
+"string.text"
+msgid "The column \"$column$\" could not be changed. Should the column instead be deleted and the new format appended?"
+msgstr "تعذر تغيير العمود \"$column$\". هل يلزم حذفه ثم إلحاق التنسيق الجديد به؟ "
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_SAVE_ERROR\n"
+"string.text"
+msgid "Error while saving the table design"
+msgstr "حدث خطأ أثناء حفظ تصميم الجدول"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_TABLEDESIGN_COULD_NOT_DROP_COL\n"
+"string.text"
+msgid "The column $column$ could not be deleted."
+msgstr "تعذر حذف العمود $column$."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_AUTOINCREMENT_VALUE\n"
+"string.text"
+msgid "A~uto-increment statement"
+msgstr "عبارة A~uto-increment"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_HELP_AUTOINCREMENT_VALUE\n"
+"string.text"
+msgid ""
+"Enter an SQL statement for the auto-increment field.\n"
+"\n"
+"This statement will be directly transferred to the database when the table is created."
+msgstr ""
+"أدخل عبارة SQL لحقل التزايد التلقائي auto-increment.\n"
+"\n"
+"سيتم نقل هذه العبارة مباشرة إلى قاعدة البيانات عند إنشاء الجدول."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_NO_TYPE_INFO_AVAILABLE\n"
+"string.text"
+msgid ""
+"No type information could be retrieved from the database.\n"
+"The table design mode is not available for this data source."
+msgstr ""
+"تعذر استرداد معلومات النوع من قاعدة البيانات.\n"
+"وضع تصميم الجدول غير متوفر لمصدر البيانات هذا."
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_CHANGE_COLUMN_NAME\n"
+"string.text"
+msgid "change field name"
+msgstr "تغيير اسم الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_CHANGE_COLUMN_TYPE\n"
+"string.text"
+msgid "change field type"
+msgstr "تغيير نوع الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_CHANGE_COLUMN_DESCRIPTION\n"
+"string.text"
+msgid "change field description"
+msgstr "تغيير وصف الحقل"
+
+#: table.src
+msgctxt ""
+"table.src\n"
+"STR_CHANGE_COLUMN_ATTRIBUTE\n"
+"string.text"
+msgid "change field attribute"
+msgstr "تغيير خاصية الحقل"
