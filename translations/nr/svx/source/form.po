@@ -1,0 +1,1697 @@
+#. extracted from svx/source/form
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-04-15 12:01+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1366027265.0\n"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_MODEL\n"
+"string.text"
+msgid ""
+"Deleting the model '$MODELNAME' affects all controls currently bound to this model.\n"
+"Do you really want to delete this model?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_INSTANCE\n"
+"string.text"
+msgid ""
+"Deleting the instance '$INSTANCENAME' affects all controls currently bound to this instance.\n"
+"Do you really want to delete this instance?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ELEMENT\n"
+"string.text"
+msgid ""
+"Deleting the element '$ELEMENTNAME' affects all controls currently bound to this element.\n"
+"Do you really want to delete this element?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Do you really want to delete the attribute '$ATTRIBUTENAME'?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_SUBMISSION\n"
+"string.text"
+msgid ""
+"Deleting the submission '$SUBMISSIONNAME' affects all controls currently bound to this submission.\n"
+"\n"
+"Do you really want to delete this submission?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_QRY_REMOVE_BINDING\n"
+"string.text"
+msgid ""
+"Deleting the binding '$BINDINGNAME' affects all controls currently bound to this binding.\n"
+"\n"
+"Do you really want to delete this binding?"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLNAME\n"
+"string.text"
+msgid "The name '%1' is not valid in XML. Please enter a different name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_INVALID_XMLPREFIX\n"
+"string.text"
+msgid "The prefix '%1' is not valid in XML. Please enter a different prefix."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DOUBLE_MODELNAME\n"
+"string.text"
+msgid "The name '%1' already exists. Please enter a new name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_EMPTY_SUBMISSIONNAME\n"
+"string.text"
+msgid "The submission must have a name."
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD\n"
+"menuitem.text"
+msgid "Add Item"
+msgstr ""
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ELEMENT\n"
+"menuitem.text"
+msgid "Add Element"
+msgstr "Editha i-Elemende"
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_ADD_ATTRIBUTE\n"
+"menuitem.text"
+msgid "Add Attribute"
+msgstr "Editha Itshwayo"
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_EDIT\n"
+"menuitem.text"
+msgid "Edit"
+msgstr "Phuma"
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_MENU_DATANAVIGATOR\n"
+"TBI_ITEM_REMOVE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "Sula #"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_POST\n"
+"string.text"
+msgid "Post"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_PUT\n"
+"string.text"
+msgid "Put"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_METHOD_GET\n"
+"string.text"
+msgid "Get"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_NONE\n"
+"string.text"
+msgid "None"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_INST\n"
+"string.text"
+msgid "Instance"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_REPLACE_DOC\n"
+"string.text"
+msgid "Document"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_PARENT\n"
+"string.text"
+msgid "Submission: "
+msgstr "Okulethiweko: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ID\n"
+"string.text"
+msgid "ID: "
+msgstr "ID: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_BIND\n"
+"string.text"
+msgid "Binding: "
+msgstr "Isibophi: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REF\n"
+"string.text"
+msgid "Reference: "
+msgstr "Isinqophiso: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_ACTION\n"
+"string.text"
+msgid "Action: "
+msgstr "Igadango: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_METHOD\n"
+"string.text"
+msgid "Method: "
+msgstr "Indlela: "
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_SUBM_REPLACE\n"
+"string.text"
+msgid "Replace: "
+msgstr "Jamiselela: "
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ELEMENT\n"
+"string.text"
+msgid "Add Element"
+msgstr "Editha i-Elemende"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ELEMENT\n"
+"string.text"
+msgid "Edit Element"
+msgstr "Editha i-Elemende"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ELEMENT\n"
+"string.text"
+msgid "Delete Element"
+msgstr "Sula i-Elemende"
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_ATTRIBUTE\n"
+"string.text"
+msgid "Add Attribute"
+msgstr "Editha Itshwayo"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_ATTRIBUTE\n"
+"string.text"
+msgid "Edit Attribute"
+msgstr "Editha Itshwayo"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_ATTRIBUTE\n"
+"string.text"
+msgid "Delete Attribute"
+msgstr "Sula Itshwayo"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_BINDING\n"
+"string.text"
+msgid "Add Binding"
+msgstr "Engeza Isibophi"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_BINDING\n"
+"string.text"
+msgid "Edit Binding"
+msgstr "Editha Isibophi"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_BINDING\n"
+"string.text"
+msgid "Delete Binding"
+msgstr "Sula Isibophi"
+
+#: datanavi.src
+#, fuzzy
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_ADD_SUBMISSION\n"
+"string.text"
+msgid "Add Submission"
+msgstr "Editha Okulethwako"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_EDIT_SUBMISSION\n"
+"string.text"
+msgid "Edit Submission"
+msgstr "Editha Okulethwako"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_DATANAV_REMOVE_SUBMISSION\n"
+"string.text"
+msgid "Delete Submission"
+msgstr "Sula Okulethwako"
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ELEMENT\n"
+"string.text"
+msgid "Element"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_ATTRIBUTE\n"
+"string.text"
+msgid "Attribute"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING\n"
+"string.text"
+msgid "Binding"
+msgstr ""
+
+#: datanavi.src
+msgctxt ""
+"datanavi.src\n"
+"RID_STR_BINDING_EXPR\n"
+"string.text"
+msgid "Binding expression"
+msgstr ""
+
+#: filtnav.src
+#, fuzzy
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "Sula #"
+
+#: filtnav.src
+#, fuzzy
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_EDIT\n"
+"menuitem.text"
+msgid "~Edit"
+msgstr "Phuma"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NULL\n"
+"menuitem.text"
+msgid "~Is Null"
+msgstr "~lilize"
+
+#: filtnav.src
+msgctxt ""
+"filtnav.src\n"
+"RID_FM_FILTER_MENU\n"
+"SID_FM_FILTER_IS_NOT_NULL\n"
+"menuitem.text"
+msgid "I~s not Null"
+msgstr "A~kusi lilize"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_FORM\n"
+"menuitem.text"
+msgid "Form"
+msgstr "Iimbumbeko"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU.SID_FM_NEW\n"
+"SID_FM_NEW_HIDDEN\n"
+"menuitem.text"
+msgid "Hidden Control"
+msgstr "ILawulo eliFihlekileko"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_NEW\n"
+"menuitem.text"
+msgid "~New"
+msgstr "~Tja"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_CHANGECONTROLTYPE\n"
+"menuitem.text"
+msgid "Replace with"
+msgstr "Jamiselela nga-"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "Sula #"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_TAB_DIALOG\n"
+"menuitem.text"
+msgid "Tab Order..."
+msgstr "Ilawulo le-Tab..."
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_RENAME_OBJECT\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~Thiya butjha"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_SHOW_PROPERTY_BROWSER\n"
+"menuitem.text"
+msgid "Propert~ies"
+msgstr "Ama~tshwayo"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_OPEN_READONLY\n"
+"menuitem.text"
+msgid "Open in Design Mode"
+msgstr "Vula Kumowudu Yokutlama"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMEXPLORER_POPUPMENU\n"
+"SID_FM_AUTOCONTROLFOCUS\n"
+"menuitem.text"
+msgid "Automatic Control Focus"
+msgstr "Ilawulongqophiso Elizenzakalelako"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_EDIT\n"
+"menuitem.text"
+msgid "~Text Box"
+msgstr "~Ibhoksi Lomtlolo"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_BUTTON\n"
+"menuitem.text"
+msgid "~Button"
+msgstr "~Ikunupe"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FIXEDTEXT\n"
+"menuitem.text"
+msgid "La~bel field"
+msgstr "Ik~undla yokuleyibula"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_GROUPBOX\n"
+"menuitem.text"
+msgid "G~roup Box"
+msgstr "Ibhoksi Lesi~qhema"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_LISTBOX\n"
+"menuitem.text"
+msgid "L~ist Box"
+msgstr "Ibhoksi Le~rhelo"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CHECKBOX\n"
+"menuitem.text"
+msgid "~Check Box"
+msgstr "Ibhoksi Loku~hlola"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_RADIOBUTTON\n"
+"menuitem.text"
+msgid "~Radio Button"
+msgstr "~Ikunupe Yomrhatjho"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_COMBOBOX\n"
+"menuitem.text"
+msgid "Combo Bo~x"
+msgstr "Ibho~ksi Lehlanganisela"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGEBUTTON\n"
+"menuitem.text"
+msgid "I~mage Button"
+msgstr "I~kunupe Yesithombe"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FILECONTROL\n"
+"menuitem.text"
+msgid "~File Selection"
+msgstr "~Ukukhethwa Kwefayili"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_DATE\n"
+"menuitem.text"
+msgid "~Date Field"
+msgstr "~Ikundla Yesuku"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_TIME\n"
+"menuitem.text"
+msgid "Tim~e Field"
+msgstr "Ikundla Yesi~khathi"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NUMERIC\n"
+"menuitem.text"
+msgid "~Numerical Field"
+msgstr "~Ikundla Yeenomboro"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_CURRENCY\n"
+"menuitem.text"
+msgid "C~urrency Field"
+msgstr "Ikundla Yee~mali"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_PATTERN\n"
+"menuitem.text"
+msgid "~Pattern Field"
+msgstr "~Ikundla Yephethini"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_IMAGECONTROL\n"
+"menuitem.text"
+msgid "Ima~ge Control"
+msgstr "Ilawulo Leen~thombe"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_FORMATTED\n"
+"menuitem.text"
+msgid "Fo~rmatted Field"
+msgstr "Ikundla Efo~methiweko"
+
+#: fmexpl.src
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SCROLLBAR\n"
+"menuitem.text"
+msgid "Scroll bar"
+msgstr "Isitinyana sokusonga"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_SPINBUTTON\n"
+"menuitem.text"
+msgid "Spin Button"
+msgstr "Ikunupe Yokukhetha"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_FMSHELL_CONVERSIONMENU\n"
+"SID_FM_CONVERTTO_NAVIGATIONBAR\n"
+"menuitem.text"
+msgid "Navigation Bar"
+msgstr "Isitinyana sokugwedla"
+
+#: fmexpl.src
+#, fuzzy
+msgctxt ""
+"fmexpl.src\n"
+"RID_SVX_FMEXPLORER\n"
+"dockingwindow.text"
+msgid "Form Navigator"
+msgstr "IsiZumi soMhlobo..."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_CONTEXT_ADDFORM\n"
+"string.text"
+msgid "Error while creating form"
+msgstr "Iphoso nakusenziwa isibumbeko"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_FIELDREQUIRED\n"
+"string.text"
+msgid "Input required in field '#'. Please enter a value."
+msgstr "Kufuneka okufakwako ekundleni '#'. Faka ubungako."
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_DUPLICATE_NAME\n"
+"string.text"
+msgid ""
+"Entry already exists.\n"
+"Please choose another name."
+msgstr "Igama lokufika msinya sele likhona. Khetha elinye igama."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "Iimbumbeko"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NO_PROPERTIES\n"
+"string.text"
+msgid "No control selected"
+msgstr "Akunalawulo elikhethiweko"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_CONTROL\n"
+"string.text"
+msgid "Properties: "
+msgstr "Amatshwayo: "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPERTIES_FORM\n"
+"string.text"
+msgid "Form Properties"
+msgstr "Bumba Amatshwayo"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FMEXPLORER\n"
+"string.text"
+msgid "Form Navigator"
+msgstr "IsiZumi soMhlobo..."
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FORM\n"
+"string.text"
+msgid "Form"
+msgstr "Iimbumbeko"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  Office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Thebula\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithebula\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Theyibula"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr ""
+"#-#-#-#-#  dbui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isinghongiyilo\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Umbuzo\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Umbuzo\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Umbuzo\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Umbuzo"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_TABWIN_PREFIX\n"
+"3\n"
+"string.text"
+msgid "SQL"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"I-SQL\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"SQL"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_STDFORMNAME\n"
+"string.text"
+msgid "Form"
+msgstr "Iimbumbeko"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_HIDDEN\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "ILawulo eliFihlekileko"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_CONTROL\n"
+"string.text"
+msgid "Control"
+msgstr "Lawula"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_TEXT\n"
+"string.text"
+msgid "Record"
+msgstr "Rikhoda"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_REC_FROM_TEXT\n"
+"string.text"
+msgid "of"
+msgstr "kwe-"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Add field:"
+msgstr "Engeza ikundla:"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_WRITEERROR\n"
+"string.text"
+msgid "Error writing data to database"
+msgstr "Iphoso yokutlola idatha kuziko ledatha"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SYNTAXERROR\n"
+"string.text"
+msgid "Syntax error in query expression"
+msgstr "Iphoso yehlelomitjho kumibuzo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORD\n"
+"string.text"
+msgid "You intend to delete 1 record."
+msgstr "Uhlose ukusula irikhodo 1."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM_RECORDS\n"
+"string.text"
+msgid "# records will be deleted."
+msgstr "amarikhodo # azokusuleka."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DELETECONFIRM\n"
+"string.text"
+msgid ""
+"If you click Yes, you won't be able to undo this operation.\n"
+"Do you want to continue anyway?"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_ERR_NO_ELEMENT\n"
+"string.text"
+msgid "Choose an entry from the list or enter a text corresponding to one of the list items."
+msgstr "Khetha ingeno erhelweni nofana ufake umtlolo okhambisana nenye yama-ayithemu aserhelweni."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_GROUPBOX\n"
+"string.text"
+msgid "Frame element"
+msgstr "I-elemende yesakhelo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Ukugwedla"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NAVIGATIONBAR\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "Isitinyana sokugwedla"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_COLUMN\n"
+"string.text"
+msgid "Col"
+msgstr "Ikholomu"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_PROPERTY\n"
+"string.text"
+msgid "Set property '#'"
+msgstr "Hlalisa itshwayo '#'"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_INSERT\n"
+"string.text"
+msgid "Insert in container"
+msgstr "Faka ngesimumathweni"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE\n"
+"string.text"
+msgid "Delete #"
+msgstr "Sula #"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REMOVE_MULTIPLE\n"
+"string.text"
+msgid "Delete # objects"
+msgstr "Sula # amatshwayo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_CONTAINER_REPLACE\n"
+"string.text"
+msgid "Replace a container element"
+msgstr "Jamiselela i-elemende yesimumathi"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_DELETE_LOGICAL\n"
+"string.text"
+msgid "Delete structure"
+msgstr "Sula isakhiwo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_UNDO_MODEL_REPLACE\n"
+"string.text"
+msgid "Replace Control"
+msgstr "Ilawulo lokujamiselela"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Isuku"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Isikhathi"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Push Button"
+msgstr "IBhathini yokuPhutjha"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "Ikunupe Yokukhetha"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "Ibhoksi Lokuhlola"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "IZIko leLebula"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "Ibhoksi Lokubuthelela"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "Ibhoksi Lomtlolo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Ikundla Efomethiweko"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "Ibhoksi Lerhelo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "Ibhoksi Lehlanganisela"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "Ikunupe Yesithombe"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "Ilawulo Lesithombe"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "Ukukhethwa Kwefayili"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "Ikundla Yesuku"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "Ikundla Yesikhathi"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "Ikundla Yeenomboro"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "Ikundla Yeemali"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "Ikundla Yephetheni"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "Ilawulo Letheyibula "
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SCROLLBAR\n"
+"string.text"
+msgid "Scrollbar"
+msgstr "Isitinyana sokusonga"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_SPINBUTTON\n"
+"string.text"
+msgid "Spin Button"
+msgstr "Ikunupe Yokukhetha"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_NAVBAR\n"
+"string.text"
+msgid "Navigation Bar"
+msgstr "Isitinyana sokugwedla"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_PROPTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Ikhethohlanganisela"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NODATACONTROLS\n"
+"string.text"
+msgid "No data-related controls in the current form!"
+msgstr "Akunalawulo elikhambelana nedatha kusibumbeko esikhona!"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_DATE\n"
+"string.text"
+msgid " (Date)"
+msgstr " (Ilanga)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_POSTFIX_TIME\n"
+"string.text"
+msgid " (Time)"
+msgstr " (Isikhathi)"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_NAVIGATOR\n"
+"string.text"
+msgid "Filter navigator"
+msgstr "Igwedlo lezaliso"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_FOR\n"
+"string.text"
+msgid "Filter for"
+msgstr "Zalisela i-"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_FILTER_FILTER_OR\n"
+"string.text"
+msgid "Or"
+msgstr "Nofana"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_NOCONTROLS_FOR_EXTERNALDISPLAY\n"
+"string.text"
+msgid "Valid bound controls which can be used in the table view do not exist in the current form."
+msgstr "Amalawulo azekako nabophelekileko angasetjenziswa ekubonisweni kwetheyibula akekho kusibumbeko esikhona."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_AUTOFIELD\n"
+"string.text"
+msgid "<AutoField>"
+msgstr "<Ikundla Ezenzakalelako>"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"1\n"
+"string.text"
+msgid "LIKE"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"2\n"
+"string.text"
+msgid "NOT"
+msgstr "NOT"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"3\n"
+"string.text"
+msgid "EMPTY"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"4\n"
+"string.text"
+msgid "TRUE"
+msgstr "QINISO"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"5\n"
+"string.text"
+msgid "FALSE"
+msgstr "PHOSO"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"6\n"
+"string.text"
+msgid "IS"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"7\n"
+"string.text"
+msgid "BETWEEN"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"8\n"
+"string.text"
+msgid "OR"
+msgstr ""
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"9\n"
+"string.text"
+msgid "AND"
+msgstr "RAND"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"10\n"
+"string.text"
+msgid "Average"
+msgstr "Lingene"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"11\n"
+"string.text"
+msgid "Count"
+msgstr "Bala"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"12\n"
+"string.text"
+msgid "Maximum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Imaksimamu\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ubukhulu"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"13\n"
+"string.text"
+msgid "Minimum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Iminimamu\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ubuncani"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"14\n"
+"string.text"
+msgid "Sum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isibalo\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Inani\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Samba\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isibalo"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"15\n"
+"string.text"
+msgid "Every"
+msgstr "Woke"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"16\n"
+"string.text"
+msgid "Any"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"17\n"
+"string.text"
+msgid "Some"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"18\n"
+"string.text"
+msgid "STDDEV_POP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"19\n"
+"string.text"
+msgid "STDDEV_SAMP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"20\n"
+"string.text"
+msgid "VAR_SAMP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"21\n"
+"string.text"
+msgid "VAR_POP"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"22\n"
+"string.text"
+msgid "Collect"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"23\n"
+"string.text"
+msgid "Fusion"
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_RSC_SQL_INTERNATIONAL\n"
+"24\n"
+"string.text"
+msgid "Intersection"
+msgstr "Ukuhlangana"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ERROR\n"
+"string.text"
+msgid "Syntax error in SQL statement"
+msgstr "Iphoso kusitatimende sehlelomitjho le-SQL"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_VALUE_NO_LIKE\n"
+"string.text"
+msgid "The value #1 cannot be used with LIKE."
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_FIELD_NO_LIKE\n"
+"string.text"
+msgid "LIKE cannot be used with this field."
+msgstr "u-LIKE angeze asetjenziswa nalekundla."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_ACCESS_DAT_NO_VALID\n"
+"string.text"
+msgid "The value entered is not a valid date. Please enter a date in a valid format, for example, MM/DD/YY."
+msgstr "Ubungako obufakiweko abusilo isuku elaziwako. Yewufake isuku ngendlela eyamukelekako, isibonelo, MM/DD/YY."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_INT_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with an integer."
+msgstr "Ikundla ayimadaniseki ne-intheja."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE\n"
+"string.text"
+msgid "The database does not contain a table named \"#\"."
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_OR_QUERY\n"
+"string.text"
+msgid "The database does contain neither a table nor a query named \"#\"."
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_TABLE_EXISTS\n"
+"string.text"
+msgid "The database already contains a table or view with name \"#\"."
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_QUERY_EXISTS\n"
+"string.text"
+msgid "The database already contains a query with name \"#\"."
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_COLUMN\n"
+"string.text"
+msgid "The column \"#1\" is unknown in the table \"#2\"."
+msgstr ""
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_REAL_NO_VALID\n"
+"string.text"
+msgid "The field cannot be compared with a floating point number."
+msgstr "Ikundla ayimadaniseki nenomboro engasikhundla."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_SVT_SQL_SYNTAX_CRIT_NO_COMPARE\n"
+"string.text"
+msgid "The entered criterion cannot be compared with this field."
+msgstr "Iqhinga elifakiweko alimadaniseki nekundla le."
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_DATANAVIGATOR\n"
+"string.text"
+msgid "Data Navigator"
+msgstr "Isigwedli sedatha"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_READONLY_VIEW\n"
+"string.text"
+msgid " (read-only)"
+msgstr " (funda kuphela)"
+
+#: fmstring.src
+#, fuzzy
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_ALREADYEXISTOVERWRITE\n"
+"string.text"
+msgid "The file already exists. Overwrite?"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ifayili sele ikhona. Tlola phezu kwayo?\n"
+"#-#-#-#-#  office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ifayili sele likhona. Ufuna ukutlola phezu kwalo?"
+
+#: fmstring.src
+msgctxt ""
+"fmstring.src\n"
+"RID_STR_OBJECT_LABEL\n"
+"string.text"
+msgid "#object# label"
+msgstr ""
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_STYLE\n"
+"menuitem.text"
+msgid "St~yle"
+msgstr "In~dlela"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_ALIGNMENT\n"
+"menuitem.text"
+msgid "~Alignment"
+msgstr "~Ukunqophiswa"
+
+#: formshell.src
+msgctxt ""
+"formshell.src\n"
+"RID_FM_TEXTATTRIBUTE_MENU\n"
+"MENU_FM_TEXTATTRIBITES_SPACING\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "~Ukuqalangiswa Komuda"

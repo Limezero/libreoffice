@@ -1,0 +1,5944 @@
+#. extracted from wizards/source/formwizard
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-05 19:37+0000\n"
+"Last-Translator: Stanislav <stanislav.horacek@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1417808222.000000\n"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 0\n"
+"string.text"
+msgid "The directory '%1' could not be created.<BR>There may not be enough space left on your hard disk."
+msgstr "Adresář '%1' nemohl být vytvořen.<BR>Na disku pravděpodobně není dost místa."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 1\n"
+"string.text"
+msgid "The text document could not be created.<BR>Please check if the module 'PRODUCTNAME Writer' is installed."
+msgstr "Textový dokument nemohl být vytvořen.<BR>Zkontrolujte, zda je nainstalován 'PRODUCTNAME Writer'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 2\n"
+"string.text"
+msgid "The spreadsheet could not be created.<BR>Please check if the module 'PRODUCTNAME Calc' is installed."
+msgstr "Sešit nemohl být vytvořen.<BR>Zkontrolujte, zda je nainstalován 'PRODUCTNAME Calc'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 3\n"
+"string.text"
+msgid "The presentation could not be created.<BR>Please check if the module 'PRODUCTNAME Impress' is installed."
+msgstr "Prezentace nemohla být vytvořena.<BR>Zkontrolujte, zda je nainstalován 'PRODUCTNAME Impress'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 4\n"
+"string.text"
+msgid "The drawing could not be created.<BR>Please check if the module 'PRODUCTNAME Draw' is installed."
+msgstr "Kresba nemohla být vytvořena.<BR>Zkontrolujte, zda je nainstalován 'PRODUCTNAME Draw'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 5\n"
+"string.text"
+msgid "The formula could not be created.<BR>Please check if the module 'PRODUCTNAME Math' is installed."
+msgstr "Vzorec nemohl být vytvořen.<BR>Zkontrolujte, zda je nainstalován 'PRODUCTNAME Math'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 6\n"
+"string.text"
+msgid "The files required could not be found.<BR>Please start the %PRODUCTNAME Setup and choose 'Repair'."
+msgstr "Požadované soubory nebyly nalezeny.<BR>Spusťte instalační program %PRODUCTNAME a zvolte 'Opravit'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 7\n"
+"string.text"
+msgid "The file '<PATH>' already exists.<BR><BR>Would you like to overwrite the existing file?"
+msgstr "Soubor '<PATH>' již existuje.<BR><BR>Má být existující soubor přepsán?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 8\n"
+"string.text"
+msgid "Yes"
+msgstr "Ano"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 9\n"
+"string.text"
+msgid "Yes to All"
+msgstr "Ano pro všechny"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 10\n"
+"string.text"
+msgid "No"
+msgstr "Ne"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 11\n"
+"string.text"
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 12\n"
+"string.text"
+msgid "~Finish"
+msgstr "Dokončit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 13\n"
+"string.text"
+msgid "< ~Back"
+msgstr "< Předchozí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 14\n"
+"string.text"
+msgid "~Next >"
+msgstr "Další >"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 15\n"
+"string.text"
+msgid "~Help"
+msgstr "Nápověda"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 16\n"
+"string.text"
+msgid "Steps"
+msgstr "Kroky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 17\n"
+"string.text"
+msgid "Close"
+msgstr "Zavřít"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 18\n"
+"string.text"
+msgid "OK"
+msgstr "OK"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 19\n"
+"string.text"
+msgid "The file already exists. Do you want to overwrite it?"
+msgstr "Soubor již existuje. Chcete jej přepsat?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 20\n"
+"string.text"
+msgid "Template created via <wizard_name> on <current_date>."
+msgstr "Šablona vytvořená pomocí <wizard_name> dne <current_date>."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_COMMON_START + 21\n"
+"string.text"
+msgid ""
+"The wizard could not be run, because important files were not found.\n"
+"Under 'Tools - Options - %PRODUCTNAME - Paths' click the 'Default' button to reset the paths to the original default settings.\n"
+"Then run the wizard again."
+msgstr ""
+"Průvodce nelze spustit, protože chybí důležité soubory.\n"
+"V nabídce 'Nástroje - Možnosti... - %PRODUCTNAME - Cesty' klikněte na tlačítko 'Výchozí' a změňte cesty zpět na výchozí nastavení.\n"
+"Poté průvodce spusťte znovu."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 0\n"
+"string.text"
+msgid "C~reate"
+msgstr "Vytvořit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 1\n"
+"string.text"
+msgid "~Cancel"
+msgstr "Zrušit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 2\n"
+"string.text"
+msgid "<< ~Back"
+msgstr "<< Zpět"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 3\n"
+"string.text"
+msgid "~Next >>"
+msgstr "Další >>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 4\n"
+"string.text"
+msgid "~Database"
+msgstr "Databáze"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 5\n"
+"string.text"
+msgid "~Table name"
+msgstr "Název tabulky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 6\n"
+"string.text"
+msgid "An error occurred while running the wizard. The wizard will be terminated."
+msgstr "Při spuštění průvodce došlo k chybě. Průvodce bude ukončen."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 14\n"
+"string.text"
+msgid "No connection to the database could be established."
+msgstr "Nebylo navázáno spojení s databází."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 20\n"
+"string.text"
+msgid "~Help"
+msgstr "Nápověda"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 21\n"
+"string.text"
+msgid "~Stop"
+msgstr "Zastavit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 30\n"
+"string.text"
+msgid "The document could not be saved."
+msgstr "Nelze uložit dokument."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 33\n"
+"string.text"
+msgid "Exiting the wizard"
+msgstr "Ukončení průvodce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 34\n"
+"string.text"
+msgid "Connecting to data source..."
+msgstr "Připojování ke zdroji dat..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 35\n"
+"string.text"
+msgid "The connection to the data source could not be established."
+msgstr "Nelze se připojit ke zdroji dat."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 36\n"
+"string.text"
+msgid "The file path entered is not valid."
+msgstr "Zadaná cesta k souboru není platná."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 37\n"
+"string.text"
+msgid "Please select a data source"
+msgstr "Vyberte zdroj dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 38\n"
+"string.text"
+msgid "Please select a table or query"
+msgstr "Vyberte tabulku nebo dotaz"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 39\n"
+"string.text"
+msgid "Add field"
+msgstr "Přidat pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 40\n"
+"string.text"
+msgid "Remove field"
+msgstr "Odstranit pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 41\n"
+"string.text"
+msgid "Add all fields"
+msgstr "Přidat všechna pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 42\n"
+"string.text"
+msgid "Remove all fields"
+msgstr "Odstranit všechna pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 43\n"
+"string.text"
+msgid "Move field up"
+msgstr "Přesunout pole nahoru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 44\n"
+"string.text"
+msgid "Move field down"
+msgstr "Přesunout pole dolů"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_COMMON_START + 45\n"
+"string.text"
+msgid "The field names from '%NAME' could not be retrieved."
+msgstr "Nelze získat pole názvů z '%NAME'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 0\n"
+"string.text"
+msgid "Form Wizard"
+msgstr "Průvodce formulářem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 1\n"
+"string.text"
+msgid "Fields in ~the form"
+msgstr "Pole ve formuláři"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 2\n"
+"string.text"
+msgid ""
+"Binary fields are always listed and selectable from the left list.\n"
+"If possible, they are interpreted as images."
+msgstr ""
+"Binární pole jsou vždy vypsána a lze je zvolit ze seznamu vlevo. \n"
+"Je-li to možné, jsou interpretována jako obrázky."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 3\n"
+"string.text"
+msgid ""
+"A subform is a form that is inserted in another form.\n"
+"Use subforms to show data from tables or queries with a one-to-many relationship."
+msgstr ""
+"Podformulář je formulář vložený do jiného formuláře.\n"
+"S pomocí podformulářů můžete zobrazit data z tabulek nebo dotazů s relací 1:N."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 4\n"
+"string.text"
+msgid "~Add Subform"
+msgstr "Přidat podformulář"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 5\n"
+"string.text"
+msgid "~Subform based on existing relation"
+msgstr "Podformulář založený na existující relaci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 6\n"
+"string.text"
+msgid "Tables or queries"
+msgstr "Tabulky nebo dotazy"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 7\n"
+"string.text"
+msgid "Subform based on ~manual selection of fields"
+msgstr "Podformulář založený na ručním výběru polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 8\n"
+"string.text"
+msgid "~Which relation do you want to add?"
+msgstr "Kterou relaci chcete přidat?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 9\n"
+"string.text"
+msgid "Fields in the ~subform"
+msgstr "Pole v podformuláři"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 12\n"
+"string.text"
+msgid "~Available fields"
+msgstr "Dostupná pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 13\n"
+"string.text"
+msgid "Fields in form"
+msgstr "Pole ve formuláři"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 19\n"
+"string.text"
+msgid ""
+"The join '<FIELDNAME1>' and '<FIELDNAME2>' has been selected twice.\n"
+"But joins may only be used once."
+msgstr ""
+"Spojení '<FIELDNAME1>' a '<FIELDNAME2>' bylo vybráno dvakrát.\n"
+"Ale spojení lze použít jen jednou."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 20\n"
+"string.text"
+msgid "~First joined subform field"
+msgstr "První spojené pole podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 21\n"
+"string.text"
+msgid "~Second joined subform field"
+msgstr "Druhé spojené pole podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 22\n"
+"string.text"
+msgid "~Third joined subform field"
+msgstr "Třetí spojené pole podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 23\n"
+"string.text"
+msgid "~Fourth joined subform field"
+msgstr "Čtvrté spojené pole podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 24\n"
+"string.text"
+msgid "F~irst joined main form field"
+msgstr "První spojené pole hlavního formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 25\n"
+"string.text"
+msgid "S~econd joined main form field"
+msgstr "Druhé spojené pole hlavního formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 26\n"
+"string.text"
+msgid "T~hird joined main form field"
+msgstr "Třetí spojené pole hlavního formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 27\n"
+"string.text"
+msgid "F~ourth joined main form field"
+msgstr "Čtvrté spojené pole hlavního formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 28\n"
+"string.text"
+msgid "Field border"
+msgstr "Ohraničení políček"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 29\n"
+"string.text"
+msgid "No border"
+msgstr "Bez ohraničení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 30\n"
+"string.text"
+msgid "3D look"
+msgstr "3D vzhled"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 31\n"
+"string.text"
+msgid "Flat"
+msgstr "Plochý"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 32\n"
+"string.text"
+msgid "Label placement"
+msgstr "Umístění popisků"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 33\n"
+"string.text"
+msgid "Align left"
+msgstr "Zarovnat vlevo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 34\n"
+"string.text"
+msgid "Align right"
+msgstr "Zarovnat vpravo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 35\n"
+"string.text"
+msgid "Arrangement of DB fields"
+msgstr "Rozmístění databázových polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 36\n"
+"string.text"
+msgid "Columnar - Labels Left"
+msgstr "Sloupce - popisky vlevo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 37\n"
+"string.text"
+msgid "Columnar - Labels on Top"
+msgstr "Sloupce - popisky v záhlaví"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 38\n"
+"string.text"
+msgid "In Blocks - Labels Left"
+msgstr "Bloky - popisky vlevo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 39\n"
+"string.text"
+msgid "In Blocks - Labels Above"
+msgstr "Bloky - popisky nad"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 40\n"
+"string.text"
+msgid "As Data Sheet"
+msgstr "Jako tabulka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 41\n"
+"string.text"
+msgid "Arrangement of the main form"
+msgstr "Uspořádání hlavního formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 42\n"
+"string.text"
+msgid "Arrangement of the subform"
+msgstr "Uspořádání podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 44\n"
+"string.text"
+msgid "The form is to be ~used for entering new data only."
+msgstr "Formulář se bude používat jen pro zadávání nových dat."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 45\n"
+"string.text"
+msgid "Existing data will not be displayed "
+msgstr "Existující data nebudou zobrazena."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 46\n"
+"string.text"
+msgid "T~he form is to display all data"
+msgstr "Formulář bude zobrazovat všechna data"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 47\n"
+"string.text"
+msgid "Do not allow ~modification of existing data"
+msgstr "Zakázat úpravu existujících dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 48\n"
+"string.text"
+msgid "Do not allow ~deletion of existing data"
+msgstr "Zakázat odstranění existujících dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 49\n"
+"string.text"
+msgid "Do not allow ~addition of new data"
+msgstr "Zakázat přidání nových dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 50\n"
+"string.text"
+msgid "Name of ~the form"
+msgstr "Název formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 51\n"
+"string.text"
+msgid "How do you want to proceed after creating the form?"
+msgstr "Jak si přejete pracovat po vytvoření formuláře?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 52\n"
+"string.text"
+msgid "~Work with the form"
+msgstr "Pracovat s formulářem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 53\n"
+"string.text"
+msgid "~Modify the form"
+msgstr "Změnit formulář"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 55\n"
+"string.text"
+msgid "~Page Styles"
+msgstr "Styly stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 80\n"
+"string.text"
+msgid "Field selection"
+msgstr "Výběr polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 81\n"
+"string.text"
+msgid "Set up a subform"
+msgstr "Nastavit podformulář"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 82\n"
+"string.text"
+msgid "Add subform fields"
+msgstr "Přidat pole podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 83\n"
+"string.text"
+msgid "Get joined fields"
+msgstr "Zobrazit spojená pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 84\n"
+"string.text"
+msgid "Arrange controls"
+msgstr "Uspořádat ovládací prvky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 85\n"
+"string.text"
+msgid "Set data entry"
+msgstr "Nastavit zadávání dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 86\n"
+"string.text"
+msgid "Apply styles"
+msgstr "Použít styly"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 87\n"
+"string.text"
+msgid "Set name"
+msgstr "Nastavit název"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 88\n"
+"string.text"
+msgid "(Date)"
+msgstr "(Datum)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 89\n"
+"string.text"
+msgid "(Time)"
+msgstr "(Čas)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 90\n"
+"string.text"
+msgid "Select the fields of your form"
+msgstr "Vybrat pole formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 91\n"
+"string.text"
+msgid "Decide if you want to set up a subform"
+msgstr "Rozhodněte se, jestli chcete nastavit podformulář"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 92\n"
+"string.text"
+msgid "Select the fields of your subform"
+msgstr "Vyberte pole podformuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 93\n"
+"string.text"
+msgid "Select the joins between your forms"
+msgstr "Vyberte spojení mezi formuláři"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 94\n"
+"string.text"
+msgid "Arrange the controls on your form"
+msgstr "Uspořádejte ovládací prvky formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 95\n"
+"string.text"
+msgid "Select the data entry mode"
+msgstr "Vyberte režim zadávání dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 96\n"
+"string.text"
+msgid "Apply the style of your form"
+msgstr "Určete styl formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 97\n"
+"string.text"
+msgid "Set the name of the form"
+msgstr "Zadejte název formuláře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_FORM_WIZARD_START + 98\n"
+"string.text"
+msgid ""
+"A form with the name '%FORMNAME' already exists.\n"
+"Choose another name."
+msgstr ""
+"Formulář s názvem '%FORMNAME' již existuje.\n"
+"Zvolte jiný název."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 0\n"
+"string.text"
+msgid "Query Wizard"
+msgstr "Průvodce dotazem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 1\n"
+"string.text"
+msgid "Query"
+msgstr "Dotaz"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 2\n"
+"string.text"
+msgid "Query Wizard"
+msgstr "Průvodce dotazem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 3\n"
+"string.text"
+msgid "~Tables"
+msgstr "Tabulky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 4\n"
+"string.text"
+msgid "A~vailable fields"
+msgstr "Dostupná pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 5\n"
+"string.text"
+msgid "Name ~of the query"
+msgstr "Název dotazu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 6\n"
+"string.text"
+msgid "Display ~Query"
+msgstr "Zobrazit dotaz"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 7\n"
+"string.text"
+msgid "~Modify Query"
+msgstr "Upravit dotaz"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 8\n"
+"string.text"
+msgid "~How do you want to proceed after creating the query?"
+msgstr "Jak chcete pokračovat po vytvoření dotazu?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 9\n"
+"string.text"
+msgid "Match ~all of the following"
+msgstr "Odpovídá všem následujícím"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 10\n"
+"string.text"
+msgid "~Match any of the following"
+msgstr "Odpovídá některým z následujících"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 11\n"
+"string.text"
+msgid "~Detailed query (Shows all records of the query.)"
+msgstr "Podrobný dotaz (Zobrazí všechny záznamy v dotazu.)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 12\n"
+"string.text"
+msgid "~Summary query (Shows only results of aggregate functions.)"
+msgstr "Sumární dotaz (Zobrazí jen výsledky agregačních funkcí.)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 16\n"
+"string.text"
+msgid "Aggregate functions"
+msgstr "Agregační funkce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 17\n"
+"string.text"
+msgid "Fields"
+msgstr "Pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 18\n"
+"string.text"
+msgid "~Group by"
+msgstr "Seskupit podle"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 19\n"
+"string.text"
+msgid "Field"
+msgstr "Pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 20\n"
+"string.text"
+msgid "Alias"
+msgstr "Alias"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 21\n"
+"string.text"
+msgid "Table: "
+msgstr "Tabulka:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 22\n"
+"string.text"
+msgid "Query: "
+msgstr "Dotaz:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 24\n"
+"string.text"
+msgid "Condition"
+msgstr "Podmínka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 25\n"
+"string.text"
+msgid "Value"
+msgstr "Hodnota"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 26\n"
+"string.text"
+msgid "is equal to"
+msgstr "je rovno"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 27\n"
+"string.text"
+msgid "is not equal to"
+msgstr "není rovno"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 28\n"
+"string.text"
+msgid "is smaller than"
+msgstr "je menší než"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 29\n"
+"string.text"
+msgid "is greater than"
+msgstr "je větší než"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 30\n"
+"string.text"
+msgid "is equal or less than "
+msgstr "je rovno nebo menší než"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 31\n"
+"string.text"
+msgid "is equal or greater than"
+msgstr "je rovno nebo větší než"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 32\n"
+"string.text"
+msgid "like"
+msgstr "jako"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 33\n"
+"string.text"
+msgid "not like"
+msgstr "není jako"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 34\n"
+"string.text"
+msgid "is null"
+msgstr "je null"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 35\n"
+"string.text"
+msgid "is not null"
+msgstr "není null"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 36\n"
+"string.text"
+msgid "true"
+msgstr "pravda"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 37\n"
+"string.text"
+msgid "false"
+msgstr "nepravda"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 38\n"
+"string.text"
+msgid "and"
+msgstr "a"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 39\n"
+"string.text"
+msgid "or"
+msgstr "nebo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 40\n"
+"string.text"
+msgid "get the sum of"
+msgstr "součet z"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 41\n"
+"string.text"
+msgid "get the average of"
+msgstr "průměr z"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 42\n"
+"string.text"
+msgid "get the minimum of"
+msgstr "minimum z"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 43\n"
+"string.text"
+msgid "get the maximum of"
+msgstr "maximum z"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 44\n"
+"string.text"
+msgid "get the sum of <FIELD>"
+msgstr "součet z <FIELD>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 45\n"
+"string.text"
+msgid "get the average of <FIELD>"
+msgstr "průměr z <FIELD>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 46\n"
+"string.text"
+msgid "get the minimum of <FIELD>"
+msgstr "minimum z <FIELD>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 47\n"
+"string.text"
+msgid "get the maximum of <FIELD>"
+msgstr "maximum z <FIELD>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 48\n"
+"string.text"
+msgid "(none)"
+msgstr "(žádná)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 50\n"
+"string.text"
+msgid "Fie~lds in the Query: "
+msgstr "Pole v dotazu: "
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 51\n"
+"string.text"
+msgid "Sorting order: "
+msgstr "Pořadí řazení:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 52\n"
+"string.text"
+msgid "No sorting fields were assigned."
+msgstr "Nebylo určeno žádné pole pro řazení."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 53\n"
+"string.text"
+msgid "Search conditions: "
+msgstr "Vyhledávací podmínky:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 54\n"
+"string.text"
+msgid "No conditions were assigned."
+msgstr "Nebyly určeny žádné podmínky."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 55\n"
+"string.text"
+msgid "Aggregate functions: "
+msgstr "Agregované funkce:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 56\n"
+"string.text"
+msgid "No aggregate functions were assigned."
+msgstr "Nebyly určeny žádné agregační funkce."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 57\n"
+"string.text"
+msgid "Grouped by: "
+msgstr "Seskupit podle:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 58\n"
+"string.text"
+msgid "No Groups were assigned."
+msgstr "Nebylo určeno žádné seskupení."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 59\n"
+"string.text"
+msgid "Grouping conditions: "
+msgstr "Podmínky seskupování"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 60\n"
+"string.text"
+msgid "No grouping conditions were assigned."
+msgstr "Nejsou definovány žádné podmínky pro seskupování."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 70\n"
+"string.text"
+msgid "Select the fields (columns) for your query"
+msgstr "Vyberte pole, která použijete ve svém dotazu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 71\n"
+"string.text"
+msgid "Select the sorting order"
+msgstr "Vyberte pořadí pro řazení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 72\n"
+"string.text"
+msgid "Select the search conditions"
+msgstr "Vyberte podmínky pro výběr položek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 73\n"
+"string.text"
+msgid "Select the type of query"
+msgstr "Vyberte typ dotazu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 74\n"
+"string.text"
+msgid "Select the groups"
+msgstr "Vyberte skupiny"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 75\n"
+"string.text"
+msgid "Select the grouping conditions"
+msgstr "Vyberte podmínky pro seskupování"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 76\n"
+"string.text"
+msgid "Assign aliases if desired"
+msgstr "V případě potřeby vyberte aliasy"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 77\n"
+"string.text"
+msgid "Check the overview and decide how to proceed"
+msgstr "Překontrolujte stručný přehled a vyberte jak pokračovat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 80\n"
+"string.text"
+msgid "Field selection"
+msgstr "Výběr polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 81\n"
+"string.text"
+msgid "Sorting order"
+msgstr "Pořadí řazení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 82\n"
+"string.text"
+msgid "Search conditions"
+msgstr "Podmínky výběru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 83\n"
+"string.text"
+msgid "Detail or summary"
+msgstr "Podrobnosti nebo souhrn"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 84\n"
+"string.text"
+msgid "Grouping"
+msgstr "Seskupení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 85\n"
+"string.text"
+msgid "Grouping conditions"
+msgstr "Podmínky seskupení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 86\n"
+"string.text"
+msgid "Aliases"
+msgstr "Aliasy"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 87\n"
+"string.text"
+msgid "Overview"
+msgstr "Přehled"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 88\n"
+"string.text"
+msgid "A field that has not been assigned an aggregate function must be used in a group."
+msgstr "Pole, které nebylo přiřazeno do agregační funkce musí být použito v seskupení."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 89\n"
+"string.text"
+msgid "The condition '<FIELDNAME> <LOGICOPERATOR> <VALUE>' was chosen twice. Each condition can only be chosen once"
+msgstr "Podmínka '<FIELDNAME> <LOGICOPERATOR> <VALUE>' byla zvolena dvakrát. Každou podmínku lze zvolit jen jednou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 90\n"
+"string.text"
+msgid "The aggregate function <FUNCTION> has been assigned twice to the fieldname '<NUMERICFIELD>'."
+msgstr "Agregační funkce <FUNCTION> byla dvakrát přiřazena poli '<NUMERICFIELD>'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 91\n"
+"string.text"
+msgid ", "
+msgstr ", "
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 92\n"
+"string.text"
+msgid "<FIELDTITLE> (<FIELDNAME>)"
+msgstr "<FIELDTITLE> (<FIELDNAME>)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 93\n"
+"string.text"
+msgid "<FIELDNAME> (<SORTMODE>)"
+msgstr "<FIELDNAME> (<SORTMODE>)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 94\n"
+"string.text"
+msgid "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
+msgstr "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 95\n"
+"string.text"
+msgid "<CALCULATEDFUNCTION> <FIELDNAME>"
+msgstr "<CALCULATEDFUNCTION> <FIELDNAME>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_QUERY_WIZARD_START + 96\n"
+"string.text"
+msgid "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
+msgstr "<FIELDNAME> <LOGICOPERATOR> <VALUE>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 0\n"
+"string.text"
+msgid "Report Wizard"
+msgstr "Průvodce sestavou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 3\n"
+"string.text"
+msgid "~Table"
+msgstr "Tabulka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 4\n"
+"string.text"
+msgid "Colu~mns"
+msgstr "Sloupce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 7\n"
+"string.text"
+msgid "Report_"
+msgstr "Report_"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 8\n"
+"string.text"
+msgid "- undefined -"
+msgstr "- nedefinováno -"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 9\n"
+"string.text"
+msgid "~Fields in report"
+msgstr "Pole v sestavě"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 11\n"
+"string.text"
+msgid "Grouping"
+msgstr "Seskupení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 12\n"
+"string.text"
+msgid "Sort options"
+msgstr "Možnosti řazení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 13\n"
+"string.text"
+msgid "Choose layout"
+msgstr "Zvolit rozvržení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 14\n"
+"string.text"
+msgid "Create report"
+msgstr "Vytvořit sestavu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 15\n"
+"string.text"
+msgid "Layout of data"
+msgstr "Rozvržení dat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 16\n"
+"string.text"
+msgid "Layout of headers and footers"
+msgstr "Rozvržení záhlaví a zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 19\n"
+"string.text"
+msgid "Fields"
+msgstr "Pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 20\n"
+"string.text"
+msgid "~Sort by"
+msgstr "Seřadit podle"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 21\n"
+"string.text"
+msgid "T~hen by"
+msgstr "Potom podle"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 22\n"
+"string.text"
+msgid "Orientation"
+msgstr "Orientace"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 23\n"
+"string.text"
+msgid "Portrait"
+msgstr "Na výšku"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 24\n"
+"string.text"
+msgid "Landscape"
+msgstr "Na šířku"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 28\n"
+"string.text"
+msgid "Which fields do you want to have in your report?"
+msgstr "Která pole chcete mít v sestavě?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 29\n"
+"string.text"
+msgid "Do you want to add grouping levels?"
+msgstr "Chcete přidat úrovně seskupení?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 30\n"
+"string.text"
+msgid "According to which fields do you want to sort the data?"
+msgstr "Podle kterých polí chcete řadit data?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 31\n"
+"string.text"
+msgid "How do you want your report to look?"
+msgstr "Jaký vzhled sestavy si přejete?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 32\n"
+"string.text"
+msgid "Decide how you want to proceed"
+msgstr "Rozhodněte se, čím budete pokračovat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 33\n"
+"string.text"
+msgid "Title of report"
+msgstr "Název sestavy"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 34\n"
+"string.text"
+msgid "Display report"
+msgstr "Zobrazit sestavu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 35\n"
+"string.text"
+msgid "Create report"
+msgstr "Vytvořit sestavu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 36\n"
+"string.text"
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 37\n"
+"string.text"
+msgid "Descending"
+msgstr "Sestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 40\n"
+"string.text"
+msgid "~Dynamic report"
+msgstr "Dynamická sestava"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 41\n"
+"string.text"
+msgid "~Create report now"
+msgstr "Vytvořit sestavu nyní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 42\n"
+"string.text"
+msgid "~Modify report layout"
+msgstr "Upravit formát sestavy"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 43\n"
+"string.text"
+msgid "Static report"
+msgstr "Statická sestava"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 44\n"
+"string.text"
+msgid "Save as"
+msgstr "Uložit jako"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 50\n"
+"string.text"
+msgid "Groupings"
+msgstr "Seskupení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 51\n"
+"string.text"
+msgid "Then b~y"
+msgstr "Potom podle"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 52\n"
+"string.text"
+msgid "~Then by"
+msgstr "Potom podle"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 53\n"
+"string.text"
+msgid "Asc~ending"
+msgstr "Vzestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 54\n"
+"string.text"
+msgid "Ascend~ing"
+msgstr "Vzestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 55\n"
+"string.text"
+msgid "Ascendin~g"
+msgstr "Vzestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 56\n"
+"string.text"
+msgid "De~scending"
+msgstr "Sestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 57\n"
+"string.text"
+msgid "Des~cending"
+msgstr "Sestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 58\n"
+"string.text"
+msgid "De~scending"
+msgstr "Sestupně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 60\n"
+"string.text"
+msgid "Binary fields cannot be displayed in the report."
+msgstr "Binární pole nelze v sestavě zobrazit."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 61\n"
+"string.text"
+msgid "The table '<TABLENAME>' does not exist."
+msgstr "Tabulka '<TABLENAME>' neexistuje."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 62\n"
+"string.text"
+msgid "Creating Report..."
+msgstr "Vytváření sestavy..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 63\n"
+"string.text"
+msgid "Number of records inserted: <COUNT>"
+msgstr "Počet vložených záznamů: <COUNT>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 64\n"
+"string.text"
+msgid "The form '<REPORTFORM>' does not exist."
+msgstr "Formulář '<REPORTFORM>' neexistuje."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 65\n"
+"string.text"
+msgid "The query with the statement <BR>'<STATEMENT>' <BR> could not be run. <BR> Check your data source."
+msgstr "Dotaz s prvkem <BR>'<STATEMENT>' <BR> nelze spustit. <BR> Zkontrolujte zdroj dat."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 66\n"
+"string.text"
+msgid "The following hidden control in the form '<REPORTFORM>' could not be read: '<CONTROLNAME>'."
+msgstr "Následující skrytý ovládací prvek formuláře '<REPORTFORM>' nelze přečíst: '<CONTROLNAME>'."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 67\n"
+"string.text"
+msgid "Importing data..."
+msgstr "Importování dat..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 68\n"
+"string.text"
+msgid "Labeling fields"
+msgstr "Pojmenování polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 69\n"
+"string.text"
+msgid "How do you want to label the fields?"
+msgstr "Jak chcete pojmenovat pole?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 70\n"
+"string.text"
+msgid "Label"
+msgstr "Popisek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 71\n"
+"string.text"
+msgid "Field"
+msgstr "Pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 72\n"
+"string.text"
+msgid "An error occurred in the wizard.<BR>The template '%PATH' could be erroneous.<BR>Either the required sections or tables do not exist or exist under the wrong name.<BR>See the Help for more detailed information.<BR>Please select another template."
+msgstr "Při běhu průvodce došlo k chybě.<BR>Šablona '%PATH' zřejmě obsahuje chyby.<BR>Buď neexistují potřebné tabulky nebo sekce anebo mají chybný název.<BR>Podrobné informace jsou obsaženy v nápovědě.<BR>Zvolte jinou šablonu."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 73\n"
+"string.text"
+msgid "There is an invalid user field in a table."
+msgstr "V tabulce je neplatné uživatelem definované pole."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 74\n"
+"string.text"
+msgid "The sort criterion '<FIELDNAME>' was chosen twice. Each criterion can only be chosen once."
+msgstr "Kritérium pro řazení '<FIELDNAME>' bylo zvoleno dvakrát. Každé kritérium může být zvoleno pouze jednou."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 75\n"
+"string.text"
+msgid "Note: The dummy text will be replaced by data from the database when the report is created."
+msgstr "Poznámka: Vyplňující text bude po vytvoření reportu nahrazen daty z databáze."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 76\n"
+"string.text"
+msgid "A report '%REPORTNAME' already exists in the database. Please assign another name."
+msgstr "Sestava '%REPORTNAME' již v databázi existuje. Zvolte jiný název."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 78\n"
+"string.text"
+msgid "How do you want to proceed after creating the report?"
+msgstr "Čím budete pokračovat po vytvoření sestavy?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 79\n"
+"string.text"
+msgid "What kind of report do you want to create?"
+msgstr "Jaký typ sestavy chcete vytvořit?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 80\n"
+"string.text"
+msgid "Tabular"
+msgstr "Tabulková"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 81\n"
+"string.text"
+msgid "Columnar, single-column"
+msgstr "Sloupcová s jedním sloupcem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 82\n"
+"string.text"
+msgid "Columnar, two columns"
+msgstr "Sloupcová se dvěma sloupci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 83\n"
+"string.text"
+msgid "Columnar, three columns"
+msgstr "Sloupcová se třemi sloupci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 84\n"
+"string.text"
+msgid "In blocks, labels left"
+msgstr "Bloková, popisky vlevo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 85\n"
+"string.text"
+msgid "In blocks, labels above"
+msgstr "Bloková, popisky nahoře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 86\n"
+"string.text"
+msgid "Title:"
+msgstr "Název:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 87\n"
+"string.text"
+msgid "Author:"
+msgstr "Autor:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 88\n"
+"string.text"
+msgid "Date:"
+msgstr "Datum:"
+
+#. Please don't translate the words #page# and #count#, these are placeholders.
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 89\n"
+"string.text"
+msgid "Page #page# of #count#"
+msgstr "Stránka #page# z #count#"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 90\n"
+"string.text"
+msgid "Page number:"
+msgstr "Číslo stránky:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 91\n"
+"string.text"
+msgid "Page count:"
+msgstr "Počet stránek:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 92\n"
+"string.text"
+msgid "No valid report template was found."
+msgstr "Nebyla nalezena žádná platná šablona sestavy."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 93\n"
+"string.text"
+msgid "Page:"
+msgstr "Stránka:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 94\n"
+"string.text"
+msgid "Align Left - Border"
+msgstr "Zarovnat doleva - okraj"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 95\n"
+"string.text"
+msgid "Align Left - Compact"
+msgstr "Zarovnat doleva - kompaktní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 96\n"
+"string.text"
+msgid "Align Left - Elegant"
+msgstr "Zarovnat doleva - elegantní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 97\n"
+"string.text"
+msgid "Align Left - Highlighted"
+msgstr "Zarovnat doleva - zvýrazněné"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 98\n"
+"string.text"
+msgid "Align Left - Modern"
+msgstr "Zarovnat doleva - moderní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 99\n"
+"string.text"
+msgid "Align Left - Red & Blue"
+msgstr "Zarovnat doleva - červená a modrá"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 100\n"
+"string.text"
+msgid "Default"
+msgstr "Výchozí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 101\n"
+"string.text"
+msgid "Outline - Borders"
+msgstr "Obrys - okraje"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 102\n"
+"string.text"
+msgid "Outline - Compact"
+msgstr "Obrys - kompaktní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 103\n"
+"string.text"
+msgid "Outline - Elegant"
+msgstr "Obrys - elegantní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 104\n"
+"string.text"
+msgid "Outline - Highlighted"
+msgstr "Obrys - zvýrazněné"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 105\n"
+"string.text"
+msgid "Outline - Modern"
+msgstr "Obrys - moderní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 106\n"
+"string.text"
+msgid "Outline - Red & Blue"
+msgstr "Obrys - červená a modrá"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 107\n"
+"string.text"
+msgid "Outline, indented - Borders"
+msgstr "Obrys, odsazený - okraje"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 108\n"
+"string.text"
+msgid "Outline, indented - Compact"
+msgstr "Obrys, odsazený - kompaktní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 109\n"
+"string.text"
+msgid "Outline, indented - Elegant"
+msgstr "Obrys, odsazený - elegantní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 110\n"
+"string.text"
+msgid "Outline, indented - Highlighted"
+msgstr "Obrys, odsazený - zvýrazněný"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 111\n"
+"string.text"
+msgid "Outline, indented - Modern"
+msgstr "Obrys, odsazený - moderní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 112\n"
+"string.text"
+msgid "Outline, indented - Red & Blue"
+msgstr "Obrys, odsazený - červená a modrá"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 113\n"
+"string.text"
+msgid "Bubbles"
+msgstr "Bubliny"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 114\n"
+"string.text"
+msgid "Cinema"
+msgstr "Kino"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 115\n"
+"string.text"
+msgid "Controlling"
+msgstr "Kontrola"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 116\n"
+"string.text"
+msgid "Default"
+msgstr "Výchozí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 117\n"
+"string.text"
+msgid "Drafting"
+msgstr "Náčrt"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 118\n"
+"string.text"
+msgid "Finances"
+msgstr "Finance"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 119\n"
+"string.text"
+msgid "Flipchart"
+msgstr "Flipchart"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 120\n"
+"string.text"
+msgid "Formal with Company Logo"
+msgstr "Formální s logem společnosti"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 121\n"
+"string.text"
+msgid "Generic"
+msgstr "Obecný"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_REPORT_WIZARD_START + 122\n"
+"string.text"
+msgid "Worldmap"
+msgstr "Mapa světa"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 1\n"
+"string.text"
+msgid "Table Wizard"
+msgstr "Průvodce tabulkou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 2\n"
+"string.text"
+msgid "Select fields"
+msgstr "Výběr polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 3\n"
+"string.text"
+msgid "Set types and formats"
+msgstr "Nastavit typy a formáty"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 4\n"
+"string.text"
+msgid "Set primary key"
+msgstr "Nastavit primární klíč"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 5\n"
+"string.text"
+msgid "Create table"
+msgstr "Vytvořit tabulku"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 8\n"
+"string.text"
+msgid "Select fields for your table"
+msgstr "Vyberte pole pro tabulku"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 9\n"
+"string.text"
+msgid "Set field types and formats"
+msgstr "Nastavit typy polí a formáty"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 10\n"
+"string.text"
+msgid "Set primary key"
+msgstr "Nastavit primární klíč"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 11\n"
+"string.text"
+msgid "Create table"
+msgstr "Vytvořit tabulku"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 14\n"
+"string.text"
+msgid "This wizard helps you to create a table for your database. After selecting a table category and a sample table, choose the fields you want to include in your table. You can include fields from more than one sample table."
+msgstr "Tento průvodce vám pomůže vytvořit tabulku ve vaší databázi. Po výběru kategorie tabulky z různých vzorů vyberete pole, která má tabulka obsahovat. Můžete použít pole i z několika různých vzorových tabulek."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 15\n"
+"string.text"
+msgid "Ca~tegory"
+msgstr "Kategorie"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 16\n"
+"string.text"
+msgid "B~usiness"
+msgstr "Pracovní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 17\n"
+"string.text"
+msgid "P~ersonal"
+msgstr "Osobní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 18\n"
+"string.text"
+msgid "~Sample tables"
+msgstr "Vzorové tabulky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 19\n"
+"string.text"
+msgid "A~vailable fields"
+msgstr "Dostupná pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 20\n"
+"string.text"
+msgid "Field information"
+msgstr "Informace o polích"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 21\n"
+"string.text"
+msgid "+"
+msgstr "+"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 22\n"
+"string.text"
+msgid "-"
+msgstr "-"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 23\n"
+"string.text"
+msgid "Field name"
+msgstr "Název pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 24\n"
+"string.text"
+msgid "Field type"
+msgstr "Typ pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 25\n"
+"string.text"
+msgid "~Selected fields"
+msgstr "Vybraná pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 26\n"
+"string.text"
+msgid "A primary key uniquely identifies each record in a database table. Primary keys ease the linking of information in separate tables, and it is recommended that you have a primary key in every table. Without a primary key, it will not be possible to enter data into this table."
+msgstr "Primární klíč unikátně identifikuje každý záznam v databázové tabulce. Primární klíče zjednodušují spojování záznamů v různých tabulkách, doporučujeme, aby každá tabulka měla primární klíč. Bez primárního klíče nebude možné zadávat data do této tabulky."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 27\n"
+"string.text"
+msgid "~Create a primary key"
+msgstr "Vytvořit primární klíč"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 28\n"
+"string.text"
+msgid "~Automatically add a primary key"
+msgstr "Automaticky přidat primární klíč"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 29\n"
+"string.text"
+msgid "~Use an existing field as a primary key"
+msgstr "Použít existující pole jako primární klíč"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 30\n"
+"string.text"
+msgid "Define p~rimary key as a combination of several fields "
+msgstr "Definovat primární klíč jako kombinaci více polí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 31\n"
+"string.text"
+msgid "F~ieldname"
+msgstr "Název pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 32\n"
+"string.text"
+msgid "~Primary key fields"
+msgstr "Pole primárního klíče"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 33\n"
+"string.text"
+msgid "Auto ~value"
+msgstr "Automatická hodnota"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 34\n"
+"string.text"
+msgid "What do you want to name your table?"
+msgstr "Jak si přejete pojmenovat svou tabulku?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 35\n"
+"string.text"
+msgid "Congratulations. You have entered all the information needed to create your table."
+msgstr "Gratulujeme. Zadali jste všechny údaje potřebné pro vytvoření tabulky."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 36\n"
+"string.text"
+msgid "What do you want to do next?"
+msgstr "Co budete dělat nyní?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 37\n"
+"string.text"
+msgid "Modify the table design"
+msgstr "Upravit návrh tabulky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 38\n"
+"string.text"
+msgid "Insert data immediately"
+msgstr "Okamžitě vkládat data"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 39\n"
+"string.text"
+msgid "C~reate a form based on this table"
+msgstr "Vytvořit formulář založený na této tabulce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 40\n"
+"string.text"
+msgid "The table you have created could not be opened."
+msgstr "Tabulka, kterou jste vytvořili, nemohla být otevřena."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 41\n"
+"string.text"
+msgid "The table name '%TABLENAME' contains a character ('%SPECIALCHAR') that might not be supported by the database."
+msgstr "Název tabulky '%TABLENAME' obsahuje znak ('%SPECIALCHAR'), který pravděpodobně není v databázi podporován."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 42\n"
+"string.text"
+msgid "The field name '%FIELDNAME' contains a special character ('%SPECIALCHAR') that might not be supported by the database."
+msgstr "Pole '%FIELDNAME' obsahuje speciální znak ('%SPECIALCHAR'), který není v databázi pravděpodobně podporován."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 43\n"
+"string.text"
+msgid "Field"
+msgstr "Pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 44\n"
+"string.text"
+msgid "MyTable"
+msgstr "MojeTabulka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 45\n"
+"string.text"
+msgid "Add a Field"
+msgstr "Přidat pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 46\n"
+"string.text"
+msgid "Remove the selected Field"
+msgstr "Odebrat vybrané pole"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 47\n"
+"string.text"
+msgid "The field cannot be inserted because this would exceed the maximum number of %COUNT possible fields in the database table"
+msgstr "Pole nelze vložit, protože by v tabulce databáze došlo k překročení maximální počtu polí (%COUNT)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 48\n"
+"string.text"
+msgid ""
+"The name '%TABLENAME' already exists.\n"
+"Please enter another name."
+msgstr ""
+"Tabulka s názvem '%TABLENAME' již existuje.\n"
+"Zvolte jiný název."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 49\n"
+"string.text"
+msgid "Catalog of the table"
+msgstr "Katalog tabulky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 50\n"
+"string.text"
+msgid "Schema of the table"
+msgstr "Schéma tabulky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_DB_TABLE_WIZARD_START + 51\n"
+"string.text"
+msgid "The field '%FIELDNAME' already exists."
+msgstr "Pole '%FIELDNAME' již existuje."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 1\n"
+"string.text"
+msgid "Letter Wizard"
+msgstr "Průvodce dopisem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 2\n"
+"string.text"
+msgid "Label9"
+msgstr "Label9"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 3\n"
+"string.text"
+msgid "~Business letter"
+msgstr "Obchodní dopis"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 4\n"
+"string.text"
+msgid "~Formal personal letter"
+msgstr "Formální osobní dopis"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 5\n"
+"string.text"
+msgid "~Personal letter"
+msgstr "Osobní dopis"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 6\n"
+"string.text"
+msgid "~Use letterhead paper with pre-printed elements"
+msgstr "Použít hlavičkový papír s předtiskem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 7\n"
+"string.text"
+msgid "~Logo"
+msgstr "Logo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 8\n"
+"string.text"
+msgid "Return address"
+msgstr "Zpáteční adresa"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 9\n"
+"string.text"
+msgid "~Include footer"
+msgstr "Použít zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 10\n"
+"string.text"
+msgid "~Return address in envelope window"
+msgstr "Zpáteční adresa v okénku obálky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 11\n"
+"string.text"
+msgid "~Logo"
+msgstr "Logo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 12\n"
+"string.text"
+msgid "~Return address in envelope window"
+msgstr "Zpáteční adresa v okénku obálky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 13\n"
+"string.text"
+msgid "Letter Signs"
+msgstr "Vaše značka / Naše značka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 14\n"
+"string.text"
+msgid "S~ubject line"
+msgstr "Předmět"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 15\n"
+"string.text"
+msgid "Salu~tation"
+msgstr "Oslovení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 16\n"
+"string.text"
+msgid "Fold ~marks"
+msgstr "Značky ohybu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 17\n"
+"string.text"
+msgid "~Complimentary close"
+msgstr "Zdvořilostní zakončení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 18\n"
+"string.text"
+msgid "~Footer"
+msgstr "Zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 19\n"
+"string.text"
+msgid "~Use user data for return address"
+msgstr "Použít uživatelské údaje pro zpáteční adresu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 20\n"
+"string.text"
+msgid "~New sender address:"
+msgstr "Nová adresa odesilatele:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 21\n"
+"string.text"
+msgid "Use placeholders for ~recipient's address"
+msgstr "Pro adresu příjemce použít zástupné znaky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 22\n"
+"string.text"
+msgid "Use address database for ~mail merge"
+msgstr "Pro hromadnou korespondenci použít databázi adres"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 23\n"
+"string.text"
+msgid "Include ~only on second and following pages"
+msgstr "Použít pouze na druhé a dalších stranách"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 24\n"
+"string.text"
+msgid "~Include page number"
+msgstr "Včetně čísel stránek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 25\n"
+"string.text"
+msgid "Letter Template"
+msgstr "Šablona dopisu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 26\n"
+"string.text"
+msgid "Create a ~letter from this template"
+msgstr "Vytvořit dopis z této šablony"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 27\n"
+"string.text"
+msgid "Make ~manual changes to this letter template"
+msgstr "Upravit šablonu dopisu ručně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 28\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 29\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 30\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 31\n"
+"string.text"
+msgid "This wizard helps you to create a letter template. You can then use the template as the basis for writing letters as often as desired."
+msgstr "Tento průvodce vám pomůže vytvořit šablonu dopisu. Vytvořenou šablonu budeme moct používat pro psaní dopisů tak často, jak budete potřebovat."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 32\n"
+"string.text"
+msgid "~Height:"
+msgstr "Výška:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 33\n"
+"string.text"
+msgid "~Width:"
+msgstr "Šířka:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 34\n"
+"string.text"
+msgid "S~pacing to left margin:"
+msgstr "Vzdálenost od levého okraje:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 35\n"
+"string.text"
+msgid "Spacing ~to top margin:"
+msgstr "Vzdálenost od horního okraje:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 36\n"
+"string.text"
+msgid "Height:"
+msgstr "Výška:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 37\n"
+"string.text"
+msgid "Width:"
+msgstr "Šířka:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 38\n"
+"string.text"
+msgid "S~pacing to left margin:"
+msgstr "Vzdálenost od levého okraje:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 39\n"
+"string.text"
+msgid "Spacing ~to top margin:"
+msgstr "Vzdálenost od horního okraje:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 40\n"
+"string.text"
+msgid "Height:"
+msgstr "Výška:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 42\n"
+"string.text"
+msgid "Sender's address"
+msgstr "Adresa odesilatele"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 43\n"
+"string.text"
+msgid "Name:"
+msgstr "Jméno:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 44\n"
+"string.text"
+msgid "Street:"
+msgstr "Ulice:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 45\n"
+"string.text"
+msgid "ZIP code/State/City:"
+msgstr "PSČ/Stát/Město:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 46\n"
+"string.text"
+msgid "Recipient's address"
+msgstr "Adresa příjemce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 47\n"
+"string.text"
+msgid "Footer"
+msgstr "Zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 48\n"
+"string.text"
+msgid "This wizard creates a letter template which enables you to create multiple letters with the same layout and settings."
+msgstr "Tento průvodce vám umožní vytvořit šablonu dopisu. S její pomocí můžete následně psát dopisy jednotného vzhledu."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 49\n"
+"string.text"
+msgid "To create another new letter out of the template just navigate to the template location and double-click it."
+msgstr "Nový dopis ze šablony vytvoříte prostým nalezením šablony a následným dvojitým kliknutím na její název."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 50\n"
+"string.text"
+msgid "Template name:"
+msgstr "Název šablony:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 51\n"
+"string.text"
+msgid "Location and file name:"
+msgstr "Umístění a název souboru:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 52\n"
+"string.text"
+msgid "How do you want to proceed?"
+msgstr "Čím chcete pokračovat?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 53\n"
+"string.text"
+msgid "Please choose the type of letter and page design"
+msgstr "Vyberte typ dopisu a vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 54\n"
+"string.text"
+msgid "Select the items to be printed"
+msgstr "Vyberte, které položky bude dopis obsahovat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 55\n"
+"string.text"
+msgid "Specify items already on your letterhead paper"
+msgstr "Vyberte položky, které jsou již předtištěny na hlavičkovém papíře"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 56\n"
+"string.text"
+msgid "Specify the sender and recipient information"
+msgstr "Zadejte adresu odesílatele a příjemce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 57\n"
+"string.text"
+msgid "Fill in the information you would like in the footer"
+msgstr "Zadejte informace, které mají být obsaženy v zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 58\n"
+"string.text"
+msgid "Please specify last settings"
+msgstr "Závěrečné informace"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 59\n"
+"string.text"
+msgid "Subject:"
+msgstr "Předmět:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 60\n"
+"string.text"
+msgid "Elegant"
+msgstr "Elegantní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 61\n"
+"string.text"
+msgid "Modern"
+msgstr "Moderní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 62\n"
+"string.text"
+msgid "Office"
+msgstr "Kancelář"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 63\n"
+"string.text"
+msgid "Bottle"
+msgstr "Láhev"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 64\n"
+"string.text"
+msgid "Mail"
+msgstr "Pošta"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 65\n"
+"string.text"
+msgid "Marine"
+msgstr "Námořnická modř"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDDIALOG_START + 66\n"
+"string.text"
+msgid "Red Line"
+msgstr "Červená linie"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDSALUTATION_START + 1\n"
+"string.text"
+msgid "To Whom it May Concern"
+msgstr "Vážení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDSALUTATION_START + 2\n"
+"string.text"
+msgid "Dear Sir or Madam"
+msgstr "Vážená paní nebo pane"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDSALUTATION_START + 3\n"
+"string.text"
+msgid "Hello"
+msgstr "Dobrý den"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDGREETING_START + 1\n"
+"string.text"
+msgid "Sincerely"
+msgstr "S úctou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDGREETING_START + 2\n"
+"string.text"
+msgid "Best regards"
+msgstr "Se srdečným pozdravem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDGREETING_START + 3\n"
+"string.text"
+msgid "Cheers"
+msgstr "Ahoj"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDROADMAP_START + 1\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDROADMAP_START + 2\n"
+"string.text"
+msgid "Letterhead layout"
+msgstr "Vzhled hlavičkového papíru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDROADMAP_START + 3\n"
+"string.text"
+msgid "Printed items"
+msgstr "Položky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDROADMAP_START + 4\n"
+"string.text"
+msgid "Recipient and sender"
+msgstr "Příjemce a odesilatel"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDROADMAP_START + 5\n"
+"string.text"
+msgid "Footer"
+msgstr "Zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_LETTERWIZARDROADMAP_START + 6\n"
+"string.text"
+msgid "Name and location"
+msgstr "Název a umístění"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 1\n"
+"string.text"
+msgid "Fax Wizard"
+msgstr "Průvodce faxem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 2\n"
+"string.text"
+msgid "Label9"
+msgstr "Label9"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 3\n"
+"string.text"
+msgid "~Business Fax"
+msgstr "Firemní fax"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 4\n"
+"string.text"
+msgid "~Personal Fax"
+msgstr "Osobní fax"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 5\n"
+"string.text"
+msgid "~Logo"
+msgstr "Logo"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 6\n"
+"string.text"
+msgid "S~ubject line"
+msgstr "Předmět"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 7\n"
+"string.text"
+msgid "S~alutation"
+msgstr "Oslovení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 8\n"
+"string.text"
+msgid "~Complimentary close"
+msgstr "Zdvořilostní zakončení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 9\n"
+"string.text"
+msgid "~Footer"
+msgstr "Zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 10\n"
+"string.text"
+msgid "~Use user data for return address"
+msgstr "Použít uživatelské údaje pro zpáteční adresu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 11\n"
+"string.text"
+msgid "~New return address"
+msgstr "Nová zpáteční adresa"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 12\n"
+"string.text"
+msgid "My Fax Template"
+msgstr "Moje šablona faxu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 13\n"
+"string.text"
+msgid "Create a ~fax from this template"
+msgstr "Vytvořit fax založený na této šabloně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 14\n"
+"string.text"
+msgid "Make ~manual changes to this fax template"
+msgstr "Provést další změny v této faxové šabloně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 15\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 16\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 17\n"
+"string.text"
+msgid "This wizard helps you to create a fax template. The template can then be used to create a fax whenever needed."
+msgstr "Tento průvodce vám pomůže s vytvořením šablony pro fax. Ta potom může být použita pro vytvoření standardního faxu, kdykoliv jej budete potřebovat."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 18\n"
+"string.text"
+msgid "Return address"
+msgstr "Zpáteční adresa"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 19\n"
+"string.text"
+msgid "Name:"
+msgstr "Jméno:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 20\n"
+"string.text"
+msgid "Street:"
+msgstr "Ulice:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 21\n"
+"string.text"
+msgid "ZIP code/State/City:"
+msgstr "PSČ/Stát/Město:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 22\n"
+"string.text"
+msgid "Footer"
+msgstr "Zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 23\n"
+"string.text"
+msgid "This wizard creates a fax template which enables you to create multiple faxes with the same layout and settings."
+msgstr "Tento průvodce vám pomůže s vytvořením šablony, které umožní vytvářet faxy s jednotným vzhledem."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 24\n"
+"string.text"
+msgid "To create another new fax out of the template, go to the location where you saved the template and double-click the file."
+msgstr "Nový fax vytvoříte jednoduše tak, že naleznete šablonu a dvakrát kliknete na její název."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 25\n"
+"string.text"
+msgid "Template Name:"
+msgstr "Název šablony:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 26\n"
+"string.text"
+msgid "Location and file name:"
+msgstr "Umístění a název souboru:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 27\n"
+"string.text"
+msgid "What do you want to do next?"
+msgstr "Co budete dělat nyní?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 28\n"
+"string.text"
+msgid "Choose the type of fax and a page design"
+msgstr "Vyberte typ faxu a vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 29\n"
+"string.text"
+msgid "Select items to include in the fax template"
+msgstr "Vyberte položky, které mají být obsaženy v šabloně faxu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 30\n"
+"string.text"
+msgid "Specify sender and recipient information"
+msgstr "Zadejte adresu odesílatele a příjemce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 31\n"
+"string.text"
+msgid "Enter text for the footer"
+msgstr "Zadejte obsah zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 32\n"
+"string.text"
+msgid "Choose a name and save the template"
+msgstr "Vyberte název a šablonu uložte"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 33\n"
+"string.text"
+msgid "Include ~only on second and following pages"
+msgstr "Použít pouze na druhé a dalších stranách"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 34\n"
+"string.text"
+msgid "~Include page number"
+msgstr "Včetně čísel stránek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 35\n"
+"string.text"
+msgid "~Date"
+msgstr "Datum"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 36\n"
+"string.text"
+msgid "~Type of message"
+msgstr "Typ zprávy"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 37\n"
+"string.text"
+msgid "Fax Number:"
+msgstr "Faxové číslo:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 38\n"
+"string.text"
+msgid "Use placeholders for ~recipient's address"
+msgstr "Pro adresu příjemce použít zástupné znaky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 39\n"
+"string.text"
+msgid "Use address database for ~mail merge"
+msgstr "Pro hromadnou korespondenci použít databázi adres"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 40\n"
+"string.text"
+msgid "~New return address"
+msgstr "Nová zpáteční adresa"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 41\n"
+"string.text"
+msgid "To:"
+msgstr "Komu:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 42\n"
+"string.text"
+msgid "From:"
+msgstr "Od:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 43\n"
+"string.text"
+msgid "Fax:"
+msgstr "Fax:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 44\n"
+"string.text"
+msgid "Tel:"
+msgstr "Tel:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 45\n"
+"string.text"
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 46\n"
+"string.text"
+msgid "This template consists of"
+msgstr "Tato šablona se skládá z"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 47\n"
+"string.text"
+msgid "page"
+msgstr "stránka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 48\n"
+"string.text"
+msgid "Please inform us if transmission errors occur."
+msgstr "Upozorněte nás, pokud dojde k chybám přenosu."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 49\n"
+"string.text"
+msgid "Bottle"
+msgstr "Láhev"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 50\n"
+"string.text"
+msgid "Lines"
+msgstr "Čáry"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 51\n"
+"string.text"
+msgid "Marine"
+msgstr "Námořnická modř"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 52\n"
+"string.text"
+msgid "Classic Fax"
+msgstr "Klasický fax"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 53\n"
+"string.text"
+msgid "Classic Fax from Private"
+msgstr "Klasický soukromý fax"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 54\n"
+"string.text"
+msgid "Modern Fax"
+msgstr "Moderní fax"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDDIALOG_START + 55\n"
+"string.text"
+msgid "Modern Fax from Private"
+msgstr "Moderní soukromý fax"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDCOMMUNICATION_START + 1\n"
+"string.text"
+msgid "Important Information!"
+msgstr "Důležitá informace!"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDCOMMUNICATION_START + 2\n"
+"string.text"
+msgid "For your information"
+msgstr "Pro vaši informaci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDCOMMUNICATION_START + 3\n"
+"string.text"
+msgid "News!"
+msgstr "Novinka!"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDSALUTATION_START + 1\n"
+"string.text"
+msgid "To whom it may concern,"
+msgstr "Vážení,"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDSALUTATION_START + 2\n"
+"string.text"
+msgid "Dear Sir or Madam,"
+msgstr "Vážená paní nebo pane,"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDSALUTATION_START + 3\n"
+"string.text"
+msgid "Hello,"
+msgstr "Dobrý den,"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDSALUTATION_START + 4\n"
+"string.text"
+msgid "Hi,"
+msgstr "Ahoj,"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDGREETING_START + 1\n"
+"string.text"
+msgid "Sincerely"
+msgstr "S úctou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDGREETING_START + 2\n"
+"string.text"
+msgid "Yours faithfully"
+msgstr "V dokonalé úctě"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDGREETING_START + 3\n"
+"string.text"
+msgid "Regards"
+msgstr "S pozdravem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDGREETING_START + 4\n"
+"string.text"
+msgid "Love"
+msgstr "Milující"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDROADMAP_START + 1\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDROADMAP_START + 2\n"
+"string.text"
+msgid "Items to include"
+msgstr "Položky faxu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDROADMAP_START + 3\n"
+"string.text"
+msgid "Sender and Recipient"
+msgstr "Odesilatel a příjemce"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDROADMAP_START + 4\n"
+"string.text"
+msgid "Footer"
+msgstr "Zápatí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_FAXWIZARDROADMAP_START + 5\n"
+"string.text"
+msgid "Name and location"
+msgstr "Název a umístění"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +1\n"
+"string.text"
+msgid "Web Wizard"
+msgstr "Průvodce webovou stránkou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +2\n"
+"string.text"
+msgid ""
+"This Web Wizard is to aid you in publishing documents on the Internet.\n"
+"\n"
+"It will convert the documents so that they can be viewed by a web browser. In addition, it will generate a Table of Contents page with links for easy access to the documents. The Web Wizard will also allow you to customize the design and layout of your web site.\n"
+"\n"
+"You will be able to keep the documents you have published on the web up-to-date and add or remove documents at any time."
+msgstr ""
+"Tento průvodce vám pomůže s publikací dokumentů na Internetu.\n"
+"\n"
+"Převede dokumenty do formátu, který mohou zobrazit webové prohlížeče. Kromě toho vytvoří stránku s obsahem a odkazy na jednotlivé stránky, aby byly dokumenty snadno přístupné. Můžete si zvolit i vzhled stránek.\n"
+"\n"
+"Budete mít možnost publikované dokumenty kdykoliv aktualizovat a případně libovolný z nich odstranit."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +4\n"
+"string.text"
+msgid "~Delete"
+msgstr "S~mazat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +5\n"
+"string.text"
+msgid "Introduction"
+msgstr "Úvod"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +6\n"
+"string.text"
+msgid "Select the documents you want to publish"
+msgstr "Vyberte dokumenty, které si přejete publikovat"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +8\n"
+"string.text"
+msgid "Document information "
+msgstr "Informace o dokumentu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +9\n"
+"string.text"
+msgid "~Title:"
+msgstr "Název:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +10\n"
+"string.text"
+msgid "~Summary: "
+msgstr "Souhrn:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +11\n"
+"string.text"
+msgid "Au~thor:"
+msgstr "Autor:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +12\n"
+"string.text"
+msgid "~Export to file format:"
+msgstr "Exportovat v souborovém formátu:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +13\n"
+"string.text"
+msgid "Enter general information for your web site"
+msgstr "Zadejte všeobecné informace o webových stránkách"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +14\n"
+"string.text"
+msgid "Title:"
+msgstr "Název:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +16\n"
+"string.text"
+msgid "Description:"
+msgstr "Popis:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +18\n"
+"string.text"
+msgid "Created:"
+msgstr "Vytvořeno:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +20\n"
+"string.text"
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +21\n"
+"string.text"
+msgid "Copyright notice:"
+msgstr "Informace o copyrightu:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +22\n"
+"string.text"
+msgid "Modified:"
+msgstr "Změněno:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +24\n"
+"string.text"
+msgid "~Preview"
+msgstr "~Náhled"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +25\n"
+"string.text"
+msgid "Where do you want to publish your web site?"
+msgstr "Jakým způsobem si přejete nové webové stránky publikovat?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +26\n"
+"string.text"
+msgid "Publish the new web site:"
+msgstr "Publikovat nové stránky:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +27\n"
+"string.text"
+msgid "To a ~local folder"
+msgstr "Do ~lokální složky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +28\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +29\n"
+"string.text"
+msgid "To a ~web server via FTP"
+msgstr "Na ~webový server pomocí FTP"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +31\n"
+"string.text"
+msgid "~Configure..."
+msgstr "~Konfigurovat..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +32\n"
+"string.text"
+msgid "To a ZIP ~archive"
+msgstr "Do ~archívu ZIP"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +33\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +34\n"
+"string.text"
+msgid "~Save settings (recommended)"
+msgstr "~Uložit nastavení (doporučeno)"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +35\n"
+"string.text"
+msgid "Save ~as:"
+msgstr "Uložit ~jako:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +36\n"
+"string.text"
+msgid "~Choose settings for the Web Wizard"
+msgstr "~Vyberte nastavení průvodce webovými stránkami"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +37\n"
+"string.text"
+msgid "Web site content "
+msgstr "Obsah webových stránek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +38\n"
+"string.text"
+msgid "~Add..."
+msgstr "~Přidat..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +39\n"
+"string.text"
+msgid "Remo~ve"
+msgstr "~Odstranit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +40\n"
+"string.text"
+msgid "Choose a layout for the table of contents of your web site"
+msgstr "Vyberte vzhled obsahu webových stránek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +41\n"
+"string.text"
+msgid "Select a style for the table of contents page"
+msgstr "Vyberte styl pro stránku s obsahem"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +42\n"
+"string.text"
+msgid "~Style:"
+msgstr "~Styl:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +48\n"
+"string.text"
+msgid "~Layouts: "
+msgstr "~Vzhled:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +50\n"
+"string.text"
+msgid "~Description"
+msgstr "~Popis"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +51\n"
+"string.text"
+msgid "~Author"
+msgstr "~Autor"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +52\n"
+"string.text"
+msgid "Cr~eation date"
+msgstr "Čas ~vytvoření"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +53\n"
+"string.text"
+msgid "~Last change date"
+msgstr "Čas poslední ~změny"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +54\n"
+"string.text"
+msgid "~File name"
+msgstr "~Název souboru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +55\n"
+"string.text"
+msgid "File forma~t"
+msgstr "~Formát souboru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +56\n"
+"string.text"
+msgid "File format ~icon"
+msgstr "~Ikona formátu souboru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +57\n"
+"string.text"
+msgid "Number ~of pages"
+msgstr "Počet ~stránek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +58\n"
+"string.text"
+msgid "~Size in KB"
+msgstr "Velikost v ~KB"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +59\n"
+"string.text"
+msgid "Click 'Preview' to see a preview in your browser:"
+msgstr "Kliknutím na 'Náhled' zobrazíte náhled v prohlížeči:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +60\n"
+"string.text"
+msgid "Customize the selected layout"
+msgstr "Přizpůsobte zvolený vzhled"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +61\n"
+"string.text"
+msgid "Include the following information for each document in the table of contents:"
+msgstr "Vložit do obsahu každého dokumentu následující informace:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +62\n"
+"string.text"
+msgid "Optimize the layout for screen resolution:"
+msgstr "Optimalizovat vzhled pro velikost obrazovky:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +64\n"
+"string.text"
+msgid "~640x480"
+msgstr "~640x480"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +65\n"
+"string.text"
+msgid "~800x600"
+msgstr "~800x600"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +66\n"
+"string.text"
+msgid "~1024x768"
+msgstr "~1024x768"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +70\n"
+"string.text"
+msgid "Generating Your Web Site"
+msgstr "Vytváří se webové stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +71\n"
+"string.text"
+msgid "%START - %END/%TOTAL"
+msgstr "%START - %END/%TOTAL"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +72\n"
+"string.text"
+msgid "myWebsite"
+msgstr "mojeWebovéstránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +73\n"
+"string.text"
+msgid "FTP target '%FILENAME' is a file."
+msgstr "Zvolený FTP cíl '%FILENAME' je soubor."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +74\n"
+"string.text"
+msgid "The local target '%FILENAME' is a file."
+msgstr "Zvolený cíl '%FILENAME' je soubor."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +75\n"
+"string.text"
+msgid "The ZIP target '%FILENAME' already exists. Do you want to overwrite the existing target? "
+msgstr "Soubor '%FILENAME' již existuje, má být přepsán?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +76\n"
+"string.text"
+msgid "The FTP target directory '%FILENAME' is not empty. Some files might be overwritten. Do you want to continue?"
+msgstr "Cílový FTP adresář '%FILENAME' není prázdný. Některé soubory by mohly být přepsány. Přejete si pokračovat?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +77\n"
+"string.text"
+msgid "The local target directory '%FILENAME' is not empty. Some files might be overwritten. Do you want to continue?"
+msgstr "Lokální cílový adresář '%FILENAME' není prázdný. Některé soubory by mohly být přepsány. Přejete si pokračovat?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +78\n"
+"string.text"
+msgid "Settings already exist under the given name. Do you want to overwrite the existing settings? "
+msgstr "Pod zvoleným názvem je již uloženo dříve vytvořené nastavení, má být přepsáno?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +79\n"
+"string.text"
+msgid "Exporting documents..."
+msgstr "Export dokumentů..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +80\n"
+"string.text"
+msgid "Preparing export..."
+msgstr "Příprava exportu..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +81\n"
+"string.text"
+msgid "Copying layout files..."
+msgstr "Kopírování souborů rozvržení..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +82\n"
+"string.text"
+msgid "Preparing table of contents generation..."
+msgstr "Příprava generování obsahu..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +83\n"
+"string.text"
+msgid "Generating table of contents..."
+msgstr "Generování obsahu..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +84\n"
+"string.text"
+msgid "Initializing..."
+msgstr "Inicializace..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +86\n"
+"string.text"
+msgid "Preparing to publish..."
+msgstr "Příprava na zveřejnění..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +87\n"
+"string.text"
+msgid "Publishing to local directory..."
+msgstr "Zveřejnění do lokálního adresáře..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +88\n"
+"string.text"
+msgid "Publishing to FTP destination..."
+msgstr "Zveřejnění na FTP..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +89\n"
+"string.text"
+msgid "Publishing to a ZIP archive..."
+msgstr "Zveřejnění v souboru ZIP..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 90\n"
+"string.text"
+msgid "Finishing..."
+msgstr "Dokončení..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 94\n"
+"string.text"
+msgid "Graphic files"
+msgstr "Grafické soubory"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 95\n"
+"string.text"
+msgid "All files"
+msgstr "Všechny soubory"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 96\n"
+"string.text"
+msgid "~ZIP archive files"
+msgstr "Soubory ZIP"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 98\n"
+"string.text"
+msgid "Background images"
+msgstr "Obrázky pozadí"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 99\n"
+"string.text"
+msgid "Choose a background image: "
+msgstr "Zvolte obrázek pozadí:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 100\n"
+"string.text"
+msgid "Icon sets"
+msgstr "Sady ikon"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START + 101\n"
+"string.text"
+msgid "Choose an icon set:"
+msgstr "Zvolte sadu ikon:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +102\n"
+"string.text"
+msgid "Other..."
+msgstr "Jiné..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +103\n"
+"string.text"
+msgid "None"
+msgstr "Žádné"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +104\n"
+"string.text"
+msgid "Your web site was created successfully into: %FILENAME"
+msgstr "Webové stránky byly úspěšně uloženy do %FILENAME"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +105\n"
+"string.text"
+msgid "One or more errors occurred when generating the web site."
+msgstr "Při generování webových stránek došlo k jedné nebo více chybám."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +106\n"
+"string.text"
+msgid "An error occurred while generating the table of contents page(s). "
+msgstr "Při generování stránek obsahu došlo k chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +107\n"
+"string.text"
+msgid "An error occurred while copying the layout files. "
+msgstr "Při kopírování souborů s definicí vzhledu došlo k chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +108\n"
+"string.text"
+msgid "An error occurred while gathering document information for '%FILENAME'. "
+msgstr "Při získávání informací o dokumentu '%FILENAME' došlo k chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +109\n"
+"string.text"
+msgid "An error occurred while exporting the document '%FILENAME'."
+msgstr "Při exportu dokumentu '%FILENAME' došlo k chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +110\n"
+"string.text"
+msgid "An error occurred while creating a directory for exporting '%FILENAME'."
+msgstr "Při vytváření adresáře pro export souboru '%FILENAME' došlo k chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +111\n"
+"string.text"
+msgid "A security error occurred while exporting the document '%FILENAME'."
+msgstr "Při exportu dokumentu '%FILENAME' došlo k chybě zabezpečení."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +112\n"
+"string.text"
+msgid "An input/output error occurred while exporting the document '%FILENAME'."
+msgstr "Při exportu dokumentu '%FILENAME' došlo k vstupně/výstupní chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +113\n"
+"string.text"
+msgid "An error occurred while copying media files to the temporary directory."
+msgstr "Při kopírování souborů do dočasného adresáře došlo k chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +114\n"
+"string.text"
+msgid "The web site could not be copied to the following destination: %URL"
+msgstr "Webové stránky nemohou být zkopírovány do cílového umístění: %URL"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +115\n"
+"string.text"
+msgid "An unexpected error occurred: %ERROR"
+msgstr "Došlo k neočekávané chybě: %ERROR"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +116\n"
+"string.text"
+msgid "An unexpected error occurred while validating the file: '%FILENAME'"
+msgstr "Došlo k neočekávané chybě při kontrole souboru: '%FILENAME'"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +117\n"
+"string.text"
+msgid "%FILENAME' is a folder."
+msgstr "%FILENAME' je složka."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +118\n"
+"string.text"
+msgid "Loading Web Wizard Settings..."
+msgstr "Načítá se nastavení průvodce webovými stránkami..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +119\n"
+"string.text"
+msgid "An unexpected error occurred."
+msgstr "Došlo k neočekávané chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +120\n"
+"string.text"
+msgid "Validating documents..."
+msgstr "Validují se dokumenty..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +121\n"
+"string.text"
+msgid "My Archive"
+msgstr "Můj archív"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +122\n"
+"string.text"
+msgid "Introduction "
+msgstr "Úvod"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +123\n"
+"string.text"
+msgid "Documents "
+msgstr "Dokumenty"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +124\n"
+"string.text"
+msgid "Main layout"
+msgstr "Vzhled"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +125\n"
+"string.text"
+msgid "Layout details"
+msgstr "Detaily vzhledu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +126\n"
+"string.text"
+msgid "Style"
+msgstr "Styl"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +127\n"
+"string.text"
+msgid "Web site information"
+msgstr "Informace o webových stránkách"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +128\n"
+"string.text"
+msgid "Preview"
+msgstr "Náhled"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +130\n"
+"string.text"
+msgid ""
+"The selected settings will be deleted.\n"
+"\n"
+"Do you really want to delete these settings? "
+msgstr ""
+"Vybraná nastavení budou smazána.\n"
+"\n"
+"Opravdu chcete smazat tato nastavení? "
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +131\n"
+"string.text"
+msgid "%NUMBER pages"
+msgstr "%NUMBER stránek"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +132\n"
+"string.text"
+msgid "%NUMBER slides"
+msgstr "%NUMBER snímků"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +133\n"
+"string.text"
+msgid "Created: %DATE"
+msgstr "Vytvořeno: %DATE"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +134\n"
+"string.text"
+msgid "Last modified: %DATE"
+msgstr "Poslední změna: %DATE"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +135\n"
+"string.text"
+msgid "Web Wizard Settings"
+msgstr "Nastavení průvodce webovými stránkami"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +136\n"
+"string.text"
+msgid "Background image:"
+msgstr "Obrázek pozadí:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +137\n"
+"string.text"
+msgid "Icon set:"
+msgstr "Sada ikon:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +138\n"
+"string.text"
+msgid "The icon set is used for presentations in HTML format."
+msgstr "Sada ikon použitá pro prezentaci v HTML formátu."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +139\n"
+"string.text"
+msgid "HTML Metadata"
+msgstr "HMTL Metadata"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +140\n"
+"string.text"
+msgid "Choose..."
+msgstr "Zvolit..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +141\n"
+"string.text"
+msgid "Choose..."
+msgstr "Zvolit..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +142\n"
+"string.text"
+msgid "<default>"
+msgstr "<výchozí>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +143\n"
+"string.text"
+msgid "Publishing via FTP Proxy is not supported."
+msgstr "Publikování přes FTP proxy není podporováno."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +144\n"
+"string.text"
+msgid "<no background image>"
+msgstr "<bez obrázku na pozadí>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +145\n"
+"string.text"
+msgid "<no icon set>"
+msgstr "<bez sady ikon>"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +146\n"
+"string.text"
+msgid "The FTP directory '%FILENAME' could not be created."
+msgstr "FTP adresář '%FILENAME' nemůže být založen."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +147\n"
+"string.text"
+msgid ""
+"The FTP directory '%FILENAME' does not exist. \n"
+"Create the directory now?"
+msgstr ""
+"FTP adresář '%FILENAME' neexistuje. \n"
+"Přejete si jej založit?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +148\n"
+"string.text"
+msgid "The Zip file '%FILENAME' cannot be created: a directory of the same name already exists."
+msgstr "Zip archiv '%FILENAME' nemůže být vytvořen: již existuje adresář se stejným názvem."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +149\n"
+"string.text"
+msgid ""
+"The local directory '%FILENAME' cannot be created. \n"
+"Please check your write-access."
+msgstr ""
+"Lokální adresář '%FILENAME' nemůže být vytvořen. \n"
+"Přesvědčte se, zda máte právo pro zápis."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +150\n"
+"string.text"
+msgid ""
+"The local directory '%FILENAME' does not exist. \n"
+"Create the directory now?"
+msgstr ""
+"Lokální adresář '%FILENAME' neexistuje. \n"
+"Přejete si jej založit?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +151\n"
+"string.text"
+msgid "Size: %NUMBERKB"
+msgstr "Velikost: %NUMBERKB"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_START +152\n"
+"string.text"
+msgid "File not found. Would you like to specify a new file location?"
+msgstr "Soubor nebyl nalezen, přejete si zadat jeho nové umístění?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +0\n"
+"string.text"
+msgid "FTP Connection"
+msgstr "FTP spojení"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +1\n"
+"string.text"
+msgid "~User name:"
+msgstr "~Uživatelské jméno:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +2\n"
+"string.text"
+msgid "~Password:"
+msgstr "~Heslo:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +3\n"
+"string.text"
+msgid "Connect"
+msgstr "Připojit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +4\n"
+"string.text"
+msgid "1. Enter FTP connection information."
+msgstr "1. Zadejte informace o FTP spojení."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +5\n"
+"string.text"
+msgid "~Server name or IP address:"
+msgstr "Název ~serveru nebo jeho IP adresa:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +6\n"
+"string.text"
+msgid "2. Connect to the server."
+msgstr "2. Připojte se k serveru."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +7\n"
+"string.text"
+msgid "3. ~Choose a remote directory (optional)."
+msgstr "3. Zadejte vzdálený adresář (nepovinné)."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +8\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +9\n"
+"string.text"
+msgid "Connection status is unknown"
+msgstr "Stav spojení není znám"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +10\n"
+"string.text"
+msgid "Connection was established successfully"
+msgstr "Spojení bylo úspěšně navázáno"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +11\n"
+"string.text"
+msgid "Username or password is wrong"
+msgstr "Jméno nebo heslo není platné"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +12\n"
+"string.text"
+msgid "Could not resolve server name"
+msgstr "Název serveru nelze přeložit na IP adresu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +13\n"
+"string.text"
+msgid "You do not have sufficient user rights"
+msgstr "Nemáte dostatečná uživatelská práva"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +14\n"
+"string.text"
+msgid "Cannot connect to server"
+msgstr "Nelze se připojit k serveru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +15\n"
+"string.text"
+msgid "Unexpected error"
+msgstr "Neočekávaná chyba"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +16\n"
+"string.text"
+msgid "FTP publishing directory"
+msgstr "Publikační adresář FTP"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +17\n"
+"string.text"
+msgid "This is not an FTP folder"
+msgstr "Toto není FTP složka"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_WEBWIZARDDIALOG_FTP +18\n"
+"string.text"
+msgid "Connecting..."
+msgstr "Připojování..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +1\n"
+"string.text"
+msgid "Agenda Wizard"
+msgstr "Průvodce poradou"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +2\n"
+"string.text"
+msgid "Make ~manual changes to this agenda template"
+msgstr "Upravit šablonu porady ručně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +3\n"
+"string.text"
+msgid "Template name:"
+msgstr "Název šablony:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START + 4\n"
+"string.text"
+msgid "Location and file name:"
+msgstr "Umístění a název souboru:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +5\n"
+"string.text"
+msgid "What do you want to do next?"
+msgstr "Co budete dělat nyní?"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +6\n"
+"string.text"
+msgid "Please choose the page design for the agenda"
+msgstr "Zvolte vzhled stránky pro poradu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +7\n"
+"string.text"
+msgid "Please select the headings you wish to include in your agenda template"
+msgstr "Vyberte položky, které mají být použity v šabloně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +8\n"
+"string.text"
+msgid "Please enter general information for the event"
+msgstr "Zadejte všeobecné informace o této poradě"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +9\n"
+"string.text"
+msgid "Please specify items for the agenda"
+msgstr "Zadejte body programu porady"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +10\n"
+"string.text"
+msgid "Please select the names you wish to include in your agenda template"
+msgstr "Vyberte názvy, které mají být použity v šabloně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +11\n"
+"string.text"
+msgid "Choose a name and save the template"
+msgstr "Vyberte název a šablonu uložte"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +12\n"
+"string.text"
+msgid "Include form for recording minutes"
+msgstr "Včetně formuláře pro záznam průběhu porady"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +13\n"
+"string.text"
+msgid "This wizard helps you to create an agenda template. The template can then be used to create an agenda whenever needed."
+msgstr "Tento průvodce vám pomůže vytvořit šablonu pro plánování porad, která může být použita kdykoliv později."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +14\n"
+"string.text"
+msgid "Time:"
+msgstr "Termín:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +15\n"
+"string.text"
+msgid "Name:"
+msgstr "Jméno:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START + 16\n"
+"string.text"
+msgid "Location:"
+msgstr "Místo konání:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +17\n"
+"string.text"
+msgid "Placeholders will be used in empty fields. You can replace placeholders with text later."
+msgstr "V prázdných polích budou použity zástupné znaky. Zástupné znaky můžete později nahradit textem."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +18\n"
+"string.text"
+msgid "..."
+msgstr "..."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +19\n"
+"string.text"
+msgid "Create an ~agenda from this template"
+msgstr "Vytvořit nový program porady založený na této šabloně"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +20\n"
+"string.text"
+msgid "To create a new agenda out of the template, go to the location where you saved the template and double-click the file."
+msgstr "Pro vytvoření nového programu porady ze šablony přejděte do umístění, kde máte šablonu uloženu, a dvakrát klikněte na příslušný soubor."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +21\n"
+"string.text"
+msgid "Agenda item"
+msgstr "Bod programu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +22\n"
+"string.text"
+msgid "Responsible"
+msgstr "Zodpovědná osoba"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +23\n"
+"string.text"
+msgid "Duration"
+msgstr "Trvání"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +24\n"
+"string.text"
+msgid "Meeting called by"
+msgstr "Pořadatel"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +25\n"
+"string.text"
+msgid "Chairperson"
+msgstr "Předsedající"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +26\n"
+"string.text"
+msgid "Minute keeper"
+msgstr "Zapisovatel"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +27\n"
+"string.text"
+msgid "Moderator"
+msgstr "Moderátor"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +28\n"
+"string.text"
+msgid "Attendees"
+msgstr "Účastníci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +29\n"
+"string.text"
+msgid "Observers"
+msgstr "Pozorovatelé"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +30\n"
+"string.text"
+msgid "Facility personnel"
+msgstr "Obsluha"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +31\n"
+"string.text"
+msgid "The agenda template will include placeholders for the names of the selected people. When creating an agenda from the template, you can replace these placeholder with the appropriate names."
+msgstr "Šablona bude místo jmen vybraných lidí obsahovat zástupné znaky. Při použití šablony bude možné nahradit zástupné znaky skutečnými jmény."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +32\n"
+"string.text"
+msgid "Type of meeting"
+msgstr "Typ porady"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +33\n"
+"string.text"
+msgid "Please read"
+msgstr "Přečtěte si"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +34\n"
+"string.text"
+msgid "Please bring"
+msgstr "Přineste si"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +35\n"
+"string.text"
+msgid "Notes"
+msgstr "Poznámky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +36\n"
+"string.text"
+msgid "The agenda template will include placeholders for the selected items."
+msgstr "Šablona bude obsahovat zástupné znaky pro vybrané položky."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +38\n"
+"string.text"
+msgid "Date:"
+msgstr "Datum:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +39\n"
+"string.text"
+msgid "This wizard creates an agenda template which enables you to create multiple agendas with the same layout and settings."
+msgstr "Tento průvodce vytvoří šablonu porady, která umožní zachovat stejný vzhled a nastavení pro všechny záznamy porad."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +40\n"
+"string.text"
+msgid "Page design:"
+msgstr "Vzhled stránky:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +41\n"
+"string.text"
+msgid "myAgendaTemplate.stw"
+msgstr "máŠablonaPorady.stw"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +42\n"
+"string.text"
+msgid "My Agenda Template"
+msgstr "Má šablona porady"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +43\n"
+"string.text"
+msgid "An unexpected error occurred while saving the agenda template."
+msgstr "Při ukládání šablony porady došlo k neočekávané chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +44\n"
+"string.text"
+msgid "Name"
+msgstr "Název"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +45\n"
+"string.text"
+msgid "Date"
+msgstr "Datum"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +46\n"
+"string.text"
+msgid "Time"
+msgstr "Termín"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START + 47\n"
+"string.text"
+msgid "Location"
+msgstr "Místo konání"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +48\n"
+"string.text"
+msgid "Click to replace this text"
+msgstr "Klikněte sem a vepište vlastní text"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +50\n"
+"string.text"
+msgid "Page design"
+msgstr "Vzhled stránky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +51\n"
+"string.text"
+msgid "General information"
+msgstr "Všeobecné informace"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +52\n"
+"string.text"
+msgid "Headings to include"
+msgstr "Další položky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +53\n"
+"string.text"
+msgid "Names"
+msgstr "Účastníci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +54\n"
+"string.text"
+msgid "Agenda items"
+msgstr "Body programu"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +55\n"
+"string.text"
+msgid "Name and location"
+msgstr "Název a umístění"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +56\n"
+"string.text"
+msgid "An unexpected error occurred while opening the agenda template."
+msgstr "Při otevírání šablony pro poradu došlo k neočekávané chybě."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +57\n"
+"string.text"
+msgid "Type of meeting"
+msgstr "Typ porady"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +58\n"
+"string.text"
+msgid "Please bring"
+msgstr "Přineste si"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +59\n"
+"string.text"
+msgid "Please read"
+msgstr "Přečtěte si"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +60\n"
+"string.text"
+msgid "Notes"
+msgstr "Poznámky"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +61\n"
+"string.text"
+msgid "Meeting called by"
+msgstr "Pořadatel"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +62\n"
+"string.text"
+msgid "Chairperson"
+msgstr "Předsedající"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +63\n"
+"string.text"
+msgid "Attendees"
+msgstr "Účastníci"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +64\n"
+"string.text"
+msgid "Minute keeper"
+msgstr "Zapisovatel"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +65\n"
+"string.text"
+msgid "Moderator"
+msgstr "Moderátor"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +66\n"
+"string.text"
+msgid "Observers"
+msgstr "Pozorovatelé"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +67\n"
+"string.text"
+msgid "Facility personnel"
+msgstr "Obsluha"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +68\n"
+"string.text"
+msgid "Insert"
+msgstr "Vložit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +69\n"
+"string.text"
+msgid "Remove"
+msgstr "Odstranit"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +70\n"
+"string.text"
+msgid "Move up"
+msgstr "Nahoru"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +71\n"
+"string.text"
+msgid "Move down"
+msgstr "Dolů"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +72\n"
+"string.text"
+msgid "Date:"
+msgstr "Datum:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +73\n"
+"string.text"
+msgid "Time:"
+msgstr "Termín:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +74\n"
+"string.text"
+msgid "Location:"
+msgstr "Místo konání:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +75\n"
+"string.text"
+msgid "Topics"
+msgstr "Témata"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +76\n"
+"string.text"
+msgid "Num."
+msgstr "Čís."
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +77\n"
+"string.text"
+msgid "Topic"
+msgstr "Téma"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +78\n"
+"string.text"
+msgid "Responsible"
+msgstr "Zodpovědná osoba"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +79\n"
+"string.text"
+msgid "Time"
+msgstr "Termín"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +80\n"
+"string.text"
+msgid "Additional information"
+msgstr "Další informace"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +81\n"
+"string.text"
+msgid "Minutes for"
+msgstr "Minuty pro"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +82\n"
+"string.text"
+msgid "Discussion:"
+msgstr "Diskuse:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +83\n"
+"string.text"
+msgid "Conclusion:"
+msgstr "Závěr:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +84\n"
+"string.text"
+msgid "To do:"
+msgstr "Úkoly:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +85\n"
+"string.text"
+msgid "Responsible party:"
+msgstr "Zodpovědná skupina:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +86\n"
+"string.text"
+msgid "Deadline:"
+msgstr "Konečný termín:"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +87\n"
+"string.text"
+msgid "Blue"
+msgstr "Modrý"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +88\n"
+"string.text"
+msgid "Classic"
+msgstr "Klasický"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +89\n"
+"string.text"
+msgid "Colorful"
+msgstr "Barevný"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +90\n"
+"string.text"
+msgid "Elegant"
+msgstr "Elegantní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +91\n"
+"string.text"
+msgid "Green"
+msgstr "Zelený"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +92\n"
+"string.text"
+msgid "Grey"
+msgstr "Šedý"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +93\n"
+"string.text"
+msgid "Modern"
+msgstr "Moderní"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +94\n"
+"string.text"
+msgid "Orange"
+msgstr "Oranžový"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +95\n"
+"string.text"
+msgid "Red"
+msgstr "Červený"
+
+#: dbwizres.src
+msgctxt ""
+"dbwizres.src\n"
+"RID_AGENDAWIZARDDIALOG_START +96\n"
+"string.text"
+msgid "Simple"
+msgstr "Jednoduchý"

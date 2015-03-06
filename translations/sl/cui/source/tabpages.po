@@ -1,0 +1,1155 @@
+#. extracted from cui/source/tabpages
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreOffice 4.3\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-10-09 14:54+0200\n"
+"PO-Revision-Date: 2014-09-15 22:25+0200\n"
+"Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
+"Language-Team: sl.libreoffice.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Project-Style: openoffice\n"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_NONE\n"
+"string.text"
+msgid "Set No Borders"
+msgstr "Ne nastavi obrobe"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_ONLYOUTER\n"
+"string.text"
+msgid "Set Outer Border Only"
+msgstr "Nastavi samo zunanje obrobe"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERHORI\n"
+"string.text"
+msgid "Set Outer Border and Horizontal Lines"
+msgstr "Nastavi zunanje obrobe in vodoravne črte"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERALL\n"
+"string.text"
+msgid "Set Outer Border and All Inner Lines"
+msgstr "Nastavi zunanje obrobe in vse notranje črte"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERINNER\n"
+"string.text"
+msgid "Set Outer Border Without Changing Inner Lines"
+msgstr "Nastavi zunanjo obrobo brez spreminjanja notranjih črt"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_DIAGONAL\n"
+"string.text"
+msgid "Set Diagonal Lines Only"
+msgstr "Nastavi le diagonalne črte"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ALL\n"
+"string.text"
+msgid "Set All Four Borders"
+msgstr "Nastavi vse štiri obrobe"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_LEFTRIGHT\n"
+"string.text"
+msgid "Set Left and Right Borders Only"
+msgstr "Nastavi samo levo in desno obrobo"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_TOPBOTTOM\n"
+"string.text"
+msgid "Set Top and Bottom Borders Only"
+msgstr "Nastavi samo zgornjo in spodnjo obrobo"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ONLYLEFT\n"
+"string.text"
+msgid "Set Left Border Only"
+msgstr "Nastavi samo levo obrobo"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_HOR_PRESET_ONLYHOR\n"
+"string.text"
+msgid "Set Top and Bottom Borders, and All Inner Lines"
+msgstr "Nastavi gornje in spodnje robove ter vse notranje črte"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_VER_PRESET_ONLYVER\n"
+"string.text"
+msgid "Set Left and Right Borders, and All Inner Lines"
+msgstr "Nastavi leve in desne robove ter vse notranje črte"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_NONE\n"
+"string.text"
+msgid "No Shadow"
+msgstr "Brez senčenja"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Right"
+msgstr "Vrži senco spodaj desno"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Top Right"
+msgstr "Vrži senco zgoraj desno"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Left"
+msgstr "Vrži senco spodaj levo"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPLEFT\n"
+"string.text"
+msgid "Cast Shadow to Top Left"
+msgstr "Vrži senco zgoraj levo"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_LTR\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "Od leve proti desni"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_RTL\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "Od desne proti levi"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_SUPER\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "Uporabi nastavitve nadrejenega predmeta"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_HORI\n"
+"string.text"
+msgid "Left-to-right (horizontal)"
+msgstr "Od leve proti desni (vodoravno)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_HORI\n"
+"string.text"
+msgid "Right-to-left (horizontal)"
+msgstr "Od desne proti levi (vodoravno)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_VERT\n"
+"string.text"
+msgid "Right-to-left (vertical)"
+msgstr "Od desne proti levi (navpično)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_VERT\n"
+"string.text"
+msgid "Left-to-right (vertical)"
+msgstr "Od leve proti desni (navpično)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Pismo"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Dolga vezava"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "32 kai, velik"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "Uporabnik"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Kuverta DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Kuverta C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Kuverta C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Kuverta C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Kuverta C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#6¾ Envelope\n"
+"itemlist.text"
+msgid "#6¾ Envelope"
+msgstr "Kuverta #6¾"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#7¾ (Monarch) Envelope\n"
+"itemlist.text"
+msgid "#7¾ (Monarch) Envelope"
+msgstr "Kuverta #7¾ (Monarch)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#9 Envelope\n"
+"itemlist.text"
+msgid "#9 Envelope"
+msgstr "Kuverta #9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#10 Envelope\n"
+"itemlist.text"
+msgid "#10 Envelope"
+msgstr "Kuverta #10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#11 Envelope\n"
+"itemlist.text"
+msgid "#11 Envelope"
+msgstr "Kuverta #11"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#12 Envelope\n"
+"itemlist.text"
+msgid "#12 Envelope"
+msgstr "Kuverta #12"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Japonska razglednica"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A2\n"
+"itemlist.text"
+msgid "A2"
+msgstr "A2"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A1\n"
+"itemlist.text"
+msgid "A1"
+msgstr "A1"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A0\n"
+"itemlist.text"
+msgid "A0"
+msgstr "A0"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Pismo"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Dolga vezava"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "32 kai, velik"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "Uporabnik"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Kuverta DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Kuverta C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Kuverta C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Kuverta C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Kuverta C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Dia Slide\n"
+"itemlist.text"
+msgid "Dia Slide"
+msgstr "Diapozitiv"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 4:3\n"
+"itemlist.text"
+msgid "Screen 4:3"
+msgstr "Zaslon 4:3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:9\n"
+"itemlist.text"
+msgid "Screen 16:9"
+msgstr "Zaslon 16:9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:10\n"
+"itemlist.text"
+msgid "Screen 16:10"
+msgstr "Zaslon 16:10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Japonska razglednica"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_EXAMPLE\n"
+"string.text"
+msgid "Example"
+msgstr "Primer"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_PAGE_STYLE\n"
+"string.text"
+msgid "Page Style"
+msgstr "Slog strani"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_GRADIENT\n"
+"string.text"
+msgid "Please enter a name for the gradient:"
+msgstr "Vnesite ime preliva:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_GRADIENT\n"
+"string.text"
+msgid ""
+"The gradient was modified without saving. \n"
+"Modify the selected gradient or add a new gradient."
+msgstr ""
+"Preliv je bil spremenjen brez shranjevanja.\n"
+"Spremenite izbrani preliv ali dodajte novega."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_NEW_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the bitmap:"
+msgstr "Vnesite ime bitne slike:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_EXT_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the external bitmap:"
+msgstr "Vnesite ime zunanje bitne slike:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_BITMAP\n"
+"string.text"
+msgid ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+msgstr ""
+"Bitna slika je bila spremenjena brez shranjevanja.\n"
+"Spremenite izbrano bitno sliko ali dodajte novo."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINESTYLE\n"
+"string.text"
+msgid "Please enter a name for the line style:"
+msgstr "Vnesite ime za slog črte:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_LINESTYLE\n"
+"string.text"
+msgid ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+msgstr ""
+"Slog črte je bil spremenjen brez shranjevanja.\n"
+"Spremenite izbrani slog črte ali dodajte novega."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_HATCH\n"
+"string.text"
+msgid "Please enter a name for the hatching:"
+msgstr "Vnesite ime šrafiranja:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_HATCH\n"
+"string.text"
+msgid ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+msgstr ""
+"Vrsta šrafiranja je bila spremenjena brez shranjevanja.\n"
+"Spremenite izbrano vrsto šrafiranja ali dodajte novo."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHANGE\n"
+"string.text"
+msgid "Modify"
+msgstr "Spremeni"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ADD\n"
+"string.text"
+msgid "Add"
+msgstr "Dodaj"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_COLOR\n"
+"string.text"
+msgid "Please enter a name for the new color:"
+msgstr "Vnesite ime nove barve:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_COLOR\n"
+"string.text"
+msgid ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+msgstr ""
+"Barva je bila spremenjena brez shranjevanja.\n"
+"Spremenite izbrano barvo ali dodajte novo barvo."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabela"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "Vnesite ime nove puščice:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TRANSPARENT\n"
+"string.text"
+msgid "Transparent"
+msgstr "Prosojno"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_NOSTYLE\n"
+"string.text"
+msgid "No %1"
+msgstr "Brez: %1"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FAMILY\n"
+"string.text"
+msgid "Family"
+msgstr "Družina"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Pisava"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_STYLE\n"
+"string.text"
+msgid "Style"
+msgstr "Slog"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TYPEFACE\n"
+"string.text"
+msgid "Typeface"
+msgstr "Tipografija"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USE_REPLACE\n"
+"string.text"
+msgid "Use replacement table"
+msgstr "Uporabi tabelo zamenjav"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_WORD\n"
+"string.text"
+msgid "Correct TWo INitial CApitals"
+msgstr "Popravi DVe VEliki ZAčetnici"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_SENT\n"
+"string.text"
+msgid "Capitalize first letter of every sentence"
+msgstr "Vsako poved začni z veliko začetnico"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BOLD_UNDER\n"
+"string.text"
+msgid "Automatic *bold* and _underline_"
+msgstr "Samodejno *krepko* in _podčrtano_"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NO_DBL_SPACES\n"
+"string.text"
+msgid "Ignore double spaces"
+msgstr "Prezri dvojne razmike"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DETECT_URL\n"
+"string.text"
+msgid "URL Recognition"
+msgstr "Prepoznavanje URL-jev"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DASH\n"
+"string.text"
+msgid "Replace dashes"
+msgstr "Zamenjaj vezaje"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CORRECT_ACCIDENTAL_CAPS_LOCK\n"
+"string.text"
+msgid "Correct accidental use of cAPS LOCK key"
+msgstr "Popravi slučajno uporabo tipke cAPS LOCK (vELIKE ZAČETNICE)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NON_BREAK_SPACE\n"
+"string.text"
+msgid "Add non-breaking space before specific punctuation marks in French text"
+msgstr "V francoskem besedilu pred določena ločila vstavi nedeljivi presledek"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ORDINAL\n"
+"string.text"
+msgid "Format ordinal numbers suffixes (1st -> 1^st)"
+msgstr "Oblikuj pripone vrstilnih števnikov (1st -> 1^st)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_EMPTY_PARA\n"
+"string.text"
+msgid "Remove blank paragraphs"
+msgstr "Odstrani prazne odstavke"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USER_STYLE\n"
+"string.text"
+msgid "Replace Custom Styles"
+msgstr "Zamenjaj sloge po meri"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BULLET\n"
+"string.text"
+msgid "Replace bullets with: "
+msgstr "Zamenjaj vrstične oznake z: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_RIGHT_MARGIN\n"
+"string.text"
+msgid "Combine single line paragraphs if length greater than"
+msgstr "Združi enovrstične odstavke, če je dolžina večja od"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NUM\n"
+"string.text"
+msgid "Apply numbering - symbol: "
+msgstr "Uporabi oštevilčevanje – simbol: "
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BORDER\n"
+"string.text"
+msgid "Apply border"
+msgstr "Uporabi robove"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CREATE_TABLE\n"
+"string.text"
+msgid "Create table"
+msgstr "Ustvari tabelo"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_REPLACE_TEMPLATES\n"
+"string.text"
+msgid "Apply Styles"
+msgstr "Uporabi sloge"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_AT_STT_END\n"
+"string.text"
+msgid "Delete spaces and tabs at beginning and end of paragraph"
+msgstr "Izbriši presledke in tabulatorje na začetku in koncu odstavka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_BETWEEN_LINES\n"
+"string.text"
+msgid "Delete spaces and tabs at end and start of line"
+msgstr "Izbriši presledek in tabulatorje na začetku in koncu vrstice"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CONNECTOR\n"
+"string.text"
+msgid "Connector"
+msgstr "Konektor"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DIMENSION_LINE\n"
+"string.text"
+msgid "Dimension line"
+msgstr "Kotirna črta"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "Datoteke ni mogoče naložiti!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_LOAD_ERROR\n"
+"string.text"
+msgid "The selected module could not be loaded."
+msgstr "Izbranega modula ni mogoče naložiti."

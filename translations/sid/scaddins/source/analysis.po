@@ -1,0 +1,7002 @@
+#. extracted from scaddins/source/analysis
+msgid ""
+msgstr ""
+"Project-Id-Version: LO4-1\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2013-08-01 13:19+0300\n"
+"Last-Translator: Tadele Assefa Wami <milkyswd@gmail.com>\n"
+"Language-Team: Sidaama translation team\n"
+"Language: sid\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1375260444.0\n"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date before or after a specified number of workdays"
+msgstr "Barrunnita aantete kiiro afantino loosu barruwara albaanni woy badheenni qolanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Hanafote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Hananfanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"4\n"
+"string.text"
+msgid "Days"
+msgstr "Barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"5\n"
+"string.text"
+msgid "The number of workdays before or after the start date"
+msgstr "Loosu barruwa kiiro hananfanni barrira albaanni woy badheenni"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "Ayyaanibarruwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"7\n"
+"string.text"
+msgid "List of date values of days off (vacation, holidays, etc.)"
+msgstr "Barru dirto cufo barruwara (fooliishshote, ayyaanibarruwate, wkl.)horonnite"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"1\n"
+"string.text"
+msgid "Returns the number of years (including fractional part) between two dates"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Hanafote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Hananfanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Gumulote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "Gumullanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"6\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"7\n"
+"string.text"
+msgid "Basis indicates the day-count convention to use in the calculation"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date that is a specified number of months before or after the start date"
+msgstr "Murantino kiirota aganu barruwata aantate kiiro badhera qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Hanafote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Hananfanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "Aganna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "Agannate kiiro hananfanni barrira albaanni woy badheenni"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of the calendar week in which the specified date occurs."
+msgstr "Barru kiiraasinchita muramino barri daannota lamalate kiiro badhera qolanno."
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "Barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"3\n"
+"string.text"
+msgid "The date"
+msgstr "Barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"4\n"
+"string.text"
+msgid "Return type"
+msgstr "Wirrihigote dana"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"5\n"
+"string.text"
+msgid "Indicates the first day of the week (1 = Sunday, other values = Monday)"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the last day of the month that comes a certain number of months before or after the start date"
+msgstr "Murantino kiirota ikkitino aganna balaxe daanno aganunniha jeefote barrita aantate kiiro hananfanni barrinni albira woy badhera qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Hanafote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Hananfanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "Aganna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "Agannate kiiro hananfanni barrira albaanni woy badheenni"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of workdays between two dates"
+msgstr "Loosu barruwa kiiro lame barruwa mereero assanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Hanafote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Hananfanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Gumulote barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "Gumullanni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "Ayyaanibarruwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"7\n"
+"string.text"
+msgid "List of date values representing days off (vacation, holidays, etc.)"
+msgstr "Barru dirto cufo barruwara (fooliishshote, ayyaanibarruwate, wkl.)riqiwate horonnite"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is even"
+msgstr "Kiiro bocamaancho ikkituro 'halaali' hornyo qolanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is odd"
+msgstr "Kiiro maangoo ikkituro 'halaali' hornyo qolanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"1\n"
+"string.text"
+msgid "Returns the multinomial coefficient of a set of numbers"
+msgstr "Kiirote ganbooshshita bacisu'mitte kofishente qolanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "Kiiro(uwa)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers for which you want the multinomial coefficient"
+msgstr "Bacisu'mitte kofishente hasiissanno kiiro woy kiirote dirto"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of a power series"
+msgstr "Wolqate hurrusi ledo qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"3\n"
+"string.text"
+msgid "The independent variable of the power series"
+msgstr "Wolqate hurrisi irki'raancho soorramaancho "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"5\n"
+"string.text"
+msgid "The initial power to which x is to be raised"
+msgstr "X gottii'mitannota kaimu wolqa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"6\n"
+"string.text"
+msgid "M"
+msgstr "M"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"7\n"
+"string.text"
+msgid "The increment by which to increase n for each term in the series"
+msgstr "Mittu mittunku handarshira lexxitanno lexxo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"8\n"
+"string.text"
+msgid "Coefficients"
+msgstr "Kofishentuwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"9\n"
+"string.text"
+msgid "Set of coefficients by which each successive power of the variable x is multiplied"
+msgstr "soorramaancho x ti mitte mittenti ikkado wolqa batidhanno kofishentete ganbooshshe"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"1\n"
+"string.text"
+msgid "Returns the integer portion of a division"
+msgstr "Intijerenniha beehancho biso qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "Kiirisaancho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "Beehamaancho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "Beehaancho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Beehaasincho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"1\n"
+"string.text"
+msgid "Returns a number rounded to a specified multiple"
+msgstr "Murantino batisamera gaangaabbino kiiro qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"3\n"
+"string.text"
+msgid "The number to round off"
+msgstr "Gaangaabbannokki kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"4\n"
+"string.text"
+msgid "Multiple"
+msgstr "Batisame"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"5\n"
+"string.text"
+msgid "The multiple to which you want to round number"
+msgstr "Kiiro gaangaabbara hasi'ratto/a batisame"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a number which has been multiplied by pi"
+msgstr "Pi nni batisantino kiiro isikuyeri ruutte qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"3\n"
+"string.text"
+msgid "The number by which pi is multiplied"
+msgstr "Pi batisantanno kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"1\n"
+"string.text"
+msgid "Returns a random integer between the numbers you specify"
+msgstr "Hasi'ratto/a kiirora mereeroho heedhanno intijere hedeweelcho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"2\n"
+"string.text"
+msgid "Bottom"
+msgstr "Lekkaallo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"3\n"
+"string.text"
+msgid "The smallest integer returned"
+msgstr "Shiimiidi intijere qolantino"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"4\n"
+"string.text"
+msgid "Top"
+msgstr "Aleenni"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"5\n"
+"string.text"
+msgid "The largest integer returned"
+msgstr "Jawiidi intijere qolantino"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"1\n"
+"string.text"
+msgid "Returns the greatest common divisor"
+msgstr "Jawiidi gutu beehaancho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "Kiiro(uwa)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "Kiiro woy kiirote dirto"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"1\n"
+"string.text"
+msgid "Returns the least common multiple"
+msgstr "Shiimiidi gutu batishsha qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "Kiiro(uwa)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "Kiiro woy kiirote dirto"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"1\n"
+"string.text"
+msgid "Returns the modified Bessel function In(x)"
+msgstr "Soorraminoha Besselete assishsha In(x)qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Assishshu keenamanno waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Besselete assishshi aante"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Jn(x)"
+msgstr "Besselete assishsha Jn(x)qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Assishshu keenamanno waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Besselete assishshi aante"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Kn(x)"
+msgstr "Bessele assishsha Kn(x)qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Assishshu keenamanno waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Besselete assishshi aante"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Yn(x)"
+msgstr "Besselete assishsha Yn(x)qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Assishshu keenamanno waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Besselete assishshi aante"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to an octal number"
+msgstr "Laminaatu kiiro settinaateho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "Laminaatu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a decimal number"
+msgstr "Laminaatu kiiro tonnishshaho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "Laminaatu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a hexadecimal number"
+msgstr "Laminaatu kiiro tonaaleeshshaho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "Laminaatu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used."
+msgstr "Horonsi'noonni darguwa."
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a binary number"
+msgstr "Settinaatu kiiro laminaateho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "Settinaatu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a decimal number"
+msgstr "Settinaatu kiiro tonnishshaho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "Settinaatu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a hexadecimal number"
+msgstr "Settinaatu kiiro tonaaleeshshaho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "Settinaatu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a binary number"
+msgstr "Tonnishshu kiiro laminaateho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "Woleessantanno tonnishshu intijere"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a hexadecimal number"
+msgstr "Tonnishshu kiiro tonaaleeshshaho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "Woleessantanno tonnishshu intijere"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number into an octal number"
+msgstr "Tonnishshu kiiro settishshaho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "Tonnishshu kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a binary number"
+msgstr "Tonaaleeshshu kiiro laminaateho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "Tonaaleeshshu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a decimal number"
+msgstr "Tonaaleeshshu kiiro laminaateho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "Tonaaleeshshu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to an octal number"
+msgstr "Tonaaleeshshu kiiro srttinaateho woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "Tonaaleeshshu kiiro (borrote widira)soorrantanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Darguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Horonsi'noonni darguwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"1\n"
+"string.text"
+msgid "Tests whether two values are equal"
+msgstr "Lamu waagi taalo ikkasi jiffaanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"2\n"
+"string.text"
+msgid "Number 1"
+msgstr "Kiiro 1"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"3\n"
+"string.text"
+msgid "The first number"
+msgstr "Umi kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"4\n"
+"string.text"
+msgid "Number 2"
+msgstr "Kiiro 2"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"5\n"
+"string.text"
+msgid "The second number"
+msgstr "Laynki kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"1\n"
+"string.text"
+msgid "Returns the error function"
+msgstr "So'rote assishsha qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "Woriidi gawalo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "Woriidi gawalo karsiishshaho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"4\n"
+"string.text"
+msgid "Upper limit"
+msgstr "Aliidi gawalo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"5\n"
+"string.text"
+msgid "The upper limit for integration"
+msgstr "Aliidi gawalo karsiishshaho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"1\n"
+"string.text"
+msgid "Returns the complementary error function"
+msgstr "Kompilimentare so'ro assishsha qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "Woriidi gawalo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "Woriidi gawalo karsiishshaho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"1\n"
+"string.text"
+msgid "Tests whether a number is greater than a threshold value"
+msgstr "Kiiro kaimu waaginni roortinota jifanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"3\n"
+"string.text"
+msgid "The value to test against step"
+msgstr "Qaafoweelo jinfanni waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"4\n"
+"string.text"
+msgid "Step"
+msgstr "Qaafo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"5\n"
+"string.text"
+msgid "The threshold value"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"1\n"
+"string.text"
+msgid "Returns the double factorial of Number"
+msgstr "Lame factoriyale kiiro qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"1\n"
+"string.text"
+msgid "Returns the absolute value (modulus) of a complex number"
+msgstr "Xurqa kiirota co'itte hornyo (modulus) qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"1\n"
+"string.text"
+msgid "Returns the imaginary coefficient of a complex number"
+msgstr "Xurqa kiirota misilancho kofishente qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"1\n"
+"string.text"
+msgid "Returns a complex number raised to a real power"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"4\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"5\n"
+"string.text"
+msgid "Power to which the complex number is raised"
+msgstr "Xurqa kiiro ka'anno wolqa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"1\n"
+"string.text"
+msgid "Returns the argument theta, an angle expressed in radians"
+msgstr "yekkeerote theta, raadeesete xawisantino angile qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"1\n"
+"string.text"
+msgid "Returns the cosine of a complex number"
+msgstr "Xurqa kiirota kosayne qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"1\n"
+"string.text"
+msgid "Returns the quotient of two complex numbers"
+msgstr "Lame xurqa kiirota koishente qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "Kiirisaancho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "Beehamaancho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "Beehaancho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Beehaasincho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"1\n"
+"string.text"
+msgid "Returns the algebraic form of the exponential of a complex number"
+msgstr "Xurqa kiiro ekisponentaame aljebiru forme qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"1\n"
+"string.text"
+msgid "Returns the complex conjugate of a complex number"
+msgstr "Xurqa kiirota konjugeete qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"1\n"
+"string.text"
+msgid "Returns the natural logarithm of a complex number"
+msgstr "Xurqa kiirota kalaqamu loogaarizime qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"1\n"
+"string.text"
+msgid "Returns the base-10 logarithm of a complex number"
+msgstr "Xurqa kiirota kaima-10 loogaarizime qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"1\n"
+"string.text"
+msgid "Returns the base-2 logarithm of a complex number"
+msgstr "Xurqa kiirota kaima-2 loogaarizime qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"1\n"
+"string.text"
+msgid "Returns the product of several complex numbers"
+msgstr "Haammata xurqa kiiro guma qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"3\n"
+"string.text"
+msgid "The first complex number"
+msgstr "Umita xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"4\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"5\n"
+"string.text"
+msgid "Another complex number"
+msgstr "Wole xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"1\n"
+"string.text"
+msgid "Returns the real coefficient of a complex number"
+msgstr "Xurqa kiirota addu kofishente qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"1\n"
+"string.text"
+msgid "Returns the sine of a complex number"
+msgstr "Xurqa kiirota sayne qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"1\n"
+"string.text"
+msgid "Returns the difference of two complex numbers"
+msgstr "Lame xurqa kiiro badooshshe qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"2\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "Xurqa kiiro 1"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"3\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "Xurqa kiiro 1"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"4\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "Xurqa kiiro 2"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"5\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "Xurqa kiiro 2"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a complex number"
+msgstr "Xurqa kiirota isikuyeri ruutte qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of complex numbers"
+msgstr "Xurqa kiirota ledo qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"1\n"
+"string.text"
+msgid "Returns the tangent of a complex number"
+msgstr "Xurqa kiirota tanjenteq oltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"1\n"
+"string.text"
+msgid "Returns the secant of a complex number"
+msgstr "Xurqa kiirota sekante qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"1\n"
+"string.text"
+msgid "Returns the cosecant of a complex number"
+msgstr "Xurqa kiirota kosekante qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"1\n"
+"string.text"
+msgid "Returns the cotangent of a complex number"
+msgstr "Xurqa kiirota kotanjente oltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic sine of a complex number"
+msgstr "Xurqa kiiroha hyperbolaamo sayne qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosine of a complex number"
+msgstr "Xurqa kiiroha hyperbolaamo kosayne qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic secant of a complex number"
+msgstr "Xurqa kiiroha hyperbolaamo sekante qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosecant of a complex number"
+msgstr "Xurqa kiiroha hyperbolaamo kosekante qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Xurqa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"1\n"
+"string.text"
+msgid "Converts real and imaginary coefficients into a complex number"
+msgstr "Xurqa kiirota misilancho kofishentese qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"2\n"
+"string.text"
+msgid "Real num"
+msgstr "Addi kii"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"3\n"
+"string.text"
+msgid "The real coefficient"
+msgstr "Addi kofishente"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"4\n"
+"string.text"
+msgid "I num"
+msgstr "I kii"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"5\n"
+"string.text"
+msgid "The imaginary coefficient"
+msgstr "Misilancho kofishente"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"6\n"
+"string.text"
+msgid "Suffix"
+msgstr "Jeefisufo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"7\n"
+"string.text"
+msgid "The suffix"
+msgstr "Jeefisufo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"1\n"
+"string.text"
+msgid "Converts a number from one measurement system to another"
+msgstr "Kiiro mittu bikkate amuraatinni woleho woleessanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"4\n"
+"string.text"
+msgid "From unit"
+msgstr "Safarotenni"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"5\n"
+"string.text"
+msgid "Unit of measure for number"
+msgstr "Bikku safaro kiirote"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"6\n"
+"string.text"
+msgid "To unit"
+msgstr "Safarote"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"7\n"
+"string.text"
+msgid "Unit of measure for the result"
+msgstr "Bikku safaro gumaho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "Returns the prorated linear depreciation of an asset for each accounting period"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "Koste"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "Asseettete koste"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "Hidhinoonni daata"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "Asseette hidhinoonni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "Umi yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"7\n"
+"string.text"
+msgid "Date the first period ends"
+msgstr "Umi yanna gooffanno barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "Gatato"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"9\n"
+"string.text"
+msgid "Salvage value of an asset at the end of its life"
+msgstr "Asseettete gumulose geeshsha hee'rannose gatatu hornya"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "Yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "Yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "Dirrote kanke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "Horonsi'ramate diru xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "Returns the prorated linear depreciation of an asset for each accounting period"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "Koste"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "Asseettete koste"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "Hidhinoonni daata"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "Asseette hidhinoonni barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "Umi yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"7\n"
+"string.text"
+msgid "The date the first period ends"
+msgstr "Umi yanna gooffanno barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "Gatato"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"9\n"
+"string.text"
+msgid "The salvage value of an asset at the end of its life"
+msgstr "Asseettete gumulose geeshsha hee'rannose gatatu hornya"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "Yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "Yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "Dirrote kanke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "Horonsi'ramate diru xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays periodic interest"
+msgstr "Yannitte qallo qorowote baatisiissannota buuxancho qallo qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "Diinagge"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"3\n"
+"string.text"
+msgid "Issue date of the security"
+msgstr "Qorowote diinaggete barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"4\n"
+"string.text"
+msgid "First interest"
+msgstr "Umi qallo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"5\n"
+"string.text"
+msgid "First interest date of the security"
+msgstr "Qorowonniha umi qallo barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"6\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"7\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"10\n"
+"string.text"
+msgid "Par"
+msgstr "Pare"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"11\n"
+"string.text"
+msgid "The par value"
+msgstr "Parete waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays interest at maturity"
+msgstr "Coommado qallo qorowote baatisiissannota buuxancho qallo qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "Diinagge"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"3\n"
+"string.text"
+msgid "The issue date"
+msgstr "Diinaggete barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"4\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"5\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"8\n"
+"string.text"
+msgid "Par"
+msgstr "Pare"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"9\n"
+"string.text"
+msgid "The par value"
+msgstr "Parete waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"1\n"
+"string.text"
+msgid "Returns the amount paid out at maturity for a fully invested security"
+msgstr "Wo'mado qorowora fulino waaga qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "Investimente"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "Investimente"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"8\n"
+"string.text"
+msgid "Discount"
+msgstr "Dirriso"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"9\n"
+"string.text"
+msgid "The discount"
+msgstr "Dirriso"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"1\n"
+"string.text"
+msgid "Returns the discount rate for a security"
+msgstr "Qorowonniha dirrisote jilba qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"1\n"
+"string.text"
+msgid "Returns the annual Macaulay duration of a security with periodic interest payments"
+msgstr "Makuwaleyta diru keeshsho qorowo yannitte qallo baatooshshinni qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "Kuppoone"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "Kuppoonete jilba"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"1\n"
+"string.text"
+msgid "Returns the effective annual interest rate"
+msgstr "Ikkado diru qallo jilba qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"2\n"
+"string.text"
+msgid "Nominal rate"
+msgstr "Jechi jilba"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"3\n"
+"string.text"
+msgid "The nominal rate"
+msgstr "Jechi jilba"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "Npery"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "Yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative principal on a loan to be paid between two periods"
+msgstr "Lame yannuwa mereero loonete baantanniha xaphoomu wodhicho qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "Nper"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "Baatooshshu yannuwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "Pv"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "Xaa waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "Hasnafote yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "Hanafate yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "Gumulote yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "Gumulate yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "Dana"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "Wo'millu dana"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative interest to be paid between two periods"
+msgstr "Lame yannuwa mereero baantannita xaphoomu qallo qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "Nper"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "Baatooshshu yannuwa kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "Pv"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "Xaa waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "Hasnafote yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "Hanafate yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "Gumulote yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "Gumulate yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "Dana"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "Wo'millu dana"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays periodic interest"
+msgstr "Yannitte qallo baattanno qorowota xaa safaro albu waaga 100 anga qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a discounted security"
+msgstr "Dirrisantino qorowota xaa safaro albu waaga 100 anga qoltanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "Dirriso"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"7\n"
+"string.text"
+msgid "The discount"
+msgstr "Dirriso"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays interest at maturity"
+msgstr "Wo'milleho qallo baattanno qorowota xaa safaro albu waaga 100 anga womaashsha qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Diinagge"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Diinaggete barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"1\n"
+"string.text"
+msgid "Returns the Macaulay modified duration for a security with an assumed par value of 100 currency units"
+msgstr "Hedaminohu pari waaga 100 womaashshi safaronni qorowote woyyaabbinota Macaulay yanna qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "Kuppoone"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "Kuppoonete jilba"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"1\n"
+"string.text"
+msgid "Returns the annual nominal interest rate"
+msgstr "Dirunnita jechi qallo jilba qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"2\n"
+"string.text"
+msgid "Effective rate"
+msgstr "Ikkado ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"3\n"
+"string.text"
+msgid "The effective interest rate"
+msgstr "Ikkado qallote ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "Npery"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "Yanna"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a decimal into a price expressed as a fraction"
+msgstr "Tonnishshu shiqanno waaga beehamiccotenni shiqanno waagi widira woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"2\n"
+"string.text"
+msgid "Decimal dollar"
+msgstr "Tonnishshu doolaare"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "Tonnishshu kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "Beehamicco"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Beehaasincho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a fraction into a price expressed as a decimal"
+msgstr "Beehamiccotenni shiqanno waaga tonnishshu shiqanno waagi widira woleessitanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"2\n"
+"string.text"
+msgid "Fractional dollar"
+msgstr "Beehamiccaame doolaare"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"3\n"
+"string.text"
+msgid "The number as a fraction"
+msgstr "Beehamiccote gedee kiiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "Beehamicco"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Beehaasincho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield on a security that pays periodic interest"
+msgstr "Yannitte qallo qorowote baatisiisanno laalcho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"8\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"9\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield for a discounted security"
+msgstr "Dirrote qorowora diru laalcho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield of a security that pays interest at maturity"
+msgstr "Coommado qallo qorowote baatisiissannoha diru laalcho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Diinagge"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Diinaggete barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"1\n"
+"string.text"
+msgid "Returns the bond-equivalent yield for a treasury bill"
+msgstr "Tirisharete biilera taalcho-boonde laalcho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "Dirriso"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "Dirrote jilba"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price of 100 currency units face value for a treasury bill"
+msgstr "Tirisharete biilera 100 womaashshi safaroha albu waaga qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "Dirriso"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "Dirrote jilba"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield for a treasury bill"
+msgstr "Tirisherete biilera laalcho qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd first period"
+msgstr "Umi yannaha qorowonniha albu waaga $100 nni qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Diinagge"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Diinaggete barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "Umi kuppoone"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "Umi kuppoone nbarra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"12\n"
+"string.text"
+msgid "Yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"13\n"
+"string.text"
+msgid "The yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd first period"
+msgstr "Umi yannaha qorowonniha laalcho qoltanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Diinagge"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Diinaggete barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "Umi kuppoone"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "Umi kuppoone nbarra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"12\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"13\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd last period"
+msgstr "Sa'ino yannaha qorowonniha albu waaga $100 nni qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "Gedeni qallo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "Gedeni qallo barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "Laalcho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd last period"
+msgstr "Gawalote yannaha qorowonniha laalcho qoltanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "Gedeni qallo"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "Gedeni qallo barra"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"1\n"
+"string.text"
+msgid "Returns the internal rate of return for a non-periodic schedule of payments"
+msgstr "Yanniweelu baatooshshira giddoydi ranke marro qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"2\n"
+"string.text"
+msgid "Values"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"3\n"
+"string.text"
+msgid "The values"
+msgstr "Waaguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"4\n"
+"string.text"
+msgid "Dates"
+msgstr "Barruwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"5\n"
+"string.text"
+msgid "The dates"
+msgstr "Barruwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"6\n"
+"string.text"
+msgid "Guess"
+msgstr "Heda"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"7\n"
+"string.text"
+msgid "The guess"
+msgstr "Heda"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"1\n"
+"string.text"
+msgid "Returns the net present value for a non-periodic schedule of payments"
+msgstr "Yanniweelu baatooshshira qulullicho xaa waaga marro qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "Ranke"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"4\n"
+"string.text"
+msgid "Values"
+msgstr "Waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"5\n"
+"string.text"
+msgid "The values"
+msgstr "Waaguwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"6\n"
+"string.text"
+msgid "Dates"
+msgstr "Barruwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"7\n"
+"string.text"
+msgid "The dates"
+msgstr "Barruwa"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"1\n"
+"string.text"
+msgid "Returns the interest rate for a fully invested security"
+msgstr "Hasiissannota wo'ma qorowo assinoonni qallote ranke qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "Investimente"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "Investimente"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Mardikkiro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Mardikkirote waaga"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"1\n"
+"string.text"
+msgid "Returns the first coupon date after the settlement date"
+msgstr "Teensete barrira gedenoonni nooha umi kuppoone barra qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days in the coupon period containing the settlement date"
+msgstr "Teensete barra kuppoonte yannanni amaddinota barruwate kiiro qoltanno "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the settlement date to the next coupon date"
+msgstr "Barruwate kiiro teensete barrinni aantanno kuppoone barrira qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the beginning of the coupon period to the settlement date"
+msgstr "Barruwate kiiro kuppoonete hanafo yannanni teensete barrira qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"1\n"
+"string.text"
+msgid "Returns the last coupon date preceding the settlement date"
+msgstr "Teensete barrira albaanni nooha jeefote kuppoone barra qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of coupons payable between the settlement and maturity dates"
+msgstr "Teensetenna wo'millu barruwa mereero beehama dandiitanno kuppoona barra qoltanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Teense"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Wo'mille"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Marrimarro"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Xinta"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"1\n"
+"string.text"
+msgid "Returns the future value of the initial principal after a series of compound interest rates are applied"
+msgstr "Kaimu gashshoha gedeni waaga waaxo qallo bikki hurrisi loosansami gedensaanni qolanno"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"2\n"
+"string.text"
+msgid "Principal"
+msgstr "Gashsho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"3\n"
+"string.text"
+msgid "The principal"
+msgstr "Gashsho"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"4\n"
+"string.text"
+msgid "Schedule"
+msgstr "Assootu pirogiraame"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"5\n"
+"string.text"
+msgid "The schedule"
+msgstr "Assootu pirogiraame"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Workday\n"
+"string.text"
+msgid "WORKDAY"
+msgstr "LOOSIBARRA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yearfrac\n"
+"string.text"
+msgid "YEARFRAC"
+msgstr "DIRIFRAKE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Edate\n"
+"string.text"
+msgid "EDATE"
+msgstr "IBARRA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Weeknum\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "LAMALIKII"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Eomonth\n"
+"string.text"
+msgid "EOMONTH"
+msgstr "EOAGANA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Networkdays\n"
+"string.text"
+msgid "NETWORKDAYS"
+msgstr "NETWORKIBARRUWA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amordegrc\n"
+"string.text"
+msgid "AMORDEGRC"
+msgstr "AMORDEGRC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amorlinc\n"
+"string.text"
+msgid "AMORLINC"
+msgstr "AMORXAADO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrint\n"
+"string.text"
+msgid "ACCRINT"
+msgstr "AKIRINTE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrintm\n"
+"string.text"
+msgid "ACCRINTM"
+msgstr "AKIRINTIME"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Received\n"
+"string.text"
+msgid "RECEIVED"
+msgstr "HAA'RAMA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Disc\n"
+"string.text"
+msgid "DISC"
+msgstr "DISKE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Duration\n"
+"string.text"
+msgid "DURATION"
+msgstr "KEESHSHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Effect\n"
+"string.text"
+msgid "EFFECT"
+msgstr "HELEELLE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumprinc\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "KAMPIRINKE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumipmt\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "CUMIPMT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Price\n"
+"string.text"
+msgid "PRICE"
+msgstr "WAAGA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricedisc\n"
+"string.text"
+msgid "PRICEDISC"
+msgstr "WAAGIDISKE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricemat\n"
+"string.text"
+msgid "PRICEMAT"
+msgstr "WAAGIMATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mduration\n"
+"string.text"
+msgid "MDURATION"
+msgstr "MKEESHSHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Nominal\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "JECHIHA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarfr\n"
+"string.text"
+msgid "DOLLARFR"
+msgstr "DOOLAARAAMO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarde\n"
+"string.text"
+msgid "DOLLARDE"
+msgstr "DOOLAARDE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yield\n"
+"string.text"
+msgid "YIELD"
+msgstr "LAALCHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yielddisc\n"
+"string.text"
+msgid "YIELDDISC"
+msgstr "LAALCHODISKE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yieldmat\n"
+"string.text"
+msgid "YIELDMAT"
+msgstr "LAALCHOMATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbilleq\n"
+"string.text"
+msgid "TBILLEQ"
+msgstr "TIBILLIQQE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillprice\n"
+"string.text"
+msgid "TBILLPRICE"
+msgstr "TIBILLIWAAGA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillyield\n"
+"string.text"
+msgid "TBILLYIELD"
+msgstr "TIBILLILAALCHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfprice\n"
+"string.text"
+msgid "ODDFPRICE"
+msgstr "ODDFWAAGA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfyield\n"
+"string.text"
+msgid "ODDFYIELD"
+msgstr "ODDFLAALCHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlprice\n"
+"string.text"
+msgid "ODDLPRICE"
+msgstr "ODDLWAAGA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlyield\n"
+"string.text"
+msgid "ODDLYIELD"
+msgstr "ODDLLAALCHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xirr\n"
+"string.text"
+msgid "XIRR"
+msgstr "XIRR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xnpv\n"
+"string.text"
+msgid "XNPV"
+msgstr "XNPV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Intrate\n"
+"string.text"
+msgid "INTRATE"
+msgstr "INTIRANKE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupncd\n"
+"string.text"
+msgid "COUPNCD"
+msgstr "COUPNCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdays\n"
+"string.text"
+msgid "COUPDAYS"
+msgstr "GAANCIBARRUWA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaysnc\n"
+"string.text"
+msgid "COUPDAYSNC"
+msgstr "GAANCIBARRUWAMA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaybs\n"
+"string.text"
+msgid "COUPDAYBS"
+msgstr "GAANCIBARRAMA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Couppcd\n"
+"string.text"
+msgid "COUPPCD"
+msgstr "COUPPCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupnum\n"
+"string.text"
+msgid "COUPNUM"
+msgstr "COUPNUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Fvschedule\n"
+"string.text"
+msgid "FVSCHEDULE"
+msgstr "FVSCHEDULE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Iseven\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "ISEVEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Isodd\n"
+"string.text"
+msgid "ISODD"
+msgstr "ISODD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gcd\n"
+"string.text"
+msgid "GCD"
+msgstr "JGB"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Lcm\n"
+"string.text"
+msgid "LCM"
+msgstr "SGB"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Multinomial\n"
+"string.text"
+msgid "MULTINOMIAL"
+msgstr "BACIJECHAMA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Seriessum\n"
+"string.text"
+msgid "SERIESSUM"
+msgstr "HERREGGILEDO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Quotient\n"
+"string.text"
+msgid "QUOTIENT"
+msgstr "KOFISHENTE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mround\n"
+"string.text"
+msgid "MROUND"
+msgstr "MGAANGE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Sqrtpi\n"
+"string.text"
+msgid "SQRTPI"
+msgstr "SQRTPI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Randbetween\n"
+"string.text"
+msgid "RANDBETWEEN"
+msgstr "NABBAWIELAKKO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besseli\n"
+"string.text"
+msgid "BESSELI"
+msgstr "BESSELI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselj\n"
+"string.text"
+msgid "BESSELJ"
+msgstr "BESSELJ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselk\n"
+"string.text"
+msgid "BESSELK"
+msgstr "BESSELK"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bessely\n"
+"string.text"
+msgid "BESSELY"
+msgstr "BESSELY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Dec\n"
+"string.text"
+msgid "BIN2DEC"
+msgstr "BIN2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Hex\n"
+"string.text"
+msgid "BIN2HEX"
+msgstr "BIN2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Oct\n"
+"string.text"
+msgid "BIN2OCT"
+msgstr "BIN2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Delta\n"
+"string.text"
+msgid "DELTA"
+msgstr "DELTA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Bin\n"
+"string.text"
+msgid "DEC2BIN"
+msgstr "DEC2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Hex\n"
+"string.text"
+msgid "DEC2HEX"
+msgstr "DEC2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Oct\n"
+"string.text"
+msgid "DEC2OCT"
+msgstr "DEC2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erf\n"
+"string.text"
+msgid "ERF"
+msgstr "ERF"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erfc\n"
+"string.text"
+msgid "ERFC"
+msgstr "ERFC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gestep\n"
+"string.text"
+msgid "GESTEP"
+msgstr "GESTEP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Bin\n"
+"string.text"
+msgid "HEX2BIN"
+msgstr "HEX2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Dec\n"
+"string.text"
+msgid "HEX2DEC"
+msgstr "HEX2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Oct\n"
+"string.text"
+msgid "HEX2OCT"
+msgstr "HEX2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imabs\n"
+"string.text"
+msgid "IMABS"
+msgstr "IMABS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imaginary\n"
+"string.text"
+msgid "IMAGINARY"
+msgstr "MISILANCHO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Impower\n"
+"string.text"
+msgid "IMPOWER"
+msgstr "WOLQAWEELSA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imargument\n"
+"string.text"
+msgid "IMARGUMENT"
+msgstr "YEKKEERIDINO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcos\n"
+"string.text"
+msgid "IMCOS"
+msgstr "IMCOS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imdiv\n"
+"string.text"
+msgid "IMDIV"
+msgstr "IMDIV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imexp\n"
+"string.text"
+msgid "IMEXP"
+msgstr "IMEXP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imconjugate\n"
+"string.text"
+msgid "IMCONJUGATE"
+msgstr "AMADAMIWEELSA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imln\n"
+"string.text"
+msgid "IMLN"
+msgstr "IMLN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog10\n"
+"string.text"
+msgid "IMLOG10"
+msgstr "10IMLOG"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog2\n"
+"string.text"
+msgid "IMLOG2"
+msgstr "2IMLOG"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Improduct\n"
+"string.text"
+msgid "IMPRODUCT"
+msgstr "LAALCHIWEELSA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imreal\n"
+"string.text"
+msgid "IMREAL"
+msgstr "IMREALE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsin\n"
+"string.text"
+msgid "IMSIN"
+msgstr "IMSIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsub\n"
+"string.text"
+msgid "IMSUB"
+msgstr "IMSUB"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsum\n"
+"string.text"
+msgid "IMSUM"
+msgstr "IMSUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsqrt\n"
+"string.text"
+msgid "IMSQRT"
+msgstr "IMSQRT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imtan\n"
+"string.text"
+msgid "IMTAN"
+msgstr "IMTAN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsec\n"
+"string.text"
+msgid "IMSEC"
+msgstr "IMSEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsc\n"
+"string.text"
+msgid "IMCSC"
+msgstr "IMCSC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcot\n"
+"string.text"
+msgid "IMCOT"
+msgstr "IMCOT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsinh\n"
+"string.text"
+msgid "IMSINH"
+msgstr "IMSINH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcosh\n"
+"string.text"
+msgid "IMCOSH"
+msgstr "IMCOSH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsech\n"
+"string.text"
+msgid "IMSECH"
+msgstr "IMSECH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsch\n"
+"string.text"
+msgid "IMCSCH"
+msgstr "IMCSCH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Complex\n"
+"string.text"
+msgid "COMPLEX"
+msgstr "XURQA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Bin\n"
+"string.text"
+msgid "OCT2BIN"
+msgstr "OCT2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Dec\n"
+"string.text"
+msgid "OCT2DEC"
+msgstr "OCT2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Hex\n"
+"string.text"
+msgid "OCT2HEX"
+msgstr "OCT2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Convert\n"
+"string.text"
+msgid "CONVERT"
+msgstr "WOLEESSI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Factdouble\n"
+"string.text"
+msgid "FACTDOUBLE"
+msgstr "HALAALILAME"

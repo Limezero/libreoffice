@@ -1,0 +1,373 @@
+/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
+/*
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ */
+
+#ifndef INCLUDED_L10NTOOLS_INC_EXPORT_HXX
+#define INCLUDED_L10NTOOLS_INC_EXPORT_HXX
+
+#include "sal/config.h"
+#include "po.hxx"
+
+#include <cstddef>
+#include <fstream>
+
+#include <osl/file.hxx>
+#include <osl/file.h>
+
+#include <boost/unordered_map.hpp>
+#include <iterator>
+#include <set>
+#include <vector>
+#include <queue>
+#include <string>
+
+#ifdef WNT
+#include <direct.h>
+#else
+#include <unistd.h>
+#endif
+
+#define NO_TRANSLATE_ISO        "x-no-translate"
+
+class MergeEntrys;
+
+typedef boost::unordered_map<OString, OString, OStringHash>
+    OStringHashMap;
+
+typedef boost::unordered_map<OString, bool, OStringHash>
+    OStringBoolHashMap;
+
+#define SOURCE_LANGUAGE "en-US"
+#define X_COMMENT "x-comment"
+
+
+// class ResData
+
+
+#define ID_LEVEL_NULL       0x0000
+#define ID_LEVEL_TEXT       0x0002
+#define ID_LEVEL_IDENTIFIER 0x0005
+
+typedef std::vector< OString > ExportList;
+
+/// Purpose: holds mandatory data to export a single res (used with ResStack)
+class ResData
+{
+public:
+    ResData( const OString &rGId );
+    ResData( const OString &rGId , const OString &rFilename );
+    bool SetId(const OString &rId, sal_uInt16 nLevel);
+
+    sal_uInt16 nIdLevel;
+    bool bChild;
+    bool bChildWithText;
+
+    bool bText;
+    bool bQuickHelpText;
+    bool bTitle;
+
+    OString sResTyp;
+    OString sId;
+    OString sGId;
+    OString sFilename;
+
+    OStringHashMap sText;
+
+    OStringHashMap sQuickHelpText;
+
+    OStringHashMap sTitle;
+
+    OString sTextTyp;
+
+    ExportList  m_aList;
+};
+
+
+
+// class Export
+
+
+#define LIST_NON                    0x0000
+#define LIST_STRING                 0x0001
+#define LIST_FILTER                 0x0002
+#define LIST_ITEM                   0x0004
+#define LIST_PAIRED                 0x0005
+#define STRING_TYP_TEXT             0x0010
+#define STRING_TYP_QUICKHELPTEXT    0x0040
+#define STRING_TYP_TITLE            0x0080
+
+#define MERGE_MODE_NORMAL           0x0000
+#define MERGE_MODE_LIST             0x0001
+
+typedef ::std::vector< ResData* > ResStack;
+class ParserQueue;
+
+/// Purpose: syntax check and export of *.src, called from lexer
+class Export
+{
+private:
+    union
+    {
+        std::ofstream* mSimple;
+        PoOfstream* mPo;
+
+    } aOutput;
+
+    ResStack aResStack;                 ///< stack for parsing recursive
+
+    bool bDefine;                       // cur. res. in a define?
+    bool bNextMustBeDefineEOL;          ///< define but no \ at lineend
+    std::size_t nLevel; // res. recursiv? how deep?
+    sal_uInt16 nList;                       ///< cur. res. is List
+    std::size_t nListIndex;
+    std::size_t nListLevel;
+    bool bMergeMode;
+    OString sMergeSrc;
+    bool bError;                        // any errors while export?
+    bool bReadOver;
+    OString sFilename;
+    OString sLanguages;
+
+    std::vector<OString> aLanguages;
+
+    ParserQueue* pParseQueue;
+
+    bool WriteData( ResData *pResData, bool bCreateNew = false ); ///< called before dest. cur ResData
+    bool WriteExportList( ResData *pResData, ExportList& rExportList, const sal_uInt16 nTyp );
+
+    OString MergePairedList( OString const & sLine , OString const & sText );
+
+    OString FullId();                    ///< creates cur. GID
+
+    OString GetPairedListID(const OString & rText);
+    OString GetPairedListString(const OString& rText);
+    OString StripList(const OString& rText);
+
+    void InsertListEntry(const OString &rLine);
+    void CleanValue( OString &rValue );
+    OString GetText(const OString &rSource, int nToken);
+
+    void ResData2Output( MergeEntrys *pEntry, sal_uInt16 nType, const OString& rTextType );
+    void MergeRest( ResData *pResData );
+    void ConvertMergeContent( OString &rText );
+    void ConvertExportContent( OString &rText );
+
+    void WriteToMerged(const OString &rText , bool bSDFContent);
+    void SetChildWithText();
+
+    void CutComment( OString &rText );
+
+    void WriteUTF8ByteOrderMarkToOutput() { *aOutput.mSimple << '\xEF' << '\xBB' << '\xBF'; }
+
+public:
+    Export( const OString &rOutput );
+    Export(const OString &rMergeSource, const OString &rOutput, const OString &rLanguage, bool bUTF8BOM);
+    ~Export();
+
+    void Init();
+    int Execute( int nToken, const char * pToken ); ///< called from lexer
+
+    void SetError() { bError = true; }
+    bool GetError() { return bError; }
+    ParserQueue* GetParseQueue() { return pParseQueue; }
+};
+
+
+// class MergeEntrys
+
+
+/// Purpose: holds information of data to merge
+class MergeEntrys
+{
+friend class MergeDataFile;
+private:
+    OStringHashMap sText;
+    OStringBoolHashMap bTextFirst;
+    OStringHashMap sQuickHelpText;
+    OStringBoolHashMap bQuickHelpTextFirst;
+    OStringHashMap sTitle;
+    OStringBoolHashMap bTitleFirst;
+
+public:
+    MergeEntrys(){};
+    void InsertEntry(const OString &rId, const OString &rText,
+        const OString &rQuickHelpText, const OString &rTitle)
+    {
+
+        sText[ rId ] = rText;
+        bTextFirst[ rId ] = true;
+        sQuickHelpText[ rId ] = rQuickHelpText;
+        bQuickHelpTextFirst[ rId ] = true;
+        sTitle[ rId ] = rTitle;
+        bTitleFirst[ rId ] = true;
+    }
+    bool GetText( OString &rReturn, sal_uInt16 nTyp, const OString &nLangIndex, bool bDel = false );
+
+    /**
+      Generate QTZ string with ResData
+      For executable which works one language and without PO files.
+    */
+    static OString GetQTZText(const ResData& rResData, const OString& rOrigText);
+
+};
+
+
+// class MergeDataHashMap
+
+
+class MergeData;
+
+/** Container for MergeData
+
+  This class is an HashMap with a hidden insertion
+  order. The class can used just like a simple
+  HashMap, but good to know that it's use is
+  more effective if the accessing(find) order
+  match with the insertion order.
+
+  In the most case, this match is good.
+  (e.g. reading PO files of different languages,
+  executables merging)
+*/
+class MergeDataHashMap
+{
+    private:
+        typedef boost::unordered_map<OString, MergeData*, OStringHash> HashMap_t;
+
+    public:
+        MergeDataHashMap():bFirstSearch(true){};
+        ~MergeDataHashMap(){};
+
+        typedef HashMap_t::iterator iterator;
+        typedef HashMap_t::const_iterator const_iterator;
+
+        std::pair<iterator,bool> insert(const OString& rKey, MergeData* pMergeData);
+        iterator find(const OString& rKey);
+
+        iterator begin() {return m_aHashMap.begin();}
+        iterator end() {return m_aHashMap.end();}
+
+        const_iterator begin() const {return m_aHashMap.begin();}
+        const_iterator end() const {return m_aHashMap.end();}
+
+    private:
+        bool bFirstSearch;
+        iterator aLastInsertion;
+        iterator aLastFound;
+        iterator aFirstInOrder;
+        HashMap_t m_aHashMap;
+};
+
+
+// class MergeData
+
+
+/// Purpose: holds information of data to merge (one resource)
+class MergeData
+{
+    friend class MergeDataHashMap;
+
+public:
+    OString sTyp;
+    OString sGID;
+    OString sLID;
+    OString sFilename;
+    MergeEntrys* pMergeEntrys;
+private:
+    MergeDataHashMap::iterator m_aNextData;
+public:
+    MergeData( const OString &rTyp, const OString &rGID, const OString &rLID , const OString &rFilename );
+    ~MergeData();
+    MergeEntrys* GetMergeEntries() { return pMergeEntrys;}
+
+    bool operator==( ResData *pData );
+};
+
+
+// class MergeDataFile
+
+
+/// Purpose: holds information of data to merge, read from PO file
+class MergeDataFile
+{
+    private:
+        MergeDataHashMap aMap;
+        std::set<OString> aLanguageSet;
+
+        MergeData *GetMergeData( ResData *pResData , bool bCaseSensitve = false );
+        void InsertEntry(const OString &rTYP, const OString &rGID,
+            const OString &rLID, const OString &nLang,
+            const OString &rTEXT, const OString &rQHTEXT,
+            const OString &rTITLE, const OString &sFilename,
+            bool bFirstLang, bool bCaseSensitive);
+    public:
+        explicit MergeDataFile(
+            const OString &rFileName, const OString& rFile,
+            bool bCaseSensitive, bool bWithQtz = true );
+        ~MergeDataFile();
+
+
+        std::vector<OString> GetLanguages() const;
+        const MergeDataHashMap& getMap() const { return aMap; }
+
+        MergeEntrys *GetMergeEntrys( ResData *pResData );
+        MergeEntrys *GetMergeEntrysCaseSensitive( ResData *pResData );
+
+        static OString CreateKey(const OString& rTYP, const OString& rGID,
+            const OString& rLID, const OString& rFilename , bool bCaseSensitive = false);
+};
+
+
+class QueueEntry
+{
+public:
+    QueueEntry(int nTypVal, const OString &rLineVal)
+        : nTyp(nTypVal), sLine(rLineVal)
+    {
+    }
+    int nTyp;
+    OString sLine;
+};
+
+class ParserQueue
+{
+public:
+
+    ParserQueue( Export& aExportObj );
+    ~ParserQueue();
+
+    inline void Push( const QueueEntry& aEntry );
+    bool bCurrentIsM;  // public ?
+    bool bNextIsM;   // public ?
+    bool bLastWasM;   // public ?
+    bool bMflag;   // public ?
+
+    void Close();
+private:
+    std::queue<QueueEntry>* aQueueNext;
+    std::queue<QueueEntry>* aQueueCur;
+
+    Export& aExport;
+    bool bStart;
+
+    inline void Pop( std::queue<QueueEntry>& aQueue );
+
+};
+#endif // INCLUDED_L10NTOOLS_INC_EXPORT_HXX
+
+/* vim:set shiftwidth=4 softtabstop=4 expandtab: */

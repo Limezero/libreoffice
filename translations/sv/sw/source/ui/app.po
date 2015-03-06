@@ -1,0 +1,2458 @@
+#. extracted from sw/source/ui/app
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-02-16 22:20+0100\n"
+"PO-Revision-Date: 2015-01-18 17:52+0000\n"
+"Last-Translator: Niklas <sleeping.pillow@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1421603540.000000\n"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PRINT_MERGE_MACRO\n"
+"string.text"
+msgid "Print form letters"
+msgstr "Skriv ut standardbrev"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PAGE_COUNT_MACRO\n"
+"string.text"
+msgid "Changing the page count"
+msgstr "Ändring av sidantal"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER\n"
+"Paragraph Styles\n"
+"sfxstylefamilyitem.text"
+msgid "Paragraph Styles"
+msgstr "Styckeformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"All Styles\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "Alla formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Dolda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Använda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Egna formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Automatic\n"
+"filterlist.text"
+msgid "Automatic"
+msgstr "Automatisk"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Text Styles\n"
+"filterlist.text"
+msgid "Text Styles"
+msgstr "Textformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Chapter Styles\n"
+"filterlist.text"
+msgid "Chapter Styles"
+msgstr "Kapitelformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"List Styles\n"
+"filterlist.text"
+msgid "List Styles"
+msgstr "Listformat"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Index Styles\n"
+"filterlist.text"
+msgid "Index Styles"
+msgstr "Förteckningsformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Special Styles\n"
+"filterlist.text"
+msgid "Special Styles"
+msgstr "Specialformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"HTML Styles\n"
+"filterlist.text"
+msgid "HTML Styles"
+msgstr "HTML-formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Paragraph Styles\n"
+"Conditional Styles\n"
+"filterlist.text"
+msgid "Conditional Styles"
+msgstr "Villkorliga formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER\n"
+"Character Styles\n"
+"sfxstylefamilyitem.text"
+msgid "Character Styles"
+msgstr "Teckenformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Character Styles\n"
+"All\n"
+"filterlist.text"
+msgid "All"
+msgstr "Alla"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Character Styles\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Dolda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Character Styles\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Använda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Character Styles\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Egna formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER\n"
+"Frame Styles\n"
+"sfxstylefamilyitem.text"
+msgid "Frame Styles"
+msgstr "Ramformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Frame Styles\n"
+"All\n"
+"filterlist.text"
+msgid "All"
+msgstr "Alla"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Frame Styles\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Dolda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Frame Styles\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Använda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Frame Styles\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Egna formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER\n"
+"Page Styles\n"
+"sfxstylefamilyitem.text"
+msgid "Page Styles"
+msgstr "Sidformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"All\n"
+"filterlist.text"
+msgid "All"
+msgstr "Alla"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Dolda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Använda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.Page Styles\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Egna formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER\n"
+"List Styles\n"
+"sfxstylefamilyitem.text"
+msgid "List Styles"
+msgstr "Listformatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.List Styles\n"
+"All\n"
+"filterlist.text"
+msgid "All"
+msgstr "Alla"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.List Styles\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr "Dolda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.List Styles\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "Använda formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"DLG_STYLE_DESIGNER.List Styles\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "Egna formatmallar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ENV_TITLE\n"
+"string.text"
+msgid "Envelope"
+msgstr "Kuvert"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_LAB_TITLE\n"
+"string.text"
+msgid "Labels"
+msgstr "Etiketter"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_HUMAN_SWDOC_NAME\n"
+"string.text"
+msgid "Text"
+msgstr "Text"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_WRITER_DOCUMENT_FULLTYPE\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION Text Document"
+msgstr "%PRODUCTNAME %PRODUCTVERSION textdokument"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CANTOPEN\n"
+"string.text"
+msgid "Cannot open document."
+msgstr "Kan inte öppna dokumentet."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CANTCREATE\n"
+"string.text"
+msgid "Can't create document."
+msgstr "Det gick inte att skapa dokumentet."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DLLNOTFOUND\n"
+"string.text"
+msgid "Filter not found."
+msgstr "Filter hittades ej."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_UNBENANNT\n"
+"string.text"
+msgid "Untitled"
+msgstr "Namnlös"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_LOAD_GLOBAL_DOC\n"
+"string.text"
+msgid "Name and Path of Master Document"
+msgstr "Samlingsdokumentets namn och sökväg"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_LOAD_HTML_DOC\n"
+"string.text"
+msgid "Name and Path of the HTML Document"
+msgstr "HTML-dokumentets namn och sökväg"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_JAVA_EDIT\n"
+"string.text"
+msgid "Edit Script"
+msgstr "Redigera skript"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_REMOVE_WARNING\n"
+"string.text"
+msgid "The following characters are not valid and have been removed: "
+msgstr "Följande tecken är inte tillåtna och har därför tagits bort: "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"SW_STR_NONE\n"
+"string.text"
+msgid "[None]"
+msgstr "[Ingen]"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_BEGINNING\n"
+"string.text"
+msgid "Start"
+msgstr "Start"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_END\n"
+"string.text"
+msgid "End"
+msgstr "Slut"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_ABOVE\n"
+"string.text"
+msgid "Above"
+msgstr "I början"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_BELOW\n"
+"string.text"
+msgid "Below"
+msgstr "I slutet"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"SW_STR_READONLY\n"
+"string.text"
+msgid "read-only"
+msgstr "skrivskyddad"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_READONLY_PATH\n"
+"string.text"
+msgid "The 'AutoText' directories are read-only. Do you want to call the path settings dialog?"
+msgstr "Katalogerna för 'AutoText' är skrivskyddade. Vill du öppna sökvägsdialogen?"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ERROR_PASSWD\n"
+"string.text"
+msgid "Invalid password"
+msgstr "Felaktigt lösenord"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FMT_STD\n"
+"string.text"
+msgid "(none)"
+msgstr "(ingen)"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DOC_STAT\n"
+"string.text"
+msgid "Statistics"
+msgstr "Statistik"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_W4WREAD\n"
+"string.text"
+msgid "Importing document..."
+msgstr "Dokument importeras..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_W4WWRITE\n"
+"string.text"
+msgid "Exporting document..."
+msgstr "Dokument exporteras..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_SWGREAD\n"
+"string.text"
+msgid "Loading document..."
+msgstr "Dokument laddas..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_SWGWRITE\n"
+"string.text"
+msgid "Saving document..."
+msgstr "Dokument sparas..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_REFORMAT\n"
+"string.text"
+msgid "Repagination..."
+msgstr "Omformatering av dokumentet..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_AUTOFORMAT\n"
+"string.text"
+msgid "Formatting document automatically..."
+msgstr "Autoformatering av dokumentet..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_IMPGRF\n"
+"string.text"
+msgid "Importing images..."
+msgstr "Importera bilder..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_SEARCH\n"
+"string.text"
+msgid "Search..."
+msgstr "Söker..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_FORMAT\n"
+"string.text"
+msgid "Formatting..."
+msgstr "Formaterar..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_PRINT\n"
+"string.text"
+msgid "Printing..."
+msgstr "Skriver ut ..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_LAYOUTINIT\n"
+"string.text"
+msgid "Converting..."
+msgstr "Konverterar..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_LETTER\n"
+"string.text"
+msgid "Letter"
+msgstr "Brev"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_SPELL\n"
+"string.text"
+msgid "Spellcheck..."
+msgstr "Stavningskontroll..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_HYPHEN\n"
+"string.text"
+msgid "Hyphenation..."
+msgstr "Avstavning..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_TOX_INSERT\n"
+"string.text"
+msgid "Inserting Index..."
+msgstr "Förteckning infogas..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_TOX_UPDATE\n"
+"string.text"
+msgid "Updating Index..."
+msgstr "Förteckning uppdateras..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_SUMMARY\n"
+"string.text"
+msgid "Creating abstract..."
+msgstr "Utdrag skapas..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATSTR_SWGPRTOLENOTIFY\n"
+"string.text"
+msgid "Adapt Objects..."
+msgstr "Anpassa objekt..."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_TABLE_DEFNAME\n"
+"string.text"
+msgid "Table"
+msgstr "Tabell"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_GRAPHIC_DEFNAME\n"
+"string.text"
+msgid "Image"
+msgstr "Bild"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_OBJECT_DEFNAME\n"
+"string.text"
+msgid "Object"
+msgstr "Objekt"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FRAME_DEFNAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Ram"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_REGION_DEFNAME\n"
+"string.text"
+msgid "Section"
+msgstr "Område"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_NUMRULE_DEFNAME\n"
+"string.text"
+msgid "Numbering"
+msgstr "Numrering"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_EMPTYPAGE\n"
+"string.text"
+msgid "blank page"
+msgstr "tom sida"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ABSTRACT_TITLE\n"
+"string.text"
+msgid "Abstract: "
+msgstr "Utdrag:  "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FDLG_TEMPLATE_BUTTON\n"
+"string.text"
+msgid "Style"
+msgstr "Formatmall"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FDLG_TEMPLATE_NAME\n"
+"string.text"
+msgid "separated by: "
+msgstr "Avgränsat av: "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FDLG_OUTLINE_LEVEL\n"
+"string.text"
+msgid "Outline: Level "
+msgstr "Disposition: Nivå "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FDLG_STYLE\n"
+"string.text"
+msgid "Style: "
+msgstr "Formatmall: "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PAGEOFFSET\n"
+"string.text"
+msgid "Page number: "
+msgstr "Sidnummer:  "
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_PAGEBREAK\n"
+"string.text"
+msgid "Break before new page"
+msgstr "Bryt före ny sida"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_WESTERN_FONT\n"
+"string.text"
+msgid "Western text: "
+msgstr "Västlig text:"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CJK_FONT\n"
+"string.text"
+msgid "Asian text: "
+msgstr "Asiatisk text:"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_REDLINE_UNKNOWN_AUTHOR\n"
+"string.text"
+msgid "Unknown Author"
+msgstr "Okänd författare"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"RID_MODULE_TOOLBOX\n"
+"string.text"
+msgid "Function Bar (viewing mode)"
+msgstr "Funktionsrad (visningsläge)"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DONT_ASK_AGAIN\n"
+"string.text"
+msgid "~Do not show warning again"
+msgstr "~Visa inte varningen igen"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_OUTLINE_NUMBERING\n"
+"string.text"
+msgid "Outline Numbering"
+msgstr "Kapitelnumrering"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATUSBAR_WORDCOUNT_NO_SELECTION\n"
+"string.text"
+msgid "%1 words, %2 characters"
+msgstr "%1 ord, %2 tecken"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_STATUSBAR_WORDCOUNT\n"
+"string.text"
+msgid "%1 words, %2 characters selected"
+msgstr "%1 ord, %2 markerade tecken"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CONVERT_TEXT_TABLE\n"
+"string.text"
+msgid "Convert Text to Table"
+msgstr "Omvandla text till tabell"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ADD_AUTOFORMAT_TITLE\n"
+"string.text"
+msgid "Add AutoFormat"
+msgstr "Lägg till autoformat"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ADD_AUTOFORMAT_LABEL\n"
+"string.text"
+msgid "Name"
+msgstr "Namn"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DEL_AUTOFORMAT_TITLE\n"
+"string.text"
+msgid "Delete AutoFormat"
+msgstr "Radera autoformat"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_DEL_AUTOFORMAT_MSG\n"
+"string.text"
+msgid "The following AutoFormat entry will be deleted:"
+msgstr "Följande autoformat raderas:"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_RENAME_AUTOFORMAT_TITLE\n"
+"string.text"
+msgid "Rename AutoFormat"
+msgstr "Byt namn på autoformat"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_BTN_AUTOFORMAT_CLOSE\n"
+"string.text"
+msgid "~Close"
+msgstr "S~täng"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_JAN\n"
+"string.text"
+msgid "Jan"
+msgstr "Jan"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_FEB\n"
+"string.text"
+msgid "Feb"
+msgstr "Feb"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_MAR\n"
+"string.text"
+msgid "Mar"
+msgstr "Mar"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_NORTH\n"
+"string.text"
+msgid "North"
+msgstr "Norr"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_MID\n"
+"string.text"
+msgid "Mid"
+msgstr "Mitten"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_SOUTH\n"
+"string.text"
+msgid "South"
+msgstr "Söder"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_SUM\n"
+"string.text"
+msgid "Sum"
+msgstr "Summa"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_INVALID_AUTOFORMAT_NAME\n"
+"string.text"
+msgid ""
+"You have entered an invalid name.\n"
+"The desired AutoFormat could not be created. \n"
+"Try again using a different name."
+msgstr ""
+"Du har angett ett ogiltigt namn.\n"
+"Det gick inte att skapa autoformatet.\n"
+"Välj ett annat namn."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_NUMERIC\n"
+"string.text"
+msgid "Numeric"
+msgstr "Numerisk"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ROW\n"
+"string.text"
+msgid "Rows"
+msgstr "Rader"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_COL\n"
+"string.text"
+msgid "Column"
+msgstr "Kolumn"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_SIMPLE\n"
+"string.text"
+msgid "Plain"
+msgstr "Enkel"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_AUTHMRK_EDIT\n"
+"string.text"
+msgid "Edit Bibliography Entry"
+msgstr "Redigera post i litteraturförteckning"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_AUTHMRK_INSERT\n"
+"string.text"
+msgid "Insert Bibliography Entry"
+msgstr "Infoga post i litteraturförteckning"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ACCESS_PAGESETUP_SPACING\n"
+"string.text"
+msgid "Spacing between %1 and %2"
+msgstr "Avstånd mellan %1 och %2"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ACCESS_COLUMN_WIDTH\n"
+"string.text"
+msgid "Column %1 Width"
+msgstr "Kolumn %1 bredd"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_TABLE\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Table"
+msgstr "%PRODUCTNAME Writer-tabell"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_FRAME\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Frame"
+msgstr "%PRODUCTNAME Writer-ram"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_GRAPHIC\n"
+"string.text"
+msgid "%PRODUCTNAME Writer Image"
+msgstr "%PRODUCTNAME Writer-bild"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_CAPTION_OLE\n"
+"string.text"
+msgid "Other OLE Objects"
+msgstr "Andra OLE-objekt"
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_WRONG_TABLENAME\n"
+"string.text"
+msgid "The name of the table must not contain spaces."
+msgstr "Namnet på tabellen får inte innehålla några mellanslag."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_ERR_TABLE_MERGE\n"
+"string.text"
+msgid "Selected table cells are too complex to merge."
+msgstr "Markerade tabellceller är för komplexa för att kunna sammanfogas."
+
+#: app.src
+msgctxt ""
+"app.src\n"
+"STR_SRTERR\n"
+"string.text"
+msgid "Cannot sort selection"
+msgstr "Det gick inte att sortera markering"
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"STR_COMCORE_READERROR\n"
+"string.text"
+msgid "Read-Error"
+msgstr "Läsfel"
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"STR_COMCORE_CANT_SHOW\n"
+"string.text"
+msgid "Image cannot be displayed."
+msgstr "Bilden kan inte visas."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"STR_ERROR_CLPBRD_READ\n"
+"string.text"
+msgid "Error reading from the clipboard."
+msgstr "Fel vid läsning från urklippet."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SWG_FILE_FORMAT_ERROR )\n"
+"string.text"
+msgid "File format error found."
+msgstr "Fel filformat."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SWG_READ_ERROR )\n"
+"string.text"
+msgid "Error reading file."
+msgstr "Ett fel uppstod vid läsning av filen."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SW6_INPUT_FILE )\n"
+"string.text"
+msgid "Input file error."
+msgstr "Fel i indatafilen."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SW6_NOWRITER_FILE )\n"
+"string.text"
+msgid "This is not a %PRODUCTNAME Writer file."
+msgstr "Det här är inte en %PRODUCTNAME Writer-fil."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SW6_UNEXPECTED_EOF )\n"
+"string.text"
+msgid "Unexpected end of file."
+msgstr "Oväntat slut på filen."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SW6_PASSWD )\n"
+"string.text"
+msgid "Password-protected files cannot be opened."
+msgstr "Det går inte att öppna filer som är skyddade med lösenord."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_WW6_NO_WW6_FILE_ERR )\n"
+"string.text"
+msgid "This is not a WinWord6 file."
+msgstr "Det här är inte en WinWord6-fil."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_WW6_FASTSAVE_ERR )\n"
+"string.text"
+msgid "This file was saved with WinWord in 'Fast Save' mode. Please unmark the WinWord option 'Allow Fast Saves' and save the file again."
+msgstr "Denna fil är sparad med WinWord-alternativet 'snabbspara'. Avmarkera WinWord-alternativet 'Tillåt snabbspara' och spara filen igen"
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_ROWCOL )\n"
+"string.text"
+msgid "File format error found at $(ARG1)(row,col)."
+msgstr "Filformatfel vid $(ARG1)(rad,kol)."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SWG_NEW_VERSION )\n"
+"string.text"
+msgid "File has been written in a newer version."
+msgstr "Filen har sparats i en senare version."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_WW8_NO_WW8_FILE_ERR )\n"
+"string.text"
+msgid "This is not a WinWord97 file."
+msgstr "Det här är inte en WinWord97-fil."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_FORMAT_FILE_ROWCOL )\n"
+"string.text"
+msgid "Format error discovered in the file in sub-document $(ARG1) at $(ARG2)(row,col)."
+msgstr "Formatfel i filen i underdokumentet $(ARG1) vid $(ARG2)(rad,kol)."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_WRITE , ERR_SWG_WRITE_ERROR )\n"
+"string.text"
+msgid "Error writing file."
+msgstr "Ett fel uppstod när filen sparades."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_WRITE , ERR_SWG_OLD_GLOSSARY )\n"
+"string.text"
+msgid "Wrong AutoText document version."
+msgstr "Fel autotext-dokumentversion."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_WRITE , ERR_WRITE_ERROR_FILE )\n"
+"string.text"
+msgid "Error in writing sub-document $(ARG1)."
+msgstr "Ett fel uppstod när underdokumentet $(ARG1) sparades."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_READ , ERR_SWG_INTERNAL_ERROR )\n"
+"string.text"
+msgid "Internal error in %PRODUCTNAME Writer file format."
+msgstr "Internt fel i %PRODUCTNAME Writer-filformat."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_WRITE , ERR_SWG_INTERNAL_ERROR )\n"
+"string.text"
+msgid "Internal error in %PRODUCTNAME Writer file format."
+msgstr "Internt fel i %PRODUCTNAME Writer-filformat."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_LOCKING , ERR_TXTBLOCK_NEWFILE_ERROR )\n"
+"string.text"
+msgid "$(ARG1) has changed."
+msgstr "$(ARG1) har ändrats."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_PATH , ERR_AUTOPATH_ERROR )\n"
+"string.text"
+msgid "$(ARG1) does not exist."
+msgstr "$(ARG1) finns inte."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_NONE , ERR_TBLSPLIT_ERROR )\n"
+"string.text"
+msgid "Cells cannot be further split."
+msgstr "Det går inte att dela upp cellerna mer."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_NONE , ERR_TBLINSCOL_ERROR )\n"
+"string.text"
+msgid "Additional columns cannot be inserted."
+msgstr "Det går inte att infoga fler kolumner."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_NONE , ERR_TBLDDECHG_ERROR )\n"
+"string.text"
+msgid "The structure of a linked table cannot be modified."
+msgstr "Det går inte att ändra strukturen i en länkad tabell."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_READ , WARN_SWG_NO_DRAWINGS )\n"
+"string.text"
+msgid "No drawings could be read."
+msgstr "Det går inte att läsa några teckningar."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_READ , WARN_WW6_FASTSAVE_ERR )\n"
+"string.text"
+msgid "This file was saved with WinWord in 'Fast Save' mode. Please unmark the WinWord option 'Allow Fast Saves' and save the file again."
+msgstr "Denna fil är sparad med WinWord-alternativet 'snabbspara'. Avmarkera WinWord-alternativet 'Tillåt snabbspara' och spara filen igen"
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_READ , WARN_SWG_FEATURES_LOST )\n"
+"string.text"
+msgid "Not all attributes could be read."
+msgstr "Det går inte att läsa alla attribut."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_WRITE , WARN_SWG_FEATURES_LOST )\n"
+"string.text"
+msgid "Not all attributes could be recorded."
+msgstr "Det går inte att registrera alla attribut."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_READ , WARN_SWG_OLE )\n"
+"string.text"
+msgid "Some OLE objects could only be loaded as images."
+msgstr "Vissa OLE-objekt kunde bara läsas in som bilder."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_WRITE , WARN_SWG_OLE )\n"
+"string.text"
+msgid "Some OLE objects could only be saved as images."
+msgstr "Vissa OLE-objekt kunde bara sparas som bilder."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_READ , WARN_SWG_POOR_LOAD )\n"
+"string.text"
+msgid "Document could not be completely loaded."
+msgstr "Det går inte att ladda dokumentet helt och hållet."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_WRITE , WARN_SWG_POOR_LOAD )\n"
+"string.text"
+msgid "Document could not be completely saved."
+msgstr "Det går inte att spara dokumentet helt och hållet."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"WARN_CODE ( ERRCODE_CLASS_WRITE , WARN_SWG_HTML_NO_MACROS)\n"
+"string.text"
+msgid ""
+"This HTML document contains %PRODUCTNAME Basic macros.\n"
+"They were not saved with the current export settings."
+msgstr ""
+"HTML-dokumentet innehåller %PRODUCTNAME Basic-makron.\n"
+"De sparades inte med de aktuella exportinställningarna."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_WRITE , WARN_WRITE_ERROR_FILE )\n"
+"string.text"
+msgid "Error in writing sub-document $(ARG1)."
+msgstr "Ett fel uppstod när underdokumentet $(ARG1) sparades."
+
+#: error.src
+msgctxt ""
+"error.src\n"
+"RID_SW_ERRHDL\n"
+"ERR_CODE ( ERRCODE_CLASS_WRITE , WARN_FORMAT_FILE_ROWCOL )\n"
+"string.text"
+msgid "Format error discovered in the file in sub-document $(ARG1) at $(ARG2)(row,col)."
+msgstr "Formatfel i filen i underdokumentet $(ARG1) vid $(ARG2)(rad,kol)."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TXT\n"
+"FN_FORMAT_PAGE_DLG\n"
+"menuitem.text"
+msgid "Pa~ge..."
+msgstr "Si~da..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TEXT_ATTR.MN_FORMAT_STYLE\n"
+"FN_SET_SUPER_SCRIPT\n"
+"menuitem.text"
+msgid "Superscript"
+msgstr "Upphöjd"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TEXT_ATTR.MN_FORMAT_STYLE\n"
+"FN_SET_SUB_SCRIPT\n"
+"menuitem.text"
+msgid "Subscript"
+msgstr "Nedsänkt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TEXT_ATTR\n"
+"MN_FORMAT_STYLE\n"
+"menuitem.text"
+msgid "~Format"
+msgstr "Format"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TEXT_ATTR\n"
+"MN_FORMAT_LINESPACE\n"
+"menuitem.text"
+msgid "Line Spacing"
+msgstr "Radavstånd"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_FIELD\n"
+"FN_EDIT_FIELD\n"
+"menuitem.text"
+msgid "Fields..."
+msgstr "Fältkommando…"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_FIELD._MN_EDIT_FOOTNOTE\n"
+"FN_EDIT_FOOTNOTE\n"
+"menuitem.text"
+msgid "Footnote/Endnote~..."
+msgstr "Fot-/slutnot~..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_FIELD._MN_EDIT_FOOTNOTE._MN_EDIT_IDX_ENTRY_DLG\n"
+"FN_EDIT_IDX_ENTRY_DLG\n"
+"menuitem.text"
+msgid "Inde~x Entry..."
+msgstr "~Förteckningspost..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_BIB_ENTRY_DLG\n"
+"FN_EDIT_AUTH_ENTRY_DLG\n"
+"menuitem.text"
+msgid "~Bibliography Entry..."
+msgstr "~Litteraturförteckningspost..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_OPEN_HYPERLINK\n"
+"FN_EDIT_HYPERLINK\n"
+"menuitem.text"
+msgid "Edit Hyperlink..."
+msgstr "Redigera länk..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_OPEN_HYPERLINK\n"
+"FN_COPY_HYPERLINK_LOCATION\n"
+"menuitem.text"
+msgid "Copy Hyperlink ~Location"
+msgstr "Kopiera ~länkadress"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_MN_EDIT_OPEN_HYPERLINK\n"
+"FN_REMOVE_HYPERLINK\n"
+"menuitem.text"
+msgid "Remo~ve Hyperlink"
+msgstr "Ta ~bort länk"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_RESET\n"
+"FN_FORMAT_RESET\n"
+"menuitem.text"
+msgid "Clear ~Direct Formatting"
+msgstr "Ta bort direktformatering"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_NUMBERING_RELATED_MENU\n"
+"FN_NUMBER_NEWSTART\n"
+"menuitem.text"
+msgid "Restart Numbering"
+msgstr "Starta numrering på nytt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_NUMBERING_RELATED_MENU\n"
+"FN_NUM_CONTINUE\n"
+"menuitem.text"
+msgid "Continue previous numbering"
+msgstr "Fortsätt föregående numrering"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_NUMBERING_RELATED_MENU\n"
+"FN_NUM_BULLET_UP\n"
+"menuitem.text"
+msgid "Up One Level"
+msgstr "Upp en nivå"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"_NUMBERING_RELATED_MENU\n"
+"FN_NUM_BULLET_DOWN\n"
+"menuitem.text"
+msgid "Down One Level"
+msgstr "En nivå nedåt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MENU_PASTE_SPECIAL.SID_MENU_PASTE_SPECIAL\n"
+"SID_PASTE_UNFORMATTED\n"
+"menuitem.text"
+msgid "~Unformatted Text"
+msgstr "Oformaterad text"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MENU_PASTE_SPECIAL.SID_MENU_PASTE_SPECIAL\n"
+"SID_PASTE_SPECIAL\n"
+"menuitem.text"
+msgid "~More Options..."
+msgstr "Fler alternativ..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MENU_PASTE_SPECIAL\n"
+"SID_MENU_PASTE_SPECIAL\n"
+"menuitem.text"
+msgid "Paste ~Special"
+msgstr "Infoga innehåll"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"BASE_TEXT_POPUPMENU_NOWEB\n"
+"FN_UPDATE_CUR_TOX\n"
+"menuitem.text"
+msgid "~Update Index/Table"
+msgstr "~Uppdatera förteckning/tabell"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"BASE_TEXT_POPUPMENU_NOWEB\n"
+"FN_EDIT_CURRENT_TOX\n"
+"menuitem.text"
+msgid "~Edit Index/Table"
+msgstr "~Redigera förteckning/tabell"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"BASE_TEXT_POPUPMENU_NOWEB\n"
+"FN_REMOVE_CUR_TOX\n"
+"menuitem.text"
+msgid "Delete Index/Table"
+msgstr "Radera förteckning/tabell"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_FRM_CAPTION_ITEM\n"
+"FN_INSERT_CAPTION\n"
+"menuitem.text"
+msgid "~Caption..."
+msgstr "~Bildtext…"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1\n"
+"FN_FORMAT_TABLE_DLG\n"
+"menuitem.text"
+msgid "~Table..."
+msgstr "~Tabell..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1\n"
+"FN_TABLE_MERGE_TABLE\n"
+"menuitem.text"
+msgid "Merge Tables"
+msgstr "Sammanfoga tabeller"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1\n"
+"FN_TABLE_SPLIT_TABLE\n"
+"menuitem.text"
+msgid "~Split Table"
+msgstr "~Dela tabell"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1\n"
+"FN_NUM_FORMAT_TABLE_DLG\n"
+"menuitem.text"
+msgid "N~umber Format..."
+msgstr "Talf~ormat..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"FN_TABLE_MERGE_CELLS\n"
+"menuitem.text"
+msgid "~Merge"
+msgstr "Sa~mmanfoga"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"FN_TABLE_SPLIT_CELLS\n"
+"menuitem.text"
+msgid "~Split..."
+msgstr "~Dela..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"SID_TABLE_VERT_NONE\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "Övers~t"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"SID_TABLE_VERT_CENTER\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr "~Mitten"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"SID_TABLE_VERT_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~Underst"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"FN_TABLE_SET_READ_ONLY_CELLS\n"
+"menuitem.text"
+msgid "~Protect"
+msgstr "~Skydda"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1.MN_CELL\n"
+"FN_TABLE_UNSET_READ_ONLY_CELLS\n"
+"menuitem.text"
+msgid "~Unprotect"
+msgstr "~Upphäv skydd"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB1\n"
+"MN_CELL\n"
+"menuitem.text"
+msgid "~Cell"
+msgstr "~Cell"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_SET_ROW_HEIGHT\n"
+"menuitem.text"
+msgid "~Height..."
+msgstr "~Höjd..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_ROW_SPLIT\n"
+"menuitem.text"
+msgid "Allow Row to Break A~cross Pages and Columns"
+msgstr "Tillåt radbr~ytning i slutet av sidor och kolumner"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_OPTIMAL_HEIGHT\n"
+"menuitem.text"
+msgid "~Optimal Height"
+msgstr "~Optimal höjd"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_BALANCE_ROWS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "Fördela ~jämnt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_SELECT_ROW\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~Markera"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_INSERT_ROW_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "~Infoga..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLROW\n"
+"FN_TABLE_DELETE_ROW\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Radera"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2\n"
+"MN_SUB_TBLROW\n"
+"menuitem.text"
+msgid "~Row"
+msgstr "~Rad"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLCOL\n"
+"FN_TABLE_SET_COL_WIDTH\n"
+"menuitem.text"
+msgid "~Width..."
+msgstr "~Bredd..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLCOL\n"
+"FN_TABLE_ADJUST_CELLS\n"
+"menuitem.text"
+msgid "~Optimal Width "
+msgstr "~Optimal bredd "
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLCOL\n"
+"FN_TABLE_BALANCE_CELLS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "Fördela ~jämnt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLCOL\n"
+"FN_TABLE_SELECT_COL\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~Markera"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLCOL\n"
+"FN_TABLE_INSERT_COL_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "~Infoga..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2.MN_SUB_TBLCOL\n"
+"FN_TABLE_DELETE_COL\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Radera"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB2\n"
+"MN_SUB_TBLCOL\n"
+"menuitem.text"
+msgid "Colu~mn"
+msgstr "~Kolumn"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRWTXTATTR\n"
+"FN_DRAWTEXT_ATTR_DLG\n"
+"menuitem.text"
+msgid "Te~xt..."
+msgstr "~Text..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_NAME_SHAPE\n"
+"FN_NAME_SHAPE\n"
+"menuitem.text"
+msgid "Name..."
+msgstr "Namnge objekt..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TITLE_DESCRIPTION_SHAPE\n"
+"FN_TITLE_DESCRIPTION_SHAPE\n"
+"menuitem.text"
+msgid "Description..."
+msgstr "Beskrivning..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_FRM\n"
+"FN_FORMAT_FRAME_DLG\n"
+"menuitem.text"
+msgid "~Frame..."
+msgstr "~Ram..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ONE_STEP\n"
+"FN_FRAME_UP\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr "Längr~e fram"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ONE_STEP\n"
+"FN_FRAME_DOWN\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr "Längre ba~k"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRAW5\n"
+"MN_SUB_ARRANGE\n"
+"menuitem.text"
+msgid "~Arrange"
+msgstr "~Placering"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRAW6\n"
+"MN_SUB_ARRANGE\n"
+"menuitem.text"
+msgid "~Arrange"
+msgstr "~Placering"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANNOTATIONS\n"
+"FN_REPLY\n"
+"menuitem.text"
+msgid "Reply"
+msgstr "Svara"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANNOTATIONS\n"
+"FN_DELETE_COMMENT\n"
+"menuitem.text"
+msgid "Delete ~Comment"
+msgstr "Ta bort ~kommentar"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANNOTATIONS\n"
+"FN_DELETE_NOTE_AUTHOR\n"
+"menuitem.text"
+msgid "Delete ~All Comments by $1"
+msgstr "Ta bort ~alla kommentarer från $1"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANNOTATIONS\n"
+"FN_DELETE_ALL_NOTES\n"
+"menuitem.text"
+msgid "~Delete All Comments"
+msgstr "~Ta bort alla kommentarer"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANNOTATIONS\n"
+"FN_FORMAT_ALL_NOTES\n"
+"menuitem.text"
+msgid "~Format All Comments"
+msgstr "~Formatera alla kommentarer"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TEXT_POPUPMENU\n"
+"string.text"
+msgid "Text"
+msgstr "Text"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_TAB_POPUPMENU\n"
+"string.text"
+msgid "Table"
+msgstr "Tabell"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_CONTOUR\n"
+"FN_FRAME_WRAP_CONTOUR\n"
+"menuitem.text"
+msgid "~Contour"
+msgstr "K~ontur"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_EDIT_CONTOUR\n"
+"SID_CONTOUR_DLG\n"
+"menuitem.text"
+msgid "~Edit Contour..."
+msgstr "Redigera ~kontur..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN.MN_WRAP\n"
+"FN_FRAME_NOWRAP\n"
+"menuitem.text"
+msgid "~No Wrap"
+msgstr "I~ngen textanpassning"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN.MN_WRAP\n"
+"FN_FRAME_WRAP\n"
+"menuitem.text"
+msgid "~Page Wrap"
+msgstr "~Textanpassning sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN.MN_WRAP\n"
+"FN_FRAME_WRAP_IDEAL\n"
+"menuitem.text"
+msgid "~Optimal Page Wrap"
+msgstr "~Dynamisk textanpassning sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN.MN_WRAP\n"
+"FN_FRAME_WRAPTHRU\n"
+"menuitem.text"
+msgid "~Wrap Through"
+msgstr "Text~genomflöde"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN.MN_WRAP\n"
+"FN_FRAME_WRAPTHRU_TRANSP\n"
+"menuitem.text"
+msgid "In ~Background"
+msgstr "I ~bakgrunden"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN.MN_WRAP\n"
+"FN_WRAP_ANCHOR_ONLY\n"
+"menuitem.text"
+msgid "~First Paragraph"
+msgstr "~Första stycket"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MOUSE_FRAME_BEGIN\n"
+"MN_WRAP\n"
+"menuitem.text"
+msgid "~Wrap"
+msgstr "~Textanpassning"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRAW_POPUPMENU\n"
+"string.text"
+msgid "Graphic"
+msgstr "Grafik"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_FRAME_NOWRAP\n"
+"menuitem.text"
+msgid "~No Wrap"
+msgstr "I~ngen textanpassning"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_FRAME_WRAP\n"
+"menuitem.text"
+msgid "~Page Wrap"
+msgstr "~Textanpassning sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_FRAME_WRAP_IDEAL\n"
+"menuitem.text"
+msgid "~Optimal Page Wrap"
+msgstr "~Dynamisk textanpassning sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_FRAME_WRAPTHRU\n"
+"menuitem.text"
+msgid "~Wrap Through"
+msgstr "Text~genomflöde"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_FRAME_WRAPTHRU_TRANSP\n"
+"menuitem.text"
+msgid "In ~Background"
+msgstr "I ~bakgrunden"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_WRAP_ANCHOR_ONLY\n"
+"menuitem.text"
+msgid "~First Paragraph"
+msgstr "~Första stycket"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW.MN_WRAP\n"
+"FN_DRAW_WRAP_DLG\n"
+"menuitem.text"
+msgid "~Edit..."
+msgstr "~Redigera..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_WRAP_DRAW\n"
+"MN_WRAP\n"
+"menuitem.text"
+msgid "~Wrap"
+msgstr "~Textanpassning"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_AT_FRAME\n"
+"FN_TOOL_ANCHOR_FRAME\n"
+"menuitem.text"
+msgid "To ~Frame"
+msgstr "Till ram"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANCHOR.FN_TOOL_ANCHOR\n"
+"FN_TOOL_ANCHOR_PAGE\n"
+"menuitem.text"
+msgid "To P~age"
+msgstr "Till sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANCHOR.FN_TOOL_ANCHOR\n"
+"FN_TOOL_ANCHOR_PARAGRAPH\n"
+"menuitem.text"
+msgid "To ~Paragraph"
+msgstr "Till stycke"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANCHOR.FN_TOOL_ANCHOR\n"
+"FN_TOOL_ANCHOR_AT_CHAR\n"
+"menuitem.text"
+msgid "To ~Character"
+msgstr "Till tecken"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANCHOR.FN_TOOL_ANCHOR\n"
+"FN_TOOL_ANCHOR_CHAR\n"
+"menuitem.text"
+msgid "As C~haracter"
+msgstr "Som tecken"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ANCHOR\n"
+"FN_TOOL_ANCHOR\n"
+"menuitem.text"
+msgid "An~chor"
+msgstr "Förankring"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRAW_POPUPMENU\n"
+"FN_ADD_TEXT_BOX\n"
+"menuitem.text"
+msgid "Add Text Box"
+msgstr "Lägg till textruta"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRAW_POPUPMENU\n"
+"FN_REMOVE_TEXT_BOX\n"
+"menuitem.text"
+msgid "Remove Text Box"
+msgstr "Ta bort textruta"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRAWFORM_POPUPMENU\n"
+"string.text"
+msgid "Control"
+msgstr "Kontrollfält"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_DRWTXT_POPUPMENU\n"
+"string.text"
+msgid "Draw Object text"
+msgstr "Ritobjekt text"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_GRF_POPUPMENU\n"
+"string.text"
+msgid "Graphic"
+msgstr "Grafik"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ARRANGE_FRAME\n"
+"MN_SUB_ALIGN\n"
+"menuitem.text"
+msgid "~Arrange"
+msgstr "~Placering"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME.MN_FORMAT_FRM_HORZ\n"
+"FN_FRAME_ALIGN_HORZ_LEFT\n"
+"menuitem.text"
+msgid "~Left"
+msgstr "~Vänster"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME.MN_FORMAT_FRM_HORZ\n"
+"FN_FRAME_ALIGN_HORZ_CENTER\n"
+"menuitem.text"
+msgid "~Centered"
+msgstr "~Centrerat"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME.MN_FORMAT_FRM_HORZ\n"
+"FN_FRAME_ALIGN_HORZ_RIGHT\n"
+"menuitem.text"
+msgid "~Right"
+msgstr "~Höger"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME.MN_FORMAT_FRM_HORZ\n"
+"FN_FRAME_ALIGN_VERT_TOP\n"
+"menuitem.text"
+msgid "Base at ~Top"
+msgstr "Bas högs~t upp"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME.MN_FORMAT_FRM_HORZ\n"
+"FN_FRAME_ALIGN_VERT_CENTER\n"
+"menuitem.text"
+msgid "Base in ~Middle"
+msgstr "Bas i ~mitten"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME.MN_FORMAT_FRM_HORZ\n"
+"FN_FRAME_ALIGN_VERT_BOTTOM\n"
+"menuitem.text"
+msgid "Base at ~Bottom"
+msgstr "~Bas längst ned"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ALIGNMENT_FRAME\n"
+"MN_FORMAT_FRM_HORZ\n"
+"menuitem.text"
+msgid "A~lignment"
+msgstr "~Justering"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ROTATE_IMAGE.SID_MENU_MANAGE_GRAPHIC\n"
+"SID_ROTATE_GRAPHIC_LEFT\n"
+"menuitem.text"
+msgid "Rotate 90° Left"
+msgstr "Rotera 90° åt vänster"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ROTATE_IMAGE.SID_MENU_MANAGE_GRAPHIC\n"
+"SID_ROTATE_GRAPHIC_RIGHT\n"
+"menuitem.text"
+msgid "Rotate 90° Right"
+msgstr "Rotera 90° åt höger"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_ROTATE_IMAGE\n"
+"SID_MENU_MANAGE_GRAPHIC\n"
+"menuitem.text"
+msgid "~Rotate Image"
+msgstr "~Rotera bild"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_GRF_POPUPMENU\n"
+"FN_FORMAT_GRAFIC_DLG\n"
+"menuitem.text"
+msgid "~Image..."
+msgstr "Bild..."
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_OLE_POPUPMENU\n"
+"string.text"
+msgid "Object"
+msgstr "Objekt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_OLE_POPUPMENU\n"
+"FN_FORMAT_FRAME_DLG\n"
+"menuitem.text"
+msgid "Object..."
+msgstr "Objekt…"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_FRM_POPUPMENU\n"
+"string.text"
+msgid "Frame"
+msgstr "Ram"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PPREVIEW_POPUPMENU\n"
+"string.text"
+msgid "Draw Object text"
+msgstr "Ritobjekt text"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PPREVIEW_POPUPMENU\n"
+"FN_PAGEUP\n"
+"menuitem.text"
+msgid "Previous Page"
+msgstr "Föregående sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PPREVIEW_POPUPMENU\n"
+"FN_PAGEDOWN\n"
+"menuitem.text"
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PPREVIEW_POPUPMENU\n"
+"FN_PRINT_PAGEPREVIEW\n"
+"menuitem.text"
+msgid "Print"
+msgstr "Skriv ut förhandsgranskning"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PPREVIEW_POPUPMENU\n"
+"SID_PRINTPREVIEW\n"
+"menuitem.text"
+msgid "Close Preview"
+msgstr "Stäng förhandsgranskning"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_MEDIA_POPUPMENU\n"
+"string.text"
+msgid "Media object"
+msgstr "Medieobjekt"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_HEADERFOOTER_BUTTON\n"
+"FN_HEADERFOOTER_BORDERBACK\n"
+"menuitem.text"
+msgid "Border and Background..."
+msgstr "Inramning och bakgrund…"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PAGEBREAK_BUTTON\n"
+"FN_PAGEBREAK_EDIT\n"
+"menuitem.text"
+msgid "Edit Page Break..."
+msgstr "Redigera sidbrytning…"
+
+#: mn.src
+msgctxt ""
+"mn.src\n"
+"MN_PAGEBREAK_BUTTON\n"
+"FN_PAGEBREAK_DELETE\n"
+"menuitem.text"
+msgid "Delete Page Break"
+msgstr "Ta bort sidbrytning"

@@ -1,0 +1,322 @@
+#. extracted from sc/source/ui/navipi
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-10-29 15:52+0000\n"
+"Last-Translator: Krishnababu <krisnababu@gmail.com>\n"
+"Language-Team: Telugu <Fedora-trans-te@redhat.com>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1414597971.000000\n"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"FT_ROW\n"
+"fixedtext.text"
+msgid "Row"
+msgstr "అడ్డువరుస"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"ED_ROW\n"
+"numericfield.quickhelptext"
+msgid "Row"
+msgstr "అడ్డువరుస"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"FT_COL\n"
+"fixedtext.text"
+msgid "Column"
+msgstr "నిలువు పట్టి"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"ED_COL\n"
+"spinfield.quickhelptext"
+msgid "Column"
+msgstr "నిలువు పట్టి"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"LB_DOCUMENTS\n"
+"listbox.quickhelptext"
+msgid "Document"
+msgstr "Document"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_DATA\n"
+"toolboxitem.text"
+msgid "Data Range"
+msgstr "దత్తాంశ శ్రేణి"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_UP\n"
+"toolboxitem.text"
+msgid "Start"
+msgstr "మొదలు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_DOWN\n"
+"toolboxitem.text"
+msgid "End"
+msgstr "సమాప్తం"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_ZOOMOUT\n"
+"toolboxitem.text"
+msgid "Contents"
+msgstr "నిక్షిప్తాలు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_CHANGEROOT\n"
+"toolboxitem.text"
+msgid "Toggle"
+msgstr "మార్పు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_SCENARIOS\n"
+"toolboxitem.text"
+msgid "Scenarios"
+msgstr "దృశ్య విభాగములు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_DROPMODE\n"
+"toolboxitem.text"
+msgid "Drag Mode"
+msgstr "డ్రాగ్ విధం"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_DRAGMODE\n"
+"string.text"
+msgid "Drag Mode"
+msgstr "డ్రాగ్ విధం"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_DISPLAY\n"
+"string.text"
+msgid "Display"
+msgstr "ప్రదర్శించు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_ACTIVE\n"
+"string.text"
+msgid "active"
+msgstr "క్రియాశీల "
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_NOTACTIVE\n"
+"string.text"
+msgid "inactive"
+msgstr "క్రియాహీనము"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_HIDDEN\n"
+"string.text"
+msgid "hidden"
+msgstr "దాగియున్న"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_ACTIVEWIN\n"
+"string.text"
+msgid "Active Window"
+msgstr "క్రియాశీల విండో"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_QHLP_SCEN_LISTBOX\n"
+"string.text"
+msgid "Scenario Name"
+msgstr "దృశ్య పేరు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_QHLP_SCEN_COMMENT\n"
+"string.text"
+msgid "Comment"
+msgstr "వ్యాఖ్య"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"window.text"
+msgid "Navigator"
+msgstr "విహరించునది"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_ROOT\n"
+"string.text"
+msgid "Contents"
+msgstr "నిక్షిప్తాలు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_TABLE\n"
+"string.text"
+msgid "Sheets"
+msgstr "పుటలు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_RANGENAME\n"
+"string.text"
+msgid "Range names"
+msgstr "శ్రేణి పేరులు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_DBAREA\n"
+"string.text"
+msgid "Database ranges"
+msgstr "దత్తాంశస్థాన శ్రేణులు "
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_GRAPHIC\n"
+"string.text"
+msgid "Images"
+msgstr ""
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_OLEOBJECT\n"
+"string.text"
+msgid "OLE objects"
+msgstr "OLE  ఆబ్జక్టు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_NOTE\n"
+"string.text"
+msgid "Comments"
+msgstr "వ్యాఖ్యలు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_AREALINK\n"
+"string.text"
+msgid "Linked areas"
+msgstr " లింకు చేసిన స్థలములు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_DRAWING\n"
+"string.text"
+msgid "Drawing objects"
+msgstr "చిత్రలేఖన ఆబ్జక్టులు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_DROPMODE\n"
+"RID_DROPMODE_URL\n"
+"menuitem.text"
+msgid "Insert as Hyperlink"
+msgstr "హైపర్లింక్  వలె చొప్పించు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_DROPMODE\n"
+"RID_DROPMODE_LINK\n"
+"menuitem.text"
+msgid "Insert as Link"
+msgstr "లింకు వలె చొప్పించు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_DROPMODE\n"
+"RID_DROPMODE_COPY\n"
+"menuitem.text"
+msgid "Insert as Copy"
+msgstr "నకలు వలె చొప్పించు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_NAVIPI_SCENARIO\n"
+"RID_NAVIPI_SCENARIO_DELETE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "తీసివేయు"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_NAVIPI_SCENARIO\n"
+"RID_NAVIPI_SCENARIO_EDIT\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr "లక్షణాలు..."

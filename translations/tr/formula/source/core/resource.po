@@ -1,0 +1,3353 @@
+#. extracted from formula/source/core/resource
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-02-09 18:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IF\n"
+"string.text"
+msgid "IF"
+msgstr "EĞER"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IF_ERROR\n"
+"string.text"
+msgid "IFERROR"
+msgstr "EĞERHATA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IF_NA\n"
+"string.text"
+msgid "IFNA"
+msgstr "EĞERYOKSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHOSE\n"
+"string.text"
+msgid "CHOOSE"
+msgstr "ELEMAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AND\n"
+"string.text"
+msgid "AND"
+msgstr "VE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_OR\n"
+"string.text"
+msgid "OR"
+msgstr "VEYA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_XOR\n"
+"string.text"
+msgid "XOR"
+msgstr "YADA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NOT\n"
+"string.text"
+msgid "NOT"
+msgstr "DEĞİL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NEG\n"
+"string.text"
+msgid "NEG"
+msgstr "NEG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PI\n"
+"string.text"
+msgid "PI"
+msgstr "Pİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANDOM\n"
+"string.text"
+msgid "RAND"
+msgstr "RASTGELE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRUE\n"
+"string.text"
+msgid "TRUE"
+msgstr "DOĞRU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FALSE\n"
+"string.text"
+msgid "FALSE"
+msgstr "YANLIŞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_ACT_DATE\n"
+"string.text"
+msgid "TODAY"
+msgstr "BUGÜN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_ACT_TIME\n"
+"string.text"
+msgid "NOW"
+msgstr "ŞİMDİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NO_VALUE\n"
+"string.text"
+msgid "NA"
+msgstr "YOKSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CURRENT\n"
+"string.text"
+msgid "CURRENT"
+msgstr "GEÇERLİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DEG\n"
+"string.text"
+msgid "DEGREES"
+msgstr "DERECE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RAD\n"
+"string.text"
+msgid "RADIANS"
+msgstr "RADYAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SIN\n"
+"string.text"
+msgid "SIN"
+msgstr "SİN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COS\n"
+"string.text"
+msgid "COS"
+msgstr "COS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TAN\n"
+"string.text"
+msgid "TAN"
+msgstr "TAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COT\n"
+"string.text"
+msgid "COT"
+msgstr "COT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_SIN\n"
+"string.text"
+msgid "ASIN"
+msgstr "ASIN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COS\n"
+"string.text"
+msgid "ACOS"
+msgstr "ACOS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_TAN\n"
+"string.text"
+msgid "ATAN"
+msgstr "ATAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COT\n"
+"string.text"
+msgid "ACOT"
+msgstr "ACOT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SIN_HYP\n"
+"string.text"
+msgid "SINH"
+msgstr "SINH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COS_HYP\n"
+"string.text"
+msgid "COSH"
+msgstr "COSH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TAN_HYP\n"
+"string.text"
+msgid "TANH"
+msgstr "TANH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COT_HYP\n"
+"string.text"
+msgid "COTH"
+msgstr "COTH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_SIN_HYP\n"
+"string.text"
+msgid "ASINH"
+msgstr "ASINH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COS_HYP\n"
+"string.text"
+msgid "ACOSH"
+msgstr "ACOSH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_TAN_HYP\n"
+"string.text"
+msgid "ATANH"
+msgstr "ATANH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_COT_HYP\n"
+"string.text"
+msgid "ACOTH"
+msgstr "ACOTH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COSECANT\n"
+"string.text"
+msgid "CSC"
+msgstr "CSC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SECANT\n"
+"string.text"
+msgid "SEC"
+msgstr "SEC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COSECANT_HYP\n"
+"string.text"
+msgid "CSCH"
+msgstr "CSCH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SECANT_HYP\n"
+"string.text"
+msgid "SECH"
+msgstr "SECH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXP\n"
+"string.text"
+msgid "EXP"
+msgstr "ÜS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LN\n"
+"string.text"
+msgid "LN"
+msgstr "LN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SQRT\n"
+"string.text"
+msgid "SQRT"
+msgstr "KAREKÖK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FACT\n"
+"string.text"
+msgid "FACT"
+msgstr "ÇARPINIM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_YEAR\n"
+"string.text"
+msgid "YEAR"
+msgstr "YIL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_MONTH\n"
+"string.text"
+msgid "MONTH"
+msgstr "AY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DAY\n"
+"string.text"
+msgid "DAY"
+msgstr "GÜN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_HOUR\n"
+"string.text"
+msgid "HOUR"
+msgstr "SAAT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_MIN\n"
+"string.text"
+msgid "MINUTE"
+msgstr "DAKİKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_SEC\n"
+"string.text"
+msgid "SECOND"
+msgstr "SANİYE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PLUS_MINUS\n"
+"string.text"
+msgid "SIGN"
+msgstr "İŞARET"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ABS\n"
+"string.text"
+msgid "ABS"
+msgstr "MUTLAK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INT\n"
+"string.text"
+msgid "INT"
+msgstr "TAMSAYI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PHI\n"
+"string.text"
+msgid "PHI"
+msgstr "PHI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAUSS\n"
+"string.text"
+msgid "GAUSS"
+msgstr "GAUSS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_EMPTY\n"
+"string.text"
+msgid "ISBLANK"
+msgstr "EBOŞSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_STRING\n"
+"string.text"
+msgid "ISTEXT"
+msgstr "EMETİNSE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_NON_STRING\n"
+"string.text"
+msgid "ISNONTEXT"
+msgstr "EMETİNDEĞİLSE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_LOGICAL\n"
+"string.text"
+msgid "ISLOGICAL"
+msgstr "EMANTIKSALSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TYPE\n"
+"string.text"
+msgid "TYPE"
+msgstr "TÜR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CELL\n"
+"string.text"
+msgid "CELL"
+msgstr "HÜCRE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_REF\n"
+"string.text"
+msgid "ISREF"
+msgstr "EREFSE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_VALUE\n"
+"string.text"
+msgid "ISNUMBER"
+msgstr "ESAYIYSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_FORMULA\n"
+"string.text"
+msgid "ISFORMULA"
+msgstr "EFORMÜLSE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_NV\n"
+"string.text"
+msgid "ISNA"
+msgstr "EYOKSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_ERR\n"
+"string.text"
+msgid "ISERR"
+msgstr "EHATA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_ERROR\n"
+"string.text"
+msgid "ISERROR"
+msgstr "EHATALIYSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_EVEN\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "ÇİFTMİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IS_ODD\n"
+"string.text"
+msgid "ISODD"
+msgstr "TEKMİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_N\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DATE_VALUE\n"
+"string.text"
+msgid "DATEVALUE"
+msgstr "TARİHSAYISI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_TIME_VALUE\n"
+"string.text"
+msgid "TIMEVALUE"
+msgstr "ZAMANSAYISI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CODE\n"
+"string.text"
+msgid "CODE"
+msgstr "KOD"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRIM\n"
+"string.text"
+msgid "TRIM"
+msgstr "KIRP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_UPPER\n"
+"string.text"
+msgid "UPPER"
+msgstr "BÜYÜKHARF"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PROPPER\n"
+"string.text"
+msgid "PROPER"
+msgstr "YAZIM.DÜZENİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOWER\n"
+"string.text"
+msgid "LOWER"
+msgstr "KÜÇÜKHARF"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LEN\n"
+"string.text"
+msgid "LEN"
+msgstr "UZUNLUK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T\n"
+"string.text"
+msgid "T"
+msgstr "T"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VALUE\n"
+"string.text"
+msgid "VALUE"
+msgstr "SAYIYAÇEVİR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CLEAN\n"
+"string.text"
+msgid "CLEAN"
+msgstr "TEMİZ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHAR\n"
+"string.text"
+msgid "CHAR"
+msgstr "DAMGA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_JIS\n"
+"string.text"
+msgid "JIS"
+msgstr "JIS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ASC\n"
+"string.text"
+msgid "ASC"
+msgstr "ASC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_UNICODE\n"
+"string.text"
+msgid "UNICODE"
+msgstr "UNICODE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_UNICHAR\n"
+"string.text"
+msgid "UNICHAR"
+msgstr "UNICHAR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG10\n"
+"string.text"
+msgid "LOG10"
+msgstr "LOG10"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EVEN\n"
+"string.text"
+msgid "EVEN"
+msgstr "ÇİFT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ODD\n"
+"string.text"
+msgid "ODD"
+msgstr "TEK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STD_NORM_DIST\n"
+"string.text"
+msgid "NORMSDIST"
+msgstr "NORMSDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STD_NORM_DIST_MS\n"
+"string.text"
+msgid "NORM.S.DIST"
+msgstr "NORM.S.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FISHER\n"
+"string.text"
+msgid "FISHER"
+msgstr "FISHER"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FISHER_INV\n"
+"string.text"
+msgid "FISHERINV"
+msgstr "FISHERTERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_S_NORM_INV\n"
+"string.text"
+msgid "NORMSINV"
+msgstr "NORMSTERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_S_NORM_INV_MS\n"
+"string.text"
+msgid "NORM.S.INV"
+msgstr "NORM.S.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_LN\n"
+"string.text"
+msgid "GAMMALN"
+msgstr "GAMALN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_LN_MS\n"
+"string.text"
+msgid "GAMMALN.PRECISE"
+msgstr "GAMALN.DUYARLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_TYPE\n"
+"string.text"
+msgid "ERRORTYPE"
+msgstr "HATA.TİPİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FORMULA\n"
+"string.text"
+msgid "FORMULA"
+msgstr "FORMÜL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARABIC\n"
+"string.text"
+msgid "ARABIC"
+msgstr "ARAPÇA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ARC_TAN_2\n"
+"string.text"
+msgid "ATAN2"
+msgstr "ATAN2"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CEIL\n"
+"string.text"
+msgid "CEILING"
+msgstr "TAVANAYUVARLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CEIL_MS\n"
+"string.text"
+msgid "CEILING.PRECISE"
+msgstr "TAVANAYUVARLA.DUYARLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CEIL_ISO\n"
+"string.text"
+msgid "ISO.CEILING"
+msgstr "ISO.TAVAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FLOOR_MS\n"
+"string.text"
+msgid "FLOOR.PRECISE"
+msgstr "TABANAYUVARLA.DUYARLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FLOOR\n"
+"string.text"
+msgid "FLOOR"
+msgstr "TABANAYUVARLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROUND\n"
+"string.text"
+msgid "ROUND"
+msgstr "YUVARLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROUND_UP\n"
+"string.text"
+msgid "ROUNDUP"
+msgstr "YUKARIYUVARLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROUND_DOWN\n"
+"string.text"
+msgid "ROUNDDOWN"
+msgstr "AŞAĞIYUVARLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRUNC\n"
+"string.text"
+msgid "TRUNC"
+msgstr "NSAT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG\n"
+"string.text"
+msgid "LOG"
+msgstr "LOG"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_POWER\n"
+"string.text"
+msgid "POWER"
+msgstr "KUVVET"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GGT\n"
+"string.text"
+msgid "GCD"
+msgstr "OBEB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KGV\n"
+"string.text"
+msgid "LCM"
+msgstr "OKEK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MOD\n"
+"string.text"
+msgid "MOD"
+msgstr "MOD"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_PRODUCT\n"
+"string.text"
+msgid "SUMPRODUCT"
+msgstr "TOPLA.ÇARPIM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_SQ\n"
+"string.text"
+msgid "SUMSQ"
+msgstr "TOPKARE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_X2MY2\n"
+"string.text"
+msgid "SUMX2MY2"
+msgstr "TOPX2EY2"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_X2DY2\n"
+"string.text"
+msgid "SUMX2PY2"
+msgstr "TOPX2AY2"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_XMY2\n"
+"string.text"
+msgid "SUMXMY2"
+msgstr "TOPXEY2"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DATE\n"
+"string.text"
+msgid "DATE"
+msgstr "TARİH"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_TIME\n"
+"string.text"
+msgid "TIME"
+msgstr "ZAMAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DIFF_DATE\n"
+"string.text"
+msgid "DAYS"
+msgstr "GÜNLER"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DIFF_DATE_360\n"
+"string.text"
+msgid "DAYS360"
+msgstr "GÜN360"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DATEDIF\n"
+"string.text"
+msgid "DATEDIF"
+msgstr "TARIHFARKI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIN\n"
+"string.text"
+msgid "MIN"
+msgstr "MİN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIN_A\n"
+"string.text"
+msgid "MINA"
+msgstr "MİNA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAX\n"
+"string.text"
+msgid "MAX"
+msgstr "MAK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAX_A\n"
+"string.text"
+msgid "MAXA"
+msgstr "MAKA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM\n"
+"string.text"
+msgid "SUM"
+msgstr "TOPLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PRODUCT\n"
+"string.text"
+msgid "PRODUCT"
+msgstr "ÇARPIM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE\n"
+"string.text"
+msgid "AVERAGE"
+msgstr "ORTALAMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_A\n"
+"string.text"
+msgid "AVERAGEA"
+msgstr "ORTALAMAA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT\n"
+"string.text"
+msgid "COUNT"
+msgstr "BAĞ_DEĞ_SAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_2\n"
+"string.text"
+msgid "COUNTA"
+msgstr "BAĞ_DEĞ_DOLU_SAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NBW\n"
+"string.text"
+msgid "NPV"
+msgstr "NBD"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_IKV\n"
+"string.text"
+msgid "IRR"
+msgstr "İÇ_VERİM_ORANI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIRR\n"
+"string.text"
+msgid "MIRR"
+msgstr "D_İÇ_VERİM_ORANI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ISPMT\n"
+"string.text"
+msgid "ISPMT"
+msgstr "EDEVRESELDÖNEMSE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR\n"
+"string.text"
+msgid "VAR"
+msgstr "VAR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_A\n"
+"string.text"
+msgid "VARA"
+msgstr "VARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_P\n"
+"string.text"
+msgid "VARP"
+msgstr "VARS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_P_A\n"
+"string.text"
+msgid "VARPA"
+msgstr "VARSA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_P_MS\n"
+"string.text"
+msgid "VAR.P"
+msgstr "VAR.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VAR_S\n"
+"string.text"
+msgid "VAR.S"
+msgstr "VAR.S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV\n"
+"string.text"
+msgid "STDEV"
+msgstr "STDSAPMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_A\n"
+"string.text"
+msgid "STDEVA"
+msgstr "STDSAPMAA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_P\n"
+"string.text"
+msgid "STDEVP"
+msgstr "STDSAPMAS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_P_A\n"
+"string.text"
+msgid "STDEVPA"
+msgstr "STDSAPMASA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_P_MS\n"
+"string.text"
+msgid "STDEV.P"
+msgstr "STDSAPMA.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ST_DEV_S\n"
+"string.text"
+msgid "STDEV.S"
+msgstr "STDSAPMA.S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_B\n"
+"string.text"
+msgid "B"
+msgstr "B"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_DIST\n"
+"string.text"
+msgid "NORMDIST"
+msgstr "NORMDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_DIST_MS\n"
+"string.text"
+msgid "NORM.DIST"
+msgstr "NORM.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXP_DIST\n"
+"string.text"
+msgid "EXPONDIST"
+msgstr "ÜSTELDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXP_DIST_MS\n"
+"string.text"
+msgid "EXPON.DIST"
+msgstr "ÜSTEL.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BINOM_DIST\n"
+"string.text"
+msgid "BINOMDIST"
+msgstr "BİNOMDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BINOM_DIST_MS\n"
+"string.text"
+msgid "BINOM.DIST"
+msgstr "BİNOM.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_POISSON_DIST\n"
+"string.text"
+msgid "POISSON"
+msgstr "POISSON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_POISSON_DIST_MS\n"
+"string.text"
+msgid "POISSON.DIST"
+msgstr "POİSSON.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KOMBIN\n"
+"string.text"
+msgid "COMBIN"
+msgstr "KOMBİNASYON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KOMBIN_2\n"
+"string.text"
+msgid "COMBINA"
+msgstr "KOMBİNASYONA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VARIATIONEN\n"
+"string.text"
+msgid "PERMUT"
+msgstr "PERMÜTASYON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VARIATIONEN_2\n"
+"string.text"
+msgid "PERMUTATIONA"
+msgstr "PERMÜTASYONA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BW\n"
+"string.text"
+msgid "PV"
+msgstr "BD"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DIA\n"
+"string.text"
+msgid "SYD"
+msgstr "YAT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GDA\n"
+"string.text"
+msgid "DDB"
+msgstr "ÇİFTAZALANBAKİYE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GDA_2\n"
+"string.text"
+msgid "DB"
+msgstr "AZALANBAKİYE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_VBD\n"
+"string.text"
+msgid "VDB"
+msgstr "DAB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LAUFZ\n"
+"string.text"
+msgid "DURATION"
+msgstr "SÜRE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LIA\n"
+"string.text"
+msgid "SLN"
+msgstr "DA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RMZ\n"
+"string.text"
+msgid "PMT"
+msgstr "DEVRESEL_ÖDEME"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COLUMNS\n"
+"string.text"
+msgid "COLUMNS"
+msgstr "SÜTUNSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROWS\n"
+"string.text"
+msgid "ROWS"
+msgstr "SATIRSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TABLES\n"
+"string.text"
+msgid "SHEETS"
+msgstr "ÇALIŞMA_SAYFALARI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COLUMN\n"
+"string.text"
+msgid "COLUMN"
+msgstr "SÜTUN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROW\n"
+"string.text"
+msgid "ROW"
+msgstr "SATIR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TABLE\n"
+"string.text"
+msgid "SHEET"
+msgstr "ÇALIŞMA_SAYFASI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZGZ\n"
+"string.text"
+msgid "RRI"
+msgstr "GERÇEKLEŞENYATIRIMGETİRİSİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZW\n"
+"string.text"
+msgid "FV"
+msgstr "GD"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZZR\n"
+"string.text"
+msgid "NPER"
+msgstr "TAKSİT_SAYISI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZINS\n"
+"string.text"
+msgid "RATE"
+msgstr "FAİZ_ORANI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ZINS_Z\n"
+"string.text"
+msgid "IPMT"
+msgstr "FAİZTUTARI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KAPZ\n"
+"string.text"
+msgid "PPMT"
+msgstr "ANA_PARA_ÖDEMESİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KUM_ZINS_Z\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "TOPÖDENENFAİZ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KUM_KAP_Z\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "TOPANAPARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EFFEKTIV\n"
+"string.text"
+msgid "EFFECTIVE"
+msgstr "EFEKTİF"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NOMINAL\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "NOMİNAL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUB_TOTAL\n"
+"string.text"
+msgid "SUBTOTAL"
+msgstr "ALTTOPLAM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_SUM\n"
+"string.text"
+msgid "DSUM"
+msgstr "VSEÇTOPLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_COUNT\n"
+"string.text"
+msgid "DCOUNT"
+msgstr "VSEÇSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_COUNT_2\n"
+"string.text"
+msgid "DCOUNTA"
+msgstr "VSEÇSAYDOLU"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_AVERAGE\n"
+"string.text"
+msgid "DAVERAGE"
+msgstr "VSEÇORT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_GET\n"
+"string.text"
+msgid "DGET"
+msgstr "VAL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_MAX\n"
+"string.text"
+msgid "DMAX"
+msgstr "VSEÇMAK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_MIN\n"
+"string.text"
+msgid "DMIN"
+msgstr "VSEÇMİN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_PRODUCT\n"
+"string.text"
+msgid "DPRODUCT"
+msgstr "VSEÇÇARP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_STD_DEV\n"
+"string.text"
+msgid "DSTDEV"
+msgstr "VSEÇSTDSAPMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_STD_DEV_P\n"
+"string.text"
+msgid "DSTDEVP"
+msgstr "VSEÇSTDSAPMAS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_VAR\n"
+"string.text"
+msgid "DVAR"
+msgstr "VSEÇVAR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DB_VAR_P\n"
+"string.text"
+msgid "DVARP"
+msgstr "VSEÇVARS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INDIRECT\n"
+"string.text"
+msgid "INDIRECT"
+msgstr "DOLAYLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ADDRESS\n"
+"string.text"
+msgid "ADDRESS"
+msgstr "ADRES"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MATCH\n"
+"string.text"
+msgid "MATCH"
+msgstr "KAÇINCI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_EMPTY_CELLS\n"
+"string.text"
+msgid "COUNTBLANK"
+msgstr "BOŞLUKSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_IF\n"
+"string.text"
+msgid "COUNTIF"
+msgstr "EĞERSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_IF\n"
+"string.text"
+msgid "SUMIF"
+msgstr "ETOPLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_IF\n"
+"string.text"
+msgid "AVERAGEIF"
+msgstr "EĞERORTALAMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_IFS\n"
+"string.text"
+msgid "SUMIFS"
+msgstr "ÇOKETOPLA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_IFS\n"
+"string.text"
+msgid "AVERAGEIFS"
+msgstr "ÇOKEĞERORTALAMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_IFS\n"
+"string.text"
+msgid "COUNTIFS"
+msgstr "ÇOKEĞERSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOOKUP\n"
+"string.text"
+msgid "LOOKUP"
+msgstr "ARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_V_LOOKUP\n"
+"string.text"
+msgid "VLOOKUP"
+msgstr "DÜŞEYARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_H_LOOKUP\n"
+"string.text"
+msgid "HLOOKUP"
+msgstr "YATAYARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MULTI_AREA\n"
+"string.text"
+msgid "MULTIRANGE"
+msgstr "ÇOKLU_ARALIK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_OFFSET\n"
+"string.text"
+msgid "OFFSET"
+msgstr "KAYDIR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INDEX\n"
+"string.text"
+msgid "INDEX"
+msgstr "İNDİS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AREAS\n"
+"string.text"
+msgid "AREAS"
+msgstr "ALANSAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CURRENCY\n"
+"string.text"
+msgid "DOLLAR"
+msgstr "LİRA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_REPLACE\n"
+"string.text"
+msgid "REPLACE"
+msgstr "DEĞİŞTİR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FIXED\n"
+"string.text"
+msgid "FIXED"
+msgstr "SAYIDÜZENLE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FIND\n"
+"string.text"
+msgid "FIND"
+msgstr "BUL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EXACT\n"
+"string.text"
+msgid "EXACT"
+msgstr "ÖZDEŞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LEFT\n"
+"string.text"
+msgid "LEFT"
+msgstr "SOLDAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RIGHT\n"
+"string.text"
+msgid "RIGHT"
+msgstr "SAĞDAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SEARCH\n"
+"string.text"
+msgid "SEARCH"
+msgstr "MBUL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MID\n"
+"string.text"
+msgid "MID"
+msgstr "PARÇAAL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MIDB\n"
+"string.text"
+msgid "MIDB"
+msgstr "ORTAB"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TEXT\n"
+"string.text"
+msgid "TEXT"
+msgstr "METNEÇEVİR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUBSTITUTE\n"
+"string.text"
+msgid "SUBSTITUTE"
+msgstr "YERİNEKOY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_REPT\n"
+"string.text"
+msgid "REPT"
+msgstr "YİNELE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONCAT\n"
+"string.text"
+msgid "CONCATENATE"
+msgstr "BİRLEŞTİR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_VALUE\n"
+"string.text"
+msgid "MVALUE"
+msgstr "MDEĞERİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_DET\n"
+"string.text"
+msgid "MDETERM"
+msgstr "DETERMİNANT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_INV\n"
+"string.text"
+msgid "MINVERSE"
+msgstr "DİZEY_TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_MULT\n"
+"string.text"
+msgid "MMULT"
+msgstr "DÇARP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MAT_TRANS\n"
+"string.text"
+msgid "TRANSPOSE"
+msgstr "DEVRİK_DÖNÜŞÜM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MATRIX_UNIT\n"
+"string.text"
+msgid "MUNIT"
+msgstr "MBİRİM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BACK_SOLVER\n"
+"string.text"
+msgid "GOALSEEK"
+msgstr "HEDEFARA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HYP_GEOM_DIST\n"
+"string.text"
+msgid "HYPGEOMDIST"
+msgstr "HİPERGEOMDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HYP_GEOM_DIST_MS\n"
+"string.text"
+msgid "HYPGEOM.DIST"
+msgstr "HİPERGEOM.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_NORM_DIST\n"
+"string.text"
+msgid "LOGNORMDIST"
+msgstr "LOGNORMDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_NORM_DIST_MS\n"
+"string.text"
+msgid "LOGNORM.DIST"
+msgstr "LOGNORM.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST\n"
+"string.text"
+msgid "TDIST"
+msgstr "TDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST_2T\n"
+"string.text"
+msgid "T.DIST.2T"
+msgstr "T.DAĞ.2T"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST_MS\n"
+"string.text"
+msgid "T.DIST"
+msgstr "T.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_DIST_RT\n"
+"string.text"
+msgid "T.DIST.RT"
+msgstr "T.DAĞ.SAĞK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_DIST\n"
+"string.text"
+msgid "FDIST"
+msgstr "FDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_DIST_LT\n"
+"string.text"
+msgid "F.DIST"
+msgstr "F.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_DIST_RT\n"
+"string.text"
+msgid "F.DIST.RT"
+msgstr "F.DAĞ.SAĞK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_DIST\n"
+"string.text"
+msgid "CHIDIST"
+msgstr "KİKAREDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_DIST_MS\n"
+"string.text"
+msgid "CHISQ.DIST.RT"
+msgstr "KİKARE.DAĞ.SAĞK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEIBULL\n"
+"string.text"
+msgid "WEIBULL"
+msgstr "WEIBULL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEIBULL_MS\n"
+"string.text"
+msgid "WEIBULL.DIST"
+msgstr "WEIBULL.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NEG_BINOM_VERT\n"
+"string.text"
+msgid "NEGBINOMDIST"
+msgstr "NEGBİNOMDAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NEG_BINOM_DIST_MS\n"
+"string.text"
+msgid "NEGBINOM.DIST"
+msgstr "NEGBİNOM.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KRIT_BINOM\n"
+"string.text"
+msgid "CRITBINOM"
+msgstr "KRİTİKBİNOM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BINOM_INV\n"
+"string.text"
+msgid "BINOM.INV"
+msgstr "BİNOM.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_KURT\n"
+"string.text"
+msgid "KURT"
+msgstr "BASIKLIK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HAR_MEAN\n"
+"string.text"
+msgid "HARMEAN"
+msgstr "HARORT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GEO_MEAN\n"
+"string.text"
+msgid "GEOMEAN"
+msgstr "GEOORT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STANDARD\n"
+"string.text"
+msgid "STANDARDIZE"
+msgstr "STANDARTLAŞTIRMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVE_DEV\n"
+"string.text"
+msgid "AVEDEV"
+msgstr "ORTSAP"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SCHIEFE\n"
+"string.text"
+msgid "SKEW"
+msgstr "ÇARPIKLIK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SKEWP\n"
+"string.text"
+msgid "SKEWP"
+msgstr "ÇARPIKLIK.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DEV_SQ\n"
+"string.text"
+msgid "DEVSQ"
+msgstr "SAPKARE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MEDIAN\n"
+"string.text"
+msgid "MEDIAN"
+msgstr "ORTANCA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MODAL_VALUE\n"
+"string.text"
+msgid "MODE"
+msgstr "ENÇOK_OLAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MODAL_VALUE_MS\n"
+"string.text"
+msgid "MODE.SNGL"
+msgstr "ENÇOK_OLAN.TEK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_MODAL_VALUE_MULTI\n"
+"string.text"
+msgid "MODE.MULT"
+msgstr "ENÇOK_OLAN.ÇOK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_Z_TEST\n"
+"string.text"
+msgid "ZTEST"
+msgstr "ZTEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_Z_TEST_MS\n"
+"string.text"
+msgid "Z.TEST"
+msgstr "Z.TEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AGGREGATE\n"
+"string.text"
+msgid "AGGREGATE"
+msgstr "AGGREGATE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_TEST\n"
+"string.text"
+msgid "TTEST"
+msgstr "TTEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_TEST_MS\n"
+"string.text"
+msgid "T.TEST"
+msgstr "T.TEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANK\n"
+"string.text"
+msgid "RANK"
+msgstr "RANK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENTILE\n"
+"string.text"
+msgid "PERCENTILE"
+msgstr "YÜZDEBİRLİK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENT_RANK\n"
+"string.text"
+msgid "PERCENTRANK"
+msgstr "YÜZDESIRA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENTILE_INC\n"
+"string.text"
+msgid "PERCENTILE.INC"
+msgstr "YÜZDEBİRLİK.DHL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENT_RANK_INC\n"
+"string.text"
+msgid "PERCENTRANK.INC"
+msgstr "YÜZDERANK.DHL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_QUARTILE_INC\n"
+"string.text"
+msgid "QUARTILE.INC"
+msgstr "DÖRTTEBİRLİK.DHL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANK_EQ\n"
+"string.text"
+msgid "RANK.EQ"
+msgstr "RANK.EŞİT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENTILE_EXC\n"
+"string.text"
+msgid "PERCENTILE.EXC"
+msgstr "YÜZDEBİRLİK.HRC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PERCENT_RANK_EXC\n"
+"string.text"
+msgid "PERCENTRANK.EXC"
+msgstr "YÜZDERANK.HRC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_QUARTILE_EXC\n"
+"string.text"
+msgid "QUARTILE.EXC"
+msgstr "DÖRTTEBİRLİK.HRC"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RANK_AVG\n"
+"string.text"
+msgid "RANK.AVG"
+msgstr "RANK.ORT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LARGE\n"
+"string.text"
+msgid "LARGE"
+msgstr "BÜYÜK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SMALL\n"
+"string.text"
+msgid "SMALL"
+msgstr "KÜÇÜK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FREQUENCY\n"
+"string.text"
+msgid "FREQUENCY"
+msgstr "SIKLIK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_QUARTILE\n"
+"string.text"
+msgid "QUARTILE"
+msgstr "DÖRTTEBİRLİK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_INV\n"
+"string.text"
+msgid "NORMINV"
+msgstr "NORMTERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NORM_INV_MS\n"
+"string.text"
+msgid "NORM.INV"
+msgstr "NORM.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONFIDENCE\n"
+"string.text"
+msgid "CONFIDENCE"
+msgstr "GÜVENİRLİK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONFIDENCE_N\n"
+"string.text"
+msgid "CONFIDENCE.NORM"
+msgstr "GÜVENİLİRLİK.NORM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONFIDENCE_T\n"
+"string.text"
+msgid "CONFIDENCE.T"
+msgstr "GÜVENİLİRLİK.T"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_TEST\n"
+"string.text"
+msgid "FTEST"
+msgstr "FTEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_TEST_MS\n"
+"string.text"
+msgid "F.TEST"
+msgstr "F.TEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TRIM_MEAN\n"
+"string.text"
+msgid "TRIMMEAN"
+msgstr "KIRPORTALAMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PROB\n"
+"string.text"
+msgid "PROB"
+msgstr "OLASILIK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CORREL\n"
+"string.text"
+msgid "CORREL"
+msgstr "KORELASYON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COVAR\n"
+"string.text"
+msgid "COVAR"
+msgstr "KOVARYANS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COVARIANCE_P\n"
+"string.text"
+msgid "COVARIANCE.P"
+msgstr "KOVARYANS.P"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COVARIANCE_S\n"
+"string.text"
+msgid "COVARIANCE.S"
+msgstr "KOVARYANS.S"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_PEARSON\n"
+"string.text"
+msgid "PEARSON"
+msgstr "PEARSON"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RSQ\n"
+"string.text"
+msgid "RSQ"
+msgstr "RKARE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STEYX\n"
+"string.text"
+msgid "STEYX"
+msgstr "STHYX"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SLOPE\n"
+"string.text"
+msgid "SLOPE"
+msgstr "EĞİM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INTERCEPT\n"
+"string.text"
+msgid "INTERCEPT"
+msgstr "KESMENOKTASI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TREND\n"
+"string.text"
+msgid "TREND"
+msgstr "EĞİLİM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GROWTH\n"
+"string.text"
+msgid "GROWTH"
+msgstr "BÜYÜME"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RGP\n"
+"string.text"
+msgid "LINEST"
+msgstr "DOT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_RKP\n"
+"string.text"
+msgid "LOGEST"
+msgstr "LOT"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FORECAST\n"
+"string.text"
+msgid "FORECAST"
+msgstr "TAHMİN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_INV\n"
+"string.text"
+msgid "CHIINV"
+msgstr "KİKARETERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_INV_MS\n"
+"string.text"
+msgid "CHISQ.INV.RT"
+msgstr "KİKARE.TERS.SAĞK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_DIST\n"
+"string.text"
+msgid "GAMMADIST"
+msgstr "GAMADAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_DIST_MS\n"
+"string.text"
+msgid "GAMMA.DIST"
+msgstr "GAMA.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_INV\n"
+"string.text"
+msgid "GAMMAINV"
+msgstr "GAMATERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA_INV_MS\n"
+"string.text"
+msgid "GAMMA.INV"
+msgstr "GAMA.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_INV\n"
+"string.text"
+msgid "TINV"
+msgstr "TTERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_INV_2T\n"
+"string.text"
+msgid "T.INV.2T"
+msgstr "T.TERS.SAĞK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_T_INV_MS\n"
+"string.text"
+msgid "T.INV"
+msgstr "T.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_INV\n"
+"string.text"
+msgid "FINV"
+msgstr "FTERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_INV_LT\n"
+"string.text"
+msgid "F.INV"
+msgstr "F.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_F_INV_RT\n"
+"string.text"
+msgid "F.INV.RT"
+msgstr "F.TERS.SAĞK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_TEST\n"
+"string.text"
+msgid "CHITEST"
+msgstr "KİKARETEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHI_TEST_MS\n"
+"string.text"
+msgid "CHISQ.TEST"
+msgstr "KİKARE.TEST"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_INV\n"
+"string.text"
+msgid "LOGINV"
+msgstr "LOGTERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_LOG_INV_MS\n"
+"string.text"
+msgid "LOGNORM.INV"
+msgstr "LOGNORM.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_TABLE_OP\n"
+"string.text"
+msgid "MULTIPLE.OPERATIONS"
+msgstr "ÇOKLU.İŞLEMLER"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_DIST\n"
+"string.text"
+msgid "BETADIST"
+msgstr "BETADAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_INV\n"
+"string.text"
+msgid "BETAINV"
+msgstr "BETATERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_DIST_MS\n"
+"string.text"
+msgid "BETA.DIST"
+msgstr "BETA.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BETA_INV_MS\n"
+"string.text"
+msgid "BETA.INV"
+msgstr "BETA.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEEK\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "HAFTASAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EASTERSUNDAY\n"
+"string.text"
+msgid "EASTERSUNDAY"
+msgstr "EASTERSUNDAY"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_DAY_OF_WEEK\n"
+"string.text"
+msgid "WEEKDAY"
+msgstr "HAFTANINGÜNÜ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NETWORKDAYS_MS\n"
+"string.text"
+msgid "NETWORKDAYS.INTL"
+msgstr "TAMİŞGÜNÜ.ULUSL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WORKDAY_MS\n"
+"string.text"
+msgid "WORKDAY.INTL"
+msgstr "İŞGÜNÜ.ULUSL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NO_NAME\n"
+"string.text"
+msgid "#NAME!"
+msgstr "#AD!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_STYLE\n"
+"string.text"
+msgid "STYLE"
+msgstr "BİÇEM"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DDE\n"
+"string.text"
+msgid "DDE"
+msgstr "DDE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BASE\n"
+"string.text"
+msgid "BASE"
+msgstr "TABAN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_DECIMAL\n"
+"string.text"
+msgid "DECIMAL"
+msgstr "ONDALIK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CONVERT\n"
+"string.text"
+msgid "CONVERT"
+msgstr "DÖNÜŞTÜR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ROMAN\n"
+"string.text"
+msgid "ROMAN"
+msgstr "ROMEN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_HYPERLINK\n"
+"string.text"
+msgid "HYPERLINK"
+msgstr "KÖPRÜ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_INFO\n"
+"string.text"
+msgid "INFO"
+msgstr "BİLGİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BAHTTEXT\n"
+"string.text"
+msgid "BAHTTEXT"
+msgstr "BAHTMETİN"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GET_PIVOT_DATA\n"
+"string.text"
+msgid "GETPIVOTDATA"
+msgstr "ÖZETVERİAL"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_EUROCONVERT\n"
+"string.text"
+msgid "EUROCONVERT"
+msgstr "AVRODÖNÜŞTÜR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_NUMBERVALUE\n"
+"string.text"
+msgid "NUMBERVALUE"
+msgstr "SAYIDEĞERİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_GAMMA\n"
+"string.text"
+msgid "GAMMA"
+msgstr "GAMA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHISQ_DIST_MS\n"
+"string.text"
+msgid "CHISQ.DIST"
+msgstr "KİKARE.DAĞ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_CHISQ_INV_MS\n"
+"string.text"
+msgid "CHISQ.INV"
+msgstr "KİKARE.TERS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITAND\n"
+"string.text"
+msgid "BITAND"
+msgstr "BİTVE"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITOR\n"
+"string.text"
+msgid "BITOR"
+msgstr "BİTVEYA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITXOR\n"
+"string.text"
+msgid "BITXOR"
+msgstr "BİTÖZELVEYA"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITRSHIFT\n"
+"string.text"
+msgid "BITRSHIFT"
+msgstr "BİTSAĞAKAYDIR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_BITLSHIFT\n"
+"string.text"
+msgid "BITLSHIFT"
+msgstr "BİTSOLAKAYDIR"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NULL\n"
+"string.text"
+msgid "#NULL!"
+msgstr "#BOŞ!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_DIVZERO\n"
+"string.text"
+msgid "#DIV/0!"
+msgstr "#SAYI/0!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_VALUE\n"
+"string.text"
+msgid "#VALUE!"
+msgstr "#DEĞER!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_REF\n"
+"string.text"
+msgid "#REF!"
+msgstr "#BAŞV!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NAME\n"
+"string.text"
+msgid "#NAME?"
+msgstr "#AD?"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NUM\n"
+"string.text"
+msgid "#NUM!"
+msgstr "#SAYI!"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERROR_NA\n"
+"string.text"
+msgid "#N/A"
+msgstr "#YOK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_FILTERXML\n"
+"string.text"
+msgid "FILTERXML"
+msgstr "FILTERXML"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COLOR\n"
+"string.text"
+msgid "COLOR"
+msgstr "RENK"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_WEBSERVICE\n"
+"string.text"
+msgid "WEBSERVICE"
+msgstr "WEBHİZMETİ"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERF_MS\n"
+"string.text"
+msgid "ERF.PRECISE"
+msgstr "HATAİŞLEV.DUYARLI"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_ERFC_MS\n"
+"string.text"
+msgid "ERFC.PRECISE"
+msgstr "TÜMHATAİŞLEV.DUYARLI"

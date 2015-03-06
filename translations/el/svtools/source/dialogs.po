@@ -1,0 +1,1213 @@
+#. extracted from svtools/source/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-12-02 09:22+0300\n"
+"Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
+"Language-Team: team@lists.gnome.gr\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1357246724.0\n"
+"X-Project-Style: openoffice\n"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_NO_FIELD_SELECTION\n"
+"string.text"
+msgid "<none>"
+msgstr "<κανένα>"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_COMPANY\n"
+"string.text"
+msgid "Company"
+msgstr "Εταιρία"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_DEPARTMENT\n"
+"string.text"
+msgid "Department"
+msgstr "Τμήμα"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_FIRSTNAME\n"
+"string.text"
+msgid "First name"
+msgstr "Όνομα"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_LASTNAME\n"
+"string.text"
+msgid "Last name"
+msgstr "Επώνυμο"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_STREET\n"
+"string.text"
+msgid "Street"
+msgstr "Οδός"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_COUNTRY\n"
+"string.text"
+msgid "Country"
+msgstr "Χώρα"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_ZIPCODE\n"
+"string.text"
+msgid "ZIP Code"
+msgstr "Τ.Κ."
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_CITY\n"
+"string.text"
+msgid "City"
+msgstr "Πόλη"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Τίτλος"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_POSITION\n"
+"string.text"
+msgid "Position"
+msgstr "Θέση"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_ADDRFORM\n"
+"string.text"
+msgid "Addr. Form"
+msgstr "Προσφώνηση"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_INITIALS\n"
+"string.text"
+msgid "Initials"
+msgstr "Αρχικά"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_SALUTATION\n"
+"string.text"
+msgid "Complimentary close"
+msgstr "Προσφώνηση τέλους"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_HOMETEL\n"
+"string.text"
+msgid "Tel: Home"
+msgstr "Τηλέφωνο κατοικίας"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_WORKTEL\n"
+"string.text"
+msgid "Tel: Work"
+msgstr "Τηλέφωνο εργασίας"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_FAX\n"
+"string.text"
+msgid "FAX"
+msgstr "ΦΑΞ"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "Ηλεκτρονική διεύθυνση"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_NOTE\n"
+"string.text"
+msgid "Note"
+msgstr "Σημείωση"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER1\n"
+"string.text"
+msgid "User 1"
+msgstr "Χρήστης 1"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER2\n"
+"string.text"
+msgid "User 2"
+msgstr "Χρήστης 2"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER3\n"
+"string.text"
+msgid "User 3"
+msgstr "Χρήστης 3"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_USER4\n"
+"string.text"
+msgid "User 4"
+msgstr "Χρήστης 4"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_ID\n"
+"string.text"
+msgid "ID"
+msgstr "Αναγνωριστικό"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_STATE\n"
+"string.text"
+msgid "State"
+msgstr "Νομός"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_OFFICETEL\n"
+"string.text"
+msgid "Tel: Office"
+msgstr "Τηλέφωνο γραφείου"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_PAGER\n"
+"string.text"
+msgid "Pager"
+msgstr "Βομβητής"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_MOBILE\n"
+"string.text"
+msgid "Mobile"
+msgstr "Κινητό"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_TELOTHER\n"
+"string.text"
+msgid "Tel: Other"
+msgstr "Διάφορα τηλέφωνα"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_CALENDAR\n"
+"string.text"
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#: addresstemplate.src
+msgctxt ""
+"addresstemplate.src\n"
+"STR_FIELD_INVITE\n"
+"string.text"
+msgid "Invite"
+msgstr "Πρόσκληση"
+
+#: filedlg2.src
+msgctxt ""
+"filedlg2.src\n"
+"STR_FILEDLG_OPEN\n"
+"string.text"
+msgid "Open"
+msgstr "Άνοιγμα"
+
+#: filedlg2.src
+msgctxt ""
+"filedlg2.src\n"
+"STR_FILEDLG_TYPE\n"
+"string.text"
+msgid "File ~type"
+msgstr "Τύ~πος αρχείου"
+
+#: filedlg2.src
+msgctxt ""
+"filedlg2.src\n"
+"STR_FILEDLG_SAVE\n"
+"string.text"
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_STRING\n"
+"string.text"
+msgid "Unformatted text"
+msgstr "Αμορφοποίητο κείμενο"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_BITMAP\n"
+"string.text"
+msgid "Bitmap"
+msgstr "Ψηφιογραφία"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_GDIMETAFILE\n"
+"string.text"
+msgid "GDI metafile"
+msgstr "Μετααρχείο GDI"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_RTF\n"
+"string.text"
+msgid "Formatted text [RTF]"
+msgstr "Μορφοποιημένο κείμενο [RTF]"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DRAWING\n"
+"string.text"
+msgid "Drawing format"
+msgstr "Μορφή σχεδίασης"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SVXB\n"
+"string.text"
+msgid "SVXB (StarView bitmap/animation)"
+msgstr "SVXB (StarView ψηφιογραφία/κίνηση)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_INTERNALLINK_STATE\n"
+"string.text"
+msgid "Status Info from Svx Internal Link"
+msgstr "Πληροφορίες κατάστασης από εσωτερική σύνδεση Svx"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SOLK\n"
+"string.text"
+msgid "SOLK (%PRODUCTNAME Link)"
+msgstr "SOLK (σύνδεσμος του %PRODUCTNAME)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_NETSCAPE_BOOKMARK\n"
+"string.text"
+msgid "Netscape Bookmark"
+msgstr "Σελιδοδείκτης του Netscape"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARSERVER\n"
+"string.text"
+msgid "Star server format"
+msgstr "Μορφή εξυπηρετητή star"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STAROBJECT\n"
+"string.text"
+msgid "Star object format"
+msgstr "Μορφή αντικειμένου star"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_APPLETOBJECT\n"
+"string.text"
+msgid "Applet object"
+msgstr "Αντικείμενο μικροεφαρμογής"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_PLUGIN_OBJECT\n"
+"string.text"
+msgid "Plug-in object"
+msgstr "Αντικείμενο πρόσθετου"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_30\n"
+"string.text"
+msgid "StarWriter 3.0 object"
+msgstr "Αντικείμενο του StarWriter 3.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_40\n"
+"string.text"
+msgid "StarWriter 4.0 object"
+msgstr "Αντικείμενο του StarWriter 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_50\n"
+"string.text"
+msgid "StarWriter 5.0 object"
+msgstr "Αντικείμενο του StarWriter 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERWEB_40\n"
+"string.text"
+msgid "StarWriter/Web 4.0 object"
+msgstr "Αντικείμενο του StarWriter/Web 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERWEB_50\n"
+"string.text"
+msgid "StarWriter/Web 5.0 object"
+msgstr "Αντικείμενο του StarWriter/Web 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERGLOB_40\n"
+"string.text"
+msgid "StarWriter/Master 4.0 object"
+msgstr "Αντικείμενο του StarWriter/Master 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERGLOB_50\n"
+"string.text"
+msgid "StarWriter/Master 5.0 object"
+msgstr "Αντικείμενο του StarWriter/Master 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW\n"
+"string.text"
+msgid "StarDraw object"
+msgstr "Αντικείμενο του StarDraw"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW_40\n"
+"string.text"
+msgid "StarDraw 4.0 object"
+msgstr "Αντικείμενο του StarDraw 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMPRESS_50\n"
+"string.text"
+msgid "StarImpress 5.0 object"
+msgstr "Αντικείμενο του StarImpress 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW_50\n"
+"string.text"
+msgid "StarDraw 5.0 object"
+msgstr "Αντικείμενο του StarDraw 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC\n"
+"string.text"
+msgid "StarCalc object"
+msgstr "Αντικείμενο του StarCalc"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC_40\n"
+"string.text"
+msgid "StarCalc  4.0 object"
+msgstr "Αντικείμενο του StarCalc  4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC_50\n"
+"string.text"
+msgid "StarCalc 5.0 object"
+msgstr "Αντικείμενο του StarCalc 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART\n"
+"string.text"
+msgid "StarChart object"
+msgstr "Αντικείμενο του StarChart"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART_40\n"
+"string.text"
+msgid "StarChart 4.0 object"
+msgstr "Αντικείμενο του StarChart 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART_50\n"
+"string.text"
+msgid "StarChart 5.0 object"
+msgstr "Αντικείμενο του StarChart 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMAGE\n"
+"string.text"
+msgid "StarImage object"
+msgstr "Αντικείμενο του StarImage"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMAGE_40\n"
+"string.text"
+msgid "StarImage 4.0 object"
+msgstr "Αντικείμενο του StarImage 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMAGE_50\n"
+"string.text"
+msgid "StarImage 5.0 object"
+msgstr "Αντικείμενο του StarImage 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH\n"
+"string.text"
+msgid "StarMath object"
+msgstr "Αντικείμενο του StarMath"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH_40\n"
+"string.text"
+msgid "StarMath 4.0 object"
+msgstr "Αντικείμενο του StarMath 4.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH_50\n"
+"string.text"
+msgid "StarMath 5.0 object"
+msgstr "Αντικείμενο του StarMath 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STAROBJECT_PAINTDOC\n"
+"string.text"
+msgid "StarObject Paint object"
+msgstr "Αντικείμενο του StarObject Paint"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_HTML\n"
+"string.text"
+msgid "HTML (HyperText Markup Language)"
+msgstr "HTML (HyperText Markup Language)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_HTML_SIMPLE\n"
+"string.text"
+msgid "HTML format"
+msgstr "Μορφή HTML"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_BIFF_5\n"
+"string.text"
+msgid "Biff5 (Microsoft Excel 5.0/95)"
+msgstr "Biff 5(Microsoft Excel 5.0/95)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_BIFF_8\n"
+"string.text"
+msgid "Biff8 (Microsoft Excel 97/2000/XP/2003)"
+msgstr "Biff8 (Microsoft Excel 97/2000/XP/2003)"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SYLK\n"
+"string.text"
+msgid "Sylk"
+msgstr "Sylk"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_LINK\n"
+"string.text"
+msgid "DDE link"
+msgstr "Σύνδεσμος DDE"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DIF\n"
+"string.text"
+msgid "DIF"
+msgstr "DIF"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_MSWORD_DOC\n"
+"string.text"
+msgid "Microsoft Word object"
+msgstr "Αντικείμενο του Microsoft Word"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STAR_FRAMESET_DOC\n"
+"string.text"
+msgid "StarFrameSet object"
+msgstr "Αντικείμενο του StarFrameSet"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_OFFICE_DOC\n"
+"string.text"
+msgid "Office document object"
+msgstr "Αντικείμενο εγγράφου του Office"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_NOTES_DOCINFO\n"
+"string.text"
+msgid "Notes document info"
+msgstr "Πληροφορίες εγγράφου σημειώσεων"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_SFX_DOC\n"
+"string.text"
+msgid "Sfx document"
+msgstr "Έγγραφο Sfx"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHARTDOCUMENT_50\n"
+"string.text"
+msgid "StarChart 5.0 object"
+msgstr "Αντικείμενο του StarChart 5.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_GRAPHOBJ\n"
+"string.text"
+msgid "Graphic object"
+msgstr "Αντικείμενο γραφικού"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITER_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Writer object"
+msgstr "Αντικείμενο Writer OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERWEB_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Writer/Web object"
+msgstr "Writer OpenOffice.org 1.0/αντικείμενο ιστού"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARWRITERGLOB_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Writer/Master object"
+msgstr "Writer OpenOffice.org 1.0/κύριο αντικείμενο"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARDRAW_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Draw object"
+msgstr "Αντικείμενο Draw OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARIMPRESS_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Impress object"
+msgstr "Αντικείμενο Impress OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCALC_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Calc object"
+msgstr "Αντικείμενο Calc OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARCHART_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Chart object"
+msgstr "Αντικείμενο Chart OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_STARMATH_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 Math object"
+msgstr "Αντικείμενο Math OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_WMF\n"
+"string.text"
+msgid "Windows metafile"
+msgstr "Μετααρχείο των Windows"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DBACCESS_QUERY\n"
+"string.text"
+msgid "Data source object"
+msgstr "Προέλευση δεδομένων αντικειμένου"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DBACCESS_TABLE\n"
+"string.text"
+msgid "Data source table"
+msgstr "Πίνακας προέλευσης δεδομένων"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DBACCESS_COMMAND\n"
+"string.text"
+msgid "SQL query"
+msgstr "Ερώτημα SQL"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_DIALOG_60\n"
+"string.text"
+msgid "OpenOffice.org 1.0 dialog"
+msgstr "Διάλογος OpenOffice.org 1.0"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_FILEGRPDESCRIPTOR\n"
+"string.text"
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: formats.src
+msgctxt ""
+"formats.src\n"
+"STR_FORMAT_ID_HTML_NO_COMMENT\n"
+"string.text"
+msgid "HTML format without comments"
+msgstr "Μορφοποίηση HTML χωρίς σχόλια"
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_GENERALERROR&S_MAX\n"
+"string.text"
+msgid "General OLE error."
+msgstr "Γενικό σφάλμα του OLE."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_CANT_BINDTOSOURCE&S_MAX\n"
+"string.text"
+msgid "The connection to the object cannot be established."
+msgstr "Αδύνατη η σύνδεση με το αντικείμενο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOCACHE_UPDATED&S_MAX\n"
+"string.text"
+msgid "No cache files were updated."
+msgstr "Δεν ενημερώθηκαν τα αρχεία της κρυφής μνήμης."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_SOMECACHES_NOTUPDATED&S_MAX\n"
+"string.text"
+msgid "Some cache files were not updated."
+msgstr "Δεν ενημερώθηκαν μερικά αρχεία της κρυφής μνήμης."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_UNAVAILABLE&S_MAX\n"
+"string.text"
+msgid "Status of object cannot be determined in a timely manner."
+msgstr "Αδυναμία προσδιορισμού της κατάστασης του αντικειμένου χρονικά."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_E_CLASSDIFF&S_MAX\n"
+"string.text"
+msgid "Source of the OLE link has been converted."
+msgstr "Η προέλευσης της σύνδεσης OLE μετατράπηκε."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_OBJECT&S_MAX\n"
+"string.text"
+msgid "The object could not be found."
+msgstr "Το αντικείμενο δεν βρέθηκε."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_EXCEEDED_DEADLINE&S_MAX\n"
+"string.text"
+msgid "The process could not be completed within the specified time period."
+msgstr "Αδύνατη η ολοκλήρωση της διεργασίας στο δεδομένο χρόνο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_CONNECT_MANUALLY&S_MAX\n"
+"string.text"
+msgid "OLE could not connect to a network device (server)."
+msgstr "Αδύνατη η σύνδεση του OLE με μια δικτυακή συσκευή (εξυπηρετητής)."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_INTERMEDIATE_INTERFACE_NOT_SUPPORTED&S_MAX\n"
+"string.text"
+msgid "The object found does not support the interface required for the desired operation."
+msgstr "Το αντικείμενο που βρέθηκε δεν υποστηρίζει την απαιτούμενη διεπαφή για την επιθυμητή λειτουργία."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NO_INTERFACE&S_MAX\n"
+"string.text"
+msgid "Interface not supported."
+msgstr "Η διεπαφή δεν υποστηρίζεται."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_OUT_OF_MEMORY&S_MAX\n"
+"string.text"
+msgid "Insufficient memory."
+msgstr "Ανεπαρκής μνήμη."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_SYNTAX&S_MAX\n"
+"string.text"
+msgid "The connection name could not be processed."
+msgstr "Αδυναμία επεξεργασίας του ονόματος σύνδεσης."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_REDUCED_TO_SELF&S_MAX\n"
+"string.text"
+msgid "The connection name could not be reduced further."
+msgstr "Αδυναμία επιπλέον μείωσης του ονόματος σύνδεσης."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_INVERSE&S_MAX\n"
+"string.text"
+msgid "The connection name has no inverse."
+msgstr "Το όνομα σύνδεσης δεν έχει αντίστροφο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_PREFIX&S_MAX\n"
+"string.text"
+msgid "No common prefix exists."
+msgstr "Δεν υπάρχει κοινό πρόθεμα."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_HIM&S_MAX\n"
+"string.text"
+msgid "The connection name is contained in the other one."
+msgstr "Το όνομα σύνδεσης περιέχεται στο άλλο όνομα."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_US&S_MAX\n"
+"string.text"
+msgid "The connection names (the receiver and the other moniker) are identical."
+msgstr "Τα ονόματα συνδέσεων (ο δέκτης και το άλλο ψευδώνυμο) είναι ίδια."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_ME&S_MAX\n"
+"string.text"
+msgid "The connection name is contained in the other one."
+msgstr "Το όνομα σύνδεσης περιέχεται στο άλλο όνομα."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NOT_BINDABLE&S_MAX\n"
+"string.text"
+msgid "The connection name cannot be connected. This is a relative name."
+msgstr "Αδύνατη η σύνδεση του ονόματος σύνδεσης. Πρόκειται για σχετικό όνομα."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOT_IMPLEMENTED&S_MAX\n"
+"string.text"
+msgid "Operation not implemented."
+msgstr "Η λειτουργία δεν έχει υλοποιηθεί ακόμη."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NO_STORAGE&S_MAX\n"
+"string.text"
+msgid "No storage."
+msgstr "Δεν υπάρχει αποθηκευτικός χώρος."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_FALSE&S_MAX\n"
+"string.text"
+msgid "False."
+msgstr "Ψευδής."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_NEED_GENERIC&S_MAX\n"
+"string.text"
+msgid "Monikers must be composed generically."
+msgstr "Τα ψευδώνυμα πρέπει να συντίθενται γενικά."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_PENDING&S_MAX\n"
+"string.text"
+msgid "Data not available at this time."
+msgstr "Τα δεδομένα δεν είναι διαθέσιμα προς το παρόν."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOT_INPLACEACTIVE & S_MAX\n"
+"string.text"
+msgid "Object could not be activated InPlace."
+msgstr "Το αντικείμενο δεν μπόρεσε να ενεργοποιηθεί επιτόπια."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_LINDEX & S_MAX\n"
+"string.text"
+msgid "Invalid index."
+msgstr "Άκυρο ευρετήριο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_CANNOT_DOVERB_NOW & S_MAX\n"
+"string.text"
+msgid "The action cannot be executed in the object's current state."
+msgstr "Στην τρέχουσα κατάσταση είναι αδύνατη η εκτέλεση της ενέργειας από το αντικείμενο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_OLEOBJ_INVALIDHWND & S_MAX\n"
+"string.text"
+msgid "An invalid window was passed when activated."
+msgstr "Κατά την ενεργοποίηση μεταδόθηκε ένα άκυρο παράθυρο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOVERBS & S_MAX\n"
+"string.text"
+msgid "The object does not support any actions."
+msgstr "Το αντικείμενο δεν υποστηρίζει καμιά ενέργεια."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_INVALIDVERB & S_MAX\n"
+"string.text"
+msgid "The action is not defined. The default action will be executed."
+msgstr "Η ενέργεια αυτή δεν έχει οριστεί. Θα εκτελεστεί η προεπιλεγμένη ενέργεια."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_CONNECT & S_MAX\n"
+"string.text"
+msgid "A link to the network could not be re-established."
+msgstr "Αδύνατη η επαναφορά μιας σύνδεσης στο δίκτυο."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_NOTIMPL & S_MAX\n"
+"string.text"
+msgid "Object does not support this action."
+msgstr "Το αντικείμενο δεν υποστηρίζει αυτήν την ενέργεια."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERROR_HANDLER\n"
+"ERRCODE_SO_MK_CANTOPENFILE & S_MAX\n"
+"string.text"
+msgid "The specified file could not be opened."
+msgstr "Αδυναμία ανοίγματος αυτού του αρχείου."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"RID_SO_ERRCTX\n"
+"ERRCTX_SO_DOVERB\n"
+"string.text"
+msgid "$(ERR) activating object"
+msgstr "$(ERR) κατά την ενεργοποίηση του αντικειμένου"
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_ERROR_OBJNOCREATE\n"
+"string.text"
+msgid "Object % could not be inserted."
+msgstr "Αδυναμία εισαγωγής του αντικειμένου %."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_ERROR_OBJNOCREATE_FROM_FILE\n"
+"string.text"
+msgid "Object from file % could not be inserted."
+msgstr "Αδυναμία προσθήκης του αντικειμένου από το αρχείο %."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_ERROR_OBJNOCREATE_PLUGIN\n"
+"string.text"
+msgid "Plug-in from document % could not be inserted."
+msgstr "Αδυναμία εισαγωγής του πρόσθετου από το έγγραφο %."
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_FURTHER_OBJECT\n"
+"string.text"
+msgid "Further objects"
+msgstr "Επιπλέον αντικείμενα"
+
+#: so3res.src
+msgctxt ""
+"so3res.src\n"
+"STR_UNKNOWN_SOURCE\n"
+"string.text"
+msgid "Unknown source"
+msgstr "Άγνωστη προέλευση"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "Τέ~λος"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_NEXT\n"
+"string.text"
+msgid "~Next >>"
+msgstr "Επόμε~νο >>"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_PREVIOUS\n"
+"string.text"
+msgid "<< Bac~k"
+msgstr "<< Πί~σω"
+
+#: wizardmachine.src
+msgctxt ""
+"wizardmachine.src\n"
+"STR_WIZDLG_ROADMAP_TITLE\n"
+"string.text"
+msgid "Steps"
+msgstr "Βήματα"

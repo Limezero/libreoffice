@@ -1,0 +1,876 @@
+#. extracted from sfx2/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2012-12-26 10:23+0000\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356517389.0\n"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_RESET\n"
+"string.text"
+msgid "~Reset"
+msgstr "~ပြန်လည်စတင်ပါ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_APPLY\n"
+"string.text"
+msgid "Apply"
+msgstr "အသုံးချပါ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDNAME\n"
+"string.text"
+msgid "This name is already in use."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDSTYLE\n"
+"string.text"
+msgid "This Style does not exist."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_TABPAGE_INVALIDPARENT\n"
+"string.text"
+msgid ""
+"This Style cannot be used as a base Style,\n"
+"because it would result in a recursive reference."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_POOL_STYLE_NAME\n"
+"string.text"
+msgid ""
+"Name already exists as a default Style.\n"
+"Please choose another name."
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE_USED\n"
+"string.text"
+msgid ""
+"One or more of the selected styles is in use in this document.\n"
+"If you delete these styles, text will revert to the parent style.\n"
+"Do you still wish to delete these styles?\n"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_DELETE_STYLE\n"
+"string.text"
+msgid "Styles in use: "
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_NEW\n"
+"menuitem.text"
+msgid "New..."
+msgstr "အသစ်..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_EDIT\n"
+"menuitem.text"
+msgid "Modify..."
+msgstr "အထူးပြုပါ..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_HIDE\n"
+"menuitem.text"
+msgid "Hide"
+msgstr "ခေတ္တဖျောက်ထားပါ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_SHOW\n"
+"menuitem.text"
+msgid "Show"
+msgstr "ပြပါ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"MN_CONTEXT_TEMPLDLG\n"
+"ID_DELETE\n"
+"menuitem.text"
+msgid "Delete..."
+msgstr "ဖျက်ပါ..."
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_NAVIGATOR\n"
+"string.text"
+msgid "Navigator"
+msgstr "လမ်းညွှန်ကိရိယာ"
+
+#: dialog.src
+#, fuzzy
+msgctxt ""
+"dialog.src\n"
+"SID_TASKPANE\n"
+"string.text"
+msgid "Task Pane"
+msgstr ""
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"အလုပ်နေရာ\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"လုပ်ငန်းပြနေရာ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"SID_SIDEBAR\n"
+"string.text"
+msgid "Sidebar"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_ERROR_WRONG_CONFIRM\n"
+"string.text"
+msgid "Faulty password confirmation"
+msgstr ""
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_PDF_EXPORT_SEND\n"
+"string.text"
+msgid "Send"
+msgstr "ပေးပို့ပါ"
+
+#: dialog.src
+msgctxt ""
+"dialog.src\n"
+"STR_FONT_TABPAGE\n"
+"string.text"
+msgid "Font"
+msgstr "ဖောင့်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_NEWOFFICEDOC\n"
+"string.text"
+msgid "%PRODUCTNAME document"
+msgstr "%PRODUCTNAME မှတ်တမ်းမှတ်ရာ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"combobox.quickhelptext"
+msgid "Property Name"
+msgstr "ဂုဏ်သတ္တိအမည်များ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Checked by\n"
+"stringlist.text"
+msgid "Checked by"
+msgstr "အနေဖြင့်စစ်ဆေးပါ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Client\n"
+"stringlist.text"
+msgid "Client"
+msgstr "အသုံးပြုသူ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Date completed\n"
+"stringlist.text"
+msgid "Date completed"
+msgstr "ပြီးပြည့်စုံသည့်ရက်စွဲ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Department\n"
+"stringlist.text"
+msgid "Department"
+msgstr "ဌာန"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Destinations\n"
+"stringlist.text"
+msgid "Destinations"
+msgstr "ရောက်ရှိရာနေရာ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Disposition\n"
+"stringlist.text"
+msgid "Disposition"
+msgstr "စီစဉ်ထားသည်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Division\n"
+"stringlist.text"
+msgid "Division"
+msgstr "ပိုင်းခြားမှု"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Document number\n"
+"stringlist.text"
+msgid "Document number"
+msgstr "မှတ်တမ်းမှတ်ရာနံပါတ်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Editor\n"
+"stringlist.text"
+msgid "Editor"
+msgstr "တည်းဖြတ်သူ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"E-Mail\n"
+"stringlist.text"
+msgid "E-Mail"
+msgstr "အီးမေးလ်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Forward to\n"
+"stringlist.text"
+msgid "Forward to"
+msgstr "ရှေ့သို့"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Group\n"
+"stringlist.text"
+msgid "Group"
+msgstr "အုပ်စု"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Info\n"
+"stringlist.text"
+msgid "Info"
+msgstr "သတင်းအချက်အလက်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Language\n"
+"stringlist.text"
+msgid "Language"
+msgstr "ဘာသာစကား"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Mailstop\n"
+"stringlist.text"
+msgid "Mailstop"
+msgstr "အီးမေးလ်ပို့မှုရပ်ပါ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Matter\n"
+"stringlist.text"
+msgid "Matter"
+msgstr "အကြောင်းကိစ္စ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Office\n"
+"stringlist.text"
+msgid "Office"
+msgstr "ရုံး"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Owner\n"
+"stringlist.text"
+msgid "Owner"
+msgstr "ပိုင်ရှင်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Project\n"
+"stringlist.text"
+msgid "Project"
+msgstr "ပရောဂျက်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Publisher\n"
+"stringlist.text"
+msgid "Publisher"
+msgstr "ထုတ်ဝေသူ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Purpose\n"
+"stringlist.text"
+msgid "Purpose"
+msgstr "ရည်ရွယ်ချက်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Received from\n"
+"stringlist.text"
+msgid "Received from"
+msgstr "မှ လက်ခံရရှိခဲ့သည်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded by\n"
+"stringlist.text"
+msgid "Recorded by"
+msgstr "အနေဖြင့် မှတ်တမ်းတင်ခဲ့သည်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Recorded date\n"
+"stringlist.text"
+msgid "Recorded date"
+msgstr "မှတ်တမ်းတင်သည့်နေ့စွဲ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Reference\n"
+"stringlist.text"
+msgid "Reference"
+msgstr "ရည်ညွှန်းချက်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Source\n"
+"stringlist.text"
+msgid "Source"
+msgstr "ရင်းမြစ်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Status\n"
+"stringlist.text"
+msgid "Status"
+msgstr "အခြေအနေ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Telephone number\n"
+"stringlist.text"
+msgid "Telephone number"
+msgstr "တယ်လီဖုန်းနံပါတ်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"Typist\n"
+"stringlist.text"
+msgid "Typist"
+msgstr "လက်နှိပ်စက်ရိုက်သူ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_CB_PROPERTY_NAME\n"
+"URL\n"
+"stringlist.text"
+msgid "URL"
+msgstr "URL"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Text\n"
+"stringlist.text"
+msgid "Text"
+msgstr "စာသား"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"DateTime\n"
+"stringlist.text"
+msgid "DateTime"
+msgstr "ရက်စွဲနှင့်အချိန်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Date\n"
+"stringlist.text"
+msgid "Date"
+msgstr "နေ့စွဲ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Duration\n"
+"stringlist.text"
+msgid "Duration"
+msgstr "အတောအတွင်း"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Number\n"
+"stringlist.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_LB_PROPERTY_TYPE\n"
+"Yes or no\n"
+"stringlist.text"
+msgid "Yes or no"
+msgstr "ဟုတ်သည် (သို့) မဟုတ်ပါ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_ST_DURATION_FORMAT\n"
+"string.text"
+msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
+msgstr ""
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_YES\n"
+"radiobutton.text"
+msgid "Yes"
+msgstr "ဟုတ်သည်"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_WIN_PROPERTY_YESNO\n"
+"RB_PROPERTY_NO\n"
+"radiobutton.text"
+msgid "No"
+msgstr "မဟုတ်ပါ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"SFX_PB_PROPERTY_REMOVE\n"
+"imagebutton.quickhelptext"
+msgid "Remove Property"
+msgstr "ဂုဏ်သတ္တိများဖယ်ရှားပါ"
+
+#: dinfdlg.src
+msgctxt ""
+"dinfdlg.src\n"
+"STR_SFX_QUERY_WRONG_TYPE\n"
+"string.text"
+msgid ""
+"The value entered does not match the specified type.\n"
+"The value will be stored as text."
+msgstr ""
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_FILEDLG_ACTUALVERSION\n"
+"string.text"
+msgid "Current version"
+msgstr "လက်ရှိဗားရှင်း"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_EXPORT\n"
+"string.text"
+msgid "Export"
+msgstr "တင်ပို့ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr "ထည့်သွင်းပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_EXPLORERFILE_BUTTONINSERT\n"
+"string.text"
+msgid "~Insert"
+msgstr "⁠~ထပ်ထည့်ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_SFX_IMPORT_ALL\n"
+"string.text"
+msgid "<All formats>"
+msgstr "<စီစဉ် ဖွဲ့စည်းမှု ပုံစံများ အားလုံး>"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_AUTO_EXTENSION\n"
+"string.text"
+msgid "~Automatic file name extension"
+msgstr "~အလိုအလျောက် ဖိုင်အမည် တိုးချဲ့မှု"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "⁠~လက်ရွေးစင်"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_INSERT_AS_LINK\n"
+"string.text"
+msgid "~Link"
+msgstr "~ချိတ်ဆက်မှု"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_SHOW_PREVIEW\n"
+"string.text"
+msgid "Pr~eview"
+msgstr "အစမ်းကြည့်ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_READONLY\n"
+"string.text"
+msgid "~Read-only"
+msgstr "~ဖတ်ရန်သာ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_PASSWORD\n"
+"string.text"
+msgid "Save with ~password"
+msgstr "စကားဝှက်နှင့်အတူ သိမ်းပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_CB_FILTER_OPTIONS\n"
+"string.text"
+msgid "Edit ~filter settings"
+msgstr "စစ်ထုတ်ကိရိယာ ပြင်ဆင်ချိန်ညှိမှုများ တည်းဖြတ်ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "⁠~လုပ်ဆောင်ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "ရပ်ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_OPEN\n"
+"string.text"
+msgid "~Open"
+msgstr "~ဖွင့်ပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVE\n"
+"string.text"
+msgid "~Save"
+msgstr "~သိမ်းပါ"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_PB_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy"
+msgstr ""
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_IMAGE_TEMPLATE\n"
+"string.text"
+msgid "Style:"
+msgstr "ပုံစံ-"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_TEMPLATES\n"
+"string.text"
+msgid "~Templates:"
+msgstr "~ပုံစံပြားများ -"
+
+#: filedlghelper.src
+msgctxt ""
+"filedlghelper.src\n"
+"STR_LB_VERSION\n"
+"string.text"
+msgid "~Version:"
+msgstr "~ဗားရှင်း-"
+
+#: newstyle.src
+msgctxt ""
+"newstyle.src\n"
+"STR_QUERY_OVERWRITE\n"
+"string.text"
+msgid "Style already exists. Overwrite?"
+msgstr ""
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_MACRO_LOSS\n"
+"string.text"
+msgid "Do you really want to cancel the recording? Any steps recorded up to this point will be lost."
+msgstr "မှတ်တမ်းတင်မှု ကို ရုတ်သိမ်းရန် အမှန်တကယ် ဆန္ဒရှိပါသလား။ အဆင့်အသီးသီးအတွက် မှတ်တမ်းတင်ထားမှုများ ပျောက်ဆုံးလိမ့်မည်။"
+
+#: recfloat.src
+msgctxt ""
+"recfloat.src\n"
+"STR_CANCEL_RECORDING\n"
+"string.text"
+msgid "Cancel Recording"
+msgstr "မှတ်တမ်းတင်မှု ရုတ်သိမ်းပါ"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_DOCK\n"
+"string.text"
+msgid "Dock"
+msgstr ""
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_UNDOCK\n"
+"string.text"
+msgid "Undock"
+msgstr ""
+
+#: taskpane.src
+#, fuzzy
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASK_PANE_VIEW\n"
+"string.text"
+msgid "View"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"မြင်ကွင်း\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"မြင်ကွင်း\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"မြင်ကွင်း\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"မြင်ကွင်း\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"မြင်ကွင်း\n"
+"#-#-#-#-#  framework.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ကြည့်ပါ"
+
+#: taskpane.src
+msgctxt ""
+"taskpane.src\n"
+"STR_SFX_TASKS\n"
+"string.text"
+msgid "Tasks"
+msgstr "အလုပ်များ"
+
+#: templdlg.src
+#, fuzzy
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_ELEMTLIST\n"
+"string.text"
+msgid "Style List"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ပုံစံများ\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ပုံစံများ\n"
+"#-#-#-#-#  customize.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"စတိုင်များ\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"စတိုင်လ်များ\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"စတိုင်လ်များ"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"STR_STYLE_FILTER_HIERARCHICAL\n"
+"string.text"
+msgid "Hierarchical"
+msgstr "အဆင့်လိုက်တည်ရှိမှု"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_WATERCAN\n"
+"toolboxitem.text"
+msgid "Fill Format Mode"
+msgstr "ဖိုင်စီစဉ်ဖွဲ့စည်းမှုပုံစံနည်းလမ်း"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_NEW_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "New Style from Selection"
+msgstr "ရွေးချယ်မှုမှပုံစံအသစ်"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER.TB_ACTION\n"
+"SID_STYLE_UPDATE_BY_EXAMPLE\n"
+"toolboxitem.text"
+msgid "Update Style"
+msgstr "နောက်ဆုံးပေါ်ပုံစံ"
+
+#: templdlg.src
+msgctxt ""
+"templdlg.src\n"
+"DLG_STYLE_DESIGNER\n"
+"dockingwindow.text"
+msgid "Styles and Formatting"
+msgstr "ပုံစံများနှင့်စီစဉ်ဖွဲ့စည်းမှုပုံစံများ"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"STR_VIEWVERSIONCOMMENT\n"
+"string.text"
+msgid "View Version Comment"
+msgstr "ဗားရှင်း ထင်မြင်သုံးသပ်ချက်များ ထည့်ပါ"
+
+#: versdlg.src
+msgctxt ""
+"versdlg.src\n"
+"STR_NO_NAME_SET\n"
+"string.text"
+msgid "(no name set)"
+msgstr ""

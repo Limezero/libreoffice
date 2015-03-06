@@ -1,0 +1,455 @@
+#. extracted from sw/source/ui/shells
+msgid ""
+msgstr ""
+"Project-Id-Version: shells\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-11-20 11:20+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1416482404.000000\n"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr "Ekki hægt að opna myndskrá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr "Ekki hægt að lesa myndskrá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr "Óþekkt myndskráarsnið"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr "Þessi útgáfa myndskráa er ekki studd"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr "Myndsía fannst ekki"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to insert the image."
+msgstr "Ekki er nægt minni til að geta sett inn mynd."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_INSERT_GRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr "Setja inn mynd"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_NO_ADDRESSBOOK\n"
+"string.text"
+msgid "An Address Book does not exist"
+msgstr "Ekki er til nein nafnaskrá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_COMMENT\n"
+"string.text"
+msgid "Comment: "
+msgstr "Athugasemd: "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_INSERTED\n"
+"string.text"
+msgid "Insertion"
+msgstr "Innsetning"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_DELETED\n"
+"string.text"
+msgid "Deletion"
+msgstr "Eytt"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_AUTOFMT\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Sjálfvirk leiðrétting"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FORMATED\n"
+"string.text"
+msgid "Formats"
+msgstr "Snið"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TABLECHG\n"
+"string.text"
+msgid "Table Changes"
+msgstr "Breytingar á töflu"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FMTCOLLSET\n"
+"string.text"
+msgid "Applied Paragraph Styles"
+msgstr "Málsgreinastílar sem hefur verið beitt"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TITLE\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Sjálfvirk leiðrétting"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_MSG\n"
+"string.text"
+msgid ""
+"AutoCorrect completed.\n"
+"You can accept or reject all changes,\n"
+"or accept or reject particular changes."
+msgstr ""
+"Sjálfvirkri leiðréttingu er lokið.\n"
+"Þú getur samþykkt eða hafnað öllum breytingum í einu,\n"
+"eða samþykkt eða hafnað einstökum breytingum."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_ACCEPT_ALL\n"
+"string.text"
+msgid "Accept All"
+msgstr "Samþykkja alla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_REJECT_ALL\n"
+"string.text"
+msgid "Reject All"
+msgstr "Hafna öllum"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_EDIT\n"
+"string.text"
+msgid "Edit Changes"
+msgstr "Sýsla með breytingar"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "Síða "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT\n"
+"string.text"
+msgid "Page %1 of %2"
+msgstr "Síða %1 af %2"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT_CUSTOM\n"
+"string.text"
+msgid "Page %1 of %2 (Page %3)"
+msgstr "Síða %1 af %2 (síða %3)"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "Textahlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table Object Bar"
+msgstr "Töfluhlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_FRAME_TOOLBOX\n"
+"string.text"
+msgid "Frame Object Bar"
+msgstr "Rammahlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_GRAFIK_TOOLBOX\n"
+"string.text"
+msgid "Images Object Bar"
+msgstr "Myndhlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_OLE_TOOLBOX\n"
+"string.text"
+msgid "Object"
+msgstr "Hlutur"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "Teiknihlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "Bézier-hlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar/Images"
+msgstr "Textahlutastika/Myndir"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_NUM_TOOLBOX\n"
+"string.text"
+msgid "Numbering Object Bar"
+msgstr "Tölusetningarhlutaslá"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Texti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tafla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Rammi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Mynd"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Hlutur"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_LIST\n"
+"string.text"
+msgid "List"
+msgstr "Listi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "Teikning"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAWFORM\n"
+"string.text"
+msgid "Forms"
+msgstr "Eyðublöð"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_BEZIER\n"
+"string.text"
+msgid "Bézier"
+msgstr "Bézier"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW_TEXT\n"
+"string.text"
+msgid "Draw text"
+msgstr "Teikna texta"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_MEDIA\n"
+"string.text"
+msgid "Media"
+msgstr "Gögn"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Uppbygging"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Málsgrein"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Mynd"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_OLE\n"
+"string.text"
+msgid "OLE object"
+msgstr "OLE hlutur"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Rammi"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tafla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_ROW\n"
+"string.text"
+msgid "Table row"
+msgstr "Töfluröð"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_CELL\n"
+"string.text"
+msgid "Table cell"
+msgstr "Töflureitur"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PAGE\n"
+"string.text"
+msgid "Page"
+msgstr "Síða"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_HEADER\n"
+"string.text"
+msgid "Header"
+msgstr "Haus"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FOOTER\n"
+"string.text"
+msgid "Footer"
+msgstr "Síðufótur"

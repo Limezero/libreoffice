@@ -1,0 +1,301 @@
+#. extracted from dbaccess/source/ui/browser
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-06 14:34+0200\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_BRW_DELETE_ROWS\n"
+"string.text"
+msgid "Do you want to delete the selected data?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_DATABROWSER_FILTERED\n"
+"string.text"
+msgid "(filtered)"
+msgstr "(निष्यन्दितम्)"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_ORDER\n"
+"string.text"
+msgid "Error setting the sort criteria"
+msgstr "क्रमणसिद्धान्त स्थापने त्रुटिः"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_FILTER\n"
+"string.text"
+msgid "Error setting the filter criteria"
+msgstr "निष्यन्दकसिद्धान्त स्थापने त्रुटिः"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_CONNECTION_LOST\n"
+"string.text"
+msgid "Connection lost"
+msgstr "संबन्धनं नष्टम्"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_QUERIES_CONTAINER\n"
+"string.text"
+msgid "Queries"
+msgstr "पृच्छाः"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_TABLES_CONTAINER\n"
+"string.text"
+msgid "Tables"
+msgstr "सारण्यः"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_EDIT_DATABASE\n"
+"#define.text"
+msgid "Edit ~Database File..."
+msgstr "लेखाधिकरणसञ्चिकाः संपादय..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_ADMINISTRATE\n"
+"#define.text"
+msgid "Registered databases ..."
+msgstr "पंजाकृतलेखाधिकरणानि..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_CLOSECONN\n"
+"#define.text"
+msgid "Disco~nnect"
+msgstr "विसंबन्धितम्"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_TITLE_CONFIRM_DELETION\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "लोपनं दृढं कुरु"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_DELETE_TABLE\n"
+"string.text"
+msgid "Do you want to delete the table '%1'?"
+msgstr "किं भवान् सारणीं '%1' लोपयितुमिच्छति ?"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_CONNECTION_LOST\n"
+"string.text"
+msgid "The connection to the database has been lost. Do you want to reconnect?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS\n"
+"string.text"
+msgid "Warnings encountered"
+msgstr "चेतावनी प्राप्ता"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS_DETAILS\n"
+"string.text"
+msgid "While retrieving the tables, warnings were reported by the database connection."
+msgstr "सारणीः उद्धरणकाले, लेखाधिकरणेन चेतावनीः प्रतिवेदिताः ।"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_CONNECTING_DATASOURCE\n"
+"string.text"
+msgid "Connecting to \"$name$\" ..."
+msgstr "\"$name$\" संबन्धनं करोति..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_QUERY\n"
+"string.text"
+msgid "Loading query $name$ ..."
+msgstr "$name$ पृच्छाम् आरोहयति ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_TABLE\n"
+"string.text"
+msgid "Loading table $name$ ..."
+msgstr "$name$ सारणीम् आरोहयति ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_NO_TABLE_FORMAT_INSIDE\n"
+"string.text"
+msgid "No table format could be found."
+msgstr "किमपि सारणीसंघटनं न प्राप्तम् ।"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_COULDNOTCONNECT_DATASOURCE\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "\"$name$\" लेखास्रोतसा संबम्धनं स्थापयितुं नाशक्यत ।"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_MENU_REFRESH_DATA\n"
+"ID_BROWSER_REFRESH_REBUILD\n"
+"menuitem.text"
+msgid "Rebuild"
+msgstr "पुनःनिर्माणम्"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLATTRSET\n"
+"menuitem.text"
+msgid "Column ~Format..."
+msgstr "स्तंभसंघटनम्..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLUMNINFO\n"
+"menuitem.text"
+msgid "Copy Column D~escription"
+msgstr "स्तंभविवरणम् अनुरूपय"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_TABLEATTR\n"
+"menuitem.text"
+msgid "Table Format..."
+msgstr "सारणीसंघटनम्..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_ROWHEIGHT\n"
+"menuitem.text"
+msgid "Row Height..."
+msgstr "पंक्त्युच्चता..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_UNDO_MODIFY_RECORD\n"
+"string.text"
+msgid "Undo: Data Input"
+msgstr "निष्कुरु: लेखानिवेशः"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_SAVE_CURRENT_RECORD\n"
+"string.text"
+msgid "Save current record"
+msgstr "वर्तमानमभिलेखं सञ्चय"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_QRY_TITLE\n"
+"string.text"
+msgid "Query #"
+msgstr "पृच्छा #"
+
+#: sbagrid.src
+#, fuzzy
+msgctxt ""
+"sbagrid.src\n"
+"STR_TBL_TITLE\n"
+"string.text"
+msgid "Table #"
+msgstr "सारणी #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_VIEW_TITLE\n"
+"string.text"
+msgid "View #"
+msgstr "दृश्यम् #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NAME_ALREADY_EXISTS\n"
+"string.text"
+msgid "The name \"#\" already exists."
+msgstr "नाम \"#\" पूर्वतः वर्तमानम् अस्ति ।"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NO_COLUMNNAME_MATCHING\n"
+"string.text"
+msgid "No matching column names were found."
+msgstr "किमपि तुल्यं स्तम्भनाम न प्राप्तम् ।"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_ERROR_OCCURRED_WHILE_COPYING\n"
+"string.text"
+msgid "An error occurred. Do you want to continue copying?"
+msgstr "एका त्रुटिः सञ्जाता । किं भवान् अनुरूपणम् अनुवर्तितुम् इच्छति ?"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_NAME\n"
+"string.text"
+msgid "Data source table view"
+msgstr "लेखास्रोतसारणीदृश्यम्"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_DESC\n"
+"string.text"
+msgid "Shows the selected table or query."
+msgstr "चयनितां सारणीं पृच्छां वा दर्शयति ।"

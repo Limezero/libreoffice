@@ -1,0 +1,385 @@
+#. extracted from scp2/source/extensions
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-12-07 22:03+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356521898.0\n"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS\n"
+"LngText.text"
+msgid "Extensions"
+msgstr "擴充套件"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS\n"
+"LngText.text"
+msgid "Useful %PRODUCTNAME extensions."
+msgstr "非常有用的 %PRODUCTNAME 擴充套件。"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI\n"
+"LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "MediaWiki 發布器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI\n"
+"LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "MediaWiki 發布器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT\n"
+"LngText.text"
+msgid "Numbertext"
+msgstr "表數文字"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT\n"
+"LngText.text"
+msgid "Provides the NUMBERTEXT/MONEYTEXT spreadsheet functions which convert numbers to localized text, e.g. '100' to 'hundred'."
+msgstr "提供表數文字/表幣文字的試算表函式，可將數字或幣值轉換為在地化的文字，例如「100」轉為「hundred」。"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_HUNART\n"
+"LngText.text"
+msgid "Hungarian cross-reference toolbar"
+msgstr "匈牙利文交叉索引工具列"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_HUNART\n"
+"LngText.text"
+msgid "Toolbar to add cross-references with automatic conditional Hungarian articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number combination in cross-references."
+msgstr "加入交叉索引用的工具列，有自動匈牙利文文章條件功能 (例如，*az* 5. ábra, *a* 6. ábra) 可以避免交叉索引中有不良的文章與數字組合。"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_TYPO\n"
+"LngText.text"
+msgid "Typography toolbar"
+msgstr "排版工具列"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_TYPO\n"
+"LngText.text"
+msgid "Toolbar for Graphite smart font features: ligatures, small caps, old style numbers, proportional or monospaced numbers, automatic thousand separators, minus sign, real superscript and subscript, German umlaut variants, fractions."
+msgstr "Graphite 智慧字型功能的工具列：連字、小寫、古風數字、比例或等寬數字、自動千位分隔符、負號、真正上標與下標、德文母音字母變體、分數等等。"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N\n"
+"LngText.text"
+msgid "Convert Text to Number"
+msgstr "將文字轉換為數字"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N\n"
+"LngText.text"
+msgid "Convert Text to Number"
+msgstr "將文字轉換為數字"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW\n"
+"LngText.text"
+msgid "Watch Window"
+msgstr "監看視窗"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW\n"
+"LngText.text"
+msgid "Watch Window"
+msgstr "監看視窗"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM\n"
+"LngText.text"
+msgid "Diagram"
+msgstr "圖表"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM\n"
+"LngText.text"
+msgid "Diagram"
+msgstr "圖表"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR\n"
+"LngText.text"
+msgid "Validator"
+msgstr "驗證器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR\n"
+"LngText.text"
+msgid "Validator"
+msgstr "驗證器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE\n"
+"LngText.text"
+msgid "Barcode"
+msgstr "條碼"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE\n"
+"LngText.text"
+msgid "Barcode"
+msgstr "條碼"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS\n"
+"LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "Google Docs 與 Zoho"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS\n"
+"LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "Google Docs 與 Zoho"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER\n"
+"LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "非線性程設求解器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER\n"
+"LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "非線性程設求解器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL\n"
+"LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "LanguageTool 開放源碼語言檢查器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL\n"
+"LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "LanguageTool 開放源碼語言檢查器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MARIADBC\n"
+"LngText.text"
+msgid "MySQL Connector"
+msgstr "MySQL 連接器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MARIADBC\n"
+"LngText.text"
+msgid "MySQL Connector"
+msgstr "MySQL 連接器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK\n"
+"LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "Sun 專業範本包"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK\n"
+"LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "Sun 專業範本包"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL\n"
+"LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "BeanShell 的指令稿提供器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL\n"
+"LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "BeanShell 的指令稿提供器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT\n"
+"LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "JavaScript 的指令稿提供器"
+
+#: module_extensions.ulf
+msgctxt ""
+"module_extensions.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT\n"
+"LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "JavaScript 的指令稿提供器"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_NAME_MODULE_LANGPACK_EN_US\n"
+"LngText.text"
+msgid "English"
+msgstr "英文"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_DESC_MODULE_LANGPACK_EN_US\n"
+"LngText.text"
+msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝英文支援"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_NAME_MODULE_LANGPACK_DE\n"
+"LngText.text"
+msgid "German"
+msgstr "德文"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_DESC_MODULE_LANGPACK_DE\n"
+"LngText.text"
+msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝德文支援"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_NAME_MODULE_LANGPACK_FR\n"
+"LngText.text"
+msgid "French"
+msgstr "法文"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_DESC_MODULE_LANGPACK_FR\n"
+"LngText.text"
+msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝法文支援"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_NAME_MODULE_LANGPACK_IT\n"
+"LngText.text"
+msgid "Italian"
+msgstr "義大利文"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_DESC_MODULE_LANGPACK_IT\n"
+"LngText.text"
+msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝義大利文支援"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_NAME_MODULE_LANGPACK_ES\n"
+"LngText.text"
+msgid "Spanish"
+msgstr "西班牙文"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_DESC_MODULE_LANGPACK_ES\n"
+"LngText.text"
+msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝西班牙文支援"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_NAME_MODULE_LANGPACK_HU\n"
+"LngText.text"
+msgid "Hungarian"
+msgstr "匈牙利文"
+
+#: module_extensions_sun_templates.ulf
+msgctxt ""
+"module_extensions_sun_templates.ulf\n"
+"STR_DESC_MODULE_LANGPACK_HU\n"
+"LngText.text"
+msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝匈牙利文支援"

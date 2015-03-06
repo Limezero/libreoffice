@@ -1,0 +1,255 @@
+#. extracted from svtools/source/contnr
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2012-11-20 19:17+0000\n"
+"Last-Translator: Olivier <olivier.hallot@documentfoundation.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353439047.0\n"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Título"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_SIZE\n"
+"string.text"
+msgid "Size"
+msgstr "Tamanho"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_DATE\n"
+"string.text"
+msgid "Date modified"
+msgstr "Data modificada"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_COLUMN_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "Tipo"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_FILEVIEW_ERR_MAKEFOLDER\n"
+"string.text"
+msgid "Could not create the folder %1."
+msgstr "Não foi possível criar a pasta %1."
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_BYTES\n"
+"string.text"
+msgid "Bytes"
+msgstr "Bytes"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_KB\n"
+"string.text"
+msgid "KB"
+msgstr "KB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_MB\n"
+"string.text"
+msgid "MB"
+msgstr "MB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"STR_SVT_GB\n"
+"string.text"
+msgid "GB"
+msgstr "GB"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Excluir"
+
+#: fileview.src
+msgctxt ""
+"fileview.src\n"
+"RID_FILEVIEW_CONTEXTMENU\n"
+"MID_FILEVIEW_RENAME\n"
+"menuitem.text"
+msgid "~Rename"
+msgstr "~Renomear"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_TABLISTBOX\n"
+"string.text"
+msgid "Row: %1, Column: %2"
+msgstr "Linha: %1, Coluna: %2"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILEVIEW\n"
+"string.text"
+msgid ", Type: %1, URL: %2"
+msgstr ", Tipo: %1, URL: %2"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FOLDER\n"
+"string.text"
+msgid "Folder"
+msgstr "Pasta"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_DESC_FILE\n"
+"string.text"
+msgid "File"
+msgstr "Arquivo"
+
+#: svcontnr.src
+msgctxt ""
+"svcontnr.src\n"
+"STR_SVT_ACC_EMPTY_FIELD\n"
+"string.text"
+msgid "Empty Field"
+msgstr "Campo vazio"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Title\n"
+"itemlist.text"
+msgid "Title"
+msgstr "Título"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"By\n"
+"itemlist.text"
+msgid "By"
+msgstr "Por"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Date\n"
+"itemlist.text"
+msgid "Date"
+msgstr "Data"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Keywords\n"
+"itemlist.text"
+msgid "Keywords"
+msgstr "Palavras-chave"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Description\n"
+"itemlist.text"
+msgid "Description"
+msgstr "Descrição"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Type\n"
+"itemlist.text"
+msgid "Type"
+msgstr "Tipo"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Modified on\n"
+"itemlist.text"
+msgid "Modified on"
+msgstr "Modificado em"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Modified by\n"
+"itemlist.text"
+msgid "Modified by"
+msgstr "Modificado por"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Printed on\n"
+"itemlist.text"
+msgid "Printed on"
+msgstr "Impresso em"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Printed by\n"
+"itemlist.text"
+msgid "Printed by"
+msgstr "Impresso por"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Subject\n"
+"itemlist.text"
+msgid "Subject"
+msgstr "Assunto"
+
+#: templwin.src
+msgctxt ""
+"templwin.src\n"
+"STRARY_SVT_DOCINFO\n"
+"Size\n"
+"itemlist.text"
+msgid "Size"
+msgstr "Tamanho"

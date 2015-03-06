@@ -1,0 +1,48 @@
+LibreOfficeKit
+**************
+
+LibreOfficeKit can be used for accessing LibreOffice functionality
+through C/C++, without any need to use UNO.
+
+For now it only offers document conversion (in addition to an experimental
+tiled rendering API).
+
+Integrating LOK into other software
+-----------------------------------
+
+LOK functionality can be accessed by including LibreOfficeKit.h[xx] in your
+program.
+
+LOK initialisation (lok_init) requires the inclusion of LibreOfficeKitInit.h
+in your program. Should you be using the C++ LibreOfficeKit.hxx header you
+must first include LibreOfficeKitInit.h followed by LibreOfficeKit.hxx in any
+files where you need to use lok_cpp_init.
+
+(LibreOfficeKit.hxx is a simple and fully inlined C++ wrapper for the same
+functionality as in LibreOfficeKit.h.)
+
+An example program (currently using the older shim.c/static library
+integration) can be seen on:
+https://github.com/ojwb/lloconv	
+
+Tiled Rendering
+---------------
+
+To use LOK Tiled Rendering you will need the following before the LOK includes:
+#define LOK_USE_UNSTABLE_API
+
+(This must be define before ANY LOK header, i.e. including the Init header.)
+
+Currently only bitmap-buffer rendering is supported, with a 32-bit RGBA
+colourspace (further alternatives could feasibly be implemented as needed).
+Scanlines are ordered top-down (whereas LibreOffice will internally default
+to bottom-up).
+
+LibreOfficeKitGtk
+*****************
+
+Currently consists of only a very basic GTK+ document viewer widget.
+
+Currently this simply renders the entire document as one large tile (for
+Writer) and/or entire sheet for Calc, which can be somewhat slow with
+larger documents.

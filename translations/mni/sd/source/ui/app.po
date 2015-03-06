@@ -1,0 +1,4173 @@
+#. extracted from sd/source/ui/app
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-02-16 22:20+0100\n"
+"PO-Revision-Date: 2014-09-30 14:25+0000\n"
+"Last-Translator: moumita <moumita.ciil@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mni\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1412087111.000000\n"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CHANGEBEZIER\n"
+"SID_CHANGEBEZIER\n"
+"menuitem.text"
+msgid "To ~Curve"
+msgstr "অকোনবদা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CHANGEPOLYGON\n"
+"SID_CHANGEPOLYGON\n"
+"menuitem.text"
+msgid "To ~Polygon"
+msgstr "পোলিগোন্দা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_CONTOUR\n"
+"SID_CONVERT_TO_CONTOUR\n"
+"menuitem.text"
+msgid "To C~ontour"
+msgstr "মপান্থোংগী শক্তমদা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_3D\n"
+"SID_CONVERT_TO_3D\n"
+"menuitem.text"
+msgid "To 3~D"
+msgstr " 3D দা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_BITMAP\n"
+"SID_CONVERT_TO_BITMAP\n"
+"menuitem.text"
+msgid "To ~Bitmap"
+msgstr "বিতমেপতা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_METAFILE\n"
+"SID_CONVERT_TO_METAFILE\n"
+"menuitem.text"
+msgid "To ~Metafile"
+msgstr "মেতাফাইলদা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_CONVERT_TO_3D_LATHE_FAST\n"
+"SID_CONVERT_TO_3D_LATHE_FAST\n"
+"menuitem.text"
+msgid "To 3D ~Rotation Object"
+msgstr "3D কোয়না চত্পা পোত্শক্তা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_VERTICAL\n"
+"SID_VERTICAL\n"
+"menuitem.text"
+msgid "~Vertically"
+msgstr "~ময়ুং ওইনা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_HORIZONTAL\n"
+"SID_HORIZONTAL\n"
+"menuitem.text"
+msgid "~Horizontally"
+msgstr "~মফৈ ওইনা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_3D_WIN\n"
+"SID_3D_WIN\n"
+"menuitem.text"
+msgid "~3D Effects"
+msgstr "~3D মহৈশিং"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_PRESENTATION_LAYOUT\n"
+"SID_PRESENTATION_LAYOUT\n"
+"menuitem.text"
+msgid "~Slide Design"
+msgstr "~স্লাইদ দিজাইন"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_DIA\n"
+"SID_SLIDE_TRANSITIONS_PANEL\n"
+"menuitem.text"
+msgid "Slide ~Transition"
+msgstr "স্লাইদকী অহোংবা"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_SHOW_SLIDE\n"
+"SID_SHOW_SLIDE\n"
+"menuitem.text"
+msgid "~Show Slide"
+msgstr "স্লাইদ উত্পা (~S)"
+
+#: menuids3_tmpl.src
+msgctxt ""
+"menuids3_tmpl.src\n"
+"MN_HIDE_SLIDE\n"
+"SID_HIDE_SLIDE\n"
+"menuitem.text"
+msgid "~Hide Slide"
+msgstr "~স্লাইদ লোত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DISTRIBUTE\n"
+"SID_DISTRIBUTE_DLG\n"
+"menuitem.text"
+msgid "~Distribution..."
+msgstr "~য়েন্থোকপা... "
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CAPTUREPOINT\n"
+"SID_CAPTUREPOINT\n"
+"menuitem.text"
+msgid "~Insert Snap Point/Line..."
+msgstr "~স্নেপ পোইন্ত/পরিং হাপচিনবা..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_SET_SNAPITEM\n"
+"SID_SET_SNAPITEM\n"
+"menuitem.text"
+msgid "~Edit..."
+msgstr "~শেমদোকপা..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_SNAPITEM\n"
+"SID_DELETE_SNAPITEM\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~মুত্থত্পা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_MODIFY_PAGE\n"
+"SID_MODIFYPAGE\n"
+"menuitem.text"
+msgid "Slide ~Layout"
+msgstr "স্লাইদকী শকওং"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_FORMAT_PAGE\n"
+"SID_PAGESETUP\n"
+"menuitem.text"
+msgid "~Page Setup..."
+msgstr "~লমায়গী সেতঅপ..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_SLIDE\n"
+"SID_INSERTPAGE\n"
+"menuitem.text"
+msgid "~New Slide"
+msgstr "~অনৌবা স্লাইদ"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DUPLICATE_SLIDE\n"
+"SID_DUPLICATE_PAGE\n"
+"menuitem.text"
+msgid "~Duplicate Slide"
+msgstr "শাশিন্নবা স্লাইদ"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_MASTER\n"
+"SID_INSERT_MASTER_PAGE\n"
+"menuitem.text"
+msgid "~New Master"
+msgstr "~অনৌবা মাস্তর"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE\n"
+"SID_INSERTPAGE\n"
+"menuitem.text"
+msgid "~New Page"
+msgstr "~অনৌবা লমায়"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE.MN_SELECT_BACKGROUND\n"
+"SID_SELECT_BACKGROUND\n"
+"menuitem.text"
+msgid "Set Background Image for Slide ..."
+msgstr ""
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE.MN_SELECT_BACKGROUND.MN_DISPLAY_MASTER_BACKGROUND\n"
+"SID_DISPLAY_MASTER_BACKGROUND\n"
+"menuitem.text"
+msgid "Display Background of Master"
+msgstr "মাস্তরগী বেকগ্রাউন ফোঙদোকপা "
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_INSERT_PAGE.MN_SELECT_BACKGROUND.MN_DISPLAY_MASTER_BACKGROUND.MN_DISPLAY_MASTER_OBJECTS\n"
+"SID_DISPLAY_MASTER_OBJECTS\n"
+"menuitem.text"
+msgid "Display Objects from Master"
+msgstr "মাস্তরদগী পোত্শকশিং ফোঙদোকপা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_PAGE_MENU\n"
+"DUMMY+3\n"
+"menuitem.text"
+msgid "Pag~e"
+msgstr "লমায়"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_SLIDE_MENU\n"
+"DUMMY+8\n"
+"menuitem.text"
+msgid "Slid~e"
+msgstr "স্লাইদ"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_LAYER\n"
+"SID_RENAMELAYER\n"
+"menuitem.text"
+msgid "~Rename Layer..."
+msgstr "~থাক্কী মমিং ওনবা..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_SLIDE\n"
+"SID_DELETE_PAGE\n"
+"menuitem.text"
+msgid "D~elete Slide"
+msgstr "স্লাইদ মুত্থত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_MASTER\n"
+"SID_DELETE_MASTER_PAGE\n"
+"menuitem.text"
+msgid "D~elete Master"
+msgstr "মাস্তর মুত্থত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE_PAGE\n"
+"SID_DELETE_PAGE\n"
+"menuitem.text"
+msgid "D~elete Page"
+msgstr "লমায় মুত্থত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_SLIDE\n"
+"SID_RENAMEPAGE\n"
+"menuitem.text"
+msgid "~Rename Slide"
+msgstr "~স্লাইদকী মমিং ওনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_MASTER\n"
+"SID_RENAME_MASTER_PAGE\n"
+"menuitem.text"
+msgid "~Rename Master"
+msgstr "~মাস্তরগী মমিং ওনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_RENAME_PAGE\n"
+"SID_RENAMEPAGE\n"
+"menuitem.text"
+msgid "~Rename Page"
+msgstr "~লমায় মমিং ওনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINE\n"
+"SID_ATTRIBUTES_LINE\n"
+"menuitem.text"
+msgid "L~ine..."
+msgstr "পরেং..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_AREA\n"
+"SID_ATTRIBUTES_AREA\n"
+"menuitem.text"
+msgid "~Area..."
+msgstr "মফম..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXTATTR\n"
+"SID_TEXTATTR_DLG\n"
+"menuitem.text"
+msgid "~Text..."
+msgstr "তেক্স..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OUTLINE_TEXT_AUTOFIT\n"
+"SID_OUTLINE_TEXT_AUTOFIT\n"
+"menuitem.text"
+msgid "~Autofit Text"
+msgstr "ടെക്സ്റ്റ് ഓട്ടോഫിറ്റ് ചെയ്യുക (~A)"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CONNECTION\n"
+"SID_CONNECTION_DLG\n"
+"menuitem.text"
+msgid "~Connector..."
+msgstr "~শম্নহল্লিবা..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_NEW_ROUTING\n"
+"SID_CONNECTION_NEW_ROUTING\n"
+"menuitem.text"
+msgid "Reset ~Routing"
+msgstr "রাওতিং হন্না শেম্বা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_MEASURE\n"
+"SID_MEASURE_DLG\n"
+"menuitem.text"
+msgid "Dimen~sions..."
+msgstr "মাইকৈশিং..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TRANSFORM\n"
+"SID_ATTR_TRANSFORM\n"
+"menuitem.text"
+msgid "Position and Si~ze..."
+msgstr "মফম অমসুং মচাও-মরাক..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_EDIT_POINTS\n"
+"SID_BEZIER_EDIT\n"
+"menuitem.text"
+msgid "Edit ~Points"
+msgstr "পোইন্তশিং শেমদোকপা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_FRAME_TO_TOP\n"
+"menuitem.text"
+msgid "~Bring to Front"
+msgstr "~মমাংদা পুরকপা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_MOREFRONT\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr "মাংলোমদা পুরকপা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_MOREBACK\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr "তুংলোমদা থাবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_FRAME_TO_BOTTOM\n"
+"menuitem.text"
+msgid "~Send to Back"
+msgstr "~তুংদা থাবা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_BEFORE_OBJ\n"
+"menuitem.text"
+msgid "In Front of ~Object"
+msgstr "পোত্শক্কী মমাংদা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_BEHIND_OBJ\n"
+"menuitem.text"
+msgid "Be~hind Object"
+msgstr "পোত্শক্কী মতুং"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION.SID_POSITION\n"
+"SID_REVERSE_ORDER\n"
+"menuitem.text"
+msgid "~Reverse"
+msgstr "~ওন্ন-তৈন্নবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_POSITION\n"
+"SID_POSITION\n"
+"menuitem.text"
+msgid "Arra~nge"
+msgstr "শীল্লাংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CHAR\n"
+"SID_CHAR_DLG\n"
+"menuitem.text"
+msgid "C~haracter..."
+msgstr "ময়েক..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CHAR_PARAGRAPH\n"
+"SID_PARA_DLG\n"
+"menuitem.text"
+msgid "P~aragraph..."
+msgstr "পেরেগ্ৰাফ..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_WEIGHT\n"
+"menuitem.text"
+msgid "Bold"
+msgstr "অচৌবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_POSTURE\n"
+"menuitem.text"
+msgid "Italic"
+msgstr "অপৈবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_OVERLINE\n"
+"menuitem.text"
+msgid "Overline"
+msgstr "ওভরলাইন"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_UNDERLINE\n"
+"menuitem.text"
+msgid "Underline"
+msgstr "অন্দরলাইন তৌবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_STRIKEOUT\n"
+"menuitem.text"
+msgid "Strikethrough"
+msgstr "ফাওনা চিংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_SHADOWED\n"
+"menuitem.text"
+msgid "Shadow"
+msgstr "মমি"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_ATTR_CHAR_CONTOUR\n"
+"menuitem.text"
+msgid "~Contour"
+msgstr "~কোনতুর"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_SET_SUPER_SCRIPT\n"
+"menuitem.text"
+msgid "Superscript"
+msgstr "সুপরস্ক্রিপ্ত"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR.DUMMY\n"
+"SID_SET_SUB_SCRIPT\n"
+"menuitem.text"
+msgid "Subscript"
+msgstr "সবস্ক্রিপ্ত"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_TEXT_ATTR\n"
+"DUMMY\n"
+"menuitem.text"
+msgid "~Format"
+msgstr ""
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR.DUMMY+1\n"
+"SID_ATTR_PARA_LINESPACE_10\n"
+"menuitem.text"
+msgid "Single Line Spacing"
+msgstr "পরেং অমখক্কী অহাংবা মফম"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR.DUMMY+1\n"
+"SID_ATTR_PARA_LINESPACE_15\n"
+"menuitem.text"
+msgid "1.5 Lines"
+msgstr "1.5 পরেংশিং"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR.DUMMY+1\n"
+"SID_ATTR_PARA_LINESPACE_20\n"
+"menuitem.text"
+msgid "~Double"
+msgstr "~শরুক অনী ওইবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LINESPACING_ATTR\n"
+"DUMMY+1\n"
+"menuitem.text"
+msgid "~Line Spacing"
+msgstr "~পরেংগী অহাংবা মফম"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BULLET\n"
+"SID_CHARMAP\n"
+"menuitem.text"
+msgid "S~pecial Character..."
+msgstr "মরুওইবা ময়েক..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_LEFT\n"
+"menuitem.text"
+msgid "~Left"
+msgstr "~ওইথংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_CENTER\n"
+"menuitem.text"
+msgid "~Centered"
+msgstr "~ময়াই ওইবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_RIGHT\n"
+"menuitem.text"
+msgid "~Right"
+msgstr "~য়েত্থংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_UP\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "~মথক"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_MIDDLE\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr "ময়াই"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN.SID_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN_DOWN\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~মখা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_ALIGN\n"
+"SID_OBJECT_ALIGN\n"
+"menuitem.text"
+msgid "Al~ignment"
+msgstr "পরেং চান্নহনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CLOSE_OBJECT\n"
+"SID_OBJECT_CLOSE\n"
+"menuitem.text"
+msgid "Close ~Object"
+msgstr "পোত্শক লোয়শিনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_EDIT\n"
+"menuitem.text"
+msgid "Edit ~Points"
+msgstr "পোইন্তশিং শেমদোকপা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_MOVE\n"
+"menuitem.text"
+msgid "~Move Points"
+msgstr "~পোইন্তশিংগী মফম হোংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_INSERT\n"
+"menuitem.text"
+msgid "Insert ~Points"
+msgstr "পোইন্তশিং হাপচিনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_DELETE\n"
+"menuitem.text"
+msgid "~Delete Points"
+msgstr "~পোইন্তশিং মুত্থত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_CLOSE\n"
+"menuitem.text"
+msgid "Close ~Object"
+msgstr "পোত্শক লোয়শিনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_CUTLINE\n"
+"menuitem.text"
+msgid "~Split Curve"
+msgstr "~কর্ভ থুগাইবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_CONVERT\n"
+"menuitem.text"
+msgid "Con~vert to Curve"
+msgstr "কর্ভতা ওনথোকপা "
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_EDGE\n"
+"menuitem.text"
+msgid "~Corner"
+msgstr "~কাচিন"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_SMOOTH\n"
+"menuitem.text"
+msgid "Smoot~h"
+msgstr "অনানবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_SYMMTR\n"
+"menuitem.text"
+msgid "S~ymmetric"
+msgstr "চুং-ফিরান চাবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BEZIER\n"
+"SID_BEZIER_ELIMINATE_POINTS\n"
+"menuitem.text"
+msgid "~Reduce Points"
+msgstr "~বিন্দুশিং হন্থহনবা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GROUP\n"
+"SID_GROUP\n"
+"menuitem.text"
+msgid "~Group"
+msgstr "~পুনশিনবা"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_UNGROUP\n"
+"SID_UNGROUP\n"
+"menuitem.text"
+msgid "~Ungroup"
+msgstr "~পুনশিন্দবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_COMBINE\n"
+"SID_COMBINE\n"
+"menuitem.text"
+msgid "Comb~ine"
+msgstr "পুশিন্নবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DISMANTLE\n"
+"SID_DISMANTLE\n"
+"menuitem.text"
+msgid "~Split"
+msgstr "~থুগাইবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_ENTER_GROUP\n"
+"SID_ENTER_GROUP\n"
+"menuitem.text"
+msgid "~Enter Group"
+msgstr "~কাংলুপ চংশিনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_LEAVE_GROUP\n"
+"SID_LEAVE_GROUP\n"
+"menuitem.text"
+msgid "E~xit Group"
+msgstr "কাংলুপ থোকপা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_NAME_GROUP\n"
+"SID_NAME_GROUP\n"
+"menuitem.text"
+msgid "Name..."
+msgstr "মিং..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_OBJECT_TITLE_DESCRIPTION\n"
+"SID_OBJECT_TITLE_DESCRIPTION\n"
+"menuitem.text"
+msgid "Description..."
+msgstr "শন্দোকনা তাকপা..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_ACTION\n"
+"SID_ANIMATION_EFFECTS\n"
+"menuitem.text"
+msgid "Int~eraction..."
+msgstr "পাউ ফাওনবা..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_PRESENTATIONOBJECT\n"
+"SID_PRESENTATIONOBJECT\n"
+"menuitem.text"
+msgid "Presentation ~Object..."
+msgstr "মফোঙদোক্কী পোত্শক..."
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_DELETE\n"
+"SID_DELETE\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~মুত্থত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_SET_DEFAULT\n"
+"SID_SET_DEFAULT\n"
+"menuitem.text"
+msgid "~Default"
+msgstr "~দিফোল্ত"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_FONTWORK\n"
+"SID_FONTWORK\n"
+"menuitem.text"
+msgid "F~ontwork"
+msgstr "ফোন্ত ৱার্ক"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_ORIGINAL_SIZE\n"
+"SID_ORIGINAL_SIZE\n"
+"menuitem.text"
+msgid "~Original Size"
+msgstr "মশাগী অশেংবা মচাও-মরাক"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CROP\n"
+"SID_OBJECT_CROP\n"
+"menuitem.text"
+msgid "Crop Image"
+msgstr ""
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_INSERT_POINT\n"
+"SID_GLUE_INSERT_POINT\n"
+"menuitem.text"
+msgid "Insert ~Point"
+msgstr "পোইন্ত হাপচিনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_LEFT\n"
+"SID_GLUE_ESCDIR_LEFT\n"
+"menuitem.text"
+msgid "~Left"
+msgstr "~ওইথংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_TOP\n"
+"SID_GLUE_ESCDIR_TOP\n"
+"menuitem.text"
+msgid "~Top"
+msgstr "~মথক"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_RIGHT\n"
+"SID_GLUE_ESCDIR_RIGHT\n"
+"menuitem.text"
+msgid "~Right"
+msgstr "~য়েত্থংবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_ESC_DIR_BOTTOM\n"
+"SID_GLUE_ESCDIR_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~মখা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_PERCENT\n"
+"SID_GLUE_PERCENT\n"
+"menuitem.text"
+msgid "~Adapt Position to Object"
+msgstr "পোত্শক্তা মফম চান্নহনবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_HORZALIGN_LEFT\n"
+"SID_GLUE_HORZALIGN_LEFT\n"
+"menuitem.text"
+msgid "Fixed ~Horizontal Left"
+msgstr "লেপ্লবা ওইথংবদা মফৈ ওইনা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_HORZALIGN_CENTER\n"
+"SID_GLUE_HORZALIGN_CENTER\n"
+"menuitem.text"
+msgid "Fixed Horizontal ~Center"
+msgstr "লেপ্লবা ময়াইদা মফৈ ওইনা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_HORZALIGN_RIGHT\n"
+"SID_GLUE_HORZALIGN_RIGHT\n"
+"menuitem.text"
+msgid "Fixed Hori~zontal Right"
+msgstr "লেপ্লবা য়েত্থংবদা মফৈ ওইনা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_TOP\n"
+"SID_GLUE_VERTALIGN_TOP\n"
+"menuitem.text"
+msgid "Fixed ~Vertical Top"
+msgstr "লেপ্লবা মথক্তা ময়ুং ওইনা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_CENTER\n"
+"SID_GLUE_VERTALIGN_CENTER\n"
+"menuitem.text"
+msgid "Fixed V~ertical Center"
+msgstr "লেপ্লবা ময়াইদা ময়ুং ওইনা "
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_BOTTOM\n"
+"SID_GLUE_VERTALIGN_BOTTOM\n"
+"menuitem.text"
+msgid "Fixed Ver~tical Bottom"
+msgstr "লেপ্লবা মখাদা ময়ুং ওইনা "
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GLUE_VERTALIGN_BOTTOM.MN_RULER\n"
+"SID_RULER\n"
+"menuitem.text"
+msgid "Display ~Ruler"
+msgstr ""
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID_VISIBLE\n"
+"SID_GRID_VISIBLE\n"
+"menuitem.text"
+msgid "~Display Grid"
+msgstr "~গ্রীদ উত্পা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID_USE\n"
+"SID_GRID_USE\n"
+"menuitem.text"
+msgid "Snap to Grid"
+msgstr "গ্রীদদা স্নেপ"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID_FRONT\n"
+"SID_GRID_FRONT\n"
+"menuitem.text"
+msgid "Grid to ~Front"
+msgstr "মমাংদা গ্রীদ"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_GRID\n"
+"DUMMY+5\n"
+"menuitem.text"
+msgid "~Grid"
+msgstr "~গ্রীদ"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES_VISIBLE\n"
+"SID_HELPLINES_VISIBLE\n"
+"menuitem.text"
+msgid "~Display Snap Lines"
+msgstr "গাইদশিং উত্পা (~D)"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES_USE\n"
+"SID_HELPLINES_USE\n"
+"menuitem.text"
+msgid "~Snap to Snap Lines"
+msgstr "স্নেপ পরেংশিংদা স্নেপ"
+
+#: menuids_tmpl.src
+#, fuzzy
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES_FRONT\n"
+"SID_HELPLINES_FRONT\n"
+"menuitem.text"
+msgid "Snap Lines to ~Front"
+msgstr "মমাংদা স্নেপ পরেংশিং"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_HELPLINES\n"
+"DUMMY+6\n"
+"menuitem.text"
+msgid "~Snap Lines"
+msgstr "~স্নেপ পরেংশিং"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MNSUB_CONVERT\n"
+"SID_CONVERT\n"
+"menuitem.text"
+msgid "Con~vert"
+msgstr "~ওন্থোকবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MNSUB_MIRROR\n"
+"SID_MIRROR\n"
+"menuitem.text"
+msgid "~Flip"
+msgstr "~ফ্লিপ"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_CONNECT\n"
+"SID_CONNECT\n"
+"menuitem.text"
+msgid "C~onnect"
+msgstr "শম্নবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_BREAK\n"
+"SID_BREAK\n"
+"menuitem.text"
+msgid "~Break"
+msgstr "~থুগাইবা"
+
+#: menuids_tmpl.src
+msgctxt ""
+"menuids_tmpl.src\n"
+"MN_STYLEDT\n"
+"SID_STYLE_EDIT\n"
+"menuitem.text"
+msgid "Edit Style..."
+msgstr "শেমদোকগী মওং..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TEXTOBJ_INSIDE_POPUP\n"
+"SID_HIDE_LAST_LEVEL\n"
+"menuitem.text"
+msgid "~Hide Last Level"
+msgstr ""
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TEXTOBJ_INSIDE_POPUP\n"
+"SID_SHOW_NEXT_LEVEL\n"
+"menuitem.text"
+msgid "~Show Next Level"
+msgstr ""
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"SID_FORMAT_TABLE_DLG\n"
+"menuitem.text"
+msgid "~Table..."
+msgstr "~তেবল..."
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_MERGE_CELLS\n"
+"menuitem.text"
+msgid "~Merge"
+msgstr "পুনশিনবা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_SPLIT_CELLS\n"
+"menuitem.text"
+msgid "~Split..."
+msgstr "~থুগাইয়ো..."
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_NONE\n"
+"menuitem.text"
+msgid "~Top"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথক\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথকথংবা\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথকথংবা\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথক\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথক"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_CENTER\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়ায়\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়াই\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়াই\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়াই"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~মখা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"DUMMY+10\n"
+"menuitem.text"
+msgid "~Cell"
+msgstr "~কাখল"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_DISTRIBUTE_ROWS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "মান্ননা অহাংবা মফম পীবা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_SELECT_ROW\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~খল্লো"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_INSERT_ROW_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "~হাপচিল্লো..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+11\n"
+"SID_TABLE_DELETE_ROW\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~মুত্থত্পা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"DUMMY+11\n"
+"menuitem.text"
+msgid "~Row"
+msgstr "পরেংশিং"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_DISTRIBUTE_COLUMNS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "মান্ননা অহাংবা মফম পীবা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_SELECT_COL\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~খল্লো"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_INSERT_COL_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "~হাপচিল্লো..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY+12\n"
+"SID_TABLE_DELETE_COL\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~মুত্থত্পা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_DRAW_TABLEOBJ_INSIDE_POPUP\n"
+"DUMMY+12\n"
+"menuitem.text"
+msgid "Colu~mn"
+msgstr "কলম"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_LAYERTAB_POPUP\n"
+"SID_INSERTLAYER\n"
+"menuitem.text"
+msgid "~Insert Layer..."
+msgstr "~থাক হাপচিনবা..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_LAYERTAB_POPUP\n"
+"SID_MODIFYLAYER\n"
+"menuitem.text"
+msgid "Modify La~yer..."
+msgstr "থাক শেমদোকপা..."
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_LAYERTAB_POPUP\n"
+"SID_DELETE_LAYER\n"
+"menuitem.text"
+msgid "Delete ~Layer..."
+msgstr "থাকশিং মুত্থত্পা..."
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_ALL_SLIDES\n"
+"menuitem.text"
+msgid "~Apply to All Slides"
+msgstr "স্লাইদ পুম্নমক্তা শিজিন্নৌ"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_SELECTED_SLIDES\n"
+"menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "খনগত্লবা স্লাইদশিংদা শিজিন্নবা"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_LARGE_PREVIEW\n"
+"menuitem.text"
+msgid "Show ~Large Preview"
+msgstr "অচৌবা অহানবা মীতয়েং উত্পা"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_SMALL_PREVIEW\n"
+"menuitem.text"
+msgid "Show S~mall Preview"
+msgstr "অপিকপা অহানবা মীতয়েং উত্পা"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_ALL_SLIDES\n"
+"menuitem.text"
+msgid "~Apply to All Slides"
+msgstr "স্লাইদ পুম্নমক্তা শিজিন্নৌ"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_APPLY_TO_SELECTED_SLIDES\n"
+"menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "খনগত্লবা স্লাইদশিংদা শিজিন্নবা"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_EDIT_MASTER\n"
+"menuitem.text"
+msgid "~Edit Master..."
+msgstr "মাস্তর শেমদোকপা... (~E)"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_LARGE_PREVIEW\n"
+"menuitem.text"
+msgid "Show ~Large Preview"
+msgstr "অচৌবা অহানবা মীতয়েং উত্পা"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP\n"
+"SID_TP_SHOW_SMALL_PREVIEW\n"
+"menuitem.text"
+msgid "Show S~mall Preview"
+msgstr "অপিকপা অহানবা মীতয়েং উত্পা"
+
+#: popup.src
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_LAYOUTMENU_POPUP\n"
+"SID_TP_APPLY_TO_SELECTED_SLIDES\n"
+"menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "খনগত্লবা স্লাইদশিংদা শিজিন্নবা"
+
+#: popup.src
+#, fuzzy
+msgctxt ""
+"popup.src\n"
+"RID_TASKPANE_LAYOUTMENU_POPUP\n"
+"SID_INSERTPAGE_LAYOUT_MENU\n"
+"menuitem.text"
+msgid "~Insert Slide"
+msgstr "স্লাইদ হাপচিনবা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"SID_FORMAT_TABLE_DLG\n"
+"menuitem.text"
+msgid "~Table..."
+msgstr "~তেবল..."
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_MERGE_CELLS\n"
+"menuitem.text"
+msgid "~Merge"
+msgstr "পুনশিনবা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_SPLIT_CELLS\n"
+"menuitem.text"
+msgid "~Split..."
+msgstr "~থুগাইয়ো..."
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_NONE\n"
+"menuitem.text"
+msgid "~Top"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথক\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথকথংবা\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথকথংবা\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথক\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~মথক"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_CENTER\n"
+"menuitem.text"
+msgid "C~enter"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়ায়\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়াই\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়াই\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ময়াই"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+10\n"
+"SID_TABLE_VERT_BOTTOM\n"
+"menuitem.text"
+msgid "~Bottom"
+msgstr "~মখা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"DUMMY+10\n"
+"menuitem.text"
+msgid "~Cell"
+msgstr "~কাখল"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_DISTRIBUTE_ROWS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "মান্ননা অহাংবা মফম পীবা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_SELECT_ROW\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~খল্লো"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_INSERT_ROW_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "~হাপচিল্লো..."
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+11\n"
+"SID_TABLE_DELETE_ROW\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~মুত্থত্পা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"DUMMY+11\n"
+"menuitem.text"
+msgid "~Row"
+msgstr "পরেংশিং"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_DISTRIBUTE_COLUMNS\n"
+"menuitem.text"
+msgid "Space ~Equally"
+msgstr "মান্ননা অহাংবা মফম পীবা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_SELECT_COL\n"
+"menuitem.text"
+msgid "~Select"
+msgstr "~খল্লো"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_INSERT_COL_DLG\n"
+"menuitem.text"
+msgid "~Insert..."
+msgstr "~হাপচিল্লো..."
+
+#: popup2_tmpl.src
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP.DUMMY+12\n"
+"SID_TABLE_DELETE_COL\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~মুত্থত্পা"
+
+#: popup2_tmpl.src
+#, fuzzy
+msgctxt ""
+"popup2_tmpl.src\n"
+"RID_GRAPHIC_TABLE_POPUP\n"
+"DUMMY+12\n"
+"menuitem.text"
+msgid "Colu~mn"
+msgstr "কলম"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"SfxStyleFamiliesRes1\n"
+"#define.text"
+msgid "Drawing Object Styles"
+msgstr ""
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"SfxStyleFamiliesRes2\n"
+"#define.text"
+msgid "Presentation Styles"
+msgstr "মফংদোক্কী মওংশিং"
+
+#: res_bmp.src
+#, fuzzy
+msgctxt ""
+"res_bmp.src\n"
+"STR_STYLE_FILTER_USED\n"
+"string.text"
+msgid "Applied Styles"
+msgstr "শিজিন্নরবা স্তাইলশিং"
+
+#: res_bmp.src
+#, fuzzy
+msgctxt ""
+"res_bmp.src\n"
+"STR_STYLE_FILTER_USERDEF\n"
+"string.text"
+msgid "Custom Styles"
+msgstr "কস্তম মওংশিং"
+
+#: res_bmp.src
+#, fuzzy
+msgctxt ""
+"res_bmp.src\n"
+"STR_STYLE_FILTER_ALL\n"
+"string.text"
+msgid "All Styles"
+msgstr "কাখলগী মওংশিং"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"All Styles\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "কাখলগী মওংশিং"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr ""
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"Applied Styles\n"
+"filterlist.text"
+msgid "Applied Styles"
+msgstr "শিজিন্নরবা স্তাইলশিং"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY\n"
+"Custom Styles\n"
+"filterlist.text"
+msgid "Custom Styles"
+msgstr "কস্তম স্তাইল"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY\n"
+"All Styles\n"
+"filterlist.text"
+msgid "All Styles"
+msgstr "স্তাইল পুম্নমক"
+
+#: res_bmp.src
+msgctxt ""
+"res_bmp.src\n"
+"DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY\n"
+"Hidden Styles\n"
+"filterlist.text"
+msgid "Hidden Styles"
+msgstr ""
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_NOT_FOUND\n"
+"string.text"
+msgid "Search key not found."
+msgstr "থিবগী কি ফংদ্রে."
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_FORWARD\n"
+"string.text"
+msgid "%PRODUCTNAME Impress has searched to the end of the presentation. Do you want to continue at the beginning?"
+msgstr "অউত্পগী লোয়বা ফাওবা %PRODUCTNAME ইম্প্ৰেসনা থিরে. অদোম্না অহৌবদা মখা চত্থবা পাম্বিবরা ?"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_BACKWARD\n"
+"string.text"
+msgid "%PRODUCTNAME Impress has searched to the beginning of the presentation. Do you want to continue at the end?"
+msgstr "অউত্পগী অহৌবদা %PRODUCTNAME ইম্প্ৰেসনা থীরে. অদোম্না অরোয়বদা মখা চত্থবা পাম্বিবরা?"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_FORWARD_DRAW\n"
+"string.text"
+msgid "%PRODUCTNAME Draw has searched to the end of the document. Do you want to continue at the beginning?"
+msgstr "দোকুমেন্তকী অরোয়বদা %PRODUCTNAME দ্রোনা থিরে. অদোম্না অহৌবদা মখা চত্থবা পাম্বিবরা?"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_SAR_WRAP_BACKWARD_DRAW\n"
+"string.text"
+msgid "%PRODUCTNAME Draw has searched to the beginning of the document. Do you want to continue at the end?"
+msgstr "দোকুমেন্তকী অহৌবদা %PRODUCTNAME দ্রোনা থিরে. অদোম্না অরোয়বদা মখা চত্থবা পাম্বিবরা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Drawings Toolbar"
+msgstr "য়োকপগী তুলবার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_TOOLBOX\n"
+"string.text"
+msgid "Slide Bar"
+msgstr "স্লাইদ বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_OUTLINE_TOOLBOX\n"
+"string.text"
+msgid "Outline Bar"
+msgstr "আউতলাইন বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_OBJ_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "পোত্শক্কী বার য়েকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHIC_OBJ_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar/Image"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_OPTIONS_TOOLBOX\n"
+"string.text"
+msgid "Options Bar"
+msgstr "অপাম্বশিংগী বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_COMMONTASK_TOOLBOX\n"
+"string.text"
+msgid "Presentation"
+msgstr "মফোঙদোক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_OBJ_TOOLBOX\n"
+"string.text"
+msgid "Slide Object Bar"
+msgstr "স্লাইদ পোত্শক্কী বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "বেজিযর পোত্শক্কী বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUEPOINTS_TOOLBOX\n"
+"string.text"
+msgid "Glue Point Object Bar"
+msgstr "গ্লু পোইন্ত পোত্শক্কী বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "তেক্স পোত্শক্কী বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NULL\n"
+"string.text"
+msgid "None"
+msgstr "অমত্তা নত্তবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERTPAGE\n"
+"string.text"
+msgid "Insert Slide"
+msgstr "স্লাইদ হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERTLAYER\n"
+"string.text"
+msgid "Insert Layer"
+msgstr "থাক হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_MODIFYLAYER\n"
+"string.text"
+msgid "Modify Layer"
+msgstr "থাক শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SLIDE_PARAMS\n"
+"string.text"
+msgid "Slide parameter"
+msgstr "স্লাইদ পেরামিতর"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SLIDE_MOVE\n"
+"string.text"
+msgid "Move slide"
+msgstr "স্লাইদ মফম হোংবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CUT\n"
+"string.text"
+msgid "Cut"
+msgstr "ককথত্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_REPLACE\n"
+"string.text"
+msgid "Replace"
+msgstr "শিনদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_DRAGDROP\n"
+"string.text"
+msgid "Drag and Drop"
+msgstr "চিংবা অমসুং থাদবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERTGRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLOW\n"
+"string.text"
+msgid "Slow"
+msgstr "তপ্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_MEDIUM\n"
+"string.text"
+msgid "Medium"
+msgstr "ময়াই ওইবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FAST\n"
+"string.text"
+msgid "Fast"
+msgstr "থুবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_BEZCLOSE\n"
+"string.text"
+msgid "Close Polygon"
+msgstr "পোলিগোন লোয়শিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_MODE\n"
+"string.text"
+msgid "Slide Sorter"
+msgstr "স্লাইদ মথং-মনাও অশেম্বা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_MODE\n"
+"string.text"
+msgid "Normal"
+msgstr "মহৌশাগী মওং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_OUTLINE_MODE\n"
+"string.text"
+msgid "Outline"
+msgstr "আউতলাইন"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NOTES_MODE\n"
+"string.text"
+msgid "Notes"
+msgstr "মরুওইবা ৱারোলশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HANDOUT_MODE\n"
+"string.text"
+msgid "Handout"
+msgstr "চেয়েন"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_NONE\n"
+"string.text"
+msgid "Blank Slide"
+msgstr "অহাংবা স্লাইদ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_ONLY_TITLE\n"
+"string.text"
+msgid "Title Only"
+msgstr "মিংথোলতমক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_ONLY_TEXT\n"
+"string.text"
+msgid "Centered Text"
+msgstr "মযাইগী তেক্স"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_TITLE\n"
+"string.text"
+msgid "Title Slide"
+msgstr "মিংথোল স্লাইদ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT\n"
+"string.text"
+msgid "Title, Content"
+msgstr "মমিং, হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_2CONTENT\n"
+"string.text"
+msgid "Title and 2 Content"
+msgstr "মমিং অমসুং 2 হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT_2CONTENT\n"
+"string.text"
+msgid "Title, Content and 2 Content"
+msgstr "মমিং, হীরম অমসু 2 হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_2CONTENT_CONTENT\n"
+"string.text"
+msgid "Title, 2 Content and Content"
+msgstr "মমিং, 2 হীরম অমসুং হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT_OVER_2CONTENT\n"
+"string.text"
+msgid "Title, Content over 2 Content"
+msgstr "মমিং, 2 হীরমগী মথক্তা হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_2CONTENT_OVER_CONTENT\n"
+"string.text"
+msgid "Title, 2 Content over Content"
+msgstr "মমিং, হীরমগী মথক্তা 2 হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_CONTENT_OVER_CONTENT\n"
+"string.text"
+msgid "Title, Content over Content"
+msgstr "মমিং, হীরমগী মথক্তা হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_4CONTENT\n"
+"string.text"
+msgid "Title, 4 Content"
+msgstr "মমিং, 4 হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_6CONTENT\n"
+"string.text"
+msgid "Title, 6 Content"
+msgstr "মমিং, 6 হীরম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_TITLE_VERT_OUTLINE\n"
+"string.text"
+msgid "Title, Vertical Text"
+msgstr "মিংথোল, ময়ুং ওইবা তেক্স"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_TITLE_VERT_OUTLINE_CLIPART\n"
+"string.text"
+msgid "Title, Vertical Text, Clipart"
+msgstr "মিংথোল, ময়ুং ওইবা তেক্স, ক্লিপআৰ্ত"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_VERT_TITLE_TEXT_CHART\n"
+"string.text"
+msgid "Vertical Title, Text, Chart"
+msgstr "ময়ুং ওইবা মিংথোল, তেক্স, চার্ত"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AL_VERT_TITLE_VERT_OUTLINE\n"
+"string.text"
+msgid "Vertical Title, Vertical Text"
+msgstr "ময়ুং ওইবা মিংথোল,  ময়ুং ওইবা তেক্স"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT1\n"
+"string.text"
+msgid "One Slide"
+msgstr "স্লাইদ অমা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT2\n"
+"string.text"
+msgid "Two Slides"
+msgstr "স্লাইদ অনী"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT3\n"
+"string.text"
+msgid "Three Slides"
+msgstr "স্লাইদ অহুম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT4\n"
+"string.text"
+msgid "Four Slides"
+msgstr "স্লাইদ মরী"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT6\n"
+"string.text"
+msgid "Six Slides"
+msgstr "স্লাইদ তরুক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_HANDOUT9\n"
+"string.text"
+msgid "Nine Slides"
+msgstr "স্লাইদ মাপল"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AUTOLAYOUT_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "মরুওইবা ৱারোলশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TRANSFORM\n"
+"string.text"
+msgid "Transform"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LINEEND\n"
+"string.text"
+msgid "Line Ends"
+msgstr "পরেং লোয়রে"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "চানবিদুনা অনৌবা তেনজিনগীদমক মমিং অমা চংশিনবিয়ু."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_NAME_DUPLICATE\n"
+"string.text"
+msgid ""
+"The name chosen already exists. \n"
+"Please enter another name."
+msgstr ""
+"খল্লিবা মমিংদু হাননা লৈরে. \n"
+"চানবিদুনা অতোপ্পা মমিং অমা চংশিনবিয়ু."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_ANIMATION\n"
+"string.text"
+msgid "Animation parameters"
+msgstr "এনিমেসন পেরামিতর"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EXPORT_HTML_NAME\n"
+"string.text"
+msgid "Web Page"
+msgstr "ৱেব লামাই"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EXPORT_DIALOG_TITLE\n"
+"string.text"
+msgid "Export"
+msgstr "থাদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_COPYOBJECTS\n"
+"string.text"
+msgid "Duplicate"
+msgstr "শাশিন্নবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TITLE_NAMEGROUP\n"
+"string.text"
+msgid "Name Object"
+msgstr "পোত্শক্কী মমিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DESC_NAMEGROUP\n"
+"string.text"
+msgid "Name"
+msgstr "মিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_PAGE_EXISTS\n"
+"string.text"
+msgid "The slide name already exists or is invalid. Please enter another name."
+msgstr "স্লাইদ মমিংদু হান্না লৈরে নত্রগা মসি চতন্দ্রে. চানবিদুনা অতোপ্পা মমিং অমা চংশিনবিয়ু."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SNAPDLG_SETLINE\n"
+"string.text"
+msgid "Edit Snap Line"
+msgstr "স্নেপ পরেং শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SNAPDLG_SETPOINT\n"
+"string.text"
+msgid "Edit Snap Point"
+msgstr "স্নেপ পোইন্ত শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_EDIT_SNAPLINE\n"
+"string.text"
+msgid "Edit Snap Line..."
+msgstr "স্নেপ লাইন শেমদোকপা..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_EDIT_SNAPPOINT\n"
+"string.text"
+msgid "Edit Snap Point..."
+msgstr "স্নেপ পোইন্ত শেমদোকপা..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_DELETE_SNAPLINE\n"
+"string.text"
+msgid "Delete Snap Line"
+msgstr "স্নেপ পরেং মুত্থত্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_POPUP_DELETE_SNAPPOINT\n"
+"string.text"
+msgid "Delete Snap Point"
+msgstr "স্নেপ পোইন্ত মুত্থত্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPRESS\n"
+"string.text"
+msgid "StarImpress 4.0"
+msgstr "স্তারইম্প্ৰেস 4.0"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LAYER\n"
+"string.text"
+msgid "Layer"
+msgstr "থাক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_DELETEPAGES\n"
+"string.text"
+msgid "Delete slides"
+msgstr "স্লাইদশিং মুত্থত্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERTPAGES\n"
+"string.text"
+msgid "Insert slides"
+msgstr "স্লাইদশিং হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ASK_DELETE_LAYER\n"
+"string.text"
+msgid ""
+"Are you sure you want to delete the level \"$\"?\n"
+"Note: All objects on this level will be deleted!"
+msgstr ""
+"অদোম থাক্তু মু্ত্থত্পা পাম্মী হায়বসি তশেংনা চুম্লবরা\"$\"?\n"
+"মরুওইবা ৱারোল: মসিগী থাকসিদা লৈবা পোত্শক পুম্নমক মুত্থতলগনি!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ASK_DELETE_ALL_PICTURES\n"
+"string.text"
+msgid "Do you really want to delete all images?"
+msgstr "অদোম তশেংনা মমিং পুম্নমক মুত্থত্পা পাম্লবরা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_TITLE_AND_LAYOUT\n"
+"string.text"
+msgid "Modify title and outline"
+msgstr "মিংথোল অমসুং আউতলাইন শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WAV_FILE\n"
+"string.text"
+msgid "Audio"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_MIDI_FILE\n"
+"string.text"
+msgid "MIDI"
+msgstr "MIDI"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AU_FILE\n"
+"string.text"
+msgid "Sun/NeXT Audio"
+msgstr "সন/NeXT ওদিও"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_VOC_FILE\n"
+"string.text"
+msgid "Creative Labs Audio"
+msgstr "ক্রিয়েতিব লেবস ওদিও"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_AIFF_FILE\n"
+"string.text"
+msgid "Apple/SGI Audio"
+msgstr "Apple/SGI ওদিও"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SVX_FILE\n"
+"string.text"
+msgid "Amiga SVX Audio"
+msgstr "এমিগা SVX ওদিও"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SD_PAGE\n"
+"string.text"
+msgid "Slide"
+msgstr "স্লাইদ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ALL_FILES\n"
+"string.text"
+msgid "All files"
+msgstr "ফাইল পুম্নমক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERT_TEXTFRAME\n"
+"string.text"
+msgid "Insert text frame"
+msgstr "তেক্স ফিবান হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ACTION_NOTPOSSIBLE\n"
+"string.text"
+msgid ""
+"This function cannot be run \n"
+"with the selected objects."
+msgstr ""
+"মসিগী মথৌসি খনগতলবা পোত্শকশিগা লোয়ন্না তৌবা ঙমদ্রে \n"
+"."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DLG_INSERT_PAGES_FROM_FILE\n"
+"string.text"
+msgid "Insert File"
+msgstr "ফাইল হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "ফাইলদু লোদ তৌবা ঙমদ্রে!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SCALE_OBJECTS\n"
+"string.text"
+msgid ""
+"The page size of the target document is different than the source document.\n"
+"\n"
+"Do you want to scale the copied objects to fit the new page size?"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CREATE_PAGES\n"
+"string.text"
+msgid "Create Slides"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_PAGEFORMAT\n"
+"string.text"
+msgid "Modify page format"
+msgstr "লমায়গী ফোর্মেত শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_PAGEBORDER\n"
+"string.text"
+msgid "Modify page margins"
+msgstr "লমায়গী মার্জিনশিং শেমদোকপা"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"STR_EDIT_OBJ\n"
+"string.text"
+msgid "~Edit"
+msgstr "~শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DELETE_PAGES\n"
+"string.text"
+msgid "Delete Slides"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_PRINTFORMAT_FAILURE\n"
+"string.text"
+msgid "The document format could not be set on the specified printer."
+msgstr "দোকুমেন্ত ফোর্মেত্তু অককনবা উতলিবা প্ৰিন্তরদুদা সেত তৌবা ঙমদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_REMOVE_LINK\n"
+"string.text"
+msgid ""
+"This graphic is linked to a document. \n"
+"Do you want to unlink the graphic in order to edit it?"
+msgstr ""
+"মসিগী গ্রাফিকসি দোকুমেন্ত অমদা মরী শমনরে.\n"
+"অদোম্না গ্ৰাফিকতু শেমদোকনবা মরী শমদবা পাম্বরা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPORT_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to import image"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_OBJECTS\n"
+"string.text"
+msgid "Objects"
+msgstr "পোত্শকশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_END_SEARCHING\n"
+"string.text"
+msgid "The document search is finished."
+msgstr "দোকুমেন্ত থিবা লোয়রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_END_SPELLING\n"
+"string.text"
+msgid "Spellcheck of entire document has been completed."
+msgstr "দোকুমেন্ত অপুম্বগী বানান য়েংশিনবা লোয়রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_END_SPELLING_OBJ\n"
+"string.text"
+msgid "The spellcheck for the selected objects has been completed."
+msgstr "খনগতলবা পোত্শকশিংগী বানান য়েংশিনবা লোয়রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NOLANGUAGE\n"
+"string.text"
+msgid "The selected language is not available."
+msgstr "খল্লবা লোল অদু ফংদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ASK_FOR_CONVERT_TO_BEZIER\n"
+"string.text"
+msgid "Convert selected object to curve?"
+msgstr "খনগতলবা পোত্শক কর্ভতা ওন্থোকউ?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CHANGE_PRES_OBJECT\n"
+"string.text"
+msgid "Modify presentation object '$'"
+msgstr "অউত্পা পোত্শক '$' শেমদোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_MODIFY_PAGE\n"
+"string.text"
+msgid "Slide layout"
+msgstr "স্লাইদকী শকওং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STATSTR_PRINT\n"
+"string.text"
+msgid "Printing..."
+msgstr "নম্লিবা..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERT_FILE\n"
+"string.text"
+msgid "Insert file"
+msgstr "ফাইল হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SCALE_OBJS_TO_PAGE\n"
+"string.text"
+msgid "Should the image be scaled to the new slide format?"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_INSERT_SPECCHAR\n"
+"string.text"
+msgid "Insert special character"
+msgstr "অখন্নবা ময়েক হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SET_PRESLAYOUT\n"
+"string.text"
+msgid "Apply presentation layout"
+msgstr "মফোঙদোক্কী শকওং শিজিন্নবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STRING_NOTFOUND\n"
+"string.text"
+msgid "Search key not found."
+msgstr "থিবগী কি ফংদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLAY\n"
+"string.text"
+msgid "~Play"
+msgstr "~খোংবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STOP\n"
+"string.text"
+msgid "Sto~p"
+msgstr "লেপ্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_ORIGINALSIZE\n"
+"string.text"
+msgid "Original Size"
+msgstr "মশাগী অশেংবা মচাও-মরাক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_DRAWING\n"
+"string.text"
+msgid " (Drawing)"
+msgstr "(দ্রোয়িং)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_NOTES\n"
+"string.text"
+msgid " (Notes)"
+msgstr "(মরুওইবা ৱারোলশিং)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_HANDOUT\n"
+"string.text"
+msgid " (Handout)"
+msgstr "(চেয়েন)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRINT_OUTLINE\n"
+"string.text"
+msgid " (Outline)"
+msgstr "(আউতলাইন)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARN_SCALE_FAIL\n"
+"string.text"
+msgid ""
+"The specified scale is invalid.\n"
+"Do you want to enter a new one?"
+msgstr ""
+"অককনবা উতলিবা স্কেল অসি শিজিন্নবা য়াদ্রে.\n"
+"অদোম্না অনৌবা অমা চংশিনবা পাম্বিবরা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_NONE\n"
+"string.text"
+msgid "No action"
+msgstr "থবক অমত্তা লৈতে"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_PREVPAGE\n"
+"string.text"
+msgid "Go to previous slide"
+msgstr "মমাংগী স্লাইদতা চতপিরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_NEXTPAGE\n"
+"string.text"
+msgid "Go to next slide"
+msgstr "মথংগী স্লাইদতা চতপিরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_FIRSTPAGE\n"
+"string.text"
+msgid "Go to first slide"
+msgstr "অহানবা স্লাইদতা চতপিয়ু"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_LASTPAGE\n"
+"string.text"
+msgid "Go to last slide"
+msgstr "অরোয়বা স্লাইদতা চতপিরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_BOOKMARK\n"
+"string.text"
+msgid "Go to page or object"
+msgstr "লমায় নত্রগা পোত্শক্তা চতপিরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_DOCUMENT\n"
+"string.text"
+msgid "Go to document"
+msgstr "দোকুমেন্ততা চতপিরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_VANISH\n"
+"string.text"
+msgid "Fade object"
+msgstr "শিথরকপা পোত্শক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_INVISIBLE\n"
+"string.text"
+msgid "Hide object"
+msgstr "পোত্শক লোত্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_SOUND\n"
+"string.text"
+msgid "Play audio"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_VERB\n"
+"string.text"
+msgid "Start object action"
+msgstr "পোত্শক থবক হৌবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_PROGRAM\n"
+"string.text"
+msgid "Run program"
+msgstr "প্রোগ্রাম তৌবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_MACRO\n"
+"string.text"
+msgid "Run macro"
+msgstr "মেক্ৰো তৌবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CLICK_ACTION_STOPPRESENTATION\n"
+"string.text"
+msgid "Exit presentation"
+msgstr "মফোংদোক থোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_JUMP\n"
+"string.text"
+msgid "Target"
+msgstr "পান্দম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_ACTION\n"
+"string.text"
+msgid "Act~ion"
+msgstr "থবক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_SOUND\n"
+"string.text"
+msgid "Audio"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_PAGE_OBJECT\n"
+"string.text"
+msgid "Slide / Object"
+msgstr "স্লাইদ/পোত্শক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_DOCUMENT\n"
+"string.text"
+msgid "Document"
+msgstr "দোকুমেন্ত"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_PROGRAM\n"
+"string.text"
+msgid "Program"
+msgstr "প্ৰোগ্ৰাম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECTDLG_MACRO\n"
+"string.text"
+msgid "Macro"
+msgstr "মেক্রো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_EFFECT_NONE\n"
+"string.text"
+msgid "No Effect"
+msgstr "কান্নদবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_TEXT\n"
+"string.text"
+msgid "Insert Text"
+msgstr "তেক্স হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_SINGULAR\n"
+"string.text"
+msgid " Slide"
+msgstr "স্লাইদ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_PLURAL\n"
+"string.text"
+msgid " Slides"
+msgstr "স্লাইদশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LOAD_PRESENTATION_LAYOUT\n"
+"string.text"
+msgid "Load Slide Design"
+msgstr "স্লাইদ দিজাইন লোদ তৌবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAGTYPE_URL\n"
+"string.text"
+msgid "Insert as Hyperlink"
+msgstr "হাইপরলিঙ্ককুম্না হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAGTYPE_EMBEDDED\n"
+"string.text"
+msgid "Insert as Copy"
+msgstr "কোপিগুম্না হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAGTYPE_LINK\n"
+"string.text"
+msgid "Insert as Link"
+msgstr "লিঙ্ককুম্না হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_SMART\n"
+"string.text"
+msgid "Smart"
+msgstr "মশা খিংবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "ওই"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "য়েত"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_TOP\n"
+"string.text"
+msgid "Top"
+msgstr "মথক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_BOTTOM\n"
+"string.text"
+msgid "Bottom"
+msgstr "মখা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_LO\n"
+"string.text"
+msgid "Top Left?"
+msgstr "মথক্কী ওইথংবা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_LU\n"
+"string.text"
+msgid "Bottom Left?"
+msgstr "মখাগী ওইথংবা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_RO\n"
+"string.text"
+msgid "Top Right?"
+msgstr "মথক্কী য়েতথংবা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_RU\n"
+"string.text"
+msgid "Bottom Right?"
+msgstr "মখাগী য়েতথংবা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_HORZ\n"
+"string.text"
+msgid "Horizontal"
+msgstr "মফৈ ওইনা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_VERT\n"
+"string.text"
+msgid "Vertical"
+msgstr "ময়ুং ওইনা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GLUE_ESCDIR_ALL\n"
+"string.text"
+msgid "All?"
+msgstr "পুম্নমক?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CANT_PERFORM_IN_LIVEMODE\n"
+"string.text"
+msgid "This action can't be run in the live mode."
+msgstr "মসিগী থবকসি অহিংবা মওংদা তৌবা ঙমদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBLISH_BACK\n"
+"string.text"
+msgid "Back"
+msgstr "মতুং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBLISH_NEXT\n"
+"string.text"
+msgid "Continue"
+msgstr "মখা চত্থবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBLISH_OUTLINE\n"
+"string.text"
+msgid "Overview"
+msgstr "অপুনবা মীতয়েং"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"STR_EYEDROPPER\n"
+"string.text"
+msgid "Color Replacer"
+msgstr "মচু খাঙবা কনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_MORPHING\n"
+"string.text"
+msgid "Cross-fading"
+msgstr "ক্রোস-ফেদ তৌবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_COLORRESOLUTION\n"
+"string.text"
+msgid "Color resolution"
+msgstr "মচুগী রিজোলুসন"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_EXPAND_PAGE\n"
+"string.text"
+msgid "Expand Slide"
+msgstr "স্লাইদ চাওথোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_SUMMARY_PAGE\n"
+"string.text"
+msgid "Table of Contents Slide"
+msgstr "স্লাইদ হীরমশিংগী তেবল"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TWAIN_NO_SOURCE_UNX\n"
+"string.text"
+msgid "No SANE source is available at the moment."
+msgstr "মিকুপসিদা SANE হৌরকফম ফংদে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TWAIN_NO_SOURCE\n"
+"string.text"
+msgid "At present, no TWAIN source is available."
+msgstr "হৌজিক হৌজিক TWAIN হৌরকফম ফংদে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIX\n"
+"string.text"
+msgid "Fixed"
+msgstr "লেপ্লবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_VAR\n"
+"string.text"
+msgid "Variable"
+msgstr "খেন্নবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STANDARD_NORMAL\n"
+"string.text"
+msgid "Standard"
+msgstr "স্তেন্দর্দ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STANDARD_SMALL\n"
+"string.text"
+msgid "Standard (short)"
+msgstr "স্তেন্দর্দ (অতেনবা)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_STANDARD_BIG\n"
+"string.text"
+msgid "Standard (long)"
+msgstr "স্তেন্দর্দ (অশাংবা)"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_NAME_EXT\n"
+"string.text"
+msgid "File name"
+msgstr "ফাইল মমিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_FULLPATH\n"
+"string.text"
+msgid "Path/File name"
+msgstr "লম্বী/ফাইল মমিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_PATH\n"
+"string.text"
+msgid "Path"
+msgstr "লম্বী"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FILEFORMAT_NAME\n"
+"string.text"
+msgid "File name without extension"
+msgstr "শন্দোকপা য়াওদবা ফাইল মমিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NEW_CUSTOMSHOW\n"
+"string.text"
+msgid "New Custom Slide Show"
+msgstr "অনৌবা কস্তম স্লাইদ উত্পা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_COPY_CUSTOMSHOW\n"
+"string.text"
+msgid "Copy "
+msgstr "শিবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPRESS_DOCUMENT\n"
+"string.text"
+msgid "Presentation"
+msgstr "মফোঙদোক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_IMPRESS_DOCUMENT_FULLTYPE_60\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION Presentation"
+msgstr "%PRODUCTNAME %PRODUCTVERSION মফোঙদোক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHIC_DOCUMENT\n"
+"string.text"
+msgid "Drawing"
+msgstr "অয়েকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHIC_DOCUMENT_FULLTYPE_60\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION Drawing"
+msgstr "%PRODUCTNAME %PRODUCTVERSION অয়েকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_BREAK_METAFILE\n"
+"string.text"
+msgid "Ungroup Metafile(s)..."
+msgstr "পুনশিন্দবা মেতাফাইল(শিং)..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_BREAK_FAIL\n"
+"string.text"
+msgid "It was not possible to ungroup all drawing objects."
+msgstr "অয়েকপা পোত্শক পুম্নমক পুনশিন্দবা ওইথোক্তে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PUBDLG_SAMENAME\n"
+"string.text"
+msgid ""
+"A design already exists with this name.\n"
+"Do you want to replace it?"
+msgstr ""
+"মসিগী মিংসিগী দিজাইন অমা হান্না লৈরে.\n"
+"অদোম্না মসি শিন্দোকপা পাম্বিবরা?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "তেক্স"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_LINK\n"
+"string.text"
+msgid "Hyperlink"
+msgstr "হাইপরলিংক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_VLINK\n"
+"string.text"
+msgid "Visited link"
+msgstr "থুংলবা মরী"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLATTR_ALINK\n"
+"string.text"
+msgid "Active link"
+msgstr "শিনবাংলিবা মরী"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "মরুওইবা ৱারোলশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_CONTENTS\n"
+"string.text"
+msgid "Table of contents"
+msgstr "হীরমশিংগী তেবল"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_CLICKSTART\n"
+"string.text"
+msgid "Click here to start"
+msgstr "হৌনবগীদমক মফম অসিদা ক্লিক তৌরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_AUTHOR\n"
+"string.text"
+msgid "Author"
+msgstr "অইবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "ই-মেইল"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_HOMEPAGE\n"
+"string.text"
+msgid "Homepage"
+msgstr "য়ুমগীলমায়"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_INFO\n"
+"string.text"
+msgid "Further information"
+msgstr "মখাতাবা ঈপাউ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_DOWNLOAD\n"
+"string.text"
+msgid "Download presentation"
+msgstr "মফোঙদোক দাউনলোদ তৌবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_NOFRAMES\n"
+"string.text"
+msgid "Unfortunately your browser does not support floating frames."
+msgstr "লাইবক থীবদগী অদোমগী ব্রাউজরনা ফ্লোতিং ফ্রেমশিং তেংবাংদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_FIRSTPAGE\n"
+"string.text"
+msgid "First page"
+msgstr "অহানবা লমায়"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_LASTPAGE\n"
+"string.text"
+msgid "Last page"
+msgstr "অরোয়বা লমায়"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_SETTEXT\n"
+"string.text"
+msgid "Text"
+msgstr "তেক্স"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_SETGRAPHIC\n"
+"string.text"
+msgid "Graphics"
+msgstr "গ্রাফিক্স"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_OUTLINE\n"
+"string.text"
+msgid "With contents"
+msgstr "হীরমশিংগা লোয়ননা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_NOOUTLINE\n"
+"string.text"
+msgid "Without contents"
+msgstr "হীরমশিং য়াওদনা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WEBVIEW_SAVE\n"
+"string.text"
+msgid "To given page"
+msgstr "অপীবা লমায়দা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_VECTORIZE\n"
+"string.text"
+msgid "Convert bitmap to polygon"
+msgstr "বিতমেপ পোলিগোন্দা ওন্থোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRES_SOFTEND\n"
+"string.text"
+msgid "Click to exit presentation..."
+msgstr "মফোঙদোক থোকখিনবা ক্লিক তৌবা..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PRES_PAUSE\n"
+"string.text"
+msgid "Pause..."
+msgstr "লেপ্পা..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WIZARD_ORIGINAL\n"
+"string.text"
+msgid "<Original>"
+msgstr "<মশাগী অশেংবা>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ISLOADING\n"
+"string.text"
+msgid "Loading..."
+msgstr "লোদ তৌরিবা..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DRAW_GRAF_TOOLBOX\n"
+"string.text"
+msgid "Graphics Object Bar"
+msgstr "গ্রাফিক্স পোত্শক্কী বার"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_APPLY_3D_FAVOURITE\n"
+"string.text"
+msgid "Apply 3D favorite"
+msgstr "3D পামজবা শিজিনরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_GRAFFILTER\n"
+"string.text"
+msgid "Graphics filter"
+msgstr "গ্ৰাফিক্স ফিল্তর"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_WARNING_NOSOUNDFILE\n"
+"string.text"
+msgid ""
+"The file %\n"
+"is not a valid audio file !"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CONVERT_TO_METAFILE\n"
+"string.text"
+msgid "Convert to metafile"
+msgstr "মেতা ফাইলদা ওন্থোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_CONVERT_TO_BITMAP\n"
+"string.text"
+msgid "Convert to bitmap"
+msgstr "বিতমেপতা ওন্থোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_ERROR_CREATE_FILE\n"
+"string.text"
+msgid "Cannot create the file $(URL1)."
+msgstr "$(URL1) ফাইল শেমগত্পা ঙমদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_ERROR_OPEN_FILE\n"
+"string.text"
+msgid "Could not open the file $(URL1)."
+msgstr "$(URL1) ফাইল হাংবা ঙমদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_HTMLEXP_ERROR_COPY_FILE\n"
+"string.text"
+msgid "The file $(URL1) could not be copied to $(URL2)"
+msgstr "$(URL1) ফাইল অসি $(URL2) দা শিনবা ঙমদ্রে."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PAGE_BACKGROUND_TITLE\n"
+"string.text"
+msgid "Page Settings"
+msgstr "লমায়গী সেত্তিংশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PAGE_BACKGROUND_TXT\n"
+"string.text"
+msgid "Background settings for all pages?"
+msgstr "লমায় পুম্নমক্কী হৌরকফমগী সেত্তিংশিং ?"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TITLE_RENAMESLIDE\n"
+"string.text"
+msgid "Rename Slide"
+msgstr "স্লাইদকী মমিং ওনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_DESC_RENAMESLIDE\n"
+"string.text"
+msgid "Name"
+msgstr "মিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_TITLE\n"
+"string.text"
+msgid "Title Area for AutoLayouts"
+msgstr "ওতোলেআউতকী মিংথোলগী মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_OUTLINE\n"
+"string.text"
+msgid "Object Area for AutoLayouts"
+msgstr "ওতোলেআউতকী পোত্শক্কী মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_FOOTER\n"
+"string.text"
+msgid "Footer Area"
+msgstr "ফুতর মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_HEADER\n"
+"string.text"
+msgid "Header Area"
+msgstr "হেদর মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_DATETIME\n"
+"string.text"
+msgid "Date Area"
+msgstr "তাং মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_SLIDE\n"
+"string.text"
+msgid "Slide Number Area"
+msgstr "স্লাইদ মশিংগী মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_NUMBER\n"
+"string.text"
+msgid "Page Number Area"
+msgstr "লমায় মশিংগী মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_HEADER\n"
+"string.text"
+msgid "<header>"
+msgstr "<হেদর>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_FOOTER\n"
+"string.text"
+msgid "<footer>"
+msgstr "<ফুতর>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_DATETIME\n"
+"string.text"
+msgid "<date/time>"
+msgstr "<তাং/মতম>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_NUMBER\n"
+"string.text"
+msgid "<number>"
+msgstr "<মশিং>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_FIELD_PLACEHOLDER_COUNT\n"
+"string.text"
+msgid "<count>"
+msgstr "<মশিং>"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PLACEHOLDER_DESCRIPTION_NOTES\n"
+"string.text"
+msgid "Notes Area"
+msgstr "মরুওইবা ৱারোলগী মফম"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_UNDO_HANGULHANJACONVERSION\n"
+"string.text"
+msgid "Hangul/Hanja Conversion"
+msgstr "হানগুল্/হানজা ওন্থোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LEFT_PANE_IMPRESS_TITLE\n"
+"string.text"
+msgid "Slides"
+msgstr "স্লাইদশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_LEFT_PANE_DRAW_TITLE\n"
+"string.text"
+msgid "Pages"
+msgstr "লমায়শিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_RIGHT_PANE_TITLE\n"
+"string.text"
+msgid "Tasks"
+msgstr "থবকশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_TITLE\n"
+"string.text"
+msgid "Master Pages"
+msgstr "মাস্তর লমায়শিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_MENU_TITLE\n"
+"string.text"
+msgid "View"
+msgstr "মীতয়েং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_MENU_LOCK\n"
+"string.text"
+msgid "~Dock Task Pane"
+msgstr "~থবক্কী পেন লৌথোকপা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_MASTER_PAGE_MENU_UNLOCK\n"
+"string.text"
+msgid "~Undock Task Pane"
+msgstr "~থবক্কী পেন লৌথোক্তবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_CURRENT_MASTER_PAGES_TITLE\n"
+"string.text"
+msgid "Used in This Presentation"
+msgstr "মসিগী মফোঙদোকসিদা শিজিন্নরবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_RECENT_MASTER_PAGES_TITLE\n"
+"string.text"
+msgid "Recently Used"
+msgstr "ইনৌ-নৌনা শিজিন্নরবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_ALL_MASTER_PAGES_TITLE\n"
+"string.text"
+msgid "Available for Use"
+msgstr "শিজিন্ননবগীদমক ফংবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_NOT_AVAILABLE_SUBSTITUTION\n"
+"string.text"
+msgid "Preview not available"
+msgstr "অহানবা মীতয়েং ফংদ্রে"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_PREPARING_PREVIEW_SUBSTITUTION\n"
+"string.text"
+msgid "Preparing preview"
+msgstr "অহানবা মীতয়েং শেম-শারি"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_TASKPANEL_LAYOUT_MENU_TITLE\n"
+"string.text"
+msgid "Layouts"
+msgstr "শকওংশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_GRAPHICS_STYLE_FAMILY\n"
+"string.text"
+msgid "Drawing Object Styles"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_CELL_STYLE_FAMILY\n"
+"string.text"
+msgid "Cell Styles"
+msgstr "কাখলগী মওংশিং"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"DLG_TABLEDESIGNPANE\n"
+"string.text"
+msgid "Table Designs"
+msgstr "তেবলগী দিজাইন..."
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"STR_CUSTOMANIMATIONPANE\n"
+"string.text"
+msgid "Custom Animation"
+msgstr "কস্তম এনিমেসন..."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SLIDE_TRANSITION_PANE\n"
+"string.text"
+msgid "Slide Transition"
+msgstr "স্লাইদ হোংবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NAVIGATOR_SHOW_NAMED_SHAPES\n"
+"string.text"
+msgid "Named shapes"
+msgstr "মমিং থোনবা মওং-মতৌ"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NAVIGATOR_SHOW_ALL_SHAPES\n"
+"string.text"
+msgid "All shapes"
+msgstr "মওং-মতৌ পুম্নমক"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_NAVIGATOR_SHAPE_BASE_NAME\n"
+"string.text"
+msgid "Shape %1"
+msgstr "মওং-মতৌ %1"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_SET_BACKGROUND_PICTURE\n"
+"string.text"
+msgid "Set Background Image for Slide ..."
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_ACC_DIALOG_DESC\n"
+"string.text"
+msgid "Select a template from which to import page designs."
+msgstr "লামাযগী দিজাইন পুশিল্লক্কদবা মফম অদুদগী তেমপ্লেত অমা খল্লো"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"RID_ANNOTATIONS_START\n"
+"string.text"
+msgid "Comments"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"মরুওইবা ৱারোলশিং\n"
+"#-#-#-#-#  navipi.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"খঙজিনগদবশিং\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"মোতশিং\n"
+"#-#-#-#-#  res.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"মোতশিং\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"মোতশিং"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_RESET_LAYOUT\n"
+"string.text"
+msgid "Reset Slide Layout"
+msgstr "স্লাইদকী শকওং রিসেত তৌরো"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_TABLE\n"
+"string.text"
+msgid "Insert Table"
+msgstr "তেবল হাপচিল্লু"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_CHART\n"
+"string.text"
+msgid "Insert Chart"
+msgstr "চার্ত হাপচিনবা"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_PICTURE\n"
+"string.text"
+msgid "Insert Image"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_INSERT_MOVIE\n"
+"string.text"
+msgid "Insert Audio or Video"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STRING_DRAG_AND_DROP_PAGES\n"
+"string.text"
+msgid "Drag and Drop Pages"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STRING_DRAG_AND_DROP_SLIDES\n"
+"string.text"
+msgid "Drag and Drop Slides"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PHOTO_ALBUM_EMPTY_WARNING\n"
+"string.text"
+msgid "Please add Images to the Album."
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"STR_PHOTO_ALBUM_TEXTBOX\n"
+"string.text"
+msgid "Text Slide"
+msgstr ""
+
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_DRAW_VIEWER_TOOLBOX\n"
+"string.text"
+msgid "Function Bar (viewing mode)"
+msgstr "মথৌগী বার (মীতয়েংগী মওং)"
+
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_DRAW_MEDIA_TOOLBOX\n"
+"string.text"
+msgid "Media Playback"
+msgstr "মেদিয়া প্লেবেক"
+
+#: toolbox.src
+msgctxt ""
+"toolbox.src\n"
+"RID_DRAW_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table"
+msgstr "তেবল"

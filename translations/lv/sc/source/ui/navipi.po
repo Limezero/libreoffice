@@ -1,0 +1,321 @@
+#. extracted from sc/source/ui/navipi
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-01-31 13:28+0000\n"
+"Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"FT_ROW\n"
+"fixedtext.text"
+msgid "Row"
+msgstr "Rinda"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"ED_ROW\n"
+"numericfield.quickhelptext"
+msgid "Row"
+msgstr "Rinda"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"FT_COL\n"
+"fixedtext.text"
+msgid "Column"
+msgstr "Kolonna"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"ED_COL\n"
+"spinfield.quickhelptext"
+msgid "Column"
+msgstr "Kolonna"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"LB_DOCUMENTS\n"
+"listbox.quickhelptext"
+msgid "Document"
+msgstr "Dokuments"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_DATA\n"
+"toolboxitem.text"
+msgid "Data Range"
+msgstr "Datu diapazons"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_UP\n"
+"toolboxitem.text"
+msgid "Start"
+msgstr "Sākums"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_DOWN\n"
+"toolboxitem.text"
+msgid "End"
+msgstr "Beigas"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_ZOOMOUT\n"
+"toolboxitem.text"
+msgid "Contents"
+msgstr "Saturs"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_CHANGEROOT\n"
+"toolboxitem.text"
+msgid "Toggle"
+msgstr "Pārslēgt"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_SCENARIOS\n"
+"toolboxitem.text"
+msgid "Scenarios"
+msgstr "Scenāriji"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR.TBX_CMD\n"
+"IID_DROPMODE\n"
+"toolboxitem.text"
+msgid "Drag Mode"
+msgstr "Vilkšanas režīms"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_DRAGMODE\n"
+"string.text"
+msgid "Drag Mode"
+msgstr "Vilkšanas režīms"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_DISPLAY\n"
+"string.text"
+msgid "Display"
+msgstr "Attēlot"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_ACTIVE\n"
+"string.text"
+msgid "active"
+msgstr "aktīvs"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_NOTACTIVE\n"
+"string.text"
+msgid "inactive"
+msgstr "neaktīvs"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_HIDDEN\n"
+"string.text"
+msgid "hidden"
+msgstr "slēpts"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_ACTIVEWIN\n"
+"string.text"
+msgid "Active Window"
+msgstr "Aktīvais logs"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_QHLP_SCEN_LISTBOX\n"
+"string.text"
+msgid "Scenario Name"
+msgstr "Scenārija nosaukums"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"STR_QHLP_SCEN_COMMENT\n"
+"string.text"
+msgid "Comment"
+msgstr "Komentārs"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_SCDLG_NAVIGATOR\n"
+"window.text"
+msgid "Navigator"
+msgstr "Navigators"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_ROOT\n"
+"string.text"
+msgid "Contents"
+msgstr "Saturs"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_TABLE\n"
+"string.text"
+msgid "Sheets"
+msgstr "Loksnes"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_RANGENAME\n"
+"string.text"
+msgid "Range names"
+msgstr "Diapazonu nosaukumi"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_DBAREA\n"
+"string.text"
+msgid "Database ranges"
+msgstr "Datubāzes diapazoni"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_GRAPHIC\n"
+"string.text"
+msgid "Images"
+msgstr "Attēli"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_OLEOBJECT\n"
+"string.text"
+msgid "OLE objects"
+msgstr "OLE objekti"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_NOTE\n"
+"string.text"
+msgid "Comments"
+msgstr "Komentāri"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_AREALINK\n"
+"string.text"
+msgid "Linked areas"
+msgstr "Savienotie apgabali"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"SCSTR_CONTENT_DRAWING\n"
+"string.text"
+msgid "Drawing objects"
+msgstr "Zīmēšanas objekti"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_DROPMODE\n"
+"RID_DROPMODE_URL\n"
+"menuitem.text"
+msgid "Insert as Hyperlink"
+msgstr "Ievietot kā hipersaiti"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_DROPMODE\n"
+"RID_DROPMODE_LINK\n"
+"menuitem.text"
+msgid "Insert as Link"
+msgstr "Ievietot kā saiti"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_DROPMODE\n"
+"RID_DROPMODE_COPY\n"
+"menuitem.text"
+msgid "Insert as Copy"
+msgstr "Ievietot kā kopiju"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_NAVIPI_SCENARIO\n"
+"RID_NAVIPI_SCENARIO_DELETE\n"
+"menuitem.text"
+msgid "Delete"
+msgstr "Dzēst"
+
+#: navipi.src
+msgctxt ""
+"navipi.src\n"
+"RID_POPUP_NAVIPI_SCENARIO\n"
+"RID_NAVIPI_SCENARIO_EDIT\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr "Īpašības..."

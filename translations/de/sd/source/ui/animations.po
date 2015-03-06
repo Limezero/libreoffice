@@ -1,0 +1,563 @@
+#. extracted from sd/source/ui/animations
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-11-28 08:10+0000\n"
+"Last-Translator: Christian <kuehl.christian@googlemail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1385626242.0\n"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_WITH_CLICK\n"
+"menuitem.text"
+msgid "Start On ~Click"
+msgstr "Beim ~Klicken"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_WITH_PREVIOUS\n"
+"menuitem.text"
+msgid "Start ~With Previous"
+msgstr "Mit ~Vorheriger"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_AFTER_PREVIOUS\n"
+"menuitem.text"
+msgid "Start ~After Previous"
+msgstr "~Nach Vorheriger"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_OPTIONS\n"
+"menuitem.text"
+msgid "~Effect Options..."
+msgstr "~Effektoptionen..."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_DURATION\n"
+"menuitem.text"
+msgid "~Timing..."
+msgstr "~Anzeigedauer..."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_REMOVE\n"
+"menuitem.text"
+msgid "~Remove"
+msgstr "En~tfernen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_25\n"
+"menuitem.text"
+msgid "Tiny"
+msgstr "Winzig"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_50\n"
+"menuitem.text"
+msgid "Smaller"
+msgstr "Kleiner"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_150\n"
+"menuitem.text"
+msgid "Larger"
+msgstr "Größer"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_400\n"
+"menuitem.text"
+msgid "Extra large"
+msgstr "Riesengroß"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_25\n"
+"menuitem.text"
+msgid "Tiny"
+msgstr "Winzig"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_50\n"
+"menuitem.text"
+msgid "Smaller"
+msgstr "Kleiner"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_150\n"
+"menuitem.text"
+msgid "Larger"
+msgstr "Größer"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_400\n"
+"menuitem.text"
+msgid "Extra large"
+msgstr "Riesengroß"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_HORIZONTAL\n"
+"menuitem.text"
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_VERTICAL\n"
+"menuitem.text"
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_BOTH\n"
+"menuitem.text"
+msgid "Both"
+msgstr "Beide"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_QUARTER_SPIN\n"
+"menuitem.text"
+msgid "Quarter spin"
+msgstr "Vierteldrehung"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_HALF_SPIN\n"
+"menuitem.text"
+msgid "Half spin"
+msgstr "Halbe Drehung"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_FULL_SPIN\n"
+"menuitem.text"
+msgid "Full spin"
+msgstr "Komplette Drehung"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_TWO_SPINS\n"
+"menuitem.text"
+msgid "Two spins"
+msgstr "Zwei Drehungen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_CLOCKWISE\n"
+"menuitem.text"
+msgid "Clockwise"
+msgstr "Im Uhrzeigersinn"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_COUNTERCLOCKWISE\n"
+"menuitem.text"
+msgid "Counter-clockwise"
+msgstr "Gegen den Uhrzeigersinn"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_BOLD\n"
+"menuitem.text"
+msgid "Bold"
+msgstr "Fett"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_ITALIC\n"
+"menuitem.text"
+msgid "Italic"
+msgstr "Kursiv"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_UNDERLINED\n"
+"menuitem.text"
+msgid "Underlined"
+msgstr "Unterstrichen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_VERY_SLOW\n"
+"string.text"
+msgid "Very slow"
+msgstr "Sehr langsam"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_SLOW\n"
+"string.text"
+msgid "Slow"
+msgstr "Langsam"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_NORMAL\n"
+"string.text"
+msgid "Medium"
+msgstr "Mittel"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_FAST\n"
+"string.text"
+msgid "Fast"
+msgstr "Schnell"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_VERY_FAST\n"
+"string.text"
+msgid "Very fast"
+msgstr "Sehr schnell"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_NONE\n"
+"string.text"
+msgid "none"
+msgstr "Keine"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_UNTIL_NEXT_CLICK\n"
+"string.text"
+msgid "Until next click"
+msgstr "Bis zum nächsten Klick"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_UNTIL_END_OF_SLIDE\n"
+"string.text"
+msgid "Until end of slide"
+msgstr "Bis zum Ende der Folie"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DIRECTION_PROPERTY\n"
+"string.text"
+msgid "Direction"
+msgstr "Richtung"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_ZOOM_PROPERTY\n"
+"string.text"
+msgid "Zoom"
+msgstr "Zoom"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SPOKES_PROPERTY\n"
+"string.text"
+msgid "Spokes"
+msgstr "Speichen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FIRST_COLOR_PROPERTY\n"
+"string.text"
+msgid "First color"
+msgstr "Erste Farbe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SECOND_COLOR_PROPERTY\n"
+"string.text"
+msgid "Second color"
+msgstr "Zweite Farbe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FILL_COLOR_PROPERTY\n"
+"string.text"
+msgid "Fill color"
+msgstr "Füllfarbe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_STYLE_PROPERTY\n"
+"string.text"
+msgid "Style"
+msgstr "Formatvorlage"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_PROPERTY\n"
+"string.text"
+msgid "Font"
+msgstr "Schriftart"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_COLOR_PROPERTY\n"
+"string.text"
+msgid "Font color"
+msgstr "Schriftfarbe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_SIZE_STYLE_PROPERTY\n"
+"string.text"
+msgid "Style"
+msgstr "Formatvorlage"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_STYLE_PROPERTY\n"
+"string.text"
+msgid "Typeface"
+msgstr "Schriftschnitt"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_LINE_COLOR_PROPERTY\n"
+"string.text"
+msgid "Line color"
+msgstr "Linienfarbe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SIZE_PROPERTY\n"
+"string.text"
+msgid "Font size"
+msgstr "Schriftgrad"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SCALE_PROPERTY\n"
+"string.text"
+msgid "Size"
+msgstr "Größe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_AMOUNT_PROPERTY\n"
+"string.text"
+msgid "Amount"
+msgstr "Betrag"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_COLOR_PROPERTY\n"
+"string.text"
+msgid "Color"
+msgstr "Farbe"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_NO_SOUND\n"
+"string.text"
+msgid "(No sound)"
+msgstr "(Ohne Klang)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_STOP_PREVIOUS_SOUND\n"
+"string.text"
+msgid "(Stop previous sound)"
+msgstr "(Vorherigen Klang Anhalten)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_BROWSE_SOUND\n"
+"string.text"
+msgid "Other sound..."
+msgstr "Anderer Klang..."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SAMPLE\n"
+"string.text"
+msgid "Sample"
+msgstr "Beispiel"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_1_SPOKES\n"
+"string.text"
+msgid "1 Spoke"
+msgstr "1 Speiche"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_2_SPOKES\n"
+"string.text"
+msgid "2 Spokes"
+msgstr "2 Speichen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_3_SPOKES\n"
+"string.text"
+msgid "3 Spokes"
+msgstr "3 Speichen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_4_SPOKES\n"
+"string.text"
+msgid "4 Spokes"
+msgstr "4 Speichen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_8_SPOKES\n"
+"string.text"
+msgid "8 Spokes"
+msgstr "8 Speichen"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_INSTANT\n"
+"string.text"
+msgid "Instant"
+msgstr "Augenblicklich"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_GRADUAL\n"
+"string.text"
+msgid "Gradual"
+msgstr "Schrittweise"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_TRIGGER\n"
+"string.text"
+msgid "Trigger"
+msgstr "Auslöser"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_LIST_HELPTEXT\n"
+"string.text"
+msgid "First select the slide element and then click 'Add...' to add an animation effect."
+msgstr "Erst ein Element auf dieser Folie auswählen und dann auf 'Hinzufügen...' klicken, um die Animation hinzuzufügen."
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_USERPATH\n"
+"string.text"
+msgid "User paths"
+msgstr "Benutzerdefinierte Pfade"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_SLIDETRANSITION_NONE\n"
+"string.text"
+msgid "No transition"
+msgstr "Ohne Übergang"

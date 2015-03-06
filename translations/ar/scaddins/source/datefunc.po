@@ -1,0 +1,413 @@
+#. extracted from scaddins/source/datefunc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2012-11-18 15:49+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353253770.0\n"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"1\n"
+"string.text"
+msgid "Calculates the number of weeks in a specific period"
+msgstr "حساب عدد الأسابيع في فترة محددة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "تاريخ البدء"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"3\n"
+"string.text"
+msgid "First day of the period"
+msgstr "أول يوم من الفترة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "تاريخ الانتهاء"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"5\n"
+"string.text"
+msgid "Last day of the period"
+msgstr "آخر يوم من الفترة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"6\n"
+"string.text"
+msgid "Type"
+msgstr "النوع"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"7\n"
+"string.text"
+msgid "Type of calculation: Type=0 means the time interval, Type=1 means calendar weeks."
+msgstr "نوع الحساب: النوع = 0 يعني الفاصل الزمني، النوع = 1 يعني أسابيع التقويم."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"1\n"
+"string.text"
+msgid "Determines the number of months in a specific period."
+msgstr "تحديد عدد الأشهر في فترة محددة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "تاريخ البدء"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"3\n"
+"string.text"
+msgid "First day of the period."
+msgstr "اليوم الأول في الفترة."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "تاريخ الانتهاء"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"5\n"
+"string.text"
+msgid "Last day of the period."
+msgstr "اليوم الأخير في الفترة."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"6\n"
+"string.text"
+msgid "Type"
+msgstr "النوع"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"7\n"
+"string.text"
+msgid "Type of calculation: Type=0 means the time interval, Type=1 means calendar months."
+msgstr "نوع الحساب: النوع=  0 تعني الفاصل الزمني، النوع = 1 تعني أشهر التقويم."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"1\n"
+"string.text"
+msgid "Calculates the number of years in a specific period."
+msgstr "حساب عدد السنوات في فترة محددة."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "تاريخ البدء"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"3\n"
+"string.text"
+msgid "First day of the period"
+msgstr "أول يوم من الفترة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "تاريخ الانتهاء"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"5\n"
+"string.text"
+msgid "Last day of the period"
+msgstr "آخر يوم من الفترة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"6\n"
+"string.text"
+msgid "Type"
+msgstr "النوع"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"7\n"
+"string.text"
+msgid "Type of calculation: Type=0 means the time interval, Type=1 means calendar years."
+msgstr "نوع الحساب: النوع=0 يعني الفاصل الزمني، النوع=1 يعني سنوات التقويم."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear\n"
+"1\n"
+"string.text"
+msgid "Returns 1 (TRUE) if the date is a day of a leap year, otherwise 0 (FALSE)."
+msgstr "إرجاع 1 (صحيح) إذا كان التاريخ هو تاريخ يوم في السنة الكبيسة، وإلا فسيتم إرجاع 0 (خطأ)."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "التاريخ"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired year"
+msgstr "أي يوم من أيام السنة المطلوبة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days of the month in which the date entered occurs"
+msgstr "إرجاع عدد الأيام للشهر الموجود في التاريخ المدخل"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "التاريخ"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired month"
+msgstr "أي يوم من أيام الشهر المطلوب"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days of the year in which the date entered occurs."
+msgstr "إرجاع عدد الأيام للسنة التي يمر فيها التاريخ المدخل."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "التاريخ"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired year"
+msgstr "أي يوم من أيام السنة المطلوبة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear\n"
+"1\n"
+"string.text"
+msgid "Returns the number of weeks of the year in which the date entered occurs"
+msgstr "إرجاع عدد الأسابيع للسنة التي يمر فيها التاريخ المدخل."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "التاريخ"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired year"
+msgstr "أي يوم من أيام السنة المطلوبة"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13\n"
+"1\n"
+"string.text"
+msgid "Encrypts or decrypts a text using the ROT13 algorithm"
+msgstr "تعمية أو فك تعمية النص باستخدام خوارزمية ROT13"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13\n"
+"2\n"
+"string.text"
+msgid "Text"
+msgstr "النص"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13\n"
+"3\n"
+"string.text"
+msgid "Text to be encrypted or text already encrypted"
+msgstr "النص المطلوب تعميته أو نص معمّى مسبقًا"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DiffWeeks\n"
+"string.text"
+msgid "WEEKS"
+msgstr "WEEKS"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DiffMonths\n"
+"string.text"
+msgid "MONTHS"
+msgstr "MONTHS"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DiffYears\n"
+"string.text"
+msgid "YEARS"
+msgstr "YEARS"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_IsLeapYear\n"
+"string.text"
+msgid "ISLEAPYEAR"
+msgstr "ISLEAPYEAR"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DaysInMonth\n"
+"string.text"
+msgid "DAYSINMONTH"
+msgstr "DAYSINMONTH"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DaysInYear\n"
+"string.text"
+msgid "DAYSINYEAR"
+msgstr "DAYSINYEAR"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_WeeksInYear\n"
+"string.text"
+msgid "WEEKSINYEAR"
+msgstr "WEEKSINYEAR"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_Rot13\n"
+"string.text"
+msgid "ROT13"
+msgstr "ROT13"

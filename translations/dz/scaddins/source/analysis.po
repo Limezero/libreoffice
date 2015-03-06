@@ -1,0 +1,7016 @@
+#. extracted from scaddins/source/analysis
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2012-07-14 08:47+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: dz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date before or after a specified number of workdays"
+msgstr "ཚེས་གྲངས་ཀྱི་ཨང་རིམ་དེ་ ཉིན་ལཱ་ཚུའི་གསལ་བཀོད་འབད་འབད་བའི་ཨང་གི་ཧེ་མ་ཡང་ན་ཤུལ་མ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"4\n"
+"string.text"
+msgid "Days"
+msgstr "གཟའ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"5\n"
+"string.text"
+msgid "The number of workdays before or after the start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་ཀྱི་ཤུལ་ལས་ཡང་ན་ཧེ་མའི་ཉིན་ལཱ་གི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "ངལ་གསོ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"7\n"
+"string.text"
+msgid "List of date values of days off (vacation, holidays, etc.)"
+msgstr "གཟའ་ཨོཕ་ཚུའི་ཚེས་གྲངས་ཀྱི་གནས་གོང་གི་ཐོ་ཡིག(ངལ་གསོའི་རིགས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"1\n"
+"string.text"
+msgid "Returns the number of years (including fractional part) between two dates"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "མཇུག་བསྡུ་བའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "མཇུག་བསྡུ་བའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"6\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"7\n"
+"string.text"
+msgid "Basis indicates the day-count convention to use in the calculation"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date that is a specified number of months before or after the start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་ཀྱི་ཧེ་མ་ཡང་ན་ཤུལ་མའི་ཟླཝ་གི་གྲངས་གསལ་བཀོད་འབད་འབདཝ་ཨིན་མི་ ཚེས་གྲངས་ཀྱི་ཨང་རིམ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "ཟླཝ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་ཀྱི་ཤུལ་ལས་ཡང་ན་ཧེ་མ་ ཟླཝ་གི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of the calendar week in which the specified date occurs."
+msgstr "གསལ་བཀོད་འབད་མི་ཚེས་གྲངས་བྱུང་མི་ ཟླ་ཐོའི་བདུན་ཕྲག་གི་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"3\n"
+"string.text"
+msgid "The date"
+msgstr "ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"4\n"
+"string.text"
+msgid "Return type"
+msgstr "སླར་ལོག་དབྱེ་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"5\n"
+"string.text"
+msgid "Indicates the first day of the week (1 = Sunday, other values = Monday)"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the last day of the month that comes a certain number of months before or after the start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་ཀྱི་ཤུལ་ལས་ཡང་ན་ཧེ་མ་འོང་མི་ཟླཝ་གི་གྲངས་དག་པ་ཅིག་གི་མཇུག་གི་གཟའི་ཨང་རིམ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "ཟླཝ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་ཀྱི་ཤུལ་ལས་ཡང་ན་ཧེ་མ་ ཟླཝ་གྱི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of workdays between two dates"
+msgstr "ཚེས་གྲངས་གཉིས་ཀྱི་བར་ན་ ཉིན་ལཱ་ཚུའི་གྲངས་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "འགོ་བཙུགས་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "མཇུག་བསྡུ་བའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "མཇུག་བསྡུ་བའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "ངལ་གསོ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"7\n"
+"string.text"
+msgid "List of date values representing days off (vacation, holidays, etc.)"
+msgstr "གཟའ་ཨོཕ་ཚུའི་ཁྱད་ཚབ་འབད་མི་ཚེས་གྲངས་ཀྱི་གནས་གོང་གི་ཐོ་ཡིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is even"
+msgstr "ཨང་དེ་ཆ་ཅན་ཨིན་པ་ཅིན་ གནས་གོང་'བདེན་པ་'དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is odd"
+msgstr "ཨང་དེ་ཡ་ཅན་ཨིན་པ་ཅིན་ གནས་གོང་'བདེན་པ་'དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"1\n"
+"string.text"
+msgid "Returns the multinomial coefficient of a set of numbers"
+msgstr "གྲངས་ཀྱི་ཆ་ཚན་གྱི་མཱལ་ཊི་ནོམིཡལ་བྱེད་རྐྱེན་མཐུན་མོང་བ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "ཨང་གྲངས་(ཚུ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers for which you want the multinomial coefficient"
+msgstr "ཁྱོད་ཀྱི་དགོ་མི་མཱལ་ཊི་ནོམིཡལ་བྱེད་རྐྱེན་མཐུན་མོང་བའི་དོན་ལུ་ཨང་ཡང་ན་གྲངས་ཀྱི་ཐོ་ཡིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of a power series"
+msgstr "ནུས་ཤུགས་རྒྱུན་རིམ་གྱི་དངུལ་བསྡོམས་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"3\n"
+"string.text"
+msgid "The independent variable of the power series"
+msgstr "ནུས་ཤུགས་རྒྱུན་རིམ་གྱི་རང་དབང་འགྱུར་ཅན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"5\n"
+"string.text"
+msgid "The initial power to which x is to be raised"
+msgstr "ཨེགསི་དེ་ཆེར་བསྐྱེད་འབད་ནི་ཨིན་མི་འགོ་ཐོག་གི་ནུས་ཤུགས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"6\n"
+"string.text"
+msgid "M"
+msgstr "M"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"7\n"
+"string.text"
+msgid "The increment by which to increase n for each term in the series"
+msgstr "རྒྱུན་རིམ་ནང་གི་ཐ་སྙད་རེའི་དོན་ལུ་ ཨེན་ཡར་འཕར་འབད་མི་ཡར་འཕར་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"8\n"
+"string.text"
+msgid "Coefficients"
+msgstr "བྱེད་རྐྱེན་མཐུན་མོང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"9\n"
+"string.text"
+msgid "Set of coefficients by which each successive power of the variable x is multiplied"
+msgstr "འགྱུར་ཅན་ཨེགསི་གི་བརྒྱུད་རིམ་ཅན་གྱི་ནུས་ཤུགས་དགུ་མཐའ་རྐྱབས་མི་རེའི་བྱེད་རྐྱེན་མཐུན་མོང་བ་ཚུའི་ཆ་ཚན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"1\n"
+"string.text"
+msgid "Returns the integer portion of a division"
+msgstr "སྡེ་ཚན་ཅིག་གི་ཧྲིལ་ཨང་གི་ཆ་ཤས་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "དཔྱ་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "བགོ་བྱ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "གཞི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "བགོ་བྱེད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"1\n"
+"string.text"
+msgid "Returns a number rounded to a specified multiple"
+msgstr "གསལ་བཀོད་འབད་མི་སྣ་མང་ནང་ལུ་གྲངས་སྐྱེལ་སྐྱེལཝ་ཅིག་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"3\n"
+"string.text"
+msgid "The number to round off"
+msgstr "ཧྲིལ་གྲངས་བཟོ་ནིའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"4\n"
+"string.text"
+msgid "Multiple"
+msgstr "སྣ་མང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"5\n"
+"string.text"
+msgid "The multiple to which you want to round number"
+msgstr "ཁྱོད་ཀྱིས་ ཨང་གྲངས་ཧྲིལ་ཨང་བཟོ་ནིའི་ཨིན་མི་སྣ་མང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a number which has been multiplied by pi"
+msgstr "པི་ཨའི་གིས་དགུ་མཐའ་རྐྱབས་ཡོད་པའི་ཨང་གྲངས་ཀྱི་གྲུ་བཞིའི་རྩ་བ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"3\n"
+"string.text"
+msgid "The number by which pi is multiplied"
+msgstr "ཨང་གྲངས་པི་ཨའི་ཨིན་མི་དེ་དགུ་མཐའ་རྐྱབས་ཡོད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"1\n"
+"string.text"
+msgid "Returns a random integer between the numbers you specify"
+msgstr "ཁྱོད་ཀྱིས་གསལ་བཀོད་འབད་མི་ཨང་གྲངས་ཀྱི་བར་ནང་གི་གང་འབྱུང་ཧྲིལ་ཨང་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"2\n"
+"string.text"
+msgid "Bottom"
+msgstr "མཇུག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"3\n"
+"string.text"
+msgid "The smallest integer returned"
+msgstr "ཧྲིལ་ཨང་ཆུང་ཤོས་དེ་སླར་ལོག་འབད་ཡོདཔ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"4\n"
+"string.text"
+msgid "Top"
+msgstr "མགོ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"5\n"
+"string.text"
+msgid "The largest integer returned"
+msgstr "ཧྲིལ་ཨང་སྦོམ་མི་དེ་སླར་ལོག་འབད་ཡོདཔ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"1\n"
+"string.text"
+msgid "Returns the greatest common divisor"
+msgstr "མཐུན་མོང་གི་བགོ་བྱེད་སྦོམ་ཤོས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "ཨང་གྲངས་(ཚུ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "ཨང་གྲངས་ཡང་ན་ཨང་གྲངས་ཚུའི་ཐོ་ཡིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"1\n"
+"string.text"
+msgid "Returns the least common multiple"
+msgstr "མཐུན་མོང་གི་སྣ་མང་ཉུང་ཤོས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "ཨང་གྲངས་(ཚུ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "ཨང་གྲངས་ཡང་ན་ཨང་གྲངས་ཚུའི་ཐོ་ཡིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"1\n"
+"string.text"
+msgid "Returns the modified Bessel function In(x)"
+msgstr "བཱསི་སེལ་ལས་འགན་ཨའི་ཨེན་(ཨེགསི་)ལེགས་བཅོས་འབད་ཡོད་མི་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "ལས་འགན་འདི་བརྟག་ཞིབ་འབད་ནི་ཨིན་མི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "བཱསི་སེལ་ལས་འགན་གྱི་གོ་རིམ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Jn(x)"
+msgstr "བཱསི་སེལ་ལས་འགན་ཇེ་ཨེན་(ཨེགསི་)དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "ལས་འགན་འདི་བརྟག་ཞིབ་འབད་ནི་ཨིན་མི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "བཱསི་སེལ་ལས་འགན་གྱི་གོ་རིམ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Kn(x)"
+msgstr "བཱསི་སེལ་ལས་འགན་ཀེ་ཨེན་(ཨེགསི་)སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "ལས་འགན་འདི་བརྟག་ཞིབ་འབད་ནི་ཨིན་མི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "བཱསི་སེལ་ལས་འགན་གྱི་གོ་རིམ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Yn(x)"
+msgstr "བཱསི་སེལ་ལས་འགན་ཝའི་ཨེན་(ཨེགསི་) སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "ལས་འགན་འདི་བརྟག་ཞིབ་འབད་ནི་ཨིན་མི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "བཱསི་སེལ་ལས་འགན་གྱི་གོ་རིམ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to an octal number"
+msgstr "ཟུང་ལྡན་གྱི་ཨང་དེ་ ཨོཀ་ཊཱལ་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་།"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "ཟུང་ལྡན་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a decimal number"
+msgstr "ཟུང་ལྡན་གྱི་ཨང་དེ་ བཅུ་ཚག་གི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "ཟུང་ལྡན་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a hexadecimal number"
+msgstr "ཟུང་ལྡན་གྱི་ཨང་དེ་ ཧེག་ཟ་ཌེ་སི་མཱལ་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "ཟུང་ལྡན་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used."
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a binary number"
+msgstr "ཨོཀ་ཊཱལ་གྱི་ཨང་དེ་ ཟུང་ལྡན་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "ཨོཀ་ཊཱལ་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཀྱི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a decimal number"
+msgstr "ཨོཀ་ཊཱལ་གྱི་ཨང་དེ་ བཅུ་ཚག་གི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "ཨོཀ་ཊཱལ་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a hexadecimal number"
+msgstr "ཨོཀ་ཊཱལ་ཨང་དེ་ ཧེག་ཟ་ཌེ་སི་མཱལ་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "ཨོཀ་ཊཱལ་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a binary number"
+msgstr "བཅུ་ཚག་གི་ཨང་དེ་ཟུང་ལྡན་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "བཅུ་ཚག་གི་ཧྲིལ་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a hexadecimal number"
+msgstr "བཅུ་ཚག་གི་ཨང་དེ་ ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "བཅུ་ཚག་གི་ཧྲིལ་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཀྱི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number into an octal number"
+msgstr "བཅུ་ཚག་གི་ཨང་དེ་ཨོཀ་ཊཱལ་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "བཅུ་ཚག་གི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a binary number"
+msgstr "ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་དེ་ ཟུང་ལྡན་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a decimal number"
+msgstr "ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་དེ་ བཅུ་ཚག་གི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to an octal number"
+msgstr "ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་དེ་ ཨོཀ་ཊཱལ་གྱི་ཨང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "ཧེག་ཟ་ཌེ་སི་མཱལ་གྱི་ཨང་གཞི་བསྒྱུར་འབད་དགོཔ་(ཚིག་ཡིག་སྦེ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "ས་གནས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "ལག་ལེན་འཐབ་ཡོད་པའི་ས་གནས་ཚུའི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"1\n"
+"string.text"
+msgid "Tests whether two values are equal"
+msgstr "གནས་གོང་གཉིསཔོ་འདི་མཉམ་པ་ཨིན་མེན་བརྟག་ཞིབ་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"2\n"
+"string.text"
+msgid "Number 1"
+msgstr "ཨང་ ༡"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"3\n"
+"string.text"
+msgid "The first number"
+msgstr "ཨང་དང་པ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"4\n"
+"string.text"
+msgid "Number 2"
+msgstr "ཨང་ ༢"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"5\n"
+"string.text"
+msgid "The second number"
+msgstr "ཨང་གཉིས་པ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"1\n"
+"string.text"
+msgid "Returns the error function"
+msgstr "འཛོལ་བའི་ལས་འགན་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "ཚད་དམའ་མི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "མཉམ་སྒྲིལ་གྱི་དོན་ལུ་དམའ་མི་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"4\n"
+"string.text"
+msgid "Upper limit"
+msgstr "ཡར་གྱི་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"5\n"
+"string.text"
+msgid "The upper limit for integration"
+msgstr "མཉམ་སྒྲིལ་གྱི་དོན་ལུ་ཡར་གྱི་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"1\n"
+"string.text"
+msgid "Returns the complementary error function"
+msgstr "ལྷན་ཐབས་ཀྱི་འཛོལ་བའི་ལས་འགན་འདི་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "དམའ་མི་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "མཉམ་སྒྲིལ་གྱི་དོན་ལུ་དམའ་མི་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"1\n"
+"string.text"
+msgid "Tests whether a number is greater than a threshold value"
+msgstr "ཨང་གྲངས་དེ་ཐེརེཤ་ཧཱོལ་གྱི་གནས་གོང་ལས་སྦོམ་མི་ཅིག་ཨིན་མེན་བརྟག་ཞིབ་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"3\n"
+"string.text"
+msgid "The value to test against step"
+msgstr "རིམ་པའི་རྒྱབ་འགལ་དུ་བརྟག་ཞིབ་འབད་ནིའི་དོན་ལས་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"4\n"
+"string.text"
+msgid "Step"
+msgstr "རིམ་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"5\n"
+"string.text"
+msgid "The threshold value"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"1\n"
+"string.text"
+msgid "Returns the double factorial of Number"
+msgstr "ཨང་གྲངས་ཀྱི་ཆ་རྐྱེན་ལོག་བལྟབ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"1\n"
+"string.text"
+msgid "Returns the absolute value (modulus) of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཡང་དག་གནས་གོང་(མོ་ཌུ་ལཱས)དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"1\n"
+"string.text"
+msgid "Returns the imaginary coefficient of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་བློའི་འཆར་ཚུལ་གྱི་བྱེད་ལས་མཐུན་མོང་བ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"1\n"
+"string.text"
+msgid "Returns a complex number raised to a real power"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"4\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"5\n"
+"string.text"
+msgid "Power to which the complex number is raised"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ་ཆེར་བསྐྱེད་འབད་ཡོད་མི་ནུས་ཤུགས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"1\n"
+"string.text"
+msgid "Returns the argument theta, an angle expressed in radians"
+msgstr "སྒྲུབ་རྟགས་ཀྱི་ཐེ་ཊ་ གྲུ་ཟུར་ རེ་ཌི་ཡཱནསི་ནང་ལུ་སླབ་ཡོད་མི་ སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"1\n"
+"string.text"
+msgid "Returns the cosine of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"1\n"
+"string.text"
+msgid "Returns the quotient of two complex numbers"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་གཉིས་ཀྱི་ཐོབ་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "དཔྱ་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "བགོ་བྱ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "གཞི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "བགོ་བྱེད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"1\n"
+"string.text"
+msgid "Returns the algebraic form of the exponential of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་བསྒྱུར་གྲངས་ཀྱི་གྲངས་ཚབ་རྩིས་རིག་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"1\n"
+"string.text"
+msgid "Returns the complex conjugate of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་གོ་དཀའ་བའི་གཅིག་ཏུ་འདྲེས་པ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"1\n"
+"string.text"
+msgid "Returns the natural logarithm of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་རང་བཞིན་གྱི་མཉམ་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"1\n"
+"string.text"
+msgid "Returns the base-10 logarithm of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་གཞི་རྟེན་-༡༠ མཉམ་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"1\n"
+"string.text"
+msgid "Returns the base-2 logarithm of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་གཞི་རྟེན་-༢ མཉམ་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"1\n"
+"string.text"
+msgid "Returns the product of several complex numbers"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ལེ་ཤ་ཅིག་གི་ཐོན་སྐྱེད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"3\n"
+"string.text"
+msgid "The first complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དང་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"4\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"5\n"
+"string.text"
+msgid "Another complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་གཞན་མི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"1\n"
+"string.text"
+msgid "Returns the real coefficient of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་བྱེད་རྐྱེན་མཐུན་མོང་བ་ངོ་མ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"1\n"
+"string.text"
+msgid "Returns the sine of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་སིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"1\n"
+"string.text"
+msgid "Returns the difference of two complex numbers"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་གཉིས་ཀྱི་ཁྱད་པར་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"2\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ ༡"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"3\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ ༡"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"4\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ ༢"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"5\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ ༢"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་གྲུ་བཞིའི་རྩ་བ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of complex numbers"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཀྱི་བསྡོམས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་དེ།"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"1\n"
+"string.text"
+msgid "Returns the tangent of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་སིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"1\n"
+"string.text"
+msgid "Returns the secant of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་སིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"1\n"
+"string.text"
+msgid "Returns the cosecant of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"1\n"
+"string.text"
+msgid "Returns the cotangent of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic sine of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosine of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic secant of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosecant of a complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་གི་ཀོ་སཱཡིན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"1\n"
+"string.text"
+msgid "Converts real and imaginary coefficients into a complex number"
+msgstr "ངོ་མ་དང་བློའི་འཆར་ཚུལ་གྱི་བྱེད་རྐྱེན་མཐུན་མོང་བ་ཚུ་གོ་དཀའ་བའི་ཨང་གྲངས་ཅིག་ནང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"2\n"
+"string.text"
+msgid "Real num"
+msgstr "ཨང་ངོ་མ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"3\n"
+"string.text"
+msgid "The real coefficient"
+msgstr "བྱེད་རྐྱེན་མཐུན་མོང་བ་ངོ་མ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"4\n"
+"string.text"
+msgid "I num"
+msgstr "ཨའི་ ཨང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"5\n"
+"string.text"
+msgid "The imaginary coefficient"
+msgstr "བློའི་འཆར་ཚུལ་གྱི་བྱེད་རྐྱེན་མཐུན་མོང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"6\n"
+"string.text"
+msgid "Suffix"
+msgstr "རྗེས་ཚིག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"7\n"
+"string.text"
+msgid "The suffix"
+msgstr "རྗེས་ཚིག་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"1\n"
+"string.text"
+msgid "Converts a number from one measurement system to another"
+msgstr "ཨང་གྲངས་དེ་ཚད་འཇལ་གཅིག་ལས་གཞན་མི་ཅིག་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "ཨང་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"4\n"
+"string.text"
+msgid "From unit"
+msgstr "ཆ་ཕྲན་ལས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"5\n"
+"string.text"
+msgid "Unit of measure for number"
+msgstr "ཨང་གྲངས་ཀྱི་དོན་ལུ་འཇལ་ནིའི་ཆ་ཕྲན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"6\n"
+"string.text"
+msgid "To unit"
+msgstr "ཆ་ཕྲན་ལུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"7\n"
+"string.text"
+msgid "Unit of measure for the result"
+msgstr "གྲུབ་འབྲས་ཀྱི་དོན་ལུ་འཇལ་ནིའི་ཆ་ཕྲན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "རྩིས་ཐོ་བཀོད་ནིའི་དུས་ཡུན་རེའི་དོན་ལུ་བདོག་གཏད་ཅིག་གི་པོརོ་རེཊེཌི་ལ་ཡིན་ནར་གོང་ཐང་ཆག་པ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "གླ་ཆ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "བདོག་གཏད་ཀྱི་གླ་ཆ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "ཚེས་གྲངས་ཉོ་ཚོང་རྐྱབས་ཡོདཔ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "བདོག་གཏད་ཀྱི་ཚེས་གྲངས་ཉོ་ཚོང་རྐྱབས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "དུས་ཡུན་དང་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"7\n"
+"string.text"
+msgid "Date the first period ends"
+msgstr "དུས་ཡུན་དང་པ་མཇུག་བསྡུ་བའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "ཉེན་སྐྱོབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"9\n"
+"string.text"
+msgid "Salvage value of an asset at the end of its life"
+msgstr "བདོག་གཏད་ཅིག་གི་ཉེན་སྐྱོབ་ཀྱི་གནས་གོང་ ཁོ་རའི་ཚེའི་མཇུག་ལུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "དུས་ཡུན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "དུས་ཡུན་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "གོང་ཐང་ཆག་པའི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "ལག་ལེན་འཐབ་ནི་ཨིན་མི་ལོའི་གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "རྩིས་ཐོ་བཀོད་ནིའི་དུས་ཡུན་རེའི་དོན་ལུ་བདོག་གཏད་ཅིག་གི་པོརོ་རེཊེཌི་ལ་ཡིན་ནར་གོང་ཐང་ཆག་པ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "གླ་ཆ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "བདོག་གཏད་ཀྱི་གླ་ཆ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "ཚེས་གྲངས་ཉོ་ཚོང་རྐྱབས་ཡོདཔ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "བདོག་གཏད་ཀྱི་ཚེས་གྲངས་ཉོ་ཚོང་རྐྱབས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "དུས་ཡུན་དང་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"7\n"
+"string.text"
+msgid "The date the first period ends"
+msgstr "དུས་ཡུན་དང་མཇུག་བསྡུ་བའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "ཉེན་སྐྱོབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"9\n"
+"string.text"
+msgid "The salvage value of an asset at the end of its life"
+msgstr "བདོག་གཏད་ཅིག་གི་ཉེན་སྐྱོབ་ཀྱི་གནས་གོང་ ཁོ་རའི་ཚེའི་མཇུག་ལུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "དུས་ཡུན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "དུས་ཡུན་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "གོང་ཐང་ཆག་པའི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "ལག་ལེན་འཐབ་ནི་ཨིན་མི་ལོའི་གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays periodic interest"
+msgstr "དུས་མཚམས་ཀྱི་དངུལ་སྐྱེད་སྤྲོད་མི་གཏམ་མ་ཅིག་གི་དོན་ལུ་འཕེལ་ཡོད་པའི་དངུལ་སྐྱེད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "སྤྲོད་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"3\n"
+"string.text"
+msgid "Issue date of the security"
+msgstr "གཏམ་མའི་སྤྲོད་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"4\n"
+"string.text"
+msgid "First interest"
+msgstr "དངུལ་སྐྱེད་དང་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"5\n"
+"string.text"
+msgid "First interest date of the security"
+msgstr "གཏམ་མའི་དངུལ་སྐྱེད་དང་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"6\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"7\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"10\n"
+"string.text"
+msgid "Par"
+msgstr "མཉམ་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"11\n"
+"string.text"
+msgid "The par value"
+msgstr "མཉམ་པའི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays interest at maturity"
+msgstr "དུས་ཡུན་ཚངམ་ད་དངུལ་སྐྱེད་སྤྲོད་མི་གཏམ་མ་ཅིག་གི་དོན་ལུ་འཕེལ་བའི་དངུལ་སྐྱེད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "སྤྲོད་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"3\n"
+"string.text"
+msgid "The issue date"
+msgstr "སྤྲོད་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"4\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"5\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"8\n"
+"string.text"
+msgid "Par"
+msgstr "མཉམ་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"9\n"
+"string.text"
+msgid "The par value"
+msgstr "མཉམ་པའི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"1\n"
+"string.text"
+msgid "Returns the amount paid out at maturity for a fully invested security"
+msgstr "ཆ་ཚང་སྦེ་གཏང་ཡོད་པའི་གཏམ་མ་ཅིག་གི་དོན་ལུ་དངུལ་བསྡོམས་དུས་ཡུན་ཚངམ་ད་སྤྲོད་ཡོད་མི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "མ་རྩ་བཙུགས་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "མ་རྩ་བཙུགས་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"8\n"
+"string.text"
+msgid "Discount"
+msgstr "མར་བཅག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"9\n"
+"string.text"
+msgid "The discount"
+msgstr "མར་བཅག་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"1\n"
+"string.text"
+msgid "Returns the discount rate for a security"
+msgstr "གཏམ་མ་ཅིག་གི་དོན་ལུ་མར་བཅག་གི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"1\n"
+"string.text"
+msgid "Returns the annual Macaulay duration of a security with periodic interest payments"
+msgstr "དུས་མཚམས་དངུལ་སྐྱེད་ཀྱི་གླ་དངུལ་ཚུ་དང་ཅིག་ཁར་སྲུང་སྐྱོབ་ཅིག་གི་ལོ་ལྟར་མཱ་ཀའུ་ལེའི་དུས་ཡུན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "འཛིན་ཤོག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "འཛིན་ཤོག་གི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ཨིལཌི། (ཐོན་འབྲས)"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ཨིལཌི་ (ཐོན་འབྲས)་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"1\n"
+"string.text"
+msgid "Returns the effective annual interest rate"
+msgstr "ནུས་ཅན་ལོ་ལྟར་དངུལ་སྐྱེད་ཀྱི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"2\n"
+"string.text"
+msgid "Nominal rate"
+msgstr "གོང་ཚད་ཆུང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"3\n"
+"string.text"
+msgid "The nominal rate"
+msgstr "གོང་ཚད་ཆུང་བ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "ཨེན་པེ་རི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "དུས་ཡུན་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative principal on a loan to be paid between two periods"
+msgstr "དུས་ཡུན་གཉིས་ཀྱི་བར་ནང་སྤྲོད་དགོ་པའི་སྐྱིན་འགྲུལ་ཅིག་ནང་གི་བསྡུ་གསོག་གི་མ་རྩ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "ཨེན་པར།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "གླ་དངུལ་དུས་ཡུན་ཚུའི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "པི་ཝི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "ད་ལྟོའི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "འགོ་བཙུགས་པའི་དུས་ཡུན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "འགོ་བཙུགས་པའི་དུས་ཡུན་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "མཇུག་བསྡུ་བའི་དུས་ཡུན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "མཇུག་བསྡུ་བའི་དུས་ཡུན་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "དབྱེ་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "དུས་ཡུན་ཚང་བའི་དྦཡེ་བ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative interest to be paid between two periods"
+msgstr "དུས་ཡུན་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "ཨེན་པར།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "གླ་དངུལ་དུས་ཡུན་ཚུའི་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "པི་ཝི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "ད་ལྟོའི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "འགོ་བཙུགས་པའི་དུས་ཡུན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "འགོ་བཙུགས་པའི་དས་ཡུན་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "མཇུག་བསྡུ་བའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "མཇུག་བསྡུ་བའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "དབྱེ་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "དུས་ཡུན་ཚང་བའི་དབྱེ་བ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays periodic interest"
+msgstr "དུས་མཚམས་ཀྱི་དངུལ་སྐྱེད་སྤྲོད་མི་གཏམ་མ་ཅིག་གི་དངུལ་གྱི་ཆ་ཕྲན་༡༠༠་རེའི་བཀོད་རྣམ་གྱི་གནས་གོང་གི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ཨིལཌི། (ཐོན་འབྲས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ཨིལཌིཡ་དེ། (ཐོན་འབྲས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a discounted security"
+msgstr "མར་བཅག་འབད་འབད་བའི་གཏམ་མ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "མར་བཅག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"7\n"
+"string.text"
+msgid "The discount"
+msgstr "མར་བཅག་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays interest at maturity"
+msgstr "དུས་ཡུན་ཚངམ་ད་དངུལ་སྐྱེད་སྤྲོད་མི་གཏམ་མ་ཅིག་གི་དངུལ་གྱི་ཆ་ཕྲན་༡༠༠ རེའི་བཀོད་རྣམ་གྱི་གནས་གོང་གི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "སྤྲོད་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "སྤྲོད་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "ཨིལཌི། (ཐོན་འབྲས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "ཨིལཌི་དེ། (ཐོན་འབྲས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"1\n"
+"string.text"
+msgid "Returns the Macaulay modified duration for a security with an assumed par value of 100 currency units"
+msgstr "གླ་དངུལ་ཆ་ཕྲན་༡༠༠་གི་གནས་གོང་རེའི་ཡིན་ཚུལ་ཅིག་དང་ཅིག་ཁརགཏམ་མ་ཅིག་གི་དོན་ལུ་མཱ་ཀའུ་ལེ་ལེགས་བཅོས་འབད་འབད་བའི་དུས་ཡུན་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "འཛིན་ཤོག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "འཛིན་ཤོག་གི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ཨིལཌི། (ཐོན་འབྲས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ཨིལཌི་དེ། (ཐོན་འབྲས)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"1\n"
+"string.text"
+msgid "Returns the annual nominal interest rate"
+msgstr "ལོ་ལྟར་དངུལ་སྐྱེད་ཀྱི་གོང་ཚད་ཆུང་བ་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"2\n"
+"string.text"
+msgid "Effective rate"
+msgstr "ནུས་ཅན་གྱི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"3\n"
+"string.text"
+msgid "The effective interest rate"
+msgstr "ནུས་ཅན་དངུལ་སྐྱེད་ཀྱི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "ཨེན་པི་རེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "དུས་ཡུན་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a decimal into a price expressed as a fraction"
+msgstr "བཅུ་ཚག་སྦེ་སླབ་ཡོད་མི་གོང་ཚད་དེ་དཔྱ་ཕྲན་སྦེ་སླབ་ཡོད་མི་གོང་ཚད་ནང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"2\n"
+"string.text"
+msgid "Decimal dollar"
+msgstr "བཅུ་ཚག་གི་ཌོ་ལར།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "བཅུ་ཚག་གི་ཨང་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "དཔྱ་ཕྲན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "བགོ་བྱེད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a fraction into a price expressed as a decimal"
+msgstr "དཔྱ་ཕྲན་སྦེ་སླབ་ཡོད་པའི་གོང་ཚད་དེ་བཅུ་ཚག་སྦེ་སླབ་ཡོད་པའི་གོང་ཚད་ནང་ལུ་གཞི་བསྒྱུར་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"2\n"
+"string.text"
+msgid "Fractional dollar"
+msgstr "དཔྱ་ཕྲན་གྱི་ཌོ་ལར།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"3\n"
+"string.text"
+msgid "The number as a fraction"
+msgstr "ཨང་གྲངས་དེ་དཔྱ་ཕྲན་སྦེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "དཔྱ་ཕྲན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "བགོ་བྱེད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield on a security that pays periodic interest"
+msgstr "དུས་མཚམས་ཀྱི་དངུལ་སྐྱེད་སྤྲོད་མི་གཏམ་མ་ཅིག་ནང་གི་ཨིལཌི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"8\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"9\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield for a discounted security"
+msgstr "མར་བཅག་འབད་འབད་བའི་གཏམ་མ་ཅིག་གི་དོན་ལུ་ལོ་ལྟར་གྱི་ཨིལཌི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield of a security that pays interest at maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "སྤྲོད་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "སྤྲོད་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"1\n"
+"string.text"
+msgid "Returns the bond-equivalent yield for a treasury bill"
+msgstr "བང་མཛོད་ཀྱི་ཐོབ་རྩིས་ཅིག་གི་དོན་ལས་ བཱོནཌི་-འདྲ་མཉམ་གྱི་ཨིལཌི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "མར་བཅག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "མར་བཅག་གི་གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price of 100 currency units face value for a treasury bill"
+msgstr "བང་མཛོད་ཀྱི་ཐོབ་རྩིས་ཅིག་གི་དོན་ལས་དངུལ་གྱི་ཆ་ཕྲན་༡༠༠འི་བཀོད་རྣམ་གྱི་གནས་གོང་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "མར་བཅག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "མར་བཅག་གི་གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield for a treasury bill"
+msgstr "བང་མཛོད་ཀྱི་ཐོབ་རྩིས་ཅིག་གི་དོན་ལས་ཨིལཌི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd first period"
+msgstr "དུས་ཡུན་དང་པ་ཡ་ཅན་ཅིག་དང་ཅིག་ཁར་གཏམ་མ་ཅིག་གི་$100 འི་བཀོད་རྣམ་གྱི་གནས་གོང་རེའི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུད་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "སྤྲོད་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "སྤྲོད་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "འཛིན་ཤོག་དང་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "འཛིན་ཤོག་དང་པའི་ཚེས་གྲངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"12\n"
+"string.text"
+msgid "Yield"
+msgstr "ཨིལཌི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"13\n"
+"string.text"
+msgid "The yield"
+msgstr "ཨིལཌི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd first period"
+msgstr "དུས་ཡུན་དང་པ་ཡ་ཅན་ཅིག་དང་ཅིག་ཁར་གཏམ་མ་ཅིག་གི་ཨིལཌི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "སྤྲོད་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "སྤྲོད་པའི་ཚེཚ་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "འཛིན་ཤོག་དང་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "འཛིན་ཤོག་དང་པའི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"12\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"13\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd last period"
+msgstr "མཇུག་གི་དུས་ཡུན་ཡ་ཅན་ཅིག་དང་ཅིག་ཁར་གཏམ་མ་ཅིག་གི་བཀོད་རྣམ་གྱི་གནས་གོང་$100 རེའི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "དངུལ་སྐྱེད་མཇུག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "དངུལ་སྐྱེད་མཇུག་གི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་ད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "ཨིལཌི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "ཨིལཌི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd last period"
+msgstr "མཇུག་གི་དུས་ཡུན་དང་ཅིག་ཁར་གཏམ་མ་ཅིག་གི་ཨིལཌི་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "དངུལ་སྐྱེད་མཇུག"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "དངུལ་སྐྱེད་མཇུག་གི་ཚེས་གྲངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"1\n"
+"string.text"
+msgid "Returns the internal rate of return for a non-periodic schedule of payments"
+msgstr "དུས་མཚམས་-མིན་པའི་འཆར་རིམ་གྱི་གླ་དངུལ་ཚུའི་དོན་ལུ་སླར་ལོག་གི་ནང་འཁོད་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"2\n"
+"string.text"
+msgid "Values"
+msgstr "གནས་གོང་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"3\n"
+"string.text"
+msgid "The values"
+msgstr "གནས་གོང་དེ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"4\n"
+"string.text"
+msgid "Dates"
+msgstr "ཚེས་གྲངས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"5\n"
+"string.text"
+msgid "The dates"
+msgstr "ཚེས་གྲངས་དེ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"6\n"
+"string.text"
+msgid "Guess"
+msgstr "ཕོག་ཚོད་དཔག་ནི།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"7\n"
+"string.text"
+msgid "The guess"
+msgstr "ཕོག་ཚོད་དཔག་ནི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"1\n"
+"string.text"
+msgid "Returns the net present value for a non-periodic schedule of payments"
+msgstr "དུས་མཚམས་མིན་པའི་འཆར་རིམ་གྱི་གླ་དངུལ་ཚུའི་དོན་ལུ་ནེཊི་ད་ལྟོའི་གནས་གོང་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "གོང་ཚད།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "གོང་ཚད་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"4\n"
+"string.text"
+msgid "Values"
+msgstr "གནས་གོང་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"5\n"
+"string.text"
+msgid "The values"
+msgstr "གནས་གོང་དེ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"6\n"
+"string.text"
+msgid "Dates"
+msgstr "ཚེས་གྲངས་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"7\n"
+"string.text"
+msgid "The dates"
+msgstr "ཚེས་གྲངས་དེ་ཚུ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"1\n"
+"string.text"
+msgid "Returns the interest rate for a fully invested security"
+msgstr "ཆ་ཚང་སྦེ་བཙུགས་ཡོད་པའི་གཏམ་མ་ཅིག་གི་དོན་ལུ་དངུལ་སྐྱེད་ཀྱི་གོང་ཚད་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "མ་རྩ་བཙུགས་པ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "མ་རྩ་བཙུགས་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "བུན་ཚབ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "བུན་ཚབ་ཀྱི་གནས་གོང་།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"1\n"
+"string.text"
+msgid "Returns the first coupon date after the settlement date"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་གྱི་ཚེས་གྲངས་ཀྱི་ཤུལ་ལས་འཛིན་ཤོག་དང་པའི་ཚེས་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days in the coupon period containing the settlement date"
+msgstr "འཛིན་ཤོག་གི་དུས་ཡུན་ནང་ན་བུ་ལོན་སྤྲོད་འཇལ་གྱི་ཚེས་གྲངས་ཡོད་མི་ནང་གི་ཉིན་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the settlement date to the next coupon date"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་གྱི་ཚེས་གྲངས་ལས་ཤུལ་མའི་འཛིན་ཤོག་གི་ཚེས་གྲངས་ནང་ལུའི་ཉིན་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the beginning of the coupon period to the settlement date"
+msgstr "འཛིན་ཤོག་གི་དུས་ཡུན་འགོ་བཙུགས་པའི་སྐབས་ལས་བུ་ལོན་སྤྲོད་འཇལ་གྱི་ཚེས་གྲངས་ལུ་ཉིན་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"1\n"
+"string.text"
+msgid "Returns the last coupon date preceding the settlement date"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་གྱི་ཚེས་གྲངས་དེ་ལས་སྦོམ་ཤོས་མཇུག་གི་འཛིན་ཤོག་གི་ཚེས་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of coupons payable between the settlement and maturity dates"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དང་དུས་ཡུན་ཚང་བའི་ཚེས་གྲངས་གཉིས་ཀྱི་བར་གྱི་འཛིན་ཤོག་སྤྲོད་བཏུབ་པའི་གྲངས་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "བུ་ལོན་སྤྲོད་འཇལ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "དུས་ཡུན་ཚང་བ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "དུས་ཡུན་ཚང་མི་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "འབྱུང་ཐེངས།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "འབྱུང་ཐེངས་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "གཞི་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "གཞི་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"1\n"
+"string.text"
+msgid "Returns the future value of the initial principal after a series of compound interest rates are applied"
+msgstr "སྐྱེད་ཅུང་གི་གོང་ཚད་ཀྱི་རྒྱུན་རིམ་ཚུ་འཇུག་སྤྱོད་འབད་ཡོད་པའི་ཤུལ་ལས་འགོ་ཐོག་མ་རྩའི་མ་འོངས་པའི་གནས་གོང་དེ་སླར་ལོག་འབདཝ་ཨིན།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"2\n"
+"string.text"
+msgid "Principal"
+msgstr "མ་རྩ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"3\n"
+"string.text"
+msgid "The principal"
+msgstr "མ་རྩ་དེ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"4\n"
+"string.text"
+msgid "Schedule"
+msgstr "འཆར་རིམ།"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"5\n"
+"string.text"
+msgid "The schedule"
+msgstr "འཆར་རིམ་དེ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Workday\n"
+"string.text"
+msgid "WORKDAY"
+msgstr "ཉིན་ལཱ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yearfrac\n"
+"string.text"
+msgid "YEARFRAC"
+msgstr "ལོའི་དཔྱ་ཕྲན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Edate\n"
+"string.text"
+msgid "EDATE"
+msgstr "ཨི་ཚེས་གྲངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Weeknum\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "བདུན་ཕྲག་གི་གྲངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Eomonth\n"
+"string.text"
+msgid "EOMONTH"
+msgstr "ཟླཝ་གི་མཇུག"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Networkdays\n"
+"string.text"
+msgid "NETWORKDAYS"
+msgstr "ལཱ་གི་ཉིན་གྲངས་བསྡོམས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amordegrc\n"
+"string.text"
+msgid "AMORDEGRC"
+msgstr "ཨ་མོར་ཌི་ཇིརིཀ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amorlinc\n"
+"string.text"
+msgid "AMORLINC"
+msgstr "ཨ་མོར་ལིངཀ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrint\n"
+"string.text"
+msgid "ACCRINT"
+msgstr "ཨེཀ་ཀིརིནཊི"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrintm\n"
+"string.text"
+msgid "ACCRINTM"
+msgstr "ཨེཀ་ཀིརིནཊིམ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Received\n"
+"string.text"
+msgid "RECEIVED"
+msgstr "ཐོབ་ཡོད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Disc\n"
+"string.text"
+msgid "DISC"
+msgstr "ཌིསིཀ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Duration\n"
+"string.text"
+msgid "DURATION"
+msgstr "དུས་ཡུན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Effect\n"
+"string.text"
+msgid "EFFECT"
+msgstr "ནུས་པ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumprinc\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "བསྡུ་གསོག་གི་མ་རྩ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumipmt\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "བསྡུ་གསོག་གི་དངུལ་སྐྱེད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Price\n"
+"string.text"
+msgid "PRICE"
+msgstr "གོང་ཚད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricedisc\n"
+"string.text"
+msgid "PRICEDISC"
+msgstr "གོང་ཚད་ཌིསིཀ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricemat\n"
+"string.text"
+msgid "PRICEMAT"
+msgstr "གོང་ཚད་གཞི་རྟེན"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mduration\n"
+"string.text"
+msgid "MDURATION"
+msgstr "ལེགས་བཅོས་འབད་ཡོད་པའི་དུས་ཡུན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Nominal\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "ཆུང་བ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarfr\n"
+"string.text"
+msgid "DOLLARFR"
+msgstr "ཌོ་ལར་ཨེཕ་ཨར།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarde\n"
+"string.text"
+msgid "DOLLARDE"
+msgstr "ཌོ་ལར་ཌི་ཨི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yield\n"
+"string.text"
+msgid "YIELD"
+msgstr "ཨིལཌི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yielddisc\n"
+"string.text"
+msgid "YIELDDISC"
+msgstr "ཨིལཌི་ཌིསིཀ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yieldmat\n"
+"string.text"
+msgid "YIELDMAT"
+msgstr "ཨིལཌི་གཞི་རྟེན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbilleq\n"
+"string.text"
+msgid "TBILLEQ"
+msgstr "ཊི་བི་ལིཀ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillprice\n"
+"string.text"
+msgid "TBILLPRICE"
+msgstr "བང་མཛོད་ཐོབ་རྩིས་ཀྱི་གོང་ཚད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillyield\n"
+"string.text"
+msgid "TBILLYIELD"
+msgstr "བང་མཛོད་ཐོབ་རྩིས་ཀྱི་ཨིལཌི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfprice\n"
+"string.text"
+msgid "ODDFPRICE"
+msgstr "ཡ་ཅན་དང་པའི་གོང་ཚད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfyield\n"
+"string.text"
+msgid "ODDFYIELD"
+msgstr "ཡ་ཅན་དང་པའི་ཨིལཌི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlprice\n"
+"string.text"
+msgid "ODDLPRICE"
+msgstr "ཡ་ཅན་མཇུག་གི་གོང་ཚད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlyield\n"
+"string.text"
+msgid "ODDLYIELD"
+msgstr "ཡ་ཅན་མཇུག་གི་ཨིལཌི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xirr\n"
+"string.text"
+msgid "XIRR"
+msgstr "ཨེགསི་ཨའི་ཨར་ཨར།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xnpv\n"
+"string.text"
+msgid "XNPV"
+msgstr "ཨེགསི་ཨེན་པི་ཝི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Intrate\n"
+"string.text"
+msgid "INTRATE"
+msgstr "དངུལ་སྐྱེད་ཀྱི་གོང་ཚད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupncd\n"
+"string.text"
+msgid "COUPNCD"
+msgstr "འཛིན་ཤོག་གི་ཚེས་གྲངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdays\n"
+"string.text"
+msgid "COUPDAYS"
+msgstr "འཛིན་ཤོག་གི་གཟའ་ཚུ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaysnc\n"
+"string.text"
+msgid "COUPDAYSNC"
+msgstr "འཛིན་ཤོག་གཟའ་ཚུའི་ཨེན་སི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaybs\n"
+"string.text"
+msgid "COUPDAYBS"
+msgstr "འཛིན་ཤོག་གཟའི་བི་ཨེསི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Couppcd\n"
+"string.text"
+msgid "COUPPCD"
+msgstr "ཧེ་མའི་འཛིན་ཤོག་གི་ཚེས་གྲངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupnum\n"
+"string.text"
+msgid "COUPNUM"
+msgstr "འཛིན་ཤོག་གི་ཨང་གྲངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Fvschedule\n"
+"string.text"
+msgid "FVSCHEDULE"
+msgstr "མ་འོངས་པའི་གནས་གོང་གི་འཆར་རིམ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Iseven\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "དེ་ཆ་ཅན་ཨིན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Isodd\n"
+"string.text"
+msgid "ISODD"
+msgstr "དེ་ཡ་ཅན་ཨིན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gcd\n"
+"string.text"
+msgid "GCD"
+msgstr "ཇི་སི་ཌི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Lcm\n"
+"string.text"
+msgid "LCM"
+msgstr "ཨེལ་སི་ཨེམ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Multinomial\n"
+"string.text"
+msgid "MULTINOMIAL"
+msgstr "མཱལ་ཊི་ནོ་མི་ཡལ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Seriessum\n"
+"string.text"
+msgid "SERIESSUM"
+msgstr "རྒྱུན་རིམ་གྱི་བསྡོམས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Quotient\n"
+"string.text"
+msgid "QUOTIENT"
+msgstr "ཐོབ་གྲངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mround\n"
+"string.text"
+msgid "MROUND"
+msgstr "ཨེམ་སྐོར་ཐེངས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Sqrtpi\n"
+"string.text"
+msgid "SQRTPI"
+msgstr "གྲུ་བཞི་རྩ་བ་པི་ཨའི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Randbetween\n"
+"string.text"
+msgid "RANDBETWEEN"
+msgstr "རེནཌི་བིཊིཝིན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besseli\n"
+"string.text"
+msgid "BESSELI"
+msgstr "བེ་སེལ་ཨའི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselj\n"
+"string.text"
+msgid "BESSELJ"
+msgstr "བེ་སེལ་ཇེ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselk\n"
+"string.text"
+msgid "BESSELK"
+msgstr "བེ་སེལ་ཀེ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bessely\n"
+"string.text"
+msgid "BESSELY"
+msgstr "བེ་སེལ་ཝའི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Dec\n"
+"string.text"
+msgid "BIN2DEC"
+msgstr "BIN2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Hex\n"
+"string.text"
+msgid "BIN2HEX"
+msgstr "BIN2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Oct\n"
+"string.text"
+msgid "BIN2OCT"
+msgstr "BIN2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Delta\n"
+"string.text"
+msgid "DELTA"
+msgstr "ཌེལ་ཊ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Bin\n"
+"string.text"
+msgid "DEC2BIN"
+msgstr "DEC2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Hex\n"
+"string.text"
+msgid "DEC2HEX"
+msgstr "DEC2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Oct\n"
+"string.text"
+msgid "DEC2OCT"
+msgstr "DEC2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erf\n"
+"string.text"
+msgid "ERF"
+msgstr "ཨི་ཨར་ཨེཕ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erfc\n"
+"string.text"
+msgid "ERFC"
+msgstr "ཨི་ཨར་ཨེཕ་སི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gestep\n"
+"string.text"
+msgid "GESTEP"
+msgstr "ཇི་ཨི་རིམ་པ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Bin\n"
+"string.text"
+msgid "HEX2BIN"
+msgstr "HEX2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Dec\n"
+"string.text"
+msgid "HEX2DEC"
+msgstr "HEX2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Oct\n"
+"string.text"
+msgid "HEX2OCT"
+msgstr "HEX2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imabs\n"
+"string.text"
+msgid "IMABS"
+msgstr "ཨའི་ཨེམ་ཨེ་བི་ཨེསི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imaginary\n"
+"string.text"
+msgid "IMAGINARY"
+msgstr "བློའི་འཆར་ཚུལ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Impower\n"
+"string.text"
+msgid "IMPOWER"
+msgstr "ཨའི་ཨེམ་ཤུགས་ལྡན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imargument\n"
+"string.text"
+msgid "IMARGUMENT"
+msgstr "ཨའི་ཨེམ་སྒྲུབ་རྟགས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcos\n"
+"string.text"
+msgid "IMCOS"
+msgstr "རྒྱལ་སྤྱི་ས་ཁྲ་བསྡུ་ལེན་པའི་སྤྱི་ཚོགས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imdiv\n"
+"string.text"
+msgid "IMDIV"
+msgstr "ཨའི་ཨེམ་ཌིབ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imexp\n"
+"string.text"
+msgid "IMEXP"
+msgstr "ཨའི་ཨེམ་ཨི་ཨེགསི་པི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imconjugate\n"
+"string.text"
+msgid "IMCONJUGATE"
+msgstr "ཨའི་ཨེམ་གཅིག་ཏུ་འདྲེས་པ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imln\n"
+"string.text"
+msgid "IMLN"
+msgstr "ཨའི་ཨེམ་ཨེལ་ཨེན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog10\n"
+"string.text"
+msgid "IMLOG10"
+msgstr "ཨའི་ཨེམ་ཨེལ་ཨོ་ཇི་༡༠།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog2\n"
+"string.text"
+msgid "IMLOG2"
+msgstr "ཨའི་ཨེམ་ཨེལ་ཨོ་ཇི་༢།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Improduct\n"
+"string.text"
+msgid "IMPRODUCT"
+msgstr "ཨའི་ཨེམ་ཐོན་སྐྱེད།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imreal\n"
+"string.text"
+msgid "IMREAL"
+msgstr "ཨའི་ཨེམ་ངོ་མ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsin\n"
+"string.text"
+msgid "IMSIN"
+msgstr "ཨའི་ཨེམ་ཨེསི་ཨའི་ཨེན།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsub\n"
+"string.text"
+msgid "IMSUB"
+msgstr "ཨའི་ཨེམ་ཨེསི་ཡུ་བི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsum\n"
+"string.text"
+msgid "IMSUM"
+msgstr "ཨའི་ཨེམ་ཨེསི་ཡུ་ཨེམ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsqrt\n"
+"string.text"
+msgid "IMSQRT"
+msgstr "ཨའི་ཨེམ་ཨེསི་ཀིའུ་ཨར་ཊི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imtan\n"
+"string.text"
+msgid "IMTAN"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsec\n"
+"string.text"
+msgid "IMSEC"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsc\n"
+"string.text"
+msgid "IMCSC"
+msgstr ""
+
+#: analysis_funcnames.src
+#, fuzzy
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcot\n"
+"string.text"
+msgid "IMCOT"
+msgstr "རྒྱལ་སྤྱི་ས་ཁྲ་བསྡུ་ལེན་པའི་སྤྱི་ཚོགས།"
+
+#: analysis_funcnames.src
+#, fuzzy
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsinh\n"
+"string.text"
+msgid "IMSINH"
+msgstr "ཨའི་ཨེམ་ཨེསི་ཨའི་ཨེན།"
+
+#: analysis_funcnames.src
+#, fuzzy
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcosh\n"
+"string.text"
+msgid "IMCOSH"
+msgstr "རྒྱལ་སྤྱི་ས་ཁྲ་བསྡུ་ལེན་པའི་སྤྱི་ཚོགས།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsech\n"
+"string.text"
+msgid "IMSECH"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsch\n"
+"string.text"
+msgid "IMCSCH"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Complex\n"
+"string.text"
+msgid "COMPLEX"
+msgstr "གོ་དཀའ་བ།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Bin\n"
+"string.text"
+msgid "OCT2BIN"
+msgstr "OCT2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Dec\n"
+"string.text"
+msgid "OCT2DEC"
+msgstr "OCT2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Hex\n"
+"string.text"
+msgid "OCT2HEX"
+msgstr "OCT2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Convert\n"
+"string.text"
+msgid "CONVERT"
+msgstr "གཞི་བསྒྱུར་འབད་ནི།"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Factdouble\n"
+"string.text"
+msgid "FACTDOUBLE"
+msgstr "གཞི་རྩ་ལོག་ལྟབ།"

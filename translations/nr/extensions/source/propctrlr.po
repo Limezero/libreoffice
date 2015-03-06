@@ -1,0 +1,3269 @@
+#. extracted from extensions/source/propctrlr
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-04-15 12:00+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1366027222.0\n"
+
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_DETAIL_FORM\n"
+"string.text"
+msgid "Sub Form"
+msgstr ""
+
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_MASTER_FORM\n"
+"string.text"
+msgid "Master Form"
+msgstr ""
+
+#. # will be replace with a name.
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_ERROR_RETRIEVING_COLUMNS\n"
+"string.text"
+msgid "The columns of '#' could not be retrieved."
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EDITMASK\n"
+"string.text"
+msgid "Edit mask"
+msgstr "Hlela imaski"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LITERALMASK\n"
+"string.text"
+msgid "Literal mask"
+msgstr "Imaski yamagama"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_READONLY\n"
+"string.text"
+msgid "Read-only"
+msgstr "~Fundwa kwaphela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ENABLED\n"
+"string.text"
+msgid "Enabled"
+msgstr "Kghonakalisiwe"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_ENABLE_VISIBLE\n"
+"string.text"
+msgid "Visible"
+msgstr "~Bonakalako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_AUTOCOMPLETE\n"
+"string.text"
+msgid "AutoFill"
+msgstr "ZalisaokuZenzakalelako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINECOUNT\n"
+"string.text"
+msgid "Line count"
+msgstr "Isibalo samalayini"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MAXTEXTLEN\n"
+"string.text"
+msgid "Max. text length"
+msgstr "Ubukhulu bobude betheksti"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SPIN\n"
+"string.text"
+msgid "Spin Button"
+msgstr "Ibhathini yokuzombelezisa msinyana"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STRICTFORMAT\n"
+"string.text"
+msgid "Strict format"
+msgstr "Indlela elandela imithetho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWTHOUSANDSEP\n"
+"string.text"
+msgid "Thousands separator"
+msgstr "Isihlukanisi seenkulungwana"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_PRINTABLE\n"
+"string.text"
+msgid "Printable"
+msgstr "~Phrinthekako"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_TARGET_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL "
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_TARGET_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "~Isakhiwo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HELPTEXT\n"
+"string.text"
+msgid "Help text"
+msgstr "Itheksti yerhelebho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HELPURL\n"
+"string.text"
+msgid "Help URL"
+msgstr "Irhelebho le-URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TAG\n"
+"string.text"
+msgid "Additional information"
+msgstr "Ilwazi lokungezelela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ECHO_CHAR\n"
+"string.text"
+msgid "Password character"
+msgstr "Itshwayo lephaswed"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TRISTATE\n"
+"string.text"
+msgid "Tristate"
+msgstr "Ithariyisteyiti"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EMPTY_IS_NULL\n"
+"string.text"
+msgid "Empty string is NULL"
+msgstr "Ukuhlanganiswa kwamagama akusebenzi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DECIMAL_ACCURACY\n"
+"string.text"
+msgid "Decimal accuracy"
+msgstr "Ukunemba kwedesimali"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_IMAGE_URL\n"
+"string.text"
+msgid "Graphics"
+msgstr "Iintjengiso"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_SELECT_SEQ\n"
+"string.text"
+msgid "Default selection"
+msgstr "Ukukhetha okwenziwa lihlelo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_BUTTON\n"
+"string.text"
+msgid "Default button"
+msgstr "Ibhathini yokukhetha kwehlelo"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_LABELCONTROL\n"
+"string.text"
+msgid "Label Field"
+msgstr "IZIko leLebula"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LABEL\n"
+"string.text"
+msgid "Label"
+msgstr "Lebula"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALIGN\n"
+"string.text"
+msgid "Alignment"
+msgstr "Ukulinganisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VERTICAL_ALIGN\n"
+"string.text"
+msgid "Vert. Alignment"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"1\n"
+"string.text"
+msgid "Top"
+msgstr "Phezulu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"2\n"
+"string.text"
+msgid "Middle"
+msgstr "Phakathi"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"3\n"
+"string.text"
+msgid "Bottom"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngaphasi\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngaphasi\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Phasi\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Phasi\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Phasi\n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Enzasi\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Phasi\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngenzasi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_IMAGEPOSITION\n"
+"string.text"
+msgid "Graphics alignment"
+msgstr "Ukulinganiswa kweentjengiso"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "~Ifonti"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BACKGROUNDCOLOR\n"
+"string.text"
+msgid "Background color"
+msgstr "Umbala wangemva"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BORDER\n"
+"string.text"
+msgid "Border"
+msgstr "Umkhawulo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ICONSIZE\n"
+"string.text"
+msgid "Icon size"
+msgstr "Ubukhulu be-ayikhoni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ICONSIZE_TYPE\n"
+"1\n"
+"string.text"
+msgid "Small"
+msgstr "Ubuncani"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ICONSIZE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Large"
+msgstr "Ubukhulu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_POSITION\n"
+"string.text"
+msgid "Positioning"
+msgstr "Ukubeka ebujameni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Ukuzuma nge-inthanethi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_RECORDACTIONS\n"
+"string.text"
+msgid "Acting on a record"
+msgstr "Ukwenza ngerekhodi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_FILTERSORT\n"
+"string.text"
+msgid "Filtering / Sorting"
+msgstr "Sebenza itheksti / Yahlela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HSCROLL\n"
+"string.text"
+msgid "Horizontal scroll bar"
+msgstr "Iskrol bha esibuthabalala"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VSCROLL\n"
+"string.text"
+msgid "Vertical scroll bar"
+msgstr "Iskrol bha esibuvundla"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WORDBREAK\n"
+"string.text"
+msgid "Word break"
+msgstr "Ukuhlukaniswa kwegama"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MULTILINE\n"
+"string.text"
+msgid "Multiline input"
+msgstr "Isifaki samalayini amanengi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MULTISELECTION\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Ukukhetha okumahlangothi manengi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "Igama"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_GROUP_NAME\n"
+"string.text"
+msgid "Group name"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TABINDEX\n"
+"string.text"
+msgid "Tab order"
+msgstr "Uhlela kwethebh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WHEEL_BEHAVIOR\n"
+"string.text"
+msgid "Mouse wheel scroll"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr "Sebenza itheksti"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SORT_CRITERIA\n"
+"string.text"
+msgid "Sort"
+msgstr "Hlela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_RECORDMARKER\n"
+"string.text"
+msgid "Record marker"
+msgstr "Isimakhi samarekhodi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILTERPROPOSAL\n"
+"string.text"
+msgid "Filter proposal"
+msgstr "Isihlongozo sehlelo elisebenza umtlolo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "Ibha yokuzuma nge-inthanethi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CYCLE\n"
+"string.text"
+msgid "Cycle"
+msgstr "Isizombelezi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TABSTOP\n"
+"string.text"
+msgid "Tabstop"
+msgstr "Ukulisa kwethebhu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CONTROLSOURCE\n"
+"string.text"
+msgid "Data field"
+msgstr "Iziko leDatha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DROPDOWN\n"
+"string.text"
+msgid "Dropdown"
+msgstr "Yehlisa enzasi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BOUNDCOLUMN\n"
+"string.text"
+msgid "Bound field"
+msgstr "Iziko elibotjhiweko"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTSOURCE\n"
+"string.text"
+msgid "List content"
+msgstr "Irhemo okungaphakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTSOURCETYPE\n"
+"string.text"
+msgid "Type of list contents"
+msgstr "Umhlobo werhemo lokungaphakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURSORSOURCE\n"
+"string.text"
+msgid "Content"
+msgstr "Okungaphakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURSORSOURCETYPE\n"
+"string.text"
+msgid "Content type"
+msgstr "Umhlobo wokungaphakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_ADDITIONS\n"
+"string.text"
+msgid "Allow additions"
+msgstr "Vumela ukungezelela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_DELETIONS\n"
+"string.text"
+msgid "Allow deletions"
+msgstr "Vumela ukucima"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_EDITS\n"
+"string.text"
+msgid "Allow modifications"
+msgstr "Vumela ukutjhugulula"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATAENTRY\n"
+"string.text"
+msgid "Add data only"
+msgstr "Ngezelea idatha kuphela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATASOURCE\n"
+"string.text"
+msgid "Data source"
+msgstr "Umsuka wedatha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MASTERFIELDS\n"
+"string.text"
+msgid "Link master fields"
+msgstr "Thintanisa amaziko amakhulu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SLAVEFIELDS\n"
+"string.text"
+msgid "Link slave fields"
+msgstr "Thintanisa amaziko wokulawula"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUEMIN\n"
+"string.text"
+msgid "Value min."
+msgstr "Ubuncani benani"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUEMAX\n"
+"string.text"
+msgid "Value max."
+msgstr "Ubukhulu benani"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUESTEP\n"
+"string.text"
+msgid "Incr./decrement value"
+msgstr "Yandisa/yehlisa ukuthoma phakathi komtlolo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURRENCYSYMBOL\n"
+"string.text"
+msgid "Currency symbol"
+msgstr "Isimboli yerherho leemali"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEMIN\n"
+"string.text"
+msgid "Date min."
+msgstr "Ubuncani bamalanga"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEMAX\n"
+"string.text"
+msgid "Date max."
+msgstr "Ubukhulu bamalanga"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEFORMAT\n"
+"string.text"
+msgid "Date format"
+msgstr "Indlela yelanga"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SELECTEDITEMS\n"
+"string.text"
+msgid "Selection"
+msgstr "Ukukhetha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEMIN\n"
+"string.text"
+msgid "Time min."
+msgstr "Ubuncani besikhathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEMAX\n"
+"string.text"
+msgid "Time max."
+msgstr "Ubuncani besikhathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEFORMAT\n"
+"string.text"
+msgid "Time format"
+msgstr "Indlela yesikhathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURRSYM_POSITION\n"
+"string.text"
+msgid "Prefix symbol"
+msgstr "Isimboli yesithomo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUE\n"
+"string.text"
+msgid "Value"
+msgstr "Inani"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FORMATKEY\n"
+"string.text"
+msgid "Formatting"
+msgstr "Iyalungisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CLASSID\n"
+"string.text"
+msgid "Class ID"
+msgstr "Ukwaziwa Kwesigaba"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "Ubude"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "Ububanzi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTINDEX\n"
+"string.text"
+msgid "List index"
+msgstr "Indeksi yerhemo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ROWHEIGHT\n"
+"string.text"
+msgid "Row height"
+msgstr "Ukuphakama kwerhemo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILLCOLOR\n"
+"string.text"
+msgid "Fill color"
+msgstr "Zalisa umbala"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINECOLOR\n"
+"string.text"
+msgid "Line color"
+msgstr "Umbala welayini"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REFVALUE\n"
+"string.text"
+msgid "Reference value (on)"
+msgstr "Inani lereferensi (liyasebenza)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_UNCHECKEDREFVALUE\n"
+"string.text"
+msgid "Reference value (off)"
+msgstr "Inani lereferensi (alisebenzi)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STRINGITEMLIST\n"
+"string.text"
+msgid "List entries"
+msgstr "Irhemo lokufakwako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BUTTONTYPE\n"
+"string.text"
+msgid "Action"
+msgstr "Isenzo"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_ACTION\n"
+"string.text"
+msgid "URL"
+msgstr "URL "
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_METHOD\n"
+"string.text"
+msgid "Type of submission"
+msgstr "Umhlobo wokulethwako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_STATE\n"
+"string.text"
+msgid "Default status"
+msgstr "Ubujamo bokukhetha kwehlelo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_ENCODING\n"
+"string.text"
+msgid "Submission encoding"
+msgstr "Ukunikelwa ikhodi kwesabhmitjhini"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTVALUE\n"
+"string.text"
+msgid "Default value"
+msgstr "Inani lokukhetha kwehlelo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTTEXT\n"
+"string.text"
+msgid "Default text"
+msgstr "Itheksti ekhethwe lihlelo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTDATE\n"
+"string.text"
+msgid "Default date"
+msgstr "Ilanga elikhethwe lihlelo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTTIME\n"
+"string.text"
+msgid "Default time"
+msgstr "Isikhathi esikhethwe lihlelo"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_TARGET\n"
+"string.text"
+msgid "Frame"
+msgstr "~Isakhiwo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"1\n"
+"string.text"
+msgid "Without frame"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"2\n"
+"string.text"
+msgid "3D look"
+msgstr "Ukuqaleka kwe-3D"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"3\n"
+"string.text"
+msgid "Flat"
+msgstr "Spara"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"1\n"
+"string.text"
+msgid "Valuelist"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Table"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"3\n"
+"string.text"
+msgid "Query"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"4\n"
+"string.text"
+msgid "Sql"
+msgstr "Sql"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"5\n"
+"string.text"
+msgid "Sql [Native]"
+msgstr "Sql [Yendawo]"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"6\n"
+"string.text"
+msgid "Tablefields"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"1\n"
+"string.text"
+msgid "Left"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isinqele\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sinceleni\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isinqele\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesinqeleni\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesinceleni\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesinceleni\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isincele\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesinceleni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"2\n"
+"string.text"
+msgid "Center"
+msgstr "Phakathi"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"3\n"
+"string.text"
+msgid "Right"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isidla\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sidleni\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Isidla\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesidleni\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesidleni\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesidleni\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sokudla\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesidleni"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Ayikho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"2\n"
+"string.text"
+msgid "Submit form"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"3\n"
+"string.text"
+msgid "Reset form"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"4\n"
+"string.text"
+msgid "Open document/web page"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"5\n"
+"string.text"
+msgid "First record"
+msgstr "Rekhodi lokuThoma"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"6\n"
+"string.text"
+msgid "Previous record"
+msgstr "Rekhodi eliDlulileko"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"7\n"
+"string.text"
+msgid "Next record"
+msgstr "Irekhodi elilandelako"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"8\n"
+"string.text"
+msgid "Last record"
+msgstr "Rekhodi lokuGcina"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"9\n"
+"string.text"
+msgid "Save record"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"10\n"
+"string.text"
+msgid "Undo data entry"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"11\n"
+"string.text"
+msgid "New record"
+msgstr "Irekhodi elilandelako"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"12\n"
+"string.text"
+msgid "Delete record"
+msgstr "Cima iRekhodi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"13\n"
+"string.text"
+msgid "Refresh form"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_METHOD\n"
+"1\n"
+"string.text"
+msgid "Get"
+msgstr "Fumana"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_METHOD\n"
+"2\n"
+"string.text"
+msgid "Post"
+msgstr "Posa"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"1\n"
+"string.text"
+msgid "URL"
+msgstr "URL "
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"2\n"
+"string.text"
+msgid "Multipart"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"3\n"
+"string.text"
+msgid "Text"
+msgstr "Itheksithi:"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"1\n"
+"string.text"
+msgid "Standard (short)"
+msgstr "Istandadi (ubufitjhani)"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"2\n"
+"string.text"
+msgid "Standard (short YY)"
+msgstr "Istandadi (ubufitjhani)"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"3\n"
+"string.text"
+msgid "Standard (short YYYY)"
+msgstr "Istandadi (ubufitjhani)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"4\n"
+"string.text"
+msgid "Standard (long)"
+msgstr "Istandadi (ubude)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"5\n"
+"string.text"
+msgid "DD/MM/YY"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"6\n"
+"string.text"
+msgid "MM/DD/YY"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"7\n"
+"string.text"
+msgid "YY/MM/DD"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"8\n"
+"string.text"
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"9\n"
+"string.text"
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"10\n"
+"string.text"
+msgid "YYYY/MM/DD"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"11\n"
+"string.text"
+msgid "YY-MM-DD"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"12\n"
+"string.text"
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"1\n"
+"string.text"
+msgid "13:45"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"2\n"
+"string.text"
+msgid "13:45:00"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"3\n"
+"string.text"
+msgid "01:45 PM"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"4\n"
+"string.text"
+msgid "01:45:00 PM"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"1\n"
+"string.text"
+msgid "Not Selected"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"2\n"
+"string.text"
+msgid "Selected"
+msgstr "Khetha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"3\n"
+"string.text"
+msgid "Not Defined"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"1\n"
+"string.text"
+msgid "All records"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"2\n"
+"string.text"
+msgid "Active record"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"3\n"
+"string.text"
+msgid "Current page"
+msgstr "ILanga laNjesi"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Awa"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "Iye"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"3\n"
+"string.text"
+msgid "Parent Form"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Ayikho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"2\n"
+"string.text"
+msgid "Single"
+msgstr "Yinye"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"3\n"
+"string.text"
+msgid "Multi"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"4\n"
+"string.text"
+msgid "Range"
+msgstr ""
+"#-#-#-#-#  miscdlgs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ukwehluka\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Irherho\n"
+"#-#-#-#-#  pdf.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ukwehluka"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEPARAMETER\n"
+"string.text"
+msgid "Fill parameters"
+msgstr "Zalisa ampharamitha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ACTIONPERFORMED\n"
+"string.text"
+msgid "Execute action"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_AFTERUPDATE\n"
+"string.text"
+msgid "After updating"
+msgstr "Ngemva kokuletha ebujameni banjesi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_BEFOREUPDATE\n"
+"string.text"
+msgid "Before updating"
+msgstr "Ngaphambi kokuletha ebujameni banjesi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEROWCHANGE\n"
+"string.text"
+msgid "Before record action"
+msgstr "Ngaphambi kwesenzo sokurekhoda"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ROWCHANGE\n"
+"string.text"
+msgid "After record action"
+msgstr "Ngemva kwesenzo sokurekhoda"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_CONFIRMDELETE\n"
+"string.text"
+msgid "Confirm deletion"
+msgstr "Qinisekisa ukucima"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ERROROCCURRED\n"
+"string.text"
+msgid "Error occurred"
+msgstr "Iphoso yenzekile"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_FOCUSGAINED\n"
+"string.text"
+msgid "When receiving focus"
+msgstr "Nayifumana umnqopho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_FOCUSLOST\n"
+"string.text"
+msgid "When losing focus"
+msgstr "Nayilahlekelwa mnqopho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ITEMSTATECHANGED\n"
+"string.text"
+msgid "Item status changed"
+msgstr "Ubujamo be-ayithemu butjhugululiwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_KEYTYPED\n"
+"string.text"
+msgid "Key pressed"
+msgstr "Ikunujana igandelelwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_KEYUP\n"
+"string.text"
+msgid "Key released"
+msgstr "Ikunujana ilisiwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_LOADED\n"
+"string.text"
+msgid "When loading"
+msgstr "Lokha nayizalisako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RELOADING\n"
+"string.text"
+msgid "Before reloading"
+msgstr "Ngaphambi kokuzalisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RELOADED\n"
+"string.text"
+msgid "When reloading"
+msgstr "Lokha nayizalisa butjha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEDRAGGED\n"
+"string.text"
+msgid "Mouse moved while key pressed"
+msgstr "Imawusi itjhidile lokha nakugandelelwe ikunujana"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEENTERED\n"
+"string.text"
+msgid "Mouse inside"
+msgstr "Imawusi ngaphakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEEXITED\n"
+"string.text"
+msgid "Mouse outside"
+msgstr "Imawusi ngaphandle"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEMOVED\n"
+"string.text"
+msgid "Mouse moved"
+msgstr "Imawusi itjhidisiwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEPRESSED\n"
+"string.text"
+msgid "Mouse button pressed"
+msgstr "Ibhathini lemawusi ligandelelwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSERELEASED\n"
+"string.text"
+msgid "Mouse button released"
+msgstr "Ibhathini lemawusi lilisiwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_POSITIONING\n"
+"string.text"
+msgid "Before record change"
+msgstr "Ngaphambi kwetjhuguluko lokurekhoda"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_POSITIONED\n"
+"string.text"
+msgid "After record change"
+msgstr "Ngemva kwetjhuguluko lokurekhoda"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RESETTED\n"
+"string.text"
+msgid "After resetting"
+msgstr "Ngemva kokulungisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVERESETTED\n"
+"string.text"
+msgid "Prior to reset"
+msgstr "Ngaphambi kokulungisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEACTIONPERFORMED\n"
+"string.text"
+msgid "Approve action"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_SUBMITTED\n"
+"string.text"
+msgid "Before submitting"
+msgstr "Ngaphambi kokuletha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_TEXTCHANGED\n"
+"string.text"
+msgid "Text modified"
+msgstr "Itheksti itjhugululiwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_UNLOADING\n"
+"string.text"
+msgid "Before unloading"
+msgstr "Ngaphambi kokungazalisi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_UNLOADED\n"
+"string.text"
+msgid "When unloading"
+msgstr "Lokha nayingazalisiko"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_CHANGED\n"
+"string.text"
+msgid "Changed"
+msgstr "Tjhugululiwe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVENTS\n"
+"string.text"
+msgid "Events"
+msgstr "Izehlakalo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ESCAPE_PROCESSING\n"
+"string.text"
+msgid "Analyze SQL command"
+msgstr "Cozulula umlayo we-SQL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_POSITIONX\n"
+"string.text"
+msgid "PositionX"
+msgstr "Ubujamo X"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_POSITIONY\n"
+"string.text"
+msgid "PositionY"
+msgstr "Ubujamo Y"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Thayithili"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STEP\n"
+"string.text"
+msgid "Page (step)"
+msgstr "Ikhasi (igadango)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE\n"
+"string.text"
+msgid "Progress value"
+msgstr "Inani leragelo phambili"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE_MIN\n"
+"string.text"
+msgid "Progress value min."
+msgstr "Ubuncani beragelo phambili lenani."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE_MAX\n"
+"string.text"
+msgid "Progress value max."
+msgstr "Ubukhulu beragelo phambili lenani."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE\n"
+"string.text"
+msgid "Scroll value"
+msgstr "Inani lokuskrola"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE_MAX\n"
+"string.text"
+msgid "Scroll value max."
+msgstr "Ubukhulu benani lokuskrola."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE_MIN\n"
+"string.text"
+msgid "Scroll value min."
+msgstr "Ubuncani benani lokuskrola"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_WIDTH\n"
+"string.text"
+msgid "Scroll width"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_HEIGHT\n"
+"string.text"
+msgid "Scroll height"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_TOP\n"
+"string.text"
+msgid "Scroll top"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_LEFT\n"
+"string.text"
+msgid "Scroll left"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_SCROLLVALUE\n"
+"string.text"
+msgid "Default scroll value"
+msgstr "Inani lokuskrola esele lilkhethwe lihlelo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINEINCREMENT\n"
+"string.text"
+msgid "Small change"
+msgstr "Itjhuguluko elincani"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BLOCKINCREMENT\n"
+"string.text"
+msgid "Large change"
+msgstr "Itjhuguluko elikhulu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REPEAT_DELAY\n"
+"string.text"
+msgid "Delay"
+msgstr "Riyadisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REPEAT\n"
+"string.text"
+msgid "Repeat"
+msgstr "Buyekeza"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VISIBLESIZE\n"
+"string.text"
+msgid "Visible size"
+msgstr "Ubukhulu obubonakalako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ORIENTATION\n"
+"string.text"
+msgid "Orientation"
+msgstr "Ukujayeza"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ORIENTATION\n"
+"1\n"
+"string.text"
+msgid "Horizontal"
+msgstr "Butha~balala"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ORIENTATION\n"
+"2\n"
+"string.text"
+msgid "Vertical"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ADJUSTMENTVALUECHANGED\n"
+"string.text"
+msgid "While adjusting"
+msgstr "Ngesikhathi ilungisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Ilanga"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STATE\n"
+"string.text"
+msgid "State"
+msgstr "Ubujamo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Isikhathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCALEIMAGE\n"
+"string.text"
+msgid "Scale"
+msgstr "Iskeyili"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PUSHBUTTONTYPE\n"
+"string.text"
+msgid "Button type"
+msgstr "Umhlobo webhathini"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"1\n"
+"string.text"
+msgid "Default"
+msgstr "Ok~onakeleko"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"2\n"
+"string.text"
+msgid "OK"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Lungile\n"
+"#-#-#-#-#  euro.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Kulungile\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Kulungile\n"
+"#-#-#-#-#  all.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Kulungile"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"3\n"
+"string.text"
+msgid "Cancel"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Cima\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Cima\n"
+"#-#-#-#-#  schedule.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sula\n"
+"#-#-#-#-#  euro.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sula\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sula\n"
+"#-#-#-#-#  all.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sula"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"4\n"
+"string.text"
+msgid "Help"
+msgstr "Siza"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_UNABLETOCONNECT\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "Ukuthintana nomsuka wedatha \"$name$\" akhenge kuhlonywe."
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Itheksithi:"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BOUND_CELL\n"
+"string.text"
+msgid "Linked cell"
+msgstr "Iseli elithinteneko"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LIST_CELL_RANGE\n"
+"string.text"
+msgid "Source cell range"
+msgstr "Umsuka wokwehluka kweseli"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CELL_EXCHANGE_TYPE\n"
+"string.text"
+msgid "Contents of the linked cell"
+msgstr "Okungaphakathi kweseli elithinteneko"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CELL_EXCHANGE_TYPE\n"
+"1\n"
+"string.text"
+msgid "The selected entry"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CELL_EXCHANGE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Position of the selected entry"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_SCROLLBARS\n"
+"string.text"
+msgid "Scrollbars"
+msgstr "Amaskrolbha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"1\n"
+"string.text"
+msgid "Single-line"
+msgstr "Ilayini yinye"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"2\n"
+"string.text"
+msgid "Multi-line"
+msgstr "Ilayini ekanengi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"3\n"
+"string.text"
+msgid "Multi-line with formatting"
+msgstr "Yenza amalayini amanengi ngokulungisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SYMBOLCOLOR\n"
+"string.text"
+msgid "Symbol color"
+msgstr "Umbala wesimboli"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINEEND_FORMAT\n"
+"string.text"
+msgid "Text lines end with"
+msgstr "Amalayini wetheksti agcina nge"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LINEEND_FORMAT\n"
+"1\n"
+"string.text"
+msgid "LF (Unix)"
+msgstr "LF (Unix)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LINEEND_FORMAT\n"
+"2\n"
+"string.text"
+msgid "CR+LF (Windows)"
+msgstr "CR+LF (Windows)"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Ayikho"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"2\n"
+"string.text"
+msgid "Horizontal"
+msgstr "Butha~balala"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"3\n"
+"string.text"
+msgid "Vertical"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"4\n"
+"string.text"
+msgid "Both"
+msgstr "Kokubili"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"3\n"
+"string.text"
+msgid "SQL command"
+msgstr "Umlayo we-SQL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TOGGLE\n"
+"string.text"
+msgid "Toggle"
+msgstr "Thogoli"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FOCUSONCLICK\n"
+"string.text"
+msgid "Take Focus on Click"
+msgstr "Thatha umnqopho kugandelela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HIDEINACTIVESELECTION\n"
+"string.text"
+msgid "Hide selection"
+msgstr "Fihla ukukhetha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VISUALEFFECT\n"
+"string.text"
+msgid "Style"
+msgstr "Indlela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VISUALEFFECT\n"
+"1\n"
+"string.text"
+msgid "3D"
+msgstr "3D"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VISUALEFFECT\n"
+"2\n"
+"string.text"
+msgid "Flat"
+msgstr "Spara"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BORDERCOLOR\n"
+"string.text"
+msgid "Border color"
+msgstr "Umbala womkhawulo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"1\n"
+"string.text"
+msgid "Left top"
+msgstr "Ngesinceleni phezulu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"2\n"
+"string.text"
+msgid "Left centered"
+msgstr "Ngesinceleni phakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"3\n"
+"string.text"
+msgid "Left bottom"
+msgstr "Ngesinceleli ngenzasi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"4\n"
+"string.text"
+msgid "Right top"
+msgstr "Ngesidleni phezulu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"5\n"
+"string.text"
+msgid "Right centered"
+msgstr "Ngesidleni phakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"6\n"
+"string.text"
+msgid "Right bottom"
+msgstr "Ngesidleni ngenzasi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"7\n"
+"string.text"
+msgid "Above left"
+msgstr "Ngehla ngesinceleni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"8\n"
+"string.text"
+msgid "Above centered"
+msgstr "Ngehla phakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"9\n"
+"string.text"
+msgid "Above right"
+msgstr "Ngehla ngesidleni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"10\n"
+"string.text"
+msgid "Below left"
+msgstr "Ngenzasi ngesinceleni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"11\n"
+"string.text"
+msgid "Below centered"
+msgstr "Ngenzasi phakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"12\n"
+"string.text"
+msgid "Below right"
+msgstr "Ngenzasi ngesidleni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"13\n"
+"string.text"
+msgid "Centered"
+msgstr "Phakathi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_AUTOLINEBREAK\n"
+"string.text"
+msgid "Wrap text automatically"
+msgstr "Ukudluliswa kwetheksti okuzenzakalelako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TEXTTYPE\n"
+"string.text"
+msgid "Text type"
+msgstr "Umhlobo wetheksti"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHOWHIDE\n"
+"1\n"
+"string.text"
+msgid "Hide"
+msgstr "Fihla"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHOWHIDE\n"
+"2\n"
+"string.text"
+msgid "Show"
+msgstr "Tjengisa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XML_DATA_MODEL\n"
+"string.text"
+msgid "XML data model"
+msgstr "Indlela yedatha ye-XML"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BIND_EXPRESSION\n"
+"string.text"
+msgid "Binding expression"
+msgstr "Ukuzwakalisa okusibopho"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_REQUIRED\n"
+"string.text"
+msgid "Required"
+msgstr "Iyafuneka"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LIST_BINDING\n"
+"string.text"
+msgid "List entry source"
+msgstr "Rhemisa okufakwako komsuka"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_RELEVANT\n"
+"string.text"
+msgid "Relevant"
+msgstr "Khambelanako"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_READONLY\n"
+"string.text"
+msgid "Read-only"
+msgstr "~Fundwa kwaphela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_CONSTRAINT\n"
+"string.text"
+msgid "Constraint"
+msgstr "Isiqabeli"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_CALCULATION\n"
+"string.text"
+msgid "Calculation"
+msgstr "Isibalo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_DATA_TYPE\n"
+"string.text"
+msgid "Data type"
+msgstr "Umhlobo wedatha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_WHITESPACES\n"
+"string.text"
+msgid "Whitespaces"
+msgstr "Iinkhala ezimhlophe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"1\n"
+"string.text"
+msgid "Preserve"
+msgstr "Bulunga"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"2\n"
+"string.text"
+msgid "Replace"
+msgstr "Jamiselela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"3\n"
+"string.text"
+msgid "Collapse"
+msgstr "Ukuwa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_PATTERN\n"
+"string.text"
+msgid "Pattern"
+msgstr "Indlela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_LENGTH\n"
+"string.text"
+msgid "Length"
+msgstr "Ubude"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_LENGTH\n"
+"string.text"
+msgid "Length (at least)"
+msgstr "Ubude (ubuncani bakhona)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_LENGTH\n"
+"string.text"
+msgid "Length (at most)"
+msgstr "Ubude (ebunengini)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_TOTAL_DIGITS\n"
+"string.text"
+msgid "Digits (total)"
+msgstr "Amadijiti (isamba)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_FRACTION_DIGITS\n"
+"string.text"
+msgid "Digits (fraction)"
+msgstr "Amadijiti (iqezu)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_INCLUSIVE\n"
+"string.text"
+msgid "Max. (inclusive)"
+msgstr "Ubukhulu (obungakhethiko)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_EXCLUSIVE\n"
+"string.text"
+msgid "Max. (exclusive)"
+msgstr "Ubukhulku (obukhethako)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_INCLUSIVE\n"
+"string.text"
+msgid "Min. (inclusive)"
+msgstr "Ubuncani (obungakhethiko)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_EXCLUSIVE\n"
+"string.text"
+msgid "Min. (exclusive)"
+msgstr "Ubuncani (obukhethako)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMISSION_ID\n"
+"string.text"
+msgid "Submission"
+msgstr "Ukulethwa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BINDING_UI_NAME\n"
+"string.text"
+msgid "Binding"
+msgstr "Yabopha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SELECTION_TYPE\n"
+"string.text"
+msgid "Selection type"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ROOT_DISPLAYED\n"
+"string.text"
+msgid "Root displayed"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWS_HANDLES\n"
+"string.text"
+msgid "Show handles"
+msgstr "Tjengisa amatjhuguluko"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWS_ROOT_HANDLES\n"
+"string.text"
+msgid "Show root handles"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EDITABLE\n"
+"string.text"
+msgid "Editable"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_INVOKES_STOP_NOT_EDITING\n"
+"string.text"
+msgid "Invokes stop node editing"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DECORATION\n"
+"string.text"
+msgid "With title bar"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NOLABEL\n"
+"string.text"
+msgid "No Label"
+msgstr ""
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Awa"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"2\n"
+"string.text"
+msgid "Keep Ratio"
+msgstr "~Ukugcina i-ratio"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"3\n"
+"string.text"
+msgid "Fit to Size"
+msgstr "~Linganisa kusayizi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_INPUT_REQUIRED\n"
+"string.text"
+msgid "Input required"
+msgstr "Okufakwako okudingekako"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WRITING_MODE\n"
+"string.text"
+msgid "Text direction"
+msgstr "Ukunqotjhiswa kwetheksti"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"1\n"
+"string.text"
+msgid "Left-to-right"
+msgstr ""
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ukusuka ngesinceleni ukuya ngesidleni\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ngesinceleni ukuya ngesidleni"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"2\n"
+"string.text"
+msgid "Right-to-left"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Kusuka ngesidleni-ukuya-ngesinqeleni\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ukusuka ngesidleni ukuya ngesinceleni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"3\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"1\n"
+"string.text"
+msgid "Never"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"2\n"
+"string.text"
+msgid "When focused"
+msgstr ""
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"3\n"
+"string.text"
+msgid "Always"
+msgstr "Kanengi"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ANCHOR_TYPE\n"
+"string.text"
+msgid "Anchor"
+msgstr "Bamba ebujameni"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"1\n"
+"string.text"
+msgid "To Paragraph"
+msgstr "Ukwenza Ipharagrafu"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"2\n"
+"string.text"
+msgid "As Character"
+msgstr "NjengeKharektha"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"3\n"
+"string.text"
+msgid "To Page"
+msgstr "Ekhasini"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"4\n"
+"string.text"
+msgid "To Frame"
+msgstr "Ukufreyimela"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"5\n"
+"string.text"
+msgid "To Character"
+msgstr "Ukwenza Ikharektha"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHEET_ANCHOR_TYPE\n"
+"1\n"
+"string.text"
+msgid "To Page"
+msgstr "Ekhasini"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHEET_ANCHOR_TYPE\n"
+"2\n"
+"string.text"
+msgid "To Cell"
+msgstr "E~selini"
+
+#. That's the 'Regular' as used for a font style (as opposed to 'italic' and 'bold'), so please use a consistent translation.
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_REGULAR\n"
+"string.text"
+msgid "Regular"
+msgstr ""
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Jayelekile\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Jayelekilel"
+
+#. That's the 'Bold Italic' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_BOLD_ITALIC\n"
+"string.text"
+msgid "Bold Italic"
+msgstr "I-italiki edege"
+
+#. That's the 'Italic' as used for a font style, so please use a consistent translation.
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_ITALIC\n"
+"string.text"
+msgid "Italic"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithaliga\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithaliki\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithaliki\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithaliki\n"
+"#-#-#-#-#  animations.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ayithaliga\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithaliga\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bu-ithaliki\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Italiki\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ithaliki\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bu-ithaliki"
+
+#. That's the 'Bold' as used for a font style, so please use a consistent translation.
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_BOLD\n"
+"string.text"
+msgid "Bold"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholda\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholdi\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholdi\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholdi\n"
+"#-#-#-#-#  animations.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholda\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholda\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Dege\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Bholdi"
+
+#: formres.src
+#, fuzzy
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONT_DEFAULT\n"
+"string.text"
+msgid "(Default)"
+msgstr "Ok~onakeleko"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_CONFIRM_DELETE_DATA_TYPE\n"
+"string.text"
+msgid ""
+"Do you want to delete the data type '#type#' from the model?\n"
+"Please note that this will affect all controls which are bound to this data type."
+msgstr ""
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "Amabhathini"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "Ibhathini yokuKhetha"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "IBhokisi lokuKhetha"
+
+#: pcrmiscres.src
+#, fuzzy
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "IZIko leLebula"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "IBhokisi lesiQhema"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "Thekst Bhoksi"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Iziko eliLungisiweko"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "IBhokisi leRhemo"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "IBhokisi leHlanganisela"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "IBhathini yesiTjengiso"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_HIDDENCONTROL\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "ILawulo eliFihlekileko"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_UNKNOWNCONTROL\n"
+"string.text"
+msgid "Control (unknown type)"
+msgstr "Ilawulo (umhlobo ongaziwako)"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "ILawulo lesiTjengiso"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "UkuKhethwa kweFayili"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "Iziko leDatha"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "Isikhathi seZiko"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "Iziko leemBalo"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "Iziko leRhelo leeMali"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "Iziko leNdlela yokwenza"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "IThebula yeLawulo "
+
+#: propres.src
+#, fuzzy
+msgctxt ""
+"propres.src\n"
+"RID_STR_STANDARD\n"
+"string.text"
+msgid "Default"
+msgstr "Ok~onakeleko"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_PROPPAGE_DEFAULT\n"
+"string.text"
+msgid "General"
+msgstr "Mazombe"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_PROPPAGE_DATA\n"
+"string.text"
+msgid "Data"
+msgstr "Datha"
+
+#: propres.src
+#, fuzzy
+msgctxt ""
+"propres.src\n"
+"RID_RSC_ENUM_YESNO\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Awa"
+
+#: propres.src
+#, fuzzy
+msgctxt ""
+"propres.src\n"
+"RID_RSC_ENUM_YESNO\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "Iye"
+
+#: propres.src
+#, fuzzy
+msgctxt ""
+"propres.src\n"
+"RID_STR_HELP_SECTION_LABEL\n"
+"string.text"
+msgid "Help"
+msgstr "Siza"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_EMBED_IMAGE_PLACEHOLDER\n"
+"string.text"
+msgid "<Embedded-Image>"
+msgstr ""
+
+#: propres.src
+#, fuzzy
+msgctxt ""
+"propres.src\n"
+"RID_STR_TEXT_FORMAT\n"
+"string.text"
+msgid "Text"
+msgstr "Itheksithi:"
+
+#: selectlabeldialog.src
+msgctxt ""
+"selectlabeldialog.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "Amaforomo"

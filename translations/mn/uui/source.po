@@ -1,0 +1,1057 @@
+#. extracted from uui/source
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-12 00:48+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: alreadyopen.src
+msgctxt ""
+"alreadyopen.src\n"
+"STR_ALREADYOPEN_MSG\n"
+"string.text"
+msgid ""
+"Document file '$(ARG1)' is locked for editing by yourself on a different system since $(ARG2)\n"
+"\n"
+"Open document read-only, or ignore own file locking and open the document for editing.\n"
+"\n"
+msgstr ""
+
+#: alreadyopen.src
+msgctxt ""
+"alreadyopen.src\n"
+"STR_ALREADYOPEN_READONLY_BTN\n"
+"string.text"
+msgid "Open ~Read-Only"
+msgstr "Зөвхөн ~уншигдахаар нээх"
+
+#: alreadyopen.src
+msgctxt ""
+"alreadyopen.src\n"
+"STR_ALREADYOPEN_OPEN_BTN\n"
+"string.text"
+msgid "~Open"
+msgstr "~Нээх"
+
+#: alreadyopen.src
+msgctxt ""
+"alreadyopen.src\n"
+"STR_ALREADYOPEN_SAVE_MSG\n"
+"string.text"
+msgid ""
+"Document file '$(ARG1)' is locked for editing by yourself on a different system since $(ARG2)\n"
+"\n"
+"Close document on other system and retry saving or ignore own file locking and save current document.\n"
+"\n"
+msgstr ""
+
+#: alreadyopen.src
+msgctxt ""
+"alreadyopen.src\n"
+"STR_ALREADYOPEN_RETRY_SAVE_BTN\n"
+"string.text"
+msgid "~Retry Saving"
+msgstr ""
+
+#: alreadyopen.src
+#, fuzzy
+msgctxt ""
+"alreadyopen.src\n"
+"STR_ALREADYOPEN_SAVE_BTN\n"
+"string.text"
+msgid "~Save"
+msgstr ""
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Ха~дгалах\n"
+"#-#-#-#-#  html.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах\n"
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах\n"
+"#-#-#-#-#  office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хадгалах"
+
+#: filechanged.src
+msgctxt ""
+"filechanged.src\n"
+"STR_FILECHANGED_TITLE\n"
+"string.text"
+msgid "Document Has Been Changed by Others"
+msgstr ""
+
+#: filechanged.src
+msgctxt ""
+"filechanged.src\n"
+"STR_FILECHANGED_MSG\n"
+"string.text"
+msgid ""
+"The file has been changed since it was opened for editing in %PRODUCTNAME. Saving your version of the document will overwrite changes made by others.\n"
+"\n"
+"Do you want to save anyway?\n"
+"\n"
+msgstr ""
+
+#: filechanged.src
+msgctxt ""
+"filechanged.src\n"
+"STR_FILECHANGED_SAVEANYWAY_BTN\n"
+"string.text"
+msgid "~Save Anyway"
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_KEEP_PASSWORD\n"
+"string.text"
+msgid "~Remember password until end of session"
+msgstr "Суултыг дуустал нууц үгийг ~сануул"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_SAVE_PASSWORD\n"
+"string.text"
+msgid "~Remember password"
+msgstr "Нууц үгийг ~сануул"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"STR_WARNING_BROKENSIGNATURE_TITLE\n"
+"string.text"
+msgid "Invalid Document Signature"
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"STR_WARNING_INCOMPLETE_ENCRYPTION_TITLE\n"
+"string.text"
+msgid "Non-Encrypted Streams"
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_ABORT & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation executed on $(ARG1) was aborted."
+msgstr "$(ARG1) дээр хийж байсан үлдэл зогслоо."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_ACCESSDENIED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Access to $(ARG1) was denied."
+msgstr "$(ARG1) -д хандсаныг түдгэлзлээ."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_ALREADYEXISTS & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) already exists."
+msgstr "$(ARG1) хэдийнээ байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_TARGETALREADYEXISTS & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Target already exists."
+msgstr "Товлолт хэдийнээ байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_MODULESIZEEXCEEDED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"You are about to save/export a password protected basic library containing module(s) \n"
+"$(ARG1)\n"
+"which are too large to store in binary format. If you wish users that don't have access to the library password to be able to run macros in those module(s) you must split those modules into a number of smaller modules. Do you wish to continue to save/export this library?"
+msgstr ""
+"Хоёртын форматаар хадгалахад хэтэрхий том \n"
+"$(ARG1)\n"
+"модулиудыг нууц үгийн хамгаалалтай үндсэн санд та хадгалаад экспортлох боломжтой. Хэрэв та хэрэглэгчид энэ модулиудын макрог ажиллуулахаар сангийн нууц үгэнд хандах боломжгүй гэж үзвэл модулиудыг хэд хэдэн жижиг модулиуд болгон хувааж салгах хэрэгтэй. Та энэ санд хадгалаад экспортол горимоор үргэлжлүүлж ажиллах уу?  "
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_BADCRC & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The data from $(ARG1) has an incorrect checksum."
+msgstr "$(ARG1)-н өгөгдлийн хяналтын нийлбэр буруу байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CANTCREATE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The object $(ARG1) cannot be created in directory $(ARG2)."
+msgstr "$(ARG1) объектыг $(ARG2) лавлах дотор үүсгэх боломжгүй байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CANTREAD & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Data of $(ARG1) could not be read."
+msgstr "$(ARG1)-с өгөгдөл уншигдах боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CANTSEEK & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The seek operation on $(ARG1) could not be performed."
+msgstr "$(ARG1) дээрх Seek үйлдлийг гүйцэтгэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CANTTELL & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The tell operation on $(ARG1) could not be performed."
+msgstr "$(ARG1) дээрх Tell үйлдлийг гүйцэтгэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CANTWRITE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Data for $(ARG1) could not be written."
+msgstr "$(ARG1)-н өгөгдөл бичигдэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CURRENTDIR & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Action impossible: $(ARG1) is the current directory."
+msgstr "Үйлдэл боломжгүй: $(ARG1) бол одооны хавтас."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTREADY & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) is not ready."
+msgstr "($Arg1) бэлэн биш."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTSAMEDEVICE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Action impossible: $(ARG1) and $(ARG2) are different devices (drives)."
+msgstr "Үйлдэл боломжгүй: $(ARG1) $(ARG2) -д ялгаатай хэрэгсэлүүд (хөтлөгчүүд)."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_GENERAL & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "General input/output error while accessing $(ARG1)."
+msgstr "$(ARG1) руу хандаж байхад ерөнхий оролт/гаралтын алдаа."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_INVALIDACCESS & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "An attempt was made to access $(ARG1) in an invalid way."
+msgstr "Хүчингүй аргаар $(ARG1) рүү хандах оролдлого хийгдлээ."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_INVALIDCHAR & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) contains invalid characters."
+msgstr "$(ARG1) хүчингүй тэмдэгт агуулж байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_INVALIDDEVICE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The device (drive) $(ARG1) is invalid."
+msgstr "Хэрэгсэл (хөтлөгч) $(ARG1) хүчингүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_INVALIDLENGTH & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The data from $(ARG1) has an invalid length."
+msgstr "$(ARG1) -н өгөгдөлийн урт нь таарахгүй байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_INVALIDPARAMETER & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation on $(ARG1) was started with an invalid parameter."
+msgstr "$(ARG1) дээрх үйлдлийг хүчингүй параметртэй эхлүүлжээ."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_ISWILDCARD & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation cannot be performed because $(ARG1) contains wildcards."
+msgstr "$(ARG1) зай авагч тэмдэг агуулж байгаа тул энэ үйлдэл биелэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_LOCKVIOLATION & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Error during shared access to $(ARG1)."
+msgstr "$(ARG1) рүү хамтарсан хандалт хийж байхад алдаа."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_MISPLACEDCHAR & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) contains misplaced characters."
+msgstr "$(ARG1) буруу байрлалтай тэмдэгт агуулж байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NAMETOOLONG & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The name $(ARG1) contains too many characters."
+msgstr "$(ARG1) нэр дэндүү их тэмдэг агуулж байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTEXISTS & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) does not exist."
+msgstr "$(ARG1) үүсээгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTEXISTSPATH & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The path $(ARG1) does not exist."
+msgstr "($Arg1) зам алга байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTSUPPORTED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation on $(ARG1) is not supported on this operating system."
+msgstr "$(ARG1) дээрх үйлдэл энэ үйлдлийн системээр дэмжигдээгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTADIRECTORY & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) is not a directory."
+msgstr "$(ARG1) бол хавтас биш."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTAFILE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) is not a file."
+msgstr "$(ARG1) бол файл биш."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_OUTOFSPACE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "There is no space left on device $(ARG1)."
+msgstr "$(ARG1) хэрэгсэл дээр сул зай үлдсэнгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_TOOMANYOPENFILES & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation on $(ARG1) cannot be performed because too many files are already open."
+msgstr "Хэт олон файл нэгэн зэрэг нээлттэй байгаа тул $(ARG1) үйлдэл биелэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_OUTOFMEMORY & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation on $(ARG1) cannot be performed because there is no more memory available."
+msgstr "Санах ойн сул зай байхгүй тул $(ARG1) үйлдэл биелэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_PENDING & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The operation on $(ARG1) cannot continue because more data is pending."
+msgstr "Цаашдын өгөгдлүүд хүлээгдэж байгаа тул $(ARG1) дээрх үйлдлийг үргэлжлүүлэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_RECURSIVE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) cannot be copied into itself."
+msgstr "$(ARG1) өөрөө өөр лүү нь хуулж чадахгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_UNKNOWN & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Unknown input/output error while accessing $(ARG1)."
+msgstr "$(ARG1) рүү хандаж байх үед оролт/гаралтын тодорхойгүй алдаа ."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_WRITEPROTECTED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) is write protected."
+msgstr "$(ARG1) бичилтээс хамгаалагдсан."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_WRONGFORMAT & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) is not in the correct format."
+msgstr "$(ARG1) буруу форматтай байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_WRONGVERSION & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The version of $(ARG1) is not correct."
+msgstr "$(ARG1)-н хувилбар буруу."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTEXISTS_VOLUME & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Drive $(ARG1) does not exist."
+msgstr "($Arg1) хөтлөгч алга байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTEXISTS_FOLDER & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Folder $(ARG1) does not exist."
+msgstr "($Arg1) хавтас алга байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_WRONGJAVA & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The installed Java version is not supported."
+msgstr "Суусан Жава хувилбар дэмжигдээгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_WRONGJAVA_VERSION & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The installed Java version $(ARG1) is not supported."
+msgstr "Суусан Жава хувилбар $(ARG1) дэмжигдээгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_WRONGJAVA_MIN & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The installed Java version is not supported, at least version $(ARG1) is required."
+msgstr "Суусан Жава хувилбар дэмжигдээгүй, ядаж $(ARG1) хувилбар шаардлагатай."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_WRONGJAVA_VERSION_MIN & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The installed Java version $(ARG1) is not supported, at least version $(ARG2) is required."
+msgstr "Суусан Жава хувилбар $(ARG1) дэмжигдээгүй, ядаж $(ARG1) хувилбар шаардлагатай."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_BADPARTNERSHIP & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The data associated with the partnership is corrupted."
+msgstr "Хос руу хадгалсан өгөгдөл эвдэрчээ."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_BADPARTNERSHIP_NAME & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The data associated with the partnership $(ARG1) is corrupted."
+msgstr "Өгөгдөлийн хамсаатан $(ARG1) түнш эвдэрсэн(завхарсан)."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTREADY_VOLUME & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Volume $(ARG1) is not ready."
+msgstr "Диск хөтлөгч $(ARG1) бэлэн биш."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTREADY_REMOVABLE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "$(ARG1) is not ready; please insert a storage medium."
+msgstr "$(ARG1) бэлэн биш; Та хадгалагч хэрэгсэл оруулна уу."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_NOTREADY_VOLUME_REMOVABLE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Volume $(ARG1) is not ready; please insert a storage medium."
+msgstr "Хөтлөгч $(ARG1) бэлэн биш; Та хадгалагч хэрэгсэл оруулна уу."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_WRONGMEDIUM & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "Please insert disk $(ARG1)."
+msgstr "Та $(ARG1) диск оруулна уу."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_CANTCREATE_NONAME & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The object cannot be created in directory $(ARG1)."
+msgstr "Объектыг $(ARG1) лавлах дотор үүсгэх боломжгүй."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_UNSUPPORTEDOVERWRITE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "%PRODUCTNAME cannot keep files from being overwritten when this transmission protocol is used. Do you want to continue anyway?"
+msgstr " %PRODUCTNAME нь дамжуулах протоколыг ашиглаж дарж бичиж байхад файлыг хадгалан үлдэж чадахгүй. Та цааш үргэлжлүүлэн ажиллах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_BROKENPACKAGE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"The file '$(ARG1)' is corrupt and therefore cannot be opened. %PRODUCTNAME can try to repair the file.\n"
+"\n"
+"The corruption could be the result of document manipulation or of structural document damage due to data transmission.\n"
+"\n"
+"We recommend that you do not trust the content of the repaired document.\n"
+"Execution of macros is disabled for this document.\n"
+"\n"
+"Should %PRODUCTNAME repair the file?\n"
+msgstr "'$(ARG1)' файл эвдэрсэн тул нээж чадахгүй байна. %PRODUCTNAME-ээр файлыг засах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_BROKENPACKAGE_CANTREPAIR & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The file '$(ARG1)' could not be repaired and therefore cannot be opened."
+msgstr "'$(ARG1)' файл засагдаж чадахгүй байгаа тул нээгдэх боломжгүй байна."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_CONFIGURATION_BROKENDATA_NOREMOVE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"Configuration data in '$(ARG1)' is corrupted. Without this data some functions may not operate correctly.\n"
+"Do you want to continue startup of %PRODUCTNAME without the corrupted configuration data?"
+msgstr ""
+"'$(ARG1)' дахь өгөгдлийн хувилбар эвдэрсэн байна. Зарим функцүүд энэ өгөгдөлгүйгээр зөв ажиллахгүй байж магад.\n"
+"Та %PRODUCTNAME-г эвдрэлгүй өгөгдөлтэйгөөр шинээр эхлүүлэн(startup) ажиллах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_CONFIGURATION_BROKENDATA_WITHREMOVE & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"The personal configuration file '$(ARG1)' is corrupted and must be deleted to continue. Some of your personal settings may be lost.\n"
+"Do you want to continue startup of %PRODUCTNAME without the corrupted configuration data?"
+msgstr ""
+" '$(ARG1)' хувийн өгөгдлийн файл эвдэрсэн бөгөөд зарим нь устгагдсан байна. Таны хувийн тохиргооны зарим хэсэг мэдээлэл алга болсон байж магад.\n"
+"Та %PRODUCTNAME-г эвдрэлгүй өгөгдөлтэйгөөр шинээр эхлүүлэн(startup) ажиллах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_CONFIGURATION_BACKENDMISSING & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The configuration data source '$(ARG1)' is unavailable. Without this data some functions may not operate correctly."
+msgstr "'$(ARG1)' гэх өгөгдлийн эх хувилбар олдоогүй. Зарим функцүүд энэ өгөгдөлгүйгээр зөв ажиллахгүй байж магад."
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_CONFIGURATION_BACKENDMISSING_WITHRECOVER & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"The configuration data source '$(ARG1)' is unavailable. Without this data some functions may not operate correctly.\n"
+"Do you want to continue startup of %PRODUCTNAME without the missing configuration data?"
+msgstr ""
+"'$(ARG1)' гэх өгөгдлийн эх хувилбар олдоогүй. Зарим функцүүд энэ өгөгдөлгүйгээр зөв ажиллахгүй байж магад.\n"
+"Та %PRODUCTNAME-г эвдрэлгүй өгөгдөлтэйгөөр шинээр эхлүүлэн(startup) ажиллах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_INVALID_XFORMS_SUBMISSION_DATA & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The form contains invalid data. Do you still want to continue?"
+msgstr "Маягт алдаатай өгөгдлийг агуулж байна. Та цааш үргэлжлүүлэн ажиллах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_LOCKING_LOCKED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The file $(ARG1) is locked by another user. Currently, another write access to this file cannot be granted."
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_LOCKING_LOCKED_SELF & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The file $(ARG1) is locked by yourself. Currently, another write access to this file cannot be granted."
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_LOCKING_NOT_LOCKED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid "The file $(ARG1) is currently not locked by yourself."
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_LOCKING_LOCK_EXPIRED & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"The previously obtained lock for file $(ARG1) has expired.\n"
+"This can happen due to problems on the server managing the file lock. It cannot be guaranteed that write operations on this file will not overwrite changes done by other users!"
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_UNKNOWNAUTH_UNTRUSTED)\n"
+"string.text"
+msgid ""
+"Unable to verify the identity of $(ARG1) site.\n"
+"\n"
+"Before accepting this certificate, you should examine this site's certificate carefully. Are you willing to accept this certificate for the purpose of identifying the Web site $(ARG1)?"
+msgstr ""
+"$(ARG1) сайтыг танин нотлох боломжгүй.\n"
+"\n"
+"Энэ гэрчилгээг зөвшөөрөхөөс өмнө та энэ сайтын гэрчилгээг нягтлан хянаж шалга.Та $(ARG1) вэб сайтыг таних үүднээс энэ гэрчилгээг зөвшөөрөх хүсэлтэй байна уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_SSLWARN_EXPIRED_1)\n"
+"string.text"
+msgid ""
+"$(ARG1) is a site that uses a security certificate to encrypt data during transmission, but its certificate expired on $(ARG2).\n"
+"\n"
+"You should check to make sure that your computer's time is correct."
+msgstr ""
+"$(ARG1) сайт нь дамжууллын үед өгөгдөл нууцлах аюулгүйн гэрчилгээг ашигладаг, гэхдээ $(ARG2)-д гэрчилгээ хүчингүй болно.\n"
+"\n"
+"Та компьютерынхоо цаг хугацааны утга зөв эсэхийг шалгаж нягтлаарай. "
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_SSLWARN_DOMAINMISMATCH_1)\n"
+"string.text"
+msgid ""
+"You have attempted to establish a connection with $(ARG1). However, the security certificate presented belongs to $(ARG2). It is possible, though unlikely, that someone may be trying to intercept your communication with this web site.\n"
+"\n"
+"If you suspect the certificate shown does not belong to $(ARG1), please cancel the connection and notify the site administrator.\n"
+"\n"
+"Would you like to continue anyway?"
+msgstr ""
+"Тантай $(ARG1) холбоос тогтоох гэж оролдлоо. Түүний аюулгүйн гэрчилгээ нь $(ARG2) -д байна. Магадгүй таны энэ вэб сайттай харилцах харилцааг хэн нэг нь чагнах гэж олдсон байж болно.\n"
+"\n"
+"Хэрэв энэ гэрчилгээ $(ARG1)-ийх биш гэж танд эргэлзээтэй санагдвал, холболтыг цуцалж сайтын захирагчид мэдэгдэнэ үү.\n"
+"\n"
+"Та цааш үргэлжлүүлэн ажиллах уу?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_SSLWARN_INVALID_1)\n"
+"string.text"
+msgid ""
+"The certificate could not be validated. You should examine this site's certificate carefully.\n"
+"\n"
+"If you suspect the certificate shown, please cancel the connection and notify the site administrator."
+msgstr ""
+"Энэ гэрчилгээ хүчинтэй болох боломжгүй. Энэ сайтын гэрчилгээг нягтлан хянаж үз.\n"
+"\n"
+"Хэрэв энэ гэрчилгээ танд эргэлзээтэй санагдвал, холболтыг цуцалж сайтын захирагчид мэдэгдэнэ үү?"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(TITLE_UUI_SSLWARN_DOMAINMISMATCH)\n"
+"string.text"
+msgid "Security Warning: Domain Name Mismatch"
+msgstr "Аюулгүйн сэрэмжлүүлэг: Домайн нэрийн үл зохицол"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(TITLE_UUI_SSLWARN_EXPIRED)\n"
+"string.text"
+msgid "Security Warning: Server Certificate Expired"
+msgstr "Аюулгүй байдлын анхааруулга: Серверийн гэрчилгээний хугацаа дууссан"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(TITLE_UUI_SSLWARN_INVALID)\n"
+"string.text"
+msgid "Security Warning: Server Certificate Invalid"
+msgstr "Аюулгүй байдлын анхааруулга: Серверийн гэрчилгээ хүчингүй"
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_CANNOT_ACTIVATE_FACTORY & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"Component cannot be loaded, possibly broken or incomplete installation.\n"
+"Full error message:\n"
+"\n"
+" $(ARG1)."
+msgstr ""
+
+#: ids.src
+msgctxt ""
+"ids.src\n"
+"RID_UUI_ERRHDL\n"
+"(ERRCODE_UUI_IO_WARN_CANTSAVE_MACROS & ERRCODE_RES_MASK)\n"
+"string.text"
+msgid ""
+"You are saving to a macro-free document format, the macros contained in this document will not be saved.\n"
+"Do you wish to continue?"
+msgstr ""
+
+#: lockfailed.src
+msgctxt ""
+"lockfailed.src\n"
+"STR_LOCKFAILED_MSG\n"
+"string.text"
+msgid "The file could not be locked for exclusive access by %PRODUCTNAME, due to missing permission to create a lock file on that file location."
+msgstr ""
+
+#: openlocked.src
+msgctxt ""
+"openlocked.src\n"
+"STR_OPENLOCKED_TITLE\n"
+"string.text"
+msgid "Document in Use"
+msgstr "Баримтыг хэрэглэж байна"
+
+#: openlocked.src
+msgctxt ""
+"openlocked.src\n"
+"STR_OPENLOCKED_MSG\n"
+"string.text"
+msgid ""
+"Document file '$(ARG1)' is locked for editing by:\n"
+"\n"
+"$(ARG2)\n"
+"\n"
+"Open document read-only or open a copy of the document for editing.\n"
+"\n"
+msgstr ""
+"'$(ARG1)' баримт файлыг засварлаж буй:\n"
+"\n"
+"$(ARG2)\n"
+"\n"
+"Баримтыг зөвхөн уншигдах эсвэл хуулбарыг засварлахаар нээх боломжтой."
+
+#: openlocked.src
+msgctxt ""
+"openlocked.src\n"
+"STR_OPENLOCKED_OPENREADONLY_BTN\n"
+"string.text"
+msgid "Open ~Read-Only"
+msgstr "Зөвхөн ~уншигдахаар нээх"
+
+#: openlocked.src
+msgctxt ""
+"openlocked.src\n"
+"STR_OPENLOCKED_OPENCOPY_BTN\n"
+"string.text"
+msgid "Open ~Copy"
+msgstr "Х~уулбарыг нээх"
+
+#: openlocked.src
+msgctxt ""
+"openlocked.src\n"
+"STR_UNKNOWNUSER\n"
+"string.text"
+msgid "Unknown User"
+msgstr "Тодорхойгүй хэрэглэгч"
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_ENTER_PASSWORD_TO_OPEN\n"
+"string.text"
+msgid "Enter password to open file: \n"
+msgstr ""
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_ENTER_PASSWORD_TO_MODIFY\n"
+"string.text"
+msgid "Enter password to modify file: \n"
+msgstr ""
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_ENTER_SIMPLE_PASSWORD\n"
+"string.text"
+msgid "Enter password: "
+msgstr ""
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_CONFIRM_SIMPLE_PASSWORD\n"
+"string.text"
+msgid "Confirm password: "
+msgstr ""
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_TITLE_CREATE_PASSWORD\n"
+"string.text"
+msgid "Set Password"
+msgstr ""
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_TITLE_ENTER_PASSWORD\n"
+"string.text"
+msgid "Enter Password"
+msgstr ""
+
+#: passworddlg.src
+msgctxt ""
+"passworddlg.src\n"
+"STR_PASSWORD_MISMATCH\n"
+"string.text"
+msgid "The confirmation password did not match the password. Set the password again by entering the same password in both boxes."
+msgstr ""
+
+#: passworderrs.src
+#, fuzzy
+msgctxt ""
+"passworderrs.src\n"
+"STR_ERROR_PASSWORD_TO_OPEN_WRONG\n"
+"string.text"
+msgid "The password is incorrect. The file cannot be opened."
+msgstr "Нууц үг буруу байна. Баримтыг нээж чадахгүй."
+
+#: passworderrs.src
+#, fuzzy
+msgctxt ""
+"passworderrs.src\n"
+"STR_ERROR_PASSWORD_TO_MODIFY_WRONG\n"
+"string.text"
+msgid "The password is incorrect. The file cannot be modified."
+msgstr "Нууц үг буруу байна. Баримтыг нээж чадахгүй."
+
+#: passworderrs.src
+#, fuzzy
+msgctxt ""
+"passworderrs.src\n"
+"STR_ERROR_MASTERPASSWORD_WRONG\n"
+"string.text"
+msgid "The master password is incorrect."
+msgstr "Нууц үг хийгдээгүй байна."
+
+#: passworderrs.src
+#, fuzzy
+msgctxt ""
+"passworderrs.src\n"
+"STR_ERROR_SIMPLE_PASSWORD_WRONG\n"
+"string.text"
+msgid "The password is incorrect."
+msgstr "Нууц үг хийгдээгүй байна."
+
+#: passworderrs.src
+msgctxt ""
+"passworderrs.src\n"
+"STR_ERROR_PASSWORDS_NOT_IDENTICAL\n"
+"string.text"
+msgid "The password confirmation does not match."
+msgstr "Нууц үг таарахгүй байна. Та дахин оруулна уу."
+
+#: trylater.src
+msgctxt ""
+"trylater.src\n"
+"STR_TRYLATER_TITLE\n"
+"string.text"
+msgid "Document in Use"
+msgstr "Баримтыг хэрэглэж байна"
+
+#: trylater.src
+msgctxt ""
+"trylater.src\n"
+"STR_TRYLATER_MSG\n"
+"string.text"
+msgid ""
+"Document file '$(ARG1)' is locked for editing by:\n"
+"\n"
+"$(ARG2)\n"
+"\n"
+"Try again later to save document or save a copy of that document.\n"
+"\n"
+msgstr ""
+
+#: trylater.src
+msgctxt ""
+"trylater.src\n"
+"STR_TRYLATER_RETRYSAVING_BTN\n"
+"string.text"
+msgid "~Retry Saving"
+msgstr ""
+
+#: trylater.src
+#, fuzzy
+msgctxt ""
+"trylater.src\n"
+"STR_TRYLATER_SAVEAS_BTN\n"
+"string.text"
+msgid "~Save As..."
+msgstr "~Өөрөөр хадгалах..."

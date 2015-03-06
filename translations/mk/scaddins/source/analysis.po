@@ -1,0 +1,7011 @@
+#. extracted from scaddins/source/analysis
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:06+0200\n"
+"PO-Revision-Date: 2012-07-14 09:29+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date before or after a specified number of workdays"
+msgstr "Го враќа серискиот број на датумот пред или по одреден број работни денови"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Почетен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"4\n"
+"string.text"
+msgid "Days"
+msgstr "Денови"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"5\n"
+"string.text"
+msgid "The number of workdays before or after the start date"
+msgstr "Бројот на работни денови пред или по почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "Празници"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"7\n"
+"string.text"
+msgid "List of date values of days off (vacation, holidays, etc.)"
+msgstr "Листа на вредности за датуми за неработни денови (одмор, празници, итн.)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"1\n"
+"string.text"
+msgid "Returns the number of years (including fractional part) between two dates"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Почетен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Краен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "Крајниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"6\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"7\n"
+"string.text"
+msgid "Basis indicates the day-count convention to use in the calculation"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date that is a specified number of months before or after the start date"
+msgstr "Го враќа серискиот број на датумот што е одреден број на месеци пред или по почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Почетен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "Месеци"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "Број на месеци пред или по почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of the calendar week in which the specified date occurs."
+msgstr "Го враќа бројот на календарската недела во која се појавува наведениот датум."
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "Датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"3\n"
+"string.text"
+msgid "The date"
+msgstr "Датумот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"4\n"
+"string.text"
+msgid "Return type"
+msgstr "Тип_резултат"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"5\n"
+"string.text"
+msgid "Indicates the first day of the week (1 = Sunday, other values = Monday)"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the last day of the month that comes a certain number of months before or after the start date"
+msgstr "Го враќа серискиот број на последниот ден во месецот што доаѓа по одреден број месеци пред или по почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Почетен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "Месеци"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "Број на месеци пред или по почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of workdays between two dates"
+msgstr "Го враќа бројот на работни денови меѓу два датума"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Почетен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "Почетниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Краен_датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "Крајниот датум"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "Празници"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"7\n"
+"string.text"
+msgid "List of date values representing days off (vacation, holidays, etc.)"
+msgstr "Листа на вредности за датуми што се неработни денови (одмор, празници, итн.)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is even"
+msgstr "Враќа вредност „точно“ ако е бројот парен"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Бројот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is odd"
+msgstr "Враќа вредност „точно“ ако е бројот непарен"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Бројот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"1\n"
+"string.text"
+msgid "Returns the multinomial coefficient of a set of numbers"
+msgstr "Враќа пермутации со повторување од низа броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "Броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers for which you want the multinomial coefficient"
+msgstr "Број или листа од броеви за кои сакате пермутации со повторување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of a power series"
+msgstr "Враќа сума на степенски ред"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "Х"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"3\n"
+"string.text"
+msgid "The independent variable of the power series"
+msgstr "Независната променлива"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"5\n"
+"string.text"
+msgid "The initial power to which x is to be raised"
+msgstr "Почетниот степен на кој треба да биде степенуван X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"6\n"
+"string.text"
+msgid "M"
+msgstr "М"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"7\n"
+"string.text"
+msgid "The increment by which to increase n for each term in the series"
+msgstr "Колку членови од серијата да се степенуваат"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"8\n"
+"string.text"
+msgid "Coefficients"
+msgstr "Коефициенти"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"9\n"
+"string.text"
+msgid "Set of coefficients by which each successive power of the variable x is multiplied"
+msgstr "Множество коефициенти со кои се множи секој следен степен на променливата X"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"1\n"
+"string.text"
+msgid "Returns the integer portion of a division"
+msgstr "Враќа количник при целобројно делење"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "Броител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "Деленикот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "Именител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Делителот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"1\n"
+"string.text"
+msgid "Returns a number rounded to a specified multiple"
+msgstr "Враќа број заокружен на одредениот заеднички именител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"3\n"
+"string.text"
+msgid "The number to round off"
+msgstr "Бројот што треба да се заокружи"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"4\n"
+"string.text"
+msgid "Multiple"
+msgstr "Заед_именител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"5\n"
+"string.text"
+msgid "The multiple to which you want to round number"
+msgstr "Заедничкиот именител на кој сакате да го заокружите бројот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a number which has been multiplied by pi"
+msgstr "Го враќа квадратниот корен од број помножен со Pi"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"3\n"
+"string.text"
+msgid "The number by which pi is multiplied"
+msgstr "Бројот со кој е помножен Pi"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"1\n"
+"string.text"
+msgid "Returns a random integer between the numbers you specify"
+msgstr "Враќа случаен цел број меѓу два зададени броја"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"2\n"
+"string.text"
+msgid "Bottom"
+msgstr "Најмал"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"3\n"
+"string.text"
+msgid "The smallest integer returned"
+msgstr "Најмалиот вратен цел број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"4\n"
+"string.text"
+msgid "Top"
+msgstr "Најголем"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"5\n"
+"string.text"
+msgid "The largest integer returned"
+msgstr "Најголемиот вратен цел број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"1\n"
+"string.text"
+msgid "Returns the greatest common divisor"
+msgstr "Го враќа најголемиот заеднички делител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "Броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "Број или листа на броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"1\n"
+"string.text"
+msgid "Returns the least common multiple"
+msgstr "Го враќа најмалиот заеднички содржател"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "Броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "Број или листа на броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"1\n"
+"string.text"
+msgid "Returns the modified Bessel function In(x)"
+msgstr "Враќа вредност на модифицираната Беселова функција In(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "Х"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Вредноста за која треба да се пресмета функцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Редот на Беселовата функција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Jn(x)"
+msgstr "Враќа вредност на Беселовата функција Jn(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "Х"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Вредноста за која треба да се пресмета функцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Редот на Беселовата функција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Kn(x)"
+msgstr "Враќа вредност на Беселовата функција Kn(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "Х"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Вредноста за која треба да се пресмета функцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Редот на Беселовата функција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Yn(x)"
+msgstr "Враќа вредност на Беселовата функција Yn(x)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr "Х"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "Вредноста за која треба да се пресмета функцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr "N"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "Редот на Беселовата функција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to an octal number"
+msgstr "Претвора бинарен број во октален број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "Бинарниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a decimal number"
+msgstr "Претвора бинарен број во декаден број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "Бинарниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a hexadecimal number"
+msgstr "Претвора бинарен број во хексадецимален број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "Бинарниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used."
+msgstr "Број на места за приказ."
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a binary number"
+msgstr "Претвора октален број во бинарен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "Окталниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a decimal number"
+msgstr "Претвора октален број во декаден број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "Окталниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a hexadecimal number"
+msgstr "Претвора октален број во хексадецимален број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "Окталниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a binary number"
+msgstr "Претвора декаден број во бинарен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "Декадниот цел број што треба да се претвори"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a hexadecimal number"
+msgstr "Претвора декаден број во хексадецимален број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "Декадниот цел број што треба да се претвори"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number into an octal number"
+msgstr "Претвора декаден број во октален број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "Декадниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a binary number"
+msgstr "Претвора хексадецимален број во бинарен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "Хексадецималниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a decimal number"
+msgstr "Претвора хексадецимален број во декаден број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "Хексадецималниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to an octal number"
+msgstr "Претвора хексадецимален број во октален број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "Хексадецималниот број што треба да биде претворен (како текст)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "Места"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "Број на места за приказ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"1\n"
+"string.text"
+msgid "Tests whether two values are equal"
+msgstr "Проверува дали две вредности се еднакви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"2\n"
+"string.text"
+msgid "Number 1"
+msgstr "Број_1"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"3\n"
+"string.text"
+msgid "The first number"
+msgstr "Првиот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"4\n"
+"string.text"
+msgid "Number 2"
+msgstr "Број_2"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"5\n"
+"string.text"
+msgid "The second number"
+msgstr "Вториот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"1\n"
+"string.text"
+msgid "Returns the error function"
+msgstr "Враќа вредност на функцијата за грешка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "Долна_граница"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "Долната граница на интегрирање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"4\n"
+"string.text"
+msgid "Upper limit"
+msgstr "Горна_граница"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"5\n"
+"string.text"
+msgid "The upper limit for integration"
+msgstr "Горната граница на интегрирање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"1\n"
+"string.text"
+msgid "Returns the complementary error function"
+msgstr "Враќа вредност на комплементарната функција за грешка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "Долна_граница"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "Долната граница на интегрирање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"1\n"
+"string.text"
+msgid "Tests whether a number is greater than a threshold value"
+msgstr "Проверува дали даден број е поголем од даден праг"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"3\n"
+"string.text"
+msgid "The value to test against step"
+msgstr "Вредноста што се проверува во однос на прагот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"4\n"
+"string.text"
+msgid "Step"
+msgstr "Праг"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"5\n"
+"string.text"
+msgid "The threshold value"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"1\n"
+"string.text"
+msgid "Returns the double factorial of Number"
+msgstr "Враќа двоен факториел на даден број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Бројот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"1\n"
+"string.text"
+msgid "Returns the absolute value (modulus) of a complex number"
+msgstr "Враќа модул на комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"1\n"
+"string.text"
+msgid "Returns the imaginary coefficient of a complex number"
+msgstr "Враќа имагинарен дел на комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"1\n"
+"string.text"
+msgid "Returns a complex number raised to a real power"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"4\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"5\n"
+"string.text"
+msgid "Power to which the complex number is raised"
+msgstr "Степен на кој се степенува комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"1\n"
+"string.text"
+msgid "Returns the argument theta, an angle expressed in radians"
+msgstr "Го враќа аргументот тета, агол изразен во радијани"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"1\n"
+"string.text"
+msgid "Returns the cosine of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"1\n"
+"string.text"
+msgid "Returns the quotient of two complex numbers"
+msgstr "Враќа резултат од делење на два комплексни броја"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "Броител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "Деленикот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "Именител"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Делителот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"1\n"
+"string.text"
+msgid "Returns the algebraic form of the exponential of a complex number"
+msgstr "Ја враќа алгебарската форма на експонентот на комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"1\n"
+"string.text"
+msgid "Returns the complex conjugate of a complex number"
+msgstr "Враќа конјугирано-комплексен број од даден комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"1\n"
+"string.text"
+msgid "Returns the natural logarithm of a complex number"
+msgstr "Враќа природен логаритам од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"1\n"
+"string.text"
+msgid "Returns the base-10 logarithm of a complex number"
+msgstr "Враќа логаритам со основа 10 од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"1\n"
+"string.text"
+msgid "Returns the base-2 logarithm of a complex number"
+msgstr "Враќа логаритам со основа 2 од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"1\n"
+"string.text"
+msgid "Returns the product of several complex numbers"
+msgstr "Враќа производ од повеќе комплексни броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"3\n"
+"string.text"
+msgid "The first complex number"
+msgstr "Првиот комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"4\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"5\n"
+"string.text"
+msgid "Another complex number"
+msgstr "Следен комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"1\n"
+"string.text"
+msgid "Returns the real coefficient of a complex number"
+msgstr "Враќа реален дел од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"1\n"
+"string.text"
+msgid "Returns the sine of a complex number"
+msgstr "Враќа синус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"1\n"
+"string.text"
+msgid "Returns the difference of two complex numbers"
+msgstr "Враќа разлика на два комплексни броја"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"2\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "Комплексен_број_1"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"3\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "Комплексен_број_1"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"4\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "Комплексен_број_2"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"5\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "Комплексен_број_2"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a complex number"
+msgstr "Враќа квадратен корен од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of complex numbers"
+msgstr "Враќа сума на комплексни броеви"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "Комплексниот број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"1\n"
+"string.text"
+msgid "Returns the tangent of a complex number"
+msgstr "Враќа синус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"1\n"
+"string.text"
+msgid "Returns the secant of a complex number"
+msgstr "Враќа синус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"1\n"
+"string.text"
+msgid "Returns the cosecant of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"1\n"
+"string.text"
+msgid "Returns the cotangent of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic sine of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosine of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic secant of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+#, fuzzy
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosecant of a complex number"
+msgstr "Враќа косинус од комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "Комплексен_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"1\n"
+"string.text"
+msgid "Converts real and imaginary coefficients into a complex number"
+msgstr "Ги претвора реалниот и имагинарниот дел во комплексен број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"2\n"
+"string.text"
+msgid "Real num"
+msgstr "Реален_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"3\n"
+"string.text"
+msgid "The real coefficient"
+msgstr "Реалниот дел"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"4\n"
+"string.text"
+msgid "I num"
+msgstr "Имаг_број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"5\n"
+"string.text"
+msgid "The imaginary coefficient"
+msgstr "Имагинарниот дел"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"6\n"
+"string.text"
+msgid "Suffix"
+msgstr "Наставка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"7\n"
+"string.text"
+msgid "The suffix"
+msgstr "Наставката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"1\n"
+"string.text"
+msgid "Converts a number from one measurement system to another"
+msgstr "Претвора број од еден мерен систем во друг"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "Број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "Бројот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"4\n"
+"string.text"
+msgid "From unit"
+msgstr "Од_единица"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"5\n"
+"string.text"
+msgid "Unit of measure for number"
+msgstr "Единица мерка за број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"6\n"
+"string.text"
+msgid "To unit"
+msgstr "Во_единица"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"7\n"
+"string.text"
+msgid "Unit of measure for the result"
+msgstr "Единица мерка за резултатот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "Враќа пропорционално линеарно обезвреднување на средство за секој период на пресметка."
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "Трошок"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "Цена на средството"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "Датум на набавка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "Датум на набавка на средството"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "Прв_период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"7\n"
+"string.text"
+msgid "Date the first period ends"
+msgstr "Датум кога првиот период завршува"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "Надоместок"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"9\n"
+"string.text"
+msgid "Salvage value of an asset at the end of its life"
+msgstr "Надоместок на вредност на средство на крајот од неговиот животен век"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "Период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "Периодот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "Стапката на обезвреднување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "Годишната основа што ќе се користи"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "Враќа пропорционално линеарно обезвреднување на средството за секој период на пресметка."
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "Трошок"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "Цена на средството"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "Датум на набавка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "Датум на набавка на средството"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "Прв_период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"7\n"
+"string.text"
+msgid "The date the first period ends"
+msgstr "Датумот кога првиот период завршува"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "Надоместок"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"9\n"
+"string.text"
+msgid "The salvage value of an asset at the end of its life"
+msgstr "Вредноста на надоместокот за средство на крајот од неговото времетраење"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "Период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "Периодот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "Стапката на обезвреднување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "Годишната основа што ќе се користи"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays periodic interest"
+msgstr "Ја враќа пресметаната камата за обврзници на кои се плаќа периодична камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "Издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"3\n"
+"string.text"
+msgid "Issue date of the security"
+msgstr "Датум на издавање на хартии од вредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"4\n"
+"string.text"
+msgid "First interest"
+msgstr "Прва камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"5\n"
+"string.text"
+msgid "First interest date of the security"
+msgstr "Прв каматен датум на гаранцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"6\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"7\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"10\n"
+"string.text"
+msgid "Par"
+msgstr "Еднаквост"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"11\n"
+"string.text"
+msgid "The par value"
+msgstr "Еднаквата вредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays interest at maturity"
+msgstr "Ја враќа пресметаната камата за обврзниците на кои се плаќа каматата на денот на достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "Издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"3\n"
+"string.text"
+msgid "The issue date"
+msgstr "Датумот на издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"4\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"5\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"8\n"
+"string.text"
+msgid "Par"
+msgstr "Еднаквост"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"9\n"
+"string.text"
+msgid "The par value"
+msgstr "Еднаквата вредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"1\n"
+"string.text"
+msgid "Returns the amount paid out at maturity for a fully invested security"
+msgstr "Го враќа износот платен на денот на достасување за инвестициони хартии од вредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "Инвестиција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "Инвестицијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"8\n"
+"string.text"
+msgid "Discount"
+msgstr "Попуст"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"9\n"
+"string.text"
+msgid "The discount"
+msgstr "Попустот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"1\n"
+"string.text"
+msgid "Returns the discount rate for a security"
+msgstr "Ја враќа дисконтната стапка за обврзниците"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"1\n"
+"string.text"
+msgid "Returns the annual Macaulay duration of a security with periodic interest payments"
+msgstr "Го враќа годишното Macaulay-траење на хартиите од вредност со периодични каматни плаќања"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "Купон"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "Купонска стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "Принос"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "Приносот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"1\n"
+"string.text"
+msgid "Returns the effective annual interest rate"
+msgstr "Ја враќа ефективната годишна каматна стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"2\n"
+"string.text"
+msgid "Nominal rate"
+msgstr "Номинална стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"3\n"
+"string.text"
+msgid "The nominal rate"
+msgstr "Номиналната стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "БрПер"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "Периодите"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative principal on a loan to be paid between two periods"
+msgstr "Ја враќа кумулативната главнина на заем што треба да се плати меѓу два периода"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "БрПер"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "Број на периоди за отплаќање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "СегВредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "Сегашната вредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "Почетен_период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "Почетниот период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "Краен_период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "Крајниот период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "Тип"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "Типот на достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative interest to be paid between two periods"
+msgstr "Ја враќа кумулативната камата што треба да се плати меѓу два периода"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "БрПер"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "Број на периоди за отплаќање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "СегВред"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "Сегашната вредност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "Почетен_период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "Почетниот период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "Краен_период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "Крајниот период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "Тип"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "Типот на достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays periodic interest"
+msgstr "Ја враќа цената на 100 валутни единици кои се номинална вредност на обврзниците на кои се плаќа периодична камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "Принос"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "Приносот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a discounted security"
+msgstr "Ја враќа цената на 100 валутни единици кои се номинална вредност на обврзниците издадени со дисконт"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "Попуст"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"7\n"
+"string.text"
+msgid "The discount"
+msgstr "Попустот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays interest at maturity"
+msgstr "Ја враќа цената на 100 валутни единици кои се номинална вредност на обврзниците на кои се плаќа камата на денот на достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Датумот на издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "Принос"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "Приносот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"1\n"
+"string.text"
+msgid "Returns the Macaulay modified duration for a security with an assumed par value of 100 currency units"
+msgstr "Враќа изменето траење на Macaulay за обврзници со претпоставена номинална вредност на 100 валутни единици"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "Купон"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "Рата на купонот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "Принос"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "Приносот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"1\n"
+"string.text"
+msgid "Returns the annual nominal interest rate"
+msgstr "Ја враќа годишната номинална каматна стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"2\n"
+"string.text"
+msgid "Effective rate"
+msgstr "Ефективна_стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"3\n"
+"string.text"
+msgid "The effective interest rate"
+msgstr "Ефективната каматна стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "БрПер"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "Периодите"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a decimal into a price expressed as a fraction"
+msgstr "Претвора цена изразена децимално во цена изразена како дропка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"2\n"
+"string.text"
+msgid "Decimal dollar"
+msgstr "Децимален_долар"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "Декадниот број"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "Дропка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Делителот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a fraction into a price expressed as a decimal"
+msgstr "Претвора цена изразена како дропка во цена изразена децимално"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"2\n"
+"string.text"
+msgid "Fractional dollar"
+msgstr "Долар_како_дропка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"3\n"
+"string.text"
+msgid "The number as a fraction"
+msgstr "Бројот како дропка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "Дропка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "Делителот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield on a security that pays periodic interest"
+msgstr "Го враќа приносот од обврзница на која се плаќа периодична камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"8\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"9\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield for a discounted security"
+msgstr "Враќа годишен принос за дисконтираните обврзници"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield of a security that pays interest at maturity"
+msgstr "Го враќа годишниот принос од обврзницата за која се плаќа камата на достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Датумот на издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"1\n"
+"string.text"
+msgid "Returns the bond-equivalent yield for a treasury bill"
+msgstr "Го враќа приносот на обврзниците кој е еквивалентен на износот на трезорските записи"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "Попуст"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "Дисконтната стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price of 100 currency units face value for a treasury bill"
+msgstr "Ја враќа вредноста на 100 валутни единици номинална вредност на трезорските записи"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "Попуст"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "Дисконтната стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield for a treasury bill"
+msgstr "Го враќа приходот за краткорочна меница"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd first period"
+msgstr "Ја враќа вредноста на 100 валутни единици номинална вредност за обврзници со непарен прв период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Датумот на издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "Прв_купон"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "Датум на првиот купон"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"12\n"
+"string.text"
+msgid "Yield"
+msgstr "Принос"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"13\n"
+"string.text"
+msgid "The yield"
+msgstr "Приносот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd first period"
+msgstr "Го враќа приносот од обврзницата со непарен прв период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "Издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "Датумот на издавање"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "Прв_купон"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "Датум на првиот купон"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"12\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"13\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd last period"
+msgstr "Ја враќа вредноста на 100 валутни единици номинална вредност за обврзница со непарен краен период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "Последна_камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "Датум на последната камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "Принос"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "Приносот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd last period"
+msgstr "Го враќа приносот од обврзница со непарен краен период"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "Последна_камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "Датум на последната камата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "Цена"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "Цената"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"1\n"
+"string.text"
+msgid "Returns the internal rate of return for a non-periodic schedule of payments"
+msgstr "Ја враќа внатрешната стапка на поврат за непериодичен распоред на плаќања"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"2\n"
+"string.text"
+msgid "Values"
+msgstr "Вредности"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"3\n"
+"string.text"
+msgid "The values"
+msgstr "Вредностите"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"4\n"
+"string.text"
+msgid "Dates"
+msgstr "Датуми"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"5\n"
+"string.text"
+msgid "The dates"
+msgstr "Датумите"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"6\n"
+"string.text"
+msgid "Guess"
+msgstr "Претпоставка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"7\n"
+"string.text"
+msgid "The guess"
+msgstr "Претпоставката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"1\n"
+"string.text"
+msgid "Returns the net present value for a non-periodic schedule of payments"
+msgstr "Враќа нето сегашна вредност за непериодичен распоред на плаќања"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "Стапка"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "Стапката"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"4\n"
+"string.text"
+msgid "Values"
+msgstr "Вредности"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"5\n"
+"string.text"
+msgid "The values"
+msgstr "Вредностите"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"6\n"
+"string.text"
+msgid "Dates"
+msgstr "Датуми"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"7\n"
+"string.text"
+msgid "The dates"
+msgstr "Датумите"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"1\n"
+"string.text"
+msgid "Returns the interest rate for a fully invested security"
+msgstr "Ја враќа каматната стапка за инвестициона обврзница"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "Инвестиција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "Инвестицијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "Достасување"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "Вредноста на обврзницата на денот на достасувањето"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"1\n"
+"string.text"
+msgid "Returns the first coupon date after the settlement date"
+msgstr "Враќа датум на првиот купон по датумот на исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days in the coupon period containing the settlement date"
+msgstr "Го враќа бројот на денови во периодот на купонот што го содржи датумот на исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the settlement date to the next coupon date"
+msgstr "Го враќа бројот на денови од датумот на исплата до следниот датум на купонот"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the beginning of the coupon period to the settlement date"
+msgstr "Го враќа бројот на денови од почетокот на периодот на купонот до датумот на исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"1\n"
+"string.text"
+msgid "Returns the last coupon date preceding the settlement date"
+msgstr "Го враќа последниот датум на купон што претходи на датумот на исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of coupons payable between the settlement and maturity dates"
+msgstr "Го враќа бројот на купони што можат да се платат меѓу датумот на исплатата и датумот на достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "Исплата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "Исплатата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "Достасаност"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "Достасаноста"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "Фреквенција"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "Фреквенцијата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "Основа"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "Основата"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"1\n"
+"string.text"
+msgid "Returns the future value of the initial principal after a series of compound interest rates are applied"
+msgstr "Ја враќа идната вредност на почетната главнина по применети серии од сложени каматни стапки"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"2\n"
+"string.text"
+msgid "Principal"
+msgstr "Главнина"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"3\n"
+"string.text"
+msgid "The principal"
+msgstr "Главнината"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"4\n"
+"string.text"
+msgid "Schedule"
+msgstr "Распоред"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"5\n"
+"string.text"
+msgid "The schedule"
+msgstr "Распоредот"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Workday\n"
+"string.text"
+msgid "WORKDAY"
+msgstr "RABOTENDEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yearfrac\n"
+"string.text"
+msgid "YEARFRAC"
+msgstr "GODINADEL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Edate\n"
+"string.text"
+msgid "EDATE"
+msgstr "EDATUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Weeknum\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "BRSEDMICA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Eomonth\n"
+"string.text"
+msgid "EOMONTH"
+msgstr "KRAJMESEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Networkdays\n"
+"string.text"
+msgid "NETWORKDAYS"
+msgstr "NETORABDENOVI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amordegrc\n"
+"string.text"
+msgid "AMORDEGRC"
+msgstr "AMORDEGRC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amorlinc\n"
+"string.text"
+msgid "AMORLINC"
+msgstr "AMORLINC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrint\n"
+"string.text"
+msgid "ACCRINT"
+msgstr "ACCRINT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrintm\n"
+"string.text"
+msgid "ACCRINTM"
+msgstr "ACCRINTM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Received\n"
+"string.text"
+msgid "RECEIVED"
+msgstr "RECEIVED"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Disc\n"
+"string.text"
+msgid "DISC"
+msgstr "DISKONT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Duration\n"
+"string.text"
+msgid "DURATION"
+msgstr "TRAENJE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Effect\n"
+"string.text"
+msgid "EFFECT"
+msgstr "EFFECT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumprinc\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "CUMPRINC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumipmt\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "CUMIPMT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Price\n"
+"string.text"
+msgid "PRICE"
+msgstr "CENA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricedisc\n"
+"string.text"
+msgid "PRICEDISC"
+msgstr "CENADISKONT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricemat\n"
+"string.text"
+msgid "PRICEMAT"
+msgstr "CENAMAT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mduration\n"
+"string.text"
+msgid "MDURATION"
+msgstr "MTRAENJE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Nominal\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "NOMINALNO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarfr\n"
+"string.text"
+msgid "DOLLARFR"
+msgstr "DOLARFR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarde\n"
+"string.text"
+msgid "DOLLARDE"
+msgstr "DOLARDE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yield\n"
+"string.text"
+msgid "YIELD"
+msgstr "PRINOS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yielddisc\n"
+"string.text"
+msgid "YIELDDISC"
+msgstr "PRINOSDISK"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yieldmat\n"
+"string.text"
+msgid "YIELDMAT"
+msgstr "PRINOSMAT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbilleq\n"
+"string.text"
+msgid "TBILLEQ"
+msgstr "TBILLEQ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillprice\n"
+"string.text"
+msgid "TBILLPRICE"
+msgstr "TBILLPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillyield\n"
+"string.text"
+msgid "TBILLYIELD"
+msgstr "TBILLYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfprice\n"
+"string.text"
+msgid "ODDFPRICE"
+msgstr "ODDFPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfyield\n"
+"string.text"
+msgid "ODDFYIELD"
+msgstr "ODDFYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlprice\n"
+"string.text"
+msgid "ODDLPRICE"
+msgstr "ODDLPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlyield\n"
+"string.text"
+msgid "ODDLYIELD"
+msgstr "ODDLYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xirr\n"
+"string.text"
+msgid "XIRR"
+msgstr "XIRR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xnpv\n"
+"string.text"
+msgid "XNPV"
+msgstr "XNPV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Intrate\n"
+"string.text"
+msgid "INTRATE"
+msgstr "INTRATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupncd\n"
+"string.text"
+msgid "COUPNCD"
+msgstr "COUPNCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdays\n"
+"string.text"
+msgid "COUPDAYS"
+msgstr "COUPDAYS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaysnc\n"
+"string.text"
+msgid "COUPDAYSNC"
+msgstr "COUPDAYSNC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaybs\n"
+"string.text"
+msgid "COUPDAYBS"
+msgstr "COUPDAYBS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Couppcd\n"
+"string.text"
+msgid "COUPPCD"
+msgstr "COUPPCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupnum\n"
+"string.text"
+msgid "COUPNUM"
+msgstr "COUPNUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Fvschedule\n"
+"string.text"
+msgid "FVSCHEDULE"
+msgstr "FVSCHEDULE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Iseven\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "EPARNO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Isodd\n"
+"string.text"
+msgid "ISODD"
+msgstr "ENEPARNO"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gcd\n"
+"string.text"
+msgid "GCD"
+msgstr "NZD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Lcm\n"
+"string.text"
+msgid "LCM"
+msgstr "NZS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Multinomial\n"
+"string.text"
+msgid "MULTINOMIAL"
+msgstr "PERMUTPOVT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Seriessum\n"
+"string.text"
+msgid "SERIESSUM"
+msgstr "SUMARED"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Quotient\n"
+"string.text"
+msgid "QUOTIENT"
+msgstr "KOLICNIK"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mround\n"
+"string.text"
+msgid "MROUND"
+msgstr "ZAOKRZAEDIM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Sqrtpi\n"
+"string.text"
+msgid "SQRTPI"
+msgstr "KVKORENPI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Randbetween\n"
+"string.text"
+msgid "RANDBETWEEN"
+msgstr "SLUCAENMEGJU"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besseli\n"
+"string.text"
+msgid "BESSELI"
+msgstr "BESSELI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselj\n"
+"string.text"
+msgid "BESSELJ"
+msgstr "BESSELJ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselk\n"
+"string.text"
+msgid "BESSELK"
+msgstr "BESSELK"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bessely\n"
+"string.text"
+msgid "BESSELY"
+msgstr "BESSELY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Dec\n"
+"string.text"
+msgid "BIN2DEC"
+msgstr "BIN2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Hex\n"
+"string.text"
+msgid "BIN2HEX"
+msgstr "BIN2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Oct\n"
+"string.text"
+msgid "BIN2OCT"
+msgstr "BIN2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Delta\n"
+"string.text"
+msgid "DELTA"
+msgstr "DELTA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Bin\n"
+"string.text"
+msgid "DEC2BIN"
+msgstr "DEC2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Hex\n"
+"string.text"
+msgid "DEC2HEX"
+msgstr "DEC2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Oct\n"
+"string.text"
+msgid "DEC2OCT"
+msgstr "DEC2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erf\n"
+"string.text"
+msgid "ERF"
+msgstr "ERF"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erfc\n"
+"string.text"
+msgid "ERFC"
+msgstr "ERFC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gestep\n"
+"string.text"
+msgid "GESTEP"
+msgstr "PRAG"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Bin\n"
+"string.text"
+msgid "HEX2BIN"
+msgstr "HEX2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Dec\n"
+"string.text"
+msgid "HEX2DEC"
+msgstr "HEX2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Oct\n"
+"string.text"
+msgid "HEX2OCT"
+msgstr "HEX2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imabs\n"
+"string.text"
+msgid "IMABS"
+msgstr "MODUL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imaginary\n"
+"string.text"
+msgid "IMAGINARY"
+msgstr "IMAGINAREN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Impower\n"
+"string.text"
+msgid "IMPOWER"
+msgstr "IMSTEPEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imargument\n"
+"string.text"
+msgid "IMARGUMENT"
+msgstr "IMARGUMENT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcos\n"
+"string.text"
+msgid "IMCOS"
+msgstr "IMCOS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imdiv\n"
+"string.text"
+msgid "IMDIV"
+msgstr "IMDELENJE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imexp\n"
+"string.text"
+msgid "IMEXP"
+msgstr "IMEXP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imconjugate\n"
+"string.text"
+msgid "IMCONJUGATE"
+msgstr "IMKONJUGIR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imln\n"
+"string.text"
+msgid "IMLN"
+msgstr "IMLN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog10\n"
+"string.text"
+msgid "IMLOG10"
+msgstr "IMLOG10"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog2\n"
+"string.text"
+msgid "IMLOG2"
+msgstr "IMLOG2"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Improduct\n"
+"string.text"
+msgid "IMPRODUCT"
+msgstr "IMPROIZVOD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imreal\n"
+"string.text"
+msgid "IMREAL"
+msgstr "IMREALEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsin\n"
+"string.text"
+msgid "IMSIN"
+msgstr "IMSIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsub\n"
+"string.text"
+msgid "IMSUB"
+msgstr "IMRAZLIKA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsum\n"
+"string.text"
+msgid "IMSUM"
+msgstr "IMSUMA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsqrt\n"
+"string.text"
+msgid "IMSQRT"
+msgstr "IMKVKOREN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imtan\n"
+"string.text"
+msgid "IMTAN"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsec\n"
+"string.text"
+msgid "IMSEC"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsc\n"
+"string.text"
+msgid "IMCSC"
+msgstr ""
+
+#: analysis_funcnames.src
+#, fuzzy
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcot\n"
+"string.text"
+msgid "IMCOT"
+msgstr "IMCOS"
+
+#: analysis_funcnames.src
+#, fuzzy
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsinh\n"
+"string.text"
+msgid "IMSINH"
+msgstr "IMSIN"
+
+#: analysis_funcnames.src
+#, fuzzy
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcosh\n"
+"string.text"
+msgid "IMCOSH"
+msgstr "IMCOS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsech\n"
+"string.text"
+msgid "IMSECH"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsch\n"
+"string.text"
+msgid "IMCSCH"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Complex\n"
+"string.text"
+msgid "COMPLEX"
+msgstr "KOMPLEKSEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Bin\n"
+"string.text"
+msgid "OCT2BIN"
+msgstr "OCT2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Dec\n"
+"string.text"
+msgid "OCT2DEC"
+msgstr "OCT2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Hex\n"
+"string.text"
+msgid "OCT2HEX"
+msgstr "OCT2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Convert\n"
+"string.text"
+msgid "CONVERT"
+msgstr "KONVERT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Factdouble\n"
+"string.text"
+msgid "FACTDOUBLE"
+msgstr "DVOENFAKTORIEL"

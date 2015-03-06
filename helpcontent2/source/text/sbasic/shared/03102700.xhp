@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03102700xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">IsNumeric Function [Runtime]</title>
+<filename>/text/sbasic/shared/03102700.xhp</filename>
+</topic>
+<history>
+<created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+<lastedited date="2004-12-17T10:45:34">converted from old format - fpe</lastedited>
+</history>
+</meta>
+<body>
+<section id="isnumeric">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3145136"><bookmark_value>IsNumeric function</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="hd_id3145136" xml-lang="en-US" level="1" l10n="U" oldref="1"><link href="text/sbasic/shared/03102700.xhp" name="IsNumeric Function [Runtime]">IsNumeric Function [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_id3149177" xml-lang="en-US" l10n="U" oldref="2">Tests if an expression is a number. If the expression is a <link href="text/sbasic/shared/00000002.xhp#dezimal" name="number">number</link>, the function returns True, otherwise the function returns False.</paragraph>
+</section>
+<paragraph role="heading" id="hd_id3149415" xml-lang="en-US" level="2" l10n="U" oldref="3">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_id3150771" xml-lang="en-US" oldref="4">IsNumeric (Var)</paragraph>
+</bascode>
+<paragraph role="heading" id="hd_id3148685" xml-lang="en-US" level="2" l10n="U" oldref="5">Return value:</paragraph>
+<paragraph role="paragraph" id="par_id3148944" xml-lang="en-US" l10n="U" oldref="6">Bool</paragraph>
+<paragraph role="heading" id="hd_id3148947" xml-lang="en-US" level="2" l10n="U" oldref="7">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_id3154760" xml-lang="en-US" l10n="U" oldref="8">
+<emph>Var:</emph> Any expression that you want to test.</paragraph>
+<embed href="text/sbasic/shared/00000003.xhp#errorcode"/>
+<embed href="text/sbasic/shared/00000003.xhp#err5"/>
+<paragraph role="heading" id="hd_id3149656" xml-lang="en-US" level="2" l10n="U" oldref="9">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Sub ExampleIsNumeric</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim vVar As Variant</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    vVar = "ABC"</paragraph>
+<paragraph role="bascode" id="par_id3147230" xml-lang="en-US" l10n="CHG" oldref="13">    Print IsNumeric(vVar) ' Returns False</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    vVar = "123"</paragraph>
+<paragraph role="bascode" id="par_id3154910" xml-lang="en-US" l10n="CHG" oldref="15">    Print IsNumeric(vVar) ' Returns True</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Sub</paragraph>
+</bascode>
+</body>
+</helpdocument>

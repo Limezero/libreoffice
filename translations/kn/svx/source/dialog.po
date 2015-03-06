@@ -1,0 +1,6750 @@
+#. extracted from svx/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-07-10 19:33+0200\n"
+"PO-Revision-Date: 2014-12-01 16:57+0530\n"
+"Last-Translator: Shankar Prasad <svenkate AT redhat Dot com>\n"
+"Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1372936148.0\n"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"GRP_Q\n"
+"fixedline.text"
+msgid "Colors"
+msgstr "ಬಣ್ಣಗಳು"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_1\n"
+"fixedtext.text"
+msgid "Source color"
+msgstr "ಮೂಲ ಬಣ್ಣ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_2\n"
+"fixedtext.text"
+msgid "Tolerance"
+msgstr "ಸಹಿಷ್ಣುತೆ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_3\n"
+"fixedtext.text"
+msgid "Replace with..."
+msgstr "ಇದರೊಂದಿಗೆ ಬದಲಿಸು..."
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"CBX_TRANS\n"
+"checkbox.text"
+msgid "Tr~ansparency"
+msgstr "ಪಾರದರ್ಶಕತೆ(~a)"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"BTN_EXEC\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr "ಬದಲಿಸು(~R)"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK.TBX_PIPETTE\n"
+"TBI_PIPETTE\n"
+"toolboxitem.text"
+msgid "Pipette"
+msgstr "ಪಿಪೆಟ್"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"dockingwindow.text"
+msgid "Color Replacer"
+msgstr "ಬಣ್ಣ ಬದಲಾವಣೆಗಾರ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_TRANSP\n"
+"string.text"
+msgid "Transparent"
+msgstr "ಪಾರದರ್ಶಕ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_SOURCECOLOR\n"
+"string.text"
+msgid "Source Color"
+msgstr "ಮೂಲ ಬಣ್ಣ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_PALETTE\n"
+"string.text"
+msgid "Color Palette"
+msgstr "ವರ್ಣ ಫಲಕ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_TOLERANCE\n"
+"string.text"
+msgid "Tolerance"
+msgstr "ಸಹಿಷ್ಣುತೆ"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_REPLACEWITH\n"
+"string.text"
+msgid "Replace with"
+msgstr "ಇದರಿಂದ ಬದಲಿಸಿ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_ORIGINAL_SIZE\n"
+"string.text"
+msgid "$(WIDTH) x $(HEIGHT) ($(WIDTH_IN_PX) x $(HEIGHT_IN_PX) px)"
+msgstr "$(WIDTH) x $(HEIGHT) ($(WIDTH_IN_PX) x $(HEIGHT_IN_PX) px)"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_VIEW_SIZE\n"
+"string.text"
+msgid "$(WIDTH) x $(HEIGHT) at $(DPI) DPI"
+msgstr "$(DPI) DPI ನಲ್ಲಿ $(WIDTH) x $(HEIGHT)"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_CAPACITY\n"
+"string.text"
+msgid "$(CAPACITY) kiB"
+msgstr "$(CAPACITY) kiB"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_GIF\n"
+"string.text"
+msgid "Gif image"
+msgstr "Gif ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_JPEG\n"
+"string.text"
+msgid "Jpeg image"
+msgstr "Jpeg ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_PNG\n"
+"string.text"
+msgid "PNG image"
+msgstr "PNG ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_TIFF\n"
+"string.text"
+msgid "TIFF image"
+msgstr "TIFF ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_WMF\n"
+"string.text"
+msgid "WMF image"
+msgstr "WMF ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_MET\n"
+"string.text"
+msgid "MET image"
+msgstr "MET ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_PCT\n"
+"string.text"
+msgid "PCT image"
+msgstr "PCT ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_SVG\n"
+"string.text"
+msgid "SVG image"
+msgstr "SVG ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_BMP\n"
+"string.text"
+msgid "BMP image"
+msgstr "BMP ಚಿತ್ರ"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_UNKNOWN\n"
+"string.text"
+msgid "Unknown"
+msgstr "ಗೊತ್ತಿರದ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_APPLY\n"
+"toolboxitem.text"
+msgid "Apply"
+msgstr "ಅನ್ವಯಿಸು"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_WORKPLACE\n"
+"toolboxitem.text"
+msgid "Workspace"
+msgstr "ಕಾರ್ಯಸ್ಥಳ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_SELECT\n"
+"toolboxitem.text"
+msgid "Select"
+msgstr "ಆಯ್ಕೆಮಾಡು"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_RECT\n"
+"toolboxitem.text"
+msgid "Rectangle"
+msgstr "ಆಯತ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_CIRCLE\n"
+"toolboxitem.text"
+msgid "Ellipse"
+msgstr "ದೀರ್ಘವೃತ್ತ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_POLY\n"
+"toolboxitem.text"
+msgid "Polygon"
+msgstr "ಬಹುಭುಜಾಕೃತಿ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_POLYEDIT\n"
+"toolboxitem.text"
+msgid "Edit Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಸಂಪಾದಿಸು"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_POLYMOVE\n"
+"toolboxitem.text"
+msgid "Move Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಸ್ಥಳಾಂತರಿಸು"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_POLYINSERT\n"
+"toolboxitem.text"
+msgid "Insert Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಸೇರಿಸು"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_POLYDELETE\n"
+"toolboxitem.text"
+msgid "Delete Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಅಳಿಸು"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_AUTOCONTOUR\n"
+"toolboxitem.text"
+msgid "AutoContour"
+msgstr "ಸ್ವಯಂಬಾಹ್ಯಾಕಾರ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_UNDO\n"
+"toolboxitem.text"
+msgid "Undo "
+msgstr "ರದ್ದುಮಾಡು "
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_REDO\n"
+"toolboxitem.text"
+msgid "Redo "
+msgstr "ಮತ್ತೆಮಾಡು "
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR.TBX1\n"
+"TBI_PIPETTE\n"
+"toolboxitem.text"
+msgid "Pipette"
+msgstr "ಪಿಪೆಟ್"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR\n"
+"MTF_TOLERANCE\n"
+"metricfield.quickhelptext"
+msgid "Color Tolerance"
+msgstr "ಬಣ್ಣ ಸಹಿಷ್ಣುತೆ"
+
+#: contdlg.src
+msgctxt ""
+"contdlg.src\n"
+"RID_SVXDLG_CONTOUR\n"
+"floatingwindow.text"
+msgid "Contour Editor"
+msgstr "ಬಾಹ್ಯರೇಖೆ ಸಂಪಾದಕ"
+
+#: dlgctrl.src
+msgctxt ""
+"dlgctrl.src\n"
+"STR_SWITCH\n"
+"string.text"
+msgid "Switch"
+msgstr "ಬದಲಾಯಿಸಿ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_SAVE\n"
+"FT_SAVE_TITLE\n"
+"fixedtext.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "%PRODUCTNAME ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯುವಿಕೆ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_SAVE\n"
+"FT_SAVE_DESCR\n"
+"fixedtext.text"
+msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
+msgstr "ಒಂದು ಅನಿರೀಕ್ಷಿತ ದೋಷದಿಂದಾಗಿ, %PRODUCTNAME ಕುಸಿದು ಹೋಗಿದೆ. ನೀವು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಂತಹ ಎಲ್ಲಾ ಕಡತಗಳನ್ನು ಈಗ ಉಳಿಸಲಾಗುತ್ತದೆ. ಮುಂದಿನ ಬಾರಿ %PRODUCTNAME ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ ನಿಮ್ಮ ಕಡತಗಳು ತಾವಾಗಿಯೆ ಮರಳಿ ಪಡೆಯಲಾಗುತ್ತದೆ."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_SAVE\n"
+"FT_SAVE_FILELIST\n"
+"fixedtext.text"
+msgid "The following files will be recovered:"
+msgstr "ಈ ಕೆಳಗಿನ ಕಡತಗಳನ್ನು ಮರಳಿ ಪಡೆಯಲಾಗುವುದು:"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_PROGR\n"
+"FT_SAVEPROGR_HINT\n"
+"fixedtext.text"
+msgid "Documents are being saved."
+msgstr "ದಸ್ತಾವೇಜುಗಳನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_PROGR\n"
+"FT_SAVEPROGR_PROGR\n"
+"fixedtext.text"
+msgid "Progress of saving: "
+msgstr "ಉಳಿಸುವಿಕೆಯ ಪ್ರಗತಿ: "
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"FT_RECOV_TITLE\n"
+"fixedtext.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "%PRODUCTNAME ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯುವಿಕೆ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"FT_RECOV_DESCR\n"
+"fixedtext.text"
+msgid ""
+"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"\n"
+"The 'Status' column shows whether the document can be recovered."
+msgstr ""
+"ಈ ಕೆಳಗಿನ ಪಟ್ಟಿಯಲ್ಲಿನ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿಪಡೆಯುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು 'ಮರಳಿಪಡೆಯುವದನ್ನು ಪ್ರಾರಂಭಿಸು' ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ .\n"
+"\n"
+"ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯಲು ಸಾಧ್ಯವೆ ಅಥವ ಇಲ್ಲವೆ ಎಂದು 'ಸ್ಥಿತಿ' ಲಂಬಸಾಲು ಸೂಚಿಸುತ್ತದೆ."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"FT_RECOV_PROGR\n"
+"fixedtext.text"
+msgid "Recovering document:"
+msgstr "ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯಲಾಗುತ್ತಿದೆ:"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"FT_RECOV_FILELIST\n"
+"fixedtext.text"
+msgid "Status of recovered documents:"
+msgstr "ಮರಳಿ ಪಡೆಯಲಾದ ದಸ್ತಾವೇಜುಗಳ ಸ್ಥಿತಿ:"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_HEADERBAR\n"
+"string.text"
+msgid "Document Name\tStatus"
+msgstr "ದಸ್ತಾವೇಜಿನ ಹೆಸರು\tಸ್ಥಿತಿ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"BTN_RECOV_NEXT\n"
+"pushbutton.text"
+msgid "~Start Recovery >"
+msgstr "ಮರಳಿ ಪಡೆಯಲು ಪ್ರಾರಂಭಿಸು(~S) >"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_SUCCESSRECOV\n"
+"string.text"
+msgid "Successfully recovered"
+msgstr "ಯಶಸ್ವಿಯಾಗಿ ಮರಳಿ ಪಡೆಯಲಾಗಿದೆ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_ORIGDOCRECOV\n"
+"string.text"
+msgid "Original document recovered"
+msgstr "ಮೂಲ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯಲಾಗಿದೆ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_RECOVFAILED\n"
+"string.text"
+msgid "Recovery failed"
+msgstr "ಮರಳಿ ಪಡೆಯುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_RECOVINPROGR\n"
+"string.text"
+msgid "Recovery in progress"
+msgstr "ಮರಳಿ ಪಡೆಯುವಿಕೆಯು ಪ್ರಗತಿಯಲ್ಲಿದೆ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_NOTRECOVYET\n"
+"string.text"
+msgid "Not recovered yet"
+msgstr "ಇನ್ನೂ ಸಹ ಮರಳಿ ಪಡೆಯಲಾಗಿಲ್ಲ"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_RECOVERY_INPROGRESS\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending on the size of the documents this process can take some time."
+msgstr "%PRODUCTNAME %PRODUCTVERSION ಯು ನಿಮ್ಮ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ ಪಡೆಯಲು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ದಸ್ತಾವೇಜಿನ ಗಾತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಈ ಪ್ರಕ್ರಿಯೆಯು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_RECOVERYONLY_FINISH_DESCR\n"
+"string.text"
+msgid ""
+"Recovery of your documents was finished.\n"
+"Click 'Finish' to see your documents."
+msgstr ""
+"ನಿಮ್ಮ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯುವುದು ಪೂರ್ಣಗೊಂಡಿದೆ.\n"
+"ದಸ್ತಾವೇಜುಗಳನ್ನು ನೋಡಲು 'ಮುಗಿಸು' ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXPAGE_DOCRECOVERY_RECOVER\n"
+"STR_RECOVERYONLY_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "ಮುಗಿಸು(~F)"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXQB_EXIT_RECOVERY\n"
+"querybox.text"
+msgid "Are you sure you want to cancel the %PRODUCTNAME document recovery?"
+msgstr "%PRODUCTNAME ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ ಪಡೆಯುವುದನ್ನು ನೀವು ಖಚಿತವಾಗಿಯೂ ರದ್ದು ಮಾಡಲು ಬಯಸುತ್ತೀರೆ?"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_BROKEN\n"
+"FT_BROKEN_DESCR\n"
+"fixedtext.text"
+msgid ""
+"The automatic recovery process was interrupted.\n"
+"\n"
+"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+msgstr ""
+"ಮರಳಿ ಪಡೆಯುವ ಸ್ವಯಂಚಾಲಿತ ಪ್ರಕ್ರಿಯೆಗೆ ತಡೆಯುಂಟಾಗಿದೆ.\n"
+"\n"
+"ನೀವು 'ಉಳಿಸು' ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಲ್ಲಿ ಈ ಕೆಳಗೆ ಸೂಚಿಸಲಾದ ದಸ್ತಾವೇಜುಗಳನ್ನು ಈ ಕಡತ ಕೋಶದಲ್ಲಿ ಉಳಿಸಲಾಗುವುದು. ದಸ್ತಾವೇಜುಗಳನ್ನು ಉಳಿಸದೆ ಗಾರುಡಿಯನ್ನು ಮುಚ್ಚಲು ರದ್ದು ಮಾಡು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_BROKEN\n"
+"FT_BROKEN_FILELIST\n"
+"fixedtext.text"
+msgid "Documents"
+msgstr "ದಸ್ತಾವೇಜುಗಳು"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_BROKEN\n"
+"FT_BROKEN_SAVEDIR\n"
+"fixedtext.text"
+msgid "~Save to"
+msgstr "ಇದಕ್ಕೆ ಉಳಿಸು(~S)"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_BROKEN\n"
+"BTN_BROKEN_SAVEDIR\n"
+"pushbutton.text"
+msgid "Chan~ge..."
+msgstr "ಬದಲಿಸು(~g)..."
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVX_MDLG_DOCRECOVERY_BROKEN\n"
+"BTN_BROKEN_OK\n"
+"okbutton.text"
+msgid "~Save"
+msgstr "ಉಳಿಸು(~S)"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_OFF\n"
+"toolboxitem.text"
+msgid "Off"
+msgstr "ಜಡ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_ROTATE\n"
+"toolboxitem.text"
+msgid "Rotate"
+msgstr "ತಿರುಗು"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_UPRIGHT\n"
+"toolboxitem.text"
+msgid "Upright"
+msgstr "ನೆಟ್ಟಗೆ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_SLANTX\n"
+"toolboxitem.text"
+msgid "Slant Horizontal"
+msgstr "ಓರೆ ಅಡ್ಡ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_SLANTY\n"
+"toolboxitem.text"
+msgid "Slant Vertical"
+msgstr "ಓರೆ ಲಂಬ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_MIRROR\n"
+"toolboxitem.text"
+msgid "Orientation"
+msgstr "ಅಭಿಮುಖ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_LEFT\n"
+"toolboxitem.text"
+msgid "Align Left"
+msgstr "ಎಡಕ್ಕೆ ಹೊಂದಿಸು"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_CENTER\n"
+"toolboxitem.text"
+msgid "Center"
+msgstr "ಮಧ್ಯ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_RIGHT\n"
+"toolboxitem.text"
+msgid "Align Right"
+msgstr "ಬಲಕ್ಕೆ ಹೊಂದಿಸು"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_AUTOSIZE\n"
+"toolboxitem.text"
+msgid "AutoSize Text"
+msgstr "ಸ್ವಯಂಗಾತ್ರದ ಪಠ್ಯ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_DISTANCE\n"
+"metricfield.quickhelptext"
+msgid "Distance"
+msgstr "ದೂರ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_TEXTSTART\n"
+"metricfield.quickhelptext"
+msgid "Indent"
+msgstr "ಇಂಡೆಂಟ್‌"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHOWFORM\n"
+"toolboxitem.text"
+msgid "Contour"
+msgstr "ಬಾಹ್ಯಾಕಾರ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_OUTLINE\n"
+"toolboxitem.text"
+msgid "Text Contour"
+msgstr "ಪಠ್ಯ ಬಾಹ್ಯಾಕಾರ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_OFF\n"
+"toolboxitem.text"
+msgid "No Shadow"
+msgstr "ನೆರಳುರಹಿತ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_NORMAL\n"
+"toolboxitem.text"
+msgid "Vertical"
+msgstr "ಲಂಬ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_SLANT\n"
+"toolboxitem.text"
+msgid "Slant"
+msgstr "ಓರೆ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_X\n"
+"metricfield.text"
+msgid " degrees"
+msgstr " ಡಿಗ್ರಿಗಳು"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_X\n"
+"metricfield.quickhelptext"
+msgid "Distance X"
+msgstr "ದೂರ X"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_Y\n"
+"metricfield.quickhelptext"
+msgid "Distance Y"
+msgstr "ದೂರ Y"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"CLB_SHADOW_COLOR\n"
+"listbox.quickhelptext"
+msgid "Shadow Color"
+msgstr "ನೆರಳಿನ ಬಣ್ಣ"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"dockingwindow.text"
+msgid "Fontwork"
+msgstr "ಅಕ್ಷರಶೈಲಿಕಾರ್ಯ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Border setting\n"
+"itemlist.text"
+msgid "Border setting"
+msgstr "ಅಂಚು ಸಿದ್ಧತೆಗಳು"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Left border line\n"
+"itemlist.text"
+msgid "Left border line"
+msgstr "ಎಡ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Right border line\n"
+"itemlist.text"
+msgid "Right border line"
+msgstr "ಬಲ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Top border line\n"
+"itemlist.text"
+msgid "Top border line"
+msgstr "ಮೇಲಿನ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Bottom border line\n"
+"itemlist.text"
+msgid "Bottom border line"
+msgstr "ಕೆಳಗಿನ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Horizontal border line\n"
+"itemlist.text"
+msgid "Horizontal border line"
+msgstr "ಅಡ್ಡ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Vertical border line\n"
+"itemlist.text"
+msgid "Vertical border line"
+msgstr "ಲಂಬ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Diagonal border line from top left to bottom right\n"
+"itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr "ಮೇಲಿನ ಎಡಭಾಗದಿಂದ ಕೆಳಗಿನ ಬಲಭಾಗಕ್ಕೆ ಅಂಚಿನ ಕರ್ಣರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Diagonal border line from bottom left to top right\n"
+"itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr "ಕೆಳಗಿನ ಎಡಭಾಗದಿಂದ ಮೇಲಿನ ಬಲಭಾಗಕ್ಕೆ ಅಂಚಿನ ಕರ್ಣರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Border setting\n"
+"itemlist.text"
+msgid "Border setting"
+msgstr "ಅಂಚು ಸಿದ್ಧತೆಗಳು"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Left border line\n"
+"itemlist.text"
+msgid "Left border line"
+msgstr "ಎಡ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Right border line\n"
+"itemlist.text"
+msgid "Right border line"
+msgstr "ಬಲ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Top border line\n"
+"itemlist.text"
+msgid "Top border line"
+msgstr "ಮೇಲಿನ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Bottom border line\n"
+"itemlist.text"
+msgid "Bottom border line"
+msgstr "ಕೆಳಗಿನ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Horizontal border line\n"
+"itemlist.text"
+msgid "Horizontal border line"
+msgstr "ಅಡ್ಡ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Vertical border line\n"
+"itemlist.text"
+msgid "Vertical border line"
+msgstr "ಲಂಬ ಅಂಚು ರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Diagonal border line from top left to bottom right\n"
+"itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr "ಮೇಲಿನ ಎಡಭಾಗದಿಂದ ಕೆಳಗಿನ ಬಲಭಾಗಕ್ಕೆ ಅಂಚಿನ ಕರ್ಣರೇಖೆ"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Diagonal border line from bottom left to top right\n"
+"itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr "ಕೆಳಗಿನ ಎಡಭಾಗದಿಂದ ಮೇಲಿನ ಬಲಭಾಗಕ್ಕೆ ಅಂಚಿನ ಕರ್ಣರೇಖೆ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_APPLY\n"
+"toolboxitem.text"
+msgid "Apply"
+msgstr "ಅನ್ವಯಿಸು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_OPEN\n"
+"toolboxitem.text"
+msgid "Open..."
+msgstr "ತೆರೆ..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_SAVEAS\n"
+"toolboxitem.text"
+msgid "Save..."
+msgstr "ಉಳಿಸು..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_SELECT\n"
+"toolboxitem.text"
+msgid "Select"
+msgstr "ಆಯ್ಕೆಮಾಡು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_RECT\n"
+"toolboxitem.text"
+msgid "Rectangle"
+msgstr "ಆಯತ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_CIRCLE\n"
+"toolboxitem.text"
+msgid "Ellipse"
+msgstr "ದೀರ್ಘವೃತ್ತ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_POLY\n"
+"toolboxitem.text"
+msgid "Polygon"
+msgstr "ಬಹುಭುಜಾಕೃತಿ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_FREEPOLY\n"
+"toolboxitem.text"
+msgid "Freeform Polygon"
+msgstr "ಮುಕ್ತಾಕಾರ ಬಹುಭುಜಾಕೃತಿ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_POLYEDIT\n"
+"toolboxitem.text"
+msgid "Edit Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಸಂಪಾದಿಸು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_POLYMOVE\n"
+"toolboxitem.text"
+msgid "Move Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಸ್ಥಳಾಂತರಿಸು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_POLYINSERT\n"
+"toolboxitem.text"
+msgid "Insert Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಸೇರಿಸು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_POLYDELETE\n"
+"toolboxitem.text"
+msgid "Delete Points"
+msgstr "ಬಿಂದುಗಳನ್ನು ಅಳಿಸು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_UNDO\n"
+"toolboxitem.text"
+msgid "Undo "
+msgstr "ರದ್ದುಮಾಡು "
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_REDO\n"
+"toolboxitem.text"
+msgid "Redo"
+msgstr "ಪುನಃಮಾಡು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_ACTIVE\n"
+"toolboxitem.text"
+msgid "Active"
+msgstr "ಸಕ್ರಿಯ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_MACRO\n"
+"toolboxitem.text"
+msgid "Macro..."
+msgstr "ಮ್ಯಾಕ್ರೋ..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP.TBX_IMAPDLG1\n"
+"TBI_PROPERTY\n"
+"toolboxitem.text"
+msgid "Properties..."
+msgstr "ಗುಣಗಳು..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP\n"
+"FT_URL\n"
+"fixedtext.text"
+msgid "Address:"
+msgstr "ವಿಳಾಸ:"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP\n"
+"FT_TEXT\n"
+"fixedtext.text"
+msgid "Text:"
+msgstr "ಪಠ್ಯ:"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP\n"
+"RID_SVXCTL_FT_TARGET\n"
+"fixedtext.text"
+msgid "Frame:"
+msgstr "ಚೌಕಟ್ಟು:"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXDLG_IMAP\n"
+"modelessdialog.text"
+msgid "ImageMap Editor"
+msgstr "ಚಿತ್ರನಕ್ಷೆ ಸಂಪಾದಕ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_URL\n"
+"menuitem.text"
+msgid "Description..."
+msgstr "ವಿವರಣೆ..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_MACRO\n"
+"menuitem.text"
+msgid "~Macro..."
+msgstr "ಮ್ಯಾಕ್ರೋ(~M)..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_ACTIVATE\n"
+"menuitem.text"
+msgid "Active"
+msgstr "ಸಕ್ರಿಯ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_FRAME_TO_TOP\n"
+"menuitem.text"
+msgid "Bring to Front"
+msgstr "ಎದುರಿಗೆ ತಾ"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_MOREFRONT\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr "ಮುಂದಕ್ಕೆ ತಾ(~F)"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_MOREBACK\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr "ಹಿಂದಕ್ಕೆ ಕಳುಹಿಸು(~w)"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_FRAME_TO_BOTTOM\n"
+"menuitem.text"
+msgid "~Send to Back"
+msgstr "ಹಿಂದೆ ಕಳುಹಿಸು(~S)"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_POSITION\n"
+"menuitem.text"
+msgid "Arrange"
+msgstr "ವ್ಯವಸ್ಥಿತವಾಗಿ ಜೋಡಿಸು"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_MARK_ALL\n"
+"menuitem.text"
+msgid "Select ~All"
+msgstr "ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡು(~A)"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_DELETE1\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "ಅಳಿಸು(~D)"
+
+#: language.src
+msgctxt ""
+"language.src\n"
+"RID_SVXSTR_LANGUAGE_ALL\n"
+"string.text"
+msgid "[All]"
+msgstr "[ಎಲ್ಲ]"
+
+#: passwd.src
+msgctxt ""
+"passwd.src\n"
+"RID_SVXSTR_ERR_OLD_PASSWD\n"
+"string.text"
+msgid "Invalid password"
+msgstr "ತಪ್ಪು ಗುಪ್ತಪದ"
+
+#: passwd.src
+msgctxt ""
+"passwd.src\n"
+"RID_SVXSTR_ERR_REPEAT_PASSWD\n"
+"string.text"
+msgid "Passwords do not match"
+msgstr "ಗುಪ್ತಪದಗಳು ಒಂದೇ ಸಮನಾಗಿಲ್ಲ"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_TITLE\n"
+"string.text"
+msgid "Printing selection"
+msgstr "ಮುದ್ರಣದ ಆಯ್ಕೆ"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_MSG\n"
+"string.text"
+msgid "Do you want to print the selection or the entire document?"
+msgstr "ಆಯ್ಕೆ ಮಾಡಿದ್ದನ್ನು ಮಾತ್ರ ಮುದ್ರಿಸಬೇಕೇ ಅಥವಾ ಸಂಪೂರ್ಣ ದಸ್ತಾವೇಜನ್ನು ಮುದ್ರಿಸಬೇಕೇ?"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_ALL\n"
+"string.text"
+msgid "~All"
+msgstr "ಎಲ್ಲ(~A)"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "ಆಯ್ಕೆ(~S)"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_MM\n"
+"menuitem.text"
+msgid "Millimeter"
+msgstr "ಮಿಲಿಮೀಟರ್"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_CM\n"
+"menuitem.text"
+msgid "Centimeter"
+msgstr "ಸೆಂಟಿಮೀಟರ್"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_M\n"
+"menuitem.text"
+msgid "Meter"
+msgstr "ಮೀಟರ್"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_KM\n"
+"menuitem.text"
+msgid "Kilometer"
+msgstr "ಕಿಲೋಮೀಟರ್"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_INCH\n"
+"menuitem.text"
+msgid "Inch"
+msgstr "ಇಂಚು"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_FOOT\n"
+"menuitem.text"
+msgid "Foot"
+msgstr "ಅಡಿ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_MILE\n"
+"menuitem.text"
+msgid "Miles"
+msgstr "ಮೈಲುಗಳು"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_POINT\n"
+"menuitem.text"
+msgid "Point"
+msgstr "ಬಿಂದು"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_PICA\n"
+"menuitem.text"
+msgid "Pica"
+msgstr "ಪಿಕಾ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_CHAR\n"
+"menuitem.text"
+msgid "Char"
+msgstr "ಅಕ್ಷರ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_LINE\n"
+"menuitem.text"
+msgid "Line"
+msgstr "ರೇಖೆ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "ಎಡ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "ಬಲ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_CENTER\n"
+"string.text"
+msgid "Center"
+msgstr "ಮಧ್ಯ"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_DECIMAL\n"
+"string.text"
+msgid "Decimal"
+msgstr "ದಶಮಾಂಶ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SOLID\n"
+"string.text"
+msgid "Continuous"
+msgstr "ನಿರಂತರ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRADIENT\n"
+"string.text"
+msgid "Gradient"
+msgstr "ಏರಿಳಿತ ಪ್ರಮಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BITMAP\n"
+"string.text"
+msgid "Bitmap"
+msgstr "ಬಿಟ್‌ಮ್ಯಾಪ್‌"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINESTYLE\n"
+"string.text"
+msgid "Line Style"
+msgstr "ರೇಖೆಯ ಶೈಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_INVISIBLE\n"
+"string.text"
+msgid "None"
+msgstr "ಏನೂ ಇಲ್ಲ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR\n"
+"string.text"
+msgid "Color"
+msgstr "ಬಣ್ಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH\n"
+"string.text"
+msgid "Hatching"
+msgstr "ಗೆರೆಗಳನ್ನು ಕೊರೆಯುವಿಕೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEEND\n"
+"string.text"
+msgid "Arrowheads"
+msgstr "ಬಾಣದ ತುದಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CLOSE\n"
+"string.text"
+msgid "Close"
+msgstr "ಮುಚ್ಚು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLACK\n"
+"string.text"
+msgid "Black"
+msgstr "ಕಪ್ಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_GREEN\n"
+"string.text"
+msgid "Green"
+msgstr "ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_CYAN\n"
+"string.text"
+msgid "Cyan"
+msgstr "ನೀಲಿ ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_RED\n"
+"string.text"
+msgid "Red"
+msgstr "ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_MAGENTA\n"
+"string.text"
+msgid "Magenta"
+msgstr "ಕಡುಗೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_GREY\n"
+"string.text"
+msgid "Gray"
+msgstr "ಬೂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_YELLOW\n"
+"string.text"
+msgid "Yellow"
+msgstr "ಹಳದಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_WHITE\n"
+"string.text"
+msgid "White"
+msgstr "ಬಿಳಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUEGREY\n"
+"string.text"
+msgid "Blue gray"
+msgstr "ನೀಲಿ ಮಿಶ್ರಿತ ಬೂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUE_CLASSIC\n"
+"string.text"
+msgid "Blue classic"
+msgstr "ಸಾಂಪ್ರದಾಯಿಕ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_ORANGE\n"
+"string.text"
+msgid "Orange"
+msgstr "ಕಿತ್ತಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_ARROW\n"
+"string.text"
+msgid "Arrow"
+msgstr "ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SQUARE\n"
+"string.text"
+msgid "Square"
+msgstr "ಚೌಕ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CIRCLE\n"
+"string.text"
+msgid "Circle"
+msgstr "ವೃತ್ತ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NONE\n"
+"string.text"
+msgid "- none -"
+msgstr "- ಯಾವುದು ಇಲ್ಲ -"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TRANSPARENCE\n"
+"string.text"
+msgid "Transparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CENTERED\n"
+"string.text"
+msgid "Centered"
+msgstr "ಮಧ್ಯಕ್ಕೆ ಹೊಂದಿಸಿದ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NOTCENTERED\n"
+"string.text"
+msgid "Not centered"
+msgstr "ಮಧ್ಯಕ್ಕೆ ಹೊಂದಿಸಿಲ್ಲ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_STANDARD\n"
+"string.text"
+msgid "Default"
+msgstr "ಪೂರ್ವನಿಯೋಜಿತ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_GREYS\n"
+"string.text"
+msgid "Grayscale"
+msgstr "ಗ್ರೇಸ್ಕೇಲ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_MONO\n"
+"string.text"
+msgid "Black/White"
+msgstr "ಕಪ್ಪು/ಬಿಳುಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_WATERMARK\n"
+"string.text"
+msgid "Watermark"
+msgstr "ನೀರ್ಗುರುತು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_IVF\n"
+"string.text"
+msgid "Intel Indeo Video (*.ivf)"
+msgstr "ಇಂಟೆಲ್ ಇಂಡಿಯೊ ವೀಡಿಯೊ (*.ivf)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_AVI\n"
+"string.text"
+msgid "Video for Windows (*.avi)"
+msgstr "ವಿಂಡೊಸ್‌ಗಾಗಿನ ವೀಡಿಯೊ (*.avi)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_MOV\n"
+"string.text"
+msgid "QuickTime Movie (*.mov)"
+msgstr "ಕ್ವಿಕ್‌ಟೈಂ ಮೂವಿ (*.mov)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_MPEG\n"
+"string.text"
+msgid "MPEG - Motion Pictures Experts Group (*.mpe;*.mpeg;*.mpg)"
+msgstr "MPEG - ಮೋಶನ್ ಪಿಕ್ಚರ್ ಎಕ್ಸಪರ್ಟ್ ಗ್ರೂಪ್ (*.mpe;*.mpeg;*.mpg)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_EXTFILTER_ALL\n"
+"string.text"
+msgid "<All>"
+msgstr "<ಎಲ್ಲಾ>"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_SOUND_TITLE\n"
+"string.text"
+msgid "Insert sound"
+msgstr "ಶಬ್ದವನ್ನು ಸೇರಿಸು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_TITLE\n"
+"string.text"
+msgid "Insert video"
+msgstr "ವೀಡಿಯೋವನ್ನು ಸೇರಿಸು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_VIOLET\n"
+"string.text"
+msgid "Violet"
+msgstr "ನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BORDEAUX\n"
+"string.text"
+msgid "Bordeaux"
+msgstr "ಬೋರ್ಡಾಕ್ಸ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PALE_YELLOW\n"
+"string.text"
+msgid "Pale yellow"
+msgstr "ಮಬ್ಬು ಹಳದಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PALE_GREEN\n"
+"string.text"
+msgid "Pale green"
+msgstr "ಮಬ್ಬು ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_DARKVIOLET\n"
+"string.text"
+msgid "Dark violet"
+msgstr "ಕಡು ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SALMON\n"
+"string.text"
+msgid "Salmon"
+msgstr "ಸಾಲ್‌ಮನ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SEABLUE\n"
+"string.text"
+msgid "Sea blue"
+msgstr "ಸಮುದ್ರ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_CHART\n"
+"string.text"
+msgid "Chart"
+msgstr "ನಕ್ಷೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PURPLE\n"
+"string.text"
+msgid "Purple"
+msgstr "ನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SKYBLUE\n"
+"string.text"
+msgid "Sky blue"
+msgstr "ಆಕಾಶ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_YELLOWGREEN\n"
+"string.text"
+msgid "Yellow green"
+msgstr "ಹಳದಿ ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PINK\n"
+"string.text"
+msgid "Pink"
+msgstr "ಗುಲಾಬಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TURQUOISE\n"
+"string.text"
+msgid "Turquoise"
+msgstr "ಹಸಿರು ಮಿಶ್ರಿತ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_3D\n"
+"string.text"
+msgid "3D"
+msgstr "3D"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLACK1\n"
+"string.text"
+msgid "Black 1"
+msgstr "ಕಪ್ಪು 1"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLACK2\n"
+"string.text"
+msgid "Black 2"
+msgstr "ಕಪ್ಪು 2"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BROWN\n"
+"string.text"
+msgid "Brown"
+msgstr "ಕಂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY\n"
+"string.text"
+msgid "Currency"
+msgstr "ಚಲಾವಣೆ ನಾಣ್ಯ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_3D\n"
+"string.text"
+msgid "Currency 3D"
+msgstr "ಚಲಾವಣೆ ನಾಣ್ಯ 3D"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_GRAY\n"
+"string.text"
+msgid "Currency Gray"
+msgstr "ಚಲಾವಣೆ ನಾಣ್ಯ ಬೂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_LAVENDER\n"
+"string.text"
+msgid "Currency Lavender"
+msgstr "ಚಲಾವಣೆ ನಾಣ್ಯ ತಿಳಿ ನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_TURQUOISE\n"
+"string.text"
+msgid "Currency Turquoise"
+msgstr "ಚಲಾವಣೆ ನಾಣ್ಯ ಹಸಿರು ಮಿಶ್ರಿತ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_GRAY\n"
+"string.text"
+msgid "Gray"
+msgstr "ಬೂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_GREEN\n"
+"string.text"
+msgid "Green"
+msgstr "ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_LAVENDER\n"
+"string.text"
+msgid "Lavender"
+msgstr "ತಿಳಿ ನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_RED\n"
+"string.text"
+msgid "Red"
+msgstr "ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_TURQUOISE\n"
+"string.text"
+msgid "Turquoise"
+msgstr "ಹಸಿರು ಮಿಶ್ರಿತ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_YELLOW\n"
+"string.text"
+msgid "Yellow"
+msgstr "ಹಳದಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_MIDDLE\n"
+"string.text"
+msgid "Line joint averaged"
+msgstr "ಸಾಲಿನ ಜೋಡಣೆ ಸರಾಸರಿ ಇದೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_BEVEL\n"
+"string.text"
+msgid "Line joint bevel"
+msgstr "ಸಾಲಿನ ಜೋಡಣೆ ಇಳಿಜಾರು ಮಾದರಿಯಲ್ಲಿದೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_MITER\n"
+"string.text"
+msgid "Line joint miter"
+msgstr "ಸಾಲಿನ ಜೋಡಣೆ ಲಂಬಕೋನದಲ್ಲಿದೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_ROUND\n"
+"string.text"
+msgid "Line joint round"
+msgstr "ಸಾಲಿನ ಜೋಡಣೆ ಗುಂಡಗಿದೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_BUTT\n"
+"string.text"
+msgid "Line cap flat"
+msgstr "ಗೆರೆಯ ತುದಿ ಚಪ್ಪಟೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_ROUND\n"
+"string.text"
+msgid "Line cap round"
+msgstr "ಗೆರೆಯ ತುದಿ ವೃತ್ತಾಕಾರ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_SQUARE\n"
+"string.text"
+msgid "Line cap square"
+msgstr "ಗೆರೆಯ ತುದಿ ಚೌಕ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT0\n"
+"string.text"
+msgid "Gradient"
+msgstr "ಏರಿಳಿತ ಪ್ರಮಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT1\n"
+"string.text"
+msgid "Linear blue/white"
+msgstr "ರೇಖೆಯಂತೆ ನೀಲಿ/ಬಿಳಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT2\n"
+"string.text"
+msgid "Linear magenta/green"
+msgstr "ರೇಖೆಯಂತೆ ಕಡುಗೆಂಪು/ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT3\n"
+"string.text"
+msgid "Linear yellow/brown"
+msgstr "ರೇಖೆಯಂತೆ ಹಳದಿ/ಕಂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT4\n"
+"string.text"
+msgid "Radial green/black"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ಹಸಿರು/ಕಪ್ಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT5\n"
+"string.text"
+msgid "Radial red/yellow"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ಕೆಂಪು/ಹಳದಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT6\n"
+"string.text"
+msgid "Rectangular red/white"
+msgstr "ಆಯತಾಕಾರದ ಕೆಂಪು/ಬಿಳಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT7\n"
+"string.text"
+msgid "Square yellow/white"
+msgstr "ಚೌಕಾಕಾರ ಹಳದಿ/ಬಿಳಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT8\n"
+"string.text"
+msgid "Ellipsoid blue gray/light blue"
+msgstr "ದೀರ್ಘವೃತ್ತದ ನೀಲಿ ಮಿಶ್ರಿತ ಬೂದು/ತೆಳು ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT9\n"
+"string.text"
+msgid "Axial light red/white"
+msgstr "ಅಕ್ಷದ ತೆಳು ಕೆಂಪು/ಬಿಳಿ"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT10\n"
+"string.text"
+msgid "Diagonal 1l"
+msgstr "ಕರ್ಣರೇಖೆ 1l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT11\n"
+"string.text"
+msgid "Diagonal 1r"
+msgstr "ಕರ್ಣರೇಖೆ 1r"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT12\n"
+"string.text"
+msgid "Diagonal 2l"
+msgstr "ಕರ್ಣರೇಖೆ 2l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT13\n"
+"string.text"
+msgid "Diagonal 2r"
+msgstr "ಕರ್ಣರೇಖೆ 2r"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT14\n"
+"string.text"
+msgid "Diagonal 3l"
+msgstr "ಕರ್ಣರೇಖೆ 3l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT15\n"
+"string.text"
+msgid "Diagonal 3r"
+msgstr "ಕರ್ಣರೇಖೆ 3r"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT16\n"
+"string.text"
+msgid "Diagonal 4l"
+msgstr "ಕರ್ಣರೇಖೆ 4l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT17\n"
+"string.text"
+msgid "Diagonal 4r"
+msgstr "ಕರ್ಣರೇಖೆ 4r"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT18\n"
+"string.text"
+msgid "Diagonal Blue"
+msgstr "ಕರ್ಣರೇಖೀಯ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT19\n"
+"string.text"
+msgid "Diagonal Green"
+msgstr "ಕರ್ಣರೇಖೀಯ ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT20\n"
+"string.text"
+msgid "Diagonal Orange"
+msgstr "ಕರ್ಣರೇಖೀಯ ಕಿತ್ತಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT21\n"
+"string.text"
+msgid "Diagonal Red"
+msgstr "ಕರ್ಣರೇಖೀಯ ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT22\n"
+"string.text"
+msgid "Diagonal Turquoise"
+msgstr "ಕರ್ಣರೇಖೀಯ ಹಸಿರುನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT23\n"
+"string.text"
+msgid "Diagonal Violet"
+msgstr "ಕರ್ಣರೇಖೀಯ ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT24\n"
+"string.text"
+msgid "From a Corner"
+msgstr "ಮೂಲೆಯಿಂದ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT25\n"
+"string.text"
+msgid "From a Corner, Blue"
+msgstr "ಮೂಲೆಯಿಂದ, ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT26\n"
+"string.text"
+msgid "From a Corner, Green"
+msgstr "ಮೂಲೆಯಿಂದ, ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT27\n"
+"string.text"
+msgid "From a Corner, Orange"
+msgstr "ಮೂಲೆಯಿಂದ, ಕಿತ್ತಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT28\n"
+"string.text"
+msgid "From a Corner, Red"
+msgstr "ಮೂಲೆಯಿಂದ, ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT29\n"
+"string.text"
+msgid "From a Corner, Turquoise"
+msgstr "ಮೂಲೆಯಿಂದ, ಹಸಿರುನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT30\n"
+"string.text"
+msgid "From a Corner, Violet"
+msgstr "ಮೂಲೆಯಿಂದ, ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT31\n"
+"string.text"
+msgid "From the Middle"
+msgstr "ಮಧ್ಯದಿಂದ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT32\n"
+"string.text"
+msgid "From the Middle, Blue"
+msgstr "ಮಧ್ಯದಿಂದ, ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT33\n"
+"string.text"
+msgid "From the Middle, Green"
+msgstr "ಮಧ್ಯದಿಂದ, ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT34\n"
+"string.text"
+msgid "From the Middle, Orange"
+msgstr "ಮೂಲೆಯಿಂದ, ಕಿತ್ತಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT35\n"
+"string.text"
+msgid "From the Middle, Red"
+msgstr "ಮಧ್ಯದಿಂದ, ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT36\n"
+"string.text"
+msgid "From the Middle, Turquoise"
+msgstr "ಮಧ್ಯದಿಂದ, ಹಸಿರುನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT37\n"
+"string.text"
+msgid "From the Middle, Violet"
+msgstr "ಮಧ್ಯದಿಂದ, ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT38\n"
+"string.text"
+msgid "Horizontal"
+msgstr "ಅಡ್ಡ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT39\n"
+"string.text"
+msgid "Horizontal Blue"
+msgstr "ಅಡ್ಡವಾದ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT40\n"
+"string.text"
+msgid "Horizontal Green"
+msgstr "ಅಡ್ಡವಾದ ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT41\n"
+"string.text"
+msgid "Horizontal Orange"
+msgstr "ಅಡ್ಡವಾದ ಕಿತ್ತಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT42\n"
+"string.text"
+msgid "Horizontal Red"
+msgstr "ಅಡ್ಡವಾದ ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT43\n"
+"string.text"
+msgid "Horizontal Turquoise"
+msgstr "ಅಡ್ಡಲಾದ ಹಸಿರುನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT44\n"
+"string.text"
+msgid "Horizontal Violet"
+msgstr "ಅಡ್ಡವಾದ ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT45\n"
+"string.text"
+msgid "Radial"
+msgstr "ರೇಡಿಯಲ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT46\n"
+"string.text"
+msgid "Radial Blue"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT47\n"
+"string.text"
+msgid "Radial Green"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT48\n"
+"string.text"
+msgid "Radial Orange"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ಕಿತ್ತಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT49\n"
+"string.text"
+msgid "Radial Red"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT50\n"
+"string.text"
+msgid "Radial Turquoise"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ಹಸಿರುನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT51\n"
+"string.text"
+msgid "Radial Violet"
+msgstr "ತ್ರಿಜ್ಯದಂತೆ ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT52\n"
+"string.text"
+msgid "Vertical"
+msgstr "ಲಂಬ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT53\n"
+"string.text"
+msgid "Vertical Blue"
+msgstr "ಲಂಬವಾದ ನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT54\n"
+"string.text"
+msgid "Vertical Green"
+msgstr "ಲಂಬವಾದ ಹಸಿರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT55\n"
+"string.text"
+msgid "Vertical Orange"
+msgstr "ಲಂಬವಾದ ಕಿತ್ತಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT56\n"
+"string.text"
+msgid "Vertical Red"
+msgstr "ಲಂಬವಾದ ಕೆಂಪು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT57\n"
+"string.text"
+msgid "Vertical Turquoise"
+msgstr "ಲಂಬವಾದ ಹಸಿರುನೀಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT58\n"
+"string.text"
+msgid "Vertical Violet"
+msgstr "ಲಂಬವಾದ ನೀಲಿನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT59\n"
+"string.text"
+msgid "Gray Gradient"
+msgstr "ಬೂದು ಗ್ರೇಡಿಯಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT60\n"
+"string.text"
+msgid "Yellow Gradient"
+msgstr "ಹಳದಿ ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT61\n"
+"string.text"
+msgid "Orange Gradient"
+msgstr "ಕಿತ್ತಳೆ ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT62\n"
+"string.text"
+msgid "Red Gradient"
+msgstr "ಕೆಂಪು ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT63\n"
+"string.text"
+msgid "Pink Gradient"
+msgstr "ಪಿಂಕ್ ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT64\n"
+"string.text"
+msgid "Sky"
+msgstr "ಆಕಾಶ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT65\n"
+"string.text"
+msgid "Cyan Gradient"
+msgstr "ಹಸಿರು ನೀಲಿ ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT66\n"
+"string.text"
+msgid "Blue Gradient"
+msgstr "ನೀಲಿ ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT67\n"
+"string.text"
+msgid "Purple Pipe"
+msgstr "ನೇರಳೆ ಪೈಪ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT68\n"
+"string.text"
+msgid "Night"
+msgstr "ರಾತ್ರಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT69\n"
+"string.text"
+msgid "Green Gradient"
+msgstr "ಹಸಿರು ಗ್ರೇಡಿಯೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH0\n"
+"string.text"
+msgid "Black 45 degrees wide"
+msgstr "ಕಪ್ಪು 45 ಡಿಗ್ರಿಗಳಷ್ಟು ಅಗಲ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH1\n"
+"string.text"
+msgid "Black 45 degrees"
+msgstr "ಕಪ್ಪು 45 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH2\n"
+"string.text"
+msgid "Black -45 degrees"
+msgstr "ಕಪ್ಪು -45 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH3\n"
+"string.text"
+msgid "Black 90 degrees"
+msgstr "ಕಪ್ಪು 90 ಡಿಗ್ರಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH4\n"
+"string.text"
+msgid "Red crossed 45 degrees"
+msgstr "ಕೆಂಪು ಅಡ್ಡಲಾದ 45 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH5\n"
+"string.text"
+msgid "Red crossed 0 degrees"
+msgstr "ಕೆಂಪು ಅಡ್ಡಲಾದ 0 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH6\n"
+"string.text"
+msgid "Blue crossed 45 degrees"
+msgstr "ನೀಲಿ ಅಡ್ಡಲಾದ 45 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH7\n"
+"string.text"
+msgid "Blue crossed 0 degrees"
+msgstr "ನೀಲಿ ಅಡ್ಡಲಾದ 0 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH8\n"
+"string.text"
+msgid "Blue triple 90 degrees"
+msgstr "ನೀಲಿ ಮೂರುಪಟ್ಟು 90 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH9\n"
+"string.text"
+msgid "Black 0 degrees"
+msgstr "ಕಪ್ಪು 0 ಡಿಗ್ರಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH10\n"
+"string.text"
+msgid "Hatching"
+msgstr "ಗೆರೆಗಳನ್ನು ಕೊರೆಯುವಿಕೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP0\n"
+"string.text"
+msgid "Blank"
+msgstr "ಖಾಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP1\n"
+"string.text"
+msgid "Sky"
+msgstr "ಆಕಾಶ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP2\n"
+"string.text"
+msgid "Water"
+msgstr "ನೀರು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP3\n"
+"string.text"
+msgid "Coarse grained"
+msgstr "ಒರಟು ಚುಕ್ಕಿಗಳಿಂದ ಕೂಡಿದ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP4\n"
+"string.text"
+msgid "Mercury"
+msgstr "ಪಾದರಸ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP5\n"
+"string.text"
+msgid "Space"
+msgstr "ಸ್ಥಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP6\n"
+"string.text"
+msgid "Metal"
+msgstr "ಲೋಹ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP7\n"
+"string.text"
+msgid "Droplets"
+msgstr "ಹನಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP8\n"
+"string.text"
+msgid "Marble"
+msgstr "ಅಮೃತಶಿಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP9\n"
+"string.text"
+msgid "Linen"
+msgstr "ಬಟ್ಟೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP10\n"
+"string.text"
+msgid "Stone"
+msgstr "ಕಲ್ಲು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP11\n"
+"string.text"
+msgid "Gravel"
+msgstr "ಮಣ್ಣು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP12\n"
+"string.text"
+msgid "Wall"
+msgstr "ಗೋಡೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP13\n"
+"string.text"
+msgid "Brownstone"
+msgstr "ಕಂದು ಬಣ್ಣದ ಕಲ್ಲು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP14\n"
+"string.text"
+msgid "Netting"
+msgstr "ರಂಧ್ರಪರದೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP15\n"
+"string.text"
+msgid "Leaves"
+msgstr "ಎಲೆಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP16\n"
+"string.text"
+msgid "Artificial Turf"
+msgstr "ಕೃತಕ ಹುಲ್ಲುಗಾವಲು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP17\n"
+"string.text"
+msgid "Daisy"
+msgstr "ಡೈಸೀ ಮಾದರಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP18\n"
+"string.text"
+msgid "Orange"
+msgstr "ಕಿತ್ತಲೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP19\n"
+"string.text"
+msgid "Fiery"
+msgstr "ಫೈರೀ ಮಾದರಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP20\n"
+"string.text"
+msgid "Roses"
+msgstr "ಗುಲಾಬಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP21\n"
+"string.text"
+msgid "Bitmap"
+msgstr "ಬಿಟ್‌ಮ್ಯಾಪ್‌"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH0\n"
+"string.text"
+msgid "Ultrafine Dashed"
+msgstr "ಅತಿಸೂಕ್ಷ್ಮ ಅಡ್ಡಗೆರೆಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH1\n"
+"string.text"
+msgid "Fine Dashed"
+msgstr "ಸೂಕ್ಷ್ಮ ಅಡ್ಡಗೆರೆಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH2\n"
+"string.text"
+msgid "2 Dots 3 Dashes"
+msgstr "2 ಚುಕ್ಕಿಗಳು 3 ಅಡ್ಡಗೆರೆಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH3\n"
+"string.text"
+msgid "Fine Dotted"
+msgstr "ಸೂಕ್ಷ್ಮ ಚುಕ್ಕಿಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH4\n"
+"string.text"
+msgid "Line with Fine Dots"
+msgstr "ಸೂಕ್ಷ್ಮ ಚುಕ್ಕಿಗಳುಳ್ಳ ರೇಖೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH5\n"
+"string.text"
+msgid "Fine Dashed"
+msgstr "ಸೂಕ್ಷ್ಮ ಅಡ್ಡಗೆರೆಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH6\n"
+"string.text"
+msgid "3 Dashes 3 Dots"
+msgstr "3 ಅಡ್ಡಗೆರೆಗಳು 3 ಚುಕ್ಕಿಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH7\n"
+"string.text"
+msgid "Ultrafine Dotted"
+msgstr "ಅತಿಸೂಕ್ಷ್ಮ ಚುಕ್ಕಿಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH8\n"
+"string.text"
+msgid "Line Style 9"
+msgstr "ರೇಖೆಯ ಶೈಲಿ 9"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH9\n"
+"string.text"
+msgid "2 Dots 1 Dash"
+msgstr "2 ಚುಕ್ಕಿಗಳು 1 ಅಡ್ಡಗೆರೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH10\n"
+"string.text"
+msgid "Dashed"
+msgstr "ಅಡ್ಡಗೆರೆಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH11\n"
+"string.text"
+msgid "Dashed"
+msgstr "ಅಡ್ಡಗೆರೆಗಳುಳ್ಳ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH12\n"
+"string.text"
+msgid "Line Style"
+msgstr "ರೇಖೆಯ ಶೈಲಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND0\n"
+"string.text"
+msgid "Arrow concave"
+msgstr "ಒಳಬಾಗಿದ ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND1\n"
+"string.text"
+msgid "Square 45"
+msgstr "ಚೌಕ 45"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND2\n"
+"string.text"
+msgid "Small arrow"
+msgstr "ಚಿಕ್ಕ ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND3\n"
+"string.text"
+msgid "Dimension lines"
+msgstr "ಆಯಾಮದ ಗೆರೆಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND4\n"
+"string.text"
+msgid "Double Arrow"
+msgstr "ಎರಡು ಬಾಣದ ತುದಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND5\n"
+"string.text"
+msgid "Rounded short arrow"
+msgstr "ಗುಂಡಗಿನ ಚಿಕ್ಕ ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND6\n"
+"string.text"
+msgid "Symmetric arrow"
+msgstr "ಸಮ್ಮಿತಿರೂಪದ ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND7\n"
+"string.text"
+msgid "Line arrow"
+msgstr "ರೇಖೆ ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND8\n"
+"string.text"
+msgid "Rounded large arrow"
+msgstr "ಗುಂಡಗಿನ ದೊಡ್ಡ ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND9\n"
+"string.text"
+msgid "Circle"
+msgstr "ವೃತ್ತ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND10\n"
+"string.text"
+msgid "Square"
+msgstr "ಚೌಕ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND11\n"
+"string.text"
+msgid "Arrow"
+msgstr "ಬಾಣ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND12\n"
+"string.text"
+msgid "Short line arrow"
+msgstr "ಸಣ್ಣ ಗೆರೆಯ ಬಾಣದ ಗುರುತು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND13\n"
+"string.text"
+msgid "Triangle unfilled"
+msgstr "ತುಂಬಿಸದೆ ಇರುವ ತ್ರಿಕೋನ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND14\n"
+"string.text"
+msgid "Diamond unfilled"
+msgstr "ತುಂಬಿಸದ ವಜ್ರಾಕೃತಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND15\n"
+"string.text"
+msgid "Diamond"
+msgstr "ವಜ್ರಾಕೃತಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND16\n"
+"string.text"
+msgid "Circle unfilled"
+msgstr "ತುಂಬಿಸದೆ ಇರುವ ವೃತ್ತ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND17\n"
+"string.text"
+msgid "Square 45 unfilled"
+msgstr "ತುಂಬಿಸದ ಚೌಕ 45"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND18\n"
+"string.text"
+msgid "Square unfilled"
+msgstr "ತುಂಬಿಸದ ಚೌಕ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND19\n"
+"string.text"
+msgid "Half circle unfilled"
+msgstr "ತುಂಬಿಸದ ಅರ್ಧ ವೃತ್ತ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND20\n"
+"string.text"
+msgid "Arrowhead"
+msgstr "ಬಾಣದ ತುದಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TRASNGR0\n"
+"string.text"
+msgid "Transparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Millimeter\n"
+"itemlist.text"
+msgid "Millimeter"
+msgstr "ಮಿಲಿಮೀಟರ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Centimeter\n"
+"itemlist.text"
+msgid "Centimeter"
+msgstr "ಸೆಂಟಿಮೀಟರ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Meter\n"
+"itemlist.text"
+msgid "Meter"
+msgstr "ಮೀಟರ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Kilometer\n"
+"itemlist.text"
+msgid "Kilometer"
+msgstr "ಕಿಲೋಮೀಟರ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Inch\n"
+"itemlist.text"
+msgid "Inch"
+msgstr "ಇಂಚು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Foot\n"
+"itemlist.text"
+msgid "Foot"
+msgstr "ಅಡಿ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Miles\n"
+"itemlist.text"
+msgid "Miles"
+msgstr "ಮೈಲುಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Pica\n"
+"itemlist.text"
+msgid "Pica"
+msgstr "ಪಿಕಾ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Point\n"
+"itemlist.text"
+msgid "Point"
+msgstr "ಬಿಂದು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Char\n"
+"itemlist.text"
+msgid "Char"
+msgstr "ಅಕ್ಷರ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Line\n"
+"itemlist.text"
+msgid "Line"
+msgstr "ರೇಖೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_USER\n"
+"string.text"
+msgid "User"
+msgstr "ಬಳಕೆದಾರ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_GREEN_1\n"
+"string.text"
+msgid "Green 1 (%PRODUCTNAME Main Color)"
+msgstr "ಹಸಿರು 1 (%PRODUCTNAME ಮುಖ್ಯ ಬಣ್ಣ)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_GREEN_ACCENT\n"
+"string.text"
+msgid "Green Accent"
+msgstr "ಹಸಿರು ಆಕ್ಸೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_BLUE_ACCENT\n"
+"string.text"
+msgid "Blue Accent"
+msgstr "ನೀಲಿ ಆಕ್ಸೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_ORANGE_ACCENT\n"
+"string.text"
+msgid "Orange Accent"
+msgstr "ಕಿತ್ತಲೆ ಆಕ್ಸೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_PURPLE\n"
+"string.text"
+msgid "Purple"
+msgstr "ನೇರಳೆ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_PURPLE_ACCENT\n"
+"string.text"
+msgid "Purple Accent"
+msgstr "ನೇರಳೆ ಆಕ್ಸೆಂಟ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_YELLOW_ACCENT\n"
+"string.text"
+msgid "Yellow Accent"
+msgstr "ಹಳದಿ ಆಕ್ಸೆಂಟ್"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_BUTTER\n"
+"string.text"
+msgid "Tango: Butter"
+msgstr "ಟ್ಯಾಂಗೊ: ಬೆಣ್ಣೆ"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_ORANGE\n"
+"string.text"
+msgid "Tango: Orange"
+msgstr "ಟ್ಯಾಂಗೊ: ಕಿತ್ತಲೆ"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_CHOCOLATE\n"
+"string.text"
+msgid "Tango: Chocolate"
+msgstr "ಟ್ಯಾಂಗೊ: ಚಾಕೋಲೇಟ್"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_CHAMELEON\n"
+"string.text"
+msgid "Tango: Chameleon"
+msgstr "ಟ್ಯಾಂಗೊ: ಊಸರವಳ್ಳಿ"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_SKY_BLUE\n"
+"string.text"
+msgid "Tango: Sky Blue"
+msgstr "ಟ್ಯಾಂಗೊ: ಆಕಾಶ ನೀಲಿ"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_PLUM\n"
+"string.text"
+msgid "Tango: Plum"
+msgstr "ಟ್ಯಾಂಗೊ: ಪ್ಲಮ್"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_SCARLET_RED\n"
+"string.text"
+msgid "Tango: Scarlet Red"
+msgstr "ಟ್ಯಾಂಗೊ: ಕಡು ಕೆಂಪು"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_ALUMINIUM\n"
+"string.text"
+msgid "Tango: Aluminium"
+msgstr "ಟ್ಯಾಂಗೊ: ಅಲ್ಯುಮಿನಿಯಮ್"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERYPROPS_GALTHEME\n"
+"string.text"
+msgid "Gallery Theme"
+msgstr "ಗ್ಯಾಲರಿ ಸಿದ್ಧವಿನ್ಯಾಸ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERY_THEMEITEMS\n"
+"string.text"
+msgid "Theme Items"
+msgstr "ಪರಿಸರವಿನ್ಯಾಸದ ಅಂಶಗಳು"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERY_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "ಮುನ್ನೋಟ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr "ಶೋಧಕ"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_VIEW\n"
+"string.text"
+msgid "List"
+msgstr "ಪಟ್ಟಿ"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_STYLES\n"
+"string.text"
+msgid "Including Styles"
+msgstr "ಶೈಲಿಗಳನ್ನು ಒಳಗೊಂಡು"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_WRITER_STYLES\n"
+"string.text"
+msgid "Search for Paragraph St~yles"
+msgstr "ಪ್ಯಾರಗ್ರಾಫ್ ಶೈಲಿಗಳಿಗಾಗಿ ಹುಡುಕು(~y)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_CALC_STYLES\n"
+"string.text"
+msgid "Search for Cell St~yles"
+msgstr "ಕೋಶದ ಶೈಲಿಗಳಿಗಾಗಿ ಹುಡುಕು (~y)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH\n"
+"string.text"
+msgid "(Search)"
+msgstr "(ಹುಡುಕು)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_REPLACE\n"
+"string.text"
+msgid "(Replace)"
+msgstr "ಬದಲಿಸು"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_END\n"
+"string.text"
+msgid "Reached the end of the document"
+msgstr "ದಸ್ತಾವೇಜಿನ ಕೊನೆಯನ್ನು ತಲುಪಿದೆ"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_END_SHEET\n"
+"string.text"
+msgid "Reached the end of the sheet"
+msgstr "ಪುಟದ ಕೊನೆಯನ್ನು ತಲುಪಿದೆ"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_NOT_FOUND\n"
+"string.text"
+msgid "Search key not found"
+msgstr "ಹುಡುಕು ಕೀಲಿಯು ಪತ್ತೆಯಾಗಿಲ್ಲ"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_0\n"
+"string.text"
+msgid "Solid small circular bullets"
+msgstr "ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_1\n"
+"string.text"
+msgid "Solid large circular bullets"
+msgstr "ಘನವಾದ ದೊಡ್ಡ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_2\n"
+"string.text"
+msgid "Solid diamond bullets"
+msgstr "ಘನವಾದ ವಜ್ರಾಕೃತಿಯ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_3\n"
+"string.text"
+msgid "Solid large square bullets"
+msgstr "ಘನವಾದ ದೊಡ್ಡ ಚೌಕಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_4\n"
+"string.text"
+msgid "Right pointing arrow bullets filled out"
+msgstr "ತುಂಬಿಸಲಾದ ಬಲಗಡೆಗೆ ತಿರುಗಿರುವ ಬಾಣದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_5\n"
+"string.text"
+msgid "Right pointing arrow bullets"
+msgstr "ಬಲಗಡೆಗೆ ತಿರುಗಿರುವ ಬಾಣದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_6\n"
+"string.text"
+msgid "Check mark bullets"
+msgstr "ಚೆಕ್‌ ಗುರುತಿನ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_7\n"
+"string.text"
+msgid "Tick mark bullets"
+msgstr "ಟಿಕ್ ಗುರುತಿನ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_0\n"
+"string.text"
+msgid "Number 1) 2) 3)"
+msgstr "ಸಂಖ್ಯೆ 1) 2) 3)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_1\n"
+"string.text"
+msgid "Number 1. 2. 3."
+msgstr "ಅಂಕಿ 1. 2. 3."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_2\n"
+"string.text"
+msgid "Number (1) (2) (3)"
+msgstr "ಅಂಕಿ (1) (2) (3)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_3\n"
+"string.text"
+msgid "Uppercase Roman number I. II. III."
+msgstr "ಅಪ್ಪರ್-ಕೇಸ್ ರೋಮನ್ ಅಂಕೆ I. II. III."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_4\n"
+"string.text"
+msgid "Uppercase letter A) B) C)"
+msgstr "ಅಪ್ಪರ್-ಕೇಸ್ ಅಕ್ಷರ  A) B) C)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_5\n"
+"string.text"
+msgid "Lowercase letter a) b) c)"
+msgstr "ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರ a) b) c)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_6\n"
+"string.text"
+msgid "Lowercase letter (a) (b) (c)"
+msgstr "ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರ (a) (b) (c)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_7\n"
+"string.text"
+msgid "Lowercase Roman number i. ii. iii."
+msgstr "ಲೋಯರ್ ಕೇಸ್ ಅಂಕೆ i. ii. iii."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_0\n"
+"string.text"
+msgid "Numeric, numeric, lowercase letters, solid small circular bullet"
+msgstr "ಅಂಕೀಯ, ಅಂಕೀಯ, ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_1\n"
+"string.text"
+msgid "Numeric, lowercase letters, solid small circular bullet"
+msgstr "ಅಂಕೀಯ, ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_2\n"
+"string.text"
+msgid "Numeric, lowercase letters, lowercase Roman, uppercase letters, solid small circular bullet"
+msgstr "ಅಂಕೀಯ, ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಲೋಯರ್ ಕೇಸ್ ರೋಮನ್, ಅಪ್ಪರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_3\n"
+"string.text"
+msgid "Numeric"
+msgstr "ಅಂಕಿಯ"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_4\n"
+"string.text"
+msgid "Uppercase Roman, uppercase letters, lowercase Roman, lowercase letters, solid small circular bullet"
+msgstr "ಅಪ್ಪರ್ ಕೇಸ್ ರೋಮನ್, ಅಪ್ಪರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಲೋಯರ್ ಕೇಸ್ ರೋಮನ್, ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_5\n"
+"string.text"
+msgid "Uppercase letters, uppercase Roman, lowercase letters, lowercase Roman, solid small circular bullet"
+msgstr "ಅಪ್ಪರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಅಪ್ಪರ್ ಕೇಸ್ ರೋಮನ್, ಲೋಯರ್ ಕೇಸ್ ಅಕ್ಷರಗಳು, ಲೋಯರ್ ಕೇಸ್ ರೋಮನ್, ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_6\n"
+"string.text"
+msgid "Numeric with all sublevels"
+msgstr "ಉಪಹಂತಗಳೊಂದಿಗಿನ ಅಂಕಿಗಳು"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_7\n"
+"string.text"
+msgid "Right pointing bullet, right pointing arrow bullet, solid diamond bullet, solid small circular bullet"
+msgstr "ಬಲಕ್ಕೆ ತಿರುಗಿದ ಅಂಶಸೂಚಕ, ಬಲಕ್ಕೆ ತಿರುಗಿದ ಬಾಣದ ಗುರುತಿನ ಅಂಶಸೂಚಕ, ಘನವಾದ ವಜ್ರಾಕೃತಿಯ ಅಂಶಸೂಚಕ, ಘನವಾದ ಸಣ್ಣ ವೃತ್ತಾಕಾರದ ಅಂಶಸೂಚಕಗಳು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "ಎಡ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_LEFT\n"
+"string.text"
+msgid "Inside"
+msgstr "ಒಳಗೆ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "ಬಲ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_RIGHT\n"
+"string.text"
+msgid "Outside"
+msgstr "ಹೊರಗೆ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_CENTER_VERT\n"
+"string.text"
+msgid "Center"
+msgstr "ಮಧ್ಯ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMLEFT\n"
+"string.text"
+msgid "From left"
+msgstr "ಎಡದಿಂದ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_FROMLEFT\n"
+"string.text"
+msgid "From inside"
+msgstr "ಒಳಗಿಂದ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FRAME\n"
+"string.text"
+msgid "Paragraph area"
+msgstr "ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಕ್ಷೇತ್ರ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_PRTAREA\n"
+"string.text"
+msgid "Paragraph text area"
+msgstr "ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಪಠ್ಯ ಕ್ಷೇತ್ರ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_LEFT\n"
+"string.text"
+msgid "Left page border"
+msgstr "ಎಡ ಪುಟದ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_PG_LEFT\n"
+"string.text"
+msgid "Inner page border"
+msgstr "ಒಳಗಿನ ಪುಟದ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Right page border"
+msgstr "ಬಲ ಪುಟದ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Outer page border"
+msgstr "ಹೊರಗಿನ ಪುಟದ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_LEFT\n"
+"string.text"
+msgid "Left paragraph border"
+msgstr "ಎಡ ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_FRM_LEFT\n"
+"string.text"
+msgid "Inner paragraph border"
+msgstr "ಒಳಗಿನ ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_RIGHT\n"
+"string.text"
+msgid "Right paragraph border"
+msgstr "ಬಲ ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_FRM_RIGHT\n"
+"string.text"
+msgid "Outer paragraph border"
+msgstr "ಹೊರ ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_FRAME\n"
+"string.text"
+msgid "Entire page"
+msgstr "ಸಂಪೂರ್ಣ ಪುಟ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_PRTAREA\n"
+"string.text"
+msgid "Page text area"
+msgstr "ಪುಟ ಪಠ್ಯ ಕ್ಷೇತ್ರ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_TOP\n"
+"string.text"
+msgid "Top"
+msgstr "ಮೇಲೆ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_BOTTOM\n"
+"string.text"
+msgid "Bottom"
+msgstr "ಕೆಳಗೆ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_CENTER_HORI\n"
+"string.text"
+msgid "Center"
+msgstr "ಮಧ್ಯ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMTOP\n"
+"string.text"
+msgid "From top"
+msgstr "ಮೇಲಿನಿಂದ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMBOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "ಕೆಳಗಿಂದ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_BELOW\n"
+"string.text"
+msgid "Below"
+msgstr "ಕೆಳಗೆ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMRIGHT\n"
+"string.text"
+msgid "From right"
+msgstr "ಬಲದಿಂದ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_TOP\n"
+"string.text"
+msgid "Top page border"
+msgstr "ಮೇಲಿನ ಪುಟದ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_BOTTOM\n"
+"string.text"
+msgid "Bottom page border"
+msgstr "ಕೆಳ ಪುಟದ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_TOP\n"
+"string.text"
+msgid "Top paragraph border"
+msgstr "ಮೇಲಿನ ಪ್ಯಾರಾಗ್ರಾಫಿನ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_BOTTOM\n"
+"string.text"
+msgid "Bottom paragraph border"
+msgstr "ಕೆಳ ಪ್ಯಾರಾಗ್ರಾಫಿನ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_BORDER\n"
+"string.text"
+msgid "Margin"
+msgstr "ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PRTAREA\n"
+"string.text"
+msgid "Paragraph text area"
+msgstr "ಪ್ಯಾರಾಗ್ರಾಫ್‌ ಪಠ್ಯ ಕ್ಷೇತ್ರ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_LEFT\n"
+"string.text"
+msgid "Left frame border"
+msgstr "ಎಡ ಚೌಕಟ್ಟಿನ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_MIR_REL_PG_LEFT\n"
+"string.text"
+msgid "Inner frame border"
+msgstr "ಒಳಗಿನ ಚೌಕಟ್ಟಿನ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_RIGHT\n"
+"string.text"
+msgid "Right frame border"
+msgstr "ಬಲ ಚೌಕಟ್ಟಿನ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_MIR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Outer frame border"
+msgstr "ಹೊರ ಚೌಕಟ್ಟಿನ ಅಂಚು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_FRAME\n"
+"string.text"
+msgid "Entire frame"
+msgstr "ಸಂಪೂರ್ಣ ಚೌಕಟ್ಟು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_PRTAREA\n"
+"string.text"
+msgid "Frame text area"
+msgstr "ಚೌಕಟ್ಟು ಪಠ್ಯ ಕ್ಷೇತ್ರ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_BASE\n"
+"string.text"
+msgid "Base line"
+msgstr "ಮೂಲ ರೇಖೆ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_CHAR\n"
+"string.text"
+msgid "Character"
+msgstr "ಅಕ್ಷರ"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_ROW\n"
+"string.text"
+msgid "Row"
+msgstr "ಅಡ್ಡಸಾಲು"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_LINE\n"
+"string.text"
+msgid "Line of text"
+msgstr "ಪಠ್ಯದ ಸಾಲು"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1252\n"
+"pairedlist.text"
+msgid "Western Europe (Windows-1252/WinLatin 1)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ವಿಂಡೋಸ್-1252/ವಿನ್‌ಲ್ಯಾಟಿನ್ 1)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ROMAN\n"
+"pairedlist.text"
+msgid "Western Europe (Apple Macintosh)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_850\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-850/International)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್(ಡಾಸ್/OS2-850/ಅಂತರರಾಷ್ಟ್ರೀಯ)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_437\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-437/US)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್(ಡಾಸ್/OS2-437/US)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_860\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-860/Portuguese)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ಡಾಸ್/OS2-860/ಪೋರ್ಚುಗೀಸ್‌)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_861\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-861/Icelandic)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್(ಡಾಸ್/OS2-861/ಐಲ್ಯಾಂಡಿಕ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_863\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-863/French (Can.))"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್(ಡಾಸ್/OS2-863/ಫ್ರೆಂಚ್(ಕೆನಡಿಯನ್))"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_865\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-865/Nordic)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್(ಡಾಸ್/OS2-865/ನಾರ್ಡಿಕ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ASCII_US\n"
+"pairedlist.text"
+msgid "Western Europe (ASCII/US)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ASCII/US)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_1\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-1)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ISO-8859-1)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_2\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-2)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ISO-8859-2)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_3\n"
+"pairedlist.text"
+msgid "Latin 3 (ISO-8859-3)"
+msgstr "ಲ್ಯಾಟಿನ್ 3 (ISO-8859-3)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_4\n"
+"pairedlist.text"
+msgid "Baltic (ISO-8859-4)"
+msgstr "ಬಾಲ್ಟಿಕ್ (ISO-8859-4)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_5\n"
+"pairedlist.text"
+msgid "Cyrillic (ISO-8859-5)"
+msgstr "ಸಿರಿಲಿಕ್ (ISO-8859-5)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_6\n"
+"pairedlist.text"
+msgid "Arabic (ISO-8859-6)"
+msgstr "ಅರೇಬಿಕ್ (ISO-8859-6)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_7\n"
+"pairedlist.text"
+msgid "Greek (ISO-8859-7)"
+msgstr "ಗ್ರೀಕ್ (ISO-8859-7)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_8\n"
+"pairedlist.text"
+msgid "Hebrew (ISO-8859-8)"
+msgstr "ಹೀಬ್ರೂ (ISO-8859-8)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_9\n"
+"pairedlist.text"
+msgid "Turkish (ISO-8859-9)"
+msgstr "ಟರ್ಕಿಷ್ (ISO-8859-9)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_14\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-14)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ISO-8859-14)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_15\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-15/EURO)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ISO-8859-15/EURO)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_737\n"
+"pairedlist.text"
+msgid "Greek (DOS/OS2-737)"
+msgstr "ಗ್ರೀಕ್ (ಡಾಸ್/OS2-737)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_775\n"
+"pairedlist.text"
+msgid "Baltic (DOS/OS2-775)"
+msgstr "ಬಾಲ್ಟಿಕ್ (ಡಾಸ್/OS2-775)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_852\n"
+"pairedlist.text"
+msgid "Eastern Europe (DOS/OS2-852)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ಡಾಸ್/OS2-852)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_855\n"
+"pairedlist.text"
+msgid "Cyrillic (DOS/OS2-855)"
+msgstr "ಸಿರಿಲಿಕ್ (ಡಾಸ್/OS2-855)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_857\n"
+"pairedlist.text"
+msgid "Turkish (DOS/OS2-857)"
+msgstr "ಟರ್ಕಿಶ್ (ಡಾಸ್‌/OS2-857)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_862\n"
+"pairedlist.text"
+msgid "Hebrew (DOS/OS2-862)"
+msgstr "ಹೀಬ್ರೂ (ಡಾಸ್/OS2-862)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_864\n"
+"pairedlist.text"
+msgid "Arabic (DOS/OS2-864)"
+msgstr "ಅರೇಬಿಕ್ (ಡಾಸ್/OS2-864)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_866\n"
+"pairedlist.text"
+msgid "Cyrillic (DOS/OS2-866/Russian)"
+msgstr "ಸಿರಿಲಿಕ್ (ಡಾಸ್/OS2-866/ರಶಿಯನ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_869\n"
+"pairedlist.text"
+msgid "Greek (DOS/OS2-869/Modern)"
+msgstr "ಗ್ರೀಕ್ (ಡಾಸ್/OS2-869/ಆಧುನಿಕ)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1250\n"
+"pairedlist.text"
+msgid "Eastern Europe (Windows-1250/WinLatin 2)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ವಿಂಡೋಸ್-1250/ವಿನ್‌ಲ್ಯಾಟಿನ್ 2)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1251\n"
+"pairedlist.text"
+msgid "Cyrillic (Windows-1251)"
+msgstr "ಸಿರಿಲಿಕ್ (ವಿಂಡೋಸ್-1251)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1253\n"
+"pairedlist.text"
+msgid "Greek (Windows-1253)"
+msgstr "ಗ್ರೀಕ್ (ವಿಂಡೋಸ್-1253)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1254\n"
+"pairedlist.text"
+msgid "Turkish (Windows-1254)"
+msgstr "ಟರ್ಕಿಶ್ (ವಿಂಡೋಸ್-1254)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1255\n"
+"pairedlist.text"
+msgid "Hebrew (Windows-1255)"
+msgstr "ಹೀಬ್ರೂ (ವಿಂಡೋಸ್-1255)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1256\n"
+"pairedlist.text"
+msgid "Arabic (Windows-1256)"
+msgstr "ಅರೇಬಿಕ್ (ವಿಂಡೋಸ್-1256)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1257\n"
+"pairedlist.text"
+msgid "Baltic (Windows-1257)"
+msgstr "ಬಾಲ್ಟಿಕ್ (ವಿಂಡೋಸ್-1257)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CENTEURO\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CROATIAN\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh/Croatian)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್/ಕ್ರೊಯೇಶಿಯನ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CYRILLIC\n"
+"pairedlist.text"
+msgid "Cyrillic (Apple Macintosh)"
+msgstr "ಸಿರಿಲಿಕ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_GREEK\n"
+"pairedlist.text"
+msgid "Greek (Apple Macintosh)"
+msgstr "ಗ್ರೀಕ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ICELAND\n"
+"pairedlist.text"
+msgid "Western Europe (Apple Macintosh/Icelandic)"
+msgstr "ಪಶ್ಚಿಮ ಯುರೋಪ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್/ಐಲ್ಯಾಂಡಿಕ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ROMANIAN\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh/Romanian)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್/ರೊಮೇನಿಯನ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_TURKISH\n"
+"pairedlist.text"
+msgid "Turkish (Apple Macintosh)"
+msgstr "ಟರ್ಕಿಷ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_UKRAINIAN\n"
+"pairedlist.text"
+msgid "Cyrillic (Apple Macintosh/Ukrainian)"
+msgstr "ಸಿರಿಲಿಕ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್/ಯುಕ್ರೇನಿಯನ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CHINSIMP\n"
+"pairedlist.text"
+msgid "Chinese simplified (Apple Macintosh)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CHINTRAD\n"
+"pairedlist.text"
+msgid "Chinese traditional (Apple Macintosh)"
+msgstr "ಚೈನೀಸ್ ಸಾಂಪ್ರದಾಯಿಕ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_JAPANESE\n"
+"pairedlist.text"
+msgid "Japanese (Apple Macintosh)"
+msgstr "ಜಪಾನೀಸ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_KOREAN\n"
+"pairedlist.text"
+msgid "Korean (Apple Macintosh)"
+msgstr "ಕೊರಿಯನ್ (ಆಪಲ್ ಮ್ಯಾಕಿಂಟಾಷ್)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_932\n"
+"pairedlist.text"
+msgid "Japanese (Windows-932)"
+msgstr "ಜಾಪನೀಸ್ (ವಿಂಡೋಸ್-932)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_936\n"
+"pairedlist.text"
+msgid "Chinese simplified (Windows-936)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (ವಿಂಡೋಸ್-936)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_949\n"
+"pairedlist.text"
+msgid "Korean (Windows-949)"
+msgstr "ಕೊರಿಯನ್ (ವಿಂಡೋಸ್-949)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_950\n"
+"pairedlist.text"
+msgid "Chinese traditional (Windows-950)"
+msgstr "ಚೈನೀಸ್ ಸಾಂಪ್ರದಾಯಿಕ (ವಿಂಡೋಸ್-950)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_SHIFT_JIS\n"
+"pairedlist.text"
+msgid "Japanese (Shift-JIS)"
+msgstr "ಜಾಪನೀಸ್ (Shift-JIS)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GB_2312\n"
+"pairedlist.text"
+msgid "Chinese simplified (GB-2312)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (GB-2312)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GB_18030\n"
+"pairedlist.text"
+msgid "Chinese simplified (GB-18030)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (GB-18030)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GBT_12345\n"
+"pairedlist.text"
+msgid "Chinese traditional (GBT-12345)"
+msgstr "ಚೈನೀಸ್ ಸಾಂಪ್ರದಾಯಿಕ (GBT-12345)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GBK\n"
+"pairedlist.text"
+msgid "Chinese simplified (GBK/GB-2312-80)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (GBK/GB-2312-80)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_BIG5\n"
+"pairedlist.text"
+msgid "Chinese traditional (Big5)"
+msgstr "ಚೈನೀಸ್ ಸಾಂಪ್ರದಾಯಿಕ (Big5)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_BIG5_HKSCS\n"
+"pairedlist.text"
+msgid "Chinese traditional (BIG5-HKSCS)"
+msgstr "ಚೈನೀಸ್ ಸಾಂಪ್ರದಾಯಿಕ (BIG5-HKSCS)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_JP\n"
+"pairedlist.text"
+msgid "Japanese (EUC-JP)"
+msgstr "ಜಾಪನೀಸ್ (EUC-JP)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_CN\n"
+"pairedlist.text"
+msgid "Chinese simplified (EUC-CN)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (EUC-CN)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_TW\n"
+"pairedlist.text"
+msgid "Chinese traditional (EUC-TW)"
+msgstr "ಚೈನೀಸ್ ಸಾಂಪ್ರದಾಯಿಕ (EUC-TW)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_JP\n"
+"pairedlist.text"
+msgid "Japanese (ISO-2022-JP)"
+msgstr "ಜಾಪನೀಸ್ (ISO-2022-JP)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_CN\n"
+"pairedlist.text"
+msgid "Chinese simplified (ISO-2022-CN)"
+msgstr "ಚೈನೀಸ್ ಸರಳೀಕೃತ (ISO-2022-CN)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_KOI8_R\n"
+"pairedlist.text"
+msgid "Cyrillic (KOI8-R)"
+msgstr "ಸಿರಿಲಿಕ್ (KOI8-R)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UTF7\n"
+"pairedlist.text"
+msgid "Unicode (UTF-7)"
+msgstr "ಯೂನಿಕೋಡ್ (UTF-7)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UTF8\n"
+"pairedlist.text"
+msgid "Unicode (UTF-8)"
+msgstr "ಯೂನಿಕೋಡ್ (UTF-8)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_10\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-10)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ISO-8859-10)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_13\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-13)"
+msgstr "ಪೂರ್ವ ಯುರೋಪ್ (ISO-8859-13)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_KR\n"
+"pairedlist.text"
+msgid "Korean (EUC-KR)"
+msgstr "ಕೊರಿಯನ್ (EUC-KR)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_KR\n"
+"pairedlist.text"
+msgid "Korean (ISO-2022-KR)"
+msgstr "ಕೊರಿಯನ್ (ISO-2022-KR)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1361\n"
+"pairedlist.text"
+msgid "Korean (Windows-Johab-1361)"
+msgstr "ಕೊರಿಯನ್ (ವಿಂಡೋಸ್-ಜೊಹಾಬ್-1361)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UCS2\n"
+"pairedlist.text"
+msgid "Unicode (UTF-16)"
+msgstr "ಯೂನಿಕೋಡ್ (UTF-16)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_TIS_620\n"
+"pairedlist.text"
+msgid "Thai (ISO-8859-11/TIS-620)"
+msgstr "ಥಾಯ್ (ISO-8859-11/TIS-620)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_874\n"
+"pairedlist.text"
+msgid "Thai (Windows-874)"
+msgstr "ಥಾಯ್ (ವಿಂಡೋಸ್-874)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_KOI8_U\n"
+"pairedlist.text"
+msgid "Cyrillic (KOI8-U)"
+msgstr "ಸಿರಿಲಿಕ್ (KOI8-U)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_PT154\n"
+"pairedlist.text"
+msgid "Cyrillic (PT154)"
+msgstr "ಸಿರಿಲಿಕ್ (PT154)"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_LATIN\n"
+"string.text"
+msgid "Basic Latin"
+msgstr "ಮೂಲ ಲ್ಯಾಟಿನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_1\n"
+"string.text"
+msgid "Latin-1"
+msgstr "ಲ್ಯಾಟಿನ್-1"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_A\n"
+"string.text"
+msgid "Latin Extended-A"
+msgstr "ಲ್ಯಾಟಿನ್ ವಿಸ್ತರಿಸಿದ-ಎ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_B\n"
+"string.text"
+msgid "Latin Extended-B"
+msgstr "ಲ್ಯಾಟಿನ್ ವಿಸ್ತರಿಸಿದ-ಬಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IPA_EXTENSIONS\n"
+"string.text"
+msgid "IPA Extensions"
+msgstr "IPA ವಿಸ್ತರಣೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SPACING_MODIFIERS\n"
+"string.text"
+msgid "Spacing Modifier Letters"
+msgstr "ಅಂತರ ಮಾರ್ಪಡಿಸುವ ಅಕ್ಷರಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMB_DIACRITICAL\n"
+"string.text"
+msgid "Combining Diacritical Marks"
+msgstr "ಉಚ್ಛಾರ ಚಿಹ್ನೆಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವಿಕೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_GREEK\n"
+"string.text"
+msgid "Basic Greek"
+msgstr "ಮೂಲ ಗ್ರೀಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GREEK_SYMS_COPTIC\n"
+"string.text"
+msgid "Greek Symbols And Coptic"
+msgstr "ಗ್ರೀಕ್ ಚಿಹ್ನೆಗಳು ಮತ್ತು ಕಾಪ್ಟಿಕ್ ಭಾಷೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC\n"
+"string.text"
+msgid "Cyrillic"
+msgstr "ಸಿರಿಲಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARMENIAN\n"
+"string.text"
+msgid "Armenian"
+msgstr "ಅರ್ಮೆನಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_HEBREW\n"
+"string.text"
+msgid "Basic Hebrew"
+msgstr "ಮೂಲ ಹೀಬ್ರೂ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HEBREW_EXTENDED\n"
+"string.text"
+msgid "Hebrew Extended"
+msgstr "ವಿಸ್ತರಿಸಿದ ಹೀಬ್ರೂ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_ARABIC\n"
+"string.text"
+msgid "Basic Arabic"
+msgstr "ಮೂಲ ಅರೇಬಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_EXTENDED\n"
+"string.text"
+msgid "Arabic Extended"
+msgstr "ವಿಸ್ತರಿಸಿದ ಅರೇಬಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DEVANAGARI\n"
+"string.text"
+msgid "Devanagari"
+msgstr "ದೇವನಾಗರಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BENGALI\n"
+"string.text"
+msgid "Bengali"
+msgstr "ಬೆಂಗಾಲಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GURMUKHI\n"
+"string.text"
+msgid "Gurmukhi"
+msgstr "ಗುರುಮುಖಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GUJARATI\n"
+"string.text"
+msgid "Gujarati"
+msgstr "ಗುಜರಾತಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ODIA\n"
+"string.text"
+msgid "Odia"
+msgstr "ಒಡಿಯಾ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAMIL\n"
+"string.text"
+msgid "Tamil"
+msgstr "ತಮಿಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TELUGU\n"
+"string.text"
+msgid "Telugu"
+msgstr "ತೆಲುಗು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANNADA\n"
+"string.text"
+msgid "Kannada"
+msgstr "ಕನ್ನಡ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MALAYALAM\n"
+"string.text"
+msgid "Malayalam"
+msgstr "ಮಲಯಾಳಂ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_THAI\n"
+"string.text"
+msgid "Thai"
+msgstr "ಥಾಯ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LAO\n"
+"string.text"
+msgid "Lao"
+msgstr "ಲಾವೋ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_GEORGIAN\n"
+"string.text"
+msgid "Basic Georgian"
+msgstr "ಮೂಲ ಜಾರ್ಜಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEORGIAN_EXTENDED\n"
+"string.text"
+msgid "Georgian Extended"
+msgstr "ವಿಸ್ತರಿಸಿದ ಜಾರ್ಜಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO\n"
+"string.text"
+msgid "Hangul Jamo"
+msgstr "ಹಾಂಗುಲ್ ಜಾಮೋ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_ADDS\n"
+"string.text"
+msgid "Latin Extended Additionals"
+msgstr "ವಿಸ್ತರಿಸಿದ ಲ್ಯಾಟಿನ್ ಹೆಚ್ಚುವರಿಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GREEK_EXTENDED\n"
+"string.text"
+msgid "Greek Extended"
+msgstr "ವಿಸ್ತರಿಸಿದ ಗ್ರೀಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GENERAL_PUNCTUATION\n"
+"string.text"
+msgid "General punctuation"
+msgstr "ಸಾಮಾನ್ಯ ವಿರಾಮ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUB_SUPER_SCRIPTS\n"
+"string.text"
+msgid "Superscripts and Subscripts"
+msgstr "ಮೇಲಣ ಬರಹ ಮತ್ತು ಕೆಳ ಬರಹ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CURRENCY_SYMBOLS\n"
+"string.text"
+msgid "Currency Symbols"
+msgstr "uಚಲಾವಣೆ ನಾಣ್ಯ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMB_DIACRITIC_SYMS\n"
+"string.text"
+msgid "Combining Diacritical Symbols"
+msgstr "ಉಚ್ಛಾರ ಚಿಹ್ನೆಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವಿಕೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LETTERLIKE_SYMBOLS\n"
+"string.text"
+msgid "Letterlike Symbols"
+msgstr "ಅಕ್ಷರರೂಪಿ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NUMBER_FORMS\n"
+"string.text"
+msgid "Number Forms"
+msgstr "ಅಂಕಿ ನಮೂನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "ಬಾಣಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MATH_OPERATORS\n"
+"string.text"
+msgid "Mathematical Operators"
+msgstr "ಗಣಿತ ಕಾರ್ಯನಿರ್ವಾಹಕಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_TECHNICAL\n"
+"string.text"
+msgid "Miscellaneous Technical"
+msgstr "ಇತರೆ ತಾಂತ್ರಿಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CONTROL_PICTURES\n"
+"string.text"
+msgid "Control Pictures"
+msgstr "ನಿಯಂತ್ರಣ ಚಿತ್ರಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OPTICAL_CHAR_REC\n"
+"string.text"
+msgid "Optical Character Recognition"
+msgstr "ಬೆಳಕಿನಿಂದ ಅಕ್ಷರ ಗುರುತಿಸುವಿಕೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_ALPHANUM\n"
+"string.text"
+msgid "Enclosed Alphanumerics"
+msgstr "ಒಳಗೊಳ್ಳಿಸಲಾದ ಅಕ್ಷರಅಂಕಿಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOX_DRAWING\n"
+"string.text"
+msgid "Box Drawing"
+msgstr "ಚೌಕ ಚಿತ್ರರಚನೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BLOCK_ELEMENTS\n"
+"string.text"
+msgid "Block Elements"
+msgstr "ಬ್ಲಾಕ್‌ ಅಂಶಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEOMETRIC_SHAPES\n"
+"string.text"
+msgid "Geometric Shapes"
+msgstr "ಜ್ಯಾಮಿತಿಯ ರೇಖಾಕೃತಿಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_DINGBATS\n"
+"string.text"
+msgid "Miscellaneous Symbols"
+msgstr "ಇತರೆ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DINGBATS\n"
+"string.text"
+msgid "Dingbats"
+msgstr "ಅಲಂಕಾರಿಕ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_SYMS_PUNCTUATION\n"
+"string.text"
+msgid "CJK Symbols And Punctuation"
+msgstr "CJK ಚಿಹ್ನೆಗಳು ಮತ್ತು ವಿರಾಮ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HIRAGANA\n"
+"string.text"
+msgid "Hiragana"
+msgstr "ಹಿರಗಾನ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KATAKANA\n"
+"string.text"
+msgid "Katakana"
+msgstr "ಕಟಕಾನ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOPOMOFO\n"
+"string.text"
+msgid "Bopomofo"
+msgstr "ಬೋಪೋಮೋಫೋ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_COMPAT_JAMO\n"
+"string.text"
+msgid "Hangul Compatibility Jamo"
+msgstr "ಹಾಂಗುಲ್ ಸಹವರ್ತನೀಯ ಜಾಮೋ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_MISC\n"
+"string.text"
+msgid "CJK Miscellaneous"
+msgstr "CJK ಇತರೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_CJK_LETTERS\n"
+"string.text"
+msgid "Enclosed CJK Letters And Months"
+msgstr "ಒಳಗೊಳ್ಳಿಸಲಾದ CJK ಅಕ್ಷರಗಳು ಮತ್ತು ತಿಂಗಳುಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPATIBILITY\n"
+"string.text"
+msgid "CJK Compatibility"
+msgstr "CJK ಸಹವರ್ತನೀಯ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "ಹಾಂಗುಲ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDGRAPH\n"
+"string.text"
+msgid "CJK Unified Ideographs"
+msgstr "CJK ಒಟ್ಟುಗೂಡಿರುವ ಐಡಿಯೊಗ್ರಾಫ್ಸ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_EXT_A_UNIFIED_IDGRAPH\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension A"
+msgstr "CJK ಒಟ್ಟುಗೂಡಿರುವ ಐಡಿಯೊಗ್ರಾಫ್ಸ್ ವಿಸ್ತರಣೆ A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PRIVATE_USE_AREA\n"
+"string.text"
+msgid "Private Use Area"
+msgstr "ವೈಯಕ್ತಿಕ ಬಳಕೆ ಕ್ಷೇತ್ರ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPAT_IDGRAPHS\n"
+"string.text"
+msgid "CJK Compatibility Ideographs"
+msgstr "CJK ಸಹವರ್ತನೀಯ ಐಡಿಯೊಗ್ರಾಫ್ಸ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ALPHA_PRESENTATION\n"
+"string.text"
+msgid "Alphabetic Presentation Forms"
+msgstr "ವರ್ಣಮಾಲೆ ಪ್ರಸ್ತುತಿ ನಮೂನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_PRESENT_A\n"
+"string.text"
+msgid "Arabic Presentation Forms-A"
+msgstr "ಅರೇಬಿಕ್ ಪ್ರಸ್ತುತಿ ನಮೂನೆಗಳು-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMBINING_HALF_MARKS\n"
+"string.text"
+msgid "Combining Half Marks"
+msgstr "ಅರ್ಧ ಗುರುತುಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವಿಕೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPAT_FORMS\n"
+"string.text"
+msgid "CJK Compatibility Forms"
+msgstr "CJK ಸಹವರ್ತನೀಯ ನಮೂನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SMALL_FORM_VARIANTS\n"
+"string.text"
+msgid "Small Form Variants"
+msgstr "ಚಿಕ್ಕ ನಮೂನೆಯ ರೂಪಾಂತರಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_PRESENT_B\n"
+"string.text"
+msgid "Arabic Presentation Forms-B"
+msgstr "ಅರೇಬಿಕ್ ಪ್ರಸ್ತುತಿ ನಮೂನೆಗಳು-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HALFW_FULLW_FORMS\n"
+"string.text"
+msgid "Half-width and Full-width Forms"
+msgstr "ಅರ್ಧ-ಅಗಲ ಮತ್ತು ಪೂರ್ಣ-ಅಗಲ ನಮೂನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SPECIALS\n"
+"string.text"
+msgid "Specials"
+msgstr "ವಿಶೇಷಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YI_SYLLABLES\n"
+"string.text"
+msgid "Yi Syllables"
+msgstr "ಯಿ ಅಕ್ಷರಗಳು (ಸಿಲಬೆಲ್)"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YI_RADICALS\n"
+"string.text"
+msgid "Yi Radicals"
+msgstr "ಯಿ ರ‍್ಯಾಡಿಕಲ್‌ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_ITALIC\n"
+"string.text"
+msgid "Old Italic"
+msgstr "ಹಳೆ ಇಟಾಲಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GOTHIC\n"
+"string.text"
+msgid "Gothic"
+msgstr "ಗೋತಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DESERET\n"
+"string.text"
+msgid "Deseret"
+msgstr "ಡೆಸೆರೆಟ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BYZANTINE_MUSICAL_SYMBOLS\n"
+"string.text"
+msgid "Byzantine Musical Symbols"
+msgstr "ಬ್ಯಜೆಂಟೈನ್ ಸಂಗೀತದ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MUSICAL_SYMBOLS\n"
+"string.text"
+msgid "Musical Symbols"
+msgstr "ಸಂಗೀತದ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MATHEMATICAL_ALPHANUMERIC_SYMBOLS\n"
+"string.text"
+msgid "Mathematical Alphanumeric Symbols"
+msgstr "ಗಣಿತಶಾಸ್ತ್ರದ ಆಕ್ಷರಸಂಖ್ಯೆಗಳ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_B\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension B"
+msgstr "CJK ಒಟ್ಟುಗೂಡಿರುವ ಐಡಿಯೊಗ್ರಾಫ್ಸ್ ವಿಸ್ತರಣೆ B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_C\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension C"
+msgstr "CJK ಒಟ್ಟುಗೂಡಿರುವ ಐಡಿಯೊಗ್ರಾಫ್ಸ್ ವಿಸ್ತರಣೆ C"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_D\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension D"
+msgstr "CJK ಒಟ್ಟುಗೂಡಿರುವ ಐಡಿಯೊಗ್ರಾಫ್ಸ್ ವಿಸ್ತರಣೆ D"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPATIBILITY_IDEOGRAPHS_SUPPLEMENT\n"
+"string.text"
+msgid "CJK Compatibility Ideographs Supplement"
+msgstr "CJK ಹೊಂದಾಣಿಕೆ ಭಾವಲಿಪಿಗಳ (ಈಡಿಯೋಗ್ರಾಫ್) ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGS\n"
+"string.text"
+msgid "Tags"
+msgstr "ಟ್ಯಾಗ್‌ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_SUPPLEMENTARY\n"
+"string.text"
+msgid "Cyrillic Supplement"
+msgstr "ಸಿರಿಲಿಕ್ ಪೂರಕಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VARIATION_SELECTORS\n"
+"string.text"
+msgid "Variation Selectors"
+msgstr "ಪರಿವರ್ತನಾ ಆಯ್ಕೆಗಾರರು (ವೇರಿಯೋಶನ್ ಸೆಲೆಕ್ಟರ್ಸ್)"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTARY_PRIVATE_USE_AREA_A\n"
+"string.text"
+msgid "Supplementary Private Use Area-A"
+msgstr "ಪೂರಕ ಖಾಸಗಿ ಬಳಕೆ ಜಾಗ-ಎ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTARY_PRIVATE_USE_AREA_B\n"
+"string.text"
+msgid "Supplementary Private Use Area-B"
+msgstr "ವೈಯಕ್ತಿಕ ಬಳಕೆ ಕ್ಷೇತ್ರ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LIMBU\n"
+"string.text"
+msgid "Limbu"
+msgstr "ಲಿಂಬು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_LE\n"
+"string.text"
+msgid "Tai Le"
+msgstr "ಟಾಯಿ ಲೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHMER_SYMBOLS\n"
+"string.text"
+msgid "Khmer Symbols"
+msgstr "ಖಮೇರ್‍ ಸಂಕೇತಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHONETIC_EXTENSIONS\n"
+"string.text"
+msgid "Phonetic Extensions"
+msgstr "ಫೋನೆಟಿಕ್ ವಿಸ್ತರಣೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISCELLANEOUS_SYMBOLS_AND_ARROWS\n"
+"string.text"
+msgid "Miscellaneous Symbols And Arrows"
+msgstr "ಇತರೆ ಸಂಕೇತಗಳು ಹಾಗೂ ಬಾಣಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YIJING_HEXAGRAM_SYMBOLS\n"
+"string.text"
+msgid "Yijing Hexagram Symbols"
+msgstr "ಯಿಜಿಂಗ್ ಹೆಕ್ಸಾಗ್ರಾಮ್ ಸಂಜ್ಞೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LINEAR_B_SYLLABARY\n"
+"string.text"
+msgid "Linear B Syllabary"
+msgstr "ರೇಖೀಯ B ಸಿಲ್ಯಾಬರಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LINEAR_B_IDEOGRAMS\n"
+"string.text"
+msgid "Linear B Ideograms"
+msgstr "ರೇಖೀಯ ಬಿ ಈಡಿಯೋಗ್ರಾಮ್‌ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_AEGEAN_NUMBERS\n"
+"string.text"
+msgid "Aegean Numbers"
+msgstr "ಏಗೀಯಾನ್ ಸಂಖ್ಯೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_UGARITIC\n"
+"string.text"
+msgid "Ugaritic"
+msgstr "ಯುಗಾರಿಟಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SHAVIAN\n"
+"string.text"
+msgid "Shavian"
+msgstr "ಶಾವಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OSMANYA\n"
+"string.text"
+msgid "Osmanya"
+msgstr "ಒಸ್ಮಾನ್ಯ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SINHALA\n"
+"string.text"
+msgid "Sinhala"
+msgstr "ಸಿನ್ಹಲ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TIBETAN\n"
+"string.text"
+msgid "Tibetan"
+msgstr "ಟಿಬೆಟಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MYANMAR\n"
+"string.text"
+msgid "Myanmar"
+msgstr "ಮ್ಯಾನ್ಮಾರ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHMER\n"
+"string.text"
+msgid "Khmer"
+msgstr "ಖಮೇರ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OGHAM\n"
+"string.text"
+msgid "Ogham"
+msgstr "ಓಘಮ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_RUNIC\n"
+"string.text"
+msgid "Runic"
+msgstr "ರುನಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SYRIAC\n"
+"string.text"
+msgid "Syriac"
+msgstr "ಸಿರಿಯಾ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_THAANA\n"
+"string.text"
+msgid "Thaana"
+msgstr "ಥಾನಾ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC\n"
+"string.text"
+msgid "Ethiopic"
+msgstr "ಇಥಿಯೋಪಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHEROKEE\n"
+"string.text"
+msgid "Cherokee"
+msgstr "ಶೆರೋಕಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CANADIAN_ABORIGINAL\n"
+"string.text"
+msgid "Canadan Aboriginal Syllables"
+msgstr "ಕೆನಡಾದ ಮೂಲ ಉಚ್ಛಾರಣೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MONGOLIAN\n"
+"string.text"
+msgid "Mongolian"
+msgstr "ಮಂಗೋಲಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_MATH_SYMS_A\n"
+"string.text"
+msgid "Miscellaneous Mathematical Symbols-A"
+msgstr "ಇತರೆ ಗಣಿತೀಯ ಸಂಕೇತಗಳು-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPL_ARROWS_A\n"
+"string.text"
+msgid "Supplemental Arrows-A"
+msgstr "ಪೂರಕ ಬಾಣಗಳು-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BRAILLE_PATTERNS\n"
+"string.text"
+msgid "Braille Patterns"
+msgstr "ಬ್ರೈಲ್‌ ವಿನ್ಯಾಸಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPL_ARROWS_B\n"
+"string.text"
+msgid "Supplemental Arrows-B"
+msgstr "ಪೂರಕ ಬಾಣಗಳು-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_MATH_SYMS_B\n"
+"string.text"
+msgid "Miscellaneous Mathematical Symbols-B"
+msgstr "ಇತರೆ ಗಣಿತೀಯ ಸಂಕೇತಗಳು-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_RADICAL_SUPPL\n"
+"string.text"
+msgid "CJK Radical Supplement"
+msgstr "CJK ರ‍್ಯಾಡಿಕಲ್ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANGXI_RADICALS\n"
+"string.text"
+msgid "Kangxi Radicals"
+msgstr "Kangxi ರ‍್ಯಾಡಿಕಲ್‌ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IDEO_DESC_CHARS\n"
+"string.text"
+msgid "Ideographic Description Characters"
+msgstr "ಐಡಿಯೋಗ್ರಾಫಿಕ್ ವಿವರಣೆ ಅಕ್ಷರಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGALOG\n"
+"string.text"
+msgid "Tagalog"
+msgstr "ಟ್ಯಾಗಾಲಾಗ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANUNOO\n"
+"string.text"
+msgid "Hanunoo"
+msgstr "ಹನುನೂ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGBANWA\n"
+"string.text"
+msgid "Tagbanwa"
+msgstr "ಟ್ಯಾಗ್‌ಬಾನ್ವಾ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BUHID\n"
+"string.text"
+msgid "Buhid"
+msgstr "ಬುಹಿದ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANBUN\n"
+"string.text"
+msgid "Kanbun"
+msgstr "ಕ್ಯಾನ್‌ಬನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOPOMOFO_EXTENDED\n"
+"string.text"
+msgid "Bopomofo Extended"
+msgstr "ಬೋಪೊಮೋಫೊ ವಿಸ್ತರಿಸಲಾದ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KATAKANA_PHONETIC\n"
+"string.text"
+msgid "Katakana Phonetics"
+msgstr "ಕಟಕಾನ ಫೊನೆಟಿಕ್‌ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_STROKES\n"
+"string.text"
+msgid "CJK Strokes"
+msgstr "CJK ಗೆರೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYPRIOT_SYLLABARY\n"
+"string.text"
+msgid "Cypriot Syllabary"
+msgstr "ಸಿಪ್ರಿಯೊಟ್ ಸಿಲ್ಯಾಬರಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_XUAN_JING_SYMBOLS\n"
+"string.text"
+msgid "Tai Xuan Jing Symbols"
+msgstr "ತಾಯ್‌ ಸುವಾನ್ ಜಿಂಗ್ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VARIATION_SELECTORS_SUPPLEMENT\n"
+"string.text"
+msgid "Variation Selectors Supplement"
+msgstr "ಬದಲಾವಣೆ ಆಯ್ಕೆಗಾರ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_GREEK_MUSICAL_NOTATION\n"
+"string.text"
+msgid "Ancient Greek Musical Notation"
+msgstr "ಪುರಾತನ ಗ್ರೀಕ್ ಸಂಗೀತದ (ಮ್ಯೂಸಿಕಲ್) ಸಂಕೇತಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_GREEK_NUMBERS\n"
+"string.text"
+msgid "Ancient Greek Numbers"
+msgstr "ಪ್ರಾಚೀನ ಗ್ರೀಕ್ ಸಂಖ್ಯೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_SUPPLEMENT\n"
+"string.text"
+msgid "Arabic Supplement"
+msgstr "ಅರೇಬಿಕ್ ಪೂರಕಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BUGINESE\n"
+"string.text"
+msgid "Buginese"
+msgstr "ಬುಗಿನೀಸ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMBINING_DIACRITICAL_MARKS_SUPPLEMENT\n"
+"string.text"
+msgid "Combining Diacritical Marks Supplement"
+msgstr "ಉಚ್ಚಾರಣಾ ಚಿಹ್ನೆ (ಡಯಾಕ್ರಿಟಿಕಲ್) ಗುರುತುಗಳ ಬೆರೆಸುವಿಕೆ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COPTIC\n"
+"string.text"
+msgid "Coptic"
+msgstr "ಕಾಪ್ಟಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_EXTENDED\n"
+"string.text"
+msgid "Ethiopic Extended"
+msgstr "ವಿಸ್ತರಿಸಿದ ಈಥಿಯೋಪಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_SUPPLEMENT\n"
+"string.text"
+msgid "Ethiopic Supplement"
+msgstr "ಈಥಿಯೋಪಿಕ್ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEORGIAN_SUPPLEMENT\n"
+"string.text"
+msgid "Georgian Supplement"
+msgstr "ಜಾರ್ಜೀಯನ್ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GLAGOLITIC\n"
+"string.text"
+msgid "Glagolitic"
+msgstr "ಗ್ಲಾಗೊಲಿಟಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHAROSHTHI\n"
+"string.text"
+msgid "Kharoshthi"
+msgstr "ಖರೊಶ್ಥಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MODIFIER_TONE_LETTERS\n"
+"string.text"
+msgid "Modifier Tone Letters"
+msgstr "ಮಾರ್ಪಡಿಸುವ ಟೋನ್ ಅಕ್ಷರಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NEW_TAI_LUE\n"
+"string.text"
+msgid "New Tai Lue"
+msgstr "ಹೊಸ ಟಾಯಿ ಲ್ಯು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_PERSIAN\n"
+"string.text"
+msgid "Old Persian"
+msgstr "ಹಳೆಯ ಪರ್ಶಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHONETIC_EXTENSIONS_SUPPLEMENT\n"
+"string.text"
+msgid "Phonetic Extensions Supplement"
+msgstr "ಫೋನೆಟಿಕ್ ವಿಸ್ತರಣೆಗಳ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTAL_PUNCTUATION\n"
+"string.text"
+msgid "Supplemental Punctuation"
+msgstr "ಪೂರಕ ವಿರಾಮಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SYLOTI_NAGRI\n"
+"string.text"
+msgid "Syloti Nagri"
+msgstr "ಸೈಲೋಟಿ ನಗ್ರಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TIFINAGH\n"
+"string.text"
+msgid "Tifinagh"
+msgstr "ಟಿಫಿನಾಘ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VERTICAL_FORMS\n"
+"string.text"
+msgid "Vertical Forms"
+msgstr "ಉದ್ದನೆಯ ರೂಪಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NKO\n"
+"string.text"
+msgid "Nko"
+msgstr "Nko"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BALINESE\n"
+"string.text"
+msgid "Balinese"
+msgstr "ಬಾಲಿನೀಸ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_C\n"
+"string.text"
+msgid "Latin Extended-C"
+msgstr "ಲ್ಯಾಟಿನ್ ವಿಸ್ತರಿಸಿದ-ಸಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_D\n"
+"string.text"
+msgid "Latin Extended-D"
+msgstr "ಲ್ಯಾಟಿನ್ ವಿಸ್ತರಿಸಿದ-ಡಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHAGS_PA\n"
+"string.text"
+msgid "Phags-Pa"
+msgstr "ಫಗ್ಸ್-ಪ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHOENICIAN\n"
+"string.text"
+msgid "Phoenician"
+msgstr "ಫೀನಿಸಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CUNEIFORM\n"
+"string.text"
+msgid "Cuneiform"
+msgstr "ಕ್ಯುನಿಫಾರ್ಮ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CUNEIFORM_NUMBERS_AND_PUNCTUATION\n"
+"string.text"
+msgid "Cuneiform Numbers And Punctuation"
+msgstr "ಕ್ಯುನಿಫಾರ್ಮ್ ಅಂಕೆಗಳು ಹಾಗು ವಿರಾಮಚಿಹ್ನೆ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COUNTING_ROD_NUMERALS\n"
+"string.text"
+msgid "Counting Rod Numerals"
+msgstr "ಎಣಿಸುವ Rod ಅಂಕೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUNDANESE\n"
+"string.text"
+msgid "Sundanese"
+msgstr "ಸುಂಡನೀಸ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LEPCHA\n"
+"string.text"
+msgid "Lepcha"
+msgstr "ಲೆಪ್ಚ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OL_CHIKI\n"
+"string.text"
+msgid "Ol Chiki"
+msgstr "ಒಲ್ ಚಿಕಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_EXTENDED_A\n"
+"string.text"
+msgid "Cyrillic Extended-A"
+msgstr "ವಿಸ್ತರಸಿದ ಸಿರಿಲಿಕ್-ಎ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VAI\n"
+"string.text"
+msgid "Vai"
+msgstr "ವೈ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_EXTENDED_B\n"
+"string.text"
+msgid "Cyrillic Extended-B"
+msgstr "ವಿಸ್ತರಿಸಿದ ಸಿರಿಲಿಕ್-ಬಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SAURASHTRA\n"
+"string.text"
+msgid "Saurashtra"
+msgstr "ಸೌರಾಷ್ಟ್ರ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KAYAH_LI\n"
+"string.text"
+msgid "Kayah Li"
+msgstr "ಕಾಯ್ಹ ಲಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_REJANG\n"
+"string.text"
+msgid "Rejang"
+msgstr "ರೆಜಂಗ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHAM\n"
+"string.text"
+msgid "Cham"
+msgstr "ಚಮ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_SYMBOLS\n"
+"string.text"
+msgid "Ancient Symbols"
+msgstr "ಪ್ರಾಚೀನ ಸಂಕೇತಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHAISTOS_DISC\n"
+"string.text"
+msgid "Phaistos Disc"
+msgstr "ಫೈಸ್ಟೋಸ್ ಡಿಸ್ಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LYCIAN\n"
+"string.text"
+msgid "Lycian"
+msgstr "ಲೀಸಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CARIAN\n"
+"string.text"
+msgid "Carian"
+msgstr "ಕರಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LYDIAN\n"
+"string.text"
+msgid "Lydian"
+msgstr "ಲೀಡಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MAHJONG_TILES\n"
+"string.text"
+msgid "Mahjong Tiles"
+msgstr "ಮಾಹ್‌ಜೋಂಗ್ ಇಟ್ಟಿಗೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DOMINO_TILES\n"
+"string.text"
+msgid "Domino Tiles"
+msgstr "ಡೊಮಿನೊ ಇಟ್ಟಿಗೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SAMARITAN\n"
+"string.text"
+msgid "Samaritan"
+msgstr "ಸಮರಿಟಾನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_UNIFIED_CANADIAN_ABORIGINAL_SYLLABICS_EXTENDED\n"
+"string.text"
+msgid "Canadian Aboriginal Syllabics Extended"
+msgstr "ವಿಸ್ತರಿಸಲಾದ ಕೆನಡಿಯನ್ ಆದಿವಾಸಿ ಸಿಲ್ಯಾಬಿಕ್ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_THAM\n"
+"string.text"
+msgid "Tai Tham"
+msgstr "ಟಾಯಿ ತಾಮ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VEDIC_EXTENSIONS\n"
+"string.text"
+msgid "Vedic Extensions"
+msgstr "ವೇದಿಕ್ ವಿಸ್ತರಣೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LISU\n"
+"string.text"
+msgid "Lisu"
+msgstr "ಲಿಸು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BAMUM\n"
+"string.text"
+msgid "Bamum"
+msgstr "ಬಾಮುಮ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMMON_INDIC_NUMBER_FORMS\n"
+"string.text"
+msgid "Common Indic Number Forms"
+msgstr "ಸಾಮಾನ್ಯ ಭಾರತೀಯ ಅಂಕಿ ರೂಪಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DEVANAGARI_EXTENDED\n"
+"string.text"
+msgid "Devanagari Extended"
+msgstr "ದೇವನಾಗರಿ ವಿಸ್ತರಿಸಲಾದ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO_EXTENDED_A\n"
+"string.text"
+msgid "Hangul Jamo Extended-A"
+msgstr "ಹಾಂಗುಲ್ ಜಾಮೋ ವಿಸ್ತರಿಸಲಾದ-ಎ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_JAVANESE\n"
+"string.text"
+msgid "Javanese"
+msgstr "ಜಾವನೀಸ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MYANMAR_EXTENDED_A\n"
+"string.text"
+msgid "Myanmar Extended-A"
+msgstr "ಮ್ಯಾನ್ಮಾರ್ ವಿಸ್ತರಿಸಿದ-ಎ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_VIET\n"
+"string.text"
+msgid "Tai Viet"
+msgstr "ಟಾ ವಿಯೆಟ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEETEI_MAYEK\n"
+"string.text"
+msgid "Meetei Mayek"
+msgstr "ಮೀಟೈ ಮೇಯಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO_EXTENDED_B\n"
+"string.text"
+msgid "Hangul Jamo Extended-B"
+msgstr "ಹಾಂಗುಲ್ ಜಾಮೋ ವಿಸ್ತರಿಸಲಾದ-ಬಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IMPERIAL_ARAMAIC\n"
+"string.text"
+msgid "Imperial Aramaic"
+msgstr "ಇಂಪೀರಿಯಲ್ ಅರಾಮೈಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_SOUTH_ARABIAN\n"
+"string.text"
+msgid "Old South Arabian"
+msgstr "ಹಳೆಯ ದಕ್ಷಿಣ ಅರೇಬಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_AVESTAN\n"
+"string.text"
+msgid "Avestan"
+msgstr "ಅವೆಸ್ತನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_INSCRIPTIONAL_PARTHIAN\n"
+"string.text"
+msgid "Inscriptional Parthian"
+msgstr "ಶಿಲಾಶಾಸನದಲ್ಲಿನ ಪಾರ್ತಿಯನ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_INSCRIPTIONAL_PAHLAVI\n"
+"string.text"
+msgid "Inscriptional Pahlavi"
+msgstr "ಶಿಲಾಶಾಸನದಲ್ಲಿನ ಪಾಹ್ಲವಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_TURKIC\n"
+"string.text"
+msgid "Old Turkic"
+msgstr "ಹಳೆಯ ಟರ್ಕಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_RUMI_NUMERAL_SYMBOLS\n"
+"string.text"
+msgid "Rumi Numeral Symbols"
+msgstr "ರುಮಿ ಅಂಕೀಯ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KAITHI\n"
+"string.text"
+msgid "Kaithi"
+msgstr "ಕೈತಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_EGYPTIAN_HIEROGLYPHS\n"
+"string.text"
+msgid "Egyptian Hieroglyphs"
+msgstr "ಈಜಿಪ್ಟಿನ ಚಿತ್ರಲಿಪಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_ALPHANUMERIC_SUPPLEMENT\n"
+"string.text"
+msgid "Enclosed Alphanumeric Supplement"
+msgstr "ಅಡಕಗೊಳಿಸಲಾದ ಅಕ್ಷರಅಂಕೀಯ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_IDEOGRAPHIC_SUPPLEMENT\n"
+"string.text"
+msgid "Enclosed Ideographic Supplement"
+msgstr "ಅಡಕಗೊಳಿಸಲಾದ ಐಡಿಯೋಗ್ರಾಫಿಕ್ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MANDAIC\n"
+"string.text"
+msgid "Mandaic"
+msgstr "ಮೆಂಡಾಯಿಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BATAK\n"
+"string.text"
+msgid "Batak"
+msgstr "ಬಾಟಕ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_EXTENDED_A\n"
+"string.text"
+msgid "Ethiopic Extended-A"
+msgstr "ವಿಸ್ತರಿಸಿದ ಈಥಿಯೋಪಿಕ್-ಎ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BRAHMI\n"
+"string.text"
+msgid "Brahmi"
+msgstr "ಬ್ರಾಹ್ಮಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BAMUM_SUPPLEMENT\n"
+"string.text"
+msgid "Bamum Supplement"
+msgstr "ಬಾಮುಮ್ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANA_SUPPLEMENT\n"
+"string.text"
+msgid "Kana Supplement"
+msgstr "ಕನಾ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PLAYING_CARDS\n"
+"string.text"
+msgid "Playing Cards"
+msgstr "ಆಟದ ಕಾರ್ಡುಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISCELLANEOUS_SYMBOLS_AND_PICTOGRAPHS\n"
+"string.text"
+msgid "Miscellaneous Symbols And Pictographs"
+msgstr "ಇತರೆ ಸಂಕೇತಗಳು ಹಾಗೂ ಚಿತ್ರನಕ್ಷೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr "ಎಮೋಟಿಕಾನ್‌ಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TRANSPORT_AND_MAP_SYMBOLS\n"
+"string.text"
+msgid "Transport And Map Symbols"
+msgstr "ವರ್ಗಾವಣೆ ಮತ್ತು ನಕ್ಷೆಯ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ALCHEMICAL_SYMBOLS\n"
+"string.text"
+msgid "Alchemical Symbols"
+msgstr "ರಸವಿದ್ಯೆ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_EXTENDED_A\n"
+"string.text"
+msgid "Arabic Extended-A"
+msgstr "ವಿಸ್ತರಿಸಿದ ಅರೇಬಿಕ್-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_MATHEMATICAL_ALPHABETIC_SYMBOLS\n"
+"string.text"
+msgid "Arabic Mathematical Alphabetic Symbols"
+msgstr "ಅರೇಬಿಕ್ ಗಣಿತಶಾಸ್ತ್ರದ ವರ್ಣಮಾಲೆ ಚಿಹ್ನೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHAKMA\n"
+"string.text"
+msgid "Chakma"
+msgstr "ಚಕ್ಮಾ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEETEI_MAYEK_EXTENSIONS\n"
+"string.text"
+msgid "Meetei Mayek Extensions"
+msgstr "ಮೀಟೈ ಮೇಯಕ್ ವಿಸ್ತರಣೆಗಳು"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEROITIC_CURSIVE\n"
+"string.text"
+msgid "Meroitic Cursive"
+msgstr "ಮೆರಿಯೋಟಿಕ್ ಕರ್ಸೀವ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEROITIC_HIEROGLYPHS\n"
+"string.text"
+msgid "Meroitic Hieroglyphs"
+msgstr "ಮೆರಿಯೋಟಿಕ್ ಚಿತ್ರಲಿಪಿ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MIAO\n"
+"string.text"
+msgid "Miao"
+msgstr "ಮಿಯಾವೊ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SHARADA\n"
+"string.text"
+msgid "Sharada"
+msgstr "ಶಾರದಾ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SORA_SOMPENG\n"
+"string.text"
+msgid "Sora Sompeng"
+msgstr "ಸೋರಾ ಸೋಂಪೆಂಗ್"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUNDANESE_SUPPLEMENT\n"
+"string.text"
+msgid "Sundanese Supplement"
+msgstr "ಸುಂಡಾನೀಸ್ ಪೂರಕ"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAKRI\n"
+"string.text"
+msgid "Takri"
+msgstr "ಟಕ್ರಿ"

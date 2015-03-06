@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03102450xhp" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">IsError Function [Runtime]</title>
+<filename>/text/sbasic/shared/03102450.xhp</filename>
+</topic>
+<history>
+<created date="2005-04-25T12:20:38">IsError</created>
+<lastedited date="2005-04-27T10:53:53"/>
+</history>
+</meta>
+<body>
+<section id="iserror">
+<bookmark xml-lang="en-US" branch="index" id="bm_id4954680"><bookmark_value>IsError function</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="par_idN1054E" xml-lang="en-US" level="1" l10n="NEW"><link href="text/sbasic/shared/03102450.xhp">IsError Function [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_idN1055E" xml-lang="en-US" l10n="NEW">Tests if a variable contains an error value.</paragraph>
+</section>
+<paragraph role="heading" id="par_idN10561" xml-lang="en-US" level="2" l10n="NEW">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_idN10565" xml-lang="en-US">IsError (Var)</paragraph>
+</bascode>
+<paragraph role="heading" id="par_idN10568" xml-lang="en-US" level="2" l10n="NEW">Return value:</paragraph>
+<paragraph role="paragraph" id="par_idN1056C" xml-lang="en-US" l10n="NEW">Bool</paragraph>
+<paragraph role="heading" id="par_idN1056F" xml-lang="en-US" level="2" l10n="NEW">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_idN10573" xml-lang="en-US" l10n="NEW">
+<emph>Var:</emph> Any variable that you want to test. If the variable contains an error value, the function returns True, otherwise the function returns False.</paragraph>
+</body>
+</helpdocument>

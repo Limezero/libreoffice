@@ -1,0 +1,996 @@
+#. extracted from sfx2/source/doc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2015-02-08 15:55+0200\n"
+"Last-Translator: sophie <gautier.sophie@gmail.com>\n"
+"Language-Team: ll.org\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-POOTLE-MTIME: 1366024632.0\n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DELETE_REGION\n"
+"string.text"
+msgid "Are you sure you want to delete the region \"$1\"?"
+msgstr "Voulez-vous vraiment supprimer la catégorie \"$1\" ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DELETE_TEMPLATE\n"
+"string.text"
+msgid "Are you sure you want to delete the entry \"$1\"?"
+msgstr "Voulez-vous vraiment supprimer l'entrée \"$1\" ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_STYLES\n"
+"string.text"
+msgid "Styles"
+msgstr "Styles"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MACROS\n"
+"string.text"
+msgid "Macros"
+msgstr "Macros"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CONFIG\n"
+"string.text"
+msgid "Configuration"
+msgstr "Configuration"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PRINT_STYLES_HEADER\n"
+"string.text"
+msgid "Styles in "
+msgstr "Styles dans "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PRINT_STYLES\n"
+"string.text"
+msgid "Printing Styles"
+msgstr "Impression des styles"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_BACKUP_COPY\n"
+"string.text"
+msgid "Copy"
+msgstr "Copier"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_SAVE\n"
+"string.text"
+msgid "Error recording document "
+msgstr "Erreur lors de l'écriture du document "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPLATE_FILTER\n"
+"string.text"
+msgid "Templates"
+msgstr "Modèles"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_COPY_TEMPLATE\n"
+"string.text"
+msgid ""
+"Error copying template \"$1\". \n"
+"A template with this name may already exist."
+msgstr ""
+"Erreur lors de la copie du modèle \"$1\". \n"
+"Il se peut qu'il existe déjà."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_DELETE_TEMPLATE\n"
+"string.text"
+msgid "The template \"$1\" can not be deleted."
+msgstr "Impossible de supprimer le modèle \"$1\"."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_MOVE_TEMPLATE\n"
+"string.text"
+msgid "Error moving template \"$1\"."
+msgstr "Erreur lors du déplacement du modèle \"$1\"."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_SAVE_TEMPLATE\n"
+"string.text"
+msgid "Error saving template "
+msgstr "Erreur lors de l'enregistrement du modèle"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QUERY_DEFAULT_TEMPLATE\n"
+"string.text"
+msgid "Should the template \"$(TEXT)\" become the default template?"
+msgstr "Souhaitez-vous faire du modèle \"$(TEXT)\" le modèle par défaut ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_NOSTORAGE\n"
+"string.text"
+msgid "The selected file has an incorrect format."
+msgstr "Le fichier sélectionné a un format incorrect."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QUERY_MUSTOWNFORMAT\n"
+"string.text"
+msgid ""
+"Documents cannot be saved in $(FORMAT) format. Do you\n"
+"want to save your changes using the $(OWNFORMAT) format?"
+msgstr ""
+"Impossible d'enregistrer les documents au format $(FORMAT).\n"
+"Souhaitez-vous enregistrer le document au format $(OWNFORMAT) ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEDOC\n"
+"string.text"
+msgid "~Save"
+msgstr "~Enregistrer"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_UPDATEDOC\n"
+"string.text"
+msgid "~Update"
+msgstr "~Actualiser"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEASDOC\n"
+"string.text"
+msgid "Save ~As..."
+msgstr "Enregistrer ~sous..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVECOPYDOC\n"
+"string.text"
+msgid "Save Copy ~as..."
+msgstr "Enregistrer une copie ~sous..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy..."
+msgstr "Enregistrer une copie..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CLOSEDOC\n"
+"string.text"
+msgid "~Close"
+msgstr "~Fermer"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CLOSEDOC_ANDRETURN\n"
+"string.text"
+msgid "~Close & Return to "
+msgstr "~Fermer & retourner à "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_WIZARD\n"
+"string.text"
+msgid " AutoPilot"
+msgstr "Assistant"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_FILTCONFIG\n"
+"string.text"
+msgid "Configurations"
+msgstr "Configurations"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_FILTBASIC\n"
+"string.text"
+msgid "%PRODUCTNAME Basic libraries"
+msgstr "Bibilothèques %PRODUCTNAME Basic"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_WARNSTYLEOVERWRITE\n"
+"string.text"
+msgid "Should the \"$(ARG1)\" Style be replaced?"
+msgstr "Voulez-vous vraiment remplacer le style \"$(ARG1)\" ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EDIT\n"
+"string.text"
+msgid "Edit"
+msgstr "Éditer"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_OFFICEFILTER\n"
+"string.text"
+msgid "%PRODUCTNAME Documents"
+msgstr "Documents %PRODUCTNAME"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FRAMEOBJECT_PROPERTIES\n"
+"string.text"
+msgid "Propert~ies..."
+msgstr "~Propriétés..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FSET_FILTERNAME0\n"
+"string.text"
+msgid "HTML (FrameSet)"
+msgstr "HTML (FrameSet)"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FSET_FILTERNAME1\n"
+"string.text"
+msgid "%PRODUCTNAME Frame Document"
+msgstr "Document cadre %PRODUCTNAME"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPL_MOVED\n"
+"string.text"
+msgid "The template \"$(TEMPLATE)\" was not found at the original location. A template with the same name exists at \"$(FOUND)\". Should this template be used in the future when comparing?"
+msgstr "Le modèle \"$(TEMPLATE)\" n'a pas été trouvé à son emplacement d'origine. Un modèle du même nom a été détecté sur le chemin \"$(FOUND)\". Voulez-vous que ce modèle soit utilisé à l'avenir en remplacement du modèle introuvable ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPL_RESET\n"
+"string.text"
+msgid "The template \"$(TEMPLATE)\" has not been found. Should the template be looked for the next time the document is opened ?"
+msgstr "Le modèle \"$(TEMPLATE)\" est introuvable. Devra-t-il être recherché à la prochaine ouverture du document ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_AUTOMATICVERSION\n"
+"string.text"
+msgid "Automatically saved version"
+msgstr "Version enregistrée automatiquement"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SW\n"
+"string.text"
+msgid "Text Document"
+msgstr "Document texte"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SWWEB\n"
+"string.text"
+msgid "HTML Document"
+msgstr "Document HTML"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SWGLOB\n"
+"string.text"
+msgid "Master Document"
+msgstr "Document maître"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SC\n"
+"string.text"
+msgid "Spreadsheet"
+msgstr "Classeur"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SI\n"
+"string.text"
+msgid "Presentation"
+msgstr "Présentation"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SD\n"
+"string.text"
+msgid "Drawing"
+msgstr "Dessin"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_MESSAGE\n"
+"string.text"
+msgid "Message"
+msgstr "Message"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PACKNGO_NOACCESS\n"
+"string.text"
+msgid "Access to the current data medium not possible."
+msgstr "Impossible d'accéder au média de données actuel."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PACKNGO_NEWMEDIUM\n"
+"string.text"
+msgid "Insert the next data carrier and click OK."
+msgstr "Insérez le média suivant et cliquez sur OK."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Objet"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"BTN_OK\n"
+"string.text"
+msgid "Run"
+msgstr "Exécuter"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"BTN_CANCEL\n"
+"string.text"
+msgid "Do Not Run"
+msgstr "Ne pas exécuter"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"FT_CANCEL\n"
+"string.text"
+msgid "According to the security settings, the macros in this document should not be run. Do you want to run them anyway?"
+msgstr "Normalement, les paramètres de sécurité n'autorisent pas l'exécution des macros de ce document. Les exécuter tout de même ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"FT_OK\n"
+"string.text"
+msgid "Do you want to allow these macros to be run?"
+msgstr "Voulez-vous autoriser l'exécution de ces macros ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTASPDF_TITLE\n"
+"string.text"
+msgid "Export as PDF"
+msgstr "Exporter comme fichier PDF"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTWITHCFGBUTTON\n"
+"string.text"
+msgid "Export..."
+msgstr "Exporter..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTBUTTON\n"
+"string.text"
+msgid "Export"
+msgstr "Exporter"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_SVXSTR_SECURITY_ADDPATH\n"
+"string.text"
+msgid "Add this directory to the list of secure paths: "
+msgstr "Ajouter ce répertoire à la liste des chemins sécurisés : "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_LABEL_FILEFORMAT\n"
+"string.text"
+msgid "File format:"
+msgstr "Format de fichier :"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTAINS\n"
+"string.text"
+msgid ""
+"This document contains:\n"
+"\n"
+msgstr ""
+"Ce document contient :\n"
+"\n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_RECORDCHANGES\n"
+"string.text"
+msgid "Recorded changes"
+msgstr "Modifications enregistrées"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "Remarques"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_DOCVERSIONS\n"
+"string.text"
+msgid "Document versions"
+msgstr "Versions du document"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_FIELDS\n"
+"string.text"
+msgid "Fields"
+msgstr "Champs"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_LINKDATA\n"
+"string.text"
+msgid "Linked data..."
+msgstr "Données liées..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_SAVING\n"
+"string.text"
+msgid "Do you want to continue saving the document?"
+msgstr "Voulez-vous poursuivre l'enregistrement du document ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_PRINTING\n"
+"string.text"
+msgid "Do you want to continue printing the document?"
+msgstr "Voulez-vous poursuivre l'impression du document ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_SIGNING\n"
+"string.text"
+msgid "Do you want to continue signing the document?"
+msgstr "Voulez-vous poursuivre la signature du document ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_CREATEPDF\n"
+"string.text"
+msgid "Do you want to continue creating a PDF file?"
+msgstr "Voulez-vous poursuivre la création du fichier PDF ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_NEW_FILENAME_SAVE\n"
+"string.text"
+msgid "If you do not want to overwrite the original document, you should save your work under a new filename."
+msgstr "Si vous ne voulez pas écraser le document d'origine, enregistrez votre travail sous un nouveau nom de fichier."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_DELETE_TEMPLATE_DIR\n"
+"string.text"
+msgid "Some template files are protected and can not be deleted."
+msgstr "Certains modèles sont protégés et ne peuvent pas être supprimés."
+
+#. pb: %1 == a number [1-4]
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCINFO_INFOFIELD\n"
+"string.text"
+msgid "Info %1"
+msgstr "Info %1"
+
+#. Used in the title of a shared document.
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SHARED\n"
+"string.text"
+msgid " (shared)"
+msgstr " (partagé)"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_XMLSEC_ODF12_EXPECTED\n"
+"string.text"
+msgid "The document format version is set to ODF 1.1 (OpenOffice.org 2.x) in Tools-Options-Load/Save-General. Signing documents requires ODF 1.2 (OpenOffice.org 3.x)."
+msgstr "La version du format du document est définie sur ODF 1.1 (OpenOffice.org 2.x) dans Outils-Options-Chargement/Enregistrement-Général. La signature du document nécessite ODF 1.2 (OpenOffice.org 3.x)."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_XMLSEC_QUERY_SAVESIGNEDBEFORESIGN\n"
+"string.text"
+msgid ""
+"The document has to be saved before it can be signed. Saving the document removes all present signatures.\n"
+"Do you want to save the document?"
+msgstr ""
+"Le document doit être enregistré avant de pouvoir être signé. L'enregistrement du document supprime toutes les signatures présentes.\n"
+"Voulez-vous enregistrer le document ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_MESSAGE\n"
+"string.text"
+msgid "The template '$(ARG1)' on which this document is based, has been modified. Do you want to update style based formatting according to the modified template?"
+msgstr "Le modèle '$(ARG1)' sur lequel le document est basé, a été modifié. Voulez-vous actualiser le formatage basé sur les styles en fonction du modèle modifié ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_UPDATE_BTN\n"
+"string.text"
+msgid "~Update Styles"
+msgstr "~Actualiser les styles"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_KEEP_BTN\n"
+"string.text"
+msgid "~Keep Old Styles"
+msgstr "~Conserver les anciens styles"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_SORT_NAME\n"
+"string.text"
+msgid "Sort by name"
+msgstr "Trier par nom"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_REFRESH\n"
+"string.text"
+msgid "Refresh"
+msgstr "Actualiser"
+
+#. leave ending space
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_DEFAULT\n"
+"string.text"
+msgid "Reset Default Template "
+msgstr "Rétablir le modèle par défaut"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MOVE_NEW\n"
+"string.text"
+msgid "New folder"
+msgstr "Nouveau dossier"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_INPUT_NEW\n"
+"string.text"
+msgid "Enter folder name:"
+msgstr "Saisir le nom du dossier :"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_REPOSITORY_LOCAL\n"
+"string.text"
+msgid "Local"
+msgstr "Local"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_REPOSITORY_NEW\n"
+"string.text"
+msgid "New Repository"
+msgstr "Nouveau dépôt"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_LOCAL_MOVE\n"
+"string.text"
+msgid ""
+"Error moving the following templates to $1.\n"
+"$2"
+msgstr ""
+"Erreur lors du déplacement des modèles suivants dans $1 :\n"
+"$2"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_REMOTE_MOVE\n"
+"string.text"
+msgid ""
+"Error moving the following templates from repository $1 to folder $2.\n"
+"$3"
+msgstr ""
+"Erreur lors du déplacement des modèles suivants du dépôt $1 dans le dossier $2.\n"
+"$3"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_EXPORT\n"
+"string.text"
+msgid ""
+"Error exporting the following templates:\n"
+"$1"
+msgstr ""
+"Erreur lors de l'export des modèles suivants :\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_IMPORT\n"
+"string.text"
+msgid ""
+"Error importing the following templates to $1:\n"
+"$2"
+msgstr ""
+"Erreur lors de l'import des modèles suivants dans $1 :\n"
+"$2"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_DELETE_TEMPLATE\n"
+"string.text"
+msgid ""
+"The following templates cannot be deleted:\n"
+"$1"
+msgstr ""
+"Les modèles suivants ne peuvent pas être supprimés :\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_DELETE_FOLDER\n"
+"string.text"
+msgid ""
+"The following folders cannot be deleted:\n"
+"$1"
+msgstr ""
+"Les dossiers suivants ne peuvent pas être supprimés :\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_REPOSITORY_NAME\n"
+"string.text"
+msgid ""
+"Failed to create repository \"$1\".\n"
+"A repository with this name may already exist."
+msgstr ""
+"Échec lors de la création du dépôt \"$1\".\n"
+"Un dépôt du même nom existe peut-être déjà."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_SELECT_FOLDER\n"
+"string.text"
+msgid "Select the destination folder(s) to save the template."
+msgstr "Sélectionner le ou les dossiers de destination pour enregistrer le modèle."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_INPUT_TEMPLATE_NEW\n"
+"string.text"
+msgid "Enter template name:"
+msgstr "Saisir le nom du modèle :"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_SEL_FOLDER_DELETE\n"
+"string.text"
+msgid "Do you want to delete the selected folders?"
+msgstr "Voulez-vous supprimer les dossiers sélectionnés ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_TEMPLATE_OVERWRITE\n"
+"string.text"
+msgid "A template named $1 already exist in $2. Do you want to overwrite it?"
+msgstr "Un modèle nommé $1 existe déjà dans $2. Voulez-vous l'écraser ?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_SEL_TEMPLATE_DELETE\n"
+"string.text"
+msgid "Do you want to delete the selected templates?"
+msgstr "Voulez-vous supprimer les modèles sélectionnés ?"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"My Templates\n"
+"itemlist.text"
+msgid "My Templates"
+msgstr "Mes modèles"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Business Correspondence\n"
+"itemlist.text"
+msgid "Business Correspondence"
+msgstr "Correspondance commerciale"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Other Business Documents\n"
+"itemlist.text"
+msgid "Other Business Documents"
+msgstr "Documents commerciaux divers"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Personal Correspondence and Documents\n"
+"itemlist.text"
+msgid "Personal Correspondence and Documents"
+msgstr "Correspondance et documents privés"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Forms and Contracts\n"
+"itemlist.text"
+msgid "Forms and Contracts"
+msgstr "Formulaires et contrats"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Finances\n"
+"itemlist.text"
+msgid "Finances"
+msgstr "Économie"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Education\n"
+"itemlist.text"
+msgid "Education"
+msgstr "Éducation"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Presentation Backgrounds\n"
+"itemlist.text"
+msgid "Presentation Backgrounds"
+msgstr "Arrière-plans de présentation"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Presentations\n"
+"itemlist.text"
+msgid "Presentations"
+msgstr "Présentations"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Miscellaneous\n"
+"itemlist.text"
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Labels\n"
+"itemlist.text"
+msgid "Labels"
+msgstr "Étiquettes"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"RID_CNT_STR_WAITING\n"
+"string.text"
+msgid "The templates are being initialized for first-time usage."
+msgstr "Initialisation des modèles pour une première utilisation."
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME1\n"
+"string.text"
+msgid "Abstract Green"
+msgstr "Résumé vert"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME2\n"
+"string.text"
+msgid "Abstract Red"
+msgstr "Résumé rouge"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME3\n"
+"string.text"
+msgid "Abstract Yellow"
+msgstr "Résumé jaune"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME4\n"
+"string.text"
+msgid "Bright Blue"
+msgstr "Bleu vif"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME5\n"
+"string.text"
+msgid "DNA"
+msgstr "ADN"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME6\n"
+"string.text"
+msgid "Inspiration"
+msgstr "Inspiration"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME7\n"
+"string.text"
+msgid "Lush Green"
+msgstr "Verdoyant"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME8\n"
+"string.text"
+msgid "Metropolis"
+msgstr "Metropolis"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME9\n"
+"string.text"
+msgid "Sunset"
+msgstr "Coucher de soleil"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME10\n"
+"string.text"
+msgid "Vintage"
+msgstr "Millésime"

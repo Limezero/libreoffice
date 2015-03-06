@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03080801xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">Hex Function [Runtime]</title>
+<filename>/text/sbasic/shared/03080801.xhp</filename>
+</topic>
+<history>
+<created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+<lastedited date="2004-08-24T12:46:16">converted from old format - fpe</lastedited>
+</history>
+</meta>
+<body>
+<section id="hex">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3150616"><bookmark_value>Hex function</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="hd_id3150616" xml-lang="en-US" level="1" l10n="U" oldref="1"><link href="text/sbasic/shared/03080801.xhp" name="Hex Function [Runtime]">Hex Function [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_id3145136" xml-lang="en-US" l10n="U" oldref="2">Returns a string that represents the hexadecimal value of a number.</paragraph>
+</section>
+<paragraph role="heading" id="hd_id3147573" xml-lang="en-US" level="2" l10n="U" oldref="3">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_id3150771" xml-lang="en-US" oldref="4">Hex (Number)</paragraph>
+</bascode>
+<paragraph role="heading" id="hd_id3147530" xml-lang="en-US" level="2" l10n="U" oldref="5">Return value:</paragraph>
+<paragraph role="paragraph" id="par_id3159414" xml-lang="en-US" l10n="U" oldref="6">String</paragraph>
+<paragraph role="heading" id="hd_id3156344" xml-lang="en-US" level="2" l10n="U" oldref="7">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_id3148947" xml-lang="en-US" l10n="U" oldref="8">
+<emph>Number:</emph> Any numeric expression that you want to convert to a hexadecimal number.</paragraph>
+<embed href="text/sbasic/shared/00000003.xhp#errorcode"/>
+<embed href="text/sbasic/shared/00000003.xhp#err5"/>
+<paragraph role="heading" id="hd_id3154365" xml-lang="en-US" level="2" l10n="U" oldref="9">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Sub ExampleHex</paragraph>
+<paragraph role="bascode" id="par_id3156214" xml-lang="en-US" l10n="U" oldref="30">' uses BasicFormulas in $[officename] Calc</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim a2, b2, c2 As String</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    a2 = "&amp;H3E8"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    b2 = Hex2Int(a2)</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    MsgBox b2</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    c2 = Int2Hex(b2)</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    MsgBox c2</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Sub</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US"> </paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Function Hex2Int( sHex As String ) As Long</paragraph>
+<paragraph role="bascode" id="par_id3149262" xml-lang="en-US" l10n="U" oldref="20">' Returns a long integer from a hexadecimal value.</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Hex2Int = clng( sHex )</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Function</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US"> </paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Function Int2Hex( iLong As Long) As String</paragraph>
+<paragraph role="bascode" id="par_id3147215" xml-lang="en-US" l10n="U" oldref="25">' Calculates a hexadecimal value in integer.</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    Int2Hex = "&amp;H" &amp; Hex( iLong )</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Function</paragraph>
+</bascode>
+</body>
+</helpdocument>

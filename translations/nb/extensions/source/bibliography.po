@@ -1,0 +1,312 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-26 19:56+0100\n"
+"PO-Revision-Date: 2015-02-19 21:46+0000\n"
+"Last-Translator: Olav <odahlum@gmail.com>\n"
+"Language-Team: Norwegian Bokmål <>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1424382370.000000\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "Feltvalg:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Tabell;Spørring;Sql;Sql [lokalt]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "Litteraturdatabase"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "Vil du redigere kolonneoppsettet?"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<ingen>"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr "Klarte ikke å tilordne følgende kolonnenavn:\n"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "Artikkel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "Bok"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "Brosjyrer"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Konferansereferat"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "Bokutdrag"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "Bokutdrag med tittel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Konferansereferat"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr "Tidsskrift"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr "Teknisk dokumentasjon"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "Avhandling"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "Forskjellig"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "Doktoravhandling"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr "Konferansereferat"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "Forskingsrapport"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "Upublisert"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "E-post"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "Nettside"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "Selvvalgt 1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr "Selvvalgt 2"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr "Selvvalgt 3"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr "Selvvalgt 4"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr "Selvvalgt 5"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_TITLE\n"
+"string.text"
+msgid "General"
+msgstr "Generelt"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "Tabell"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "Søkenøkkel"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "Autofilter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr "Standardfilter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr "Tilbakestill filter"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "Kolonneoppsett"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "Datakilde"

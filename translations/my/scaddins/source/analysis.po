@@ -1,0 +1,6971 @@
+#. extracted from scaddins/source/analysis
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-08 01:06+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date before or after a specified number of workdays"
+msgstr "ရက်စွဲအတွက် အစဉ်လိုက်ရှိသော ကိန်းဂဏန်းတစ်ခုကို အရင်ပြန်ပါ။ (သို့) အလုပ်လုပ်သော ရက်များအတွက် သီးခြားသတ်မှတ်ထားသော ကိန်းဂဏန်းတစ်ခု ကို နောက်မှ ပြန်ပါ။  "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"4\n"
+"string.text"
+msgid "Days"
+msgstr "နေ့ရက်များ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"5\n"
+"string.text"
+msgid "The number of workdays before or after the start date"
+msgstr "အလုပ်လုပ်သောရက်များမတိုင်မီ(သို့)စတင်ပြီးနောက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "အားလပ်ရက်များ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Workday\n"
+"7\n"
+"string.text"
+msgid "List of date values of days off (vacation, holidays, etc.)"
+msgstr "အလုပ်ပိတ်သောရက်များ၏စာရင်း (အားလပ်ရက်တစ်ရက်၊အားလပ်ရက်များ အစရှိသဖြင့်)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"1\n"
+"string.text"
+msgid "Returns the number of years (including fractional part) between two dates"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "အဆုံး ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "အဆုံး ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"6\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yearfrac\n"
+"7\n"
+"string.text"
+msgid "Basis indicates the day-count convention to use in the calculation"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the date that is a specified number of months before or after the start date"
+msgstr "ရက်စွဲအတွက် အစဉ်လိုက်ရှိသော ကိန်းဂဏန်းတစ်ခုကို အရင်ပြန်ပါ။ (သို့) အလုပ်လုပ်သော ရက်များအတွက် သီးခြားသတ်မှတ်ထားသော ကိန်းဂဏန်း တစ်ခုကို နောက်မှ ပြန်ပါ။  "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "လများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Edate\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "အလုပ်လုပ်သောလများမတိုင်မီ(သို့)စတင်ပြီးနောက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of the calendar week in which the specified date occurs."
+msgstr "သီးခြားသတ်မှတ်ထားသောရက်များအတွင်းမှ တစ်ပတ်၏ ပြက္ခဒိန်နေ့စွဲများကိုပြန်သည်။ "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"3\n"
+"string.text"
+msgid "The date"
+msgstr "ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"4\n"
+"string.text"
+msgid "Return type"
+msgstr "ပြန်သည့်အမျိုးအစား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Weeknum\n"
+"5\n"
+"string.text"
+msgid "Indicates the first day of the week (1 = Sunday, other values = Monday)"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"1\n"
+"string.text"
+msgid "Returns the serial number of the last day of the month that comes a certain number of months before or after the start date"
+msgstr "ရက်စွဲအတွက် အစဉ်လိုက်ရှိသော ကိန်းဂဏန်းတစ်ခုကို အရင်ပြန်ပါ။ (သို့) အလုပ်လုပ်သော ရက်များအတွက် သီးခြားသတ်မှတ်ထားသော ကိန်းဂဏန်းတစ်ခုကို နောက်မှ ပြန်ပါ။  "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"4\n"
+"string.text"
+msgid "Months"
+msgstr "လများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Eomonth\n"
+"5\n"
+"string.text"
+msgid "Number of months before or after the start date"
+msgstr "အလုပ်လုပ်သောလများမတိုင်မီ(သို့)စတင်ပြီးနောက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of workdays between two dates"
+msgstr "နေ့စွဲနှစ်ခုကြားရှိအလုပ်လုပ်သောရက်များ၏အရေအတွက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"3\n"
+"string.text"
+msgid "The start date"
+msgstr "အစ ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "အဆုံး ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"5\n"
+"string.text"
+msgid "The end date"
+msgstr "အဆုံး ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"6\n"
+"string.text"
+msgid "Holidays"
+msgstr "အားလပ်ရက်များ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Networkdays\n"
+"7\n"
+"string.text"
+msgid "List of date values representing days off (vacation, holidays, etc.)"
+msgstr "အလုပ်ပိတ်သောရက်များ၏စာရင်း (အားလပ်ရက်တစ်ရက်၊အားလပ်ရက်များ အစရှိသဖြင့်)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is even"
+msgstr "ကိန်းဂဏန်းသည်စုံဖြစ်လျှင်‘မှန်သည်’ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Iseven\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"1\n"
+"string.text"
+msgid "Returns the value 'true' if the number is odd"
+msgstr "ကိန်းဂဏန်းသည်မဖြစ်လျှင်‘မှန်သည်’ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Isodd\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"1\n"
+"string.text"
+msgid "Returns the multinomial coefficient of a set of numbers"
+msgstr "ကိန်းဂဏန်းများအစုတစ်ခု၏ မာတီနိုမီယယ်မြှောက်ဖော်ကိန်းကိုပြန်သည် "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "နံပါတ်(များ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Multinomial\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers for which you want the multinomial coefficient"
+msgstr "သင်အလိုရှိသော မာတီနိုမီယယ်မြှောက်ဖော်ကိန်းအတွက် ကိန်းဂဏန်းတစ်ခု(သို့)ကိန်းဂဏန်းစာရင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of a power series"
+msgstr "ထပ်ညွှန်းအတွဲတစ်ခု၏ ပေါင်းလဒ်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"3\n"
+"string.text"
+msgid "The independent variable of the power series"
+msgstr "ထပ်ညွှန်းအတွဲ၏ လွတ်လပ်သောကိန်းရှင်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"5\n"
+"string.text"
+msgid "The initial power to which x is to be raised"
+msgstr "x တန်ဖိုးမြှင့်ရန် အစပြုပါဝါ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"6\n"
+"string.text"
+msgid "M"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"7\n"
+"string.text"
+msgid "The increment by which to increase n for each term in the series"
+msgstr "အတွဲများအတွင်းရှိ nတန်ဖိုးတိုးရန်အတွက် "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"8\n"
+"string.text"
+msgid "Coefficients"
+msgstr "မြှောက်ဖော်ကိန်းများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Seriessum\n"
+"9\n"
+"string.text"
+msgid "Set of coefficients by which each successive power of the variable x is multiplied"
+msgstr "မြှောက်ဖော်ကိန်းအစုကို အစဉ်လိုက်x၏ ထပ်ညွှန်းကိန်းများဖြင့် မြှောက်ခြင်း "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"1\n"
+"string.text"
+msgid "Returns the integer portion of a division"
+msgstr "စားခြင်း၏ကိန်းအပိုင်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "ပိုင်းဝေ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "အမြတ်ဝေစု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "ပိုင်းခြေ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Quotient\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "စားကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"1\n"
+"string.text"
+msgid "Returns a number rounded to a specified multiple"
+msgstr "သတ်မှတ်ထားသောမြှောက်လဒ်များ၏အနီးစပ်ဆုံးကိန်းတစ်ခုကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"3\n"
+"string.text"
+msgid "The number to round off"
+msgstr "အနီးစပ်ဆုံးကိန်းပြည့်တန်ဖိုးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"4\n"
+"string.text"
+msgid "Multiple"
+msgstr "အများအပြား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mround\n"
+"5\n"
+"string.text"
+msgid "The multiple to which you want to round number"
+msgstr "သင်အလိုရှိသောအနီးစပ်ဆုံးကိန်းများ၏ဆတိုးကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a number which has been multiplied by pi"
+msgstr "ပိုင်ဖြင့်မြှောက်၍ရသောကိန်းဂဏန်းတစ်ခု၏စကွဲရုတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Sqrtpi\n"
+"3\n"
+"string.text"
+msgid "The number by which pi is multiplied"
+msgstr "ပိုင်ဖြင့်မြှောက်၍ရသောကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"1\n"
+"string.text"
+msgid "Returns a random integer between the numbers you specify"
+msgstr "သတ်မှတ်ထားသောကိန်းများကြားမှအလျင်းသင့်သောကိန်းဂဏန်းတစ်ခုကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"2\n"
+"string.text"
+msgid "Bottom"
+msgstr "အောက်ခြေ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"3\n"
+"string.text"
+msgid "The smallest integer returned"
+msgstr "အငယ်ဆုံးကိန်းပြန်ခဲ့သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"4\n"
+"string.text"
+msgid "Top"
+msgstr "ထိပ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Randbetween\n"
+"5\n"
+"string.text"
+msgid "The largest integer returned"
+msgstr "အကြီးဆုံးကိန်းပြန်ခဲ့သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"1\n"
+"string.text"
+msgid "Returns the greatest common divisor"
+msgstr "အကြီးဆုံးဘုံစားကိန်းပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "နံပါတ်(များ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gcd\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "ကိန်းဂဏန်းတစ်ခု(သို့)ကိန်းဂဏန်းများစာရင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"1\n"
+"string.text"
+msgid "Returns the least common multiple"
+msgstr "အငယ်ဆုံးဘုံဆတိုးကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"2\n"
+"string.text"
+msgid "Number(s)"
+msgstr "နံပါတ်(များ)"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Lcm\n"
+"3\n"
+"string.text"
+msgid "Number or list of numbers"
+msgstr "ကိန်းဂဏန်းတစ်ခု(သို့)ကိန်းဂဏန်းများစာရင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"1\n"
+"string.text"
+msgid "Returns the modified Bessel function In(x)"
+msgstr "(x)အတွင်းရှိအထူးပြုထားသောဘေဆယ်ဖန်ရှင်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "တန်ဖိုးသတ်မှတ်ရန်အတွက်ဖန်ရှင်တန်ဖိုးတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besseli\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "ဘေဆယ်ဖန်ရှင်၏အစီစဉ်တွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Jn(x)"
+msgstr "Jn(x)အတွင်းရှိဘေဆယ်ဖန်ရှင်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "တန်ဖိုးသတ်မှတ်ရန်အတွက်ဖန်ရှင်တန်ဖိုးတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselj\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "ဘေဆယ်ဖန်ရှင်၏အစီစဉ်တွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Kn(x)"
+msgstr "Kn(x)အတွင်းရှိဘေဆယ်ဖန်ရှင်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "တန်ဖိုးသတ်မှတ်ရန်အတွက်ဖန်ရှင်တန်ဖိုးတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Besselk\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "ဘေဆယ်ဖန်ရှင်၏အစီစဉ်တွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"1\n"
+"string.text"
+msgid "Returns the Bessel function Yn(x)"
+msgstr "Yn(x)အတွင်းရှိဘေဆယ်ဖန်ရှင်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"2\n"
+"string.text"
+msgid "X"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"3\n"
+"string.text"
+msgid "The value at which the function is to be evaluated"
+msgstr "တန်ဖိုးသတ်မှတ်ရန်အတွက်ဖန်ရှင်တန်ဖိုးတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"4\n"
+"string.text"
+msgid "N"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bessely\n"
+"5\n"
+"string.text"
+msgid "The order of the Bessel function"
+msgstr "ဘေဆယ်ဖန်ရှင်၏အစီစဉ်တွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to an octal number"
+msgstr "ဂဏန်းနှစ်လုံးစနစ်မှရှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဂဏန်းနှစ်လုံးစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a decimal number"
+msgstr "ဂဏန်းနှစ်လုံးစနစ်မှဒဿမကိန်းသို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Dec\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဂဏန်းနှစ်လုံးစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a binary number to a hexadecimal number"
+msgstr "ဂဏန်းနှစ်လုံးစနစ်မှဆယ့်ခြောက်အခြေခံကိန်းသို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"3\n"
+"string.text"
+msgid "The binary number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဂဏန်းနှစ်လုံးစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Bin2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used."
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a binary number"
+msgstr "ဂဏန်းရှစ်လုံးစနစ်မှနှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဂဏန်းရှစ်လုံးစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a decimal number"
+msgstr "ဂဏန်းရှစ်လုံးစနစ်မှဒဿမကိန်းသို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Dec\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဂဏန်းရှစ်လုံးစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts an octal number to a hexadecimal number"
+msgstr "ဂဏန်းရှစ်လုံးစနစ်မှဆယ့်ခြောက်အခြေခံကိန်းသို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"3\n"
+"string.text"
+msgid "The octal number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဂဏန်းရှစ်လုံးစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oct2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a binary number"
+msgstr "ဒဿမကိန်းမှဂဏန်းနှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "ဒဿမကိန်းသို့ပြောင်းခဲ့သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number to a hexadecimal number"
+msgstr "ဆယ့်ခြောက်အခြေခံကိန်းမှဂဏန်းရှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"3\n"
+"string.text"
+msgid "The decimal integer to be converted"
+msgstr "ဒဿမကိန်းသို့ပြောင်းခဲ့သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Hex\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a decimal number into an octal number"
+msgstr "ဒဿမကိန်းမှဂဏန်းရှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "ဒဿမကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dec2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a binary number"
+msgstr "ဆယ့်ခြောက်အခြေခံကိန်းမှဂဏန်းနှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဆယ့်ခြောက်အခြေခံကိန်းစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Bin\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to a decimal number"
+msgstr "ဆယ့်ခြောက်အခြေခံကိန်းမှဒဿမကိန်းသို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Dec\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဆယ့်ခြောက်အခြေခံကိန်းစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"1\n"
+"string.text"
+msgid "Converts a hexadecimal number to an octal number"
+msgstr "ဆယ့်ခြောက်အခြေခံကိန်းမှဂဏန်းရှစ်လုံးစနစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"3\n"
+"string.text"
+msgid "The hexadecimal number to be converted (as text)"
+msgstr "စာသားအဖြစ်ပြောင်းလဲရန်ဆယ့်ခြောက်အခြေခံကိန်းစနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"4\n"
+"string.text"
+msgid "Places"
+msgstr "နေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Hex2Oct\n"
+"5\n"
+"string.text"
+msgid "Number of places used"
+msgstr "အသုံးပြုမည့်ကိန်းဂဏန်းနေရာများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"1\n"
+"string.text"
+msgid "Tests whether two values are equal"
+msgstr "တန်ဖိုးနှစ်ခုညီမညီကိုစစ်ဆေးသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"2\n"
+"string.text"
+msgid "Number 1"
+msgstr "နံပါတ် ၁"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"3\n"
+"string.text"
+msgid "The first number"
+msgstr "ပထမ နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"4\n"
+"string.text"
+msgid "Number 2"
+msgstr "နံပါတ် ၂"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Delta\n"
+"5\n"
+"string.text"
+msgid "The second number"
+msgstr "ဒုတိယ နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"1\n"
+"string.text"
+msgid "Returns the error function"
+msgstr "အမှားဖန်ရှင်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "အနည်းဆုံးကန့်သတ်ချက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "အင်တီဂတေးရှင်းအတွက်အနည်းဆုံးကန့်သတ်ချက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"4\n"
+"string.text"
+msgid "Upper limit"
+msgstr "အများဆုံးကန့်သတ်ချက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erf\n"
+"5\n"
+"string.text"
+msgid "The upper limit for integration"
+msgstr "အင်တီဂတေးရှင်းအတွက်အများဆုံးကန့်သတ်ချက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"1\n"
+"string.text"
+msgid "Returns the complementary error function"
+msgstr "ကွန်ပလီမန်ထရီအမှားဖန်ရှင်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"2\n"
+"string.text"
+msgid "Lower limit"
+msgstr "အနည်းဆုံးကန့်သတ်ချက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Erfc\n"
+"3\n"
+"string.text"
+msgid "The lower limit for integration"
+msgstr "အင်တီဂတေးရှင်းအတွက်အနည်းဆုံးကန့်သတ်ချက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"1\n"
+"string.text"
+msgid "Tests whether a number is greater than a threshold value"
+msgstr "ကိန်းဂဏန်းတစ်ခုသည်အစဦးတန်ဖိုးတစ်ခုထက်ကြီးသလားစစ်ဆေးသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"3\n"
+"string.text"
+msgid "The value to test against step"
+msgstr "စစ်ဆေးမှုအဆင့်များအတွက်တန်ဖိုးတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"4\n"
+"string.text"
+msgid "Step"
+msgstr "အဆင့်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Gestep\n"
+"5\n"
+"string.text"
+msgid "The threshold value"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"1\n"
+"string.text"
+msgid "Returns the double factorial of Number"
+msgstr "ကိန်းဂဏန်းတစ်ခု၏နှစ်ဆဖက်တိုရီယယ်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Factdouble\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"1\n"
+"string.text"
+msgid "Returns the absolute value (modulus) of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏အကြွင်းမဲ့တန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imabs\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"1\n"
+"string.text"
+msgid "Returns the imaginary coefficient of a complex number"
+msgstr "ကိန်းရောတစ်ခုအတွက် မှန်းခြေမြှောက်ဖော်ကိန်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imaginary\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"1\n"
+"string.text"
+msgid "Returns a complex number raised to a real power"
+msgstr ""
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"4\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Impower\n"
+"5\n"
+"string.text"
+msgid "Power to which the complex number is raised"
+msgstr "ကိန်းရော၏ထပ်ညွှန်းကို မြှင့်သည်။"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"1\n"
+"string.text"
+msgid "Returns the argument theta, an angle expressed in radians"
+msgstr "ရေဒီယမ်နဲ့ပြထားသောထောင့်တစ်ထောင့်ကို ကိန်းရှင်သီတာတန်ဖိုးသို့ပြန်သည်။"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imargument\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"1\n"
+"string.text"
+msgid "Returns the cosine of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcos\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"1\n"
+"string.text"
+msgid "Returns the quotient of two complex numbers"
+msgstr "ကိန်းရောနှစ်ခု၏စား၍ရသောရလဒ်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"2\n"
+"string.text"
+msgid "Numerator"
+msgstr "ပိုင်းဝေ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"3\n"
+"string.text"
+msgid "The dividend"
+msgstr "အမြတ်ဝေစု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"4\n"
+"string.text"
+msgid "Denominator"
+msgstr "ပိုင်းခြေ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imdiv\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "စားကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"1\n"
+"string.text"
+msgid "Returns the algebraic form of the exponential of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ထပ်ညွှန်းဆိုင်ရာအယ်လ်ဂျိဘရစ်ပုံစံကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imexp\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"1\n"
+"string.text"
+msgid "Returns the complex conjugate of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ဖလှယ်ရတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imconjugate\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"1\n"
+"string.text"
+msgid "Returns the natural logarithm of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ပုံမှန်လောဂရစ်သမ်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imln\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"1\n"
+"string.text"
+msgid "Returns the base-10 logarithm of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ အခြေ၁၀ရှိသည့်လောဂရစ်သမ်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog10\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"1\n"
+"string.text"
+msgid "Returns the base-2 logarithm of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ အခြေ၂ရှိသည့်လောဂရစ်သမ်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imlog2\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"1\n"
+"string.text"
+msgid "Returns the product of several complex numbers"
+msgstr "ကိန်းရောများ၏မြှောက်ခြင်းကိုပြန်သွားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"3\n"
+"string.text"
+msgid "The first complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"4\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Improduct\n"
+"5\n"
+"string.text"
+msgid "Another complex number"
+msgstr "အခြားကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"1\n"
+"string.text"
+msgid "Returns the real coefficient of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏မြှောက်ဖော်ကိန်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imreal\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"1\n"
+"string.text"
+msgid "Returns the sine of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsin\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"1\n"
+"string.text"
+msgid "Returns the difference of two complex numbers"
+msgstr "ကိန်းရောနှစ်ခု၏ခြားနားခြင်းတန်ဖိုးကိုပြန်သွားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"2\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "ကိန်းရော၁"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"3\n"
+"string.text"
+msgid "Complex number 1"
+msgstr "ကိန်းရော၁"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"4\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "ကိန်းရော၂"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsub\n"
+"5\n"
+"string.text"
+msgid "Complex number 2"
+msgstr "ကိန်းရော၂"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"1\n"
+"string.text"
+msgid "Returns the square root of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏စကွဲရုတန်ဖိုးကိုပြန်သွားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsqrt\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"1\n"
+"string.text"
+msgid "Returns the sum of complex numbers"
+msgstr "ကိန်းရောများပေါင်းခြင်းကိုပြန်သွားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsum\n"
+"3\n"
+"string.text"
+msgid "The complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"1\n"
+"string.text"
+msgid "Returns the tangent of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imtan\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"1\n"
+"string.text"
+msgid "Returns the secant of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsec\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"1\n"
+"string.text"
+msgid "Returns the cosecant of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsc\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"1\n"
+"string.text"
+msgid "Returns the cotangent of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcot\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic sine of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsinh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosine of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcosh\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic secant of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imsech\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"1\n"
+"string.text"
+msgid "Returns the hyperbolic cosecant of a complex number"
+msgstr "ကိန်းရောတစ်ခု၏ကိုဆိုင်းတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"2\n"
+"string.text"
+msgid "Complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Imcsch\n"
+"3\n"
+"string.text"
+msgid "A complex number"
+msgstr "ကိန်းရောတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"1\n"
+"string.text"
+msgid "Converts real and imaginary coefficients into a complex number"
+msgstr "ကိန်းစစ်သို့ပြောင်းလဲပြီး မှန်းခြေမြှောက်ဖော်ကိန်းကိုလည်းကိန်းရောတစ်ခုအဖြစ်သို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"2\n"
+"string.text"
+msgid "Real num"
+msgstr "ကိန်းစစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"3\n"
+"string.text"
+msgid "The real coefficient"
+msgstr "မြှောက်ဖော်ကိန်းစစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"4\n"
+"string.text"
+msgid "I num"
+msgstr "iအမည်ရှိကိန်းတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"5\n"
+"string.text"
+msgid "The imaginary coefficient"
+msgstr "အီမာဂျင်နရီမြှောက်ဖော်ကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"6\n"
+"string.text"
+msgid "Suffix"
+msgstr "နောက်ဆက်တွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Complex\n"
+"7\n"
+"string.text"
+msgid "The suffix"
+msgstr "နောက်ဆက်တွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"1\n"
+"string.text"
+msgid "Converts a number from one measurement system to another"
+msgstr "ကိန်းဂဏန်းတစ်ခုကိုအတိုင်းအတာစနစ်တစ်ခုမှအခြားတစ်ခုသို့ပြောင်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"2\n"
+"string.text"
+msgid "Number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"3\n"
+"string.text"
+msgid "The number"
+msgstr "နံပါတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"4\n"
+"string.text"
+msgid "From unit"
+msgstr "ယူနစ်မှ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"5\n"
+"string.text"
+msgid "Unit of measure for number"
+msgstr "ကိန်းဂဏန်းတစ်ခုအတွက်အတိုင်းအတာယူနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"6\n"
+"string.text"
+msgid "To unit"
+msgstr "ယူနစ်သို့"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Convert\n"
+"7\n"
+"string.text"
+msgid "Unit of measure for the result"
+msgstr "ရလဒ်အတွက်အတိုင်းအတာယူနစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "စာရင်းရှိကာလအတွက် ပိုင်ဆိုင်မှုတစ်ခု၏ တန်ဖိုးလျော့မျဉ်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "ကုန်ကျစရိတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "ပိုင်ဆိုင်မှုတစ်ခုအတွက်ကုန်ကျစရိတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "ဝယ်ယူသည့်နေ့စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "ပိုင်ဆိုင်မှုတစ်ခုဝယ်ယူသောရက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "ပထမဆုံး ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"7\n"
+"string.text"
+msgid "Date the first period ends"
+msgstr "ပထမကာလ၏အဆုံးသတ်နေ့စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "ဆယ်တင်မှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"9\n"
+"string.text"
+msgid "Salvage value of an asset at the end of its life"
+msgstr "ပိုင်ဆိုင်မှုတစ်ခု၏သက်တမ်းအဆုံးသတ်၌ဆယ်တင်မှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "တန်ဖိုးလျော့နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amordegrc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "အသုံးပြုရန်အခြေခံနှစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"1\n"
+"string.text"
+msgid "Returns the prorated linear depreciation of an asset for each accounting period"
+msgstr "စာရင်းရှိကာလအတွက် ပိုင်ဆိုင်မှုတစ်ခု၏ တန်ဖိုးလျော့မျဉ်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"2\n"
+"string.text"
+msgid "Cost"
+msgstr "ကုန်ကျစရိတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"3\n"
+"string.text"
+msgid "Cost of the asset"
+msgstr "ပိုင်ဆိုင်မှုတစ်ခုအတွက်ကုန်ကျစရိတ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"4\n"
+"string.text"
+msgid "Date purchased"
+msgstr "ဝယ်ယူသည့်နေ့စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"5\n"
+"string.text"
+msgid "Purchase date of the asset"
+msgstr "ပိုင်ဆိုင်မှုတစ်ခုဝယ်ယူသောရက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"6\n"
+"string.text"
+msgid "First period"
+msgstr "ပထမဆုံး ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"7\n"
+"string.text"
+msgid "The date the first period ends"
+msgstr "ပထမကာလ၏အဆုံးသတ်နေ့စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"8\n"
+"string.text"
+msgid "Salvage"
+msgstr "ဆယ်တင်မှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"9\n"
+"string.text"
+msgid "The salvage value of an asset at the end of its life"
+msgstr "ပိုင်ဆိုင်မှုတစ်ခု၏သက်တမ်းအဆုံးသတ်၌ဆယ်တင်မှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"10\n"
+"string.text"
+msgid "Period"
+msgstr "ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"11\n"
+"string.text"
+msgid "The period"
+msgstr "ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"12\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"13\n"
+"string.text"
+msgid "The rate of depreciation"
+msgstr "တန်ဖိုးလျော့နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Amorlinc\n"
+"15\n"
+"string.text"
+msgid "The year basis to be used"
+msgstr "အသုံးပြုရန်အခြေခံနှစ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays periodic interest"
+msgstr "အာမခံပစ္စည်းအတွက်အတိုးနှုန်းပေးဆောင်ရမည့်ကာလအပိုင်းအခြားကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "ခွင့်ပြုသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"3\n"
+"string.text"
+msgid "Issue date of the security"
+msgstr "အာမခံထားရှိခွင့်ပြုသည့်နေ့စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"4\n"
+"string.text"
+msgid "First interest"
+msgstr "ပထမဆုံးအတိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"5\n"
+"string.text"
+msgid "First interest date of the security"
+msgstr "အာမခံထားရှိမှု၏ပထမဆုံးရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"6\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"7\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"10\n"
+"string.text"
+msgid "Par"
+msgstr "ပါ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"11\n"
+"string.text"
+msgid "The par value"
+msgstr "ပါတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrint\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"1\n"
+"string.text"
+msgid "Returns the accrued interest for a security that pays interest at maturity"
+msgstr "အာမခံပစ္စည်းအတွက်အတိုးနှုန်းပေးဆောင်ရမည့်အချိန်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"2\n"
+"string.text"
+msgid "Issue"
+msgstr "ခွင့်ပြုသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"3\n"
+"string.text"
+msgid "The issue date"
+msgstr "ခွင့်ပြုသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"4\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"5\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"8\n"
+"string.text"
+msgid "Par"
+msgstr "ပါ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"9\n"
+"string.text"
+msgid "The par value"
+msgstr "ပါတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Accrintm\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"1\n"
+"string.text"
+msgid "Returns the amount paid out at maturity for a fully invested security"
+msgstr "ရင်းနှီးမြုပ်နှံမှုတစ်ခုအတွက်သတ်မှတ်ချိန်အတွင်းအာမခံကြေးပေးဆောင်ရမည့်ပမာဏ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "ရင်းနှီးမြုပ်နှံမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "ရင်းနှီးမြုပ်နှံမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"8\n"
+"string.text"
+msgid "Discount"
+msgstr "လျှော့ဈေး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"9\n"
+"string.text"
+msgid "The discount"
+msgstr "လျှော့ဈေး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Received\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"1\n"
+"string.text"
+msgid "Returns the discount rate for a security"
+msgstr "အာမခံကြေးအတွက်လျော့ချသည့်နှုန်းထားကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Disc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"1\n"
+"string.text"
+msgid "Returns the annual Macaulay duration of a security with periodic interest payments"
+msgstr "အာမခံကြေးအတွက်နှစ်စဉ်အတိုးနှုန်းပေးဆောင်ရမည့်သတ်မှတ်ချိန်ကာလကိုပြန်သည် "
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "ကူပွန်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "ကူပွန်နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ဖြစ်ထွန်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ဖြစ်ထွန်းမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Duration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"1\n"
+"string.text"
+msgid "Returns the effective annual interest rate"
+msgstr "နှစ်စဉ်အတိုးနှုန်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"2\n"
+"string.text"
+msgid "Nominal rate"
+msgstr "လျာထားချက်နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"3\n"
+"string.text"
+msgid "The nominal rate"
+msgstr "လျာထားချက်နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "Npery"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Effect\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "ကာလများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative principal on a loan to be paid between two periods"
+msgstr "ကာလနှစ်ခုကြားရှိ ချေးငွေတစ်ရပ်ပေါ်တွင် တစ်ပေါင်းတစ်စည်းတည်းပေးချေမှုပြုသည့်စည်းမျဉ်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "Nper"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "ပေးချေမှုပြုသည့်ကာလအရေအတွက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "Pv"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "လက်ရှိတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "အစပြုကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "အစပြုကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "အဆုံးသတ်ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "အဆုံးသတ်ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "အမျိုးအစား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumprinc\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "ကြွေးပေးရန်သတ်မှတ်သည့်ပုံစံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"1\n"
+"string.text"
+msgid "Returns the cumulative interest to be paid between two periods"
+msgstr "ကာလနှစ်ခုကြားတစ်ပေါင်းတစ်စည်းတည်းပေးချေမှုပြုသည့်အတိုးနှုန်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"4\n"
+"string.text"
+msgid "Nper"
+msgstr "Nper"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"5\n"
+"string.text"
+msgid "Number of payment periods"
+msgstr "ပေးချေမှုပြုသည့်ကာလအရေအတွက်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"6\n"
+"string.text"
+msgid "Pv"
+msgstr "Pv"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"7\n"
+"string.text"
+msgid "The present value"
+msgstr "လက်ရှိတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"8\n"
+"string.text"
+msgid "Start period"
+msgstr "အစပြုကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"9\n"
+"string.text"
+msgid "The start period"
+msgstr "အစပြုကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"10\n"
+"string.text"
+msgid "End period"
+msgstr "အဆုံးသတ်ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"11\n"
+"string.text"
+msgid "The end period"
+msgstr "အဆုံးသတ်ကာလ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"12\n"
+"string.text"
+msgid "Type"
+msgstr "အမျိုးအစား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Cumipmt\n"
+"13\n"
+"string.text"
+msgid "The type of maturity"
+msgstr "ကြွေးပေးရန်သတ်မှတ်သည့်ပုံစံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays periodic interest"
+msgstr "အာမခံကြေး၏ငွေကြေးဆိုင်ရာယူနစ်၁၀၀အတွက်အတိုးနှုန်းပေးဆောင်ရမည့်ကာလကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ဖြစ်ထွန်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ဖြစ်ထွန်းမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Price\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a discounted security"
+msgstr "အာမခံကြေး လျော့ချမှု၏ ငွေကြေးဆိုင်ရာယူနစ် ၁၀၀နှုန်းထားကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "လျှော့ဈေး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"7\n"
+"string.text"
+msgid "The discount"
+msgstr "လျှော့ဈေး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricedisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"1\n"
+"string.text"
+msgid "Returns the price per 100 currency units face value of a security that pays interest at maturity"
+msgstr "အာမခံပစ္စည်း၏ငွေကြေးဆိုင်ရာယူနစ်၁၀၀နှုန်းထားအတွက်သတ်မှတ်ချိန်အတွင်းအတိုးနှုန်းပေးဆောင်ရမည့်အချိန်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ခွင့်ပြုသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "ခွင့်ပြုသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "ဖြစ်ထွန်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "ဖြစ်ထွန်းမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Pricemat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"1\n"
+"string.text"
+msgid "Returns the Macaulay modified duration for a security with an assumed par value of 100 currency units"
+msgstr "ငွေကြေးဆိုင်ရာယူနစ်၁၀၀၏အာမခံကြေးအတွက် မက်ကောလေး အထူးပြုထားမှု အချိန်အတောအတွင်းကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"6\n"
+"string.text"
+msgid "Coupon"
+msgstr "ကူပွန်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"7\n"
+"string.text"
+msgid "The coupon rate"
+msgstr "ကူပွန်နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"8\n"
+"string.text"
+msgid "Yield"
+msgstr "ဖြစ်ထွန်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"9\n"
+"string.text"
+msgid "The yield"
+msgstr "ဖြစ်ထွန်းမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"10\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"11\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Mduration\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"1\n"
+"string.text"
+msgid "Returns the annual nominal interest rate"
+msgstr "နှစ်စဉ်အတိုးနှုန်းလျာထားချက်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"2\n"
+"string.text"
+msgid "Effective rate"
+msgstr "သက်ရောက်မှုနှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"3\n"
+"string.text"
+msgid "The effective interest rate"
+msgstr "သက်ရောက်မှုရှိသည့်အတိုးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"4\n"
+"string.text"
+msgid "Npery"
+msgstr "Npery"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Nominal\n"
+"5\n"
+"string.text"
+msgid "The periods"
+msgstr "ကာလများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a decimal into a price expressed as a fraction"
+msgstr "ဒဿမကိန်းအနေဖြင့်ဖော်ြပထားသော နှုန်းထားတစ်ခုကို အပိုင်းကိန်းအဖြစ်သို့ ပြောင်းလဲသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"2\n"
+"string.text"
+msgid "Decimal dollar"
+msgstr "ဒဿမဒေါ်လာ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"3\n"
+"string.text"
+msgid "The decimal number"
+msgstr "ဒဿမကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "အပိုင်းကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarfr\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "စားကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"1\n"
+"string.text"
+msgid "Converts a price expressed as a fraction into a price expressed as a decimal"
+msgstr "အပိုင်းကိန်းအနေဖြင့်ဖော်ပြထားသော နှုန်းထားတစ်ခုကို ဒဿမကိန်းအဖြစ်သို့ ပြောင်းလဲသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"2\n"
+"string.text"
+msgid "Fractional dollar"
+msgstr "ဒေါ်လာအပိုင်းဂဏန်းဆိုင်ရာ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"3\n"
+"string.text"
+msgid "The number as a fraction"
+msgstr "အပိုင်းကိန်းတန်ဖိုးတစ်ခု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"4\n"
+"string.text"
+msgid "Fraction"
+msgstr "အပိုင်းကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Dollarde\n"
+"5\n"
+"string.text"
+msgid "The divisor"
+msgstr "စားကိန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield on a security that pays periodic interest"
+msgstr "အာမခံကြေးအတိုးနှုန်းပေးဆောင်သည့်ပေါ်တွင်ဖြစ်ထွန်းသည့်တန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"6\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"7\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"8\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"9\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"10\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"11\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"12\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"13\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"14\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yield\n"
+"15\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield for a discounted security"
+msgstr "အာမခံကြေးလျော့ချမှုအတွက်နှစ်စဉ်ဖြစ်ထွန်းမှုတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yielddisc\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"1\n"
+"string.text"
+msgid "Returns the annual yield of a security that pays interest at maturity"
+msgstr "အာမခံကြေးအတိုးနှုန်းပေးဆောင်မှု၏နှစ်စဉ်ဖြစ်ထွန်းမှုတန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ခွင့်ပြုသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "ခွင့်ပြုသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"12\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Yieldmat\n"
+"13\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"1\n"
+"string.text"
+msgid "Returns the bond-equivalent yield for a treasury bill"
+msgstr "ဘဏ္ဏရေးဌာန၏တောင်းခံလွှာအတွက်ပေးဆောင်ရန်ခံဝန်ချက်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "လျှော့ဈေး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbilleq\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "လျော့ချသည့်နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price of 100 currency units face value for a treasury bill"
+msgstr "ဘဏ္ဏရေးဌာန၏တောင်းခံလွှာအတွက် ငွေကြေးဆိုင်ရာယူနစ်၁၀၀နှုန်းထားကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"6\n"
+"string.text"
+msgid "Discount"
+msgstr "လျှော့ဈေး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillprice\n"
+"7\n"
+"string.text"
+msgid "The discount rate"
+msgstr "လျော့ချသည့်နှုန်းထား"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield for a treasury bill"
+msgstr "ဘဏ္ဏရေးဌာန၏ငွေကြေးတောင်းခံလွှာကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"6\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Tbillyield\n"
+"7\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd first period"
+msgstr "ပထမအချိန်ကာလ၏မဂဏန်းဆိုင်ရာရက်များနှင့်အတူအာမခံကြေး၏ $၁၀၀နှုန်းထားကိုပြန်သည်။"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ခွင့်ပြုသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "ခွင့်ပြုသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "ပထမကူပွန်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "ပထမဆုံးကူပွန်ပေးသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"12\n"
+"string.text"
+msgid "Yield"
+msgstr "ဖြစ်ထွန်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"13\n"
+"string.text"
+msgid "The yield"
+msgstr "ဖြစ်ထွန်းမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfprice\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd first period"
+msgstr "ပထမကာလ၏ မကိန်းအပိုင်းအခြားရှိအာမခံကြေးဖြစ်ထွန်းသည့်တန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"6\n"
+"string.text"
+msgid "Issue"
+msgstr "ခွင့်ပြုသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"7\n"
+"string.text"
+msgid "The issue date"
+msgstr "ခွင့်ပြုသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"8\n"
+"string.text"
+msgid "First coupon"
+msgstr "ပထမကူပွန်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"9\n"
+"string.text"
+msgid "The first coupon date"
+msgstr "ပထမဆုံးကူပွန်ပေးသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"10\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"11\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"12\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"13\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"14\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"15\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"16\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"17\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"18\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddfyield\n"
+"19\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"1\n"
+"string.text"
+msgid "Returns the price per $100 face value of a security with an odd last period"
+msgstr "နောက်ဆုံးအချိန်ကာလ၏မဂဏန်းဆိုင်ရာရက်များနှင့်အတူအာမခံကြေး၏ $၁၀၀နှုန်းထားကိုပြန်သည်။"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "နောက်ဆုံးအတိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "နောက်ဆုံးအတိုးပေးသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"10\n"
+"string.text"
+msgid "Yield"
+msgstr "ဖြစ်ထွန်းသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"11\n"
+"string.text"
+msgid "The yield"
+msgstr "ဖြစ်ထွန်းမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlprice\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"1\n"
+"string.text"
+msgid "Returns the yield of a security with an odd last period"
+msgstr "နောက်ဆုံးကာလ၏ မကိန်းအပိုင်းအခြားရှိအာမခံကြေးဖြစ်ထွန်းသည့်တန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"6\n"
+"string.text"
+msgid "Last interest"
+msgstr "နောက်ဆုံးအတိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"7\n"
+"string.text"
+msgid "The last interest date"
+msgstr "နောက်ဆုံးအတိုးပေးသည့်ရက်စွဲ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"8\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"9\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"10\n"
+"string.text"
+msgid "Price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"11\n"
+"string.text"
+msgid "The price"
+msgstr "ဈေးနှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"12\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"13\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"14\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"15\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"16\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Oddlyield\n"
+"17\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"1\n"
+"string.text"
+msgid "Returns the internal rate of return for a non-periodic schedule of payments"
+msgstr "ပေးဆောင်ရန် အစီအစဉ်ရေးဆွဲမထားသည့်ကာလအတွက် ပြန်လည်ပေးဆောင်ရမည့် အတွင်းပိုင်းနှုန်းထားကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"2\n"
+"string.text"
+msgid "Values"
+msgstr "တန်ဖိုးများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"3\n"
+"string.text"
+msgid "The values"
+msgstr "တန်ဖိုးများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"4\n"
+"string.text"
+msgid "Dates"
+msgstr "ရက်စွဲများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"5\n"
+"string.text"
+msgid "The dates"
+msgstr "ရက်စွဲများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"6\n"
+"string.text"
+msgid "Guess"
+msgstr "မှန်းဆသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xirr\n"
+"7\n"
+"string.text"
+msgid "The guess"
+msgstr "မှန်းဆသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"1\n"
+"string.text"
+msgid "Returns the net present value for a non-periodic schedule of payments"
+msgstr "ပေးဆောင်မှုပြုရန်မလိုသည့်အချိန်ကာလအစီအစဉ်အတွက်လက်ရှိအသားတင်တန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"2\n"
+"string.text"
+msgid "Rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"3\n"
+"string.text"
+msgid "The rate"
+msgstr "နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"4\n"
+"string.text"
+msgid "Values"
+msgstr "တန်ဖိုးများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"5\n"
+"string.text"
+msgid "The values"
+msgstr "တန်ဖိုးများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"6\n"
+"string.text"
+msgid "Dates"
+msgstr "ရက်စွဲများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Xnpv\n"
+"7\n"
+"string.text"
+msgid "The dates"
+msgstr "ရက်စွဲများ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"1\n"
+"string.text"
+msgid "Returns the interest rate for a fully invested security"
+msgstr "ရင်းနှီးမြုပ်နှံမှုအားလုံး၏အာမခံကြေးပေးဆောင်မှုအတိုးနှုန်းကိုပြန်သွားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"6\n"
+"string.text"
+msgid "Investment"
+msgstr "ရင်းနှီးမြုပ်နှံမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"7\n"
+"string.text"
+msgid "The investment"
+msgstr "ရင်းနှီးမြုပ်နှံမှု"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"8\n"
+"string.text"
+msgid "Redemption"
+msgstr "ပြန်ရွေးယူခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"9\n"
+"string.text"
+msgid "The redemption value"
+msgstr "ပြန်ရွေးယူမှုတန်ဖိုး"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"10\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Intrate\n"
+"11\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"1\n"
+"string.text"
+msgid "Returns the first coupon date after the settlement date"
+msgstr "နေရာချထားပြီးနောက်ကူပွန်ပေးသည့်ရက်စွဲကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupncd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days in the coupon period containing the settlement date"
+msgstr "နေရာချထားမှုရက်များပါဝင်သည့်ကူပွန်ပေးရမည့်ကာလအတွင်းရှိရက်များကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdays\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the settlement date to the next coupon date"
+msgstr "နေရာချထားမှုရက်များမှ နောက်ပိုင်းကူပွန်ပေးရမည့်ကာလအတွင်းရှိ ရက်များကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaysnc\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days from the beginning of the coupon period to the settlement date"
+msgstr "ကူပွန်စတင်ပေးသည့်နေ့မှနေရာချထားသည့်ရက်များအထိရက်များ၏အရေအတွက်ကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupdaybs\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"1\n"
+"string.text"
+msgid "Returns the last coupon date preceding the settlement date"
+msgstr "ကြိုတင်နေရာချထားသောနေ့၏နောက်ဆုံးကူပွန်ပေးမည့်ရက်စွဲကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Couppcd\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"1\n"
+"string.text"
+msgid "Returns the number of coupons payable between the settlement and maturity dates"
+msgstr "နေရာချထားသောနေ့နှင့်သတ်မှတ်ရက်ကြား ကူပွန်ပေးရမည့် အရေအတွက်ကို ပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"2\n"
+"string.text"
+msgid "Settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"3\n"
+"string.text"
+msgid "The settlement"
+msgstr "နေရာချထားသည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"4\n"
+"string.text"
+msgid "Maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"5\n"
+"string.text"
+msgid "The maturity"
+msgstr "ကြွေးပေးရန်အချိန်စေ့ခြင်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"6\n"
+"string.text"
+msgid "Frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"7\n"
+"string.text"
+msgid "The frequency"
+msgstr "ကြိမ်နှုန်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"8\n"
+"string.text"
+msgid "Basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Coupnum\n"
+"9\n"
+"string.text"
+msgid "The basis"
+msgstr "အခြေခံ"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"1\n"
+"string.text"
+msgid "Returns the future value of the initial principal after a series of compound interest rates are applied"
+msgstr "အတိုးနှုန်းသက်ရောက်မှုရှိသည့် ကာလများပြီးနောက် အစဦးစည်းမျဉ်းစည်းကမ်းများ၏ အနာဂတ်တန်ဖိုးကိုပြန်သည်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"2\n"
+"string.text"
+msgid "Principal"
+msgstr "စည်းမျဉ်းစည်းကမ်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"3\n"
+"string.text"
+msgid "The principal"
+msgstr "စည်းမျဉ်းစည်းကမ်း"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"4\n"
+"string.text"
+msgid "Schedule"
+msgstr "အစီအစဉ်"
+
+#: analysis.src
+msgctxt ""
+"analysis.src\n"
+"RID_ANALYSIS_FUNCTION_DESCRIPTIONS.ANALYSIS_Fvschedule\n"
+"5\n"
+"string.text"
+msgid "The schedule"
+msgstr "အစီအစဉ်"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Workday\n"
+"string.text"
+msgid "WORKDAY"
+msgstr "WORKDAY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yearfrac\n"
+"string.text"
+msgid "YEARFRAC"
+msgstr "YEARFRAC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Edate\n"
+"string.text"
+msgid "EDATE"
+msgstr "EDATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Weeknum\n"
+"string.text"
+msgid "WEEKNUM"
+msgstr "WEEKNUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Eomonth\n"
+"string.text"
+msgid "EOMONTH"
+msgstr "EOMONTH"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Networkdays\n"
+"string.text"
+msgid "NETWORKDAYS"
+msgstr "NETWORKDAYS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amordegrc\n"
+"string.text"
+msgid "AMORDEGRC"
+msgstr "AMORDEGRC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Amorlinc\n"
+"string.text"
+msgid "AMORLINC"
+msgstr "AMORLINC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrint\n"
+"string.text"
+msgid "ACCRINT"
+msgstr "ACCRINT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Accrintm\n"
+"string.text"
+msgid "ACCRINTM"
+msgstr "ACCRINTM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Received\n"
+"string.text"
+msgid "RECEIVED"
+msgstr "RECEIVED"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Disc\n"
+"string.text"
+msgid "DISC"
+msgstr "DISC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Duration\n"
+"string.text"
+msgid "DURATION"
+msgstr "DURATION"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Effect\n"
+"string.text"
+msgid "EFFECT"
+msgstr "EFFECT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumprinc\n"
+"string.text"
+msgid "CUMPRINC"
+msgstr "CUMPRINC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Cumipmt\n"
+"string.text"
+msgid "CUMIPMT"
+msgstr "CUMIPMT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Price\n"
+"string.text"
+msgid "PRICE"
+msgstr "PRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricedisc\n"
+"string.text"
+msgid "PRICEDISC"
+msgstr "PRICEDISC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Pricemat\n"
+"string.text"
+msgid "PRICEMAT"
+msgstr "PRICEMAT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mduration\n"
+"string.text"
+msgid "MDURATION"
+msgstr "MDURATION"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Nominal\n"
+"string.text"
+msgid "NOMINAL"
+msgstr "NOMINAL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarfr\n"
+"string.text"
+msgid "DOLLARFR"
+msgstr "DOLLARFR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dollarde\n"
+"string.text"
+msgid "DOLLARDE"
+msgstr "DOLLARDE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yield\n"
+"string.text"
+msgid "YIELD"
+msgstr "YIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yielddisc\n"
+"string.text"
+msgid "YIELDDISC"
+msgstr "YIELDDISC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Yieldmat\n"
+"string.text"
+msgid "YIELDMAT"
+msgstr "YIELDMAT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbilleq\n"
+"string.text"
+msgid "TBILLEQ"
+msgstr "TBILLEQ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillprice\n"
+"string.text"
+msgid "TBILLPRICE"
+msgstr "TBILLPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Tbillyield\n"
+"string.text"
+msgid "TBILLYIELD"
+msgstr "TBILLYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfprice\n"
+"string.text"
+msgid "ODDFPRICE"
+msgstr "ODDFPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddfyield\n"
+"string.text"
+msgid "ODDFYIELD"
+msgstr "ODDFYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlprice\n"
+"string.text"
+msgid "ODDLPRICE"
+msgstr "ODDLPRICE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oddlyield\n"
+"string.text"
+msgid "ODDLYIELD"
+msgstr "ODDLYIELD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xirr\n"
+"string.text"
+msgid "XIRR"
+msgstr "XIRR"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Xnpv\n"
+"string.text"
+msgid "XNPV"
+msgstr "XNPV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Intrate\n"
+"string.text"
+msgid "INTRATE"
+msgstr "INTRATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupncd\n"
+"string.text"
+msgid "COUPNCD"
+msgstr "COUPNCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdays\n"
+"string.text"
+msgid "COUPDAYS"
+msgstr "COUPDAYS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaysnc\n"
+"string.text"
+msgid "COUPDAYSNC"
+msgstr "COUPDAYSNC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupdaybs\n"
+"string.text"
+msgid "COUPDAYBS"
+msgstr "COUPDAYBS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Couppcd\n"
+"string.text"
+msgid "COUPPCD"
+msgstr "COUPPCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Coupnum\n"
+"string.text"
+msgid "COUPNUM"
+msgstr "COUPNUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Fvschedule\n"
+"string.text"
+msgid "FVSCHEDULE"
+msgstr "FVSCHEDULE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Iseven\n"
+"string.text"
+msgid "ISEVEN"
+msgstr "ISEVEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Isodd\n"
+"string.text"
+msgid "ISODD"
+msgstr "ISODD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gcd\n"
+"string.text"
+msgid "GCD"
+msgstr "GCD"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Lcm\n"
+"string.text"
+msgid "LCM"
+msgstr "LCM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Multinomial\n"
+"string.text"
+msgid "MULTINOMIAL"
+msgstr "MULTINOMIAL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Seriessum\n"
+"string.text"
+msgid "SERIESSUM"
+msgstr "SERIESSUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Quotient\n"
+"string.text"
+msgid "QUOTIENT"
+msgstr "QUOTIENT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Mround\n"
+"string.text"
+msgid "MROUND"
+msgstr "MROUND"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Sqrtpi\n"
+"string.text"
+msgid "SQRTPI"
+msgstr "SQRTPI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Randbetween\n"
+"string.text"
+msgid "RANDBETWEEN"
+msgstr "RANDBETWEEN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besseli\n"
+"string.text"
+msgid "BESSELI"
+msgstr "BESSELI"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselj\n"
+"string.text"
+msgid "BESSELJ"
+msgstr "BESSELJ"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Besselk\n"
+"string.text"
+msgid "BESSELK"
+msgstr "BESSELK"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bessely\n"
+"string.text"
+msgid "BESSELY"
+msgstr "BESSELY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Dec\n"
+"string.text"
+msgid "BIN2DEC"
+msgstr "BIN2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Hex\n"
+"string.text"
+msgid "BIN2HEX"
+msgstr "BIN2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Bin2Oct\n"
+"string.text"
+msgid "BIN2OCT"
+msgstr "BIN2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Delta\n"
+"string.text"
+msgid "DELTA"
+msgstr "DELTA"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Bin\n"
+"string.text"
+msgid "DEC2BIN"
+msgstr "DEC2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Hex\n"
+"string.text"
+msgid "DEC2HEX"
+msgstr "DEC2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Dec2Oct\n"
+"string.text"
+msgid "DEC2OCT"
+msgstr "DEC2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erf\n"
+"string.text"
+msgid "ERF"
+msgstr "ERF"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Erfc\n"
+"string.text"
+msgid "ERFC"
+msgstr "ERFC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Gestep\n"
+"string.text"
+msgid "GESTEP"
+msgstr "GESTEP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Bin\n"
+"string.text"
+msgid "HEX2BIN"
+msgstr "HEX2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Dec\n"
+"string.text"
+msgid "HEX2DEC"
+msgstr "HEX2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Hex2Oct\n"
+"string.text"
+msgid "HEX2OCT"
+msgstr "HEX2OCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imabs\n"
+"string.text"
+msgid "IMABS"
+msgstr "IMABS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imaginary\n"
+"string.text"
+msgid "IMAGINARY"
+msgstr "IMAGINARY"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Impower\n"
+"string.text"
+msgid "IMPOWER"
+msgstr "IMPOWER"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imargument\n"
+"string.text"
+msgid "IMARGUMENT"
+msgstr "IMARGUMENT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcos\n"
+"string.text"
+msgid "IMCOS"
+msgstr "IMCOS"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imdiv\n"
+"string.text"
+msgid "IMDIV"
+msgstr "IMDIV"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imexp\n"
+"string.text"
+msgid "IMEXP"
+msgstr "IMEXP"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imconjugate\n"
+"string.text"
+msgid "IMCONJUGATE"
+msgstr "IMCONJUGATE"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imln\n"
+"string.text"
+msgid "IMLN"
+msgstr "IMLN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog10\n"
+"string.text"
+msgid "IMLOG10"
+msgstr "IMLOG10"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imlog2\n"
+"string.text"
+msgid "IMLOG2"
+msgstr "IMLOG2"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Improduct\n"
+"string.text"
+msgid "IMPRODUCT"
+msgstr "IMPRODUCT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imreal\n"
+"string.text"
+msgid "IMREAL"
+msgstr "IMREAL"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsin\n"
+"string.text"
+msgid "IMSIN"
+msgstr "IMSIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsub\n"
+"string.text"
+msgid "IMSUB"
+msgstr "IMSUB"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsum\n"
+"string.text"
+msgid "IMSUM"
+msgstr "IMSUM"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsqrt\n"
+"string.text"
+msgid "IMSQRT"
+msgstr "IMSQRT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imtan\n"
+"string.text"
+msgid "IMTAN"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsec\n"
+"string.text"
+msgid "IMSEC"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsc\n"
+"string.text"
+msgid "IMCSC"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imsech\n"
+"string.text"
+msgid "IMSECH"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Imcsch\n"
+"string.text"
+msgid "IMCSCH"
+msgstr ""
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Complex\n"
+"string.text"
+msgid "COMPLEX"
+msgstr "COMPLEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Bin\n"
+"string.text"
+msgid "OCT2BIN"
+msgstr "OCT2BIN"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Dec\n"
+"string.text"
+msgid "OCT2DEC"
+msgstr "OCT2DEC"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Oct2Hex\n"
+"string.text"
+msgid "OCT2HEX"
+msgstr "OCT2HEX"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Convert\n"
+"string.text"
+msgid "CONVERT"
+msgstr "CONVERT"
+
+#: analysis_funcnames.src
+msgctxt ""
+"analysis_funcnames.src\n"
+"RID_ANALYSIS_FUNCTION_NAMES\n"
+"ANALYSIS_FUNCNAME_Factdouble\n"
+"string.text"
+msgid "FACTDOUBLE"
+msgstr "FACTDOUBLE"

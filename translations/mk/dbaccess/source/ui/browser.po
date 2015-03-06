@@ -1,0 +1,302 @@
+#. extracted from dbaccess/source/ui/browser
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2011-04-06 00:18+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_BRW_DELETE_ROWS\n"
+"string.text"
+msgid "Do you want to delete the selected data?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_DATABROWSER_FILTERED\n"
+"string.text"
+msgid "(filtered)"
+msgstr "(филтрирано)"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_ORDER\n"
+"string.text"
+msgid "Error setting the sort criteria"
+msgstr "Грешка при поставувањето на критериумот за подредување"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_FILTER\n"
+"string.text"
+msgid "Error setting the filter criteria"
+msgstr "Грешка при поставувањето на критериумот за филтрирање"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_CONNECTION_LOST\n"
+"string.text"
+msgid "Connection lost"
+msgstr "Врската е изгубена"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_QUERIES_CONTAINER\n"
+"string.text"
+msgid "Queries"
+msgstr "Барања"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_TABLES_CONTAINER\n"
+"string.text"
+msgid "Tables"
+msgstr "Табели"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_EDIT_DATABASE\n"
+"#define.text"
+msgid "Edit ~Database File..."
+msgstr "Уреди ~база на податоци..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_ADMINISTRATE\n"
+"#define.text"
+msgid "Registered databases ..."
+msgstr "Регистрирани бази на податоци ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_CLOSECONN\n"
+"#define.text"
+msgid "Disco~nnect"
+msgstr "Ис~клучи се"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_TITLE_CONFIRM_DELETION\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "Потврда за бришење"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_DELETE_TABLE\n"
+"string.text"
+msgid "Do you want to delete the table '%1'?"
+msgstr "Дали сакате да ја избришете табелата „%1“?"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_CONNECTION_LOST\n"
+"string.text"
+msgid "The connection to the database has been lost. Do you want to reconnect?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS\n"
+"string.text"
+msgid "Warnings encountered"
+msgstr "Забележани се предупредувања"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS_DETAILS\n"
+"string.text"
+msgid "While retrieving the tables, warnings were reported by the database connection."
+msgstr "При преземање на табелите, беа забележани предупредувања од поврзувањето со базата на податоци."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_CONNECTING_DATASOURCE\n"
+"string.text"
+msgid "Connecting to \"$name$\" ..."
+msgstr "Се поврзувам со „$name$“ ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_QUERY\n"
+"string.text"
+msgid "Loading query $name$ ..."
+msgstr "Го вчитувам прашањето $name$ ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_TABLE\n"
+"string.text"
+msgid "Loading table $name$ ..."
+msgstr "Ја вчитувам табелата $name$ ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_NO_TABLE_FORMAT_INSIDE\n"
+"string.text"
+msgid "No table format could be found."
+msgstr "Не беше пронајден формат на табела."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_COULDNOTCONNECT_DATASOURCE\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "Поврзувањето со изворот на податоци „$name$“ не можеше да се воспостави."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_MENU_REFRESH_DATA\n"
+"ID_BROWSER_REFRESH_REBUILD\n"
+"menuitem.text"
+msgid "Rebuild"
+msgstr "Изгради повторно"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLATTRSET\n"
+"menuitem.text"
+msgid "Column ~Format..."
+msgstr "Формат на ~колона..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLUMNINFO\n"
+"menuitem.text"
+msgid "Copy Column D~escription"
+msgstr "Копирај ~опис на колона"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_TABLEATTR\n"
+"menuitem.text"
+msgid "Table Format..."
+msgstr "Формат на табела..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_ROWHEIGHT\n"
+"menuitem.text"
+msgid "Row Height..."
+msgstr "Висина на ред..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_UNDO_MODIFY_RECORD\n"
+"string.text"
+msgid "Undo: Data Input"
+msgstr "Отповикај: Внес на податоци"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_SAVE_CURRENT_RECORD\n"
+"string.text"
+msgid "Save current record"
+msgstr "Зачувај го тековниот запис"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_QRY_TITLE\n"
+"string.text"
+msgid "Query #"
+msgstr "Прашање #"
+
+#: sbagrid.src
+#, fuzzy
+msgctxt ""
+"sbagrid.src\n"
+"STR_TBL_TITLE\n"
+"string.text"
+msgid "Table #"
+msgstr "Табела #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_VIEW_TITLE\n"
+"string.text"
+msgid "View #"
+msgstr "Поглед #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NAME_ALREADY_EXISTS\n"
+"string.text"
+msgid "The name \"#\" already exists."
+msgstr "Името „#“ веќе постои."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NO_COLUMNNAME_MATCHING\n"
+"string.text"
+msgid "No matching column names were found."
+msgstr "Не беа пронајдени имиња на колони што се совпаѓаат."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_ERROR_OCCURRED_WHILE_COPYING\n"
+"string.text"
+msgid "An error occurred. Do you want to continue copying?"
+msgstr "Се појави грешка. Дали сакате да продолжите со копирањето?"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_NAME\n"
+"string.text"
+msgid "Data source table view"
+msgstr "Преглед на табела на извор на податоци"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_DESC\n"
+"string.text"
+msgid "Shows the selected table or query."
+msgstr "Ја прикажува избраната табела или прашање."

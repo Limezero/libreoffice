@@ -1,0 +1,807 @@
+#. extracted from reportdesign/source/ui/inspection
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2013-02-28 13:22+0000\n"
+"Last-Translator: Badral <s_badral@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1362057739.0\n"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PROPPAGE_DEFAULT\n"
+"string.text"
+msgid "General"
+msgstr "Ерөнхий"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PROPPAGE_DATA\n"
+"string.text"
+msgid "Data"
+msgstr "Өгөгдөл"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BOOL\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Үгүй"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BOOL\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "Тийм"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE\n"
+"string.text"
+msgid "Force New Page"
+msgstr "Хуудас таслалт шаардах"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Байхгүй"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"2\n"
+"string.text"
+msgid "Before Section"
+msgstr "Хэсгийн ~өмнө"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"3\n"
+"string.text"
+msgid "After Section"
+msgstr "Хэсгийн ~дараа"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORCENEWPAGE_CONST\n"
+"4\n"
+"string.text"
+msgid "Before & After Section"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_NEWROWORCOL\n"
+"string.text"
+msgid "New Row Or Column"
+msgstr "Шинэ мөр эсвэл багана"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER\n"
+"string.text"
+msgid "Keep Together"
+msgstr "Хамтатгах"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Үгүй"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"2\n"
+"string.text"
+msgid "Whole Group"
+msgstr "Нийт бүлэг"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_KEEPTOGETHER_CONST\n"
+"3\n"
+"string.text"
+msgid "With First Detail"
+msgstr "Эхний тодруулгатай"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CANGROW\n"
+"string.text"
+msgid "Can Grow"
+msgstr "Өсч болох"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CANSHRINK\n"
+"string.text"
+msgid "Can Shrink"
+msgstr "Багасч болох"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPEATSECTION\n"
+"string.text"
+msgid "Repeat Section"
+msgstr "Хэсгийг давтах"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRINTREPEATEDVALUES\n"
+"string.text"
+msgid "Print repeated values"
+msgstr "Давтагдсан утгуудыг үзүүл"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CONDITIONALPRINTEXPRESSION\n"
+"string.text"
+msgid "Conditional Print Expression"
+msgstr "Нөхцөлт үзүүлбэр хэвлэлт"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_STARTNEWCOLUMN\n"
+"string.text"
+msgid "Start new column"
+msgstr "Шинэ багана эхлүүлэх"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_STARTNEWPAGE\n"
+"string.text"
+msgid "Start new page"
+msgstr "Шинэ хуудас эхлүүлэх"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_RESETPAGENUMBER\n"
+"string.text"
+msgid "Reset page number"
+msgstr "Хуудасны дугаарыг шинээр олгох"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CHARTTYPE\n"
+"string.text"
+msgid "Chart type"
+msgstr "Диаграммын төрөл"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRINTWHENGROUPCHANGE\n"
+"string.text"
+msgid "Print repeated value on group change"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VISIBLE\n"
+"string.text"
+msgid "Visible"
+msgstr "Харагдахуйц"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER\n"
+"string.text"
+msgid "Group keep together"
+msgstr "Бүлгийг хамтатгах"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER_CONST\n"
+"1\n"
+"string.text"
+msgid "Per Page"
+msgstr "Хуудас тус бүрээр"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_GROUPKEEPTOGETHER_CONST\n"
+"2\n"
+"string.text"
+msgid "Per Column"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Байхгүй"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"2\n"
+"string.text"
+msgid "Section"
+msgstr "Хэсэг"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SECTIONPAGEBREAK_CONST\n"
+"3\n"
+"string.text"
+msgid "Automatic"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+" Автоматаар\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автомат\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автоматаар\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автоматаар\n"
+"#-#-#-#-#  control.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автомат\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автоматаар\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автомат\n"
+"#-#-#-#-#  t602.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Автоматаар"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PAGEHEADEROPTION\n"
+"string.text"
+msgid "Page header"
+msgstr "Хуудасны толгой"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PAGEFOOTEROPTION\n"
+"string.text"
+msgid "Page footer"
+msgstr "Хуудасны хөл"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"1\n"
+"string.text"
+msgid "All Pages"
+msgstr "Бүх хуудас"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"2\n"
+"string.text"
+msgid "Not With Report Header"
+msgstr "Тайлангийн толгой/хөл оруулах"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"3\n"
+"string.text"
+msgid "Not With Report Footer"
+msgstr "Тайлангийн толгой/хөл оруулах"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_REPORTPRINTOPTION_CONST\n"
+"4\n"
+"string.text"
+msgid "Not With Report Header/Footer"
+msgstr "Тайлангийн толгой/хөл оруулах"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DEEPTRAVERSING\n"
+"string.text"
+msgid "Deep traversing"
+msgstr "Доод мужийг шигтгэх"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PREEVALUATED\n"
+"string.text"
+msgid "Pre evaluation"
+msgstr "Урьдчилсан тооцоолол"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_POSITIONX\n"
+"string.text"
+msgid "Position X"
+msgstr "Байрлал X"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_POSITIONY\n"
+"string.text"
+msgid "Position Y"
+msgstr "Байрлал Y"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "Өргөн"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "Өндөр"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_INITIALFORMULA\n"
+"string.text"
+msgid "Initial value"
+msgstr "Анхдагч утга"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PRESERVEIRI\n"
+"string.text"
+msgid "Preserve as Link"
+msgstr "Холбоосоор бэлдэх"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORMULA\n"
+"string.text"
+msgid "Formula"
+msgstr "Томьёо"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DATAFIELD\n"
+"string.text"
+msgid "Data field"
+msgstr "Өгөгдлийн талбар"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Фонт"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BACKCOLOR\n"
+"string.text"
+msgid "Background color"
+msgstr "Дэвсгэр өнгө"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_BACKTRANSPARENT\n"
+"string.text"
+msgid "Background Transparent"
+msgstr "Дэвсгэр тунгалаг"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_CONTROLBACKGROUNDTRANSPARENT\n"
+"string.text"
+msgid "Background Transparent"
+msgstr "Дэвсгэр тунгалаг"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_OVERLAP_OTHER_CONTROL\n"
+"string.text"
+msgid "This operation is not allowed. The control overlaps with another one."
+msgstr "Энэ үйлдэл зөвшөөрөгдөөгүй. Элемент ямар нэгтэй давхцаж байна."
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_ILLEGAL_POSITION\n"
+"string.text"
+msgid "This position can not be set. It is invalid."
+msgstr "Энэ байрлалыг олгох боломжгүй. Хүчингүй."
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SCOPE_GROUP\n"
+"string.text"
+msgid "Group: %1"
+msgstr "Бүлэг: %1"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_FORMULALIST\n"
+"string.text"
+msgid "Function"
+msgstr "Функц"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_SCOPE\n"
+"string.text"
+msgid "Scope"
+msgstr "Хүчинтэй муж"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE\n"
+"string.text"
+msgid "Data Field Type"
+msgstr "Өгөгдлийн талбарын төрөл"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"1\n"
+"string.text"
+msgid "Field or Formula"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"2\n"
+"string.text"
+msgid "Function"
+msgstr "Функц"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"3\n"
+"string.text"
+msgid "Counter"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_TYPE_CONST\n"
+"4\n"
+"string.text"
+msgid "User defined Function"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MASTERFIELDS\n"
+"string.text"
+msgid "Link master fields"
+msgstr "Мастер талбарыг холбо"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DETAILFIELDS\n"
+"string.text"
+msgid "Link slave fields"
+msgstr "Туслах талбарыг холбо"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_EXPLANATION\n"
+"string.text"
+msgid "Charts can be used to display detailed data about the current record of the report. To do this, you can specify which columns in the chart match which columns in the report."
+msgstr "Идэвхтэй өгөгдлийн бичлэгийн нарийвчилсан өгөгдлийг үзүүлэхэд диаграммыг хэрэглэх боломжтой. Үүний тулд та ямар диаграммын ямар баганад тайлангийн ямар багана харгалзахыг өгнө үү."
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_DETAILLABEL\n"
+"string.text"
+msgid "Chart"
+msgstr "Диаграмм"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MASTERLABEL\n"
+"string.text"
+msgid "Report"
+msgstr "Тайлан"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PREVIEW_COUNT\n"
+"string.text"
+msgid "Preview Row(s)"
+msgstr "Мөрийг нягтлах"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_AREA\n"
+"string.text"
+msgid "Area"
+msgstr "Муж"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_MIMETYPE\n"
+"string.text"
+msgid "Report Output Format"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICALALIGN\n"
+"string.text"
+msgid "Vert. Alignment"
+msgstr "Босоо жигдрүүлэлт"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"1\n"
+"string.text"
+msgid "Top"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд \n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээр\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Дээд"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"2\n"
+"string.text"
+msgid "Middle"
+msgstr "Дунд тал"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_VERTICAL_ALIGN_CONST\n"
+"3\n"
+"string.text"
+msgid "Bottom"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод тал \n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод тал\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод тал\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод \n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод\n"
+"#-#-#-#-#  analysis.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доор\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Доод тал"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST\n"
+"string.text"
+msgid "Horz. Alignment"
+msgstr "Босоо жигдрүүлэлт"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"1\n"
+"string.text"
+msgid "Left"
+msgstr "Зүүн"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"2\n"
+"string.text"
+msgid "Right"
+msgstr ""
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"баруун\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"баруун\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"баруун\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"баруун\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Баруун\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Баруун \n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Баруун\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Баруун\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"баруун"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"3\n"
+"string.text"
+msgid "Block"
+msgstr "Хар"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_PARAADJUST_CONST\n"
+"4\n"
+"string.text"
+msgid "Center"
+msgstr "Төв"
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_COUNTER\n"
+"string.text"
+msgid "Counter"
+msgstr ""
+
+#: inspection.src
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_ACCUMULATION\n"
+"string.text"
+msgid "Accumulation"
+msgstr ""
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_MINIMUM\n"
+"string.text"
+msgid "Minimum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Хамгийн бага\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хамгийн бага\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Хамгийн бага\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Хамгийн бага"
+
+#: inspection.src
+#, fuzzy
+msgctxt ""
+"inspection.src\n"
+"RID_STR_F_MAXIMUM\n"
+"string.text"
+msgid "Maximum"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Хамгийн их\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~Хамгийн их\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Хамгийн их\n"
+"#-#-#-#-#  stbctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Хамгийн их"

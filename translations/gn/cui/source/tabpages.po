@@ -1,0 +1,1153 @@
+#. extracted from cui/source/tabpages
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-02-14 18:07+0000\n"
+"Last-Translator: Giovanni <giovannicaligaris@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1423937233.000000\n"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_NONE\n"
+"string.text"
+msgid "Set No Borders"
+msgstr "Borde'ỹ"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_ONLYOUTER\n"
+"string.text"
+msgid "Set Outer Border Only"
+msgstr "Emoĩ borde okapegua año"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERHORI\n"
+"string.text"
+msgid "Set Outer Border and Horizontal Lines"
+msgstr "Borde okápegua ha línea horizontales"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERALL\n"
+"string.text"
+msgid "Set Outer Border and All Inner Lines"
+msgstr "Borde okápegua ha línea hy'epy pegua"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_TABLE_PRESET_OUTERINNER\n"
+"string.text"
+msgid "Set Outer Border Without Changing Inner Lines"
+msgstr "Emoĩ borde okaragua moambue'ỹ línea kuéra hyepypegua"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_DIAGONAL\n"
+"string.text"
+msgid "Set Diagonal Lines Only"
+msgstr "Emoĩ línea kurusu año"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ALL\n"
+"string.text"
+msgid "Set All Four Borders"
+msgstr "Emoĩ yrundy borde kuéra"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_LEFTRIGHT\n"
+"string.text"
+msgid "Set Left and Right Borders Only"
+msgstr "Emoĩ borde asúpe ha akatúa año"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_TOPBOTTOM\n"
+"string.text"
+msgid "Set Top and Bottom Borders Only"
+msgstr "Emoĩ borde yguategua ha yvypegua año"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_PARA_PRESET_ONLYLEFT\n"
+"string.text"
+msgid "Set Left Border Only"
+msgstr "Emoĩ borde asúpe año"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_HOR_PRESET_ONLYHOR\n"
+"string.text"
+msgid "Set Top and Bottom Borders, and All Inner Lines"
+msgstr "Emoĩ borde yguategua ha yvypegua ha maymáva línea hyepypepegua"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_VER_PRESET_ONLYVER\n"
+"string.text"
+msgid "Set Left and Right Borders, and All Inner Lines"
+msgstr "Emoĩ borde asúpegua ha akatúagua ha maymáva línea hyepypepegua"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_NONE\n"
+"string.text"
+msgid "No Shadow"
+msgstr "Kuarahy'ãỹ"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Right"
+msgstr "Ame'ẽ kuarahy'ã yvypegua parte ijakatuahápe"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPRIGHT\n"
+"string.text"
+msgid "Cast Shadow to Top Right"
+msgstr "Ame'ẽ kuarahy'ã yguate parte ijakatuahápe"
+
+#: border.src
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT\n"
+"string.text"
+msgid "Cast Shadow to Bottom Left"
+msgstr "Ame'ẽ kuarahy'ã yvypegua parte ijasupehápe"
+
+#: border.src
+#, fuzzy
+msgctxt ""
+"border.src\n"
+"RID_SVXSTR_SHADOW_STYLE_TOPLEFT\n"
+"string.text"
+msgid "Cast Shadow to Top Left"
+msgstr "Ame'ẽ kuarahy'ã yguate parte ijakatuahápe"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_LTR\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "Asúpe akatúahápe"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_RTL\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "Akatúa asúpehápe"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_FRAMEDIR_SUPER\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "Eipuru ojeguatyrõ'akue mba'e superiorgui"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_HORI\n"
+"string.text"
+msgid "Left-to-right (horizontal)"
+msgstr "Asúpe akatúahápe (horizontal)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_HORI\n"
+"string.text"
+msgid "Right-to-left (horizontal)"
+msgstr "Akatúa asúpehápe (horizontal)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_RTL_VERT\n"
+"string.text"
+msgid "Right-to-left (vertical)"
+msgstr "Akatúa asúpehápe (vertical)"
+
+#: frmdirlbox.src
+msgctxt ""
+"frmdirlbox.src\n"
+"RID_SVXSTR_PAGEDIR_LTR_VERT\n"
+"string.text"
+msgid "Left-to-right (vertical)"
+msgstr "Asúpe akatúahápe (vertical)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Carta"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Oficio"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloide"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "Tuicha 32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "Usuario"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Sobre DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Sobre C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Sobre C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Sobre C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Sobre C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#6¾ Envelope\n"
+"itemlist.text"
+msgid "#6¾ Envelope"
+msgstr "Sobre 6 ¾"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#7¾ (Monarch) Envelope\n"
+"itemlist.text"
+msgid "#7¾ (Monarch) Envelope"
+msgstr "Sobre 7 ¾ (monarca)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#9 Envelope\n"
+"itemlist.text"
+msgid "#9 Envelope"
+msgstr "Sobre del n.º 9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#10 Envelope\n"
+"itemlist.text"
+msgid "#10 Envelope"
+msgstr "Sobre del n.º 10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#11 Envelope\n"
+"itemlist.text"
+msgid "#11 Envelope"
+msgstr "Sobre del n.º 11"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"#12 Envelope\n"
+"itemlist.text"
+msgid "#12 Envelope"
+msgstr "Sobre del n.º 12"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_STD\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Tarjeta parehagui Japonesa"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A6\n"
+"itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A5\n"
+"itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A4\n"
+"itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A3\n"
+"itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A2\n"
+"itemlist.text"
+msgid "A2"
+msgstr "A2"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A1\n"
+"itemlist.text"
+msgid "A1"
+msgstr "A1"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"A0\n"
+"itemlist.text"
+msgid "A0"
+msgstr "A0"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (ISO)\n"
+"itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (ISO)\n"
+"itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (ISO)\n"
+"itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Letter\n"
+"itemlist.text"
+msgid "Letter"
+msgstr "Carta"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Legal\n"
+"itemlist.text"
+msgid "Legal"
+msgstr "Legal"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Long Bond\n"
+"itemlist.text"
+msgid "Long Bond"
+msgstr "Oficio"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Tabloid\n"
+"itemlist.text"
+msgid "Tabloid"
+msgstr "Tabloide"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B6 (JIS)\n"
+"itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B5 (JIS)\n"
+"itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"B4 (JIS)\n"
+"itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"16 Kai\n"
+"itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"32 Kai\n"
+"itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Big 32 Kai\n"
+"itemlist.text"
+msgid "Big 32 Kai"
+msgstr "Tuicha 32 Kai"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"User\n"
+"itemlist.text"
+msgid "User"
+msgstr "Usuario"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"DL Envelope\n"
+"itemlist.text"
+msgid "DL Envelope"
+msgstr "Sobre DL"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6 Envelope\n"
+"itemlist.text"
+msgid "C6 Envelope"
+msgstr "Sobre C6"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C6/5 Envelope\n"
+"itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "Sobre C6/5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C5 Envelope\n"
+"itemlist.text"
+msgid "C5 Envelope"
+msgstr "Sobre C5"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"C4 Envelope\n"
+"itemlist.text"
+msgid "C4 Envelope"
+msgstr "Sobre C4"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Dia Slide\n"
+"itemlist.text"
+msgid "Dia Slide"
+msgstr "Diapositiva Dia"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 4:3\n"
+"itemlist.text"
+msgid "Screen 4:3"
+msgstr "Pantalla 4:3"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:9\n"
+"itemlist.text"
+msgid "Screen 16:9"
+msgstr "Pantalla 16:9"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Screen 16:10\n"
+"itemlist.text"
+msgid "Screen 16:10"
+msgstr "Pantalla 16:10"
+
+#: page.src
+msgctxt ""
+"page.src\n"
+"RID_SVXSTRARY_PAPERSIZE_DRAW\n"
+"Japanese Postcard\n"
+"itemlist.text"
+msgid "Japanese Postcard"
+msgstr "Tarjeta parehagui Japonesa"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_EXAMPLE\n"
+"string.text"
+msgid "Example"
+msgstr "Techapyrã"
+
+#: paragrph.src
+msgctxt ""
+"paragrph.src\n"
+"STR_PAGE_STYLE\n"
+"string.text"
+msgid "Page Style"
+msgstr "Háicha Togue"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_GRADIENT\n"
+"string.text"
+msgid "Please enter a name for the gradient:"
+msgstr "Ehai peteĩ téra momichirã:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_GRADIENT\n"
+"string.text"
+msgid ""
+"The gradient was modified without saving. \n"
+"Modify the selected gradient or add a new gradient."
+msgstr ""
+"Momichi moambue akue oñongatuỹre.\n"
+"Moambue momichi jeporavo akue o remboheta peteĩ pyahu."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_NEW_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the bitmap:"
+msgstr "Ehai peteĩ téra mapa bit peguarã:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_EXT_BITMAP\n"
+"string.text"
+msgid "Please enter a name for the external bitmap:"
+msgstr "Ehai peteĩ téra mapabit peguarã okaragua:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_BITMAP\n"
+"string.text"
+msgid ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+msgstr ""
+"Mapabit moambue akue oñongatuỹre.\n"
+"Moambue mapabit jeporavo akue o remboheta peteĩ pyahu."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINESTYLE\n"
+"string.text"
+msgid "Please enter a name for the line style:"
+msgstr "Ehai peteĩ téra estilo de línea peguarã:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_LINESTYLE\n"
+"string.text"
+msgid ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+msgstr ""
+"Línea háicha moambue akue oñongatuỹre.\n"
+"Moambue línea háicha jeporavo akue o remboheta peteĩ pyahu."
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_HATCH\n"
+"string.text"
+msgid "Please enter a name for the hatching:"
+msgstr "Ehai peteĩ téra mallarã:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_HATCH\n"
+"string.text"
+msgid ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHANGE\n"
+"string.text"
+msgid "Modify"
+msgstr "Moambue"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ADD\n"
+"string.text"
+msgid "Add"
+msgstr "Mboheta"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_COLOR\n"
+"string.text"
+msgid "Please enter a name for the new color:"
+msgstr "Ehai peteĩ téra momichirã:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ASK_CHANGE_COLOR\n"
+"string.text"
+msgid ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabla"
+
+#: strings.src
+#, fuzzy
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DESC_LINEEND\n"
+"string.text"
+msgid "Please enter a name for the new arrowhead:"
+msgstr "Ehai peteĩ téra momichirã:"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TRANSPARENT\n"
+"string.text"
+msgid "Transparent"
+msgstr "Hesaka"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_NOSTYLE\n"
+"string.text"
+msgid "No %1"
+msgstr "Sin %1"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FAMILY\n"
+"string.text"
+msgid "Family"
+msgstr "Ogaygua"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Letra Háicha"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_STYLE\n"
+"string.text"
+msgid "Style"
+msgstr "Háicha"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CHARNAME_TYPEFACE\n"
+"string.text"
+msgid "Typeface"
+msgstr "Tipografía"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USE_REPLACE\n"
+"string.text"
+msgid "Use replacement table"
+msgstr "Puru tabla mbyekoviagui"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_WORD\n"
+"string.text"
+msgid "Correct TWo INitial CApitals"
+msgstr "Myatyrõ MOkoĩ MAyúscula kuéra JApo mante"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CPTL_STT_SENT\n"
+"string.text"
+msgid "Capitalize first letter of every sentence"
+msgstr "Ñepyry maymáva ñe'ẽjoapy kuéra mayúsculandi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BOLD_UNDER\n"
+"string.text"
+msgid "Automatic *bold* and _underline_"
+msgstr "*Hũ'i* ha_guyhai_automáticos"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NO_DBL_SPACES\n"
+"string.text"
+msgid "Ignore double spaces"
+msgstr "Kuaa'ỹ arapy kõi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DETECT_URL\n"
+"string.text"
+msgid "URL Recognition"
+msgstr "Jekuaa jey URL"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DASH\n"
+"string.text"
+msgid "Replace dashes"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CORRECT_ACCIDENTAL_CAPS_LOCK\n"
+"string.text"
+msgid "Correct accidental use of cAPS LOCK key"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NON_BREAK_SPACE\n"
+"string.text"
+msgid "Add non-breaking space before specific punctuation marks in French text"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_ORDINAL\n"
+"string.text"
+msgid "Format ordinal numbers suffixes (1st -> 1^st)"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_EMPTY_PARA\n"
+"string.text"
+msgid "Remove blank paragraphs"
+msgstr "Juka párrafos nandi"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_USER_STYLE\n"
+"string.text"
+msgid "Replace Custom Styles"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BULLET\n"
+"string.text"
+msgid "Replace bullets with: "
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_RIGHT_MARGIN\n"
+"string.text"
+msgid "Combine single line paragraphs if length greater than"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_NUM\n"
+"string.text"
+msgid "Apply numbering - symbol: "
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_BORDER\n"
+"string.text"
+msgid "Apply border"
+msgstr "Moĩ borde"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CREATE_TABLE\n"
+"string.text"
+msgid "Create table"
+msgstr "Japo tabla"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_REPLACE_TEMPLATES\n"
+"string.text"
+msgid "Apply Styles"
+msgstr "Emoĩ háicha"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_AT_STT_END\n"
+"string.text"
+msgid "Delete spaces and tabs at beginning and end of paragraph"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DEL_SPACES_BETWEEN_LINES\n"
+"string.text"
+msgid "Delete spaces and tabs at end and start of line"
+msgstr ""
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_CONNECTOR\n"
+"string.text"
+msgid "Connector"
+msgstr "Conector"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_DIMENSION_LINE\n"
+"string.text"
+msgid "Dimension line"
+msgstr "Línea tuichavekuegui"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_READ_DATA_ERROR\n"
+"string.text"
+msgid "The file could not be loaded!"
+msgstr "Ñongatuha nikatúi ojehupi!"
+
+#: strings.src
+msgctxt ""
+"strings.src\n"
+"RID_SVXSTR_LOAD_ERROR\n"
+"string.text"
+msgid "The selected module could not be loaded."
+msgstr "Módulo jeporavo'akue nikatúi ojehupi."

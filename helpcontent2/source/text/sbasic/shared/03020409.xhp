@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03020409xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">GetAttr Function [Runtime]</title>
+<filename>/text/sbasic/shared/03020409.xhp</filename>
+</topic>
+<history>
+<created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+<lastedited date="2004-09-01T15:28:56">converted from old format - fpe</lastedited>
+</history>
+</meta>
+<body>
+<section id="getattr">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3150984"><bookmark_value>GetAttr function</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="hd_id3150984" xml-lang="en-US" level="1" l10n="U" oldref="1"><link href="text/sbasic/shared/03020409.xhp" name="GetAttr Function [Runtime]">GetAttr Function [Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_id3154347" xml-lang="en-US" l10n="U" oldref="2">Returns a bit pattern that identifies the file type or the name of a volume or a directory.</paragraph>
+</section>
+<paragraph role="heading" id="hd_id3149457" xml-lang="en-US" level="2" l10n="U" oldref="3">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_id3150359" xml-lang="en-US" l10n="U" oldref="4">GetAttr (Text As String)</paragraph>
+</bascode>
+<paragraph role="heading" id="hd_id3151211" xml-lang="en-US" level="2" l10n="U" oldref="5">Return value:</paragraph>
+<paragraph role="paragraph" id="par_id3154909" xml-lang="en-US" l10n="U" oldref="6">Integer</paragraph>
+<paragraph role="heading" id="hd_id3145172" xml-lang="en-US" level="2" l10n="U" oldref="7">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_id3151042" xml-lang="en-US" l10n="U" oldref="8">
+<emph>Text:</emph> Any string expression that contains an unambiguous file specification. You can also use <link href="text/sbasic/shared/00000002.xhp" name="URL notation">URL notation</link>.</paragraph>
+<paragraph role="paragraph" id="par_id3161831" xml-lang="en-US" l10n="U" oldref="9">This function determines the attributes for a specified file and returns the bit pattern that can help you to identify the following file attributes:</paragraph>
+<embed href="text/sbasic/shared/00000003.xhp#errorcode"/>
+<embed href="text/sbasic/shared/00000003.xhp#err5"/>
+<embed href="text/sbasic/shared/00000003.xhp#err53"/>
+<paragraph role="heading" id="hd_id3145364" xml-lang="en-US" level="2" l10n="U" oldref="10">Value</paragraph>
+<paragraph role="paragraph" id="par_id3147349" xml-lang="en-US" l10n="U" oldref="11">0 : Normal files.</paragraph>
+<paragraph role="paragraph" id="par_id3147434" xml-lang="en-US" l10n="U" oldref="12">1 : Read-only files.</paragraph>
+<paragraph role="paragraph" id="par_id3159154" xml-lang="en-US" l10n="U" oldref="15">8 : Returns the name of the volume</paragraph>
+<paragraph role="paragraph" id="par_id3145271" xml-lang="en-US" l10n="U" oldref="16">16 : Returns the name of the directory only.</paragraph>
+<paragraph role="paragraph" id="par_id3153953" xml-lang="en-US" l10n="U" oldref="17">32 : File was changed since last backup (Archive bit).</paragraph>
+<paragraph role="paragraph" id="par_id3156444" xml-lang="en-US" l10n="U" oldref="18">If you want to know if a bit of the attribute byte is set, use the following query method:</paragraph>
+<paragraph role="heading" id="hd_id3153094" xml-lang="en-US" level="2" l10n="U" oldref="19">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Sub ExampleSetGetAttr</paragraph>
+<paragraph role="bascode" id="par_id3155415" xml-lang="en-US" l10n="U" oldref="21">On Error GoTo ErrorHandler ' Define target for error handler</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    If Dir("C:\test",16)="" Then MkDir "C:\test"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">        If Dir("C:\test\autoexec.sav")="" Then FileCopy "c:\autoexec.bat", "c:\test\autoexec.sav"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">            SetAttr "c:\test\autoexec.sav" ,0</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">            FileCopy "c:\autoexec.bat", "c:\test\autoexec.sav"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">            SetAttr "c:\test\autoexec.sav" ,1</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">            Print GetAttr( "c:\test\autoexec.sav" )</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">        End</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">ErrorHandler:</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">        Print Error</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    End</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Sub</paragraph>
+</bascode>
+</body>
+</helpdocument>

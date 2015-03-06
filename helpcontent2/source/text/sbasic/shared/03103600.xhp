@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ -->
+	
+<helpdocument version="1.0">
+<meta>
+<topic id="textsbasicshared03103600xml" indexer="include" status="PUBLISH">
+<title id="tit" xml-lang="en-US">TypeName Function; VarType Function[Runtime]</title>
+<filename>/text/sbasic/shared/03103600.xhp</filename>
+</topic>
+<history>
+<created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+<lastedited date="2004-12-15T10:34:49">converted from old format - fpe</lastedited>
+</history>
+</meta>
+<body>
+<section id="typename">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3143267"><bookmark_value>TypeName function</bookmark_value>
+<bookmark_value>VarType function</bookmark_value>
+</bookmark>
+<paragraph role="heading" id="hd_id3143267" xml-lang="en-US" level="1" l10n="U" oldref="1"><link href="text/sbasic/shared/03103600.xhp" name="TypeName Function; VarType Function[Runtime]">TypeName Function; VarType Function[Runtime]</link></paragraph>
+<paragraph role="paragraph" id="par_id3159157" xml-lang="en-US" l10n="U" oldref="2">Returns a string (TypeName) or a numeric value (VarType) that contains information for a variable.</paragraph>
+</section>
+<paragraph role="heading" id="hd_id3153825" xml-lang="en-US" level="2" l10n="U" oldref="3">Syntax:</paragraph>
+<bascode>
+<paragraph role="bascode" id="par_id3155341" xml-lang="en-US" oldref="4">TypeName (Variable)VarType (Variable)</paragraph>
+</bascode>
+<paragraph role="heading" id="hd_id3145610" xml-lang="en-US" level="2" l10n="U" oldref="5">Return value:</paragraph>
+<paragraph role="paragraph" id="par_id3148947" xml-lang="en-US" l10n="U" oldref="6">String; Integer</paragraph>
+<paragraph role="heading" id="hd_id3146795" xml-lang="en-US" level="2" l10n="U" oldref="7">Parameters:</paragraph>
+<paragraph role="paragraph" id="par_id3148664" xml-lang="en-US" l10n="U" oldref="8">
+<emph>Variable:</emph> The variable that you want to determine the type of. You can use the following values:</paragraph>
+<table id="tbl_id3153362">
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3145171" xml-lang="en-US" l10n="U" oldref="9">key word</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3156212" xml-lang="en-US" l10n="U" oldref="10">VarType</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3154684" xml-lang="en-US" l10n="U" oldref="11">Variable type</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3151041" xml-lang="en-US" l10n="U" oldref="12">Boolean</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3153367" xml-lang="en-US" l10n="U" oldref="13">11</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3148645" xml-lang="en-US" l10n="U" oldref="14">Boolean variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3153138" xml-lang="en-US" l10n="U" oldref="15">Date</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3153363" xml-lang="en-US" l10n="U" oldref="16">7</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3155411" xml-lang="en-US" l10n="U" oldref="17">Date variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3146975" xml-lang="en-US" l10n="U" oldref="18">Double</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3150486" xml-lang="en-US" l10n="U" oldref="19">5</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3148616" xml-lang="en-US" l10n="U" oldref="20">Double floating point variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3148457" xml-lang="en-US" l10n="U" oldref="21">Integer</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3145647" xml-lang="en-US" l10n="U" oldref="22">2</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3154490" xml-lang="en-US" l10n="U" oldref="23">Integer variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3149960" xml-lang="en-US" l10n="U" oldref="24">Long</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3154513" xml-lang="en-US" l10n="U" oldref="25">3</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3151318" xml-lang="en-US" l10n="U" oldref="26">Long integer variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3146972" xml-lang="en-US" l10n="U" oldref="27">Object</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3154482" xml-lang="en-US" l10n="U" oldref="28">9</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3150323" xml-lang="en-US" l10n="U" oldref="29">Object variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3148405" xml-lang="en-US" l10n="U" oldref="30">Single</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3149020" xml-lang="en-US" l10n="U" oldref="31">4</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3147341" xml-lang="en-US" l10n="U" oldref="32">Single floating-point variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3155901" xml-lang="en-US" l10n="U" oldref="33">String</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3155960" xml-lang="en-US" l10n="U" oldref="34">8</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3146313" xml-lang="en-US" l10n="U" oldref="35">String variable</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3145149" xml-lang="en-US" l10n="U" oldref="36">Variant</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3154021" xml-lang="en-US" l10n="U" oldref="37">12</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3145789" xml-lang="en-US" l10n="U" oldref="38">Variant variable (can contain all types specified by the definition)</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3148630" xml-lang="en-US" l10n="U" oldref="39">Empty</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3152584" xml-lang="en-US" l10n="U" oldref="40">0</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3151278" xml-lang="en-US" l10n="U" oldref="41">Variable is not initialized</paragraph>
+</tablecell>
+</tablerow>
+<tablerow>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3154576" xml-lang="en-US" l10n="U" oldref="42">Null</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3166424" xml-lang="en-US" l10n="U" oldref="43">1</paragraph>
+</tablecell>
+<tablecell colspan="" rowspan="">
+<paragraph role="paragraph" id="par_id3145131" xml-lang="en-US" l10n="U" oldref="44">No valid data</paragraph>
+</tablecell>
+</tablerow>
+</table>
+<embed href="text/sbasic/shared/00000003.xhp#errorcode"/>
+<embed href="text/sbasic/shared/00000003.xhp#err5"/>
+<paragraph role="heading" id="hd_id3149338" xml-lang="en-US" level="2" l10n="U" oldref="45">Example:</paragraph>
+<bascode>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Sub ExampleType</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim iVar As Integer</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim sVar As String</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim siVar As Single</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim dVar As Double</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim bVar As Boolean</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">Dim lVar As Long</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    MsgBox TypeName(iVar) &amp; " " &amp; VarType(iVar) &amp; Chr(13) &amp;_</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    TypeName(sVar) &amp; " " &amp; VarType(sVar) &amp; Chr(13) &amp;_</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    TypeName(siVar) &amp; " " &amp; VarType(siVar) &amp; Chr(13) &amp;_</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    TypeName(dVar) &amp; " " &amp; VarType(dVar) &amp; Chr(13) &amp;_</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">    TypeName(bVar) &amp; " " &amp; VarType(bVar) &amp; Chr(13) &amp;_</paragraph>
+<paragraph role="bascode" id="par_id3148817" xml-lang="en-US" l10n="U" oldref="58">    TypeName(lVar) &amp; " " &amp; VarType(lVar),0,"Some types In $[officename] Basic"</paragraph>
+<paragraph role="bascode" localize="false" xml-lang="en-US">End Sub</paragraph>
+</bascode>
+</body>
+</helpdocument>

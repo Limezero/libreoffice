@@ -1,0 +1,402 @@
+#. extracted from svtools/source/control
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-22 09:00+0000\n"
+"Last-Translator: Saibal <sray@redhat.com>\n"
+"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"Language: bn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-Language: bn_BD\n"
+"X-POOTLE-MTIME: 1419238823.000000\n"
+
+#: calendar.src
+msgctxt ""
+"calendar.src\n"
+"STR_SVT_CALENDAR_DAY\n"
+"string.text"
+msgid "Day"
+msgstr "দিন"
+
+#: calendar.src
+msgctxt ""
+"calendar.src\n"
+"STR_SVT_CALENDAR_WEEK\n"
+"string.text"
+msgid "Week"
+msgstr "সপ্তাহ "
+
+#: calendar.src
+msgctxt ""
+"calendar.src\n"
+"STR_SVT_CALENDAR_TODAY\n"
+"string.text"
+msgid "Today"
+msgstr "আজ"
+
+#: calendar.src
+msgctxt ""
+"calendar.src\n"
+"STR_SVT_CALENDAR_NONE\n"
+"string.text"
+msgid "None"
+msgstr "কোনটি না"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_AUTOMATIC_COLOR\n"
+"string.text"
+msgid "Automatic"
+msgstr "স্বয়ংক্রিয়"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_ALPHANUMERIC\n"
+"string.text"
+msgid "Alphanumeric"
+msgstr "আলফানিউমেরিক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_NORMAL\n"
+"string.text"
+msgid "Normal"
+msgstr "স্বাভাবিক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_CHARSET\n"
+"string.text"
+msgid "Character set"
+msgstr "অক্ষর সমষ্টি"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_DICTIONARY\n"
+"string.text"
+msgid "Dictionary"
+msgstr "অভিধান"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_PINYIN\n"
+"string.text"
+msgid "Pinyin"
+msgstr "পিনইন"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_STROKE\n"
+"string.text"
+msgid "Stroke"
+msgstr "কলমের আঁক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_RADICAL\n"
+"string.text"
+msgid "Radical"
+msgstr "মৌলিক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_UNICODE\n"
+"string.text"
+msgid "Unicode"
+msgstr "ইউনিকোড"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_ZHUYIN\n"
+"string.text"
+msgid "Zhuyin"
+msgstr "জুইন"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_PHONEBOOK\n"
+"string.text"
+msgid "Phone book"
+msgstr "ফোন বুক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_PHONETIC_F\n"
+"string.text"
+msgid "Phonetic (alphanumeric first)"
+msgstr "ফোনেটিক (প্রথমে আলফানিউমেরিক)"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_COLLATE_PHONETIC_L\n"
+"string.text"
+msgid "Phonetic (alphanumeric last)"
+msgstr "ফোনেটিক (শেষে আলফানিউমেরিক)"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_ALPHANUMERIC\n"
+"string.text"
+msgid "Alphanumeric"
+msgstr "আলফানিউমেরিক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_DICTIONARY\n"
+"string.text"
+msgid "Dictionary"
+msgstr "অভিধান"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_PINYIN\n"
+"string.text"
+msgid "Pinyin"
+msgstr "পিনইন"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_RADICAL\n"
+"string.text"
+msgid "Radical"
+msgstr "মৌলিক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_STROKE\n"
+"string.text"
+msgid "Stroke"
+msgstr "কলমের আঁক"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_ZHUYIN\n"
+"string.text"
+msgid "Zhuyin"
+msgstr "জুইন"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_PHONETIC_FS\n"
+"string.text"
+msgid "Phonetic (alphanumeric first, grouped by syllables)"
+msgstr "ফোনেটিক (প্রথমে আলফানিউমেরিক, সিলাবল ভিত্তিক গ্রুপ)"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_PHONETIC_FC\n"
+"string.text"
+msgid "Phonetic (alphanumeric first, grouped by consonants)"
+msgstr "ফোনেটিক (প্রথমে আলফানিউমেরিক , ব্যঞ্জনবর্ণ ভিত্তিক গ্রুপ)"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_PHONETIC_LS\n"
+"string.text"
+msgid "Phonetic (alphanumeric last, grouped by syllables)"
+msgstr "ফোনেটিক (শেষে আলফানিউমেরিক, সিলাবল ভিত্তিক গ্রুপ)"
+
+#: ctrlbox.src
+msgctxt ""
+"ctrlbox.src\n"
+"STR_SVT_INDEXENTRY_PHONETIC_LC\n"
+"string.text"
+msgid "Phonetic (alphanumeric last, grouped by consonants)"
+msgstr "ফোনেটিক (শেষে আলফানিউমেরিক, ব্যঞ্জনবর্ণ ভিত্তিক গ্রুপ)"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_LIGHT\n"
+"string.text"
+msgid "Light"
+msgstr "সামান্য"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_LIGHT_ITALIC\n"
+"string.text"
+msgid "Light Italic"
+msgstr "সামান্য তির্যক"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_NORMAL\n"
+"string.text"
+msgid "Regular"
+msgstr "স্বাভাবিক"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_NORMAL_ITALIC\n"
+"string.text"
+msgid "Italic"
+msgstr "তির্যক"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_BOLD\n"
+"string.text"
+msgid "Bold"
+msgstr "গাঢ়"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_BOLD_ITALIC\n"
+"string.text"
+msgid "Bold Italic"
+msgstr "গাঢ় তির্যক"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_BLACK\n"
+"string.text"
+msgid "Black"
+msgstr "কালো"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_STYLE_BLACK_ITALIC\n"
+"string.text"
+msgid "Black Italic"
+msgstr "কালো তির্যক"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_FONTMAP_BOTH\n"
+"string.text"
+msgid "The same font will be used on both your printer and your screen."
+msgstr "মুদ্রণযন্ত্র ও পর্দায় একই ফন্ট ব্যবহৃত হবে।"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_FONTMAP_PRINTERONLY\n"
+"string.text"
+msgid "This is a printer font. The screen image may differ."
+msgstr "এটি একটি মুদ্রণযন্ত্রের ফন্ট। পর্দার দেখতে ভিন্ন হতে পারে।"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_FONTMAP_SCREENONLY\n"
+"string.text"
+msgid "This is a screen font. The printer image may differ."
+msgstr "এটি একটি পর্দার ফন্ট। মুদ্রণযন্ত্রে দেখতে ভিন্ন হতে পারে।"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_FONTMAP_SIZENOTAVAILABLE\n"
+"string.text"
+msgid "This font size has not been installed. The closest available size will be used."
+msgstr "এই ফন্টটির আকার ইনস্টল করা হয়নি। কাছাকাছি বিদ্যমান আকার ব্যবহৃত হবে।  "
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_FONTMAP_STYLENOTAVAILABLE\n"
+"string.text"
+msgid "This font style will be simulated or the closest matching style will be used."
+msgstr "এই ফন্ট শৈলী সিমিউলেট করা হবে বা কাছাকাছি সমতুল্য শৈলী ব্যবহার করা হবে।"
+
+#: ctrltool.src
+msgctxt ""
+"ctrltool.src\n"
+"STR_SVT_FONTMAP_NOTAVAILABLE\n"
+"string.text"
+msgid "This font has not been installed. The closest available font will be used."
+msgstr "এই ফন্টটি ইনস্টল করা হয়নি। কাছাকাছি বিদ্যমান ফন্ট ব্যবহৃত হবে।"
+
+#: filectrl.src
+msgctxt ""
+"filectrl.src\n"
+"STR_FILECTRL_BUTTONTEXT\n"
+"string.text"
+msgid "Browse..."
+msgstr "ব্রাউজ..."
+
+#: filectrl.src
+msgctxt ""
+"filectrl.src\n"
+"STR_TABBAR_PUSHBUTTON_MOVET0HOME\n"
+"string.text"
+msgid "Move To Home"
+msgstr "প্রধান পাতায় স্থানান্তর"
+
+#: filectrl.src
+msgctxt ""
+"filectrl.src\n"
+"STR_TABBAR_PUSHBUTTON_MOVELEFT\n"
+"string.text"
+msgid "Move Left"
+msgstr "বামে সরানো"
+
+#: filectrl.src
+msgctxt ""
+"filectrl.src\n"
+"STR_TABBAR_PUSHBUTTON_MOVERIGHT\n"
+"string.text"
+msgid "Move Right"
+msgstr "ডানে সরানো"
+
+#: filectrl.src
+msgctxt ""
+"filectrl.src\n"
+"STR_TABBAR_PUSHBUTTON_MOVETOEND\n"
+"string.text"
+msgid "Move To End"
+msgstr "শেষে স্থানান্তর"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"STR_SVT_ACC_RULER_HORZ_NAME\n"
+"string.text"
+msgid "Horizontal Ruler"
+msgstr "অনুভূমিক মানদন্ড"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"STR_SVT_ACC_RULER_VERT_NAME\n"
+"string.text"
+msgid "Vertical Ruler"
+msgstr "উল্লম্ব মানদন্ড"

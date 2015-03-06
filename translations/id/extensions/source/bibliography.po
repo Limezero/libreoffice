@@ -1,0 +1,312 @@
+#. extracted from extensions/source/bibliography
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-26 19:56+0100\n"
+"PO-Revision-Date: 2015-01-31 04:55+0000\n"
+"Last-Translator: dirgita <dirgitadevina@yahoo.co.id>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1422680148.000000\n"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Field selection:"
+msgstr "Seleksi kolom:"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_TABWIN_PREFIX\n"
+"string.text"
+msgid "Table;Query;Sql;Sql [Native]"
+msgstr "Tabel;Kuiri;Sql;Sql [Natif]"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_FRAME_TITLE\n"
+"string.text"
+msgid "Bibliography Database"
+msgstr "Basis Data Bibliografi"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_MAP_QUESTION\n"
+"string.text"
+msgid "Do you want to edit the column arrangement?"
+msgstr "Anda ingin menyunting susunan kolom tersebut?"
+
+#: bib.src
+msgctxt ""
+"bib.src\n"
+"RID_BIB_STR_NONE\n"
+"string.text"
+msgid "<none>"
+msgstr "<nihil>"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_ERROR_PREFIX\n"
+"string.text"
+msgid "The following column names could not be assigned:\n"
+msgstr "Nama-nama kolom berikut tak dapat dipilih:\n"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_ARTICLE\n"
+"string.text"
+msgid "Article"
+msgstr "Artikel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_BOOK\n"
+"string.text"
+msgid "Book"
+msgstr "Buku"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_BOOKLET\n"
+"string.text"
+msgid "Brochures"
+msgstr "Brosur"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CONFERENCE\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_INBOOK\n"
+"string.text"
+msgid "Book excerpt"
+msgstr "Kutipan buku"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_INCOLLECTION\n"
+"string.text"
+msgid "Book excerpt with title"
+msgstr "Kutipan buku dengan judul"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_INPROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_JOURNAL\n"
+"string.text"
+msgid "Journal"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_MANUAL\n"
+"string.text"
+msgid "Techn. documentation"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_MASTERSTHESIS\n"
+"string.text"
+msgid "Thesis"
+msgstr "Tesis"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_MISC\n"
+"string.text"
+msgid "Miscellaneous"
+msgstr "Lain-lain"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_PHDTHESIS\n"
+"string.text"
+msgid "Dissertation"
+msgstr "Disertasi"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_PROCEEDINGS\n"
+"string.text"
+msgid "Conference proceedings"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_TECHREPORT\n"
+"string.text"
+msgid "Research report"
+msgstr "Laporan riset"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_UNPUBLISHED\n"
+"string.text"
+msgid "Unpublished"
+msgstr "Belum dipublikasikan"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_EMAIL\n"
+"string.text"
+msgid "E-mail"
+msgstr "Surel"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_WWW\n"
+"string.text"
+msgid "WWW document"
+msgstr "Dokumen WWW"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM1\n"
+"string.text"
+msgid "User-defined1"
+msgstr "Tentuan-pengguna1"
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM2\n"
+"string.text"
+msgid "User-defined2"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM3\n"
+"string.text"
+msgid "User-defined3"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM4\n"
+"string.text"
+msgid "User-defined4"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_CUSTOM5\n"
+"string.text"
+msgid "User-defined5"
+msgstr ""
+
+#: sections.src
+msgctxt ""
+"sections.src\n"
+"ST_TYPE_TITLE\n"
+"string.text"
+msgid "General"
+msgstr ""
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_SOURCE\n"
+"toolboxitem.text"
+msgid "Table"
+msgstr "Tabel"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_FT_QUERY\n"
+"toolboxitem.text"
+msgid "Search Key"
+msgstr "Kunci Pencarian"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_AUTOFILTER\n"
+"toolboxitem.text"
+msgid "AutoFilter"
+msgstr "PenyaringOtomatis"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_FILTERCRIT\n"
+"toolboxitem.text"
+msgid "Standard Filter"
+msgstr "Penyaring Standar"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_REMOVEFILTER\n"
+"toolboxitem.text"
+msgid "Reset Filter"
+msgstr "Reset Penyaring"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_COL_ASSIGN\n"
+"toolboxitem.text"
+msgid "Column Arrangement"
+msgstr "Penyusunan Kolom"
+
+#: toolbar.src
+msgctxt ""
+"toolbar.src\n"
+"RID_BIB_TOOLBAR\n"
+"TBC_BT_CHANGESOURCE\n"
+"toolboxitem.text"
+msgid "Data Source"
+msgstr "Sumber Data"

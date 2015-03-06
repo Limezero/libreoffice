@@ -1,0 +1,201 @@
+#. extracted from scp2/source/impress
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-01-07 11:08+0100\n"
+"PO-Revision-Date: 2012-11-18 15:49+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1353253775.0\n"
+
+#: folderitem_impress.ulf
+msgctxt ""
+"folderitem_impress.ulf\n"
+"STR_FI_NAME_PRAESENTATION\n"
+"LngText.text"
+msgid "Presentation"
+msgstr "عرض تقديمي"
+
+#: folderitem_impress.ulf
+msgctxt ""
+"folderitem_impress.ulf\n"
+"STR_FI_TOOLTIP_IMPRESS\n"
+"LngText.text"
+msgid "Create and edit presentations for slideshows, meeting and Web pages by using Impress."
+msgstr "تحرير العروض التقديمية لعروض الشرائح، والاجتماعات وصفحات ويب وإنشاؤها باستخدام امبريس."
+
+#: module_impress.ulf
+msgctxt ""
+"module_impress.ulf\n"
+"STR_NAME_MODULE_PRG_IMPRESS\n"
+"LngText.text"
+msgid "%PRODUCTNAME Impress"
+msgstr "%PRODUCTNAME امبريس"
+
+#: module_impress.ulf
+msgctxt ""
+"module_impress.ulf\n"
+"STR_DESC_MODULE_PRG_IMPRESS\n"
+"LngText.text"
+msgid "Create and edit presentations for slideshows, meeting and Web pages by using %PRODUCTNAME Impress."
+msgstr "إنشاء العروض التقديمية لعروض الشرائح، والاجتماعات وصفحات ويب وتحريرها باستخدام %PRODUCTNAME امبريس."
+
+#: module_impress.ulf
+msgctxt ""
+"module_impress.ulf\n"
+"STR_NAME_MODULE_PRG_IMPRESS_BIN\n"
+"LngText.text"
+msgid "Program Module"
+msgstr "الوحدة النمطية للبرنامج"
+
+#: module_impress.ulf
+msgctxt ""
+"module_impress.ulf\n"
+"STR_DESC_MODULE_PRG_IMPRESS_BIN\n"
+"LngText.text"
+msgid "The application %PRODUCTNAME Impress"
+msgstr "التطبيق %PRODUCTNAME امبريس"
+
+#: module_impress.ulf
+msgctxt ""
+"module_impress.ulf\n"
+"STR_NAME_MODULE_PRG_IMPRESS_HELP\n"
+"LngText.text"
+msgid "%PRODUCTNAME Impress Help"
+msgstr "مساعدة %PRODUCTNAME امبريس"
+
+#: module_impress.ulf
+msgctxt ""
+"module_impress.ulf\n"
+"STR_DESC_MODULE_PRG_IMPRESS_HELP\n"
+"LngText.text"
+msgid "Help about %PRODUCTNAME Impress"
+msgstr "مساعدة حول %PRODUCTNAME امبريس"
+
+#: module_ogltrans.ulf
+msgctxt ""
+"module_ogltrans.ulf\n"
+"STR_NAME_MODULE_OPTIONAL_OGLTRANS\n"
+"LngText.text"
+msgid "OpenGL slide transitions for %PRODUCTNAME Impress"
+msgstr "فترات انتقال شريحة OpenGL لـ %PRODUCTNAME امبريس"
+
+#: module_ogltrans.ulf
+msgctxt ""
+"module_ogltrans.ulf\n"
+"STR_DESC_MODULE_OPTIONAL_OGLTRANS\n"
+"LngText.text"
+msgid "OpenGL slide transitions for %PRODUCTNAME Impress."
+msgstr ""
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_NEW\n"
+"LngText.text"
+msgid "&New"
+msgstr "جدي&د"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_SO60_SHOW\n"
+"LngText.text"
+msgid "Show"
+msgstr "إظهار"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_SO60_PRESENT\n"
+"LngText.text"
+msgid "%SXWFORMATNAME %SXWFORMATVERSION Presentation"
+msgstr "%SXWFORMATNAME %SXWFORMATVERSION العرض التقديمي"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_SO60_IMPRESS_TEMPLATE\n"
+"LngText.text"
+msgid "%SXWFORMATNAME %SXWFORMATVERSION Presentation Template"
+msgstr "%SXWFORMATNAME %SXWFORMATVERSION قالب العرض التقديمي"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_OO_PRESENT\n"
+"LngText.text"
+msgid "OpenDocument Presentation"
+msgstr "عرض OpenDocument تقديمي"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_OO_PRESENT_TEMPLATE\n"
+"LngText.text"
+msgid "OpenDocument Presentation Template"
+msgstr "قالب عرض OpenDocument تقديمي"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_MS_POWERPOINT_PRESENTATION_OLD\n"
+"LngText.text"
+msgid "Microsoft PowerPoint 97-2003 Presentation"
+msgstr "عرض مايكروسوفت باوربوينت 97-2003 تقديمي"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_MS_POWERPOINT_SHOW\n"
+"LngText.text"
+msgid "Microsoft PowerPoint Show"
+msgstr "عرض مايكروسوفت باوربوينت"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_MS_POWERPOINT_PRESENTATION\n"
+"LngText.text"
+msgid "Microsoft PowerPoint Presentation"
+msgstr "عرض مايكروسوفت باوربوينت تقديمي"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_MS_POWERPOINT_TEMPLATE_OLD\n"
+"LngText.text"
+msgid "Microsoft PowerPoint 97-2003 Template"
+msgstr "قالب مايكروسوفت باوربوينت 97-2003"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_MS_POWERPOINT_TEMPLATE\n"
+"LngText.text"
+msgid "Microsoft PowerPoint Template"
+msgstr "قالب مايكروسوفت باوربوينت"
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_UNIFORM_OFFICE_FORMAT_PRESENTATION\n"
+"LngText.text"
+msgid "Uniform Office Format Presentation"
+msgstr ""
+
+#: registryitem_impress.ulf
+msgctxt ""
+"registryitem_impress.ulf\n"
+"STR_REG_VAL_COMPUTER_GRAPHICS_METAFILE\n"
+"LngText.text"
+msgid "Computer Graphics Metafile"
+msgstr ""

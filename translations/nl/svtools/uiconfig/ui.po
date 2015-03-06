@@ -1,0 +1,953 @@
+#. extracted from svtools/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-11-22 10:15+0000\n"
+"Last-Translator: kees538 <kees538@hotmail.com>\n"
+"Language-Team: none\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1416651353.000000\n"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Width:"
+msgstr "Breedte:"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "Hoogte:"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"resolutionft\n"
+"label\n"
+"string.text"
+msgid "Resolution:"
+msgstr "Resolutie:"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "px"
+msgstr "px"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "DPI"
+msgstr "PPI"
+
+#: GraphicExportOptionsDialog.ui
+msgctxt ""
+"GraphicExportOptionsDialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Grootte"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"AddressTemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Templates: Address Book Assignment"
+msgstr "Sjablonen: Adresboek-toewijziging"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label33\n"
+"label\n"
+"string.text"
+msgid "Data source"
+msgstr "Gegevensbron"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label43\n"
+"label\n"
+"string.text"
+msgid "Table"
+msgstr "Tabel"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"admin\n"
+"label\n"
+"string.text"
+msgid "_Address Data Source..."
+msgstr "_Adresgegevensbron..."
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label100\n"
+"label\n"
+"string.text"
+msgid "Address Book Source"
+msgstr "Bron adresboek"
+
+#: addresstemplatedialog.ui
+msgctxt ""
+"addresstemplatedialog.ui\n"
+"label23\n"
+"label\n"
+"string.text"
+msgid "Field Assignment"
+msgstr "Veldtoewijzing"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"GraphicExportDialog\n"
+"title\n"
+"string.text"
+msgid "%1 Options"
+msgstr "%1 Opties"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Width"
+msgstr "Breedte"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Height"
+msgstr "Hoogte"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"resolutionft\n"
+"label\n"
+"string.text"
+msgid "Resolution"
+msgstr "Resolutie"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Grootte"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Color Depth"
+msgstr "Kleurdiepte"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "1 is minimum Quality and smallest file size."
+msgstr "1 stemt overeen met minste kwaliteit en kleinste bestandsgrootte."
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "100 is maximum Quality and biggest file size."
+msgstr "100 stemt overeen met hoogste kwaliteit en grootste bestandsgrootte."
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "Kwaliteit"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label22\n"
+"label\n"
+"string.text"
+msgid "0 is biggest file size and fastest loading."
+msgstr "0 stemt overeen met grootste bestandsgrootte en snelste laden."
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label23\n"
+"label\n"
+"string.text"
+msgid "9 is smallest file size and slowest loading."
+msgstr "9 stemt overeen met kleinste bestandsgrootte en traagste laden."
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "Compression"
+msgstr "Compressie"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"rlecb\n"
+"label\n"
+"string.text"
+msgid "RLE Encoding"
+msgstr "RLE-codering"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Compression"
+msgstr "Compressie"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"interlacedcb\n"
+"label\n"
+"string.text"
+msgid "Interlaced"
+msgstr "Interlaced"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Mode"
+msgstr "Modus"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"savetransparencycb\n"
+"label\n"
+"string.text"
+msgid "Save transparency"
+msgstr "Transparantie opslaan"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"labe\n"
+"label\n"
+"string.text"
+msgid "Drawing Objects"
+msgstr "Tekenobjecten"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"binarycb\n"
+"label\n"
+"string.text"
+msgid "Binary"
+msgstr "Binair"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"textcb\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Tekst"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "Encoding"
+msgstr "Codering"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"tiffpreviewcb\n"
+"label\n"
+"string.text"
+msgid "Image Preview (TIFF)"
+msgstr "Voorbeeldvenster (TIFF)"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"epsipreviewcb\n"
+"label\n"
+"string.text"
+msgid "Interchange (EPSI)"
+msgstr "Uitwisseling (EPSI)"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label17\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"color1rb\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Kleur"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"color2rb\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Grijswaarden"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label18\n"
+"label\n"
+"string.text"
+msgid "Color Format"
+msgstr "Kleuropmaak"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"level1rb\n"
+"label\n"
+"string.text"
+msgid "Level 1"
+msgstr "Niveau 1"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"level2rb\n"
+"label\n"
+"string.text"
+msgid "Level 2"
+msgstr "Niveau 2"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label19\n"
+"label\n"
+"string.text"
+msgid "Version"
+msgstr "Versie"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"compresslzw\n"
+"label\n"
+"string.text"
+msgid "LZW encoding"
+msgstr "LZW-codering"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"compressnone\n"
+"label\n"
+"string.text"
+msgid "None"
+msgstr "Geen"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label20\n"
+"label\n"
+"string.text"
+msgid "Compression"
+msgstr "Compressie"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Information"
+msgstr "Informatie"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "pixels/cm"
+msgstr "pixels/cm"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "pixels/inch"
+msgstr "pixels/inch"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "pixels/meter"
+msgstr "pixels/meter"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "inches"
+msgstr "inch"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "cm"
+msgstr "cm"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "mm"
+msgstr "mm"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"3\n"
+"stringlist.text"
+msgid "points"
+msgstr "punt"
+
+#: graphicexport.ui
+msgctxt ""
+"graphicexport.ui\n"
+"liststore2\n"
+"4\n"
+"stringlist.text"
+msgid "pixels"
+msgstr "pixels"
+
+#: javadisableddialog.ui
+msgctxt ""
+"javadisableddialog.ui\n"
+"JavaDisabledDialog\n"
+"title\n"
+"string.text"
+msgid "Enable JRE?"
+msgstr "JRE inschakelen?"
+
+#: javadisableddialog.ui
+msgctxt ""
+"javadisableddialog.ui\n"
+"JavaDisabledDialog\n"
+"text\n"
+"string.text"
+msgid "%PRODUCTNAME requires a Java runtime environment (JRE) to perform this task. However, use of a JRE has been disabled. Do you want to enable the use of a JRE now?"
+msgstr "%PRODUCTNAME vereist een Java runtime environment (JRE) om deze taak uit te voeren. Het gebruik van een JRE is echter uitgeschakeld. Wilt u het gebruiken van een JRE nu inschakelen?"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"PlaceEditDialog\n"
+"title\n"
+"string.text"
+msgid "File Services"
+msgstr "Bestandsservices"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "Naam"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Type"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "File Service"
+msgstr "Bestand-services"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"hostLabel\n"
+"label\n"
+"string.text"
+msgid "Host"
+msgstr "Gastheer"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"pathLabel\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "Pad"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"portLabel\n"
+"label\n"
+"string.text"
+msgid "Port"
+msgstr "Poort"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"webdavs\n"
+"label\n"
+"string.text"
+msgid "Secured WebDAV (HTTPS)"
+msgstr "Beveiligde WebDAV (HTTPS)"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Server Details"
+msgstr "Server_details"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"bindingLabel\n"
+"label\n"
+"string.text"
+msgid "Binding URL"
+msgstr "Bindende URL"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"repositoryLabel\n"
+"label\n"
+"string.text"
+msgid "Repository"
+msgstr "Bewaarplaats"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Server Type"
+msgstr "Servertype"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "Pad"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label12\n"
+"label\n"
+"string.text"
+msgid "Server Details"
+msgstr "Server_details"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label9\n"
+"label\n"
+"string.text"
+msgid "Host"
+msgstr "Gastheer"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label10\n"
+"label\n"
+"string.text"
+msgid "Share"
+msgstr "Delen"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Path"
+msgstr "Pad"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "Server Details"
+msgstr "Server_details"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "Login"
+msgstr "Aanmelden"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "User Details"
+msgstr "Gebruikersgegevens"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"0\n"
+"stringlist.text"
+msgid "WebDAV"
+msgstr "WebDAV"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"1\n"
+"stringlist.text"
+msgid "FTP"
+msgstr "FTP"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"2\n"
+"stringlist.text"
+msgid "SSH"
+msgstr "SSH"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"3\n"
+"stringlist.text"
+msgid "Windows Share"
+msgstr "Vensters delen"
+
+#: placeedit.ui
+msgctxt ""
+"placeedit.ui\n"
+"liststore1\n"
+"4\n"
+"stringlist.text"
+msgid "CMIS"
+msgstr "CMIS"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"PrinterSetupDialog\n"
+"title\n"
+"string.text"
+msgid "Printer Setup"
+msgstr "Printer instellen"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"options\n"
+"label\n"
+"string.text"
+msgid "Options..."
+msgstr "Opties..."
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "Naam"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Status"
+msgstr "Status"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Type"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Location"
+msgstr "Locatie"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Comment"
+msgstr "Opmerking"
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"properties\n"
+"label\n"
+"string.text"
+msgid "Properties..."
+msgstr "Eigenschappen..."
+
+#: printersetupdialog.ui
+msgctxt ""
+"printersetupdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Printer"
+msgstr "Printer"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"QueryDeleteDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm Delete"
+msgstr "Verwijderen bevestigen"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"QueryDeleteDialog\n"
+"text\n"
+"string.text"
+msgid "Are you sure you want to delete the selected data?"
+msgstr "Wilt u de geselecteerde gegevens echt verwijderen?"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"QueryDeleteDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Entry: %s"
+msgstr "Ingave: %s"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"yes\n"
+"label\n"
+"string.text"
+msgid "_Delete"
+msgstr "_Verwijderen"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"all\n"
+"label\n"
+"string.text"
+msgid "Delete _All"
+msgstr "Alles ver_wijderen"
+
+#: querydeletedialog.ui
+msgctxt ""
+"querydeletedialog.ui\n"
+"no\n"
+"label\n"
+"string.text"
+msgid "Do _Not Delete"
+msgstr "_Niet verwijderen"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"RestartDialog\n"
+"title\n"
+"string.text"
+msgid "Restart %PRODUCTNAME"
+msgstr "%PRODUCTNAME heropstarten"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"yes\n"
+"label\n"
+"string.text"
+msgid "Restart now"
+msgstr "Nu herstarten"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"no\n"
+"label\n"
+"string.text"
+msgid "Restart later"
+msgstr "Later herstarten"
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"reason_java\n"
+"label\n"
+"string.text"
+msgid "For the selected Java runtime environment to work properly, %PRODUCTNAME must be restarted."
+msgstr "%PRODUCTNAME moet opnieuw worden gestart om de geselecteerde Java runtime environment juist te laten werken."
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"reason_pdf\n"
+"label\n"
+"string.text"
+msgid "For the modified default print job format to take effect, %PRODUCTNAME must be restarted."
+msgstr "%PRODUCTNAME moet opnieuw worden gestart om de aangepaste standaard printeropmaak juist te laten werken."
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"reason_bibliography_install\n"
+"label\n"
+"string.text"
+msgid "For the bibliography to work properly, %PRODUCTNAME must be restarted."
+msgstr "%PRODUCTNAME moet opnieuw worden gestart om de bibliografie juist te laten werken."
+
+#: restartdialog.ui
+msgctxt ""
+"restartdialog.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "Do you want to restart %PRODUCTNAME now?"
+msgstr "Wenst u %PRODUCTNAME nu opnieuw op te starten?"

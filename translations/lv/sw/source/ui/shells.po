@@ -1,0 +1,454 @@
+#. extracted from sw/source/ui/shells
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-02-07 12:41+0000\n"
+"Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr "Attēla datni nevar atvērt"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr "Attēla datni nevar nolasīt"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr "Nezināms attēla formāts"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr "Šī attēla datnes versija nav atbalstīta"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr "Nav atrasts attēla filtrs"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to insert the image."
+msgstr "Nepietiek atmiņas, lai ievietotu attēlu."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_INSERT_GRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr "Ievietot attēlu"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_NO_ADDRESSBOOK\n"
+"string.text"
+msgid "An Address Book does not exist"
+msgstr "Adrešu grāmata neeksistē"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_COMMENT\n"
+"string.text"
+msgid "Comment: "
+msgstr "Komentārs: "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_INSERTED\n"
+"string.text"
+msgid "Insertion"
+msgstr "Ievietotais"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_DELETED\n"
+"string.text"
+msgid "Deletion"
+msgstr "Dzēstais"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_AUTOFMT\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Automātiskā labošana"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FORMATED\n"
+"string.text"
+msgid "Formats"
+msgstr "Formāti"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TABLECHG\n"
+"string.text"
+msgid "Table Changes"
+msgstr "Tabulas izmaiņas"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FMTCOLLSET\n"
+"string.text"
+msgid "Applied Paragraph Styles"
+msgstr "Izmantotie rindkopu stili"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TITLE\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "Automātiskā labošana"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_MSG\n"
+"string.text"
+msgid ""
+"AutoCorrect completed.\n"
+"You can accept or reject all changes,\n"
+"or accept or reject particular changes."
+msgstr ""
+"Automātiskā formatēšana pabeigta.\n"
+"Varat apstiprināt vai noraidīt visas izmaiņas,\n"
+"vai arī apstiprināt vai noraidīt katru izmaiņu atsevišķi."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_ACCEPT_ALL\n"
+"string.text"
+msgid "Accept All"
+msgstr "Apstiprināt visas"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_REJECT_ALL\n"
+"string.text"
+msgid "Reject All"
+msgstr "Noraidīt visas"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_EDIT\n"
+"string.text"
+msgid "Edit Changes"
+msgstr "Rediģēt izmaiņas"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "Lappuse "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT\n"
+"string.text"
+msgid "Page %1 of %2"
+msgstr "Lappuse %1 no %2"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT_CUSTOM\n"
+"string.text"
+msgid "Page %1 of %2 (Page %3)"
+msgstr "Lappuse %1 no %2 (lappuse %3)"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "Teksta objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table Object Bar"
+msgstr "Tabulas objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_FRAME_TOOLBOX\n"
+"string.text"
+msgid "Frame Object Bar"
+msgstr "Ietvara objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_GRAFIK_TOOLBOX\n"
+"string.text"
+msgid "Images Object Bar"
+msgstr "Attēlu objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_OLE_TOOLBOX\n"
+"string.text"
+msgid "Object"
+msgstr "Objekts"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "Zīmēšanas objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "Bezjē objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar/Images"
+msgstr "Teksta objektu josla/attēli"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_NUM_TOOLBOX\n"
+"string.text"
+msgid "Numbering Object Bar"
+msgstr "Numurēšanas objektu josla"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Teksts"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabula"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Ietvars"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Attēls"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Objekts"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_LIST\n"
+"string.text"
+msgid "List"
+msgstr "Saraksts"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "Zīmējums"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAWFORM\n"
+"string.text"
+msgid "Forms"
+msgstr "Formas"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_BEZIER\n"
+"string.text"
+msgid "Bézier"
+msgstr "Bezjē"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW_TEXT\n"
+"string.text"
+msgid "Draw text"
+msgstr "Zīmēt tekstu"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_MEDIA\n"
+"string.text"
+msgid "Media"
+msgstr "Skaņa un video"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Navigācija"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Rindkopa"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Attēls"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_OLE\n"
+"string.text"
+msgid "OLE object"
+msgstr "OLE objekts"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Ietvars"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tabula"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_ROW\n"
+"string.text"
+msgid "Table row"
+msgstr "Tabulas rinda"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_CELL\n"
+"string.text"
+msgid "Table cell"
+msgstr "Tabulas šūna"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PAGE\n"
+"string.text"
+msgid "Page"
+msgstr "Lappuse"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_HEADER\n"
+"string.text"
+msgid "Header"
+msgstr "Galvene"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FOOTER\n"
+"string.text"
+msgid "Footer"
+msgstr "Kājene"

@@ -1,0 +1,455 @@
+#. extracted from sw/source/ui/shells
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-13 18:11+0200\n"
+"Last-Translator: sophie <gautier.sophie@gmail.com>\n"
+"Language-Team: ll.org\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_OPENERROR\n"
+"string.text"
+msgid "Image file cannot be opened"
+msgstr "Impossible d'ouvrir le fichier d'image"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_IOERROR\n"
+"string.text"
+msgid "Image file cannot be read"
+msgstr "Impossible de lire le fichier image"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FORMATERROR\n"
+"string.text"
+msgid "Unknown image format"
+msgstr "Format d'image inconnu"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_VERSIONERROR\n"
+"string.text"
+msgid "This image file version is not supported"
+msgstr "Cette version du fichier d'image n'est pas prise en charge"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_FILTERERROR\n"
+"string.text"
+msgid "Image filter not found"
+msgstr "Impossible de trouver le filtre d'image"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_GRFILTER_TOOBIG\n"
+"string.text"
+msgid "Not enough memory to insert the image."
+msgstr "Mémoire insuffisante pour insérer l'image."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_INSERT_GRAPHIC\n"
+"string.text"
+msgid "Insert Image"
+msgstr "Insérer une image"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_NO_ADDRESSBOOK\n"
+"string.text"
+msgid "An Address Book does not exist"
+msgstr "Le carnet d'adresses n'existe pas"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_COMMENT\n"
+"string.text"
+msgid "Comment: "
+msgstr "Commentaire : "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_INSERTED\n"
+"string.text"
+msgid "Insertion"
+msgstr "Insertion"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_DELETED\n"
+"string.text"
+msgid "Deletion"
+msgstr "Suppression"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_AUTOFMT\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "AutoCorrection"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FORMATED\n"
+"string.text"
+msgid "Formats"
+msgstr "Formats"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TABLECHG\n"
+"string.text"
+msgid "Table Changes"
+msgstr "Modification de tableau"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_FMTCOLLSET\n"
+"string.text"
+msgid "Applied Paragraph Styles"
+msgstr "Styles de paragraphe appliqués"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_TITLE\n"
+"string.text"
+msgid "AutoCorrect"
+msgstr "AutoCorrection"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_MSG\n"
+"string.text"
+msgid ""
+"AutoCorrect completed.\n"
+"You can accept or reject all changes,\n"
+"or accept or reject particular changes."
+msgstr ""
+"L'AutoCorrection est terminée.\n"
+"Vous pouvez choisir d'en accepter ou rejeter toutes les modifications,\n"
+"ou d'accepter ou rejeter des modifications particulières."
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_ACCEPT_ALL\n"
+"string.text"
+msgid "Accept All"
+msgstr "Tout accepter"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_REJECT_ALL\n"
+"string.text"
+msgid "Reject All"
+msgstr "Tout rejeter"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_REDLINE_EDIT\n"
+"string.text"
+msgid "Edit Changes"
+msgstr "Éditer les modifications"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "Page "
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT\n"
+"string.text"
+msgid "Page %1 of %2"
+msgstr "Page %1 de %2"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_PAGE_COUNT_CUSTOM\n"
+"string.text"
+msgid "Page %1 of %2 (Page %3)"
+msgstr "Page %1 de %2 (Page %3)"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar"
+msgstr "Barre d'objets de texte"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_TABLE_TOOLBOX\n"
+"string.text"
+msgid "Table Object Bar"
+msgstr "Barre d'objets de tableau"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_FRAME_TOOLBOX\n"
+"string.text"
+msgid "Frame Object Bar"
+msgstr "Barre d'objets de cadre"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_GRAFIK_TOOLBOX\n"
+"string.text"
+msgid "Images Object Bar"
+msgstr "Barre d'objet graphique"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_OLE_TOOLBOX\n"
+"string.text"
+msgid "Object"
+msgstr "Objet"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TOOLBOX\n"
+"string.text"
+msgid "Draw Object Bar"
+msgstr "Barre d'objets de dessin"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_BEZIER_TOOLBOX\n"
+"string.text"
+msgid "Bézier Object Bar"
+msgstr "Barre d'objets Bézier"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_DRAW_TEXT_TOOLBOX\n"
+"string.text"
+msgid "Text Object Bar/Images"
+msgstr "Barre d'objets de texte/images"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"RID_NUM_TOOLBOX\n"
+"string.text"
+msgid "Numbering Object Bar"
+msgstr "Barre d'objets de numérotation"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Texte"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tableau"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Cadre"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Image"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Objet"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_LIST\n"
+"string.text"
+msgid "List"
+msgstr "Liste"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW\n"
+"string.text"
+msgid "Drawing"
+msgstr "Dessin"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAWFORM\n"
+"string.text"
+msgid "Forms"
+msgstr "Formulaires"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_BEZIER\n"
+"string.text"
+msgid "Bézier"
+msgstr "Bézier"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_DRAW_TEXT\n"
+"string.text"
+msgid "Draw text"
+msgstr "Texte dessiné"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_MEDIA\n"
+"string.text"
+msgid "Media"
+msgstr "Média"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SHELLNAME_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Navigation"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PARAGRAPH\n"
+"string.text"
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_GRAPHIC\n"
+"string.text"
+msgid "Image"
+msgstr "Image"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_OLE\n"
+"string.text"
+msgid "OLE object"
+msgstr "Objet OLE"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Cadre"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE\n"
+"string.text"
+msgid "Table"
+msgstr "Tableau"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_ROW\n"
+"string.text"
+msgid "Table row"
+msgstr "Ligne de tableau"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_TABLE_CELL\n"
+"string.text"
+msgid "Table cell"
+msgstr "Cellule de tableau"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_PAGE\n"
+"string.text"
+msgid "Page"
+msgstr "Page"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_HEADER\n"
+"string.text"
+msgid "Header"
+msgstr "En-tête"
+
+#: shells.src
+msgctxt ""
+"shells.src\n"
+"STR_SWBG_FOOTER\n"
+"string.text"
+msgid "Footer"
+msgstr "Pied de page"

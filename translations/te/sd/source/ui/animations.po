@@ -1,0 +1,562 @@
+#. extracted from sd/source/ui/animations
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-11-20 13:01+0100\n"
+"PO-Revision-Date: 2013-06-12 17:11+0530\n"
+"Last-Translator: Krishnababu Krothapalli <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <Fedora-trans-te@redhat.com>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_WITH_CLICK\n"
+"menuitem.text"
+msgid "Start On ~Click"
+msgstr "ప్రారంభించుటకొరకై క్లిక్(~C)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_WITH_PREVIOUS\n"
+"menuitem.text"
+msgid "Start ~With Previous"
+msgstr "క్రితం దానితో ప్రారంభించు(~W)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_AFTER_PREVIOUS\n"
+"menuitem.text"
+msgid "Start ~After Previous"
+msgstr "క్రితం దాని తరువాత ప్రారంభించు(~A)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_OPTIONS\n"
+"menuitem.text"
+msgid "~Effect Options..."
+msgstr "పర్యవసానాల ఐచ్ఛికాలు... (~E)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_DURATION\n"
+"menuitem.text"
+msgid "~Timing..."
+msgstr "సమయము...(~T)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_EFFECT_CONTEXTMENU\n"
+"CM_REMOVE\n"
+"menuitem.text"
+msgid "~Remove"
+msgstr "తీసివేయు(~R)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_25\n"
+"menuitem.text"
+msgid "Tiny"
+msgstr "సన్నని"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_50\n"
+"menuitem.text"
+msgid "Smaller"
+msgstr "చిన్నని"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_150\n"
+"menuitem.text"
+msgid "Larger"
+msgstr "పెద్దది"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSIZE_POPUP\n"
+"CM_SIZE_400\n"
+"menuitem.text"
+msgid "Extra large"
+msgstr "మరీ పెద్దది"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_25\n"
+"menuitem.text"
+msgid "Tiny"
+msgstr "సన్నని"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_50\n"
+"menuitem.text"
+msgid "Smaller"
+msgstr "చిన్నని"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_150\n"
+"menuitem.text"
+msgid "Larger"
+msgstr "పెద్దది"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_SIZE_400\n"
+"menuitem.text"
+msgid "Extra large"
+msgstr "మరీ పెద్దది"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_HORIZONTAL\n"
+"menuitem.text"
+msgid "Horizontal"
+msgstr "అడ్డం"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_VERTICAL\n"
+"menuitem.text"
+msgid "Vertical"
+msgstr "నిలువు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_SCALE_POPUP\n"
+"CM_BOTH\n"
+"menuitem.text"
+msgid "Both"
+msgstr "రెండూ"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_QUARTER_SPIN\n"
+"menuitem.text"
+msgid "Quarter spin"
+msgstr "పావు స్పిన్"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_HALF_SPIN\n"
+"menuitem.text"
+msgid "Half spin"
+msgstr "సగం స్పిన్"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_FULL_SPIN\n"
+"menuitem.text"
+msgid "Full spin"
+msgstr "పూర్తి స్పిన్"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_TWO_SPINS\n"
+"menuitem.text"
+msgid "Two spins"
+msgstr "రెండు స్పిన్నులు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_CLOCKWISE\n"
+"menuitem.text"
+msgid "Clockwise"
+msgstr "సవ్యదిశ"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_ROTATION_POPUP\n"
+"CM_COUNTERCLOCKWISE\n"
+"menuitem.text"
+msgid "Counter-clockwise"
+msgstr "అపసవ్యదిశ"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_BOLD\n"
+"menuitem.text"
+msgid "Bold"
+msgstr "మందము"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_ITALIC\n"
+"menuitem.text"
+msgid "Italic"
+msgstr "వాలు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"RID_CUSTOMANIMATION_FONTSTYLE_POPUP\n"
+"CM_UNDERLINED\n"
+"menuitem.text"
+msgid "Underlined"
+msgstr "కిందిగీతవుంచిన"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_VERY_SLOW\n"
+"string.text"
+msgid "Very slow"
+msgstr "చాలా నెమ్మదిగా"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_SLOW\n"
+"string.text"
+msgid "Slow"
+msgstr "నెమ్మదిగా"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_NORMAL\n"
+"string.text"
+msgid "Medium"
+msgstr "మాధ్యమికంగా"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_FAST\n"
+"string.text"
+msgid "Fast"
+msgstr "తొందరగా"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DURATION_VERY_FAST\n"
+"string.text"
+msgid "Very fast"
+msgstr "చాలా తొందరగా"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_NONE\n"
+"string.text"
+msgid "none"
+msgstr "ఏదీ కాదు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_UNTIL_NEXT_CLICK\n"
+"string.text"
+msgid "Until next click"
+msgstr "తరవాతి క్లిక్ వరకు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_REPEAT_UNTIL_END_OF_SLIDE\n"
+"string.text"
+msgid "Until end of slide"
+msgstr "స్లైడ్  చివరివరకు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_DIRECTION_PROPERTY\n"
+"string.text"
+msgid "Direction"
+msgstr "దిశ"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_ZOOM_PROPERTY\n"
+"string.text"
+msgid "Zoom"
+msgstr "జూమ్"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SPOKES_PROPERTY\n"
+"string.text"
+msgid "Spokes"
+msgstr "పుల్లల వంటి"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FIRST_COLOR_PROPERTY\n"
+"string.text"
+msgid "First color"
+msgstr "మొదటి రంగు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SECOND_COLOR_PROPERTY\n"
+"string.text"
+msgid "Second color"
+msgstr "రెండవ రంగు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FILL_COLOR_PROPERTY\n"
+"string.text"
+msgid "Fill color"
+msgstr "రంగును  నింపు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_STYLE_PROPERTY\n"
+"string.text"
+msgid "Style"
+msgstr "శైలి"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_PROPERTY\n"
+"string.text"
+msgid "Font"
+msgstr "అక్షరశైలి"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_COLOR_PROPERTY\n"
+"string.text"
+msgid "Font color"
+msgstr "అక్షరశైలి రంగు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_SIZE_STYLE_PROPERTY\n"
+"string.text"
+msgid "Style"
+msgstr "శైలి"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_FONT_STYLE_PROPERTY\n"
+"string.text"
+msgid "Typeface"
+msgstr "రకమైనముఖము"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_LINE_COLOR_PROPERTY\n"
+"string.text"
+msgid "Line color"
+msgstr "లైన్ రంగు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SIZE_PROPERTY\n"
+"string.text"
+msgid "Font size"
+msgstr "అక్షరశైలి పరిమాణం"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SCALE_PROPERTY\n"
+"string.text"
+msgid "Size"
+msgstr "పరిమాణం"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_AMOUNT_PROPERTY\n"
+"string.text"
+msgid "Amount"
+msgstr "మొత్తము"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_COLOR_PROPERTY\n"
+"string.text"
+msgid "Color"
+msgstr "రంగు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_NO_SOUND\n"
+"string.text"
+msgid "(No sound)"
+msgstr "(శబ్దం లేకుండా)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_STOP_PREVIOUS_SOUND\n"
+"string.text"
+msgid "(Stop previous sound)"
+msgstr "(క్రితం శబ్దం ఆపుము)"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_BROWSE_SOUND\n"
+"string.text"
+msgid "Other sound..."
+msgstr "వేరొక శబ్దం"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_SAMPLE\n"
+"string.text"
+msgid "Sample"
+msgstr "శాంపుల్ "
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_1_SPOKES\n"
+"string.text"
+msgid "1 Spoke"
+msgstr "1 పుల్ల"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_2_SPOKES\n"
+"string.text"
+msgid "2 Spokes"
+msgstr "2 పుల్లలు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_3_SPOKES\n"
+"string.text"
+msgid "3 Spokes"
+msgstr "3 పుల్లలు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_4_SPOKES\n"
+"string.text"
+msgid "4 Spokes"
+msgstr "4 పుల్లలు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_8_SPOKES\n"
+"string.text"
+msgid "8 Spokes"
+msgstr "8 పుల్లలు"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_INSTANT\n"
+"string.text"
+msgid "Instant"
+msgstr "వెంటనే"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_GRADUAL\n"
+"string.text"
+msgid "Gradual"
+msgstr "క్రమేపి"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_TRIGGER\n"
+"string.text"
+msgid "Trigger"
+msgstr "టిగ్గర్"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_LIST_HELPTEXT\n"
+"string.text"
+msgid "First select the slide element and then click 'Add...' to add an animation effect."
+msgstr "మొదలు స్లైడ్  మూలకంను ఎంచుకొనుము తరవాత 'కూడుము...'ను క్లిక్ చేసి స్వయంచాలక పర్యవసానాలను కూడుకొనుము"
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_CUSTOMANIMATION_USERPATH\n"
+"string.text"
+msgid "User paths"
+msgstr ""
+
+#: CustomAnimation.src
+msgctxt ""
+"CustomAnimation.src\n"
+"STR_SLIDETRANSITION_NONE\n"
+"string.text"
+msgid "No transition"
+msgstr ""

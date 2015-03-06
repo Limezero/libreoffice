@@ -1,0 +1,264 @@
+/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
+/*
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ */
+#ifndef INCLUDED_SW_INC_HINTS_HXX
+#define INCLUDED_SW_INC_HINTS_HXX
+
+#include <swatrset.hxx>
+
+class SwFmt;
+class OutputDevice;
+class SwTable;
+class SwNode;
+class SwNodes;
+class SwCntntNode;
+class SwPageFrm;
+class SwFrm;
+class SwTxtNode;
+class SwHistory;
+
+// Base class for all Message-Hints:
+// "Overhead" of SfxPoolItem is handled here
+class SwMsgPoolItem : public SfxPoolItem
+{
+public:
+    SwMsgPoolItem( sal_uInt16 nWhich );
+
+    // "Overhead" of SfxPoolItem
+    virtual bool            operator==( const SfxPoolItem& ) const SAL_OVERRIDE;
+    virtual SfxPoolItem*    Clone( SfxItemPool* pPool = 0 ) const SAL_OVERRIDE;
+};
+
+// SwPtrMsgPoolItem (old SwObjectDying!)
+
+class SwPtrMsgPoolItem : public SwMsgPoolItem
+{
+public:
+    void * pObject;
+
+    SwPtrMsgPoolItem( sal_uInt16 nId, void * pObj )
+        : SwMsgPoolItem( nId ), pObject( pObj )
+    {}
+};
+
+/*
+ * SwFmtChg is sent when a format has changed to another format. 2 Hints are always sent
+ * the old and the new format
+ */
+class SwFmtChg: public SwMsgPoolItem
+{
+public:
+    SwFmt *pChangedFmt;
+    SwFmtChg( SwFmt *pFmt );
+};
+
+class SwInsTxt: public SwMsgPoolItem
+{
+public:
+    sal_Int32 nPos;
+    sal_Int32 nLen;
+
+    SwInsTxt( sal_Int32 nP, sal_Int32 nL );
+};
+
+class SwDelChr: public SwMsgPoolItem
+{
+public:
+    sal_Int32 nPos;
+
+    SwDelChr( sal_Int32 nP );
+};
+
+class SwDelTxt: public SwMsgPoolItem
+{
+public:
+    sal_Int32 nStart;
+    sal_Int32 nLen;
+
+    SwDelTxt( sal_Int32 nS, sal_Int32 nL );
+};
+
+class SwUpdateAttr : public SwMsgPoolItem
+{
+private:
+    sal_Int32 nStart;
+    sal_Int32 nEnd;
+    sal_uInt16 nWhichAttr;
+    std::vector<sal_uInt16> aWhichFmtAttr; // attributes changed inside RES_TXTATR_AUTOFMT
+
+public:
+    SwUpdateAttr( sal_Int32 nS, sal_Int32 nE, sal_uInt16 nW );
+
+    sal_Int32 getStart() const
+    {
+        return nStart;
+    }
+
+    sal_Int32 getEnd() const
+    {
+        return nEnd;
+    }
+
+    sal_uInt16 getWhichAttr() const
+    {
+        return nWhichAttr;
+    }
+
+    const std::vector<sal_uInt16>& getFmtAttr() const
+    {
+        return aWhichFmtAttr;
+    }
+};
+
+/** SwRefMarkFldUpdate is sent when the referencemarks should be updated.
+     To determine Page- / chapternumbers the current frame has to be asked.
+      For this we need the current outputdevice */
+class SwRefMarkFldUpdate : public SwMsgPoolItem
+{
+public:
+    const OutputDevice* pOut; ///< pointer to the current output device
+    /** Is sent if reference marks should be updated.
+
+        To get the page/chapter number, the frame has to be asked. For that we need
+        the current OutputDevice.
+    */
+    SwRefMarkFldUpdate( const OutputDevice* );
+};
+
+/** SwDocPosUpdate is sent to signal that only the frames from or to a specified document-global position
+   have to be updated. At the moment this is only needed when updating pagenumber fields. */
+class SwDocPosUpdate : public SwMsgPoolItem
+{
+public:
+    const long nDocPos;
+    SwDocPosUpdate( const long nDocPos );
+};
+
+/// SwTableFmlUpdate is sent when the table has to be newly calculated or when a table itself is merged or splitted
+enum TableFmlUpdtFlags { TBL_CALC = 0,
+                         TBL_BOXNAME,
+                         TBL_BOXPTR,
+                         TBL_RELBOXNAME,
+                         TBL_MERGETBL,
+                         TBL_SPLITTBL
+                       };
+class SwTableFmlUpdate : public SwMsgPoolItem
+{
+public:
+    const SwTable* pTbl;         ///< Pointer to the current table
+    union {
+        const SwTable* pDelTbl;  ///< Merge: Pointer to the table to be removed
+        const OUString* pNewTblNm; ///< Split: the name of the new table
+    } DATA;
+    SwHistory* pHistory;
+    sal_uInt16 nSplitLine;       ///< Split: from this BaseLine on will be splitted
+    TableFmlUpdtFlags eFlags;
+    bool bModified : 1;
+    bool bBehindSplitLine : 1;
+
+    /** Is sent if a table should be recalculated */
+    SwTableFmlUpdate( const SwTable* );
+};
+
+class SwAutoFmtGetDocNode: public SwMsgPoolItem
+{
+public:
+    const SwCntntNode* pCntntNode;
+    const SwNodes* pNodes;
+
+    SwAutoFmtGetDocNode( const SwNodes* pNds );
+};
+
+/*
+ * SwAttrSetChg is sent when something has changed in the SwAttrSet rTheChgdSet.
+ * 2 Hints are always sent, the old and the new items in the rTheChgdSet.
+ */
+class SwAttrSetChg: public SwMsgPoolItem
+{
+    bool bDelSet;
+    SwAttrSet* pChgSet;           ///< what has changed
+    const SwAttrSet* pTheChgdSet; ///< is only used to compare
+public:
+    SwAttrSetChg( const SwAttrSet& rTheSet, SwAttrSet& rSet );
+    SwAttrSetChg( const SwAttrSetChg& );
+    virtual ~SwAttrSetChg();
+
+    /// What has changed
+    const SwAttrSet* GetChgSet() const     { return pChgSet; }
+          SwAttrSet* GetChgSet()           { return pChgSet; }
+
+    /// Where it has changed
+    const SwAttrSet* GetTheChgdSet() const { return pTheChgdSet; }
+
+    sal_uInt16 Count() const { return pChgSet->Count(); }
+    void ClearItem( sal_uInt16 nWhichL = 0 )
+#ifdef DBG_UTIL
+        ;
+#else
+    { pChgSet->ClearItem( nWhichL ); }
+#endif
+};
+
+class SwCondCollCondChg: public SwMsgPoolItem
+{
+public:
+    SwFmt *pChangedFmt;
+    SwCondCollCondChg( SwFmt *pFmt );
+};
+
+class SwVirtPageNumInfo: public SwMsgPoolItem
+{
+    const SwPageFrm *pPage;
+    const SwPageFrm *pOrigPage;
+    const SwFrm     *pFrm;
+    /** Multiple attributes can be attached to a single paragraph / table
+     The frame, in the end, has to decide which attribute takes effect and which physical page it involves */
+public:
+    SwVirtPageNumInfo( const SwPageFrm *pPg );
+
+    const SwPageFrm *GetPage()          { return pPage;    }
+    const SwPageFrm *GetOrigPage()      { return pOrigPage;}
+    const SwFrm *GetFrm()               { return pFrm; }
+    void  SetInfo( const SwPageFrm *pPg,
+                   const SwFrm *pF )    { pFrm = pF, pPage = pPg; }
+};
+
+class SwFindNearestNode : public SwMsgPoolItem
+{
+    const SwNode *pNd, *pFnd;
+public:
+    SwFindNearestNode( const SwNode& rNd );
+    void CheckNode( const SwNode& rNd );
+
+    const SwNode* GetFoundNode() const { return pFnd; }
+};
+
+class SwStringMsgPoolItem : public SwMsgPoolItem
+{
+    OUString m_sStr;
+public:
+
+    OUString GetString() const { return m_sStr; }
+
+    SwStringMsgPoolItem( sal_uInt16 nId, const OUString& rStr )
+        : SwMsgPoolItem( nId ), m_sStr( rStr )
+    {}
+};
+#endif
+
+/* vim:set shiftwidth=4 softtabstop=4 expandtab: */

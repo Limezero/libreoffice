@@ -1,0 +1,6408 @@
+#. extracted from svx/source/dialog
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2014-12-05 14:54+0000\n"
+"Last-Translator: Rhoslyn <rprys@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1417791286.000000\n"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"GRP_Q\n"
+"fixedline.text"
+msgid "Colors"
+msgstr "Lliwiau"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_1\n"
+"fixedtext.text"
+msgid "Source color"
+msgstr "Ffynhonnell lliw"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_2\n"
+"fixedtext.text"
+msgid "Tolerance"
+msgstr "Goddefiant"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"FT_3\n"
+"fixedtext.text"
+msgid "Replace with..."
+msgstr "Newid gyda..."
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"CBX_TRANS\n"
+"checkbox.text"
+msgid "Tr~ansparency"
+msgstr "~Tryloywder"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"BTN_EXEC\n"
+"pushbutton.text"
+msgid "~Replace"
+msgstr "~Newid"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK.TBX_PIPETTE\n"
+"TBI_PIPETTE\n"
+"toolboxitem.text"
+msgid "Pipette"
+msgstr "Piped"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK\n"
+"dockingwindow.text"
+msgid "Color Replacer"
+msgstr "Amnewidydd Lliw"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_TRANSP\n"
+"string.text"
+msgid "Transparent"
+msgstr "Tryloyw"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_SOURCECOLOR\n"
+"string.text"
+msgid "Source Color"
+msgstr "Lliw'r Ffynhonnell"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_PALETTE\n"
+"string.text"
+msgid "Color Palette"
+msgstr "Palet Lliw"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_TOLERANCE\n"
+"string.text"
+msgid "Tolerance"
+msgstr "Goddefiant"
+
+#: bmpmask.src
+msgctxt ""
+"bmpmask.src\n"
+"RID_SVXDLG_BMPMASK_STR_REPLACEWITH\n"
+"string.text"
+msgid "Replace with"
+msgstr "Amnewid gyda"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_ORIGINAL_SIZE\n"
+"string.text"
+msgid "$(WIDTH) x $(HEIGHT) ($(WIDTH_IN_PX) x $(HEIGHT_IN_PX) px)"
+msgstr "$(WIDTH) x $(HEIGHT) ($(WIDTH_IN_PX) x $(HEIGHT_IN_PX) px)"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_VIEW_SIZE\n"
+"string.text"
+msgid "$(WIDTH) x $(HEIGHT) at $(DPI) DPI"
+msgstr "$(WIDTH) x $(HEIGHT) at $(DPI) DPI"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_CAPACITY\n"
+"string.text"
+msgid "$(CAPACITY) kiB"
+msgstr "$(CAPACITY) kiB"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_GIF\n"
+"string.text"
+msgid "Gif image"
+msgstr "Delwedd Gif"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_JPEG\n"
+"string.text"
+msgid "Jpeg image"
+msgstr "Delwedd Jpeg"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_PNG\n"
+"string.text"
+msgid "PNG image"
+msgstr "Delwedd PNG"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_TIFF\n"
+"string.text"
+msgid "TIFF image"
+msgstr "Delwedd TIFF"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_WMF\n"
+"string.text"
+msgid "WMF image"
+msgstr "Delwedd WMF"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_MET\n"
+"string.text"
+msgid "MET image"
+msgstr "Delwedd MET"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_PCT\n"
+"string.text"
+msgid "PCT image"
+msgstr "Delwedd PCT"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_SVG\n"
+"string.text"
+msgid "SVG image"
+msgstr "Delwedd SVG"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_BMP\n"
+"string.text"
+msgid "BMP image"
+msgstr "Delwedd BMP"
+
+#: compressgraphicdialog.src
+msgctxt ""
+"compressgraphicdialog.src\n"
+"STR_IMAGE_UNKNOWN\n"
+"string.text"
+msgid "Unknown"
+msgstr "Anhysbys"
+
+#: dlgctrl.src
+msgctxt ""
+"dlgctrl.src\n"
+"STR_SWITCH\n"
+"string.text"
+msgid "Switch"
+msgstr "Newid"
+
+#: docrecovery.src
+msgctxt ""
+"docrecovery.src\n"
+"RID_SVXSTR_QUERY_EXIT_RECOVERY\n"
+"string.text"
+msgid "Are you sure you want to discard the %PRODUCTNAME document recovery data?"
+msgstr "Ydych chi'n siŵr eich bod am ddiddymu adfer dogfen %PRODUCTNAME?"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_OFF\n"
+"toolboxitem.text"
+msgid "Off"
+msgstr "Diffodd"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_ROTATE\n"
+"toolboxitem.text"
+msgid "Rotate"
+msgstr "Cylchdroi"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_UPRIGHT\n"
+"toolboxitem.text"
+msgid "Upright"
+msgstr "Unionsyth"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_SLANTX\n"
+"toolboxitem.text"
+msgid "Slant Horizontal"
+msgstr "Goleddf Llorweddol"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_STYLE\n"
+"TBI_STYLE_SLANTY\n"
+"toolboxitem.text"
+msgid "Slant Vertical"
+msgstr "Goleddf Fertigol"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_MIRROR\n"
+"toolboxitem.text"
+msgid "Orientation"
+msgstr "Cyfeiriadedd"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_LEFT\n"
+"toolboxitem.text"
+msgid "Align Left"
+msgstr "Alinio i'r Chwith"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_CENTER\n"
+"toolboxitem.text"
+msgid "Center"
+msgstr "Canol"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_RIGHT\n"
+"toolboxitem.text"
+msgid "Align Right"
+msgstr "Alinio i'r Dde"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_ADJUST\n"
+"TBI_ADJUST_AUTOSIZE\n"
+"toolboxitem.text"
+msgid "AutoSize Text"
+msgstr "AwtoMaint Testun"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_DISTANCE\n"
+"metricfield.quickhelptext"
+msgid "Distance"
+msgstr "Pellter"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_TEXTSTART\n"
+"metricfield.quickhelptext"
+msgid "Indent"
+msgstr "Mewnoliad"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHOWFORM\n"
+"toolboxitem.text"
+msgid "Contour"
+msgstr "Amlinell"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_OUTLINE\n"
+"toolboxitem.text"
+msgid "Text Contour"
+msgstr "Amlinell Testun"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_OFF\n"
+"toolboxitem.text"
+msgid "No Shadow"
+msgstr "Dim Cysgod"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_NORMAL\n"
+"toolboxitem.text"
+msgid "Vertical"
+msgstr "Fertigol"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK.TBX_SHADOW\n"
+"TBI_SHADOW_SLANT\n"
+"toolboxitem.text"
+msgid "Slant"
+msgstr "Goleddf"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_X\n"
+"metricfield.text"
+msgid " degrees"
+msgstr " graddau"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_X\n"
+"metricfield.quickhelptext"
+msgid "Distance X"
+msgstr "Pellter X"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"MTR_FLD_SHADOW_Y\n"
+"metricfield.quickhelptext"
+msgid "Distance Y"
+msgstr "Pellter Y"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"CLB_SHADOW_COLOR\n"
+"listbox.quickhelptext"
+msgid "Shadow Color"
+msgstr "Lliw Cysgodi"
+
+#: fontwork.src
+msgctxt ""
+"fontwork.src\n"
+"RID_SVXDLG_FONTWORK\n"
+"dockingwindow.text"
+msgid "Fontwork"
+msgstr "Fontwork"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Border setting\n"
+"itemlist.text"
+msgid "Border setting"
+msgstr "Gosodiad border"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Left border line\n"
+"itemlist.text"
+msgid "Left border line"
+msgstr "Llinell border chwith"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Right border line\n"
+"itemlist.text"
+msgid "Right border line"
+msgstr "Llinell border de"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Top border line\n"
+"itemlist.text"
+msgid "Top border line"
+msgstr "Llinell border brig"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Bottom border line\n"
+"itemlist.text"
+msgid "Bottom border line"
+msgstr "Llinell border gwaelod"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Horizontal border line\n"
+"itemlist.text"
+msgid "Horizontal border line"
+msgstr "Llinell border llorweddol"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Vertical border line\n"
+"itemlist.text"
+msgid "Vertical border line"
+msgstr "Llinell border fertigol"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Diagonal border line from top left to bottom right\n"
+"itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr "Llinell border croesgornel o'r brig chwith i'r dde gwaelod"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS\n"
+"Diagonal border line from bottom left to top right\n"
+"itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr "Llinell border croesgornel o'r gwaelod chwith i'r dde brig"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Border setting\n"
+"itemlist.text"
+msgid "Border setting"
+msgstr "Gosodiad border"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Left border line\n"
+"itemlist.text"
+msgid "Left border line"
+msgstr "Llinell border chwith"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Right border line\n"
+"itemlist.text"
+msgid "Right border line"
+msgstr "Llinell border de"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Top border line\n"
+"itemlist.text"
+msgid "Top border line"
+msgstr "Llinell border brig"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Bottom border line\n"
+"itemlist.text"
+msgid "Bottom border line"
+msgstr "Llinell border gwaelod"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Horizontal border line\n"
+"itemlist.text"
+msgid "Horizontal border line"
+msgstr "Llinell border llorweddol"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Vertical border line\n"
+"itemlist.text"
+msgid "Vertical border line"
+msgstr "Llinell border fertigol"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Diagonal border line from top left to bottom right\n"
+"itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr "Llinell border croesgornel o'r brig chwith i'r dde gwaelod"
+
+#: frmsel.src
+msgctxt ""
+"frmsel.src\n"
+"RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS\n"
+"Diagonal border line from bottom left to top right\n"
+"itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr "Llinell border croesgornel o'r gwaelod chwith i'r dde brig"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_URL\n"
+"menuitem.text"
+msgid "Description..."
+msgstr "Disgrifiad..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_MACRO\n"
+"menuitem.text"
+msgid "~Macro..."
+msgstr "~Macro..."
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_ACTIVATE\n"
+"menuitem.text"
+msgid "Active"
+msgstr "Gweithredol"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_FRAME_TO_TOP\n"
+"menuitem.text"
+msgid "Bring to Front"
+msgstr "Dwyn i'r Blaen"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_MOREFRONT\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr "Dwyn ~Ymlaen"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_MOREBACK\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr "Anfon ~Nôl"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP.MN_POSITION\n"
+"MN_FRAME_TO_BOTTOM\n"
+"menuitem.text"
+msgid "~Send to Back"
+msgstr "~Anfon i'r Cefn"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_POSITION\n"
+"menuitem.text"
+msgid "Arrange"
+msgstr "Trefnu"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_MARK_ALL\n"
+"menuitem.text"
+msgid "Select ~All"
+msgstr "~Dewis Popeth"
+
+#: imapdlg.src
+msgctxt ""
+"imapdlg.src\n"
+"RID_SVXMN_IMAP\n"
+"MN_DELETE1\n"
+"menuitem.text"
+msgid "~Delete"
+msgstr "~Dileu"
+
+#: language.src
+msgctxt ""
+"language.src\n"
+"RID_SVXSTR_LANGUAGE_ALL\n"
+"string.text"
+msgid "[All]"
+msgstr "[All]"
+
+#: passwd.src
+msgctxt ""
+"passwd.src\n"
+"RID_SVXSTR_ERR_OLD_PASSWD\n"
+"string.text"
+msgid "Invalid password"
+msgstr "Cyfrinair annilys"
+
+#: passwd.src
+msgctxt ""
+"passwd.src\n"
+"RID_SVXSTR_ERR_REPEAT_PASSWD\n"
+"string.text"
+msgid "Passwords do not match"
+msgstr "Nid yw'r cyfrineiriau'n cydweddu"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_TITLE\n"
+"string.text"
+msgid "Printing selection"
+msgstr "Adran argraffu"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_MSG\n"
+"string.text"
+msgid "Do you want to print the selection or the entire document?"
+msgstr "Hoffech chi argraffu rhan neu'r ddogfen gyfan?"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_ALL\n"
+"string.text"
+msgid "~All"
+msgstr "P~opeth"
+
+#: prtqry.src
+msgctxt ""
+"prtqry.src\n"
+"RID_SVXSTR_QRY_PRINT_SELECTION\n"
+"string.text"
+msgid "~Selection"
+msgstr "~Dewis"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_MM\n"
+"menuitem.text"
+msgid "Millimeter"
+msgstr "Milimedr"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_CM\n"
+"menuitem.text"
+msgid "Centimeter"
+msgstr "Centimedr"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_M\n"
+"menuitem.text"
+msgid "Meter"
+msgstr "Metr"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_KM\n"
+"menuitem.text"
+msgid "Kilometer"
+msgstr "Kilometr"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_INCH\n"
+"menuitem.text"
+msgid "Inch"
+msgstr "Modfedd"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_FOOT\n"
+"menuitem.text"
+msgid "Foot"
+msgstr "Troedfedd"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_MILE\n"
+"menuitem.text"
+msgid "Miles"
+msgstr "Milltiroedd"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_POINT\n"
+"menuitem.text"
+msgid "Point"
+msgstr "Pwynt"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_PICA\n"
+"menuitem.text"
+msgid "Pica"
+msgstr "Pica"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_CHAR\n"
+"menuitem.text"
+msgid "Char"
+msgstr "Nod"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXMN_RULER\n"
+"ID_LINE\n"
+"menuitem.text"
+msgid "Line"
+msgstr "Llinell"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "Chwith"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "De"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_CENTER\n"
+"string.text"
+msgid "Center"
+msgstr "Canol"
+
+#: ruler.src
+msgctxt ""
+"ruler.src\n"
+"RID_SVXSTR_RULER_TAB_DECIMAL\n"
+"string.text"
+msgid "Decimal"
+msgstr "Degol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SOLID\n"
+"string.text"
+msgid "Continuous"
+msgstr "Parhaus"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRADIENT\n"
+"string.text"
+msgid "Gradient"
+msgstr "Graddiant"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BITMAP\n"
+"string.text"
+msgid "Bitmap"
+msgstr "Didfap"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINESTYLE\n"
+"string.text"
+msgid "Line Style"
+msgstr "Arddull Llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_INVISIBLE\n"
+"string.text"
+msgid "None"
+msgstr "Dim"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR\n"
+"string.text"
+msgid "Color"
+msgstr "Lliw"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH\n"
+"string.text"
+msgid "Hatching"
+msgstr "Croes-liniogi"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEEND\n"
+"string.text"
+msgid "Arrowheads"
+msgstr "Pensaethau"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CLOSE\n"
+"string.text"
+msgid "Close"
+msgstr "Cau"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLACK\n"
+"string.text"
+msgid "Black"
+msgstr "Du"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_GREEN\n"
+"string.text"
+msgid "Green"
+msgstr "Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_CYAN\n"
+"string.text"
+msgid "Cyan"
+msgstr "Cyan"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_RED\n"
+"string.text"
+msgid "Red"
+msgstr "Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_MAGENTA\n"
+"string.text"
+msgid "Magenta"
+msgstr "Magenta"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_GREY\n"
+"string.text"
+msgid "Gray"
+msgstr "Llwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_YELLOW\n"
+"string.text"
+msgid "Yellow"
+msgstr "Melyn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_WHITE\n"
+"string.text"
+msgid "White"
+msgstr "Gwyn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUEGREY\n"
+"string.text"
+msgid "Blue gray"
+msgstr "Glaslwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BLUE_CLASSIC\n"
+"string.text"
+msgid "Blue classic"
+msgstr "Glas clasurol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_ORANGE\n"
+"string.text"
+msgid "Orange"
+msgstr "Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_ARROW\n"
+"string.text"
+msgid "Arrow"
+msgstr "Saeth"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SQUARE\n"
+"string.text"
+msgid "Square"
+msgstr "Sgwâr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CIRCLE\n"
+"string.text"
+msgid "Circle"
+msgstr "Cylch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NONE\n"
+"string.text"
+msgid "- none -"
+msgstr "- dim -"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TRANSPARENCE\n"
+"string.text"
+msgid "Transparency"
+msgstr "Tryloywder"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_CENTERED\n"
+"string.text"
+msgid "Centered"
+msgstr "Canoli"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NOTCENTERED\n"
+"string.text"
+msgid "Not centered"
+msgstr "Heb ei ganoli"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_STANDARD\n"
+"string.text"
+msgid "Default"
+msgstr "Rhagosodedig"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_GREYS\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Graddlwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_MONO\n"
+"string.text"
+msgid "Black/White"
+msgstr "Du/Gwyn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRAFMODE_WATERMARK\n"
+"string.text"
+msgid "Watermark"
+msgstr "Dyfrnod"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_IVF\n"
+"string.text"
+msgid "Intel Indeo Video (*.ivf)"
+msgstr "Intel Indeo Video (*.ivf)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_AVI\n"
+"string.text"
+msgid "Video for Windows (*.avi)"
+msgstr "Video for Windows (*.avi)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_MOV\n"
+"string.text"
+msgid "QuickTime Movie (*.mov)"
+msgstr "QuickTime Movie (*.mov)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_EXTFILTER_MPEG\n"
+"string.text"
+msgid "MPEG - Motion Pictures Experts Group (*.mpe;*.mpeg;*.mpg)"
+msgstr "MPEG - Motion Pictures Experts Group (*.mpe;*.mpeg;*.mpg)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_EXTFILTER_ALL\n"
+"string.text"
+msgid "<All>"
+msgstr "<Pob>"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_SOUND_TITLE\n"
+"string.text"
+msgid "Insert audio"
+msgstr "Mewnosod sain"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"STR_INSERT_VIDEO_TITLE\n"
+"string.text"
+msgid "Insert video"
+msgstr "Mewnosod fideo"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_VIOLET\n"
+"string.text"
+msgid "Violet"
+msgstr "Fioled"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_BORDEAUX\n"
+"string.text"
+msgid "Bordeaux"
+msgstr "Bordeaux"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PALE_YELLOW\n"
+"string.text"
+msgid "Pale yellow"
+msgstr "Melyn golau"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PALE_GREEN\n"
+"string.text"
+msgid "Pale green"
+msgstr "Gwyrdd golau"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_DARKVIOLET\n"
+"string.text"
+msgid "Dark violet"
+msgstr "Fioled tywyll"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SALMON\n"
+"string.text"
+msgid "Salmon"
+msgstr "Samwn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SEABLUE\n"
+"string.text"
+msgid "Sea blue"
+msgstr "Glas y môr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_CHART\n"
+"string.text"
+msgid "Chart"
+msgstr "Siart"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PURPLE\n"
+"string.text"
+msgid "Purple"
+msgstr "Porffor"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_SKYBLUE\n"
+"string.text"
+msgid "Sky blue"
+msgstr "Glas yr awyr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_YELLOWGREEN\n"
+"string.text"
+msgid "Yellow green"
+msgstr "Melyn gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_PINK\n"
+"string.text"
+msgid "Pink"
+msgstr "Pinc"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TURQUOISE\n"
+"string.text"
+msgid "Turquoise"
+msgstr "Glaswyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_3D\n"
+"string.text"
+msgid "3D"
+msgstr "3D"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLACK1\n"
+"string.text"
+msgid "Black 1"
+msgstr "Du 1"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLACK2\n"
+"string.text"
+msgid "Black 2"
+msgstr "Du 2"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BLUE\n"
+"string.text"
+msgid "Blue"
+msgstr "Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_BROWN\n"
+"string.text"
+msgid "Brown"
+msgstr "Brown"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY\n"
+"string.text"
+msgid "Currency"
+msgstr "Arian"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_3D\n"
+"string.text"
+msgid "Currency 3D"
+msgstr "3D Arian"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_GRAY\n"
+"string.text"
+msgid "Currency Gray"
+msgstr "Llwyd Arian"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_LAVENDER\n"
+"string.text"
+msgid "Currency Lavender"
+msgstr "Lafant Arian"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_CURRENCY_TURQUOISE\n"
+"string.text"
+msgid "Currency Turquoise"
+msgstr "Glaswyrdd Arian"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_GRAY\n"
+"string.text"
+msgid "Gray"
+msgstr "Llwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_GREEN\n"
+"string.text"
+msgid "Green"
+msgstr "Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_LAVENDER\n"
+"string.text"
+msgid "Lavender"
+msgstr "Lafant"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_RED\n"
+"string.text"
+msgid "Red"
+msgstr "Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_TURQUOISE\n"
+"string.text"
+msgid "Turquoise"
+msgstr "Glaswyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TBLAFMT_YELLOW\n"
+"string.text"
+msgid "Yellow"
+msgstr "Melyn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_MIDDLE\n"
+"string.text"
+msgid "Line joint averaged"
+msgstr "Cyfartalu uniadau llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_BEVEL\n"
+"string.text"
+msgid "Line joint bevel"
+msgstr "Befel uniad llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_MITER\n"
+"string.text"
+msgid "Line joint miter"
+msgstr "Meitr uniad llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINEJOINT_ROUND\n"
+"string.text"
+msgid "Line joint round"
+msgstr "Crwn uniad llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_BUTT\n"
+"string.text"
+msgid "Line cap flat"
+msgstr "Llinell cap gwastad"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_ROUND\n"
+"string.text"
+msgid "Line cap round"
+msgstr "Llinell cap crwn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LINECAP_SQUARE\n"
+"string.text"
+msgid "Line cap square"
+msgstr "Llinell cap sgwâr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT0\n"
+"string.text"
+msgid "Gradient"
+msgstr "Graddiant"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT1\n"
+"string.text"
+msgid "Linear blue/white"
+msgstr "Glas/gwyn llinol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT2\n"
+"string.text"
+msgid "Linear magenta/green"
+msgstr "Magenta/gwyrdd llinol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT3\n"
+"string.text"
+msgid "Linear yellow/brown"
+msgstr "Melyn/brown llinol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT4\n"
+"string.text"
+msgid "Radial green/black"
+msgstr "Gwyrdd/du rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT5\n"
+"string.text"
+msgid "Radial red/yellow"
+msgstr "Coch/melyn rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT6\n"
+"string.text"
+msgid "Rectangular red/white"
+msgstr "Coch/gwyn petryal"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT7\n"
+"string.text"
+msgid "Square yellow/white"
+msgstr "Melyn/gwyn sgwâr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT8\n"
+"string.text"
+msgid "Ellipsoid blue gray/light blue"
+msgstr "Llwydlas/glas golau elipsoid"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT9\n"
+"string.text"
+msgid "Axial light red/white"
+msgstr "Coch golau/gwyn echelinol"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT10\n"
+"string.text"
+msgid "Diagonal 1l"
+msgstr "Croeslin 1l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT11\n"
+"string.text"
+msgid "Diagonal 1r"
+msgstr "Croeslin 1r"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT12\n"
+"string.text"
+msgid "Diagonal 2l"
+msgstr "Croeslin 2l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT13\n"
+"string.text"
+msgid "Diagonal 2r"
+msgstr "Croeslin 2r"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT14\n"
+"string.text"
+msgid "Diagonal 3l"
+msgstr "Croeslin 3l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT15\n"
+"string.text"
+msgid "Diagonal 3r"
+msgstr "Croeslin 3r"
+
+#. l means left
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT16\n"
+"string.text"
+msgid "Diagonal 4l"
+msgstr "Croeslin 4l"
+
+#. r means right
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT17\n"
+"string.text"
+msgid "Diagonal 4r"
+msgstr "Croeslin 4r"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT18\n"
+"string.text"
+msgid "Diagonal Blue"
+msgstr "Croeslin Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT19\n"
+"string.text"
+msgid "Diagonal Green"
+msgstr "Croeslin Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT20\n"
+"string.text"
+msgid "Diagonal Orange"
+msgstr "Croeslin Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT21\n"
+"string.text"
+msgid "Diagonal Red"
+msgstr "Croeslin Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT22\n"
+"string.text"
+msgid "Diagonal Turquoise"
+msgstr "Croeslin Gwyrddlas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT23\n"
+"string.text"
+msgid "Diagonal Violet"
+msgstr "Croeslin Fioled"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT24\n"
+"string.text"
+msgid "From a Corner"
+msgstr "O Gornel"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT25\n"
+"string.text"
+msgid "From a Corner, Blue"
+msgstr "O Gornel, Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT26\n"
+"string.text"
+msgid "From a Corner, Green"
+msgstr "O Gornel, Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT27\n"
+"string.text"
+msgid "From a Corner, Orange"
+msgstr "O Gornel, Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT28\n"
+"string.text"
+msgid "From a Corner, Red"
+msgstr "O Gornel, Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT29\n"
+"string.text"
+msgid "From a Corner, Turquoise"
+msgstr "O Gornel, Glaswyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT30\n"
+"string.text"
+msgid "From a Corner, Violet"
+msgstr "O Gornel, Fioled"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT31\n"
+"string.text"
+msgid "From the Middle"
+msgstr "O'r Canol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT32\n"
+"string.text"
+msgid "From the Middle, Blue"
+msgstr "O'r Canol, Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT33\n"
+"string.text"
+msgid "From the Middle, Green"
+msgstr "O'r Canol, Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT34\n"
+"string.text"
+msgid "From the Middle, Orange"
+msgstr "O'r Canol, Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT35\n"
+"string.text"
+msgid "From the Middle, Red"
+msgstr "O'r Canol, Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT36\n"
+"string.text"
+msgid "From the Middle, Turquoise"
+msgstr "O'r Canol, Gwyrddlas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT37\n"
+"string.text"
+msgid "From the Middle, Violet"
+msgstr "O'r Canol, Fioled"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT38\n"
+"string.text"
+msgid "Horizontal"
+msgstr "Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT39\n"
+"string.text"
+msgid "Horizontal Blue"
+msgstr "Glas Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT40\n"
+"string.text"
+msgid "Horizontal Green"
+msgstr "Gwyrdd Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT41\n"
+"string.text"
+msgid "Horizontal Orange"
+msgstr "Oren Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT42\n"
+"string.text"
+msgid "Horizontal Red"
+msgstr "Coch Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT43\n"
+"string.text"
+msgid "Horizontal Turquoise"
+msgstr "Gwyrddlas Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT44\n"
+"string.text"
+msgid "Horizontal Violet"
+msgstr "Fioled Llorweddol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT45\n"
+"string.text"
+msgid "Radial"
+msgstr "Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT46\n"
+"string.text"
+msgid "Radial Blue"
+msgstr "Glas Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT47\n"
+"string.text"
+msgid "Radial Green"
+msgstr "Gwyrdd Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT48\n"
+"string.text"
+msgid "Radial Orange"
+msgstr "Oren Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT49\n"
+"string.text"
+msgid "Radial Red"
+msgstr "Coch Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT50\n"
+"string.text"
+msgid "Radial Turquoise"
+msgstr "Glaswyrdd Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT51\n"
+"string.text"
+msgid "Radial Violet"
+msgstr "Fioled Rheiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT52\n"
+"string.text"
+msgid "Vertical"
+msgstr "Fertigol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT53\n"
+"string.text"
+msgid "Vertical Blue"
+msgstr "Glas Fertigol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT54\n"
+"string.text"
+msgid "Vertical Green"
+msgstr "Gwyrdd Fertigo"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT55\n"
+"string.text"
+msgid "Vertical Orange"
+msgstr "Oren Fertigol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT56\n"
+"string.text"
+msgid "Vertical Red"
+msgstr "Coch Fertigol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT57\n"
+"string.text"
+msgid "Vertical Turquoise"
+msgstr "Gwyrddlas Fertigol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT58\n"
+"string.text"
+msgid "Vertical Violet"
+msgstr "Fioled Fertigol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT59\n"
+"string.text"
+msgid "Gray Gradient"
+msgstr "Graddiant Llwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT60\n"
+"string.text"
+msgid "Yellow Gradient"
+msgstr "Graddiant Melyn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT61\n"
+"string.text"
+msgid "Orange Gradient"
+msgstr "Graddiant Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT62\n"
+"string.text"
+msgid "Red Gradient"
+msgstr "Graddiant Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT63\n"
+"string.text"
+msgid "Pink Gradient"
+msgstr "Graddiant Pinc"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT64\n"
+"string.text"
+msgid "Sky"
+msgstr "Awyr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT65\n"
+"string.text"
+msgid "Cyan Gradient"
+msgstr "Graddiant Cyan"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT66\n"
+"string.text"
+msgid "Blue Gradient"
+msgstr "Graddiant Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT67\n"
+"string.text"
+msgid "Purple Pipe"
+msgstr "Peipen Biws"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT68\n"
+"string.text"
+msgid "Night"
+msgstr "Nos"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT69\n"
+"string.text"
+msgid "Green Gradient"
+msgstr "Graddiant Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT70\n"
+"string.text"
+msgid "Tango Green"
+msgstr "Gwyrdd Tango"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT71\n"
+"string.text"
+msgid "Subtle Tango Green"
+msgstr "Gwyrdd Tango Cynnil"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT72\n"
+"string.text"
+msgid "Tango Purple"
+msgstr "Tango Porffor"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT73\n"
+"string.text"
+msgid "Tango Red"
+msgstr "Tango Coch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT74\n"
+"string.text"
+msgid "Tango Blue"
+msgstr "Tango Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT75\n"
+"string.text"
+msgid "Tango Yellow"
+msgstr "Tango Melyn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT76\n"
+"string.text"
+msgid "Tango Orange"
+msgstr "Tango Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT77\n"
+"string.text"
+msgid "Tango Gray"
+msgstr "Tango Llwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT78\n"
+"string.text"
+msgid "Clay"
+msgstr "Clai"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT79\n"
+"string.text"
+msgid "Olive Green"
+msgstr "Gwyrdd Olewydd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT80\n"
+"string.text"
+msgid "Silver"
+msgstr "Arian"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT81\n"
+"string.text"
+msgid "Sunburst"
+msgstr "Heulwen"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT82\n"
+"string.text"
+msgid "Brownie"
+msgstr "Brown"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT83\n"
+"string.text"
+msgid "Sunset"
+msgstr "Machlud Haul"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT84\n"
+"string.text"
+msgid "Deep Green"
+msgstr "Gwyrdd Dwfn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT85\n"
+"string.text"
+msgid "Deep Orange"
+msgstr "Oren Defn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT86\n"
+"string.text"
+msgid "Deep Blue"
+msgstr "Glas Dwfn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GRDT87\n"
+"string.text"
+msgid "Purple Haze"
+msgstr "Tarth Porffor"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH0\n"
+"string.text"
+msgid "Black 45 degrees wide"
+msgstr "Du 45 gradd o led"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH1\n"
+"string.text"
+msgid "Black 45 degrees"
+msgstr "Du 45 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH2\n"
+"string.text"
+msgid "Black -45 degrees"
+msgstr "Du -45 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH3\n"
+"string.text"
+msgid "Black 90 degrees"
+msgstr "Du 90 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH4\n"
+"string.text"
+msgid "Red crossed 45 degrees"
+msgstr "Coch croes 45 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH5\n"
+"string.text"
+msgid "Red crossed 0 degrees"
+msgstr "Cochcroes 0 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH6\n"
+"string.text"
+msgid "Blue crossed 45 degrees"
+msgstr "Glas croes 45 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH7\n"
+"string.text"
+msgid "Blue crossed 0 degrees"
+msgstr "Glas croes 0 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH8\n"
+"string.text"
+msgid "Blue triple 90 degrees"
+msgstr "Glas triphlyg 90 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH9\n"
+"string.text"
+msgid "Black 0 degrees"
+msgstr "Du 0 gradd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_HATCH10\n"
+"string.text"
+msgid "Hatching"
+msgstr "Croes-liniogi"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP0\n"
+"string.text"
+msgid "Blank"
+msgstr "Gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP1\n"
+"string.text"
+msgid "Sky"
+msgstr "Awyr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP2\n"
+"string.text"
+msgid "Water"
+msgstr "Dwr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP3\n"
+"string.text"
+msgid "Coarse grained"
+msgstr "Graen bras"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP4\n"
+"string.text"
+msgid "Mercury"
+msgstr "Arian byw"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP5\n"
+"string.text"
+msgid "Space"
+msgstr "Gofod"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP6\n"
+"string.text"
+msgid "Metal"
+msgstr "Metal"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP7\n"
+"string.text"
+msgid "Droplets"
+msgstr "Defnynnau"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP8\n"
+"string.text"
+msgid "Marble"
+msgstr "Marmor"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP9\n"
+"string.text"
+msgid "Linen"
+msgstr "Llin"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP10\n"
+"string.text"
+msgid "Stone"
+msgstr "Carreg"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP11\n"
+"string.text"
+msgid "Gravel"
+msgstr "Graean"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP12\n"
+"string.text"
+msgid "Wall"
+msgstr "Wal"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP13\n"
+"string.text"
+msgid "Brownstone"
+msgstr "Carreg Frown"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP14\n"
+"string.text"
+msgid "Netting"
+msgstr "Rhwyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP15\n"
+"string.text"
+msgid "Leaves"
+msgstr "Dail"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP16\n"
+"string.text"
+msgid "Artificial Turf"
+msgstr "Tyweirch Artiffisial"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP17\n"
+"string.text"
+msgid "Daisy"
+msgstr "Llygad y Dydd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP18\n"
+"string.text"
+msgid "Orange"
+msgstr "Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP19\n"
+"string.text"
+msgid "Fiery"
+msgstr "Tanllyd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP20\n"
+"string.text"
+msgid "Roses"
+msgstr "Rhosynnau"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_BMP21\n"
+"string.text"
+msgid "Bitmap"
+msgstr "Didfap"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH0\n"
+"string.text"
+msgid "Ultrafine Dashed"
+msgstr "Llinell Doredig Mân Iawn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH1\n"
+"string.text"
+msgid "Fine Dashed"
+msgstr "Llinell Doredig Mân"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH2\n"
+"string.text"
+msgid "2 Dots 3 Dashes"
+msgstr "2 Ddot 3 Llinell Doredig"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH3\n"
+"string.text"
+msgid "Fine Dotted"
+msgstr "Dotiog Mân"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH4\n"
+"string.text"
+msgid "Line with Fine Dots"
+msgstr "Llinell gyda Dotiau Mân"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH5\n"
+"string.text"
+msgid "Fine Dashed"
+msgstr "Llinell Doredig Mân"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH6\n"
+"string.text"
+msgid "3 Dashes 3 Dots"
+msgstr "3 Toriad 3 Dot"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH7\n"
+"string.text"
+msgid "Ultrafine Dotted"
+msgstr "Dotiog Mân"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH8\n"
+"string.text"
+msgid "Line Style 9"
+msgstr "Arddull Llinell 9"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH9\n"
+"string.text"
+msgid "2 Dots 1 Dash"
+msgstr "2 Ddot 1 Toriad"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH10\n"
+"string.text"
+msgid "Dashed"
+msgstr "Toredig"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH11\n"
+"string.text"
+msgid "Dashed"
+msgstr "Toredig"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_DASH12\n"
+"string.text"
+msgid "Line Style"
+msgstr "Arddull Llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND0\n"
+"string.text"
+msgid "Arrow concave"
+msgstr "Ceugrwm saeth"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND1\n"
+"string.text"
+msgid "Square 45"
+msgstr "Sgwâr 45"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND2\n"
+"string.text"
+msgid "Small arrow"
+msgstr "Saeth fechan"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND3\n"
+"string.text"
+msgid "Dimension lines"
+msgstr "Llinellau dimensiwn"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND4\n"
+"string.text"
+msgid "Double Arrow"
+msgstr "Saeth Ddwbl"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND5\n"
+"string.text"
+msgid "Rounded short arrow"
+msgstr "Saeth fer grom"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND6\n"
+"string.text"
+msgid "Symmetric arrow"
+msgstr "Saeth gymesur"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND7\n"
+"string.text"
+msgid "Line arrow"
+msgstr "Saeth llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND8\n"
+"string.text"
+msgid "Rounded large arrow"
+msgstr "Saeth fawr grom"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND9\n"
+"string.text"
+msgid "Circle"
+msgstr "Cylch"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND10\n"
+"string.text"
+msgid "Square"
+msgstr "Sgwâr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND11\n"
+"string.text"
+msgid "Arrow"
+msgstr "Saeth"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND12\n"
+"string.text"
+msgid "Short line arrow"
+msgstr "Saeth llinell fer"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND13\n"
+"string.text"
+msgid "Triangle unfilled"
+msgstr "Triongl gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND14\n"
+"string.text"
+msgid "Diamond unfilled"
+msgstr "Diemwnt gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND15\n"
+"string.text"
+msgid "Diamond"
+msgstr "Diemwnt"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND16\n"
+"string.text"
+msgid "Circle unfilled"
+msgstr "Cylch gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND17\n"
+"string.text"
+msgid "Square 45 unfilled"
+msgstr "Sgwâr 45 gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND18\n"
+"string.text"
+msgid "Square unfilled"
+msgstr "Sgwâr gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND19\n"
+"string.text"
+msgid "Half circle unfilled"
+msgstr "Hanner cylch gwag"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_LEND20\n"
+"string.text"
+msgid "Arrowhead"
+msgstr "Pen saeth"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_TRASNGR0\n"
+"string.text"
+msgid "Transparency"
+msgstr "Tryloywder"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Millimeter\n"
+"itemlist.text"
+msgid "Millimeter"
+msgstr "Milimedr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Centimeter\n"
+"itemlist.text"
+msgid "Centimeter"
+msgstr "Centimedr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Meter\n"
+"itemlist.text"
+msgid "Meter"
+msgstr "Metr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Kilometer\n"
+"itemlist.text"
+msgid "Kilometer"
+msgstr "Kilometr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Inch\n"
+"itemlist.text"
+msgid "Inch"
+msgstr "Modfedd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Foot\n"
+"itemlist.text"
+msgid "Foot"
+msgstr "Troedfedd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Miles\n"
+"itemlist.text"
+msgid "Miles"
+msgstr "Milltiroedd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Pica\n"
+"itemlist.text"
+msgid "Pica"
+msgstr "Pica"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Point\n"
+"itemlist.text"
+msgid "Point"
+msgstr "Pwynt"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Char\n"
+"itemlist.text"
+msgid "Char"
+msgstr "Nod"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FIELDUNIT_TABLE\n"
+"Line\n"
+"itemlist.text"
+msgid "Line"
+msgstr "Llinell"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_USER\n"
+"string.text"
+msgid "User"
+msgstr "Defnyddiwr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_GREEN_1\n"
+"string.text"
+msgid "Green 1 (%PRODUCTNAME Main Color)"
+msgstr "Gwyrdd 1 (Prif Liw %PRODUCTNAME)"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_GREEN_ACCENT\n"
+"string.text"
+msgid "Green Accent"
+msgstr "Arlliw Gwyrdd"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_BLUE_ACCENT\n"
+"string.text"
+msgid "Blue Accent"
+msgstr "Arlliw Glas"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_ORANGE_ACCENT\n"
+"string.text"
+msgid "Orange Accent"
+msgstr "Arlliw Oren"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_PURPLE\n"
+"string.text"
+msgid "Purple"
+msgstr "Porffor"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_PURPLE_ACCENT\n"
+"string.text"
+msgid "Purple Accent"
+msgstr "Arlliw Porffor"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_LIBRE_YELLOW_ACCENT\n"
+"string.text"
+msgid "Yellow Accent"
+msgstr "Arlliw Melyn"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_BUTTER\n"
+"string.text"
+msgid "Tango: Butter"
+msgstr "Tango: Menyn"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_ORANGE\n"
+"string.text"
+msgid "Tango: Orange"
+msgstr "Tango: Oren"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_CHOCOLATE\n"
+"string.text"
+msgid "Tango: Chocolate"
+msgstr "Tango: Siocled"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_CHAMELEON\n"
+"string.text"
+msgid "Tango: Chameleon"
+msgstr "Tango: Cameleon"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_SKY_BLUE\n"
+"string.text"
+msgid "Tango: Sky Blue"
+msgstr "Tango: Glas yr Awyr"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_PLUM\n"
+"string.text"
+msgid "Tango: Plum"
+msgstr "Tango: Porffor"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_SCARLET_RED\n"
+"string.text"
+msgid "Tango: Scarlet Red"
+msgstr "Tango: Coch Ysgarlad"
+
+#. Tango colors, see: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_COLOR_TANGO_ALUMINIUM\n"
+"string.text"
+msgid "Tango: Aluminium"
+msgstr "Tango: Aliwminiwm"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERYPROPS_GALTHEME\n"
+"string.text"
+msgid "Gallery Theme"
+msgstr "Oriel Themâu"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERY_THEMEITEMS\n"
+"string.text"
+msgid "Theme Items"
+msgstr "Eitemau Themâu"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_GALLERY_PREVIEW\n"
+"string.text"
+msgid "Preview"
+msgstr "Rhagolwg"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr "Hidl"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_VIEW\n"
+"string.text"
+msgid "List"
+msgstr "Rhestr"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_SUCCESSRECOV\n"
+"string.text"
+msgid "Successfully recovered"
+msgstr "Adferwyd yn llwyddiannus"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_ORIGDOCRECOV\n"
+"string.text"
+msgid "Original document recovered"
+msgstr "Adferwyd y ddogfen wreiddiol"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVFAILED\n"
+"string.text"
+msgid "Recovery failed"
+msgstr "Methu adfer"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVINPROGR\n"
+"string.text"
+msgid "Recovery in progress"
+msgstr "Wrthi'n adfer"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_NOTRECOVYET\n"
+"string.text"
+msgid "Not recovered yet"
+msgstr "Heb ei adfer eto"
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVERY_INPROGRESS\n"
+"string.text"
+msgid "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending on the size of the documents this process can take some time."
+msgstr "Bydd %PRODUCTNAME %PRODUCTVERSION yn cychwyn ceisio adfer eich dogfennau. Yn ddibynnol ar faint eich dogfennau gall y broses gymryd peth amser."
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVERYONLY_FINISH_DESCR\n"
+"string.text"
+msgid ""
+"Recovery of your documents was finished.\n"
+"Click 'Finish' to see your documents."
+msgstr ""
+"Cwblhawyd adfer eich dogfennau.\n"
+"Cliciwch 'Gorffen' i weld eich dogfennau."
+
+#: sdstring.src
+msgctxt ""
+"sdstring.src\n"
+"RID_SVXSTR_RECOVERYONLY_FINISH\n"
+"string.text"
+msgid "~Finish"
+msgstr "~Gorffen"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_STYLES\n"
+"string.text"
+msgid "Including Styles"
+msgstr "Cynnwys Arddulliau"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_WRITER_STYLES\n"
+"string.text"
+msgid "Search for Paragraph St~yles"
+msgstr "Chwilio am Arddulliau ~Paragraff"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_CALC_STYLES\n"
+"string.text"
+msgid "Search for Cell St~yles"
+msgstr "Chwilio a Arddulliau ~Celloedd"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH\n"
+"string.text"
+msgid "(Search)"
+msgstr "(Chwilio)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_REPLACE\n"
+"string.text"
+msgid "(Replace)"
+msgstr "(Newid)"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_END\n"
+"string.text"
+msgid "Reached the end of the document"
+msgstr "Wedi cyrraedd diwedd y ddogfen"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_END_SHEET\n"
+"string.text"
+msgid "Reached the end of the sheet"
+msgstr "Wedi cyrraedd diwedd y ddalen"
+
+#: srchdlg.src
+msgctxt ""
+"srchdlg.src\n"
+"RID_SVXSTR_SEARCH_NOT_FOUND\n"
+"string.text"
+msgid "Search key not found"
+msgstr "Heb ganfod yr allwedd chwilio"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_0\n"
+"string.text"
+msgid "Solid small circular bullets"
+msgstr "Bwledi crwn bach solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_1\n"
+"string.text"
+msgid "Solid large circular bullets"
+msgstr "Bwledi crwn mawr solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_2\n"
+"string.text"
+msgid "Solid diamond bullets"
+msgstr "Bwledi diemwnt solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_3\n"
+"string.text"
+msgid "Solid large square bullets"
+msgstr "Bwledi sgwâr mawr solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_4\n"
+"string.text"
+msgid "Right pointing arrow bullets filled out"
+msgstr "Bwledi saeth pwyntio i'r dde llawn"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_5\n"
+"string.text"
+msgid "Right pointing arrow bullets"
+msgstr "Bwledi saeth pwyntio i'r dde"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_6\n"
+"string.text"
+msgid "Check mark bullets"
+msgstr "Bwledi marc siec"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_BULLET_DESCRIPTION_7\n"
+"string.text"
+msgid "Tick mark bullets"
+msgstr "Bwledi marc tic"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_0\n"
+"string.text"
+msgid "Number 1) 2) 3)"
+msgstr "Rhif 1) 2) 3)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_1\n"
+"string.text"
+msgid "Number 1. 2. 3."
+msgstr "Rhif 1. 2. 3."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_2\n"
+"string.text"
+msgid "Number (1) (2) (3)"
+msgstr "Rhif (1) (2) (3)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_3\n"
+"string.text"
+msgid "Uppercase Roman number I. II. III."
+msgstr "Rhif Rhufeinig mawr I. II. III."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_4\n"
+"string.text"
+msgid "Uppercase letter A) B) C)"
+msgstr "Llythrennau mawr A) B) C)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_5\n"
+"string.text"
+msgid "Lowercase letter a) b) c)"
+msgstr "Llythrennau bach a) b) c)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_6\n"
+"string.text"
+msgid "Lowercase letter (a) (b) (c)"
+msgstr "Llythrennau bach (a) (b) (c)"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_SINGLENUM_DESCRIPTION_7\n"
+"string.text"
+msgid "Lowercase Roman number i. ii. iii."
+msgstr "Rhifau Rhufeinig bach i. ii. iii."
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_0\n"
+"string.text"
+msgid "Numeric, numeric, lowercase letters, solid small circular bullet"
+msgstr "Rhifol, rhifol, llythrennau bach, bwled gron fach solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_1\n"
+"string.text"
+msgid "Numeric, lowercase letters, solid small circular bullet"
+msgstr "Rhifol, llythrennau bach, bwled gron fach solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_2\n"
+"string.text"
+msgid "Numeric, lowercase letters, lowercase Roman, uppercase letters, solid small circular bullet"
+msgstr "Rhifol, llythrennau bach, Rhufeinig bach, llythrennau mawr, bwled gron fach solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_3\n"
+"string.text"
+msgid "Numeric"
+msgstr "Rhifol"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_4\n"
+"string.text"
+msgid "Uppercase Roman, uppercase letters, lowercase Roman, lowercase letters, solid small circular bullet"
+msgstr "Rhufeinig mawr, llythrennau mawr, Rhufeinig bach, llythrennau bach, bwled gron fach solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_5\n"
+"string.text"
+msgid "Uppercase letters, uppercase Roman, lowercase letters, lowercase Roman, solid small circular bullet"
+msgstr "Llythrennau mawr, Rhufeinig mawr, llythrennau bach, Rhufeinig bach, bwled gron fach solet"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_6\n"
+"string.text"
+msgid "Numeric with all sublevels"
+msgstr "Rhifol gyda phob is lefel"
+
+#: svxbmpnumvalueset.src
+msgctxt ""
+"svxbmpnumvalueset.src\n"
+"RID_SVXSTR_OUTLINENUM_DESCRIPTION_7\n"
+"string.text"
+msgid "Right pointing bullet, right pointing arrow bullet, solid diamond bullet, solid small circular bullet"
+msgstr "Bwled pwyntio i'r dde, bwled saeth pwyntio i'r dde, bwled diemwnt solet, bwled gron fechan solet"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_LEFT\n"
+"string.text"
+msgid "Left"
+msgstr "Chwith"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_LEFT\n"
+"string.text"
+msgid "Inside"
+msgstr "Mewn"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_RIGHT\n"
+"string.text"
+msgid "Right"
+msgstr "De"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_RIGHT\n"
+"string.text"
+msgid "Outside"
+msgstr "Allan"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_CENTER_VERT\n"
+"string.text"
+msgid "Center"
+msgstr "Canol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMLEFT\n"
+"string.text"
+msgid "From left"
+msgstr "O'r chwith"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_FROMLEFT\n"
+"string.text"
+msgid "From inside"
+msgstr "Oddi fewn"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FRAME\n"
+"string.text"
+msgid "Paragraph area"
+msgstr "Ardal paragraff"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_PRTAREA\n"
+"string.text"
+msgid "Paragraph text area"
+msgstr "Ardal testun paragraff"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_LEFT\n"
+"string.text"
+msgid "Left page border"
+msgstr "Border tudalen chwith"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_PG_LEFT\n"
+"string.text"
+msgid "Inner page border"
+msgstr "Border ffrâm fewnol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Right page border"
+msgstr "Border tudalen de"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Outer page border"
+msgstr "Border tudalen allanol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_LEFT\n"
+"string.text"
+msgid "Left paragraph border"
+msgstr "Border paragraff chwith"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_FRM_LEFT\n"
+"string.text"
+msgid "Inner paragraph border"
+msgstr "Border paragraff mewnol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_RIGHT\n"
+"string.text"
+msgid "Right paragraph border"
+msgstr "Border paragraff de"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_MIR_REL_FRM_RIGHT\n"
+"string.text"
+msgid "Outer paragraph border"
+msgstr "Border paragraff allanol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_FRAME\n"
+"string.text"
+msgid "Entire page"
+msgstr "Tudalen gyfan"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_PRTAREA\n"
+"string.text"
+msgid "Page text area"
+msgstr "Ardal testun tudalen"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_TOP\n"
+"string.text"
+msgid "Top"
+msgstr "Brig"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_BOTTOM\n"
+"string.text"
+msgid "Bottom"
+msgstr "Gwaelod"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_CENTER_HORI\n"
+"string.text"
+msgid "Center"
+msgstr "Canol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMTOP\n"
+"string.text"
+msgid "From top"
+msgstr "O'r brig"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMBOTTOM\n"
+"string.text"
+msgid "From bottom"
+msgstr "O'r gwaelod"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_BELOW\n"
+"string.text"
+msgid "Below"
+msgstr "Islaw"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FROMRIGHT\n"
+"string.text"
+msgid "From right"
+msgstr "O'r dde"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_TOP\n"
+"string.text"
+msgid "Top page border"
+msgstr "Border tudalen brig"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PG_BOTTOM\n"
+"string.text"
+msgid "Bottom page border"
+msgstr "Border tudalen gwaelod"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_TOP\n"
+"string.text"
+msgid "Top paragraph border"
+msgstr "Border paragraff brig"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_FRM_BOTTOM\n"
+"string.text"
+msgid "Bottom paragraph border"
+msgstr "Border paragraff gwaelod"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_BORDER\n"
+"string.text"
+msgid "Margin"
+msgstr "Ymyl"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_PRTAREA\n"
+"string.text"
+msgid "Paragraph text area"
+msgstr "Ardal testun paragraff"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_LEFT\n"
+"string.text"
+msgid "Left frame border"
+msgstr "Border ffrâm chwith"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_MIR_REL_PG_LEFT\n"
+"string.text"
+msgid "Inner frame border"
+msgstr "Border ffrâm fewnol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_RIGHT\n"
+"string.text"
+msgid "Right frame border"
+msgstr "Border ffrâm de"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_MIR_REL_PG_RIGHT\n"
+"string.text"
+msgid "Outer frame border"
+msgstr "Border ffrâm allanol"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_FRAME\n"
+"string.text"
+msgid "Entire frame"
+msgstr "Ffrâm gyfan"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_FLY_REL_PG_PRTAREA\n"
+"string.text"
+msgid "Frame text area"
+msgstr "Ardal testun ffrâm"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_BASE\n"
+"string.text"
+msgid "Base line"
+msgstr "Llinell sail"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_CHAR\n"
+"string.text"
+msgid "Character"
+msgstr "Nod"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_ROW\n"
+"string.text"
+msgid "Row"
+msgstr "Rhes"
+
+#: swframeposstrings.src
+msgctxt ""
+"swframeposstrings.src\n"
+"RID_SVXSW_FRAMEPOSITIONS\n"
+"STR_REL_LINE\n"
+"string.text"
+msgid "Line of text"
+msgstr "Llinell o testun"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1252\n"
+"pairedlist.text"
+msgid "Western Europe (Windows-1252/WinLatin 1)"
+msgstr "Gorllewin Ewrop (Windows-1252/WinLatin 1)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ROMAN\n"
+"pairedlist.text"
+msgid "Western Europe (Apple Macintosh)"
+msgstr "Gorllewin Ewrop (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_850\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-850/International)"
+msgstr "Gorllewin Ewrop (DOS/OS2-850/Rhyngwladol)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_437\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-437/US)"
+msgstr "Gorllewin Ewrop (DOS/OS2-437/UDA)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_860\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-860/Portuguese)"
+msgstr "Gorllewin Ewrop (DOS/OS2-860/Portiwgaleg)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_861\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-861/Icelandic)"
+msgstr "Gorllewin Ewrop (DOS/OS2-861/Eislandeg)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_863\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-863/French (Can.))"
+msgstr "Gorllewin Ewrop (DOS/OS2-863/Ffrangeg (Can.))"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_865\n"
+"pairedlist.text"
+msgid "Western Europe (DOS/OS2-865/Nordic)"
+msgstr "Gorllewin Ewrop (DOS/OS2-865/Llychlyn)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ASCII_US\n"
+"pairedlist.text"
+msgid "Western Europe (ASCII/US)"
+msgstr "Gorllewin Ewrop (ASCII/US)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_1\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-1)"
+msgstr "Gorllewin Ewrop (ISO-8859-1)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_2\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-2)"
+msgstr "Dwyrain Ewrop (ISO-8859-2)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_3\n"
+"pairedlist.text"
+msgid "Latin 3 (ISO-8859-3)"
+msgstr "Lladin 3 (ISO-8859-3)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_4\n"
+"pairedlist.text"
+msgid "Baltic (ISO-8859-4)"
+msgstr "Balteg (ISO-8859-4)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_5\n"
+"pairedlist.text"
+msgid "Cyrillic (ISO-8859-5)"
+msgstr "Cyrilig (ISO-8859-5)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_6\n"
+"pairedlist.text"
+msgid "Arabic (ISO-8859-6)"
+msgstr "Arabeg (ISO-8859-6)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_7\n"
+"pairedlist.text"
+msgid "Greek (ISO-8859-7)"
+msgstr "Groeg (ISO-8859-7)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_8\n"
+"pairedlist.text"
+msgid "Hebrew (ISO-8859-8)"
+msgstr "Hebraeg (ISO-8859-8)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_9\n"
+"pairedlist.text"
+msgid "Turkish (ISO-8859-9)"
+msgstr "Twrceg (ISO-8859-9)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_14\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-14)"
+msgstr "Gorllewin Ewrop (ISO-8859-14)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_15\n"
+"pairedlist.text"
+msgid "Western Europe (ISO-8859-15/EURO)"
+msgstr "Gorllewin Ewrop (ISO-8859-15/EURO)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_737\n"
+"pairedlist.text"
+msgid "Greek (DOS/OS2-737)"
+msgstr "Groeg (DOS/OS2-737)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_775\n"
+"pairedlist.text"
+msgid "Baltic (DOS/OS2-775)"
+msgstr "Baltig (DOS/OS2-775)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_852\n"
+"pairedlist.text"
+msgid "Eastern Europe (DOS/OS2-852)"
+msgstr "Dwyrain Ewrop (DOS/OS2-852)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_855\n"
+"pairedlist.text"
+msgid "Cyrillic (DOS/OS2-855)"
+msgstr "Cyrilig (DOS/OS2-855)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_857\n"
+"pairedlist.text"
+msgid "Turkish (DOS/OS2-857)"
+msgstr "Twrceg (DOS/OS2-857)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_862\n"
+"pairedlist.text"
+msgid "Hebrew (DOS/OS2-862)"
+msgstr "Hebraeg (DOS/OS2-862)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_864\n"
+"pairedlist.text"
+msgid "Arabic (DOS/OS2-864)"
+msgstr "Arabeg (DOS/OS2-864)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_866\n"
+"pairedlist.text"
+msgid "Cyrillic (DOS/OS2-866/Russian)"
+msgstr "Cyrilig (DOS/OS2-866/Russian)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_IBM_869\n"
+"pairedlist.text"
+msgid "Greek (DOS/OS2-869/Modern)"
+msgstr "Groeg (DOS/OS2-869/Modern)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1250\n"
+"pairedlist.text"
+msgid "Eastern Europe (Windows-1250/WinLatin 2)"
+msgstr "Dwyrain Ewrop (Windows-1250/WinLatin 2)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1251\n"
+"pairedlist.text"
+msgid "Cyrillic (Windows-1251)"
+msgstr "Cyrilig (Windows-1251)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1253\n"
+"pairedlist.text"
+msgid "Greek (Windows-1253)"
+msgstr "Groeg (Windows-1253)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1254\n"
+"pairedlist.text"
+msgid "Turkish (Windows-1254)"
+msgstr "Twrceg (Windows-1254)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1255\n"
+"pairedlist.text"
+msgid "Hebrew (Windows-1255)"
+msgstr "Hebraeg (Windows-1255)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1256\n"
+"pairedlist.text"
+msgid "Arabic (Windows-1256)"
+msgstr "Arabeg (Windows-1256)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1257\n"
+"pairedlist.text"
+msgid "Baltic (Windows-1257)"
+msgstr "Baltig (Windows-1257)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1258\n"
+"pairedlist.text"
+msgid "Vietnamese (Windows-1258)"
+msgstr "Fietnameg (Windows-1258)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CENTEURO\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh)"
+msgstr "Dwyrain Ewrop (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CROATIAN\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh/Croatian)"
+msgstr "Dwyrain Ewrop (Apple Macintosh/Croatieg)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CYRILLIC\n"
+"pairedlist.text"
+msgid "Cyrillic (Apple Macintosh)"
+msgstr "Cyrilig (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_GREEK\n"
+"pairedlist.text"
+msgid "Greek (Apple Macintosh)"
+msgstr "Groeg (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ICELAND\n"
+"pairedlist.text"
+msgid "Western Europe (Apple Macintosh/Icelandic)"
+msgstr "Gorllewin Ewrop (Apple Macintosh/Eislandeg)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_ROMANIAN\n"
+"pairedlist.text"
+msgid "Eastern Europe (Apple Macintosh/Romanian)"
+msgstr "Dwyrain Ewrop (Apple Macintosh/Rwmaneg)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_TURKISH\n"
+"pairedlist.text"
+msgid "Turkish (Apple Macintosh)"
+msgstr "Twrceg (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_UKRAINIAN\n"
+"pairedlist.text"
+msgid "Cyrillic (Apple Macintosh/Ukrainian)"
+msgstr "Cyrilig (Apple Macintosh/Wcraneg)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CHINSIMP\n"
+"pairedlist.text"
+msgid "Chinese simplified (Apple Macintosh)"
+msgstr "Tsieineeg Symledig (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_CHINTRAD\n"
+"pairedlist.text"
+msgid "Chinese traditional (Apple Macintosh)"
+msgstr "Tsieineeg traddodiadol (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_JAPANESE\n"
+"pairedlist.text"
+msgid "Japanese (Apple Macintosh)"
+msgstr "Japaneeg (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_APPLE_KOREAN\n"
+"pairedlist.text"
+msgid "Korean (Apple Macintosh)"
+msgstr "Coreeg (Apple Macintosh)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_932\n"
+"pairedlist.text"
+msgid "Japanese (Windows-932)"
+msgstr "Japaneeg (Windows-932)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_936\n"
+"pairedlist.text"
+msgid "Chinese simplified (Windows-936)"
+msgstr "Tsieineeg symledig (Windows-936)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_949\n"
+"pairedlist.text"
+msgid "Korean (Windows-949)"
+msgstr "Coreeg (Windows-949)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_950\n"
+"pairedlist.text"
+msgid "Chinese traditional (Windows-950)"
+msgstr "Tsieineeg traddodiadol (Windows-950)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_SHIFT_JIS\n"
+"pairedlist.text"
+msgid "Japanese (Shift-JIS)"
+msgstr "Japaneeg (Shift-JIS)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GB_2312\n"
+"pairedlist.text"
+msgid "Chinese simplified (GB-2312)"
+msgstr "Tsieineeg symledig (GB-2312)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GB_18030\n"
+"pairedlist.text"
+msgid "Chinese simplified (GB-18030)"
+msgstr "Tsieineeg symledig (GB-18030)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GBT_12345\n"
+"pairedlist.text"
+msgid "Chinese traditional (GBT-12345)"
+msgstr "Tsieineeg traddodiadol (GBT-12345)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_GBK\n"
+"pairedlist.text"
+msgid "Chinese simplified (GBK/GB-2312-80)"
+msgstr "Tsieineeg symledig (GBK/GB-2312-80)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_BIG5\n"
+"pairedlist.text"
+msgid "Chinese traditional (Big5)"
+msgstr "Tsieineeg traddodiadol (Big5)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_BIG5_HKSCS\n"
+"pairedlist.text"
+msgid "Chinese traditional (BIG5-HKSCS)"
+msgstr "Tsieineeg traddodiadol (BIG5-HKSCS)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_JP\n"
+"pairedlist.text"
+msgid "Japanese (EUC-JP)"
+msgstr "Japaneeg (EUC-JP)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_CN\n"
+"pairedlist.text"
+msgid "Chinese simplified (EUC-CN)"
+msgstr "Tsieineeg symledig (EUC-CN)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_TW\n"
+"pairedlist.text"
+msgid "Chinese traditional (EUC-TW)"
+msgstr "Tsieineeg traddodiadol (EUC-TW)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_JP\n"
+"pairedlist.text"
+msgid "Japanese (ISO-2022-JP)"
+msgstr "Japaneeg (ISO-2022-JP)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_CN\n"
+"pairedlist.text"
+msgid "Chinese simplified (ISO-2022-CN)"
+msgstr "Tsieineeg symledig (ISO-2022-CN)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_KOI8_R\n"
+"pairedlist.text"
+msgid "Cyrillic (KOI8-R)"
+msgstr "Cyrilig (KOI8-R)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UTF7\n"
+"pairedlist.text"
+msgid "Unicode (UTF-7)"
+msgstr "Unicode (UTF-7)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UTF8\n"
+"pairedlist.text"
+msgid "Unicode (UTF-8)"
+msgstr "Unicode (UTF-8)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_10\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-10)"
+msgstr "Dwyrain Ewrop (ISO-8859-10)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_8859_13\n"
+"pairedlist.text"
+msgid "Eastern Europe (ISO-8859-13)"
+msgstr "Dwyrain Ewrop (ISO-8859-13)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_EUC_KR\n"
+"pairedlist.text"
+msgid "Korean (EUC-KR)"
+msgstr "Coreeg (EUC-KR)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_ISO_2022_KR\n"
+"pairedlist.text"
+msgid "Korean (ISO-2022-KR)"
+msgstr "Coreeg (ISO-2022-KR)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_1361\n"
+"pairedlist.text"
+msgid "Korean (Windows-Johab-1361)"
+msgstr "Coreeg (Windows-Johab-1361)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_UCS2\n"
+"pairedlist.text"
+msgid "Unicode (UTF-16)"
+msgstr "Unicode (UTF-16)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_TIS_620\n"
+"pairedlist.text"
+msgid "Thai (ISO-8859-11/TIS-620)"
+msgstr "Thai (ISO-8859-11/TIS-620)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_MS_874\n"
+"pairedlist.text"
+msgid "Thai (Windows-874)"
+msgstr "Thai (Windows-874)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_KOI8_U\n"
+"pairedlist.text"
+msgid "Cyrillic (KOI8-U)"
+msgstr "Cyrilig (KOI8-U)"
+
+#: txenctab.src
+msgctxt ""
+"txenctab.src\n"
+"RID_SVXSTR_TEXTENCODING_TABLE\n"
+"RTL_TEXTENCODING_PT154\n"
+"pairedlist.text"
+msgid "Cyrillic (PT154)"
+msgstr "Cyrilig (PT154)"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_LATIN\n"
+"string.text"
+msgid "Basic Latin"
+msgstr "Lladin Sylfaenol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_1\n"
+"string.text"
+msgid "Latin-1"
+msgstr "Latin-1"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_A\n"
+"string.text"
+msgid "Latin Extended-A"
+msgstr "Latin Extended-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_B\n"
+"string.text"
+msgid "Latin Extended-B"
+msgstr "Latin Extended-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IPA_EXTENSIONS\n"
+"string.text"
+msgid "IPA Extensions"
+msgstr "Estyniad IPA"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SPACING_MODIFIERS\n"
+"string.text"
+msgid "Spacing Modifier Letters"
+msgstr "Llythrennau Addasydd Bylchu"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMB_DIACRITICAL\n"
+"string.text"
+msgid "Combining Diacritical Marks"
+msgstr "Marciau Deiacritig Cyfunol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_GREEK\n"
+"string.text"
+msgid "Basic Greek"
+msgstr "Groeg Sylfaenol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GREEK_SYMS_COPTIC\n"
+"string.text"
+msgid "Greek Symbols And Coptic"
+msgstr "Symbolau Groegaidd a Choptig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC\n"
+"string.text"
+msgid "Cyrillic"
+msgstr "Syrilig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARMENIAN\n"
+"string.text"
+msgid "Armenian"
+msgstr "Armeneg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_HEBREW\n"
+"string.text"
+msgid "Basic Hebrew"
+msgstr "Hebraeg Sylfaenol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HEBREW_EXTENDED\n"
+"string.text"
+msgid "Hebrew Extended"
+msgstr "Hebraeg Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_ARABIC\n"
+"string.text"
+msgid "Basic Arabic"
+msgstr "Arabeg Sylfaenol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_EXTENDED\n"
+"string.text"
+msgid "Arabic Extended"
+msgstr "Arabeg Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DEVANAGARI\n"
+"string.text"
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BENGALI\n"
+"string.text"
+msgid "Bengali"
+msgstr "Bengali"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GURMUKHI\n"
+"string.text"
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GUJARATI\n"
+"string.text"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ODIA\n"
+"string.text"
+msgid "Odia"
+msgstr "Odia"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAMIL\n"
+"string.text"
+msgid "Tamil"
+msgstr "Tamil"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TELUGU\n"
+"string.text"
+msgid "Telugu"
+msgstr "Telugu"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANNADA\n"
+"string.text"
+msgid "Kannada"
+msgstr "Kannada"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MALAYALAM\n"
+"string.text"
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_THAI\n"
+"string.text"
+msgid "Thai"
+msgstr "Thai"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LAO\n"
+"string.text"
+msgid "Lao"
+msgstr "Lao"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BASIC_GEORGIAN\n"
+"string.text"
+msgid "Basic Georgian"
+msgstr "Georgaidd Sylfaenol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEORGIAN_EXTENDED\n"
+"string.text"
+msgid "Georgian Extended"
+msgstr "Georgaidd Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO\n"
+"string.text"
+msgid "Hangul Jamo"
+msgstr "Hangul Jamo"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_ADDS\n"
+"string.text"
+msgid "Latin Extended Additionals"
+msgstr "Lladin Estynedig Ychwanegol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GREEK_EXTENDED\n"
+"string.text"
+msgid "Greek Extended"
+msgstr "Groeg Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GENERAL_PUNCTUATION\n"
+"string.text"
+msgid "General punctuation"
+msgstr "Atalnodi cyffredinol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUB_SUPER_SCRIPTS\n"
+"string.text"
+msgid "Superscripts and Subscripts"
+msgstr "Uwch ac Is Sgriptiau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CURRENCY_SYMBOLS\n"
+"string.text"
+msgid "Currency Symbols"
+msgstr "Symbolau Arian"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMB_DIACRITIC_SYMS\n"
+"string.text"
+msgid "Combining Diacritical Symbols"
+msgstr "Symbolau Deicritig Cyfunol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LETTERLIKE_SYMBOLS\n"
+"string.text"
+msgid "Letterlike Symbols"
+msgstr "Symbolau Llythrennog"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NUMBER_FORMS\n"
+"string.text"
+msgid "Number Forms"
+msgstr "Ffurfiau Rhif"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARROWS\n"
+"string.text"
+msgid "Arrows"
+msgstr "Saethau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MATH_OPERATORS\n"
+"string.text"
+msgid "Mathematical Operators"
+msgstr "Mathematical Operators"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_TECHNICAL\n"
+"string.text"
+msgid "Miscellaneous Technical"
+msgstr "Technegol Amrywiol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CONTROL_PICTURES\n"
+"string.text"
+msgid "Control Pictures"
+msgstr "Lluniau'r Rheolydd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OPTICAL_CHAR_REC\n"
+"string.text"
+msgid "Optical Character Recognition"
+msgstr "Adnabod Nodau Optegol (OCR)"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_ALPHANUM\n"
+"string.text"
+msgid "Enclosed Alphanumerics"
+msgstr "Alffaniwmerig Amgaeedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOX_DRAWING\n"
+"string.text"
+msgid "Box Drawing"
+msgstr "Llunio Blychau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BLOCK_ELEMENTS\n"
+"string.text"
+msgid "Block Elements"
+msgstr "Elfennau Bloc"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEOMETRIC_SHAPES\n"
+"string.text"
+msgid "Geometric Shapes"
+msgstr "Siapiau Geometrig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_DINGBATS\n"
+"string.text"
+msgid "Miscellaneous Symbols"
+msgstr "Symbolau Amrywiol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DINGBATS\n"
+"string.text"
+msgid "Dingbats"
+msgstr "Dingbatiau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_SYMS_PUNCTUATION\n"
+"string.text"
+msgid "CJK Symbols And Punctuation"
+msgstr "Symbolau ac Atalnodi CJK"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HIRAGANA\n"
+"string.text"
+msgid "Hiragana"
+msgstr "Hiragana"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KATAKANA\n"
+"string.text"
+msgid "Katakana"
+msgstr "Katakana"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOPOMOFO\n"
+"string.text"
+msgid "Bopomofo"
+msgstr "Bopomofo"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_COMPAT_JAMO\n"
+"string.text"
+msgid "Hangul Compatibility Jamo"
+msgstr "Hangul Cydweddu Jamo"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_MISC\n"
+"string.text"
+msgid "CJK Miscellaneous"
+msgstr "CJK Amrywiol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_CJK_LETTERS\n"
+"string.text"
+msgid "Enclosed CJK Letters And Months"
+msgstr "Llythrennau CJK Amgaeedig a Misoedd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPATIBILITY\n"
+"string.text"
+msgid "CJK Compatibility"
+msgstr "Cydnawsedd CJK"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL\n"
+"string.text"
+msgid "Hangul"
+msgstr "Hangul"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDGRAPH\n"
+"string.text"
+msgid "CJK Unified Ideographs"
+msgstr "Ideograffau Unedig CJK"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_EXT_A_UNIFIED_IDGRAPH\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension A"
+msgstr "Ideograffau Unedig CJK Estyniad A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PRIVATE_USE_AREA\n"
+"string.text"
+msgid "Private Use Area"
+msgstr "Ardal Defnydd Preifat"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPAT_IDGRAPHS\n"
+"string.text"
+msgid "CJK Compatibility Ideographs"
+msgstr "Ideograffau Cydweddu CJK"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ALPHA_PRESENTATION\n"
+"string.text"
+msgid "Alphabetic Presentation Forms"
+msgstr "Ffurfiau Cyflwynp Alffabetig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_PRESENT_A\n"
+"string.text"
+msgid "Arabic Presentation Forms-A"
+msgstr "Cyflwyniad Arabeg Ffurfiau-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMBINING_HALF_MARKS\n"
+"string.text"
+msgid "Combining Half Marks"
+msgstr "Cyfuno Hanner Marciau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPAT_FORMS\n"
+"string.text"
+msgid "CJK Compatibility Forms"
+msgstr "Ffurfiau Cydnawsedd CJK"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SMALL_FORM_VARIANTS\n"
+"string.text"
+msgid "Small Form Variants"
+msgstr "Amrywiolyn Ffurf Bychan"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_PRESENT_B\n"
+"string.text"
+msgid "Arabic Presentation Forms-B"
+msgstr "Cyflwyniad Arabeg Ffurfiau-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HALFW_FULLW_FORMS\n"
+"string.text"
+msgid "Half-width and Full-width Forms"
+msgstr "Ffurfiau Hanner Lled a Lled Llawn"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SPECIALS\n"
+"string.text"
+msgid "Specials"
+msgstr "Arbenigol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YI_SYLLABLES\n"
+"string.text"
+msgid "Yi Syllables"
+msgstr "Sillafau Yi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YI_RADICALS\n"
+"string.text"
+msgid "Yi Radicals"
+msgstr "Cysefin Yi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_ITALIC\n"
+"string.text"
+msgid "Old Italic"
+msgstr "Hen Italig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GOTHIC\n"
+"string.text"
+msgid "Gothic"
+msgstr "Gotheg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DESERET\n"
+"string.text"
+msgid "Deseret"
+msgstr "Deseret"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BYZANTINE_MUSICAL_SYMBOLS\n"
+"string.text"
+msgid "Byzantine Musical Symbols"
+msgstr "Symbolau Cerddoriaeth Bysantaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MUSICAL_SYMBOLS\n"
+"string.text"
+msgid "Musical Symbols"
+msgstr "Symbolau Cerddoriaeth"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MATHEMATICAL_ALPHANUMERIC_SYMBOLS\n"
+"string.text"
+msgid "Mathematical Alphanumeric Symbols"
+msgstr "Symbolau Alffaniwmerig Mathamategol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_B\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension B"
+msgstr "Ideograffau Unedig CJK Estyniad B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_C\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension C"
+msgstr "Ideograffau Unedig CJK Estyniad C"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_D\n"
+"string.text"
+msgid "CJK Unified Ideographs Extension D"
+msgstr "Ideograffau Unedig CJK Estyniad D"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_COMPATIBILITY_IDEOGRAPHS_SUPPLEMENT\n"
+"string.text"
+msgid "CJK Compatibility Ideographs Supplement"
+msgstr "Ideograffau Cydweddus CJK Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGS\n"
+"string.text"
+msgid "Tags"
+msgstr "Tagiau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_SUPPLEMENTARY\n"
+"string.text"
+msgid "Cyrillic Supplement"
+msgstr "Atodiad Cyrilig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VARIATION_SELECTORS\n"
+"string.text"
+msgid "Variation Selectors"
+msgstr "Dewiswyr Amrywiad"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTARY_PRIVATE_USE_AREA_A\n"
+"string.text"
+msgid "Supplementary Private Use Area-A"
+msgstr "Defnydd Preifat Atodol, Ardal-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTARY_PRIVATE_USE_AREA_B\n"
+"string.text"
+msgid "Supplementary Private Use Area-B"
+msgstr "Defnydd Preifat Atodol, Ardal-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LIMBU\n"
+"string.text"
+msgid "Limbu"
+msgstr "Limbu"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_LE\n"
+"string.text"
+msgid "Tai Le"
+msgstr "Tai Le"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHMER_SYMBOLS\n"
+"string.text"
+msgid "Khmer Symbols"
+msgstr "Symbolau Khmer"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHONETIC_EXTENSIONS\n"
+"string.text"
+msgid "Phonetic Extensions"
+msgstr "Estyniadau Ffoneteg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISCELLANEOUS_SYMBOLS_AND_ARROWS\n"
+"string.text"
+msgid "Miscellaneous Symbols And Arrows"
+msgstr "Symbolau a Saethau Amrywiol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_YIJING_HEXAGRAM_SYMBOLS\n"
+"string.text"
+msgid "Yijing Hexagram Symbols"
+msgstr "Symbolau Hecsagram Yijing"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LINEAR_B_SYLLABARY\n"
+"string.text"
+msgid "Linear B Syllabary"
+msgstr "Syllwyddor Llinellog B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LINEAR_B_IDEOGRAMS\n"
+"string.text"
+msgid "Linear B Ideograms"
+msgstr "Ideogramau Llinellog B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_AEGEAN_NUMBERS\n"
+"string.text"
+msgid "Aegean Numbers"
+msgstr "Rhifau Ageaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_UGARITIC\n"
+"string.text"
+msgid "Ugaritic"
+msgstr "Ugaritig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SHAVIAN\n"
+"string.text"
+msgid "Shavian"
+msgstr "Shafiaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OSMANYA\n"
+"string.text"
+msgid "Osmanya"
+msgstr "Osmanya"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SINHALA\n"
+"string.text"
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TIBETAN\n"
+"string.text"
+msgid "Tibetan"
+msgstr "Tibetaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MYANMAR\n"
+"string.text"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHMER\n"
+"string.text"
+msgid "Khmer"
+msgstr "Khmer"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OGHAM\n"
+"string.text"
+msgid "Ogham"
+msgstr "Ogham"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_RUNIC\n"
+"string.text"
+msgid "Runic"
+msgstr "Runic"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SYRIAC\n"
+"string.text"
+msgid "Syriac"
+msgstr "Syriac"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_THAANA\n"
+"string.text"
+msgid "Thaana"
+msgstr "Thaana"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC\n"
+"string.text"
+msgid "Ethiopic"
+msgstr "Ethioptig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHEROKEE\n"
+"string.text"
+msgid "Cherokee"
+msgstr "Cherokee"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CANADIAN_ABORIGINAL\n"
+"string.text"
+msgid "Canadan Aboriginal Syllables"
+msgstr "Sillafyddion Cynfrodorol Canada"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MONGOLIAN\n"
+"string.text"
+msgid "Mongolian"
+msgstr "Mongoleg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_MATH_SYMS_A\n"
+"string.text"
+msgid "Miscellaneous Mathematical Symbols-A"
+msgstr "Mathemategol Amrywiol Symbolau-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPL_ARROWS_A\n"
+"string.text"
+msgid "Supplemental Arrows-A"
+msgstr "Saethau-A Ychwanegol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BRAILLE_PATTERNS\n"
+"string.text"
+msgid "Braille Patterns"
+msgstr "Patrymau Braille"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPL_ARROWS_B\n"
+"string.text"
+msgid "Supplemental Arrows-B"
+msgstr "Saethau-B Ychwanegol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISC_MATH_SYMS_B\n"
+"string.text"
+msgid "Miscellaneous Mathematical Symbols-B"
+msgstr "Mathemategol Amrywiol Symbolau-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_RADICAL_SUPPL\n"
+"string.text"
+msgid "CJK Radical Supplement"
+msgstr "CJK Radical Ychwanegol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANGXI_RADICALS\n"
+"string.text"
+msgid "Kangxi Radicals"
+msgstr "Radical Kangxi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IDEO_DESC_CHARS\n"
+"string.text"
+msgid "Ideographic Description Characters"
+msgstr "Nodau Disgrifiadol Ideograffig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGALOG\n"
+"string.text"
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANUNOO\n"
+"string.text"
+msgid "Hanunoo"
+msgstr "Hanunoo"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAGBANWA\n"
+"string.text"
+msgid "Tagbanwa"
+msgstr "Tagbanwa"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BUHID\n"
+"string.text"
+msgid "Buhid"
+msgstr "Buhid"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANBUN\n"
+"string.text"
+msgid "Kanbun"
+msgstr "Kanbun"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BOPOMOFO_EXTENDED\n"
+"string.text"
+msgid "Bopomofo Extended"
+msgstr "Bopomofo Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KATAKANA_PHONETIC\n"
+"string.text"
+msgid "Katakana Phonetics"
+msgstr "Katakana Phoneteg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CJK_STROKES\n"
+"string.text"
+msgid "CJK Strokes"
+msgstr "Strociau CJK"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYPRIOT_SYLLABARY\n"
+"string.text"
+msgid "Cypriot Syllabary"
+msgstr "Cyllwyddor Cypriaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_XUAN_JING_SYMBOLS\n"
+"string.text"
+msgid "Tai Xuan Jing Symbols"
+msgstr "Symbolau Tai Xuan Jing"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VARIATION_SELECTORS_SUPPLEMENT\n"
+"string.text"
+msgid "Variation Selectors Supplement"
+msgstr "Dewiswyr Amrywiad Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_GREEK_MUSICAL_NOTATION\n"
+"string.text"
+msgid "Ancient Greek Musical Notation"
+msgstr "Nodiant Cerddorol Groegaidd Hynafol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_GREEK_NUMBERS\n"
+"string.text"
+msgid "Ancient Greek Numbers"
+msgstr "Rhifau Groegaidd Hynafol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_SUPPLEMENT\n"
+"string.text"
+msgid "Arabic Supplement"
+msgstr "Arabeg Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BUGINESE\n"
+"string.text"
+msgid "Buginese"
+msgstr "Bugineg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMBINING_DIACRITICAL_MARKS_SUPPLEMENT\n"
+"string.text"
+msgid "Combining Diacritical Marks Supplement"
+msgstr "Atodiad Cyfuno Marciau Deiacritig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COPTIC\n"
+"string.text"
+msgid "Coptic"
+msgstr "Copteg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_EXTENDED\n"
+"string.text"
+msgid "Ethiopic Extended"
+msgstr "Ethiopeg Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_SUPPLEMENT\n"
+"string.text"
+msgid "Ethiopic Supplement"
+msgstr "Ethiopeg Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GEORGIAN_SUPPLEMENT\n"
+"string.text"
+msgid "Georgian Supplement"
+msgstr "Beorgiaidd Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_GLAGOLITIC\n"
+"string.text"
+msgid "Glagolitic"
+msgstr "Glagolitig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KHAROSHTHI\n"
+"string.text"
+msgid "Kharoshthi"
+msgstr "Kharoshthi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MODIFIER_TONE_LETTERS\n"
+"string.text"
+msgid "Modifier Tone Letters"
+msgstr "Llythrennau Ton Newidiol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NEW_TAI_LUE\n"
+"string.text"
+msgid "New Tai Lue"
+msgstr "New Tai Lue"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_PERSIAN\n"
+"string.text"
+msgid "Old Persian"
+msgstr "Persiaidd Hynafol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHONETIC_EXTENSIONS_SUPPLEMENT\n"
+"string.text"
+msgid "Phonetic Extensions Supplement"
+msgstr "Estyniadau Ffonetig Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUPPLEMENTAL_PUNCTUATION\n"
+"string.text"
+msgid "Supplemental Punctuation"
+msgstr "Atalnodi Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SYLOTI_NAGRI\n"
+"string.text"
+msgid "Syloti Nagri"
+msgstr "Syloti Nagri"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TIFINAGH\n"
+"string.text"
+msgid "Tifinagh"
+msgstr "Tifinagh"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VERTICAL_FORMS\n"
+"string.text"
+msgid "Vertical Forms"
+msgstr "Ffurfiau Fertigol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_NKO\n"
+"string.text"
+msgid "Nko"
+msgstr "Nko"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BALINESE\n"
+"string.text"
+msgid "Balinese"
+msgstr "Balineg"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_C\n"
+"string.text"
+msgid "Latin Extended-C"
+msgstr "Lladin Estynedig-C"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LATIN_EXTENDED_D\n"
+"string.text"
+msgid "Latin Extended-D"
+msgstr "Lladin Estynedig-D"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHAGS_PA\n"
+"string.text"
+msgid "Phags-Pa"
+msgstr "Phags-Pa"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHOENICIAN\n"
+"string.text"
+msgid "Phoenician"
+msgstr "Pheneciaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CUNEIFORM\n"
+"string.text"
+msgid "Cuneiform"
+msgstr "Cuneiform"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CUNEIFORM_NUMBERS_AND_PUNCTUATION\n"
+"string.text"
+msgid "Cuneiform Numbers And Punctuation"
+msgstr "Rhifau ac Atalnodi Cuneiform"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COUNTING_ROD_NUMERALS\n"
+"string.text"
+msgid "Counting Rod Numerals"
+msgstr "Rhifau Ffon Cyfrif"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUNDANESE\n"
+"string.text"
+msgid "Sundanese"
+msgstr "Sudanaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LEPCHA\n"
+"string.text"
+msgid "Lepcha"
+msgstr "Lepcha"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OL_CHIKI\n"
+"string.text"
+msgid "Ol Chiki"
+msgstr "Ol Chiki"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_EXTENDED_A\n"
+"string.text"
+msgid "Cyrillic Extended-A"
+msgstr "Cyrillig Estynedig-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VAI\n"
+"string.text"
+msgid "Vai"
+msgstr "Vai"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CYRILLIC_EXTENDED_B\n"
+"string.text"
+msgid "Cyrillic Extended-B"
+msgstr "Cyrillig Estynedig-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SAURASHTRA\n"
+"string.text"
+msgid "Saurashtra"
+msgstr "Saurashtra"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KAYAH_LI\n"
+"string.text"
+msgid "Kayah Li"
+msgstr "Kayah Li"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_REJANG\n"
+"string.text"
+msgid "Rejang"
+msgstr "Rejang"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHAM\n"
+"string.text"
+msgid "Cham"
+msgstr "Cham"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ANCIENT_SYMBOLS\n"
+"string.text"
+msgid "Ancient Symbols"
+msgstr "Symbolau Hynafol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PHAISTOS_DISC\n"
+"string.text"
+msgid "Phaistos Disc"
+msgstr "Disg Phaisatos"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LYCIAN\n"
+"string.text"
+msgid "Lycian"
+msgstr "Lyciaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CARIAN\n"
+"string.text"
+msgid "Carian"
+msgstr "Canariaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LYDIAN\n"
+"string.text"
+msgid "Lydian"
+msgstr "Lydiaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MAHJONG_TILES\n"
+"string.text"
+msgid "Mahjong Tiles"
+msgstr "Teiliau Mahjong"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DOMINO_TILES\n"
+"string.text"
+msgid "Domino Tiles"
+msgstr "Teiliau Domino"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SAMARITAN\n"
+"string.text"
+msgid "Samaritan"
+msgstr "Samaritaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_UNIFIED_CANADIAN_ABORIGINAL_SYLLABICS_EXTENDED\n"
+"string.text"
+msgid "Canadian Aboriginal Syllabics Extended"
+msgstr "Syllafwyddor Cynfrodorol Canada Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_THAM\n"
+"string.text"
+msgid "Tai Tham"
+msgstr "Tai Tham"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_VEDIC_EXTENSIONS\n"
+"string.text"
+msgid "Vedic Extensions"
+msgstr "Estyniadau Verdig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_LISU\n"
+"string.text"
+msgid "Lisu"
+msgstr "Lisu"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BAMUM\n"
+"string.text"
+msgid "Bamum"
+msgstr "Bamum"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_COMMON_INDIC_NUMBER_FORMS\n"
+"string.text"
+msgid "Common Indic Number Forms"
+msgstr "Ffurf Rhifau Cyffredin Indig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_DEVANAGARI_EXTENDED\n"
+"string.text"
+msgid "Devanagari Extended"
+msgstr "Devanagari Estynedig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO_EXTENDED_A\n"
+"string.text"
+msgid "Hangul Jamo Extended-A"
+msgstr "Hangul Jamo Estynedig-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_JAVANESE\n"
+"string.text"
+msgid "Javanese"
+msgstr "Javaneaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MYANMAR_EXTENDED_A\n"
+"string.text"
+msgid "Myanmar Extended-A"
+msgstr "Myanmar Estynedig-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAI_VIET\n"
+"string.text"
+msgid "Tai Viet"
+msgstr "Tai Viet"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEETEI_MAYEK\n"
+"string.text"
+msgid "Meetei Mayek"
+msgstr "Meetei Mayek"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_HANGUL_JAMO_EXTENDED_B\n"
+"string.text"
+msgid "Hangul Jamo Extended-B"
+msgstr "Hangul Jamo Estynedig-B"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_IMPERIAL_ARAMAIC\n"
+"string.text"
+msgid "Imperial Aramaic"
+msgstr "Arameaidd Ymerodrol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_SOUTH_ARABIAN\n"
+"string.text"
+msgid "Old South Arabian"
+msgstr "De Arabaidd Hynafol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_AVESTAN\n"
+"string.text"
+msgid "Avestan"
+msgstr "Afestanaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_INSCRIPTIONAL_PARTHIAN\n"
+"string.text"
+msgid "Inscriptional Parthian"
+msgstr "Parinthaidd Ysgrifol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_INSCRIPTIONAL_PAHLAVI\n"
+"string.text"
+msgid "Inscriptional Pahlavi"
+msgstr "Pahlafaidd Ysgrifol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_OLD_TURKIC\n"
+"string.text"
+msgid "Old Turkic"
+msgstr "Twrceg Hynafol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_RUMI_NUMERAL_SYMBOLS\n"
+"string.text"
+msgid "Rumi Numeral Symbols"
+msgstr "Symbolau Rhifol Rumi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KAITHI\n"
+"string.text"
+msgid "Kaithi"
+msgstr "Kaithi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_EGYPTIAN_HIEROGLYPHS\n"
+"string.text"
+msgid "Egyptian Hieroglyphs"
+msgstr "Hieroglyphau Eifftaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_ALPHANUMERIC_SUPPLEMENT\n"
+"string.text"
+msgid "Enclosed Alphanumeric Supplement"
+msgstr "Affaniwmerig Caëedig Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ENCLOSED_IDEOGRAPHIC_SUPPLEMENT\n"
+"string.text"
+msgid "Enclosed Ideographic Supplement"
+msgstr "Ideograffig Caëedig Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MANDAIC\n"
+"string.text"
+msgid "Mandaic"
+msgstr "Mandaic"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BATAK\n"
+"string.text"
+msgid "Batak"
+msgstr "Batak"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ETHIOPIC_EXTENDED_A\n"
+"string.text"
+msgid "Ethiopic Extended-A"
+msgstr "Ethiopaidd Estynedig-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BRAHMI\n"
+"string.text"
+msgid "Brahmi"
+msgstr "Brahmi"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_BAMUM_SUPPLEMENT\n"
+"string.text"
+msgid "Bamum Supplement"
+msgstr "Bamum Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_KANA_SUPPLEMENT\n"
+"string.text"
+msgid "Kana Supplement"
+msgstr "Kana Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_PLAYING_CARDS\n"
+"string.text"
+msgid "Playing Cards"
+msgstr "Cardiau Chwarae"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MISCELLANEOUS_SYMBOLS_AND_PICTOGRAPHS\n"
+"string.text"
+msgid "Miscellaneous Symbols And Pictographs"
+msgstr "Symbolau a Phictograffau Amrywiol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_EMOTICONS\n"
+"string.text"
+msgid "Emoticons"
+msgstr "Emoticons"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TRANSPORT_AND_MAP_SYMBOLS\n"
+"string.text"
+msgid "Transport And Map Symbols"
+msgstr "Symbolau Trafnidiaeth a Mapiau"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ALCHEMICAL_SYMBOLS\n"
+"string.text"
+msgid "Alchemical Symbols"
+msgstr "Symbolau Alcemegol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_EXTENDED_A\n"
+"string.text"
+msgid "Arabic Extended-A"
+msgstr "Arabeg Estynedig-A"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_ARABIC_MATHEMATICAL_ALPHABETIC_SYMBOLS\n"
+"string.text"
+msgid "Arabic Mathematical Alphabetic Symbols"
+msgstr "Symbolau Gwyddor Mathamategol Arabaidd"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_CHAKMA\n"
+"string.text"
+msgid "Chakma"
+msgstr "Chakma"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEETEI_MAYEK_EXTENSIONS\n"
+"string.text"
+msgid "Meetei Mayek Extensions"
+msgstr "Estyniadau Meetei Mayek"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEROITIC_CURSIVE\n"
+"string.text"
+msgid "Meroitic Cursive"
+msgstr "Meroitig Rhedol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MEROITIC_HIEROGLYPHS\n"
+"string.text"
+msgid "Meroitic Hieroglyphs"
+msgstr "Hieroglyphau Meroitig"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_MIAO\n"
+"string.text"
+msgid "Miao"
+msgstr "Miao"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SHARADA\n"
+"string.text"
+msgid "Sharada"
+msgstr "Sharada"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SORA_SOMPENG\n"
+"string.text"
+msgid "Sora Sompeng"
+msgstr "Cursive"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_SUNDANESE_SUPPLEMENT\n"
+"string.text"
+msgid "Sundanese Supplement"
+msgstr "Sudaneg Atodol"
+
+#: ucsubset.src
+msgctxt ""
+"ucsubset.src\n"
+"RID_SUBSETMAP\n"
+"RID_SUBSETSTR_TAKRI\n"
+"string.text"
+msgid "Takri"
+msgstr "Takri"

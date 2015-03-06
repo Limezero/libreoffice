@@ -1,0 +1,372 @@
+#. extracted from swext/mediawiki/src/registry/data/org/openoffice/Office/Custom
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-06 09:34+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: brx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"GeneralSendError\n"
+"value.text"
+msgid "The operation 'Send to MediaWiki' could not be completed successfully."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"NoWikiFilter\n"
+"value.text"
+msgid "The MediaWiki export filter cannot be found. Choose 'Tools-XML Filter Settings' to install the filter, or use the setup to install the component."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"NoConnectionToURL\n"
+"value.text"
+msgid "A connection to the MediaWiki system at '$ARG1' could not be created."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"WrongLogin\n"
+"value.text"
+msgid "User name or password is incorrect. Please try again, or leave the fields blank for an anonymous connection."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"InvalidURL\n"
+"value.text"
+msgid "A connection could not be created because the URL is invalid."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"NoURL\n"
+"value.text"
+msgid "Specify a MediaWiki server by providing a URL."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"CancelSending\n"
+"value.text"
+msgid "The transfer has been interrupted. Please check the integrity of the wiki article."
+msgstr ""
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditSetting_UrlLabel\n"
+"value.text"
+msgid "U~RL"
+msgstr "URL"
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditSetting_UsernameLabel\n"
+"value.text"
+msgid "~Username"
+msgstr "बाहायग्रानि मुं"
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditSetting_PasswordLabel\n"
+"value.text"
+msgid "~Password"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पासवर्ड\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"पासवर्ड\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~पासवर्ड\n"
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~पासवर्ड\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~पासवर्ड\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~पासवर्ड\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~पासवर्ड"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendTitle\n"
+"value.text"
+msgid "Send to MediaWiki"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_WikiArticle\n"
+"value.text"
+msgid "Wiki article"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_No\n"
+"value.text"
+msgid "No"
+msgstr "नङा"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_OK\n"
+"value.text"
+msgid "OK"
+msgstr "OK"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_Yes\n"
+"value.text"
+msgid "Yes"
+msgstr "नंगौ"
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_AddButton\n"
+"value.text"
+msgid "~Add..."
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~दाजाब...\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~दाजाबदेर...\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दाजाब...\n"
+"#-#-#-#-#  animations.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"दाजाब\n"
+"#-#-#-#-#  gui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~दाजाब..."
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditButton\n"
+"value.text"
+msgid "~Edit..."
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"सुजु...\n"
+"#-#-#-#-#  pagedlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~सुजु...\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~सुजु\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~सुजु...\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"/सुजुनाय...\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~सुजु...\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~सुजु..."
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendButton\n"
+"value.text"
+msgid "~Send"
+msgstr ""
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_RemoveButton\n"
+"value.text"
+msgid "~Remove"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"गैया खालाम\n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"गैया खालाम\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"गैया खालाम\n"
+"#-#-#-#-#  gui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~गैया खालाम"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_NewWikiPage_Label1\n"
+"value.text"
+msgid "A wiki article with the title '$ARG1' does not exist yet. Do you want to create a new article with that name?"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendToMediaWiki_Label1\n"
+"value.text"
+msgid "Media~Wiki Server"
+msgstr ""
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendToMediaWiki_Label2\n"
+"value.text"
+msgid "~Title"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"बिमुं\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~बिमुं\n"
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~बिमुं\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~बिमुं\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~बिमुं\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~बिमुं\n"
+"#-#-#-#-#  gallery2.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~बिमुं"
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendToMediaWiki_Label3\n"
+"value.text"
+msgid "S~ummary"
+msgstr "गुबै राव:"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendToMediaWiki_MinorCheck\n"
+"value.text"
+msgid "This is a ~minor edit"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_SendToMediaWiki_BrowserCheck\n"
+"value.text"
+msgid "Show in web ~browser"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"UnknownCert\n"
+"value.text"
+msgid "The certificate of the selected site is unknown."
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_MediaWiki_Title\n"
+"value.text"
+msgid "MediaWiki"
+msgstr ""
+
+#: WikiExtension.xcu
+#, fuzzy
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditSetting_AccountLine\n"
+"value.text"
+msgid "Account"
+msgstr "साननाय"
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditSetting_WikiLine\n"
+"value.text"
+msgid "MediaWiki Server"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_EditSetting_SaveBox\n"
+"value.text"
+msgid "~Save password"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_MediaWiki_Extension_String\n"
+"value.text"
+msgid "Wiki Publisher"
+msgstr ""
+
+#: WikiExtension.xcu
+msgctxt ""
+"WikiExtension.xcu\n"
+".WikiExtension.Strings\n"
+"Dlg_WikiPageExists_Label1\n"
+"value.text"
+msgid "A wiki article with the title '$ARG1' already exists.&#13;&#13;Do you want to replace the current article with your article?&#13;&#13;"
+msgstr ""

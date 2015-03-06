@@ -1,0 +1,995 @@
+#. extracted from sfx2/source/doc
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreOffice 3.5.x\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2014-12-04 04:17+0000\n"
+"Last-Translator: Donald <donr2648@clear.net.nz>\n"
+"Language-Team: Esperanto <kde-i18n-doc@kde.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1417666622.000000\n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DELETE_REGION\n"
+"string.text"
+msgid "Are you sure you want to delete the region \"$1\"?"
+msgstr "Ĉu certe, ke vi volas forigi la regionon \"$1\"?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DELETE_TEMPLATE\n"
+"string.text"
+msgid "Are you sure you want to delete the entry \"$1\"?"
+msgstr "Ĉu certe, ke vi volas forigi la enigon \"$1\"?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_STYLES\n"
+"string.text"
+msgid "Styles"
+msgstr "Stiloj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MACROS\n"
+"string.text"
+msgid "Macros"
+msgstr "Makrooj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CONFIG\n"
+"string.text"
+msgid "Configuration"
+msgstr "Konfiguro"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PRINT_STYLES_HEADER\n"
+"string.text"
+msgid "Styles in "
+msgstr "Stiloj en "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PRINT_STYLES\n"
+"string.text"
+msgid "Printing Styles"
+msgstr "Presstiloj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_BACKUP_COPY\n"
+"string.text"
+msgid "Copy"
+msgstr "Kopii"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_SAVE\n"
+"string.text"
+msgid "Error recording document "
+msgstr "Eraro dum rikordo de dokumento "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPLATE_FILTER\n"
+"string.text"
+msgid "Templates"
+msgstr "Ŝablonoj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_COPY_TEMPLATE\n"
+"string.text"
+msgid ""
+"Error copying template \"$1\". \n"
+"A template with this name may already exist."
+msgstr ""
+"Eraro dum kopiado de ŝablono \"$1\". \n"
+"Eble jam ekzistas samnoma ŝablono."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_DELETE_TEMPLATE\n"
+"string.text"
+msgid "The template \"$1\" can not be deleted."
+msgstr "La ŝablono \"$1\" ne estas forigebla."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_MOVE_TEMPLATE\n"
+"string.text"
+msgid "Error moving template \"$1\"."
+msgstr "Eraro dum movado de ŝablono \"$1\"."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_SAVE_TEMPLATE\n"
+"string.text"
+msgid "Error saving template "
+msgstr "Eraro dum konservado de ŝablono "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QUERY_DEFAULT_TEMPLATE\n"
+"string.text"
+msgid "Should the template \"$(TEXT)\" become the default template?"
+msgstr "Ĉu ŝablono \"$(TEXT)\" iĝu la apriora ŝablono?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_NOSTORAGE\n"
+"string.text"
+msgid "The selected file has an incorrect format."
+msgstr "La elektita dosiero havas maltaŭgan formaton."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QUERY_MUSTOWNFORMAT\n"
+"string.text"
+msgid ""
+"Documents cannot be saved in $(FORMAT) format. Do you\n"
+"want to save your changes using the $(OWNFORMAT) format?"
+msgstr ""
+"Ne eblis konservi dokumentojn en $(FORMAT)-formato. Ĉu\n"
+"tamen konservi viajn ŝanĝojn uzante la $(OWNFORMAT)-formaton?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEDOC\n"
+"string.text"
+msgid "~Save"
+msgstr "Konservi"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_UPDATEDOC\n"
+"string.text"
+msgid "~Update"
+msgstr "Ĝisdatigi"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEASDOC\n"
+"string.text"
+msgid "Save ~As..."
+msgstr "Konservi kiel..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVECOPYDOC\n"
+"string.text"
+msgid "Save Copy ~as..."
+msgstr "Konservi kopion kiel..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy..."
+msgstr "Konservi kopion..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CLOSEDOC\n"
+"string.text"
+msgid "~Close"
+msgstr "Fermi"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CLOSEDOC_ANDRETURN\n"
+"string.text"
+msgid "~Close & Return to "
+msgstr "Fermi kaj reiri al "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_WIZARD\n"
+"string.text"
+msgid " AutoPilot"
+msgstr "Aŭtomata piloto"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_FILTCONFIG\n"
+"string.text"
+msgid "Configurations"
+msgstr "Konfiguroj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_FILTBASIC\n"
+"string.text"
+msgid "%PRODUCTNAME Basic libraries"
+msgstr "%PRODUCTNAME-Basic-bibliotekoj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_WARNSTYLEOVERWRITE\n"
+"string.text"
+msgid "Should the \"$(ARG1)\" Style be replaced?"
+msgstr "Ĉu anstataŭigi la \"$(ARG1)\"-stilo?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EDIT\n"
+"string.text"
+msgid "Edit"
+msgstr "Redakti"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_OFFICEFILTER\n"
+"string.text"
+msgid "%PRODUCTNAME Documents"
+msgstr "%PRODUCTNAME -dokumentoj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FRAMEOBJECT_PROPERTIES\n"
+"string.text"
+msgid "Propert~ies..."
+msgstr "Atributoj..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FSET_FILTERNAME0\n"
+"string.text"
+msgid "HTML (FrameSet)"
+msgstr "HTML (kadraro)"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FSET_FILTERNAME1\n"
+"string.text"
+msgid "%PRODUCTNAME Frame Document"
+msgstr "%PRODUCTNAME -kadra dokumento"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPL_MOVED\n"
+"string.text"
+msgid "The template \"$(TEMPLATE)\" was not found at the original location. A template with the same name exists at \"$(FOUND)\". Should this template be used in the future when comparing?"
+msgstr "La ŝablono \"$(TEMPLATE)\" ne estas trovita en la originala loko. Samnoma ŝablono ekzistas en \"$(FOUND)\". Ĉu tiu estonte estu uzata dum komparo?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPL_RESET\n"
+"string.text"
+msgid "The template \"$(TEMPLATE)\" has not been found. Should the template be looked for the next time the document is opened ?"
+msgstr "Ne eblis trovi la ŝablonon \"$(TEMPLATE)\". Ĉu serĉi ĝin dum la sekva malfermo de la dokumento?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_AUTOMATICVERSION\n"
+"string.text"
+msgid "Automatically saved version"
+msgstr "Aŭtomate konservita versio"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SW\n"
+"string.text"
+msgid "Text Document"
+msgstr "Teksta dokumento"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SWWEB\n"
+"string.text"
+msgid "HTML Document"
+msgstr "HTML-a dokumento"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SWGLOB\n"
+"string.text"
+msgid "Master Document"
+msgstr "Ĉefa dokumento"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SC\n"
+"string.text"
+msgid "Spreadsheet"
+msgstr "Kalkultabelo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SI\n"
+"string.text"
+msgid "Presentation"
+msgstr "Prezentaĵo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SD\n"
+"string.text"
+msgid "Drawing"
+msgstr "Desegnaĵo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_MESSAGE\n"
+"string.text"
+msgid "Message"
+msgstr "Mesaĝo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PACKNGO_NOACCESS\n"
+"string.text"
+msgid "Access to the current data medium not possible."
+msgstr "Aliri al aktualaj datumoj neeblas."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PACKNGO_NEWMEDIUM\n"
+"string.text"
+msgid "Insert the next data carrier and click OK."
+msgstr "Entajpu sekvan datumportilon kaj alklaku Akcepti."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Objekto"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"BTN_OK\n"
+"string.text"
+msgid "Run"
+msgstr "Ruli"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"BTN_CANCEL\n"
+"string.text"
+msgid "Do Not Run"
+msgstr "Ne ruli"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"FT_CANCEL\n"
+"string.text"
+msgid "According to the security settings, the macros in this document should not be run. Do you want to run them anyway?"
+msgstr "Laŭ la sekurecaj agordoj la makrooj en ĉi tiu dokumento ne ruliĝu. Ĉu tamen ruli ilin?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"FT_OK\n"
+"string.text"
+msgid "Do you want to allow these macros to be run?"
+msgstr "Ĉu vi permesas, ke ĉi tiuj makrooj ruliĝu?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTASPDF_TITLE\n"
+"string.text"
+msgid "Export as PDF"
+msgstr "Eksporti kiel PDF-n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTWITHCFGBUTTON\n"
+"string.text"
+msgid "Export..."
+msgstr "Eksporti..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTBUTTON\n"
+"string.text"
+msgid "Export"
+msgstr "Eksporti"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_SVXSTR_SECURITY_ADDPATH\n"
+"string.text"
+msgid "Add this directory to the list of secure paths: "
+msgstr "Aldoni ĉi tiujn dosierujon al la listo de sekuraj vojprefiksoj: "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_LABEL_FILEFORMAT\n"
+"string.text"
+msgid "File format:"
+msgstr "Dosierformato:"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTAINS\n"
+"string.text"
+msgid ""
+"This document contains:\n"
+"\n"
+msgstr ""
+"Ĉi tiu dokumento enhavas:\n"
+"\n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_RECORDCHANGES\n"
+"string.text"
+msgid "Recorded changes"
+msgstr "Notitaj ŝanĝoj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "Notoj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_DOCVERSIONS\n"
+"string.text"
+msgid "Document versions"
+msgstr "Dokumentaj versioj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_FIELDS\n"
+"string.text"
+msgid "Fields"
+msgstr "Kampoj"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_LINKDATA\n"
+"string.text"
+msgid "Linked data..."
+msgstr "Ligitaj datumoj..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_SAVING\n"
+"string.text"
+msgid "Do you want to continue saving the document?"
+msgstr "Ĉu daŭrigi konservadon de la dokumento?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_PRINTING\n"
+"string.text"
+msgid "Do you want to continue printing the document?"
+msgstr "Ĉu daŭrigi presadon de dokumento?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_SIGNING\n"
+"string.text"
+msgid "Do you want to continue signing the document?"
+msgstr "Ĉu daŭrigi subskribadon de dokumento?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_CREATEPDF\n"
+"string.text"
+msgid "Do you want to continue creating a PDF file?"
+msgstr "Ĉu  daŭrigi kreadon de PDF-dosiero?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_NEW_FILENAME_SAVE\n"
+"string.text"
+msgid "If you do not want to overwrite the original document, you should save your work under a new filename."
+msgstr "Se vi ne volas anstataŭigi la originalan dokumenton, vi konservu vian laboron laŭ nova dosiernomo."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_DELETE_TEMPLATE_DIR\n"
+"string.text"
+msgid "Some template files are protected and can not be deleted."
+msgstr "Iuj ŝablondosieroj estas protektita kaj ne estas forigeblaj."
+
+#. pb: %1 == a number [1-4]
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCINFO_INFOFIELD\n"
+"string.text"
+msgid "Info %1"
+msgstr "Informo %1"
+
+#. Used in the title of a shared document.
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SHARED\n"
+"string.text"
+msgid " (shared)"
+msgstr " (kunhavata)"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_XMLSEC_ODF12_EXPECTED\n"
+"string.text"
+msgid "The document format version is set to ODF 1.1 (OpenOffice.org 2.x) in Tools-Options-Load/Save-General. Signing documents requires ODF 1.2 (OpenOffice.org 3.x)."
+msgstr "La versio de dokumenta formato estas agordita al ODF 1.1 (OpenOffice.org 2.x) en Iloj-Agordoj-Ŝargi-Ĝenerala. Subskribi dokumentojn bezonas version 1.2 (OpenOffice.org 3.x)."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_XMLSEC_QUERY_SAVESIGNEDBEFORESIGN\n"
+"string.text"
+msgid ""
+"The document has to be saved before it can be signed. Saving the document removes all present signatures.\n"
+"Do you want to save the document?"
+msgstr ""
+"Necesas konservi la dokumenton antaŭ ol subskribi ĝin. Konservi la dokumenton forigos ĉiujn nunajn subskribojn.\n"
+"Ĉu vi volas konservi la dokumenton?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_MESSAGE\n"
+"string.text"
+msgid "The template '$(ARG1)' on which this document is based, has been modified. Do you want to update style based formatting according to the modified template?"
+msgstr "La ŝablono '$(ARG1)', sur kiu ĉi tiu dokumento estas bazita, estas ŝanĝita. Ĉu vi volas aktualigi stilbazitajn formatojn laŭ la ŝanĝita ŝablono?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_UPDATE_BTN\n"
+"string.text"
+msgid "~Update Styles"
+msgstr "Aktualigi stilojn"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_KEEP_BTN\n"
+"string.text"
+msgid "~Keep Old Styles"
+msgstr "Konservi malnovajn stilojn"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_SORT_NAME\n"
+"string.text"
+msgid "Sort by name"
+msgstr "Ordigi laŭ nomo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_REFRESH\n"
+"string.text"
+msgid "Refresh"
+msgstr "Aktualigi"
+
+#. leave ending space
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_DEFAULT\n"
+"string.text"
+msgid "Reset Default Template "
+msgstr "Reagordi aprioran ŝablonon"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MOVE_NEW\n"
+"string.text"
+msgid "New folder"
+msgstr "Nova dosierujo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_INPUT_NEW\n"
+"string.text"
+msgid "Enter folder name:"
+msgstr "Enigi nomon de dosierujo:"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_REPOSITORY_LOCAL\n"
+"string.text"
+msgid "Local"
+msgstr "Loka"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_REPOSITORY_NEW\n"
+"string.text"
+msgid "New Repository"
+msgstr "Nova deponejo"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_LOCAL_MOVE\n"
+"string.text"
+msgid ""
+"Error moving the following templates to $1.\n"
+"$2"
+msgstr ""
+"Eraro okazis movante la jenajn ŝablonojn al $1.\n"
+"$2"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_REMOTE_MOVE\n"
+"string.text"
+msgid ""
+"Error moving the following templates from repository $1 to folder $2.\n"
+"$3"
+msgstr ""
+"Eraro okazis movante la jenajn ŝablonojn el deponejo $1 al dosierujo $2.\n"
+"$3"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_EXPORT\n"
+"string.text"
+msgid ""
+"Error exporting the following templates:\n"
+"$1"
+msgstr ""
+"Eraro okazis eksportante la jenajn ŝablonojn:\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_IMPORT\n"
+"string.text"
+msgid ""
+"Error importing the following templates to $1:\n"
+"$2"
+msgstr ""
+"Eraro okazis importante la jenajn ŝablonojn al $1:\n"
+"$2"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_DELETE_TEMPLATE\n"
+"string.text"
+msgid ""
+"The following templates cannot be deleted:\n"
+"$1"
+msgstr ""
+"La jenaj ŝablonoj ne estas forigeblaj:\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_DELETE_FOLDER\n"
+"string.text"
+msgid ""
+"The following folders cannot be deleted:\n"
+"$1"
+msgstr ""
+"La jenaj dosierujoj ne estas forigeblaj:\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_REPOSITORY_NAME\n"
+"string.text"
+msgid ""
+"Failed to create repository \"$1\".\n"
+"A repository with this name may already exist."
+msgstr ""
+"Malsukcesis krei deponejon \"$1\".\n"
+"Eble jam ekzistas deponejo kun tiu nomo."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_SELECT_FOLDER\n"
+"string.text"
+msgid "Select the destination folder(s) to save the template."
+msgstr "Elektu la celajn dosierujo(j)n en kiu konservi la ŝablonon."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_INPUT_TEMPLATE_NEW\n"
+"string.text"
+msgid "Enter template name:"
+msgstr "Enigu ŝablonan nomon:"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_SEL_FOLDER_DELETE\n"
+"string.text"
+msgid "Do you want to delete the selected folders?"
+msgstr "Ĉu vi volas forigi la elektitan dosierujon?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_TEMPLATE_OVERWRITE\n"
+"string.text"
+msgid "A template named $1 already exist in $2. Do you want to overwrite it?"
+msgstr "Ŝablono nomita $1 jam ekzistas en $2. Ĉi vi volas anstataŭigi ĝin?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_SEL_TEMPLATE_DELETE\n"
+"string.text"
+msgid "Do you want to delete the selected templates?"
+msgstr "Ĉu vi volas forigi la elektitajn ŝablonojn?"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"My Templates\n"
+"itemlist.text"
+msgid "My Templates"
+msgstr "Miaj ŝablonoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Business Correspondence\n"
+"itemlist.text"
+msgid "Business Correspondence"
+msgstr "Komerca korespondado"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Other Business Documents\n"
+"itemlist.text"
+msgid "Other Business Documents"
+msgstr "Aliaj komercaj dokumentoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Personal Correspondence and Documents\n"
+"itemlist.text"
+msgid "Personal Correspondence and Documents"
+msgstr "Korespondaĵoj kaj dokumentoj de uzanto"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Forms and Contracts\n"
+"itemlist.text"
+msgid "Forms and Contracts"
+msgstr "Formularoj kaj kontraktoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Finances\n"
+"itemlist.text"
+msgid "Finances"
+msgstr "Financoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Education\n"
+"itemlist.text"
+msgid "Education"
+msgstr "Eduko"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Presentation Backgrounds\n"
+"itemlist.text"
+msgid "Presentation Backgrounds"
+msgstr "Prezentaj fonoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Presentations\n"
+"itemlist.text"
+msgid "Presentations"
+msgstr "Prezentaĵoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Miscellaneous\n"
+"itemlist.text"
+msgid "Miscellaneous"
+msgstr "Diversaĵoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Labels\n"
+"itemlist.text"
+msgid "Labels"
+msgstr "Etikedoj"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"RID_CNT_STR_WAITING\n"
+"string.text"
+msgid "The templates are being initialized for first-time usage."
+msgstr "La ŝablonoj estas agordataj por unua uzo."
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME1\n"
+"string.text"
+msgid "Abstract Green"
+msgstr "Resuma verdo"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME2\n"
+"string.text"
+msgid "Abstract Red"
+msgstr "Resuma reĝo"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME3\n"
+"string.text"
+msgid "Abstract Yellow"
+msgstr "Resuma flavo"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME4\n"
+"string.text"
+msgid "Bright Blue"
+msgstr "Hela bluo"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME5\n"
+"string.text"
+msgid "DNA"
+msgstr "DNA"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME6\n"
+"string.text"
+msgid "Inspiration"
+msgstr "Inspiro"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME7\n"
+"string.text"
+msgid "Lush Green"
+msgstr "Vibra verdo"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME8\n"
+"string.text"
+msgid "Metropolis"
+msgstr "Metropolo"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME9\n"
+"string.text"
+msgid "Sunset"
+msgstr "Sunsubiro"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME10\n"
+"string.text"
+msgid "Vintage"
+msgstr "Aĝo"

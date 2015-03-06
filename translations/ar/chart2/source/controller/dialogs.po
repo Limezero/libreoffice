@@ -1,0 +1,1429 @@
+#. extracted from chart2/source/controller/dialogs
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-02 00:01+0200\n"
+"PO-Revision-Date: 2014-08-03 09:12+0000\n"
+"Last-Translator: صفا <safaalfulaij@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1407057149.000000\n"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DLG_CHART_WIZARD\n"
+"string.text"
+msgid "Chart Wizard"
+msgstr "مُرشد الرسم البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DLG_SMOOTH_LINE_PROPERTIES\n"
+"string.text"
+msgid "Smooth Lines"
+msgstr "خطوط متجانسة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DLG_STEPPED_LINE_PROPERTIES\n"
+"string.text"
+msgid "Stepped Lines"
+msgstr "خطوط درجيّة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_CHARTTYPE\n"
+"string.text"
+msgid "Chart Type"
+msgstr "نوع الرسم البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_DATA_RANGE\n"
+"string.text"
+msgid "Data Range"
+msgstr "نطاق البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_CHART_ELEMENTS\n"
+"string.text"
+msgid "Chart Elements"
+msgstr "عناصر الرسم البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_CHART_LOCATION\n"
+"string.text"
+msgid "Chart Location"
+msgstr "موقع الرسم البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_LINE\n"
+"string.text"
+msgid "Line"
+msgstr "الخط"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_BORDER\n"
+"string.text"
+msgid "Borders"
+msgstr "الحدود"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_AREA\n"
+"string.text"
+msgid "Area"
+msgstr "المنطقة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_TRANSPARENCY\n"
+"string.text"
+msgid "Transparency"
+msgstr "الشفافية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "الخط"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_FONT_EFFECTS\n"
+"string.text"
+msgid "Font Effects"
+msgstr "تأثيرات الخط"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_NUMBERS\n"
+"string.text"
+msgid "Numbers"
+msgstr "الأرقام"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_POSITION\n"
+"string.text"
+msgid "Position"
+msgstr "الموضع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_BUTTON_UP\n"
+"string.text"
+msgid "Up"
+msgstr "الأعلى"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_BUTTON_DOWN\n"
+"string.text"
+msgid "Down"
+msgstr "الأسفل"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_LAYOUT\n"
+"string.text"
+msgid "Layout"
+msgstr "تخطيط"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_OPTIONS\n"
+"string.text"
+msgid "Options"
+msgstr "خيارات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_SCALE\n"
+"string.text"
+msgid "Scale"
+msgstr "المقاس"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_POSITIONING\n"
+"string.text"
+msgid "Positioning"
+msgstr "الموضع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_TRENDLINE_TYPE\n"
+"string.text"
+msgid "Type"
+msgstr "النوع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_XERROR_BARS\n"
+"string.text"
+msgid "X Error Bars"
+msgstr "أشرطة خطأ س"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_YERROR_BARS\n"
+"string.text"
+msgid "Y Error Bars"
+msgstr "أشرطة خطأ ص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_ZERROR_BARS\n"
+"string.text"
+msgid "Z Error Bars"
+msgstr "أشرطة خطأ ع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_ALIGNMENT\n"
+"string.text"
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_PERSPECTIVE\n"
+"string.text"
+msgid "Perspective"
+msgstr "المنظور"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_APPEARANCE\n"
+"string.text"
+msgid "Appearance"
+msgstr "المظهر"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_ILLUMINATION\n"
+"string.text"
+msgid "Illumination"
+msgstr "الإضاءة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PAGE_ASIAN\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "الطباعة الأسيوية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AVERAGE_LINE_WITH_PARAMETERS\n"
+"string.text"
+msgid "Mean value line with value %AVERAGE_VALUE and standard deviation %STD_DEVIATION"
+msgstr "سطر القيمة المتوسّطة بالقيمة %AVERAGE_VALUE والانحراف المعياري %STD_DEVIATION"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AXIS\n"
+"string.text"
+msgid "Axis"
+msgstr "المحور"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AXIS_X\n"
+"string.text"
+msgid "X Axis"
+msgstr "المحور س"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AXIS_Y\n"
+"string.text"
+msgid "Y Axis"
+msgstr "المحور ص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AXIS_Z\n"
+"string.text"
+msgid "Z Axis"
+msgstr "المحور ع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_SECONDARY_X_AXIS\n"
+"string.text"
+msgid "Secondary X Axis"
+msgstr "المحور س الثانوي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_SECONDARY_Y_AXIS\n"
+"string.text"
+msgid "Secondary Y Axis"
+msgstr "المحور ص الثانوي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AXES\n"
+"string.text"
+msgid "Axes"
+msgstr "المحاور"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRIDS\n"
+"string.text"
+msgid "Grids"
+msgstr "الشبكات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID\n"
+"string.text"
+msgid "Grid"
+msgstr "الشبكة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID_MAJOR_X\n"
+"string.text"
+msgid "X Axis Major Grid"
+msgstr "شبكة المحور س الرئيسية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID_MAJOR_Y\n"
+"string.text"
+msgid "Y Axis Major Grid"
+msgstr "شبكة المحور ص الرئيسية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID_MAJOR_Z\n"
+"string.text"
+msgid "Z Axis Major Grid"
+msgstr "شبكة المحور ع الرئيسية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID_MINOR_X\n"
+"string.text"
+msgid "X Axis Minor Grid"
+msgstr "شبكة المحور س الثانوية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID_MINOR_Y\n"
+"string.text"
+msgid "Y Axis Minor Grid"
+msgstr "شبكة المحور ص الثانوية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_GRID_MINOR_Z\n"
+"string.text"
+msgid "Z Axis Minor Grid"
+msgstr "شبكة المحور ع الثانوية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_LEGEND\n"
+"string.text"
+msgid "Legend"
+msgstr "المفتاح"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "العنوان"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLES\n"
+"string.text"
+msgid "Titles"
+msgstr "العناوين"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_MAIN\n"
+"string.text"
+msgid "Main Title"
+msgstr "العنوان الرئيسي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_SUB\n"
+"string.text"
+msgid "Subtitle"
+msgstr "العنوان الفرعي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_X_AXIS\n"
+"string.text"
+msgid "X Axis Title"
+msgstr "عنوان المحور س"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_Y_AXIS\n"
+"string.text"
+msgid "Y Axis Title"
+msgstr "عنوان المحور ص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_Z_AXIS\n"
+"string.text"
+msgid "Z Axis Title"
+msgstr "عنوان المحور ع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_SECONDARY_X_AXIS\n"
+"string.text"
+msgid "Secondary X Axis Title"
+msgstr "عنوان المحور س الثانوي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_TITLE_SECONDARY_Y_AXIS\n"
+"string.text"
+msgid "Secondary Y Axis Title"
+msgstr "عنوان المحور ص الثانوي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_LABEL\n"
+"string.text"
+msgid "Label"
+msgstr "التسمية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DATALABELS\n"
+"string.text"
+msgid "Data Labels"
+msgstr "تسميات البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DATAPOINT\n"
+"string.text"
+msgid "Data Point"
+msgstr "نقطة البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DATAPOINTS\n"
+"string.text"
+msgid "Data Points"
+msgstr "نقاط البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_LEGEND_SYMBOL\n"
+"string.text"
+msgid "Legend Key"
+msgstr "مفتاح وسيلة الإيضاح"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DATASERIES\n"
+"string.text"
+msgid "Data Series"
+msgstr "سلسلة البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DATASERIES_PLURAL\n"
+"string.text"
+msgid "Data Series"
+msgstr "سلسلة البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_CURVE\n"
+"string.text"
+msgid "Trend Line"
+msgstr "خط الاتجاه"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_CURVES\n"
+"string.text"
+msgid "Trend Lines"
+msgstr "خطوط الاتجاه"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_CURVE_WITH_PARAMETERS\n"
+"string.text"
+msgid "Trend line %FORMULA with accuracy R² = %RSQUARED"
+msgstr "خط الاتجاه %FORMULA بالدقة R² = %RSQUARED"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_MOVING_AVERAGE_WITH_PARAMETERS\n"
+"string.text"
+msgid "Moving average trend line with period = %PERIOD"
+msgstr ""
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_AVERAGE_LINE\n"
+"string.text"
+msgid "Mean Value Line"
+msgstr "سطر القيمة المتوسطة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_CURVE_EQUATION\n"
+"string.text"
+msgid "Equation"
+msgstr "المعادلة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_ERROR_BARS_X\n"
+"string.text"
+msgid "X Error Bars"
+msgstr "أشرطة خطأ س"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_ERROR_BARS_Y\n"
+"string.text"
+msgid "Y Error Bars"
+msgstr "أشرطة خطأ ص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_ERROR_BARS_Z\n"
+"string.text"
+msgid "Z Error Bars"
+msgstr "أشرطة خطأ ع"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_STOCK_LOSS\n"
+"string.text"
+msgid "Stock Loss"
+msgstr "خسارة الأسهم"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_STOCK_GAIN\n"
+"string.text"
+msgid "Stock Gain"
+msgstr "ربحية الأسهم"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_PAGE\n"
+"string.text"
+msgid "Chart Area"
+msgstr "منطقة المخطط البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DIAGRAM\n"
+"string.text"
+msgid "Chart"
+msgstr "المخطط البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DIAGRAM_WALL\n"
+"string.text"
+msgid "Chart Wall"
+msgstr "جدار المخطط البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_DIAGRAM_FLOOR\n"
+"string.text"
+msgid "Chart Floor"
+msgstr "أرضية المخطط البياني"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_SHAPE\n"
+"string.text"
+msgid "Drawing Object"
+msgstr "كائن الرسم"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TIP_DATASERIES\n"
+"string.text"
+msgid "Data Series '%SERIESNAME'"
+msgstr "سلسلة البيانات '%SERIESNAME'"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TIP_DATAPOINT_INDEX\n"
+"string.text"
+msgid "Data Point %POINTNUMBER"
+msgstr "مؤشر البيانات %POINTNUMBER"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TIP_DATAPOINT_VALUES\n"
+"string.text"
+msgid "Values: %POINTVALUES"
+msgstr "القيم: %POINTVALUES"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TIP_DATAPOINT\n"
+"string.text"
+msgid "Data Point %POINTNUMBER, data series %SERIESNUMBER, values: %POINTVALUES"
+msgstr "مؤشر البيانات %POINTNUMBER، سلسلة البيانات %SERIESNUMBER، القيم: %POINTVALUES"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_STATUS_DATAPOINT_MARKED\n"
+"string.text"
+msgid "Data point %POINTNUMBER in data series %SERIESNUMBER selected, values: %POINTVALUES"
+msgstr "مؤشر البيانات %POINTNUMBER في سلسلة البيانات %SERIESNUMBER المحددة، القيم: %POINTVALUES"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_STATUS_OBJECT_MARKED\n"
+"string.text"
+msgid "%OBJECTNAME selected"
+msgstr "%OBJECTNAME محدد"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_STATUS_PIE_SEGMENT_EXPLODED\n"
+"string.text"
+msgid "Pie exploded by %PERCENTVALUE percent"
+msgstr "تخطيط دائري انفجارٍ بنسبة %PERCENTVALUE مئوية"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_FOR_SERIES\n"
+"string.text"
+msgid "%OBJECTNAME for Data Series '%SERIESNAME'"
+msgstr "%OBJECTNAME لسلسلة البيانات '%SERIESNAME'"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_OBJECT_FOR_ALL_SERIES\n"
+"string.text"
+msgid "%OBJECTNAME for all Data Series"
+msgstr "%OBJECTNAME لجميع سلاسل البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_EDIT_CHARTTYPE\n"
+"string.text"
+msgid "Edit chart type"
+msgstr "تحرير نوع المخطط"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_EDIT_DATA_RANGES\n"
+"string.text"
+msgid "Edit data ranges"
+msgstr "تحرير نطاقات البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_EDIT_3D_VIEW\n"
+"string.text"
+msgid "Edit 3D view"
+msgstr "تحرير عرض ثلاثي الأبعاد"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_EDIT_CHART_DATA\n"
+"string.text"
+msgid "Edit chart data"
+msgstr "تحرير بيانات المخطط"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_TOGGLE_LEGEND\n"
+"string.text"
+msgid "Legend on/off"
+msgstr "تشغيل/إيقاف تشغيل وسيلة الإيضاح"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_TOGGLE_GRID_HORZ\n"
+"string.text"
+msgid "Horizontal grid major/major&minor/off"
+msgstr ""
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_TOGGLE_GRID_VERTICAL\n"
+"string.text"
+msgid "Vertical grid major/major&minor/off"
+msgstr ""
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_SCALE_TEXT\n"
+"string.text"
+msgid "Scale Text"
+msgstr "نص المقياس"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_REARRANGE_CHART\n"
+"string.text"
+msgid "Automatic Layout"
+msgstr "تخطيط تلقائي"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_NOTPOSSIBLE\n"
+"string.text"
+msgid "This function cannot be completed with the selected objects."
+msgstr "لا يمكن إكمال هذه الدالة باستخدام الكائنات المحددة."
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ACTION_EDIT_TEXT\n"
+"string.text"
+msgid "Edit text"
+msgstr "تحرير نص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_COLUMN_LABEL\n"
+"string.text"
+msgid "Column %COLUMNNUMBER"
+msgstr "العمود %COLUMNNUMBER"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_ROW_LABEL\n"
+"string.text"
+msgid "Row %ROWNUMBER"
+msgstr "السطر %ROWNUMBER"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_LABEL\n"
+"string.text"
+msgid "Name"
+msgstr "الاسم"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_X\n"
+"string.text"
+msgid "X-Values"
+msgstr "قيم س"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_Y\n"
+"string.text"
+msgid "Y-Values"
+msgstr "قيم ص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_SIZE\n"
+"string.text"
+msgid "Bubble Sizes"
+msgstr "أحجام الفقاعات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_X_ERROR\n"
+"string.text"
+msgid "X-Error-Bars"
+msgstr "أشرطة أخطاء س"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_X_ERROR_POSITIVE\n"
+"string.text"
+msgid "Positive X-Error-Bars"
+msgstr "أشرطة خطأ X الموجبة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_X_ERROR_NEGATIVE\n"
+"string.text"
+msgid "Negative X-Error-Bars"
+msgstr "أشرطة خطأ X السالبة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_Y_ERROR\n"
+"string.text"
+msgid "Y-Error-Bars"
+msgstr "أشرطة أخطاء ص"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_Y_ERROR_POSITIVE\n"
+"string.text"
+msgid "Positive Y-Error-Bars"
+msgstr "أشرطة خطأ Y الموجبة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_Y_ERROR_NEGATIVE\n"
+"string.text"
+msgid "Negative Y-Error-Bars"
+msgstr "أشرطة خطأ Y السالبة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_FIRST\n"
+"string.text"
+msgid "Open Values"
+msgstr "قيم مفتوحة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_LAST\n"
+"string.text"
+msgid "Close Values"
+msgstr "قيم مغلقة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_MIN\n"
+"string.text"
+msgid "Low Values"
+msgstr "قيم منخفضة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_MAX\n"
+"string.text"
+msgid "High Values"
+msgstr "قيم مرتفعة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_ROLE_CATEGORIES\n"
+"string.text"
+msgid "Categories"
+msgstr "الفئات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_UNNAMED_SERIES\n"
+"string.text"
+msgid "Unnamed Series"
+msgstr "سلسلة غير مسماة"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_UNNAMED_SERIES_WITH_INDEX\n"
+"string.text"
+msgid "Unnamed Series %NUMBER"
+msgstr "سلسلة غير مسماة %NUMBER"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_SELECT_RANGE_FOR_SERIES\n"
+"string.text"
+msgid "Select Range for %VALUETYPE of %SERIESNAME"
+msgstr "حدد نطاقًا لـ %VALUETYPE of %SERIESNAME"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_SELECT_RANGE_FOR_CATEGORIES\n"
+"string.text"
+msgid "Select Range for Categories"
+msgstr "حدد نطاق الفئات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_SELECT_RANGE_FOR_DATALABELS\n"
+"string.text"
+msgid "Select Range for data labels"
+msgstr "حدد نطاق تسميات البيانات"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_DATA_EDITOR_INCORRECT_INPUT\n"
+"string.text"
+msgid ""
+"Your last input is incorrect.\n"
+"Ignore this change and close the dialog?"
+msgstr ""
+"إدخالك الأخير غير صحيح.\n"
+"هل تريد تجاهل هذا التغيير وإغلاق مربع الحوار؟"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TEXT_DIRECTION_LTR\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "من اليسار إلى اليمين"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TEXT_DIRECTION_RTL\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "من اليمين إلى اليسار"
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_TEXT_DIRECTION_SUPER\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "استخدم إعدادات كائن الاحداثيات الرئيسية "
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PROPERTY_ROLE_FILLCOLOR\n"
+"string.text"
+msgid "Fill Color"
+msgstr ""
+
+#: Strings.src
+msgctxt ""
+"Strings.src\n"
+"STR_PROPERTY_ROLE_BORDERCOLOR\n"
+"string.text"
+msgid "Border Color"
+msgstr ""
+
+#: Strings_AdditionalControls.src
+msgctxt ""
+"Strings_AdditionalControls.src\n"
+"STR_TEXT_SEPARATOR\n"
+"string.text"
+msgid "Separator"
+msgstr "فاصل"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_COLUMN\n"
+"string.text"
+msgid "Column"
+msgstr "العمود"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_BAR\n"
+"string.text"
+msgid "Bar"
+msgstr "شريط"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_AREA\n"
+"string.text"
+msgid "Area"
+msgstr "المنطقة"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_PIE\n"
+"string.text"
+msgid "Pie"
+msgstr "تخطيط دائري"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_PIE_EXPLODED\n"
+"string.text"
+msgid "Exploded Pie Chart"
+msgstr "مخطط التخطيط الدائري الانفجاري"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_DONUT_EXPLODED\n"
+"string.text"
+msgid "Exploded Donut Chart"
+msgstr "مخطط الدائرة المجوفة الانفجارية"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_DONUT\n"
+"string.text"
+msgid "Donut"
+msgstr "الدائرة المجوفة"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_LINE\n"
+"string.text"
+msgid "Line"
+msgstr "الخط"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_XY\n"
+"string.text"
+msgid "XY (Scatter)"
+msgstr "س‏ص (الانتشار)"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_POINTS_AND_LINES\n"
+"string.text"
+msgid "Points and Lines"
+msgstr "النقاط والسطور"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_POINTS_ONLY\n"
+"string.text"
+msgid "Points Only"
+msgstr "النقاط فقط"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_LINES_ONLY\n"
+"string.text"
+msgid "Lines Only"
+msgstr "السطور فقط"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_LINES_3D\n"
+"string.text"
+msgid "3D Lines"
+msgstr "السطور ثلاثية الأبعاد"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_COMBI_COLUMN_LINE\n"
+"string.text"
+msgid "Column and Line"
+msgstr "العمود والسطر"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_LINE_COLUMN\n"
+"string.text"
+msgid "Columns and Lines"
+msgstr "الأعمدة والسطور"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_LINE_STACKEDCOLUMN\n"
+"string.text"
+msgid "Stacked Columns and Lines"
+msgstr "الأعمدة والسطور المركبة"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_NET\n"
+"string.text"
+msgid "Net"
+msgstr "الشبكة"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_STOCK\n"
+"string.text"
+msgid "Stock"
+msgstr "المخزون"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_STOCK_1\n"
+"string.text"
+msgid "Stock Chart 1"
+msgstr "مخطط المخزون 1"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_STOCK_2\n"
+"string.text"
+msgid "Stock Chart 2"
+msgstr "مخطط المخزون 2"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_STOCK_3\n"
+"string.text"
+msgid "Stock Chart 3"
+msgstr "مخطط المخزون 3"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_STOCK_4\n"
+"string.text"
+msgid "Stock Chart 4"
+msgstr "مخطط المخزون 4"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_NORMAL\n"
+"string.text"
+msgid "Normal"
+msgstr "عادي"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_STACKED\n"
+"string.text"
+msgid "Stacked"
+msgstr "متراكم"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_PERCENT\n"
+"string.text"
+msgid "Percent Stacked"
+msgstr "النسبة المئوية للمتراكم"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_DEEP\n"
+"string.text"
+msgid "Deep"
+msgstr "عميق"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_FILLED\n"
+"string.text"
+msgid "Filled"
+msgstr "معبأ"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_BUBBLE\n"
+"string.text"
+msgid "Bubble"
+msgstr "فقاعة"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_BUBBLE_1\n"
+"string.text"
+msgid "Bubble Chart"
+msgstr "مخطط فقاعي"
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_TYPE_GL3D_BAR\n"
+"string.text"
+msgid "GL3D Bar"
+msgstr ""
+
+#: Strings_ChartTypes.src
+msgctxt ""
+"Strings_ChartTypes.src\n"
+"STR_GL3D_BAR\n"
+"string.text"
+msgid "GL3D Bar Chart"
+msgstr ""
+
+#: Strings_Scale.src
+msgctxt ""
+"Strings_Scale.src\n"
+"STR_INVALID_NUMBER\n"
+"string.text"
+msgid "Numbers are required. Check your input."
+msgstr "الأرقام مطلوبة. تحقق من البيانات المدخلة."
+
+#: Strings_Scale.src
+msgctxt ""
+"Strings_Scale.src\n"
+"STR_STEP_GT_ZERO\n"
+"string.text"
+msgid "The major interval requires a positive number. Check your input."
+msgstr "يتطلب الفاصل الرئيسي عددًا موجبًا. راجع البيانات المدخلة."
+
+#: Strings_Scale.src
+msgctxt ""
+"Strings_Scale.src\n"
+"STR_BAD_LOGARITHM\n"
+"string.text"
+msgid "The logarithmic scale requires positive numbers. Check your input."
+msgstr "يتطلب المقياس اللوغاريتمي أعدادًا موجبة. تحقق من البيانات المدخلة."
+
+#: Strings_Scale.src
+msgctxt ""
+"Strings_Scale.src\n"
+"STR_MIN_GREATER_MAX\n"
+"string.text"
+msgid "The minimum must be lower than the maximum. Check your input."
+msgstr "يجب أن يكون الحد الأدنى أقل من الحد الأقصى. تحقق من البيانات المدخلة."
+
+#: Strings_Scale.src
+msgctxt ""
+"Strings_Scale.src\n"
+"STR_INVALID_INTERVALS\n"
+"string.text"
+msgid "The major interval needs to be greater than the minor interval. Check your input."
+msgstr "يتطلب الفاصل الرئيسي عددًا أكبر من الفاصل الثانوي. راجع البيانات المدخلة."
+
+#: Strings_Scale.src
+msgctxt ""
+"Strings_Scale.src\n"
+"STR_INVALID_TIME_UNIT\n"
+"string.text"
+msgid "The major and minor interval need to be greater or equal to the resolution. Check your input."
+msgstr "يتطلب الفاصل الرئيسي عددًا أكبر من أو يساوي الحل. راجع البيانات المدخلة."
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_INDICATE_BOTH\n"
+"string.text"
+msgid "Negative and Positive"
+msgstr "سالب وموجب"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_INDICATE_DOWN\n"
+"string.text"
+msgid "Negative"
+msgstr "سالب"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_INDICATE_UP\n"
+"string.text"
+msgid "Positive"
+msgstr "موجب"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_CONTROLTEXT_ERROR_BARS_FROM_DATA\n"
+"string.text"
+msgid "From Data Table"
+msgstr "من جدول البيانات"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_LINEAR\n"
+"string.text"
+msgid "Linear"
+msgstr "خطّي"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_LOG\n"
+"string.text"
+msgid "Logarithmic"
+msgstr "لوغاريتمي"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_EXP\n"
+"string.text"
+msgid "Exponential"
+msgstr "أُسّي"
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_POWER\n"
+"string.text"
+msgid "Power"
+msgstr ""
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_POLYNOMIAL\n"
+"string.text"
+msgid "Polynomial"
+msgstr ""
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_MOVING_AVERAGE\n"
+"string.text"
+msgid "Moving average"
+msgstr ""
+
+#: Strings_Statistic.src
+msgctxt ""
+"Strings_Statistic.src\n"
+"STR_REGRESSION_MEAN\n"
+"string.text"
+msgid "Mean"
+msgstr ""

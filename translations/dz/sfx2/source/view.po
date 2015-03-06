@@ -1,0 +1,190 @@
+#. extracted from sfx2/source/view
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2011-04-05 19:35+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: dz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NODEFPRINTER\n"
+"string.text"
+msgid ""
+"No default printer found.\n"
+"Please choose a printer and try again."
+msgstr ""
+"དཔར་འཕྲུལ་སྔོན་སྒྲིག་ འཚོལ་མ་འཐོབ་ཨིན་པས།\n"
+"དཔར་འཕྲུལ་ གཅིག་ གདམ་ཏེ་ ལོག་སྟེ་རང་འབད་རྩོལ་བསྐྱེད་གནང་།"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NOSTARTPRINTER\n"
+"string.text"
+msgid ""
+"Could not start printer.\n"
+"Please check your printer configuration."
+msgstr ""
+"དཔར་འཕྲུལ་ འགོ་བཙུགས་མི་ཚུགས་པས།\n"
+"དཔར་འཕྲུལ་ རིམ་སྒྲིག་ ཞིབ་དཔྱད་འབད་གནང་།"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_PRINTER_BUSY\n"
+"string.text"
+msgid "Printer busy"
+msgstr "དཔར་འཕྲུལ་ ཁོམ་མེད།"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_PRINT\n"
+"string.text"
+msgid "Error while printing"
+msgstr "དཔར་འཕྲུལ་འབད་བའི་ སྐབས་ལུ་ འཛོལ་བ།"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PAGE\n"
+"string.text"
+msgid "Page "
+msgstr "ཤོག་ལེབ།"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_SAVE_TEMPLATE\n"
+"string.text"
+msgid "Error saving template "
+msgstr "ཊེམ་པེལེཊི་ སྲུང་བཞག་འབད་ནི་འཛོལ་བ།"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_READONLY\n"
+"string.text"
+msgid " (read-only)"
+msgstr " (ལྷག་ནི་-ཙམ།)"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_NEWORI\n"
+"string.text"
+msgid ""
+"The page size and orientation have been modified.\n"
+"Would you like to save the new settings in the\n"
+"active document?"
+msgstr ""
+"ཤོག་ལེབ་ཀྱི་ ཚད་དང་ ཕྱོགས་ཚུ་ ལེགས་བཅོས་འབད་དེ་ཡོད།\n"
+"\n"
+" ཤུགས་ལྡན་ཡིག་ཆ་ནང་ལུ་ སྒྲིག་སྟངས་གསརཔ་འདི་ སྲུང་བཞག་འབད་ནི་ཨིན་ན?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_NEWSIZE\n"
+"string.text"
+msgid ""
+"The page size has been modified.\n"
+"Should the new settings be saved\n"
+"in the active document?"
+msgstr ""
+"ཤོག་ལེབ་ཀྱི་ཚད་འདི་ ལེགས་བཅོས་འབད་ཡོདཔ་ཨིན།\n"
+"སྒྲིག་སྟངས་གསརཔ་འདི་ ཤུགས་ལྡན་ཡིག་ཆ་ནང་ལུ་ སྲུང་བཞག་\n"
+"འབད་དགོས་པས་ག?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_PRINT_NEWORISIZE\n"
+"string.text"
+msgid ""
+"The page size and orientation have been modified.\n"
+"Would you like to save the new settings in the\n"
+"active document?"
+msgstr ""
+"ཤོག་ལེབ་ཀྱི་ ཚད་དང་ ཕྱོགས་ཚུ་ ལེགས་བཅོས་འབད་དེ་ཡོདཔ་ཨིན།\n"
+"\n"
+" ཤུགས་ལྡན་ཡིག་ཆ་ནང་ལུ་ སྒྲིག་སྟངས་གསརཔ་ཚུ་ སྲུང་བཞག་འབད་ནི་ཨིན་ན?"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_CANT_CLOSE\n"
+"string.text"
+msgid ""
+"The document cannot be closed because a\n"
+" print job is being carried out."
+msgstr ""
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_ERROR_SEND_MAIL\n"
+"string.text"
+msgid ""
+"An error occurred in sending the message. Possible errors could be a missing user account or a defective setup.\n"
+"Please check the %PRODUCTNAME settings or your e-mail program settings."
+msgstr ""
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_QUERY_OPENASTEMPLATE\n"
+"string.text"
+msgid "This document cannot be edited, possibly due to missing access rights. Do you want to edit a copy of the document?"
+msgstr ""
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_REPAIREDDOCUMENT\n"
+"string.text"
+msgid " (repaired document)"
+msgstr "(ཡིག་ཆ་ ཉམས་བཅོས་འབད་འབདཝ།)"
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_NONCHECKEDOUT_DOCUMENT\n"
+"string.text"
+msgid "This document is not checked out on the server."
+msgstr ""
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"STR_READONLY_DOCUMENT\n"
+"string.text"
+msgid "This document is open in read-only mode."
+msgstr ""
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"BT_CHECKOUT\n"
+"pushbutton.text"
+msgid "Check Out"
+msgstr ""
+
+#: view.src
+msgctxt ""
+"view.src\n"
+"BT_READONLY_EDIT\n"
+"pushbutton.text"
+msgid "Edit Document"
+msgstr ""

@@ -1,0 +1,3090 @@
+#. extracted from extensions/source/propctrlr
+msgid ""
+msgstr ""
+"Project-Id-Version: LO\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2012-11-19 16:30-0000\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: \n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_DETAIL_FORM\n"
+"string.text"
+msgid "Sub Form"
+msgstr "Fofhoirm"
+
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_MASTER_FORM\n"
+"string.text"
+msgid "Master Form"
+msgstr "Máistirfhoirm"
+
+#. # will be replace with a name.
+#: formlinkdialog.src
+msgctxt ""
+"formlinkdialog.src\n"
+"STR_ERROR_RETRIEVING_COLUMNS\n"
+"string.text"
+msgid "The columns of '#' could not be retrieved."
+msgstr "Níorbh fhéidir na colúin as '#' a fháil."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EDITMASK\n"
+"string.text"
+msgid "Edit mask"
+msgstr "Cuir masc in eagar"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LITERALMASK\n"
+"string.text"
+msgid "Literal mask"
+msgstr "Masc litriúil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_READONLY\n"
+"string.text"
+msgid "Read-only"
+msgstr "Inléite amháin"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ENABLED\n"
+"string.text"
+msgid "Enabled"
+msgstr "Cumasaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ENABLE_VISIBLE\n"
+"string.text"
+msgid "Visible"
+msgstr "Infheicthe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_AUTOCOMPLETE\n"
+"string.text"
+msgid "AutoFill"
+msgstr "UathLíon"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINECOUNT\n"
+"string.text"
+msgid "Line count"
+msgstr "Líon na línte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MAXTEXTLEN\n"
+"string.text"
+msgid "Max. text length"
+msgstr "Uasfhad téacs"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SPIN\n"
+"string.text"
+msgid "Spin Button"
+msgstr "Caschnaipe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STRICTFORMAT\n"
+"string.text"
+msgid "Strict format"
+msgstr "Formáid dhocht"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWTHOUSANDSEP\n"
+"string.text"
+msgid "Thousands separator"
+msgstr "Deighilteoir mílte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PRINTABLE\n"
+"string.text"
+msgid "Printable"
+msgstr "Inphriontáilte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TARGET_URL\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TARGET_FRAME\n"
+"string.text"
+msgid "Frame"
+msgstr "Fráma"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HELPTEXT\n"
+"string.text"
+msgid "Help text"
+msgstr "Téacs cabhrach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HELPURL\n"
+"string.text"
+msgid "Help URL"
+msgstr "URL Cabhrach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TAG\n"
+"string.text"
+msgid "Additional information"
+msgstr "Eolas breise"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ECHO_CHAR\n"
+"string.text"
+msgid "Password character"
+msgstr "Carachtar focail faire"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TRISTATE\n"
+"string.text"
+msgid "Tristate"
+msgstr "Trístaid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EMPTY_IS_NULL\n"
+"string.text"
+msgid "Empty string is NULL"
+msgstr "Is NULL é an teaghrán folamh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DECIMAL_ACCURACY\n"
+"string.text"
+msgid "Decimal accuracy"
+msgstr "Cruinneas deachúlach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_IMAGE_URL\n"
+"string.text"
+msgid "Graphics"
+msgstr "Grafaic"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_SELECT_SEQ\n"
+"string.text"
+msgid "Default selection"
+msgstr "Roghnú réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_BUTTON\n"
+"string.text"
+msgid "Default button"
+msgstr "Cnaipe réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LABELCONTROL\n"
+"string.text"
+msgid "Label Field"
+msgstr "Réimse Lipéid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LABEL\n"
+"string.text"
+msgid "Label"
+msgstr "Lipéad"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALIGN\n"
+"string.text"
+msgid "Alignment"
+msgstr "Ailíniú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VERTICAL_ALIGN\n"
+"string.text"
+msgid "Vert. Alignment"
+msgstr "Ailíniú Ingearach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"1\n"
+"string.text"
+msgid "Top"
+msgstr "Ag barr"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"2\n"
+"string.text"
+msgid "Middle"
+msgstr "Meán"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VERTICAL_ALIGN\n"
+"3\n"
+"string.text"
+msgid "Bottom"
+msgstr "Ag bun"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_IMAGEPOSITION\n"
+"string.text"
+msgid "Graphics alignment"
+msgstr "Ailíniú grafaice"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONT\n"
+"string.text"
+msgid "Font"
+msgstr "Cló"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BACKGROUNDCOLOR\n"
+"string.text"
+msgid "Background color"
+msgstr "Dath an chúlra"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BORDER\n"
+"string.text"
+msgid "Border"
+msgstr "Imlíne"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ICONSIZE\n"
+"string.text"
+msgid "Icon size"
+msgstr "Méid na ndeilbhíní"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ICONSIZE_TYPE\n"
+"1\n"
+"string.text"
+msgid "Small"
+msgstr "Beag"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ICONSIZE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Large"
+msgstr "Mór"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_POSITION\n"
+"string.text"
+msgid "Positioning"
+msgstr "Suí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_NAVIGATION\n"
+"string.text"
+msgid "Navigation"
+msgstr "Nascleanúint"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_RECORDACTIONS\n"
+"string.text"
+msgid "Acting on a record"
+msgstr "Ag feidhmiú ar thaifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_FILTERSORT\n"
+"string.text"
+msgid "Filtering / Sorting"
+msgstr "Scagadh / Sórtáil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HSCROLL\n"
+"string.text"
+msgid "Horizontal scroll bar"
+msgstr "Scrollbharra cothrománach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VSCROLL\n"
+"string.text"
+msgid "Vertical scroll bar"
+msgstr "Scrollbharra ingearach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WORDBREAK\n"
+"string.text"
+msgid "Word break"
+msgstr "Briseadh focail"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MULTILINE\n"
+"string.text"
+msgid "Multiline input"
+msgstr "Ionchur il-líne"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MULTISELECTION\n"
+"string.text"
+msgid "Multiselection"
+msgstr "Ilroghnú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NAME\n"
+"string.text"
+msgid "Name"
+msgstr "Ainm"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_GROUP_NAME\n"
+"string.text"
+msgid "Group name"
+msgstr "Ainm an ghrúpa"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TABINDEX\n"
+"string.text"
+msgid "Tab order"
+msgstr "Ord na dtáb"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WHEEL_BEHAVIOR\n"
+"string.text"
+msgid "Mouse wheel scroll"
+msgstr "Scrollú an rotha luiche"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr "Scagaire"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SORT_CRITERIA\n"
+"string.text"
+msgid "Sort"
+msgstr "Sórtáil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_RECORDMARKER\n"
+"string.text"
+msgid "Record marker"
+msgstr "Marc taifid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILTERPROPOSAL\n"
+"string.text"
+msgid "Filter proposal"
+msgstr "Moladh scagaire"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NAVIGATION\n"
+"string.text"
+msgid "Navigation bar"
+msgstr "Barra nascleanúna"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CYCLE\n"
+"string.text"
+msgid "Cycle"
+msgstr "Timthriall"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TABSTOP\n"
+"string.text"
+msgid "Tabstop"
+msgstr "Tábstop"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CONTROLSOURCE\n"
+"string.text"
+msgid "Data field"
+msgstr "Réimse sonraí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DROPDOWN\n"
+"string.text"
+msgid "Dropdown"
+msgstr "Anuas"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BOUNDCOLUMN\n"
+"string.text"
+msgid "Bound field"
+msgstr "Réimse ceangailte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTSOURCE\n"
+"string.text"
+msgid "List content"
+msgstr "Ábhar an liosta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTSOURCETYPE\n"
+"string.text"
+msgid "Type of list contents"
+msgstr "Cineál ábhar an liosta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURSORSOURCE\n"
+"string.text"
+msgid "Content"
+msgstr "Ábhar"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURSORSOURCETYPE\n"
+"string.text"
+msgid "Content type"
+msgstr "Cineál ábhar"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_ADDITIONS\n"
+"string.text"
+msgid "Allow additions"
+msgstr "Ceadaigh cur leis"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_DELETIONS\n"
+"string.text"
+msgid "Allow deletions"
+msgstr "Ceadaigh baint uaidh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ALLOW_EDITS\n"
+"string.text"
+msgid "Allow modifications"
+msgstr "Ceadaigh athruithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATAENTRY\n"
+"string.text"
+msgid "Add data only"
+msgstr "Cuir sonraí leis amháin"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATASOURCE\n"
+"string.text"
+msgid "Data source"
+msgstr "Foinse sonraí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_MASTERFIELDS\n"
+"string.text"
+msgid "Link master fields"
+msgstr "Ceangail réimsí máistreachta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SLAVEFIELDS\n"
+"string.text"
+msgid "Link slave fields"
+msgstr "Ceangail réimsí sclábhaíochta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUEMIN\n"
+"string.text"
+msgid "Value min."
+msgstr "Íosmhéid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUEMAX\n"
+"string.text"
+msgid "Value max."
+msgstr "Uasmhéid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUESTEP\n"
+"string.text"
+msgid "Incr./decrement value"
+msgstr "Incr./deicrimintigh an luach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURRENCYSYMBOL\n"
+"string.text"
+msgid "Currency symbol"
+msgstr "Siombail airgeadra"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEMIN\n"
+"string.text"
+msgid "Date min."
+msgstr "Íosdáta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEMAX\n"
+"string.text"
+msgid "Date max."
+msgstr "Uasdáta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATEFORMAT\n"
+"string.text"
+msgid "Date format"
+msgstr "Formáid an dáta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SELECTEDITEMS\n"
+"string.text"
+msgid "Selection"
+msgstr "Roghnúchán"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEMIN\n"
+"string.text"
+msgid "Time min."
+msgstr "Íos-am"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEMAX\n"
+"string.text"
+msgid "Time max."
+msgstr "Uas-am"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIMEFORMAT\n"
+"string.text"
+msgid "Time format"
+msgstr "Formáid ama"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CURRSYM_POSITION\n"
+"string.text"
+msgid "Prefix symbol"
+msgstr "Siombail réimíre"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VALUE\n"
+"string.text"
+msgid "Value"
+msgstr "Luach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FORMATKEY\n"
+"string.text"
+msgid "Formatting"
+msgstr "Formáidiú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CLASSID\n"
+"string.text"
+msgid "Class ID"
+msgstr "Aitheantas ranga"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HEIGHT\n"
+"string.text"
+msgid "Height"
+msgstr "Airde"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WIDTH\n"
+"string.text"
+msgid "Width"
+msgstr "Leithead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LISTINDEX\n"
+"string.text"
+msgid "List index"
+msgstr "Innéacs liosta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ROWHEIGHT\n"
+"string.text"
+msgid "Row height"
+msgstr "Airde ró"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FILLCOLOR\n"
+"string.text"
+msgid "Fill color"
+msgstr "Dath an líonta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINECOLOR\n"
+"string.text"
+msgid "Line color"
+msgstr "Dath líne"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REFVALUE\n"
+"string.text"
+msgid "Reference value (on)"
+msgstr "Luach tagartha (ann)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_UNCHECKEDREFVALUE\n"
+"string.text"
+msgid "Reference value (off)"
+msgstr "Luach tagartha (as)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STRINGITEMLIST\n"
+"string.text"
+msgid "List entries"
+msgstr "Iontrálacha liosta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BUTTONTYPE\n"
+"string.text"
+msgid "Action"
+msgstr "Gníomh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_ACTION\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_METHOD\n"
+"string.text"
+msgid "Type of submission"
+msgstr "Cineál na hAighneachta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_STATE\n"
+"string.text"
+msgid "Default status"
+msgstr "Stádas réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_ENCODING\n"
+"string.text"
+msgid "Submission encoding"
+msgstr "Ionchódú na haighneachta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTVALUE\n"
+"string.text"
+msgid "Default value"
+msgstr "Luach réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTTEXT\n"
+"string.text"
+msgid "Default text"
+msgstr "Téacs réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTDATE\n"
+"string.text"
+msgid "Default date"
+msgstr "Dáta réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULTTIME\n"
+"string.text"
+msgid "Default time"
+msgstr "Am réamhshocraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMIT_TARGET\n"
+"string.text"
+msgid "Frame"
+msgstr "Fráma"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"1\n"
+"string.text"
+msgid "Without frame"
+msgstr "Gan fráma"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"2\n"
+"string.text"
+msgid "3D look"
+msgstr "Cuma 3T"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BORDER_TYPE\n"
+"3\n"
+"string.text"
+msgid "Flat"
+msgstr "Maol"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"1\n"
+"string.text"
+msgid "Valuelist"
+msgstr "Liosta luachanna"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Table"
+msgstr "Tábla"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"3\n"
+"string.text"
+msgid "Query"
+msgstr "Iarratas"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"4\n"
+"string.text"
+msgid "Sql"
+msgstr "Sql"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"5\n"
+"string.text"
+msgid "Sql [Native]"
+msgstr "Sql [Dúchasach]"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LISTSOURCE_TYPE\n"
+"6\n"
+"string.text"
+msgid "Tablefields"
+msgstr "Réimsí na dTáblaí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"1\n"
+"string.text"
+msgid "Left"
+msgstr "Ar Chlé"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"2\n"
+"string.text"
+msgid "Center"
+msgstr "Lár"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ALIGNMENT\n"
+"3\n"
+"string.text"
+msgid "Right"
+msgstr "Ar Dheis"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Neamhní"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"2\n"
+"string.text"
+msgid "Submit form"
+msgstr "Seol an fhoirm"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"3\n"
+"string.text"
+msgid "Reset form"
+msgstr "Athshocraigh an fhoirm"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"4\n"
+"string.text"
+msgid "Open document/web page"
+msgstr "Oscail cáipéis/leathanach Gréasáin"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"5\n"
+"string.text"
+msgid "First record"
+msgstr "An chéad taifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"6\n"
+"string.text"
+msgid "Previous record"
+msgstr "An taifead roimhe seo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"7\n"
+"string.text"
+msgid "Next record"
+msgstr "An chéad taifead eile"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"8\n"
+"string.text"
+msgid "Last record"
+msgstr "An taifead deiridh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"9\n"
+"string.text"
+msgid "Save record"
+msgstr "Sábháil taifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"10\n"
+"string.text"
+msgid "Undo data entry"
+msgstr "Cealaigh iontráil na sonraí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"11\n"
+"string.text"
+msgid "New record"
+msgstr "Taifead nua"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"12\n"
+"string.text"
+msgid "Delete record"
+msgstr "Scrios taifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_BUTTONTYPE\n"
+"13\n"
+"string.text"
+msgid "Refresh form"
+msgstr "Athnuaigh an fhoirm"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_METHOD\n"
+"1\n"
+"string.text"
+msgid "Get"
+msgstr "Faigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_METHOD\n"
+"2\n"
+"string.text"
+msgid "Post"
+msgstr "Postáil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"1\n"
+"string.text"
+msgid "URL"
+msgstr "URL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"2\n"
+"string.text"
+msgid "Multipart"
+msgstr "Ilpháirt"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SUBMIT_ENCODING\n"
+"3\n"
+"string.text"
+msgid "Text"
+msgstr "Téacs"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"1\n"
+"string.text"
+msgid "Standard (short)"
+msgstr "Caighdeánach (gearr)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"2\n"
+"string.text"
+msgid "Standard (short YY)"
+msgstr "Caighdeánach (gearr: BB)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"3\n"
+"string.text"
+msgid "Standard (short YYYY)"
+msgstr "Caighdeánach (gearr: BBBB)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"4\n"
+"string.text"
+msgid "Standard (long)"
+msgstr "Caighdeánach (fada)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"5\n"
+"string.text"
+msgid "DD/MM/YY"
+msgstr "LL/MM/BB"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"6\n"
+"string.text"
+msgid "MM/DD/YY"
+msgstr "MM/LL/BB"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"7\n"
+"string.text"
+msgid "YY/MM/DD"
+msgstr "BB/MM/LL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"8\n"
+"string.text"
+msgid "DD/MM/YYYY"
+msgstr "LL/MM/BBBB"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"9\n"
+"string.text"
+msgid "MM/DD/YYYY"
+msgstr "MM/LL/BBBB"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"10\n"
+"string.text"
+msgid "YYYY/MM/DD"
+msgstr "BBBB/MM/LL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"11\n"
+"string.text"
+msgid "YY-MM-DD"
+msgstr "BB-MM-LL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_DATEFORMAT_LIST\n"
+"12\n"
+"string.text"
+msgid "YYYY-MM-DD"
+msgstr "BBBB-MM-LL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"1\n"
+"string.text"
+msgid "13:45"
+msgstr "13:45"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"2\n"
+"string.text"
+msgid "13:45:00"
+msgstr "13:45:00"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"3\n"
+"string.text"
+msgid "01:45 PM"
+msgstr "01:45 IN"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TIMEFORMAT_LIST\n"
+"4\n"
+"string.text"
+msgid "01:45:00 PM"
+msgstr "01:45:00 IN"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"1\n"
+"string.text"
+msgid "Not Selected"
+msgstr "Gan Roghnú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"2\n"
+"string.text"
+msgid "Selected"
+msgstr "Roghnaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CHECKED\n"
+"3\n"
+"string.text"
+msgid "Not Defined"
+msgstr "Gan Sainmhíniú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"1\n"
+"string.text"
+msgid "All records"
+msgstr "Gach taifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"2\n"
+"string.text"
+msgid "Active record"
+msgstr "Taifead Beo"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CYCLE\n"
+"3\n"
+"string.text"
+msgid "Current page"
+msgstr "An leathanach reatha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Níl"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "Tá"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_NAVIGATION\n"
+"3\n"
+"string.text"
+msgid "Parent Form"
+msgstr "Máthairfhoirm"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Neamhní"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"2\n"
+"string.text"
+msgid "Single"
+msgstr "Singil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"3\n"
+"string.text"
+msgid "Multi"
+msgstr "Iolraí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SELECTION_TYPE\n"
+"4\n"
+"string.text"
+msgid "Range"
+msgstr "Raon"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEPARAMETER\n"
+"string.text"
+msgid "Fill parameters"
+msgstr "Paraiméadair líonta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ACTIONPERFORMED\n"
+"string.text"
+msgid "Execute action"
+msgstr "Rith an gníomh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_AFTERUPDATE\n"
+"string.text"
+msgid "After updating"
+msgstr "I ndiaidh nuashonraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_BEFOREUPDATE\n"
+"string.text"
+msgid "Before updating"
+msgstr "Roimh nuashonrú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEROWCHANGE\n"
+"string.text"
+msgid "Before record action"
+msgstr "Roimh ghníomh taifid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ROWCHANGE\n"
+"string.text"
+msgid "After record action"
+msgstr "I ndiaidh gnímh taifid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_CONFIRMDELETE\n"
+"string.text"
+msgid "Confirm deletion"
+msgstr "Dearbhaigh scriosadh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ERROROCCURRED\n"
+"string.text"
+msgid "Error occurred"
+msgstr "Tharla earráid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_FOCUSGAINED\n"
+"string.text"
+msgid "When receiving focus"
+msgstr "Agus fócas á fháil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_FOCUSLOST\n"
+"string.text"
+msgid "When losing focus"
+msgstr "Agus fócas á chailleadh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ITEMSTATECHANGED\n"
+"string.text"
+msgid "Item status changed"
+msgstr "Stádas míre athraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_KEYTYPED\n"
+"string.text"
+msgid "Key pressed"
+msgstr "Cnaipe brúite"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_KEYUP\n"
+"string.text"
+msgid "Key released"
+msgstr "Cnaipe scaoilte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_LOADED\n"
+"string.text"
+msgid "When loading"
+msgstr "Agus á luchtú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RELOADING\n"
+"string.text"
+msgid "Before reloading"
+msgstr "Roimh athluchtú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RELOADED\n"
+"string.text"
+msgid "When reloading"
+msgstr "Agus á athluchtú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEDRAGGED\n"
+"string.text"
+msgid "Mouse moved while key pressed"
+msgstr "Bogadh an luch nuair a brúdh an cnaipe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEENTERED\n"
+"string.text"
+msgid "Mouse inside"
+msgstr "Luch istigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEEXITED\n"
+"string.text"
+msgid "Mouse outside"
+msgstr "Luch amuigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEMOVED\n"
+"string.text"
+msgid "Mouse moved"
+msgstr "Luch bogtha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSEPRESSED\n"
+"string.text"
+msgid "Mouse button pressed"
+msgstr "Cnaipe luiche brúite"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_MOUSERELEASED\n"
+"string.text"
+msgid "Mouse button released"
+msgstr "Cnaipe luiche scaoilte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_POSITIONING\n"
+"string.text"
+msgid "Before record change"
+msgstr "Roimh athrú taifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_POSITIONED\n"
+"string.text"
+msgid "After record change"
+msgstr "I ndiaidh athrú taifead"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_RESETTED\n"
+"string.text"
+msgid "After resetting"
+msgstr "I ndiaidh athshocrú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVERESETTED\n"
+"string.text"
+msgid "Prior to reset"
+msgstr "Roimh athshocrú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_APPROVEACTIONPERFORMED\n"
+"string.text"
+msgid "Approve action"
+msgstr "Ceadaigh an gníomh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_SUBMITTED\n"
+"string.text"
+msgid "Before submitting"
+msgstr "Sula gcuirtear isteach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_TEXTCHANGED\n"
+"string.text"
+msgid "Text modified"
+msgstr "Téacs mionathraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_UNLOADING\n"
+"string.text"
+msgid "Before unloading"
+msgstr "Sula ndíluchtaítear"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_UNLOADED\n"
+"string.text"
+msgid "When unloading"
+msgstr "Agus á dhíluchtú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_CHANGED\n"
+"string.text"
+msgid "Changed"
+msgstr "Athraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVENTS\n"
+"string.text"
+msgid "Events"
+msgstr "Imeachtaí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ESCAPE_PROCESSING\n"
+"string.text"
+msgid "Analyze SQL command"
+msgstr "Anailísigh ordú SQL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_POSITIONX\n"
+"string.text"
+msgid "PositionX"
+msgstr "IonadX"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_POSITIONY\n"
+"string.text"
+msgid "PositionY"
+msgstr "IonadY"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TITLE\n"
+"string.text"
+msgid "Title"
+msgstr "Teideal"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STEP\n"
+"string.text"
+msgid "Page (step)"
+msgstr "Leathanach (céim)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE\n"
+"string.text"
+msgid "Progress value"
+msgstr "Luach dul chun cinn"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE_MIN\n"
+"string.text"
+msgid "Progress value min."
+msgstr "Íosluach dul chun cinn"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PROGRESSVALUE_MAX\n"
+"string.text"
+msgid "Progress value max."
+msgstr "Uasluach dul chun cinn"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE\n"
+"string.text"
+msgid "Scroll value"
+msgstr "Luach scrollaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE_MAX\n"
+"string.text"
+msgid "Scroll value max."
+msgstr "Uasluach scrollaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLLVALUE_MIN\n"
+"string.text"
+msgid "Scroll value min."
+msgstr "Íosluach scrollaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_WIDTH\n"
+"string.text"
+msgid "Scroll width"
+msgstr "Leithead scrollaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_HEIGHT\n"
+"string.text"
+msgid "Scroll height"
+msgstr "Airde scrollaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_TOP\n"
+"string.text"
+msgid "Scroll top"
+msgstr "Barr scrollaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCROLL_LEFT\n"
+"string.text"
+msgid "Scroll left"
+msgstr "Scrollú ar chlé"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DEFAULT_SCROLLVALUE\n"
+"string.text"
+msgid "Default scroll value"
+msgstr "Luach réamhshocraithe scrolla"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINEINCREMENT\n"
+"string.text"
+msgid "Small change"
+msgstr "Mionathrú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BLOCKINCREMENT\n"
+"string.text"
+msgid "Large change"
+msgstr "Athrú mór"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REPEAT_DELAY\n"
+"string.text"
+msgid "Delay"
+msgstr "Moill"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_REPEAT\n"
+"string.text"
+msgid "Repeat"
+msgstr "Arís"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VISIBLESIZE\n"
+"string.text"
+msgid "Visible size"
+msgstr "Méid infheicthe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ORIENTATION\n"
+"string.text"
+msgid "Orientation"
+msgstr "Treoshuíomh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ORIENTATION\n"
+"1\n"
+"string.text"
+msgid "Horizontal"
+msgstr "Cothrománach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_ORIENTATION\n"
+"2\n"
+"string.text"
+msgid "Vertical"
+msgstr "Ingearach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EVT_ADJUSTMENTVALUECHANGED\n"
+"string.text"
+msgid "While adjusting"
+msgstr "Agus á choigeartú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DATE\n"
+"string.text"
+msgid "Date"
+msgstr "Dáta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_STATE\n"
+"string.text"
+msgid "State"
+msgstr "Staid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TIME\n"
+"string.text"
+msgid "Time"
+msgstr "Am"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SCALEIMAGE\n"
+"string.text"
+msgid "Scale"
+msgstr "Scála"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_PUSHBUTTONTYPE\n"
+"string.text"
+msgid "Button type"
+msgstr "Cineál cnaipe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"1\n"
+"string.text"
+msgid "Default"
+msgstr "Réamhshocrú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"2\n"
+"string.text"
+msgid "OK"
+msgstr "OK"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"3\n"
+"string.text"
+msgid "Cancel"
+msgstr "Cealaigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_PUSHBUTTONTYPE\n"
+"4\n"
+"string.text"
+msgid "Help"
+msgstr "Cabhair"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_UNABLETOCONNECT\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "Níorbh fhéidir ceangal a bhunú leis an bhfoinse sonraí \"$name$\"."
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TEXT\n"
+"string.text"
+msgid "Text"
+msgstr "Téacs"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BOUND_CELL\n"
+"string.text"
+msgid "Linked cell"
+msgstr "Cill nasctha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LIST_CELL_RANGE\n"
+"string.text"
+msgid "Source cell range"
+msgstr "Raon na cille foinsí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_CELL_EXCHANGE_TYPE\n"
+"string.text"
+msgid "Contents of the linked cell"
+msgstr "Ábhar na cille ceangailte"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CELL_EXCHANGE_TYPE\n"
+"1\n"
+"string.text"
+msgid "The selected entry"
+msgstr "An iontráil roghnaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_CELL_EXCHANGE_TYPE\n"
+"2\n"
+"string.text"
+msgid "Position of the selected entry"
+msgstr "Ionad na hiontrála roghnaithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOW_SCROLLBARS\n"
+"string.text"
+msgid "Scrollbars"
+msgstr "Scrollbharraí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"1\n"
+"string.text"
+msgid "Single-line"
+msgstr "Aon Líne"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"2\n"
+"string.text"
+msgid "Multi-line"
+msgstr "Il-líne"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXTTYPE\n"
+"3\n"
+"string.text"
+msgid "Multi-line with formatting"
+msgstr "Il-líne le formáidiú"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SYMBOLCOLOR\n"
+"string.text"
+msgid "Symbol color"
+msgstr "Dath siombaile"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LINEEND_FORMAT\n"
+"string.text"
+msgid "Text lines end with"
+msgstr "Críochnaigh línte téacs le"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LINEEND_FORMAT\n"
+"1\n"
+"string.text"
+msgid "LF (Unix)"
+msgstr "LF (Unix)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_LINEEND_FORMAT\n"
+"2\n"
+"string.text"
+msgid "CR+LF (Windows)"
+msgstr "CR+LF (Windows)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"1\n"
+"string.text"
+msgid "None"
+msgstr "Neamhní"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"2\n"
+"string.text"
+msgid "Horizontal"
+msgstr "Cothrománach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"3\n"
+"string.text"
+msgid "Vertical"
+msgstr "Ingearach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCROLLBARS\n"
+"4\n"
+"string.text"
+msgid "Both"
+msgstr "Araon"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"1\n"
+"string.text"
+msgid "Table"
+msgstr "Tábla"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"2\n"
+"string.text"
+msgid "Query"
+msgstr "Iarratas"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_COMMAND_TYPE\n"
+"3\n"
+"string.text"
+msgid "SQL command"
+msgstr "Ordú SQL"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TOGGLE\n"
+"string.text"
+msgid "Toggle"
+msgstr "Scoránaigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FOCUSONCLICK\n"
+"string.text"
+msgid "Take Focus on Click"
+msgstr "Tóg Fócas ar Chlic"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_HIDEINACTIVESELECTION\n"
+"string.text"
+msgid "Hide selection"
+msgstr "Folaigh an roghnúchán"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_VISUALEFFECT\n"
+"string.text"
+msgid "Style"
+msgstr "Stíl"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VISUALEFFECT\n"
+"1\n"
+"string.text"
+msgid "3D"
+msgstr "3T"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_VISUALEFFECT\n"
+"2\n"
+"string.text"
+msgid "Flat"
+msgstr "Maol"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BORDERCOLOR\n"
+"string.text"
+msgid "Border color"
+msgstr "Dath na himlíne"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"1\n"
+"string.text"
+msgid "Left top"
+msgstr "Barr ar chlé"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"2\n"
+"string.text"
+msgid "Left centered"
+msgstr "Barr sa lár"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"3\n"
+"string.text"
+msgid "Left bottom"
+msgstr "Bun ar chlé"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"4\n"
+"string.text"
+msgid "Right top"
+msgstr "Barr ar dheis"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"5\n"
+"string.text"
+msgid "Right centered"
+msgstr "Ar dheis agus i lár"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"6\n"
+"string.text"
+msgid "Right bottom"
+msgstr "Bun ar dheis"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"7\n"
+"string.text"
+msgid "Above left"
+msgstr "Ar chlé agus thuas"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"8\n"
+"string.text"
+msgid "Above centered"
+msgstr "Thuas agus i lár"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"9\n"
+"string.text"
+msgid "Above right"
+msgstr "Thuas agus ar dheis"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"10\n"
+"string.text"
+msgid "Below left"
+msgstr "Thíos agus ar chlé"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"11\n"
+"string.text"
+msgid "Below centered"
+msgstr "Thíos agus i lár"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"12\n"
+"string.text"
+msgid "Below right"
+msgstr "Thíos agus ar dheis"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_IMAGE_POSITION\n"
+"13\n"
+"string.text"
+msgid "Centered"
+msgstr "Láraithe"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_AUTOLINEBREAK\n"
+"string.text"
+msgid "Wrap text automatically"
+msgstr "Timfhilleadh téacs go huathoibríoch"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_TEXTTYPE\n"
+"string.text"
+msgid "Text type"
+msgstr "Cineál téacs"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHOWHIDE\n"
+"1\n"
+"string.text"
+msgid "Hide"
+msgstr "Folaigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHOWHIDE\n"
+"2\n"
+"string.text"
+msgid "Show"
+msgstr "Taispeáin"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XML_DATA_MODEL\n"
+"string.text"
+msgid "XML data model"
+msgstr "Samhail sonraí XML"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BIND_EXPRESSION\n"
+"string.text"
+msgid "Binding expression"
+msgstr "Slonn ceangail"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_REQUIRED\n"
+"string.text"
+msgid "Required"
+msgstr "Riachtanach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_LIST_BINDING\n"
+"string.text"
+msgid "List entry source"
+msgstr "Liostáil foinse na hiontrála"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_RELEVANT\n"
+"string.text"
+msgid "Relevant"
+msgstr "Ábhartha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_READONLY\n"
+"string.text"
+msgid "Read-only"
+msgstr "Inléite amháin"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_CONSTRAINT\n"
+"string.text"
+msgid "Constraint"
+msgstr "Iallach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_CALCULATION\n"
+"string.text"
+msgid "Calculation"
+msgstr "Áireamh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_DATA_TYPE\n"
+"string.text"
+msgid "Data type"
+msgstr "Cineál sonraí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_WHITESPACES\n"
+"string.text"
+msgid "Whitespaces"
+msgstr "Bánspásanna"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"1\n"
+"string.text"
+msgid "Preserve"
+msgstr "Caomhnaigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"2\n"
+"string.text"
+msgid "Replace"
+msgstr "Ionadaigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHITESPACE_HANDLING\n"
+"3\n"
+"string.text"
+msgid "Collapse"
+msgstr "Laghdaigh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_PATTERN\n"
+"string.text"
+msgid "Pattern"
+msgstr "Patrún"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_LENGTH\n"
+"string.text"
+msgid "Length"
+msgstr "Fad"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_LENGTH\n"
+"string.text"
+msgid "Length (at least)"
+msgstr "Fad (ar a laghad)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_LENGTH\n"
+"string.text"
+msgid "Length (at most)"
+msgstr "Fad (ar a mhéad)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_TOTAL_DIGITS\n"
+"string.text"
+msgid "Digits (total)"
+msgstr "Digití (iomlán)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_FRACTION_DIGITS\n"
+"string.text"
+msgid "Digits (fraction)"
+msgstr "Digití (codán)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_INCLUSIVE\n"
+"string.text"
+msgid "Max. (inclusive)"
+msgstr "Uasmhéid. (cuimsitheach)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MAX_EXCLUSIVE\n"
+"string.text"
+msgid "Max. (exclusive)"
+msgstr "Uasmhéid. (eisiach)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_INCLUSIVE\n"
+"string.text"
+msgid "Min. (inclusive)"
+msgstr "Íosmhéid (cuimsitheach)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_XSD_MIN_EXCLUSIVE\n"
+"string.text"
+msgid "Min. (exclusive)"
+msgstr "Íosmhéid (eisiach)"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SUBMISSION_ID\n"
+"string.text"
+msgid "Submission"
+msgstr "Aighneacht"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_BINDING_UI_NAME\n"
+"string.text"
+msgid "Binding"
+msgstr "Ceangal"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SELECTION_TYPE\n"
+"string.text"
+msgid "Selection type"
+msgstr "Cineál roghnúcháin"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ROOT_DISPLAYED\n"
+"string.text"
+msgid "Root displayed"
+msgstr "Fréamh á taispeáint"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWS_HANDLES\n"
+"string.text"
+msgid "Show handles"
+msgstr "Taispeáin hanlaí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_SHOWS_ROOT_HANDLES\n"
+"string.text"
+msgid "Show root handles"
+msgstr "Taispeáin hanlaí fréamhacha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_EDITABLE\n"
+"string.text"
+msgid "Editable"
+msgstr "Ineagarthóireachta"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_INVOKES_STOP_NOT_EDITING\n"
+"string.text"
+msgid "Invokes stop node editing"
+msgstr "Tosaíonn sé eagarthóireacht nód stoptha"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_DECORATION\n"
+"string.text"
+msgid "With title bar"
+msgstr "Le barra teidil"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_NOLABEL\n"
+"string.text"
+msgid "No Label"
+msgstr "Gan Lipéad"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Níl"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"2\n"
+"string.text"
+msgid "Keep Ratio"
+msgstr "Coimeád an Cóimheas"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SCALE_MODE\n"
+"3\n"
+"string.text"
+msgid "Fit to Size"
+msgstr "Oiriúnaigh go dtí an mhéid"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_INPUT_REQUIRED\n"
+"string.text"
+msgid "Input required"
+msgstr "Ionchur de dhíth"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_WRITING_MODE\n"
+"string.text"
+msgid "Text direction"
+msgstr "Treo an téacs"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"1\n"
+"string.text"
+msgid "Left-to-right"
+msgstr "Clé-go-deas"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"2\n"
+"string.text"
+msgid "Right-to-left"
+msgstr "Deas-go-clé"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WRITING_MODE\n"
+"3\n"
+"string.text"
+msgid "Use superordinate object settings"
+msgstr "Úsáid socruithe uachtaránacha réada"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"1\n"
+"string.text"
+msgid "Never"
+msgstr "Riamh"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"2\n"
+"string.text"
+msgid "When focused"
+msgstr "Agus an fócas ann"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_WHEEL_BEHAVIOR\n"
+"3\n"
+"string.text"
+msgid "Always"
+msgstr "I gcónaí"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_ANCHOR_TYPE\n"
+"string.text"
+msgid "Anchor"
+msgstr "Ancaire"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"1\n"
+"string.text"
+msgid "To Paragraph"
+msgstr "Go hAlt"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"2\n"
+"string.text"
+msgid "As Character"
+msgstr "Mar Charachtar"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"3\n"
+"string.text"
+msgid "To Page"
+msgstr "Go Leathanach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"4\n"
+"string.text"
+msgid "To Frame"
+msgstr "Go Fráma"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_TEXT_ANCHOR_TYPE\n"
+"5\n"
+"string.text"
+msgid "To Character"
+msgstr "Go Carachtar"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHEET_ANCHOR_TYPE\n"
+"1\n"
+"string.text"
+msgid "To Page"
+msgstr "Go Leathanach"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_RSC_ENUM_SHEET_ANCHOR_TYPE\n"
+"2\n"
+"string.text"
+msgid "To Cell"
+msgstr "Go Cill"
+
+#. That's the 'Regular' as used for a font style (as opposed to 'italic' and 'bold'), so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_REGULAR\n"
+"string.text"
+msgid "Regular"
+msgstr "Gnách"
+
+#. That's the 'Bold Italic' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_BOLD_ITALIC\n"
+"string.text"
+msgid "Bold Italic"
+msgstr "Iodálach Trom"
+
+#. That's the 'Italic' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_ITALIC\n"
+"string.text"
+msgid "Italic"
+msgstr "Cló Iodálach"
+
+#. That's the 'Bold' as used for a font style, so please use a consistent translation.
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONTSTYLE_BOLD\n"
+"string.text"
+msgid "Bold"
+msgstr "Trom"
+
+#: formres.src
+msgctxt ""
+"formres.src\n"
+"RID_STR_FONT_DEFAULT\n"
+"string.text"
+msgid "(Default)"
+msgstr "(Réamhshocrú)"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_CONFIRM_DELETE_DATA_TYPE\n"
+"string.text"
+msgid ""
+"Do you want to delete the data type '#type#' from the model?\n"
+"Please note that this will affect all controls which are bound to this data type."
+msgstr ""
+"An bhfuil fonn ort an cineál sonraí '#type#' a scriosadh sa tsamhail?\n"
+"Tabhair faoi deara go mbeidh tionchar ag seo ar gach rialtán atá ceangailte leis an gcineál sonraí seo."
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_PUSHBUTTON\n"
+"string.text"
+msgid "Button"
+msgstr "Cnaipe"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_RADIOBUTTON\n"
+"string.text"
+msgid "Option Button"
+msgstr "Cnaipe Rogha"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_CHECKBOX\n"
+"string.text"
+msgid "Check Box"
+msgstr "Ticbhosca"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label Field"
+msgstr "Réimse Lipéid"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_GROUPBOX\n"
+"string.text"
+msgid "Group Box"
+msgstr "Bosca Grúpa"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_EDIT\n"
+"string.text"
+msgid "Text Box"
+msgstr "Bosca Téacs"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr "Réimse Formáidithe"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_LISTBOX\n"
+"string.text"
+msgid "List Box"
+msgstr "Bosca Liosta"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_COMBOBOX\n"
+"string.text"
+msgid "Combo Box"
+msgstr "Bosca Teaglama"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_IMAGEBUTTON\n"
+"string.text"
+msgid "Image Button"
+msgstr "Cnaipe Íomhá"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_HIDDENCONTROL\n"
+"string.text"
+msgid "Hidden Control"
+msgstr "Rialtán Folaithe"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_UNKNOWNCONTROL\n"
+"string.text"
+msgid "Control (unknown type)"
+msgstr "Rialtán (cineál anaithnid)"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr "Rialtán Íomhá"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_FILECONTROL\n"
+"string.text"
+msgid "File Selection"
+msgstr "Roghnú Comhaid"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_DATEFIELD\n"
+"string.text"
+msgid "Date Field"
+msgstr "Réimse Dáta"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_TIMEFIELD\n"
+"string.text"
+msgid "Time Field"
+msgstr "Réimse Ama"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_NUMERICFIELD\n"
+"string.text"
+msgid "Numeric Field"
+msgstr "Réimse Uimhriúil"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_CURRENCYFIELD\n"
+"string.text"
+msgid "Currency Field"
+msgstr "Réimse Airgeadra"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_PATTERNFIELD\n"
+"string.text"
+msgid "Pattern Field"
+msgstr "Réimse Patrúin"
+
+#: pcrmiscres.src
+msgctxt ""
+"pcrmiscres.src\n"
+"RID_STR_PROPTITLE_DBGRID\n"
+"string.text"
+msgid "Table Control "
+msgstr "Rialú Tábla "
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_STANDARD\n"
+"string.text"
+msgid "Default"
+msgstr "Réamhshocrú"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_PROPPAGE_DEFAULT\n"
+"string.text"
+msgid "General"
+msgstr "Ginearálta"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_PROPPAGE_DATA\n"
+"string.text"
+msgid "Data"
+msgstr "Sonraí"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_RSC_ENUM_YESNO\n"
+"1\n"
+"string.text"
+msgid "No"
+msgstr "Níl"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_RSC_ENUM_YESNO\n"
+"2\n"
+"string.text"
+msgid "Yes"
+msgstr "Tá"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_HELP_SECTION_LABEL\n"
+"string.text"
+msgid "Help"
+msgstr "Cabhair"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_EMBED_IMAGE_PLACEHOLDER\n"
+"string.text"
+msgid "<Embedded-Image>"
+msgstr "<Íomhá-Leabaithe>"
+
+#: propres.src
+msgctxt ""
+"propres.src\n"
+"RID_STR_TEXT_FORMAT\n"
+"string.text"
+msgid "Text"
+msgstr "Téacs"
+
+#: selectlabeldialog.src
+msgctxt ""
+"selectlabeldialog.src\n"
+"RID_STR_FORMS\n"
+"string.text"
+msgid "Forms"
+msgstr "Foirmeacha"

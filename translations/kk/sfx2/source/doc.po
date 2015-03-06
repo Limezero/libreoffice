@@ -1,0 +1,994 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:22+0100\n"
+"PO-Revision-Date: 2014-11-28 08:41+0000\n"
+"Last-Translator: Baurzhan <baurthefirst@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: ~\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1417164082.000000\n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DELETE_REGION\n"
+"string.text"
+msgid "Are you sure you want to delete the region \"$1\"?"
+msgstr "«$1» аймағын өшіру керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DELETE_TEMPLATE\n"
+"string.text"
+msgid "Are you sure you want to delete the entry \"$1\"?"
+msgstr "«$1» элементін өшіру керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_STYLES\n"
+"string.text"
+msgid "Styles"
+msgstr "Стильдер"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MACROS\n"
+"string.text"
+msgid "Macros"
+msgstr "Макростар"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CONFIG\n"
+"string.text"
+msgid "Configuration"
+msgstr "Баптаулар"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PRINT_STYLES_HEADER\n"
+"string.text"
+msgid "Styles in "
+msgstr "Стильдер: "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PRINT_STYLES\n"
+"string.text"
+msgid "Printing Styles"
+msgstr "Стильдерді баспаға шығару"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_BACKUP_COPY\n"
+"string.text"
+msgid "Copy"
+msgstr "Көшірме"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_SAVE\n"
+"string.text"
+msgid "Error recording document "
+msgstr "Құжатты жазу қатесі "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPLATE_FILTER\n"
+"string.text"
+msgid "Templates"
+msgstr "Үлгілер"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_COPY_TEMPLATE\n"
+"string.text"
+msgid ""
+"Error copying template \"$1\". \n"
+"A template with this name may already exist."
+msgstr ""
+"«$1» үлгісін көшіру қатесі.\n"
+"Олай аталатын үлгі бар болып тұрғаны мүмкін."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_DELETE_TEMPLATE\n"
+"string.text"
+msgid "The template \"$1\" can not be deleted."
+msgstr "«$1» үлгісін өшіру мүмкін емес."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_MOVE_TEMPLATE\n"
+"string.text"
+msgid "Error moving template \"$1\"."
+msgstr "«$1» үлгісін жылжыту қатесі."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_SAVE_TEMPLATE\n"
+"string.text"
+msgid "Error saving template "
+msgstr "Үлгіні сақтау қатесі "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QUERY_DEFAULT_TEMPLATE\n"
+"string.text"
+msgid "Should the template \"$(TEXT)\" become the default template?"
+msgstr "«$(TEXT)» үлгісін үнсіз келісім бойынша қолдану керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_NOSTORAGE\n"
+"string.text"
+msgid "The selected file has an incorrect format."
+msgstr "Таңдалған файл пішімі қате."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QUERY_MUSTOWNFORMAT\n"
+"string.text"
+msgid ""
+"Documents cannot be saved in $(FORMAT) format. Do you\n"
+"want to save your changes using the $(OWNFORMAT) format?"
+msgstr ""
+"Құжаттарды $(FORMAT) пішімінде сақтау мүмкін емес.\n"
+"$(OWNFORMAT) пішімінде сақтау керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEDOC\n"
+"string.text"
+msgid "~Save"
+msgstr "~Сақтау"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_UPDATEDOC\n"
+"string.text"
+msgid "~Update"
+msgstr "~Жаңарту"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEASDOC\n"
+"string.text"
+msgid "Save ~As..."
+msgstr "Қалайша с~ақтау..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVECOPYDOC\n"
+"string.text"
+msgid "Save Copy ~as..."
+msgstr "Көшірмені қ~алайша сақтау..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SAVEACOPY\n"
+"string.text"
+msgid "Save a Copy..."
+msgstr "Көшірмесін сақтау..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CLOSEDOC\n"
+"string.text"
+msgid "~Close"
+msgstr "~Жабу"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_CLOSEDOC_ANDRETURN\n"
+"string.text"
+msgid "~Close & Return to "
+msgstr "~Жабу және оралу "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_WIZARD\n"
+"string.text"
+msgid " AutoPilot"
+msgstr " Шебері"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_FILTCONFIG\n"
+"string.text"
+msgid "Configurations"
+msgstr "Баптаулар"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_FILTBASIC\n"
+"string.text"
+msgid "%PRODUCTNAME Basic libraries"
+msgstr "%PRODUCTNAME Basic кітапханалары"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_STR_WARNSTYLEOVERWRITE\n"
+"string.text"
+msgid "Should the \"$(ARG1)\" Style be replaced?"
+msgstr "«$(ARG1)» стилін алмастыру керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EDIT\n"
+"string.text"
+msgid "Edit"
+msgstr "Түзету"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_OFFICEFILTER\n"
+"string.text"
+msgid "%PRODUCTNAME Documents"
+msgstr "%PRODUCTNAME құжаттары"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FRAMEOBJECT_PROPERTIES\n"
+"string.text"
+msgid "Propert~ies..."
+msgstr "Қас~иеттері..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FSET_FILTERNAME0\n"
+"string.text"
+msgid "HTML (FrameSet)"
+msgstr "HTML (Кадрлар жиыны)"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_FSET_FILTERNAME1\n"
+"string.text"
+msgid "%PRODUCTNAME Frame Document"
+msgstr "%PRODUCTNAME фреймі"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPL_MOVED\n"
+"string.text"
+msgid "The template \"$(TEMPLATE)\" was not found at the original location. A template with the same name exists at \"$(FOUND)\". Should this template be used in the future when comparing?"
+msgstr "«$(TEMPLATE)» үлгісі бастапқы орнында табылмады. Дәл осылай аталатын үлгі «$(FOUND)» ішінде орналасқан. Бұл үлгіні болашақта салыстыру үшін қолдану керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_TEMPL_RESET\n"
+"string.text"
+msgid "The template \"$(TEMPLATE)\" has not been found. Should the template be looked for the next time the document is opened ?"
+msgstr "«$(TEMPLATE)» үлгісі табылмады. Құжат келесі рет ашылған кезде бұл үлгіні қайтадан іздеу керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_AUTOMATICVERSION\n"
+"string.text"
+msgid "Automatically saved version"
+msgstr "Автосақталған нұсқасы"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SW\n"
+"string.text"
+msgid "Text Document"
+msgstr "Мәтіндік құжат"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SWWEB\n"
+"string.text"
+msgid "HTML Document"
+msgstr "HTML құжаты"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SWGLOB\n"
+"string.text"
+msgid "Master Document"
+msgstr "Құрамдас құжат"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SC\n"
+"string.text"
+msgid "Spreadsheet"
+msgstr "Электрондық кесте"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SI\n"
+"string.text"
+msgid "Presentation"
+msgstr "Презентация"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_SD\n"
+"string.text"
+msgid "Drawing"
+msgstr "Сурет"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCTYPENAME_MESSAGE\n"
+"string.text"
+msgid "Message"
+msgstr "Хабарлама"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PACKNGO_NOACCESS\n"
+"string.text"
+msgid "Access to the current data medium not possible."
+msgstr "Деректердің ағымдағы тасушысы қолжетерсіз."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_PACKNGO_NEWMEDIUM\n"
+"string.text"
+msgid "Insert the next data carrier and click OK."
+msgstr "Келесі деректер тасушысын салып, ОК басыңыз."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_OBJECT\n"
+"string.text"
+msgid "Object"
+msgstr "Объект"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"BTN_OK\n"
+"string.text"
+msgid "Run"
+msgstr "Орындау"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"BTN_CANCEL\n"
+"string.text"
+msgid "Do Not Run"
+msgstr "Орындамау"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"FT_CANCEL\n"
+"string.text"
+msgid "According to the security settings, the macros in this document should not be run. Do you want to run them anyway?"
+msgstr "Қауіпсіздік баптауларына сәйкес, бұл құжат макростары орындалмауы тиіс. Сонда да оларды орындау керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"FT_OK\n"
+"string.text"
+msgid "Do you want to allow these macros to be run?"
+msgstr "Макростардың орындалуын рұқсат ету керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTASPDF_TITLE\n"
+"string.text"
+msgid "Export as PDF"
+msgstr "PDF экспорты"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTWITHCFGBUTTON\n"
+"string.text"
+msgid "Export..."
+msgstr "Экспорт..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_EXPORTBUTTON\n"
+"string.text"
+msgid "Export"
+msgstr "Экспорт"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"RID_SVXSTR_SECURITY_ADDPATH\n"
+"string.text"
+msgid "Add this directory to the list of secure paths: "
+msgstr "Буманы сенімді тізіміне қосу: "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_LABEL_FILEFORMAT\n"
+"string.text"
+msgid "File format:"
+msgstr "Файл пішімі:"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTAINS\n"
+"string.text"
+msgid ""
+"This document contains:\n"
+"\n"
+msgstr ""
+"Бұл құжатта бар:\n"
+"\n"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_RECORDCHANGES\n"
+"string.text"
+msgid "Recorded changes"
+msgstr "Жазылған өзгерістер"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_NOTES\n"
+"string.text"
+msgid "Notes"
+msgstr "Жазбалар"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_DOCVERSIONS\n"
+"string.text"
+msgid "Document versions"
+msgstr "Құжат нұсқалары"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_FIELDS\n"
+"string.text"
+msgid "Fields"
+msgstr "Өрістер"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_LINKDATA\n"
+"string.text"
+msgid "Linked data..."
+msgstr "Байланысқан деректер..."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_SAVING\n"
+"string.text"
+msgid "Do you want to continue saving the document?"
+msgstr "Құжатты сақтауды жалғастыруды қалайсыз ба?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_PRINTING\n"
+"string.text"
+msgid "Do you want to continue printing the document?"
+msgstr "Құжатты баспаға шығаруды жалғастыруды қалайсыз ба?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_SIGNING\n"
+"string.text"
+msgid "Do you want to continue signing the document?"
+msgstr "Құжатқа цифрлық қолтаңбаны қоюды жалғастыруды қалайсыз ба?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_HIDDENINFO_CONTINUE_CREATEPDF\n"
+"string.text"
+msgid "Do you want to continue creating a PDF file?"
+msgstr "PDF файлын жасауды жалғастыруды қалайсыз ба?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_NEW_FILENAME_SAVE\n"
+"string.text"
+msgid "If you do not want to overwrite the original document, you should save your work under a new filename."
+msgstr "Егер сіз өзгерістерді бастапқы файлда сақтамауды қаласаңыз, жұмысыңызды жаңа файл ішінде сақтаңыз."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ERROR_DELETE_TEMPLATE_DIR\n"
+"string.text"
+msgid "Some template files are protected and can not be deleted."
+msgstr "Кейбір үлгілер файлдары қорғалған және оларды өшіру мүмкін емес."
+
+#. pb: %1 == a number [1-4]
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_DOCINFO_INFOFIELD\n"
+"string.text"
+msgid "Info %1"
+msgstr "Өріс %1"
+
+#. Used in the title of a shared document.
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_SHARED\n"
+"string.text"
+msgid " (shared)"
+msgstr " (бөлісу)"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_XMLSEC_ODF12_EXPECTED\n"
+"string.text"
+msgid "The document format version is set to ODF 1.1 (OpenOffice.org 2.x) in Tools-Options-Load/Save-General. Signing documents requires ODF 1.2 (OpenOffice.org 3.x)."
+msgstr "Құжат пішімінің нұсқасы ODF 1.1 (OpenOffice.org 2.x) етіп Саймандар - Баптаулар - Жүктеу/сақтау - Жалпы ішінде орнатылған. Файлдарға қолтаңба қою үшін ODF 1.2 (OpenOffice.org 3.x) нұсқасы керек."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_XMLSEC_QUERY_SAVESIGNEDBEFORESIGN\n"
+"string.text"
+msgid ""
+"The document has to be saved before it can be signed. Saving the document removes all present signatures.\n"
+"Do you want to save the document?"
+msgstr ""
+"Қолтаңбаларды қою алдында құжатты сақтау керек. Құжатты сақтау ағымдағы қолтаңбалардың өшірілуіне әкеп соғады.\n"
+"Құжатты сақтауды қалайсыз ба? "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_MESSAGE\n"
+"string.text"
+msgid "The template '$(ARG1)' on which this document is based, has been modified. Do you want to update style based formatting according to the modified template?"
+msgstr "Бұл құжат негізі болып табылатын «$(ARG1)» үлгісі өзгертілген. Құжат стильдерін өзгертілген үлгіден жаңартуды қалайсыз ба?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_UPDATE_BTN\n"
+"string.text"
+msgid "~Update Styles"
+msgstr "Стильдерді жаңар~ту"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QRYTEMPL_KEEP_BTN\n"
+"string.text"
+msgid "~Keep Old Styles"
+msgstr "Ескі стильдерді с~ақтау"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_SORT_NAME\n"
+"string.text"
+msgid "Sort by name"
+msgstr "Атауы бойынша сұрыптау"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_REFRESH\n"
+"string.text"
+msgid "Refresh"
+msgstr "Жаңарту"
+
+#. leave ending space
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_ACTION_DEFAULT\n"
+"string.text"
+msgid "Reset Default Template "
+msgstr "Үнсіз келісім үлгісін бастапқы түріне тастау "
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MOVE_NEW\n"
+"string.text"
+msgid "New folder"
+msgstr "Жаңа бума"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_INPUT_NEW\n"
+"string.text"
+msgid "Enter folder name:"
+msgstr "Бума атауын көрсетіңіз:"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_REPOSITORY_LOCAL\n"
+"string.text"
+msgid "Local"
+msgstr "Жергілікті"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_REPOSITORY_NEW\n"
+"string.text"
+msgid "New Repository"
+msgstr "Жаңа қойма"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_LOCAL_MOVE\n"
+"string.text"
+msgid ""
+"Error moving the following templates to $1.\n"
+"$2"
+msgstr ""
+"Келесі үлгілерді $1 ішіне жылжыту қатесі.\n"
+"$2"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_REMOTE_MOVE\n"
+"string.text"
+msgid ""
+"Error moving the following templates from repository $1 to folder $2.\n"
+"$3"
+msgstr ""
+"Келесі үлгілерді $1 қоймасынан $2 бумасына жылжыту қатесі.\n"
+"$3"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_EXPORT\n"
+"string.text"
+msgid ""
+"Error exporting the following templates:\n"
+"$1"
+msgstr ""
+"Келесі үлгілерді экспорттау қатесі:\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_IMPORT\n"
+"string.text"
+msgid ""
+"Error importing the following templates to $1:\n"
+"$2"
+msgstr ""
+"Келесі үлгілерді $1 ішіне импорттау қатесі:\n"
+"$2"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_DELETE_TEMPLATE\n"
+"string.text"
+msgid ""
+"The following templates cannot be deleted:\n"
+"$1"
+msgstr ""
+"Келесі үлгілерді өшіру мүмкін емес:\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_DELETE_FOLDER\n"
+"string.text"
+msgid ""
+"The following folders cannot be deleted:\n"
+"$1"
+msgstr ""
+"Келесі бумаларды өшіру мүмкін емес:\n"
+"$1"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_REPOSITORY_NAME\n"
+"string.text"
+msgid ""
+"Failed to create repository \"$1\".\n"
+"A repository with this name may already exist."
+msgstr ""
+"\"$1\" қоймасын жасау қатесі.\n"
+"Осылай аталатын қойма бар болып тұр."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_MSG_ERROR_SELECT_FOLDER\n"
+"string.text"
+msgid "Select the destination folder(s) to save the template."
+msgstr "Үлгіні сақтау үшін буманы (бумаларды) таңдаңыз."
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_INPUT_TEMPLATE_NEW\n"
+"string.text"
+msgid "Enter template name:"
+msgstr "Үлгі атауын көрсетіңіз:"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_SEL_FOLDER_DELETE\n"
+"string.text"
+msgid "Do you want to delete the selected folders?"
+msgstr "Таңдалған бумаларды өшіру керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_TEMPLATE_OVERWRITE\n"
+"string.text"
+msgid "A template named $1 already exist in $2. Do you want to overwrite it?"
+msgstr "$1 деп аталатын үлгі $2 ішінде бар болып тұр. Оны үстінен жазу керек пе?"
+
+#: doc.src
+msgctxt ""
+"doc.src\n"
+"STR_QMSG_SEL_TEMPLATE_DELETE\n"
+"string.text"
+msgid "Do you want to delete the selected templates?"
+msgstr "Таңдалған үлгілерді өшіру керек пе?"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"My Templates\n"
+"itemlist.text"
+msgid "My Templates"
+msgstr "Менің үлгілерім"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Business Correspondence\n"
+"itemlist.text"
+msgid "Business Correspondence"
+msgstr "Іскерлік корреспонденция"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Other Business Documents\n"
+"itemlist.text"
+msgid "Other Business Documents"
+msgstr "Басқа іскерлік құжаттар"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Personal Correspondence and Documents\n"
+"itemlist.text"
+msgid "Personal Correspondence and Documents"
+msgstr "Жеке корреспонденция және құжаттар"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Forms and Contracts\n"
+"itemlist.text"
+msgid "Forms and Contracts"
+msgstr "Формалар және контакттар"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Finances\n"
+"itemlist.text"
+msgid "Finances"
+msgstr "Қаржы"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Education\n"
+"itemlist.text"
+msgid "Education"
+msgstr "Білім алу"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Presentation Backgrounds\n"
+"itemlist.text"
+msgid "Presentation Backgrounds"
+msgstr "Презентация фондары"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Presentations\n"
+"itemlist.text"
+msgid "Presentations"
+msgstr "Презентациялар"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Miscellaneous\n"
+"itemlist.text"
+msgid "Miscellaneous"
+msgstr "Басқалар"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"TEMPLATE_LONG_NAMES_ARY\n"
+"Labels\n"
+"itemlist.text"
+msgid "Labels"
+msgstr "Белгілер"
+
+#: doctempl.src
+msgctxt ""
+"doctempl.src\n"
+"RID_CNT_STR_WAITING\n"
+"string.text"
+msgid "The templates are being initialized for first-time usage."
+msgstr "Алғашқы қолдану алдында үлгілерді инициализациялау орындалады."
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME1\n"
+"string.text"
+msgid "Abstract Green"
+msgstr "Абстрактты жасыл"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME2\n"
+"string.text"
+msgid "Abstract Red"
+msgstr "Абстрактты қызыл"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME3\n"
+"string.text"
+msgid "Abstract Yellow"
+msgstr "Абстрактты сары"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME4\n"
+"string.text"
+msgid "Bright Blue"
+msgstr "Ашық көк"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME5\n"
+"string.text"
+msgid "DNA"
+msgstr "ДНҚ"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME6\n"
+"string.text"
+msgid "Inspiration"
+msgstr "Шабыт"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME7\n"
+"string.text"
+msgid "Lush Green"
+msgstr "Ашық жасыл"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME8\n"
+"string.text"
+msgid "Metropolis"
+msgstr "Урбанистік"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME9\n"
+"string.text"
+msgid "Sunset"
+msgstr "Күн батуы"
+
+#: templatelocnames.src
+msgctxt ""
+"templatelocnames.src\n"
+"STR_TEMPLATE_NAME10\n"
+"string.text"
+msgid "Vintage"
+msgstr "Баяғы замаңғы"

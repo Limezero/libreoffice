@@ -1,0 +1,412 @@
+#. extracted from scaddins/source/datefunc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2013-05-23 12:05+0200\n"
+"PO-Revision-Date: 2011-04-05 10:59+0200\n"
+"Last-Translator: sophie <gautier.sophie@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"1\n"
+"string.text"
+msgid "Calculates the number of weeks in a specific period"
+msgstr "Calcule le nombre de semaines dans une période déterminée"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Date initiale"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"3\n"
+"string.text"
+msgid "First day of the period"
+msgstr "Premier jour de la période"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Date de fin"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"5\n"
+"string.text"
+msgid "Last day of the period"
+msgstr "Dernier jour de la période"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"6\n"
+"string.text"
+msgid "Type"
+msgstr "Mode"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffWeeks\n"
+"7\n"
+"string.text"
+msgid "Type of calculation: Type=0 means the time interval, Type=1 means calendar weeks."
+msgstr "Type de calcul : Mode=0 pour le nombre de semaines dans l'intervalle, Mode=1 pour les semaines du calendrier."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"1\n"
+"string.text"
+msgid "Determines the number of months in a specific period."
+msgstr "Calcule le nombre de mois dans une période déterminée."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Date initiale"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"3\n"
+"string.text"
+msgid "First day of the period."
+msgstr "Premier jour de la période."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Date de fin"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"5\n"
+"string.text"
+msgid "Last day of the period."
+msgstr "Dernier jour de la période."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"6\n"
+"string.text"
+msgid "Type"
+msgstr "Mode"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffMonths\n"
+"7\n"
+"string.text"
+msgid "Type of calculation: Type=0 means the time interval, Type=1 means calendar months."
+msgstr "Type de calcul : Mode=0 pour le nombre de mois dans l'intervalle, Mode=1 pour les mois du calendrier."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"1\n"
+"string.text"
+msgid "Calculates the number of years in a specific period."
+msgstr "Calcule le nombre d'années dans une période déterminée."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"2\n"
+"string.text"
+msgid "Start date"
+msgstr "Date initiale"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"3\n"
+"string.text"
+msgid "First day of the period"
+msgstr "Premier jour de la période"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"4\n"
+"string.text"
+msgid "End date"
+msgstr "Date de fin"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"5\n"
+"string.text"
+msgid "Last day of the period"
+msgstr "Dernier jour de la période"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"6\n"
+"string.text"
+msgid "Type"
+msgstr "Mode"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DiffYears\n"
+"7\n"
+"string.text"
+msgid "Type of calculation: Type=0 means the time interval, Type=1 means calendar years."
+msgstr "Mode de calcul : Mode=0 pour le nombre d'années dans l'intervalle, Mode=1 pour les années du calendrier."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear\n"
+"1\n"
+"string.text"
+msgid "Returns 1 (TRUE) if the date is a day of a leap year, otherwise 0 (FALSE)."
+msgstr "Renvoie 1 (VRAI) si l'année d'une date est bissextile, sinon 0 (FAUX)."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "Date"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_IsLeapYear\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired year"
+msgstr "Un jour quelconque dans l'année en question"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days of the month in which the date entered occurs"
+msgstr "Renvoie le nombre de jours dans le mois en relation avec la date indiquée"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "Date"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInMonth\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired month"
+msgstr "Un jour quelconque dans le mois en question"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear\n"
+"1\n"
+"string.text"
+msgid "Returns the number of days of the year in which the date entered occurs."
+msgstr "Renvoie le nombre de jours dans l'année en relation avec la date indiquée."
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "Date"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_DaysInYear\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired year"
+msgstr "Un jour quelconque dans l'année en question"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear\n"
+"1\n"
+"string.text"
+msgid "Returns the number of weeks of the year in which the date entered occurs"
+msgstr "Renvoie le nombre de semaines dans l'année en relation avec la date indiquée"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear\n"
+"2\n"
+"string.text"
+msgid "Date"
+msgstr "Date"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_WeeksInYear\n"
+"3\n"
+"string.text"
+msgid "Any day in the desired year"
+msgstr "Un jour quelconque dans l'année en question"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13\n"
+"1\n"
+"string.text"
+msgid "Encrypts or decrypts a text using the ROT13 algorithm"
+msgstr "Chiffre ou déchiffre un texte en utilisant l'algorithme ROT13"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13\n"
+"2\n"
+"string.text"
+msgid "Text"
+msgstr "Texte"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_DESCRIPTIONS.DATE_FUNCDESC_Rot13\n"
+"3\n"
+"string.text"
+msgid "Text to be encrypted or text already encrypted"
+msgstr "Texte à chiffrer ou à déchiffrer"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DiffWeeks\n"
+"string.text"
+msgid "WEEKS"
+msgstr "SEMAINES"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DiffMonths\n"
+"string.text"
+msgid "MONTHS"
+msgstr "NB.MOIS"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DiffYears\n"
+"string.text"
+msgid "YEARS"
+msgstr "ANNEES"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_IsLeapYear\n"
+"string.text"
+msgid "ISLEAPYEAR"
+msgstr "ESTBISSEXTILE"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DaysInMonth\n"
+"string.text"
+msgid "DAYSINMONTH"
+msgstr "JOURSDANSMOIS"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_DaysInYear\n"
+"string.text"
+msgid "DAYSINYEAR"
+msgstr "JOURSDANSANNEE"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_WeeksInYear\n"
+"string.text"
+msgid "WEEKSINYEAR"
+msgstr "SEMAINESDANSANNEE"
+
+#: datefunc.src
+msgctxt ""
+"datefunc.src\n"
+"RID_DATE_FUNCTION_NAMES\n"
+"DATE_FUNCNAME_Rot13\n"
+"string.text"
+msgid "ROT13"
+msgstr "ROT13"

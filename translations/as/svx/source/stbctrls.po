@@ -1,0 +1,290 @@
+#. extracted from svx/source/stbctrls
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-06-17 09:48+0000\n"
+"Last-Translator: ngoswami <ngoswami@redhat.com>\n"
+"Language-Team: as_IN <kde-i18n-doc@kde.org>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1371462497.0\n"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_INSERT_HELPTEXT\n"
+"string.text"
+msgid "Insert mode. Click to change to overwrite mode."
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_OVERWRITE_HELPTEXT\n"
+"string.text"
+msgid "Overwrite mode. Click to change to insert mode."
+msgstr ""
+
+#. To be shown in the status bar when in overwrite mode, please try to make it not longer than the word 'Overwrite'.
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_OVERWRITE_TEXT\n"
+"string.text"
+msgid "Overwrite"
+msgstr "পুনৰ লিখক"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_STANDARD\n"
+"menuitem.text"
+msgid "Standard selection"
+msgstr "প্ৰামাণিক নিৰ্বাচন"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_EXTENDED\n"
+"menuitem.text"
+msgid "Extending selection"
+msgstr "প্ৰসাৰিত নিৰ্বাচন"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_ADDED\n"
+"menuitem.text"
+msgid "Adding selection"
+msgstr "নিৰ্বাচন যোগ কৰা"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMENU_SELECTION\n"
+"SELECTION_BLOCK\n"
+"menuitem.text"
+msgid "Block selection"
+msgstr "নিৰ্বাচন প্ৰতিৰোধ কৰক"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_OK\n"
+"string.text"
+msgid "Digital Signature: The document signature is OK."
+msgstr "ডিজিটেল চহি: দস্তাবেজৰ চহি OK."
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_OK_NO_VERIFY\n"
+"string.text"
+msgid "Digital Signature: The document signature is OK, but the certificates could not be validated."
+msgstr "ডিজিটেল চহি: দস্তাবেজৰ চহি OK, কিন্তু প্ৰমাণপত্ৰ পৰীক্ষা কৰিব পৰা ন'গ'ল।"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_NOT_OK\n"
+"string.text"
+msgid "Digital Signature: The document signature does not match the document content. We strongly recommend you to do not trust this document."
+msgstr "ডিজিটেল চহি: দস্তাবেজৰ চহি আৰু তাৰ বিষয়বস্তুৰ অমিল। আপুনি এই দস্তাবেজ ভৰসা নকৰিব।"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_NO_SIG\n"
+"string.text"
+msgid "Digital Signature: The document is not signed."
+msgstr "ডিজিটেল চহি: দস্তাবেজৰ চহি নাই।"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_XMLSEC_SIG_CERT_OK_PARTIAL_SIG\n"
+"string.text"
+msgid "Digital Signature: The document signature and the certificate are OK, but not all parts of the document are signed."
+msgstr "যুগ্মক স্বাক্ষৰ: দস্তাবেজ স্বাক্ষৰ আৰু প্ৰমাণপত্ৰ ঠিক আছে, কিন্তু দস্তাবেজৰ সকলো অংশ স্বাক্ষৰীত নহয়।"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_DOC_MODIFIED_YES\n"
+"string.text"
+msgid "The document has been modified. Double-click to save the document."
+msgstr "দস্তাবেজ সলনি কৰা হৈছে। দস্তাবেজ সংৰক্ষণ কৰিবলে দুবাৰ-ক্লিক কৰক।"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_DOC_MODIFIED_NO\n"
+"string.text"
+msgid "The document has not been modified since the last save."
+msgstr "সৰ্বশেষ সংৰক্ষণৰ পিছত দস্তাবেজটো সলনি কৰা হোৱা নাই।"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_DOC_LOAD\n"
+"string.text"
+msgid "Loading document..."
+msgstr "দস্তাবেজ ল'ড কৰা হৈ আছে..."
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_FIT_SLIDE\n"
+"string.text"
+msgid "Fit slide to current window."
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOMTOOL_HINT\n"
+"string.text"
+msgid "Zoom level. Right-click to change zoom level or click to open Zoom dialog."
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOM\n"
+"string.text"
+msgid "Adjust zoom level"
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOM_IN\n"
+"string.text"
+msgid "Zoom In"
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXSTR_ZOOM_OUT\n"
+"string.text"
+msgid "Zoom Out"
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_ZOOM\n"
+"ZOOM_WHOLE_PAGE\n"
+"menuitem.text"
+msgid "Entire Page"
+msgstr "সম্পূর্ণ পৃষ্ঠা"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_ZOOM\n"
+"ZOOM_PAGE_WIDTH\n"
+"menuitem.text"
+msgid "Page Width"
+msgstr "পৃষ্ঠাৰ প্রস্থ"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_ZOOM\n"
+"ZOOM_OPTIMAL\n"
+"menuitem.text"
+msgid "Optimal View"
+msgstr ""
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_AVG\n"
+"menuitem.text"
+msgid "Average"
+msgstr "গড়"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_COUNT2\n"
+"menuitem.text"
+msgid "CountA"
+msgstr "গণনাA"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_COUNT\n"
+"menuitem.text"
+msgid "Count"
+msgstr "গণনা"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_MAX\n"
+"menuitem.text"
+msgid "Maximum"
+msgstr "সর্বাধিক"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_MIN\n"
+"menuitem.text"
+msgid "Minimum"
+msgstr "নূন্যতম"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_SUM\n"
+"menuitem.text"
+msgid "Sum"
+msgstr "সাৰাংশ"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_SELECTION_COUNT\n"
+"menuitem.text"
+msgid "Selection count"
+msgstr "নিৰ্বাচন গণনা"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_PSZ_FUNC\n"
+"PSZ_FUNC_NONE\n"
+"menuitem.text"
+msgid "None"
+msgstr "কোনো নহয়"
+
+#: stbctrls.src
+msgctxt ""
+"stbctrls.src\n"
+"RID_SVXMNU_XMLSECSTATBAR\n"
+"XMLSEC_CALL\n"
+"menuitem.text"
+msgid "Digital Signatures..."
+msgstr "ডিজিটেল স্বাক্ষৰবোৰ..."

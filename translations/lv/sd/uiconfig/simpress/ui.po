@@ -1,0 +1,3265 @@
+#. extracted from sd/uiconfig/simpress/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2015-02-07 15:08+0000\n"
+"Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
+"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Accelerator-Marker: ~\n"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"Assistent\n"
+"title\n"
+"string.text"
+msgid "Presentation Wizard"
+msgstr "Prezentācijas vednis"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"lastPageButton\n"
+"label\n"
+"string.text"
+msgid "<< _Back"
+msgstr "<< _Atpakaļ"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"nextPage1Button\n"
+"label\n"
+"string.text"
+msgid "_Next >>"
+msgstr "_Uz priekšu >"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"nextPage2Button\n"
+"label\n"
+"string.text"
+msgid "Next >>"
+msgstr "Uz priekšu >>"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"finishButton\n"
+"label\n"
+"string.text"
+msgid "_Create"
+msgstr "_Izveidot"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"emptyRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Empty presentation"
+msgstr "Tukša pr_ezentācija"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"templateRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_From template"
+msgstr "_No veidnes"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"openRadiobutton\n"
+"label\n"
+"string.text"
+msgid "O_pen existing presentation"
+msgstr "Atvērt esošu _prezentāciju"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"openButton\n"
+"label\n"
+"string.text"
+msgid "Open..."
+msgstr "Atvērt..."
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"typeLabel\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Tips"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"layout2Label\n"
+"label\n"
+"string.text"
+msgid "_Select a Slide Design"
+msgstr "Izvēlieties _slaidu dizainu"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium5Radiobutton\n"
+"label\n"
+"string.text"
+msgid "_Original"
+msgstr "_Oriģināls"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium3Radiobutton\n"
+"label\n"
+"string.text"
+msgid "O_verhead sheet"
+msgstr "_Kodoskopa plēves"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium4Radiobutton\n"
+"label\n"
+"string.text"
+msgid "P_aper"
+msgstr "P_apīrs"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium1Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Sc_reen"
+msgstr "Ek_rāns"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium2Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Sli_de"
+msgstr "Slai_ds"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"medium6Radiobutton\n"
+"label\n"
+"string.text"
+msgid "W_idescreen"
+msgstr "P_latekrāna"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"outTypesLabel\n"
+"label\n"
+"string.text"
+msgid "Select an Output Medium"
+msgstr "Izvēlieties izvades formātu"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"effectLabel\n"
+"label\n"
+"string.text"
+msgid "_Effect:"
+msgstr "_Efekts:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"speedLabel\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "Ātrum_s:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"page3EffectLabel\n"
+"label\n"
+"string.text"
+msgid "Select a Slide Transition"
+msgstr "Izvēlieties slaidu pāreju"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"liveRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "_Noklusējuma"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"kioskRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automātiski"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"breakLabel\n"
+"label\n"
+"string.text"
+msgid "Du_ration of pause:"
+msgstr "_Pauzes ilgums:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"presTimeLabel\n"
+"label\n"
+"string.text"
+msgid "D_uration of page:"
+msgstr "Lapas ilg_ums:"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"logoCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Sh_ow logo"
+msgstr "Rādīt l_ogo"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"presTypeLabel\n"
+"label\n"
+"string.text"
+msgid "Select the Presentation Type"
+msgstr "Izvēlieties prezentācijas tipu"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"pageListLabel\n"
+"label\n"
+"string.text"
+msgid "Ch_oose your pages"
+msgstr "I_zvēlieties savas lappuses"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"summaryCheckbutton\n"
+"label\n"
+"string.text"
+msgid "C_reate summary"
+msgstr "Izveidot _kopsavilkumu"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"previewCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Previe_w"
+msgstr "_Priekšskatījums"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"startWithCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Do not show this wizard again"
+msgstr "Vairāk nerā_dīt šo vedni"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"askNameLabel\n"
+"label\n"
+"string.text"
+msgid "What is _your name or the name of your company?"
+msgstr "Kāds ir autora _vārds vai uzņēmuma nosaukums? "
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"askTopicLabel\n"
+"label\n"
+"string.text"
+msgid "What is _the subject of your presentation?"
+msgstr "Kāda ir prezentācijas _tēma?"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"askInfoLabel\n"
+"label\n"
+"string.text"
+msgid "Further ideas to be presented?"
+msgstr "Citas prezentējamās idejas?"
+
+#: assistentdialog.ui
+msgctxt ""
+"assistentdialog.ui\n"
+"personalLabel\n"
+"label\n"
+"string.text"
+msgid "Describe Your Basic Ideas"
+msgstr "Aprakstiet savas idejas"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"entrance\n"
+"label\n"
+"string.text"
+msgid "Entrance"
+msgstr "Ieiešana"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"emphasis\n"
+"label\n"
+"string.text"
+msgid "Emphasis"
+msgstr "Uzsvars"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"exit\n"
+"label\n"
+"string.text"
+msgid "Exit"
+msgstr "Iziešana"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"motion_paths\n"
+"label\n"
+"string.text"
+msgid "Motion Paths"
+msgstr "Kustību ceļi"
+
+#: customanimationcreatedialog.ui
+msgctxt ""
+"customanimationcreatedialog.ui\n"
+"misc_effects\n"
+"label\n"
+"string.text"
+msgid "Misc Effects"
+msgstr "Dažādi efekti"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"effect_speed_label\n"
+"label\n"
+"string.text"
+msgid "_Speed:"
+msgstr "Ātrum_s:"
+
+#: customanimationcreatetab.ui
+msgctxt ""
+"customanimationcreatetab.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "_Automatic preview"
+msgstr "_Automātiski priekšskatīt"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"prop_label1\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "_Virziens:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_start\n"
+"label\n"
+"string.text"
+msgid "Accelerated start"
+msgstr "Paātrināts sākums"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"smooth_end\n"
+"label\n"
+"string.text"
+msgid "Decelerated end"
+msgstr "Palēninātas beigas"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_label\n"
+"label\n"
+"string.text"
+msgid "A_fter animation:"
+msgstr "_Pēc animācijas:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "_Sound:"
+msgstr "_Skaņa:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_label\n"
+"label\n"
+"string.text"
+msgid "_Text animation:"
+msgstr "_Teksta animācija:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"dim_color_label\n"
+"label\n"
+"string.text"
+msgid "Di_m color:"
+msgstr "Aptu_mšot krāsu:"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_delay_label\n"
+"label\n"
+"string.text"
+msgid "delay between characters"
+msgstr "aizkave starp rakstzīmēm"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"0\n"
+"stringlist.text"
+msgid "Don't dim"
+msgstr "Neaptumšot"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"1\n"
+"stringlist.text"
+msgid "Dim with color"
+msgstr "Aptumšot ar krāsu"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"2\n"
+"stringlist.text"
+msgid "Hide after animation"
+msgstr "Pēc animēšanas slēpt"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"aeffect_list\n"
+"3\n"
+"stringlist.text"
+msgid "Hide on next animation"
+msgstr "Slēpt līdz ar nākamo animāciju"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"0\n"
+"stringlist.text"
+msgid "All at once"
+msgstr "Visus uzreiz"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"1\n"
+"stringlist.text"
+msgid "Word by word"
+msgstr "Vārdu pa vārdam"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"text_animation_list\n"
+"2\n"
+"stringlist.text"
+msgid "Letter by letter"
+msgstr "Burtu pa burtam"
+
+#: customanimationeffecttab.ui
+msgctxt ""
+"customanimationeffecttab.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Enhancement"
+msgstr "Uzlabojums"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"CustomAnimationProperties\n"
+"title\n"
+"string.text"
+msgid "Effect Options"
+msgstr "Efektu opcijas"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"effect\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efekts"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"timing\n"
+"label\n"
+"string.text"
+msgid "Timing"
+msgstr "Laika uzskaitījums"
+
+#: customanimationproperties.ui
+msgctxt ""
+"customanimationproperties.ui\n"
+"textanim\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Teksta animācija"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"add_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Add Effect"
+msgstr "Pievienot efektu"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"remove_effect\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Effect"
+msgstr "Izņemt efektu"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"change_effect\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Modify Effect"
+msgstr "Modificēt efektu"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_up\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Up"
+msgstr "Pārvietot augšup"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"move_down\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Down"
+msgstr "Pārvietot lejup"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"play\n"
+"tooltip_text\n"
+"string.text"
+msgid "Preview Effect"
+msgstr "Priekšskatīt efektu"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Sākums:"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_property\n"
+"label\n"
+"string.text"
+msgid "_Direction:"
+msgstr "_Virziens:"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_speed\n"
+"label\n"
+"string.text"
+msgid "Sp_eed:"
+msgstr "Ā_trums:"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Uzklikšķinot"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Ar iepriekšējo"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"start_effect_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Pēc iepriekšējā"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"more_properties\n"
+"label\n"
+"string.text"
+msgid "_..."
+msgstr "_..."
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"effect_label\n"
+"label\n"
+"string.text"
+msgid "Effect"
+msgstr "Efekts"
+
+#: customanimationspanel.ui
+msgctxt ""
+"customanimationspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic pre_view"
+msgstr "A_utomātiskais priekšskatījums"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_label\n"
+"label\n"
+"string.text"
+msgid "_Group text:"
+msgstr "_Grupēt tekstu:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"auto_after\n"
+"label\n"
+"string.text"
+msgid "_Automatically after:"
+msgstr "_Automātiski pēc:"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"0\n"
+"stringlist.text"
+msgid "As one object"
+msgstr "Kā vienu objektu"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"1\n"
+"stringlist.text"
+msgid "All paragraphs at once"
+msgstr "Visas rindkopas reizē"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"2\n"
+"stringlist.text"
+msgid "By 1st level paragraphs"
+msgstr "Pēc pirmā līmeņa rindkopām"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"3\n"
+"stringlist.text"
+msgid "By 2nd level paragraphs"
+msgstr "Pēc otrā līmeņa rindkopām"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"4\n"
+"stringlist.text"
+msgid "By 3rd level paragraphs"
+msgstr "Pēc trešā līmeņa rindkopām"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"5\n"
+"stringlist.text"
+msgid "By 4th level paragraphs"
+msgstr "Pēc ceturtā līmeņa rindkopām"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"group_text_list\n"
+"6\n"
+"stringlist.text"
+msgid "By 5th level paragraphs"
+msgstr "Pēc piektā līmeņa rindkopām"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"animate_shape\n"
+"label\n"
+"string.text"
+msgid "Animate attached _shape"
+msgstr "Pārvietot pievienotu _figūru"
+
+#: customanimationtexttab.ui
+msgctxt ""
+"customanimationtexttab.ui\n"
+"reverse_order\n"
+"label\n"
+"string.text"
+msgid "_In reverse order"
+msgstr "Apgr_ieztā secībā"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_label\n"
+"label\n"
+"string.text"
+msgid "_Start:"
+msgstr "_Sākums:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"delay_label\n"
+"label\n"
+"string.text"
+msgid "_Delay:"
+msgstr "Ai_zture:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"duration_label\n"
+"label\n"
+"string.text"
+msgid "S_peed:"
+msgstr "Ā_trums:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"repeat_label\n"
+"label\n"
+"string.text"
+msgid "_Repeat:"
+msgstr "Atkā_rtot:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"0\n"
+"stringlist.text"
+msgid "On click"
+msgstr "Uzklikšķinot"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"1\n"
+"stringlist.text"
+msgid "With previous"
+msgstr "Ar iepriekšējo"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"start_list\n"
+"2\n"
+"stringlist.text"
+msgid "After previous"
+msgstr "Pēc iepriekšējā"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rewind\n"
+"label\n"
+"string.text"
+msgid "Rewind _when done playing"
+msgstr "Beigās _pāriet uz sākumu"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_click_sequence\n"
+"label\n"
+"string.text"
+msgid "_Animate as part of click sequence"
+msgstr "_Animēt kā daļu no klikšķu virknes"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"rb_interactive\n"
+"label\n"
+"string.text"
+msgid "Start _effect on click of:"
+msgstr "Sākt _efektu, uzklikšķinot:"
+
+#: customanimationtimingtab.ui
+msgctxt ""
+"customanimationtimingtab.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "Trigger"
+msgstr "Trigeris"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"CustomSlideShows\n"
+"title\n"
+"string.text"
+msgid "Custom Slide Shows"
+msgstr "Pielāgotas slīdrādes"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"copy\n"
+"label\n"
+"string.text"
+msgid "Cop_y"
+msgstr "Kopē_t"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"startshow\n"
+"label\n"
+"string.text"
+msgid "_Start"
+msgstr "_Sākt"
+
+#: customslideshows.ui
+msgctxt ""
+"customslideshows.ui\n"
+"usecustomshows\n"
+"label\n"
+"string.text"
+msgid "_Use custom slide show"
+msgstr "_Izmantot pielāgotu slīdrādi"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"DefineCustomSlideShow\n"
+"title\n"
+"string.text"
+msgid "Define Custom Slide Show"
+msgstr "Definēt pielāgotu slīdrādi"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "_Nosaukums:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Existing slides:"
+msgstr "_Esošie slaidi:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Selected slides:"
+msgstr "Izvēlētie _slaidi:"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid ">>"
+msgstr ">>"
+
+#: definecustomslideshow.ui
+msgctxt ""
+"definecustomslideshow.ui\n"
+"remove\n"
+"label\n"
+"string.text"
+msgid "<<"
+msgstr "<<"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"EditFieldsDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Field"
+msgstr "Rediģēt lauku"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"fixedRB\n"
+"label\n"
+"string.text"
+msgid "_Fixed"
+msgstr "_Fiksēts"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"varRB\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Mainīgs"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Field Type"
+msgstr "Lauka tips"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Language:"
+msgstr "Va_loda:"
+
+#: dlgfield.ui
+msgctxt ""
+"dlgfield.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "F_ormat"
+msgstr "F_ormāts"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"HeaderFooterDialog\n"
+"title\n"
+"string.text"
+msgid "Header and Footer"
+msgstr "Galvene un kājene"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"apply_all\n"
+"label\n"
+"string.text"
+msgid "Appl_y to All"
+msgstr "P_ielietot visiem"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"slides\n"
+"label\n"
+"string.text"
+msgid "Slides"
+msgstr "Slaidi"
+
+#: headerfooterdialog.ui
+msgctxt ""
+"headerfooterdialog.ui\n"
+"notes\n"
+"label\n"
+"string.text"
+msgid "Notes and Handouts"
+msgstr "Piezīmes un izdales lapas"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_cb\n"
+"label\n"
+"string.text"
+msgid "Heade_r"
+msgstr "_Galvene"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"header_label\n"
+"label\n"
+"string.text"
+msgid "Header _text:"
+msgstr "Galvenes _teksts:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"datetime_cb\n"
+"label\n"
+"string.text"
+msgid "_Date and time"
+msgstr "_Datums un laiks"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_fixed\n"
+"label\n"
+"string.text"
+msgid "Fi_xed"
+msgstr "Fi_ksēts"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"rb_auto\n"
+"label\n"
+"string.text"
+msgid "_Variable"
+msgstr "_Mainīgs"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label\n"
+"label\n"
+"string.text"
+msgid "_Language:"
+msgstr "Va_loda:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"language_label1\n"
+"label\n"
+"string.text"
+msgid "_Format:"
+msgstr "_Formāts:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_cb\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "_Kājene"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"footer_label\n"
+"label\n"
+"string.text"
+msgid "F_ooter text:"
+msgstr "Kā_jenes teksts:"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"slide_number\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "_Slaida numurs"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"include_label\n"
+"label\n"
+"string.text"
+msgid "Include on Slide"
+msgstr "Iekļaut slaidā"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"not_on_title\n"
+"label\n"
+"string.text"
+msgid "Do _not show on the first slide"
+msgstr "_Nerādīt pirmajā slaidā"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_a\n"
+"label\n"
+"string.text"
+msgid "_Page Number"
+msgstr "La_ppuses numurs"
+
+#: headerfootertab.ui
+msgctxt ""
+"headerfootertab.ui\n"
+"replacement_b\n"
+"label\n"
+"string.text"
+msgid "Include on page"
+msgstr "Iekļaut lappusē"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"InsertSlidesDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Ievietot slaidus"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"before\n"
+"label\n"
+"string.text"
+msgid "_Before"
+msgstr "_Pirms"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"after\n"
+"label\n"
+"string.text"
+msgid "A_fter"
+msgstr "Pē_c"
+
+#: insertslides.ui
+msgctxt ""
+"insertslides.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Position"
+msgstr "Pozīcija"
+
+#: interactiondialog.ui
+msgctxt ""
+"interactiondialog.ui\n"
+"InteractionDialog\n"
+"title\n"
+"string.text"
+msgid "Interaction"
+msgstr "Mijiedarbība"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Action at mouse click:"
+msgstr "Darbība pie peles klikšķa:"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"fttree\n"
+"label\n"
+"string.text"
+msgid "Target:"
+msgstr "Mērķis:"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Interaction"
+msgstr "Mijiedarbība"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"browse\n"
+"label\n"
+"string.text"
+msgid "_Browse..."
+msgstr "_Pārlūkot..."
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "_Meklēt"
+
+#: interactionpage.ui
+msgctxt ""
+"interactionpage.ui\n"
+"sound-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Path Name"
+msgstr "Ceļa nosaukums"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"MasterLayoutDialog\n"
+"title\n"
+"string.text"
+msgid "Master Elements"
+msgstr "Pamatelementi"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"header\n"
+"label\n"
+"string.text"
+msgid "_Header"
+msgstr "_Galvene"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "_Date/time"
+msgstr "_Datums un laiks"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"footer\n"
+"label\n"
+"string.text"
+msgid "_Footer"
+msgstr "Kā_jene"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"pagenumber\n"
+"label\n"
+"string.text"
+msgid "_Page number"
+msgstr "La_ppuses numurs"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"slidenumber\n"
+"label\n"
+"string.text"
+msgid "_Slide number"
+msgstr "_Slaida numurs"
+
+#: masterlayoutdlg.ui
+msgctxt ""
+"masterlayoutdlg.ui\n"
+"Placeholders\n"
+"label\n"
+"string.text"
+msgid "Placeholders"
+msgstr "Vietturi"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"qickedit\n"
+"label\n"
+"string.text"
+msgid "Allow quick editing"
+msgstr "Atļaut ātru rediģēšanu"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"textselected\n"
+"label\n"
+"string.text"
+msgid "Only text area selected"
+msgstr "Tikai izvēlētais teksta apgabals"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Text Objects"
+msgstr "Teksta objekti"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"startwithwizard\n"
+"label\n"
+"string.text"
+msgid "Start with _wizard"
+msgstr "Sākt ar _vedni"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"newdoclbl\n"
+"label\n"
+"string.text"
+msgid "New Document"
+msgstr "Jauns dokuments"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"copywhenmove\n"
+"label\n"
+"string.text"
+msgid "Copy when moving"
+msgstr "Kopēt, kad pārvieto"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Unit of _measurement:"
+msgstr "_Mērvienība:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"tapstoplabel\n"
+"label\n"
+"string.text"
+msgid "Ta_b stops:"
+msgstr "Ta_bulācijas pieturas:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"objalwymov\n"
+"label\n"
+"string.text"
+msgid "Objects always moveable"
+msgstr "Objekts vienmēr kustināms"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"distrotcb\n"
+"label\n"
+"string.text"
+msgid "Do not distort objects in curve"
+msgstr "Neizkropļot objektus pa līkni"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"backgroundback\n"
+"label\n"
+"string.text"
+msgid "Use background cache"
+msgstr "Lietot fona uzglabāšanu"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enremotcont\n"
+"label\n"
+"string.text"
+msgid "Enable remote control"
+msgstr "Aktivēt attālināto vadību"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"enprsntcons\n"
+"label\n"
+"string.text"
+msgid "Enable Presenter Console"
+msgstr "Aktivēt prezentētājas konsoli"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Presentation"
+msgstr "Prezentācija"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Drawing scale:"
+msgstr "_Zīmējuma mērogs:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"widthlbl\n"
+"label\n"
+"string.text"
+msgid "Page _width:"
+msgstr "Lappuses _platums:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"heightlbl\n"
+"label\n"
+"string.text"
+msgid "Page _height:"
+msgstr "Lappuses _augstums:"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Scale"
+msgstr "Mērogs"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"printermetrics\n"
+"label\n"
+"string.text"
+msgid "Us_e printer metrics for document formatting"
+msgstr "Izmantot print_era metriku dokumenta formatēšanai"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"cbCompatibility\n"
+"label\n"
+"string.text"
+msgid "Add _spacing between paragraphs and tables (in current document)"
+msgstr "Pievienot at_starpi starp rindkopām un tabulām (šajā dokumentā)"
+
+#: optimpressgeneralpage.ui
+msgctxt ""
+"optimpressgeneralpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Compatibility"
+msgstr "Savietojamība"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"PhotoAlbumCreatorDialog\n"
+"title\n"
+"string.text"
+msgid "Create Photo Album"
+msgstr "Izveidot foto albumu"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"create_btn\n"
+"label\n"
+"string.text"
+msgid "Insert Slides"
+msgstr "Ievietot slaidus"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Izņemt attēlus no saraksta"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"rem_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Remove Image from List"
+msgstr "Izņemt attēlus no saraksta"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Pārvietot attēlu augšup"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"up_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Up"
+msgstr "Pārvietot attēlu augšup"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_markup\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Pārvietot attēlu lejup"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"down_btn\n"
+"tooltip_text\n"
+"string.text"
+msgid "Move Image Down"
+msgstr "Pārvietot attēlu lejup"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Preview"
+msgstr "Priekšskatījums"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Slide layout:"
+msgstr "Slaidu izkārtojums:"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"asr_check\n"
+"label\n"
+"string.text"
+msgid "Keep aspect ratio"
+msgstr "Paturēt izmēra attiecību"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"0\n"
+"stringlist.text"
+msgid "1 Image"
+msgstr "1 attēls"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"1\n"
+"stringlist.text"
+msgid "2 Images"
+msgstr "2 attēli"
+
+#: photoalbum.ui
+msgctxt ""
+"photoalbum.ui\n"
+"liststore2\n"
+"2\n"
+"stringlist.text"
+msgid "4 Images"
+msgstr "4 attēli"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"PresentationDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Slaidrāde"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from\n"
+"label\n"
+"string.text"
+msgid "_From:"
+msgstr "_No:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"from_cb-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Starting slide"
+msgstr "Sākuma slaids"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allslides\n"
+"label\n"
+"string.text"
+msgid "All _slides"
+msgstr "Visi _slaidi"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"customslideshow\n"
+"label\n"
+"string.text"
+msgid "_Custom slide show:"
+msgstr "_Pielāgota slaidrāde:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Range"
+msgstr "Diapazons"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"presdisplay_label\n"
+"label\n"
+"string.text"
+msgid "P_resentation display:"
+msgstr "P_rezentācijas displejs:"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"externalmonitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1 (external)"
+msgstr "Displejs %1 (ārējs)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"monitor_str\n"
+"label\n"
+"string.text"
+msgid "Display %1"
+msgstr "Displejs %1"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"allmonitors_str\n"
+"label\n"
+"string.text"
+msgid "All displays"
+msgstr "Visi displeji"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"external_str\n"
+"label\n"
+"string.text"
+msgid "Auto External (Display %1)"
+msgstr "Automātiski ārējo (displejs %1)"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Multiple Displays"
+msgstr "Vairāki displeji"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "_Default"
+msgstr "_Noklusējuma"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"window\n"
+"label\n"
+"string.text"
+msgid "_Window"
+msgstr "_Logs"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"auto\n"
+"label\n"
+"string.text"
+msgid "A_uto"
+msgstr "A_utomātiski"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"showlogo\n"
+"label\n"
+"string.text"
+msgid "Show _logo"
+msgstr "Rādīt _logo"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"tooltip_text\n"
+"string.text"
+msgid "Duration of pause"
+msgstr "Pauzes ilgums"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pauseduration\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Pause Duration"
+msgstr "Pauzes ilgums"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "Tips"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"manualslides\n"
+"label\n"
+"string.text"
+msgid "Change slides _manually"
+msgstr "_Mainīt slaidus pašrocīgi"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointervisible\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer _visible"
+msgstr "Peles rādītājs _redzams"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"pointeraspen\n"
+"label\n"
+"string.text"
+msgid "Mouse pointer as _pen"
+msgstr "Peles rādītājs kā _pildspalva"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"navigatorvisible\n"
+"label\n"
+"string.text"
+msgid "_Navigator visible"
+msgstr "_Navigators redzams"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"animationsallowed\n"
+"label\n"
+"string.text"
+msgid "_Animations allowed"
+msgstr "_Animācijas atļautas"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"changeslidesbyclick\n"
+"label\n"
+"string.text"
+msgid "Change slides by clic_king on background"
+msgstr "Mainīt slaidus, _klikšķinot uz fona"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"alwaysontop\n"
+"label\n"
+"string.text"
+msgid "Presentation always _on top"
+msgstr "Prezentācija vienmēr _virsū"
+
+#: presentationdialog.ui
+msgctxt ""
+"presentationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcijas"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printname\n"
+"label\n"
+"string.text"
+msgid "Slide name"
+msgstr "Slaida nosaukums"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printdatetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "Datums un laiks"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"printhidden\n"
+"label\n"
+"string.text"
+msgid "Hidden pages"
+msgstr "Slēptās lappuses"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "Saturs"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalcolors\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Sākotnējais izmērs"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"grayscale\n"
+"label\n"
+"string.text"
+msgid "Grayscale"
+msgstr "Pelēktoņu"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"blackandwhite\n"
+"label\n"
+"string.text"
+msgid "Black & white"
+msgstr "Melnbalts"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Color"
+msgstr "Krāsa"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"originalsize\n"
+"label\n"
+"string.text"
+msgid "Original size"
+msgstr "Sākotnējais izmērs"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"fittoprintable\n"
+"label\n"
+"string.text"
+msgid "Fit to printable page"
+msgstr "Pielāgot drukājamajai lappusei"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"distributeonmultiple\n"
+"label\n"
+"string.text"
+msgid "Distribute on multiple sheets of paper"
+msgstr "Izvērst uz vairākām papīra loksnēm"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"tilesheet\n"
+"label\n"
+"string.text"
+msgid "Tile sheet of paper with repeated slides"
+msgstr "Salikt papīra loksni ar atkārtotiem slaidiem"
+
+#: printeroptions.ui
+msgctxt ""
+"printeroptions.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "Size"
+msgstr "Izmērs"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagenmcb\n"
+"label\n"
+"string.text"
+msgid "_Page name"
+msgstr "La_ppuses nosaukums"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"datecb\n"
+"label\n"
+"string.text"
+msgid "D_ate"
+msgstr "D_atums"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"timecb\n"
+"label\n"
+"string.text"
+msgid "Ti_me"
+msgstr "_Laiks"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"hiddenpgcb\n"
+"label\n"
+"string.text"
+msgid "H_idden pages"
+msgstr "_Slēptās lappuses"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"printlbl\n"
+"label\n"
+"string.text"
+msgid "Print"
+msgstr "Drukāt"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"pagedefaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Noklusējuma"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"fittopgrb\n"
+"label\n"
+"string.text"
+msgid "_Fit to page"
+msgstr "_Ietilpināt lappusē"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"tilepgrb\n"
+"label\n"
+"string.text"
+msgid "_Tile pages"
+msgstr "_Flīzēt lappuses"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"brouchrb\n"
+"label\n"
+"string.text"
+msgid "B_rochure"
+msgstr "B_rošūra"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"papertryfrmprntrcb\n"
+"label\n"
+"string.text"
+msgid "Paper tray from printer s_ettings"
+msgstr "Papīra paplāt_e no printera iestatījumiem"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"frontcb\n"
+"label\n"
+"string.text"
+msgid "Fr_ont"
+msgstr "Pri_ekšpuse"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"backcb\n"
+"label\n"
+"string.text"
+msgid "Ba_ck"
+msgstr "Aizmu_gure"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Page Options"
+msgstr "Lappuses opcijas"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"drawingcb\n"
+"label\n"
+"string.text"
+msgid "Drawing"
+msgstr "Zīmējums"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"notecb\n"
+"label\n"
+"string.text"
+msgid "Notes"
+msgstr "Piezīmes"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"handoutcb\n"
+"label\n"
+"string.text"
+msgid "Handouts"
+msgstr "Izdales lapas"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"outlinecb\n"
+"label\n"
+"string.text"
+msgid "Outline"
+msgstr "Struktūra"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"contentlbl\n"
+"label\n"
+"string.text"
+msgid "Content"
+msgstr "Saturs"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"defaultrb\n"
+"label\n"
+"string.text"
+msgid "Default"
+msgstr "Noklusējuma"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"grayscalerb\n"
+"label\n"
+"string.text"
+msgid "Gra_yscale"
+msgstr "P_elēktoņu"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"blackwhiterb\n"
+"label\n"
+"string.text"
+msgid "Black & _white"
+msgstr "Me_lnbalts"
+
+#: prntopts.ui
+msgctxt ""
+"prntopts.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Quality"
+msgstr "Kvalitāte"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"PublishingDialog\n"
+"title\n"
+"string.text"
+msgid "HTML Export"
+msgstr "HTML eksports"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"newDesignRadiobutton\n"
+"label\n"
+"string.text"
+msgid "New _design"
+msgstr "Jauns _dizains"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"oldDesignRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Existing design"
+msgstr "Ārējs dizains"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"delDesingButton\n"
+"label\n"
+"string.text"
+msgid "Delete Selected Design"
+msgstr "Dzēst izvēlēto dizainu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"descLabel\n"
+"label\n"
+"string.text"
+msgid "Select an existing design or create a new one"
+msgstr "Izvēlēties esošu dizainu vai izveidot jaunu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"assignLabel\n"
+"label\n"
+"string.text"
+msgid "Assign Design"
+msgstr "Piešķirt dizainu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"ASPRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Active Server Pages (ASP)"
+msgstr "_Active Server Pages (ASP)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"perlRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Perl"
+msgstr "Perl"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"indexTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_URL for listeners:"
+msgstr "_URL skatītājiem:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"URLTxtLabel\n"
+"label\n"
+"string.text"
+msgid "URL for _presentation:"
+msgstr "URL _prezentācijai:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"CGITxtLabel\n"
+"label\n"
+"string.text"
+msgid "URL for _Perl scripts:"
+msgstr "URL _Perl skriptiem:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"webCastLabel\n"
+"label\n"
+"string.text"
+msgid "Webcast"
+msgstr "Tīmekļapraide"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"chgDefaultRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_As stated in document"
+msgstr "_Kā teikts dokumentā"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"chgAutoRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automātiski"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"durationTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_Slide view time:"
+msgstr "_Slaida apskates laiks:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"endlessCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Endless"
+msgstr "_Bezgalīgs"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"kioskLabel\n"
+"label\n"
+"string.text"
+msgid "Advance Slides"
+msgstr "Pāriet uz nākamo slaidu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"contentCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Create title page"
+msgstr "Izveidot titullapu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"notesCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Show notes"
+msgstr "Rādīt piezīmes"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"htmlOptionsLabel\n"
+"label\n"
+"string.text"
+msgid "Options"
+msgstr "Opcijas"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"webCastRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_WebCast"
+msgstr "_Tīmekļapraide"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"kioskRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Automatic"
+msgstr "_Automātiski"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"singleDocumentRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Single-document HTML"
+msgstr "_Viena dokumenta HTML"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"framesRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Standard HTML with _frames"
+msgstr "Standarta HTML ar _ietvariem"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"standardRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Standard H_TML format"
+msgstr "Standarta H_TML formāts"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"publicationLabel\n"
+"label\n"
+"string.text"
+msgid "Publication Type"
+msgstr "Publikācijas tips"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"pngRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_PNG"
+msgstr "_PNG"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"gifRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_GIF"
+msgstr "_GIF"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"jpgRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_JPG"
+msgstr "_JPG"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"qualityTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_Quality:"
+msgstr "_Kvalitāte:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"saveImgAsLabel\n"
+"label\n"
+"string.text"
+msgid "Save Images As"
+msgstr "Saglabāt attēlus kā"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"resolution1Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Low (_640 × 480 pixels)"
+msgstr "Zema izšķirtspēja (_640 × 480 pikseļi)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"resolution2Radiobutton\n"
+"label\n"
+"string.text"
+msgid "Medium (_800 × 600 pixels)"
+msgstr "Vidēja izšķirtspēja (_800 × 600 pikseļi)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"resolution3Radiobutton\n"
+"label\n"
+"string.text"
+msgid "High (_1024 × 768 pixels)"
+msgstr "Augsta izšķirtspēja (_1024 × 768 pikseļi)"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"monitorResolutionLabel\n"
+"label\n"
+"string.text"
+msgid "Monitor Resolution"
+msgstr "Monitora izšķirtspēja"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"sldSoundCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Export sounds when slide advances"
+msgstr "_Eksportēt slaida pārejas skaņas"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"hiddenSlidesCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Export _hidden slides"
+msgstr "Eksportēt _slēptos slaidus"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"effectsLabel\n"
+"label\n"
+"string.text"
+msgid "Effects"
+msgstr "Efekti"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"authorTxtLabel\n"
+"label\n"
+"string.text"
+msgid "_Author:"
+msgstr "_Autors:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"emailTxtLabel\n"
+"label\n"
+"string.text"
+msgid "E-_mail address:"
+msgstr "_E-pasta adrese:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"wwwTxtLabel\n"
+"label\n"
+"string.text"
+msgid "Your hom_epage:"
+msgstr "Jū_su mājas lapa:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"addInformLabel\n"
+"label\n"
+"string.text"
+msgid "Additional _information:"
+msgstr "Papildu _informācija:"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"downloadCheckbutton\n"
+"label\n"
+"string.text"
+msgid "Link to a copy of the _original presentation"
+msgstr "Piesaistīt sāk_otnējās prezentācijas kopijai"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"infTitlePageLabel\n"
+"label\n"
+"string.text"
+msgid "Information for the Title Page"
+msgstr "Informācija titullapai"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"textOnlyCheckbutton\n"
+"label\n"
+"string.text"
+msgid "_Text only"
+msgstr "_Tikai teksts"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"buttonStyleLabel\n"
+"label\n"
+"string.text"
+msgid "Select Button Style"
+msgstr "Izvēlies pogas stilu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"docColorsRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Apply color scheme from document"
+msgstr "Pielietot krāsu shēmu no dokument_a"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"defaultRadiobutton\n"
+"label\n"
+"string.text"
+msgid "Use _browser colors"
+msgstr "Izmantot _pārlūka krāsu salikumu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"userRadiobutton\n"
+"label\n"
+"string.text"
+msgid "_Use custom color scheme"
+msgstr "Lietot pielāgot_u krāsu salikumu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"vLinkButton\n"
+"label\n"
+"string.text"
+msgid "_Visited Link"
+msgstr "Ap_meklēta saite"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"aLinkButton\n"
+"label\n"
+"string.text"
+msgid "Active Li_nk"
+msgstr "Aktī_va saite"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"linkButton\n"
+"label\n"
+"string.text"
+msgid "Hyper_link"
+msgstr "_Hipersaite"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"textButton\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Teksts"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"backButton\n"
+"label\n"
+"string.text"
+msgid "Bac_kground"
+msgstr "F_ons"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"selectColorLabel\n"
+"label\n"
+"string.text"
+msgid "Select Color Scheme"
+msgstr "Izvēlies krāsu salikumu"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"lastPageButton\n"
+"label\n"
+"string.text"
+msgid "<< Back"
+msgstr "<< Atpakaļ"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"nextPageButton\n"
+"label\n"
+"string.text"
+msgid "Ne_xt >>"
+msgstr "Uz _priekšu >>"
+
+#: publishingdialog.ui
+msgctxt ""
+"publishingdialog.ui\n"
+"finishButton\n"
+"label\n"
+"string.text"
+msgid "_Create"
+msgstr "_Izveidot"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"RemoteDialog\n"
+"title\n"
+"string.text"
+msgid "Impress Remote"
+msgstr "Impress tālvadība"
+
+#: remotedialog.ui
+msgctxt ""
+"remotedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Connections"
+msgstr "Savienojumi"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"ruler\n"
+"label\n"
+"string.text"
+msgid "_Rulers visible"
+msgstr "Mē_rjoslas redzamas"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"dragstripes\n"
+"label\n"
+"string.text"
+msgid "_Snap Lines when moving"
+msgstr "Palīglīnija_s, kad pārvieto"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"handlesbezier\n"
+"label\n"
+"string.text"
+msgid "_All control points in Bézier editor"
+msgstr "Visi v_adības punkti Bezjē redaktorā"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"moveoutline\n"
+"label\n"
+"string.text"
+msgid "_Contour of each individual object"
+msgstr "_Katra individuāla objekta kontūra"
+
+#: sdviewpage.ui
+msgctxt ""
+"sdviewpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Display"
+msgstr "Attēlot"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"SlideDesignDialog\n"
+"title\n"
+"string.text"
+msgid "Slide Design"
+msgstr "Slaidu dizains"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"masterpage\n"
+"label\n"
+"string.text"
+msgid "_Exchange background page"
+msgstr "_Apmainīt fona lappusi"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"checkmasters\n"
+"label\n"
+"string.text"
+msgid "_Delete unused backgrounds"
+msgstr "_Dzēst neizmantotus fonus"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Select a Slide Design"
+msgstr "Izvēlieties slaidu dizainu"
+
+#: slidedesigndialog.ui
+msgctxt ""
+"slidedesigndialog.ui\n"
+"load\n"
+"label\n"
+"string.text"
+msgid "_Load..."
+msgstr "Ie_lādēt..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Apply to Selected Slides"
+msgstr "Pielietot izvēlētajiem slaidiem"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_label\n"
+"label\n"
+"string.text"
+msgid "Speed:"
+msgstr "Ātrums:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"0\n"
+"stringlist.text"
+msgid "Slow"
+msgstr "Lēni"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"1\n"
+"stringlist.text"
+msgid "Medium"
+msgstr "Vidēji"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"speed_list\n"
+"2\n"
+"stringlist.text"
+msgid "Fast"
+msgstr "Ātri"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_label\n"
+"label\n"
+"string.text"
+msgid "Sound:"
+msgstr "Skaņa:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"0\n"
+"stringlist.text"
+msgid "No sound"
+msgstr "Bez skaņas"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"1\n"
+"stringlist.text"
+msgid "Stop previous sound"
+msgstr "Apturēt iepriekšējo skaņu"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"sound_list\n"
+"2\n"
+"stringlist.text"
+msgid "Other sound..."
+msgstr "Cita skaņa..."
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"loop_sound\n"
+"label\n"
+"string.text"
+msgid "Loop until next sound"
+msgstr "Atkārtot līdz nākošajai skaņai"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify Transition"
+msgstr "Mainīt pāreju"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_mouse_click\n"
+"label\n"
+"string.text"
+msgid "On mouse click"
+msgstr "Ar peles klikšķi"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"rb_auto_after\n"
+"label\n"
+"string.text"
+msgid "Automatically after:"
+msgstr "Automātiski pēc:"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Advance Slide"
+msgstr "Pāriet uz nākamo slaidu"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"apply_to_all\n"
+"label\n"
+"string.text"
+msgid "Apply to All Slides"
+msgstr "Pielietot visiem slaidiem "
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"play\n"
+"label\n"
+"string.text"
+msgid "Play"
+msgstr "Rādīt"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"slide_show\n"
+"label\n"
+"string.text"
+msgid "Slide Show"
+msgstr "Slīdrāde"
+
+#: slidetransitionspanel.ui
+msgctxt ""
+"slidetransitionspanel.ui\n"
+"auto_preview\n"
+"label\n"
+"string.text"
+msgid "Automatic preview"
+msgstr "Automātiskais priekšskatījums"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Header row"
+msgstr "_Galvenes rinda"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastRowStyle\n"
+"label\n"
+"string.text"
+msgid "Tot_al row"
+msgstr "Kopējā rind_a"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingRowStyle\n"
+"label\n"
+"string.text"
+msgid "_Banded rows"
+msgstr "_Svītrotās rindas"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseFirstColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Fi_rst column"
+msgstr "Pi_rmā kolonna"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseLastColumnStyle\n"
+"label\n"
+"string.text"
+msgid "_Last column"
+msgstr "Pēdējā ko_lonna"
+
+#: tabledesignpanel.ui
+msgctxt ""
+"tabledesignpanel.ui\n"
+"UseBandingColumnStyle\n"
+"label\n"
+"string.text"
+msgid "Ba_nded columns"
+msgstr "Svītrotas kolo_nnas"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Image Styles"
+msgstr "Attēlu stili"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"standard\n"
+"label\n"
+"string.text"
+msgid "_Standard"
+msgstr "_Standarts"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"organizer\n"
+"label\n"
+"string.text"
+msgid "Organizer"
+msgstr "Organizētājs"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"line\n"
+"label\n"
+"string.text"
+msgid "Line"
+msgstr "Līnija"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"area\n"
+"label\n"
+"string.text"
+msgid "Area"
+msgstr "Laukums"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"shadowing\n"
+"label\n"
+"string.text"
+msgid "Shadowing"
+msgstr "Ēnošana"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"transparency\n"
+"label\n"
+"string.text"
+msgid "Transparency"
+msgstr "Caurspīdīgums"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"font\n"
+"label\n"
+"string.text"
+msgid "Font"
+msgstr "Fonts"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"fonteffect\n"
+"label\n"
+"string.text"
+msgid "Font Effects"
+msgstr "Fontu efekti"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"indents\n"
+"label\n"
+"string.text"
+msgid "Indents & Spacing"
+msgstr "Atkāpes un atstarpes"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Text"
+msgstr "Teksts"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"animation\n"
+"label\n"
+"string.text"
+msgid "Text Animation"
+msgstr "Teksta animācija"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"dimensioning\n"
+"label\n"
+"string.text"
+msgid "Dimensioning"
+msgstr "Izmēra atzīmēšana"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"connector\n"
+"label\n"
+"string.text"
+msgid "Connector"
+msgstr "Savienotājs"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"alignment\n"
+"label\n"
+"string.text"
+msgid "Alignment"
+msgstr "Līdzinājums"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"asiantypo\n"
+"label\n"
+"string.text"
+msgid "Asian Typography"
+msgstr "Āzijas tipogrāfija"
+
+#: templatedialog.ui
+msgctxt ""
+"templatedialog.ui\n"
+"tabs\n"
+"label\n"
+"string.text"
+msgid "Tabs"
+msgstr "Tabulācijas"

@@ -1,0 +1,915 @@
+#. extracted from reportdesign/source/ui/report
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-05-30 13:08+0200\n"
+"PO-Revision-Date: 2014-08-19 10:36+0000\n"
+"Last-Translator: shanmugamr <shanfaace@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1408444583.000000\n"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_BRWTITLE_PROPERTIES\n"
+"string.text"
+msgid "Properties: "
+msgstr ""
+"#-#-#-#-#  dlged.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خاصيتون\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خاصيتون  "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_BRWTITLE_NO_PROPERTIES\n"
+"string.text"
+msgid "No Control marked"
+msgstr "ضابطي جو نشا ڪونهي"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_BRWTITLE_MULTISELECT\n"
+"string.text"
+msgid "Multiselection"
+msgstr ""
+"#-#-#-#-#  dlged.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"گَهڻ قسمي چونڊيو\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ٻهو قسمن جي چونڊ\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ٻهوچونڊ "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_IMAGECONTROL\n"
+"string.text"
+msgid "Image Control"
+msgstr ""
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"عڪس جو ضابطو\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"عڪس تي ضابطو\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"عڪس تي صابطو "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_FIXEDTEXT\n"
+"string.text"
+msgid "Label field"
+msgstr "ليبل جو کيتر"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_FIXEDLINE\n"
+"string.text"
+msgid "Line"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ليڪ\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ليڪ\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ليڪ \n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ليڪ "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_FORMATTED\n"
+"string.text"
+msgid "Formatted Field"
+msgstr ""
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"رچيل کيتر\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"رچيل کيترُ\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"رچيل کيتر \n"
+"#-#-#-#-#  fmcomp.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"رچيل کيتر"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_SHAPE\n"
+"string.text"
+msgid "Shape"
+msgstr "شڪل "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_REPORT\n"
+"string.text"
+msgid "Report"
+msgstr "رپورٽ"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_SECTION\n"
+"string.text"
+msgid "Section"
+msgstr "حصو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_FUNCTION\n"
+"string.text"
+msgid "Function"
+msgstr "ڪاريَہ "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PROPTITLE_GROUP\n"
+"string.text"
+msgid "Group"
+msgstr "گروپُ"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"STR_SHOW_RULER\n"
+"string.text"
+msgid "Show ruler"
+msgstr "ليڪڻو ڏيکاريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"STR_SHOW_GRID\n"
+"string.text"
+msgid "Show grid"
+msgstr "ڄار ڏيکاريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_CHANGEPOSITION\n"
+"string.text"
+msgid "Change Object"
+msgstr "شئہ بدلايو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_MOVE_GROUP\n"
+"string.text"
+msgid "Move Group(s)"
+msgstr "گروپُ (گروپَ) هلايو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_CONDITIONAL_FORMATTING\n"
+"string.text"
+msgid "Conditional Formatting"
+msgstr "شرطيا رچنا ڪرڻ"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_REPORTHEADERFOOTER\n"
+"string.text"
+msgid "Remove report header / report footer"
+msgstr "رپورٽ مٿان شرح/رپورٽ هيٺان شرح ڪڍي ڇڏيو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_ADD_REPORTHEADERFOOTER\n"
+"string.text"
+msgid "Add report header / report footer"
+msgstr "رپورٽ مٿان شرح/ رپورٽ هيٺان شرح شامل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_PAGEHEADERFOOTER\n"
+"string.text"
+msgid "Remove page header / page footer"
+msgstr "صفحي مٿان شرح/ صفحي هيٺان شرح ڪڍي ڇڏيو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_ADD_PAGEHEADERFOOTER\n"
+"string.text"
+msgid "Add page header / page footer"
+msgstr "صفحي مٿان شرح/ صفحي هيٺان شرح شامل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_PROPERTY\n"
+"string.text"
+msgid "Change property '#'"
+msgstr "'#' خاصيت بدلايو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_ADD_GROUP_HEADER\n"
+"string.text"
+msgid "Add group header "
+msgstr "گروپ مٿان شرح شامل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_GROUP_HEADER\n"
+"string.text"
+msgid "Remove group header "
+msgstr "گروپ مٿان شرح ڪڍي ڇڏيو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_ADD_GROUP_FOOTER\n"
+"string.text"
+msgid "Add group footer "
+msgstr "گروپ هيٺان شرح شامل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_GROUP_FOOTER\n"
+"string.text"
+msgid "Remove group footer "
+msgstr "گروپ هيٺان شرح ڪڍي ڇڏيو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_ADDFUNCTION\n"
+"string.text"
+msgid "Add function"
+msgstr "ڪاريہ شامل ڪريو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_DELETEFUNCTION\n"
+"string.text"
+msgid "Delete function"
+msgstr "چونڊ خارج ڪريو "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_DESIGN_VIEW\n"
+"string.text"
+msgid "Design"
+msgstr "ڊرائين"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PREVIEW_VIEW\n"
+"string.text"
+msgid "Preview"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اڳ منظر \n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اَڳ منظرُ\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اَڳہ منظر\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اڳ منظر \n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اَڳ منظر\n"
+"#-#-#-#-#  scanner.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اَڳہ منظر\n"
+"#-#-#-#-#  contnr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اَڳ منظر"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"STR_RPT_TITLE\n"
+"string.text"
+msgid "Report #"
+msgstr "رپورٽ"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"STR_RPT_LABEL\n"
+"string.text"
+msgid "~Report name"
+msgstr " (~R) رپورٽ جو نالو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_GROUP\n"
+"string.text"
+msgid "Delete Group"
+msgstr "قطار خارج ڪريو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_APPEND_GROUP\n"
+"string.text"
+msgid "Add Group"
+msgstr "ٻيون گروپ"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_SELECTION\n"
+"string.text"
+msgid "Delete Selection"
+msgstr "چونڊ خارج ڪريو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_REMOVE_FUNCTION\n"
+"string.text"
+msgid "Delete Function"
+msgstr "چونڊ خارج ڪريو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_CHANGE_SIZE\n"
+"string.text"
+msgid "Change Size"
+msgstr "ماپو بدلايو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_PASTE\n"
+"string.text"
+msgid "Paste"
+msgstr "~چنبڙايو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_INSERT_CONTROL\n"
+"string.text"
+msgid "Insert Control"
+msgstr "ضانطا داخل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_DELETE_CONTROL\n"
+"string.text"
+msgid "Delete Control"
+msgstr "ضابطو خارج ڪريو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_GROUP\n"
+"string.text"
+msgid "Insert Group"
+msgstr "قطار داخل ڪريو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_UNGROUP\n"
+"string.text"
+msgid "Delete Group"
+msgstr "قطار خارج ڪريو "
+
+#. Please try to avoid spaces in the name. It is used as a programmatic one.
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_GROUPHEADER\n"
+"string.text"
+msgid "GroupHeader"
+msgstr "گروپ مٿان شرح"
+
+#. Please try to avoid spaces in the name. It is used as a programmatic one.
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_GROUPFOOTER\n"
+"string.text"
+msgid "GroupFooter"
+msgstr "گروپ هيٺان شرح"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_SORTINGANDGROUPING\n"
+"menuitem.text"
+msgid "Sorting and Grouping..."
+msgstr "ڇانٽڻ ۽ گروپ رچڻ ..."
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_ATTR_CHAR_COLOR_BACKGROUND\n"
+"menuitem.text"
+msgid "Background Color..."
+msgstr "پس منظر جو رنگ"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_RULER\n"
+"menuitem.text"
+msgid "Ruler..."
+msgstr "ليڪڻو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_GRID_VISIBLE\n"
+"menuitem.text"
+msgid "Grid..."
+msgstr "ڄارُ"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_ARRANGEMENU\n"
+"SID_FRAME_UP\n"
+"menuitem.text"
+msgid "Bring ~Forward"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اڳتي آڻيو \n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اڳتي آڻيو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_ARRANGEMENU\n"
+"SID_FRAME_DOWN\n"
+"menuitem.text"
+msgid "Send Back~ward"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پٺتي موڪليو \n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"پٺتي موڪليو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_ARRANGEMENU\n"
+"menuitem.text"
+msgid "~Arrange"
+msgstr ""
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سلسلو ڏيو\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"سلسلي ۾ آڻيو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_OBJECT_RESIZING\n"
+"SID_OBJECT_SMALLESTWIDTH\n"
+"menuitem.text"
+msgid "~Fit to smallest width"
+msgstr "سڀني کان گهٽ ويڪر ۾ ٺهڪايو (~F)"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_OBJECT_RESIZING\n"
+"SID_OBJECT_GREATESTWIDTH\n"
+"menuitem.text"
+msgid "~Fit to greatest width"
+msgstr "سڀن کان وڌيڪ ويڪر ۾ ٺهڪايو (~F)"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_OBJECT_RESIZING\n"
+"SID_OBJECT_SMALLESTHEIGHT\n"
+"menuitem.text"
+msgid "~Fit to smallest height"
+msgstr "سڀني کان گهٽ اوچائيءَ ۾ ٺهڪايو (~F)"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_OBJECT_RESIZING\n"
+"SID_OBJECT_GREATESTHEIGHT\n"
+"menuitem.text"
+msgid "~Fit to greatest height"
+msgstr "سڀني کان وڌيڪ اوچائيءَ ۾ ٺهڪايو (~F)"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_OBJECT_RESIZING\n"
+"menuitem.text"
+msgid "~Object Resizing"
+msgstr "شئە کي نئين سر آڪار ڏيڻ (~O)"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_SECTION_SHRINK_MENU\n"
+"SID_SECTION_SHRINK\n"
+"menuitem.text"
+msgid "Shrink"
+msgstr "سُسايو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_SECTION_SHRINK_MENU\n"
+"SID_SECTION_SHRINK_TOP\n"
+"menuitem.text"
+msgid "Shrink from top"
+msgstr "مٿ کان ڇاپيو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT.SID_SECTION_SHRINK_MENU\n"
+"SID_SECTION_SHRINK_BOTTOM\n"
+"menuitem.text"
+msgid "Shrink from bottom"
+msgstr "ترَ کان ڇاپيو "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_SECTION_SHRINK_MENU\n"
+"menuitem.text"
+msgid "Section"
+msgstr "حصو "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_DISTRIBUTION\n"
+"menuitem.text"
+msgid "Distribution..."
+msgstr "وراهست..."
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_MENU_REPORT\n"
+"SID_SHOW_PROPERTYBROWSER\n"
+"menuitem.text"
+msgid "Properties..."
+msgstr ""
+"#-#-#-#-#  navipi.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خاصيتون\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خاصيتون۔۔۔\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خاصيتون۔۔۔\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خاصيتون۔۔۔"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_FIELDSELECTION\n"
+"string.text"
+msgid "Add field:"
+msgstr "کيتر داخل ڪريو:"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_FILTER\n"
+"string.text"
+msgid "Filter"
+msgstr ""
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"فلٽر\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"فلٽر ڪريو\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"فلٽر"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_APP_TITLE\n"
+"string.text"
+msgid " - %PRODUCTNAME Base Report"
+msgstr "- % اُپت جي نالي جي آڌار جي رپورٽ"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_APP_NEW_DOC\n"
+"string.text"
+msgid "Untitled"
+msgstr ""
+"#-#-#-#-#  dbui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بنا عنوان وارو \n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بنا عنوان وارو \n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بناعنوان\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"بنا ڪنہن عنوان جي"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_ALIGNMENT\n"
+"string.text"
+msgid "Change Alignment"
+msgstr "سڌائي بدلايو"
+
+#. # will be replaced with a name.
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_HEADER\n"
+"string.text"
+msgid "# Header"
+msgstr "صفحي مٿان شرح ڏانهن"
+
+#. # will be replaced with a name.
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_FOOTER\n"
+"string.text"
+msgid "# Footer"
+msgstr "صفحي هيٺان شرح  ڏانهن"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_IMPORT_GRAPHIC\n"
+"string.text"
+msgid "Insert graphics"
+msgstr "چٽَ داخل ڪريو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_DELETE\n"
+"string.text"
+msgid "Delete"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خارج ڪريو\n"
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"رد ڪريو \n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خارج ڪريو \n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خارج ڪريو\n"
+"#-#-#-#-#  navipi.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خارج ڪريو\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خارج ڪريو\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"خارج ڪريو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_FUNCTION\n"
+"string.text"
+msgid "Function"
+msgstr "ڪاريَہ "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_COULD_NOT_CREATE_REPORT\n"
+"string.text"
+msgid "An error occurred while creating the report."
+msgstr "ڪيلنڊر خلقڻ وقت چوڪ ٿي ويئي "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_CAUGHT_FOREIGN_EXCEPTION\n"
+"string.text"
+msgid "An exception of type $type$ was caught."
+msgstr "$قسم$ قسم جو اپواد پڪڙيو ويو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_CHANGEFONT\n"
+"string.text"
+msgid "Change font"
+msgstr "فانٽ بدلايو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_CHANGEPAGE\n"
+"string.text"
+msgid "Change page attributes"
+msgstr "بدلايل لاڳاپو رکندڙ "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PAGEHEADERFOOTER_INSERT\n"
+"string.text"
+msgid "Insert Page Header/Footer"
+msgstr "صفحي مٿان شرح/ هيٺان شرح داخل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PAGEHEADERFOOTER_DELETE\n"
+"string.text"
+msgid "Delete Page Header/Footer"
+msgstr "صفحي مٿان شرح/ هيٺان شرح خارج ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_COLUMNHEADERFOOTER_INSERT\n"
+"string.text"
+msgid "Insert Column Header/Footer"
+msgstr "صفحي مٿان شرح/ هيٺان شرح داخل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_COLUMNHEADERFOOTER_DELETE\n"
+"string.text"
+msgid "Delete Column Header/Footer"
+msgstr "صفحي مٿان شرح/ هيٺان شرح خارج ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_REPORTHEADERFOOTER_INSERT\n"
+"string.text"
+msgid "Insert Report Header/Footer"
+msgstr "رپورٽ مٿان شرح/ هيٺان شرح داخل ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_REPORTHEADERFOOTER_DELETE\n"
+"string.text"
+msgid "Delete Report Header/Footer"
+msgstr "رپورٽ مٿان شرح/ هيٺان شرح خارج ڪريو"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_ERR_NO_COMMAND\n"
+"string.text"
+msgid "The report can not be executed unless it is bound to content."
+msgstr "جيسين اُها موضوع سان نٿي جوڙي وڃي تيسين رپورٽ نٿي هلي سگهي۔"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_ERR_NO_OBJECTS\n"
+"string.text"
+msgid "The report can not be executed unless at least one object has been inserted."
+msgstr "جيسين گهٽ ۾ گهٽ شئە داخل نٿي ڪئي وڃي تيسين رپورٽ نٿي هلي سگهي۔"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_UNDO_SHRINK\n"
+"string.text"
+msgid "Shrink Section"
+msgstr "سيڪشن سُسايو"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_DETAIL\n"
+"string.text"
+msgid "Detail"
+msgstr "تفصيلَ "
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_PAGE_HEADER\n"
+"string.text"
+msgid "Page Header"
+msgstr "تختيءَ جو سرو "
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_PAGE_FOOTER\n"
+"string.text"
+msgid "Page Footer"
+msgstr "صفحي هيٺان شرح"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_REPORT_HEADER\n"
+"string.text"
+msgid "Report Header"
+msgstr "رپورٽ مٿان شرح"
+
+#: report.src
+msgctxt ""
+"report.src\n"
+"RID_STR_REPORT_FOOTER\n"
+"string.text"
+msgid "Report Footer"
+msgstr "رپورٽ هيٺان شرح"
+
+#: report.src
+#, fuzzy
+msgctxt ""
+"report.src\n"
+"RID_STR_INSERT\n"
+"string.text"
+msgid "Insert"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو \n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو \n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو \n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو \n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو\n"
+"#-#-#-#-#  basicide.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"داخل ڪريو"

@@ -1,0 +1,302 @@
+#. extracted from dbaccess/source/ui/browser
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2013-06-21 06:10+0000\n"
+"Last-Translator: ngoswami <ngoswami@redhat.com>\n"
+"Language-Team: Assamese <kde-i18n-doc@kde.org>\n"
+"Language: as\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1371795025.0\n"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_BRW_DELETE_ROWS\n"
+"string.text"
+msgid "Do you want to delete the selected data?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_DATABROWSER_FILTERED\n"
+"string.text"
+msgid "(filtered)"
+msgstr "(ফিল্টাৰ কৰা হ'ল)"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_ORDER\n"
+"string.text"
+msgid "Error setting the sort criteria"
+msgstr "বৰ্গীকৰণ নিৰ্ণায়কটো ছেটিং কৰোঁতে ভুল হৈছে"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_FILTER\n"
+"string.text"
+msgid "Error setting the filter criteria"
+msgstr "ফিল্টাৰ নিৰ্ণায়কটো ছেটিং কৰোঁতে ভুল হৈছে"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_CONNECTION_LOST\n"
+"string.text"
+msgid "Connection lost"
+msgstr "সংযোগ নষ্ট হ'ল"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_QUERIES_CONTAINER\n"
+"string.text"
+msgid "Queries"
+msgstr "প্ৰশ্নবোৰ"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_TABLES_CONTAINER\n"
+"string.text"
+msgid "Tables"
+msgstr "টেবুলবোৰ"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_EDIT_DATABASE\n"
+"#define.text"
+msgid "Edit ~Database File..."
+msgstr "ডাটাবেছ ফাইল সম্পাদনা কৰক (~D)..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_ADMINISTRATE\n"
+"#define.text"
+msgid "Registered databases ..."
+msgstr "পঞ্জিকৃত তথ্যভঁৰাল ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_CLOSECONN\n"
+"#define.text"
+msgid "Disco~nnect"
+msgstr "বিচ্ছিন্ন কৰক (~n)"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_TITLE_CONFIRM_DELETION\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "ডিলিট কৰাটো নিশ্চিত কৰক"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_DELETE_TABLE\n"
+"string.text"
+msgid "Do you want to delete the table '%1'?"
+msgstr "'%1' টেবুলখন আপুনি ডিলিট কৰিবলৈ বিচাৰেনেকি?"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_CONNECTION_LOST\n"
+"string.text"
+msgid "The connection to the database has been lost. Do you want to reconnect?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS\n"
+"string.text"
+msgid "Warnings encountered"
+msgstr "সঁকিয়নিবোৰৰ সন্মুখীন হ'ল"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS_DETAILS\n"
+"string.text"
+msgid "While retrieving the tables, warnings were reported by the database connection."
+msgstr "টেবুলবোৰ সংশোধন কৰোতে, সঁকিয়নিবোৰ ডাটাবেছ সংযোগটোৰ দ্বাৰা ৰিপৰ্ট কৰা হ'ল."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_CONNECTING_DATASOURCE\n"
+"string.text"
+msgid "Connecting to \"$name$\" ..."
+msgstr "\"$name$\" লৈ ল'ড কৰি আছে ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_QUERY\n"
+"string.text"
+msgid "Loading query $name$ ..."
+msgstr "$name$ ল'ড কৰি আছে ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_TABLE\n"
+"string.text"
+msgid "Loading table $name$ ..."
+msgstr "$name$ টেবুল ল'ড কৰি আছে ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_NO_TABLE_FORMAT_INSIDE\n"
+"string.text"
+msgid "No table format could be found."
+msgstr "কোনো টেবুল ফৰমেট পাব পৰা নগ'ল."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_COULDNOTCONNECT_DATASOURCE\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "ডাটা উত্স\"$name$\" টো স্থাপন কৰিব পৰা নগ'ল."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_MENU_REFRESH_DATA\n"
+"ID_BROWSER_REFRESH_REBUILD\n"
+"menuitem.text"
+msgid "Rebuild"
+msgstr "পুনৰ নিৰ্মাণ"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLATTRSET\n"
+"menuitem.text"
+msgid "Column ~Format..."
+msgstr "স্তম্ভৰ বিন্যাস (~F)..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLUMNINFO\n"
+"menuitem.text"
+msgid "Copy Column D~escription"
+msgstr "স্তম্ভৰ বিৱৰণ কপি কৰক (~e)"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_TABLEATTR\n"
+"menuitem.text"
+msgid "Table Format..."
+msgstr "টেবুলৰ বিন্যাস..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_ROWHEIGHT\n"
+"menuitem.text"
+msgid "Row Height..."
+msgstr "শাৰীৰ উচ্চতা..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_UNDO_MODIFY_RECORD\n"
+"string.text"
+msgid "Undo: Data Input"
+msgstr "পূৰ্ব নিৰ্দেশ বাতিল কৰক: ডাটা ইনপুট্"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_SAVE_CURRENT_RECORD\n"
+"string.text"
+msgid "Save current record"
+msgstr "চলিত ৰেকৰ্ড সংৰক্ষণ কৰক"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_QRY_TITLE\n"
+"string.text"
+msgid "Query #"
+msgstr "প্ৰশ্ন #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_TBL_TITLE\n"
+"string.text"
+msgid "Table #"
+msgstr "টেবুল #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_VIEW_TITLE\n"
+"string.text"
+msgid "View #"
+msgstr "দৃশ্য #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NAME_ALREADY_EXISTS\n"
+"string.text"
+msgid "The name \"#\" already exists."
+msgstr "\"#\" নামটো ইতিমধ্যে আছেই."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NO_COLUMNNAME_MATCHING\n"
+"string.text"
+msgid "No matching column names were found."
+msgstr "কোনো মিল থকা স্তম্ভৰ নামবোৰ পোৱা নগ'ল."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_ERROR_OCCURRED_WHILE_COPYING\n"
+"string.text"
+msgid "An error occurred. Do you want to continue copying?"
+msgstr "এটা ভুল হ'ল. আপুনি প্ৰতিলিপিকৰণ অব্যাহত ৰাখিবলৈ বিচাৰেনেকি?"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_NAME\n"
+"string.text"
+msgid "Data source table view"
+msgstr "তথ্য উৎস টেবুলৰ দৃশ্য"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_DESC\n"
+"string.text"
+msgid "Shows the selected table or query."
+msgstr "নিৰ্বাচিত টেবুল বা প্ৰশ্ন."

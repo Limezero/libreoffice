@@ -1,0 +1,302 @@
+#. extracted from dbaccess/source/ui/browser
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2014-11-18 11:23+0100\n"
+"PO-Revision-Date: 2012-12-21 06:42+0000\n"
+"Last-Translator: sweta <swkothar@redhat.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1356072133.0\n"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_BRW_DELETE_ROWS\n"
+"string.text"
+msgid "Do you want to delete the selected data?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_DATABROWSER_FILTERED\n"
+"string.text"
+msgid "(filtered)"
+msgstr "(છૂટુ પાડેલ)"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_ORDER\n"
+"string.text"
+msgid "Error setting the sort criteria"
+msgstr "ક્રમમાં પરિમાણની સુયોજનામાં ભૂલ"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"SBA_BROWSER_SETTING_FILTER\n"
+"string.text"
+msgid "Error setting the filter criteria"
+msgstr "ગાળણ પરિમાણની સુયોજનામાં ભૂલ"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_CONNECTION_LOST\n"
+"string.text"
+msgid "Connection lost"
+msgstr "જોડાણ તૂટી ગયું"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_QUERIES_CONTAINER\n"
+"string.text"
+msgid "Queries"
+msgstr "પ્રશ્ર્નો"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_STR_TABLES_CONTAINER\n"
+"string.text"
+msgid "Tables"
+msgstr "કોષ્ટકો"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_EDIT_DATABASE\n"
+"#define.text"
+msgid "Edit ~Database File..."
+msgstr "ડેટાબેઝ ફાઈલમાં ફેરફાર કરો (~D)..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_ADMINISTRATE\n"
+"#define.text"
+msgid "Registered databases ..."
+msgstr "રજીસ્ટર થયેલ ડેટાબેઝો ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"MID_CLOSECONN\n"
+"#define.text"
+msgid "Disco~nnect"
+msgstr "જોડાણ તોડો (~n)"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_TITLE_CONFIRM_DELETION\n"
+"string.text"
+msgid "Confirm Deletion"
+msgstr "દૂર કરવાની ખાતરી"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_DELETE_TABLE\n"
+"string.text"
+msgid "Do you want to delete the table '%1'?"
+msgstr "શું તમે '%1' ટેબલ રદ્ કરવા માંગો છો ?"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_QUERY_CONNECTION_LOST\n"
+"string.text"
+msgid "The connection to the database has been lost. Do you want to reconnect?"
+msgstr ""
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS\n"
+"string.text"
+msgid "Warnings encountered"
+msgstr "ચેતવણીનો સામે આવી"
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_OPENTABLES_WARNINGS_DETAILS\n"
+"string.text"
+msgid "While retrieving the tables, warnings were reported by the database connection."
+msgstr "જ્યારે કોષ્ટકોને ફરી મેળવ્યા ત્યારે, ડેટાબેઝ દ્ધારા ચેતવણીઓનો રિપોર્ટ કરાયો."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_CONNECTING_DATASOURCE\n"
+"string.text"
+msgid "Connecting to \"$name$\" ..."
+msgstr "\"$name$\" નું જોડાણ કર્યુ ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_QUERY\n"
+"string.text"
+msgid "Loading query $name$ ..."
+msgstr "પ્રશ્ર્નનું $name$ લાવી રહ્યા છે ..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_LOADING_TABLE\n"
+"string.text"
+msgid "Loading table $name$ ..."
+msgstr "કોષ્ટકનું $name$ લાવી રહ્યા છે..."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_NO_TABLE_FORMAT_INSIDE\n"
+"string.text"
+msgid "No table format could be found."
+msgstr "કોષ્ટકનું બંધારણ શોધી શકાયુ નહિ."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"STR_COULDNOTCONNECT_DATASOURCE\n"
+"string.text"
+msgid "The connection to the data source \"$name$\" could not be established."
+msgstr "માહિતી સ્રોતના \"$name$\"ના જોડાણને પ્રસ્થાપિત કરી શકાયુ નહિ."
+
+#: sbabrw.src
+msgctxt ""
+"sbabrw.src\n"
+"RID_MENU_REFRESH_DATA\n"
+"ID_BROWSER_REFRESH_REBUILD\n"
+"menuitem.text"
+msgid "Rebuild"
+msgstr "ફરી બાંધવુ"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLATTRSET\n"
+"menuitem.text"
+msgid "Column ~Format..."
+msgstr "સ્તંભ બંધારણ (~F)..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_COLCTXMENU\n"
+"ID_BROWSER_COLUMNINFO\n"
+"menuitem.text"
+msgid "Copy Column D~escription"
+msgstr "સ્તંભ વર્ણન નકલ કરો (~e)"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_TABLEATTR\n"
+"menuitem.text"
+msgid "Table Format..."
+msgstr "કોષ્ટકનું બંધારણ..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_SBA_GRID_ROWCTXMENU\n"
+"ID_BROWSER_ROWHEIGHT\n"
+"menuitem.text"
+msgid "Row Height..."
+msgstr "હરોળ ઊંચાઈ..."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_UNDO_MODIFY_RECORD\n"
+"string.text"
+msgid "Undo: Data Input"
+msgstr "છેલ્લુ પાછુ મેળવવુ: માહિતીનો ઈનપુટ"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"RID_STR_SAVE_CURRENT_RECORD\n"
+"string.text"
+msgid "Save current record"
+msgstr "સંગ્રહ કરો"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_QRY_TITLE\n"
+"string.text"
+msgid "Query #"
+msgstr "પ્રશ્ર્ન #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_TBL_TITLE\n"
+"string.text"
+msgid "Table #"
+msgstr "કોષ્ટક #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_VIEW_TITLE\n"
+"string.text"
+msgid "View #"
+msgstr "દેખાવ #"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NAME_ALREADY_EXISTS\n"
+"string.text"
+msgid "The name \"#\" already exists."
+msgstr "નામ \"#\" પહેલેથી અસ્તિત્વ ધરાવે છે."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_NO_COLUMNNAME_MATCHING\n"
+"string.text"
+msgid "No matching column names were found."
+msgstr "બંધબેસતા સ્તંભના નામો શોધાયા નહિ."
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_ERROR_OCCURRED_WHILE_COPYING\n"
+"string.text"
+msgid "An error occurred. Do you want to continue copying?"
+msgstr "ભૂલ દેખાઇ. તમે નકલ કરવાનું ચાલુ રાખશો?"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_NAME\n"
+"string.text"
+msgid "Data source table view"
+msgstr "માહિતી સ્રોત કોષ્ટક દેખાવ"
+
+#: sbagrid.src
+msgctxt ""
+"sbagrid.src\n"
+"STR_DATASOURCE_GRIDCONTROL_DESC\n"
+"string.text"
+msgid "Shows the selected table or query."
+msgstr "પસંદ કરાયેલ કોષ્ટક અથવા પ્રશ્ર્નને દેખાડો."

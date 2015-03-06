@@ -1,0 +1,1997 @@
+#. extracted from sfx2/uiconfig/ui
+msgid ""
+msgstr ""
+"Project-Id-Version: LibO 40l10n\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2015-02-16 22:20+0100\n"
+"PO-Revision-Date: 2014-12-24 21:46+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LibreOffice\n"
+"X-Accelerator-Marker: ~\n"
+"X-POOTLE-MTIME: 1374683052.0\n"
+
+#: alienwarndialog.ui
+msgctxt ""
+"alienwarndialog.ui\n"
+"AlienWarnDialog\n"
+"title\n"
+"string.text"
+msgid "Confirm File Format"
+msgstr "確認檔案格式"
+
+#: alienwarndialog.ui
+msgctxt ""
+"alienwarndialog.ui\n"
+"AlienWarnDialog\n"
+"text\n"
+"string.text"
+msgid "This document may contain formatting or content that cannot be saved in the currently selected file format “%FORMATNAME”."
+msgstr "此文件可能含有無法以目前所選「%FORMATNAME」檔案格式儲存的格式化設定或內容。"
+
+#: alienwarndialog.ui
+msgctxt ""
+"alienwarndialog.ui\n"
+"AlienWarnDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Use the default ODF file format to be sure that the document is saved correctly."
+msgstr "請使用預設的 ODF 檔案格式以確保文件可正確儲存。"
+
+#: alienwarndialog.ui
+msgctxt ""
+"alienwarndialog.ui\n"
+"cancel\n"
+"label\n"
+"string.text"
+msgid "Use _ODF Format"
+msgstr "使用 ODF 格式(_O)"
+
+#: alienwarndialog.ui
+msgctxt ""
+"alienwarndialog.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "_Use %FORMATNAME Format"
+msgstr "使用 %FORMATNAME 格式(_U)"
+
+#: alienwarndialog.ui
+msgctxt ""
+"alienwarndialog.ui\n"
+"ask\n"
+"label\n"
+"string.text"
+msgid "_Ask when not saving in ODF format"
+msgstr "不以 ODF 格式儲存時詢問(_A)"
+
+#: bookmarkdialog.ui
+msgctxt ""
+"bookmarkdialog.ui\n"
+"BookmarkDialog\n"
+"title\n"
+"string.text"
+msgid "Add to Bookmarks"
+msgstr "加入書籤"
+
+#: bookmarkdialog.ui
+msgctxt ""
+"bookmarkdialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Rename Bookmark"
+msgstr "重新命名書籤"
+
+#: bookmarkdialog.ui
+msgctxt ""
+"bookmarkdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Bookmark:"
+msgstr "書籤："
+
+#: checkin.ui
+msgctxt ""
+"checkin.ui\n"
+"CheckinDialog\n"
+"title\n"
+"string.text"
+msgid "Check-In"
+msgstr "檢入"
+
+#: checkin.ui
+msgctxt ""
+"checkin.ui\n"
+"MajorVersion\n"
+"label\n"
+"string.text"
+msgid "New major version"
+msgstr "新的主版號"
+
+#: checkin.ui
+msgctxt ""
+"checkin.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Version comment:"
+msgstr "版本註解："
+
+#: cmisinfopage.ui
+msgctxt ""
+"cmisinfopage.ui\n"
+"name\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "名稱"
+
+#: cmisinfopage.ui
+msgctxt ""
+"cmisinfopage.ui\n"
+"type\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "類型"
+
+#: cmisinfopage.ui
+msgctxt ""
+"cmisinfopage.ui\n"
+"value\n"
+"label\n"
+"string.text"
+msgid "Value"
+msgstr "值"
+
+#: cmisline.ui
+msgctxt ""
+"cmisline.ui\n"
+"type\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "類型"
+
+#: cmisline.ui
+msgctxt ""
+"cmisline.ui\n"
+"yes\n"
+"label\n"
+"string.text"
+msgid "Yes"
+msgstr "是"
+
+#: cmisline.ui
+msgctxt ""
+"cmisline.ui\n"
+"no\n"
+"label\n"
+"string.text"
+msgid "No"
+msgstr "否"
+
+#: custominfopage.ui
+msgctxt ""
+"custominfopage.ui\n"
+"add\n"
+"label\n"
+"string.text"
+msgid "Add _Property"
+msgstr "加入屬性(_P)"
+
+#: custominfopage.ui
+msgctxt ""
+"custominfopage.ui\n"
+"name\n"
+"label\n"
+"string.text"
+msgid "Name"
+msgstr "名稱"
+
+#: custominfopage.ui
+msgctxt ""
+"custominfopage.ui\n"
+"type\n"
+"label\n"
+"string.text"
+msgid "Type"
+msgstr "類型"
+
+#: custominfopage.ui
+msgctxt ""
+"custominfopage.ui\n"
+"value\n"
+"label\n"
+"string.text"
+msgid "Value"
+msgstr "值"
+
+#: descriptioninfopage.ui
+msgctxt ""
+"descriptioninfopage.ui\n"
+"label27\n"
+"label\n"
+"string.text"
+msgid "_Title:"
+msgstr "題名(_T)："
+
+#: descriptioninfopage.ui
+msgctxt ""
+"descriptioninfopage.ui\n"
+"label28\n"
+"label\n"
+"string.text"
+msgid "_Subject:"
+msgstr "主旨(_S)："
+
+#: descriptioninfopage.ui
+msgctxt ""
+"descriptioninfopage.ui\n"
+"label29\n"
+"label\n"
+"string.text"
+msgid "_Keywords:"
+msgstr "關鍵字(_K)："
+
+#: descriptioninfopage.ui
+msgctxt ""
+"descriptioninfopage.ui\n"
+"label30\n"
+"label\n"
+"string.text"
+msgid "_Comments:"
+msgstr "評註(_C)："
+
+#: documentfontspage.ui
+msgctxt ""
+"documentfontspage.ui\n"
+"embedFonts\n"
+"label\n"
+"string.text"
+msgid "_Embed fonts in the document"
+msgstr "內嵌字型於文件中(_E)"
+
+#: documentfontspage.ui
+msgctxt ""
+"documentfontspage.ui\n"
+"fontEmbeddingLabel\n"
+"label\n"
+"string.text"
+msgid "Font Embedding"
+msgstr "字型內嵌"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label13\n"
+"label\n"
+"string.text"
+msgid "_Created:"
+msgstr "建立時間(_C)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label14\n"
+"label\n"
+"string.text"
+msgid "_Modified:"
+msgstr "修改時間(_M)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label15\n"
+"label\n"
+"string.text"
+msgid "_Digitally signed:"
+msgstr "數位簽名(_D)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label16\n"
+"label\n"
+"string.text"
+msgid "Last pri_nted:"
+msgstr "上次列印(_N)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label17\n"
+"label\n"
+"string.text"
+msgid "Total _editing time:"
+msgstr "總計編輯時間(_E)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label18\n"
+"label\n"
+"string.text"
+msgid "Re_vision number:"
+msgstr "校訂版號(_V)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"showsigned\n"
+"label\n"
+"string.text"
+msgid "Multiply signed document"
+msgstr "多重簽名的文件"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"userdatacb\n"
+"label\n"
+"string.text"
+msgid "_Apply user data"
+msgstr "採用使用者資料(_A)"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"reset\n"
+"label\n"
+"string.text"
+msgid "Reset"
+msgstr "重設"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"signature\n"
+"label\n"
+"string.text"
+msgid "Di_gital Signature..."
+msgstr "數位簽章(_G)..."
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label11\n"
+"label\n"
+"string.text"
+msgid "_Size:"
+msgstr "大小(_S)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"showsize\n"
+"label\n"
+"string.text"
+msgid "unknown"
+msgstr "不明"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label8\n"
+"label\n"
+"string.text"
+msgid "_Location:"
+msgstr "位置(_L)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "_Type:"
+msgstr "類型(_T)："
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"changepass\n"
+"label\n"
+"string.text"
+msgid "Change _Password"
+msgstr "變更密碼(_P)"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"readonlycb\n"
+"label\n"
+"string.text"
+msgid "_Read-only"
+msgstr "唯讀(_R)"
+
+#: documentinfopage.ui
+msgctxt ""
+"documentinfopage.ui\n"
+"templateft\n"
+"label\n"
+"string.text"
+msgid "Template:"
+msgstr "範本："
+
+#: documentpropertiesdialog.ui
+msgctxt ""
+"documentpropertiesdialog.ui\n"
+"DocumentPropertiesDialog\n"
+"title\n"
+"string.text"
+msgid "Properties of "
+msgstr "屬性： "
+
+#: documentpropertiesdialog.ui
+msgctxt ""
+"documentpropertiesdialog.ui\n"
+"general\n"
+"label\n"
+"string.text"
+msgid "General "
+msgstr "一般"
+
+#: documentpropertiesdialog.ui
+msgctxt ""
+"documentpropertiesdialog.ui\n"
+"description\n"
+"label\n"
+"string.text"
+msgid "Description"
+msgstr "描述"
+
+#: documentpropertiesdialog.ui
+msgctxt ""
+"documentpropertiesdialog.ui\n"
+"customprops\n"
+"label\n"
+"string.text"
+msgid "Custom Properties"
+msgstr "自訂屬性"
+
+#: documentpropertiesdialog.ui
+msgctxt ""
+"documentpropertiesdialog.ui\n"
+"cmisprops\n"
+"label\n"
+"string.text"
+msgid "CMIS Properties"
+msgstr "CMIS 屬性"
+
+#: documentpropertiesdialog.ui
+msgctxt ""
+"documentpropertiesdialog.ui\n"
+"security\n"
+"label\n"
+"string.text"
+msgid "Security"
+msgstr "安全性"
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"EditDurationDialog\n"
+"title\n"
+"string.text"
+msgid "Edit Duration"
+msgstr "編輯時間"
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"negative\n"
+"label\n"
+"string.text"
+msgid "_Negative"
+msgstr "負(_N)"
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Years:"
+msgstr "年(_Y)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "_Months:"
+msgstr "月(_M)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_Days:"
+msgstr "日(_D)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "H_ours:"
+msgstr "小時(_O)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label5\n"
+"label\n"
+"string.text"
+msgid "Min_utes:"
+msgstr "分鐘(_U)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label6\n"
+"label\n"
+"string.text"
+msgid "_Seconds:"
+msgstr "秒(_S)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label7\n"
+"label\n"
+"string.text"
+msgid "Millise_conds:"
+msgstr "毫秒(_C)："
+
+#: editdurationdialog.ui
+msgctxt ""
+"editdurationdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Duration"
+msgstr "時間"
+
+#: errorfindemaildialog.ui
+msgctxt ""
+"errorfindemaildialog.ui\n"
+"ErrorFindEmailDialog\n"
+"title\n"
+"string.text"
+msgid "No e-mail configuration"
+msgstr "沒有電子郵件配置"
+
+#: errorfindemaildialog.ui
+msgctxt ""
+"errorfindemaildialog.ui\n"
+"ErrorFindEmailDialog\n"
+"text\n"
+"string.text"
+msgid "%PRODUCTNAME was unable to find a working e-mail configuration."
+msgstr "%PRODUCTNAME 找不到可用的電子郵件配置。"
+
+#: errorfindemaildialog.ui
+msgctxt ""
+"errorfindemaildialog.ui\n"
+"ErrorFindEmailDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Please save this document locally instead and attach it from within your e-mail client."
+msgstr "請將這份檔案改在本地端儲存，並透過您的電子郵件客戶端將其加為附件。"
+
+#: floatingrecord.ui
+msgctxt ""
+"floatingrecord.ui\n"
+"FloatingRecord\n"
+"title\n"
+"string.text"
+msgid "Record Macro"
+msgstr "紀錄巨集"
+
+#: floatingrecord.ui
+msgctxt ""
+"floatingrecord.ui\n"
+"stop\n"
+"label\n"
+"string.text"
+msgid "Stop Recording"
+msgstr "停止紀錄"
+
+#: helpbookmarkpage.ui
+msgctxt ""
+"helpbookmarkpage.ui\n"
+"display\n"
+"label\n"
+"string.text"
+msgid "_Display"
+msgstr "顯示(_D)"
+
+#: helpbookmarkpage.ui
+msgctxt ""
+"helpbookmarkpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Bookmarks"
+msgstr "書籤(_B)"
+
+#: helpcontrol.ui
+msgctxt ""
+"helpcontrol.ui\n"
+"contents\n"
+"label\n"
+"string.text"
+msgid "Contents"
+msgstr "目錄"
+
+#: helpcontrol.ui
+msgctxt ""
+"helpcontrol.ui\n"
+"index\n"
+"label\n"
+"string.text"
+msgid "Index"
+msgstr "索引"
+
+#: helpcontrol.ui
+msgctxt ""
+"helpcontrol.ui\n"
+"find\n"
+"label\n"
+"string.text"
+msgid "Find"
+msgstr "尋找"
+
+#: helpcontrol.ui
+msgctxt ""
+"helpcontrol.ui\n"
+"bookmarks\n"
+"label\n"
+"string.text"
+msgid "Bookmarks"
+msgstr "書籤"
+
+#: helpindexpage.ui
+msgctxt ""
+"helpindexpage.ui\n"
+"display\n"
+"label\n"
+"string.text"
+msgid "_Display"
+msgstr "顯示(_D)"
+
+#: helpindexpage.ui
+msgctxt ""
+"helpindexpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search term"
+msgstr "搜尋詞語(_S)"
+
+#: helpsearchpage.ui
+msgctxt ""
+"helpsearchpage.ui\n"
+"display\n"
+"label\n"
+"string.text"
+msgid "_Display"
+msgstr "顯示(_D)"
+
+#: helpsearchpage.ui
+msgctxt ""
+"helpsearchpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search term"
+msgstr "搜尋詞語(_S)"
+
+#: helpsearchpage.ui
+msgctxt ""
+"helpsearchpage.ui\n"
+"completewords\n"
+"label\n"
+"string.text"
+msgid "_Complete words only"
+msgstr "僅針對整個單字(_C)"
+
+#: helpsearchpage.ui
+msgctxt ""
+"helpsearchpage.ui\n"
+"headings\n"
+"label\n"
+"string.text"
+msgid "Find in _headings only"
+msgstr "僅在標題中搜尋(_H)"
+
+#: inputdialog.ui
+msgctxt ""
+"inputdialog.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid "Height:"
+msgstr "高度："
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"LicenseDialog\n"
+"title\n"
+"string.text"
+msgid "Licensing and Legal information"
+msgstr "授權與法律資訊"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"show\n"
+"label\n"
+"string.text"
+msgid "_Show License"
+msgstr "顯示授權條款(_S)"
+
+#: licensedialog.ui
+msgctxt ""
+"licensedialog.ui\n"
+"label\n"
+"label\n"
+"string.text"
+msgid ""
+"%PRODUCTNAME is made available subject to the terms of the Mozilla Public License, v. 2.0. A copy of the MPL can be obtained at http://mozilla.org/MPL/2.0/.\n"
+"\n"
+"Third Party Code Additional copyright notices and license terms applicable to portions of the Software are set forth in the LICENSE.html file; choose Show License to see exact details in English.\n"
+"\n"
+"All trademarks and registered trademarks mentioned herein are the property of their respective owners.\n"
+"\n"
+"Copyright © 2000, 2014 LibreOffice contributors. All rights reserved.\n"
+"\n"
+"This product was created by %OOOVENDOR, based on OpenOffice.org, which is Copyright 2000, 2011 Oracle and/or its affiliates. %OOOVENDOR acknowledges all community members, please see http://www.libreoffice.org/ for more details."
+msgstr ""
+"%PRODUCTNAME 根據 Mozilla Public License v. 2.0 授權條款發布給大眾使用。MPL 條文副本可由 http://mozilla.org/MPL/2.0/ 取得。\n"
+"\n"
+"本軟體中適用「第三方額外代碼」著作權聲明與條款細則之部份，其條款列於 LICENSE.html 檔案中；請點選 [顯示授權條款] 查看以英文書寫的切確細節。\n"
+"\n"
+"所有於此提及的商標與註冊商標，皆為其各自對應擁有者之財產。\n"
+"\n"
+"著作權所有 © 2000, 2014 LibreOffice 貢獻者與/或其附屬機構。保留所有權利。\n"
+"\n"
+"本產品由 %OOOVENDOR 基於 OpenOffice.org 所建立。OpenOffice.org 著作權所有 2000, 2001 Oracle 與/或其附屬機構。%OOOVENDOR 謹向所有社群成員致謝，若要瞭解更多細節請見 http://www.libreoffice.org/ 。"
+
+#: linkeditdialog.ui
+msgctxt ""
+"linkeditdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "_Application:"
+msgstr "應用程式(_A)："
+
+#: linkeditdialog.ui
+msgctxt ""
+"linkeditdialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "_File:"
+msgstr "檔案(_F)："
+
+#: linkeditdialog.ui
+msgctxt ""
+"linkeditdialog.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "_Category:"
+msgstr "分類(_C)："
+
+#: linkeditdialog.ui
+msgctxt ""
+"linkeditdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Modify Link"
+msgstr "修改連結"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"LoadTemplateDialog\n"
+"title\n"
+"string.text"
+msgid "New"
+msgstr "新增"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"fromfile\n"
+"label\n"
+"string.text"
+msgid "From File..."
+msgstr "取自檔案..."
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Categories"
+msgstr "分類"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Templates"
+msgstr "範本"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"text\n"
+"label\n"
+"string.text"
+msgid "Te_xt"
+msgstr "文字(_X)"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"frame\n"
+"label\n"
+"string.text"
+msgid "_Frame"
+msgstr "框架(_F)"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"pages\n"
+"label\n"
+"string.text"
+msgid "_Pages"
+msgstr "頁面(_P)"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"numbering\n"
+"label\n"
+"string.text"
+msgid "N_umbering"
+msgstr "編號(_U)"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"overwrite\n"
+"label\n"
+"string.text"
+msgid "_Overwrite"
+msgstr "覆蓋(_O)"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"alttitle\n"
+"label\n"
+"string.text"
+msgid "Load Styles"
+msgstr "載入樣式"
+
+#: loadtemplatedialog.ui
+msgctxt ""
+"loadtemplatedialog.ui\n"
+"label3\n"
+"label\n"
+"string.text"
+msgid "Pre_view"
+msgstr "預覽(_V)"
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"nameft\n"
+"label\n"
+"string.text"
+msgid "_Name:"
+msgstr "名稱(_N)："
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"nextstyleft\n"
+"label\n"
+"string.text"
+msgid "Ne_xt style:"
+msgstr "下一個樣式(_X)："
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"linkedwithft\n"
+"label\n"
+"string.text"
+msgid "Inherit from:"
+msgstr "繼承自："
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"categoryft\n"
+"label\n"
+"string.text"
+msgid "_Category:"
+msgstr "分類(_C)："
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"autoupdate\n"
+"label\n"
+"string.text"
+msgid "_AutoUpdate"
+msgstr "自動更新(_A)"
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Style"
+msgstr "樣式"
+
+#: managestylepage.ui
+msgctxt ""
+"managestylepage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Contains"
+msgstr "含有"
+
+#: newstyle.ui
+msgctxt ""
+"newstyle.ui\n"
+"CreateStyleDialog\n"
+"title\n"
+"string.text"
+msgid "Create Style"
+msgstr "建立樣式"
+
+#: newstyle.ui
+msgctxt ""
+"newstyle.ui\n"
+"stylename-atkobject\n"
+"AtkObject::accessible-name\n"
+"string.text"
+msgid "Style Name"
+msgstr "樣式名稱"
+
+#: newstyle.ui
+msgctxt ""
+"newstyle.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Style Name"
+msgstr "樣式名稱"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"printer\n"
+"label\n"
+"string.text"
+msgid "_Printer"
+msgstr "印表機(_P)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"file\n"
+"label\n"
+"string.text"
+msgid "Print to _file"
+msgstr "列印成檔案(_F)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"label4\n"
+"label\n"
+"string.text"
+msgid "Settings for:"
+msgstr "設定："
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducetrans\n"
+"label\n"
+"string.text"
+msgid "_Reduce transparency"
+msgstr "降低透明(_R)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducegrad\n"
+"label\n"
+"string.text"
+msgid "Reduce _gradient"
+msgstr "減少漸層(_G)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"converttogray\n"
+"label\n"
+"string.text"
+msgid "Con_vert colors to grayscale"
+msgstr "彩色轉換成灰階(_V)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducetransauto\n"
+"label\n"
+"string.text"
+msgid "Auto_matically"
+msgstr "自動(_M)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducetransnone\n"
+"label\n"
+"string.text"
+msgid "_No transparency"
+msgstr "不透明(_N)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducegradstripes\n"
+"label\n"
+"string.text"
+msgid "Gradient _stripes:"
+msgstr "漸層條紋(_S)："
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducegradcolor\n"
+"label\n"
+"string.text"
+msgid "Intermediate _color"
+msgstr "中間色(_C)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapoptimal\n"
+"label\n"
+"string.text"
+msgid "_High print quality"
+msgstr "高級列印品質(_H)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapnormal\n"
+"label\n"
+"string.text"
+msgid "N_ormal print quality"
+msgstr "一般列印品質(_O)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapresol\n"
+"label\n"
+"string.text"
+msgid "Reso_lution:"
+msgstr "解析度(_L)："
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapdpi\n"
+"0\n"
+"stringlist.text"
+msgid "72 DPI"
+msgstr "72 DPI"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapdpi\n"
+"1\n"
+"stringlist.text"
+msgid "96 DPI"
+msgstr "96 DPI"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapdpi\n"
+"2\n"
+"stringlist.text"
+msgid "150 DPI (Fax)"
+msgstr "150 DPI (傳真)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapdpi\n"
+"3\n"
+"stringlist.text"
+msgid "200 DPI (default)"
+msgstr "200 DPI (預設)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapdpi\n"
+"4\n"
+"stringlist.text"
+msgid "300 DPI"
+msgstr "300 DPI"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmapdpi\n"
+"5\n"
+"stringlist.text"
+msgid "600 DPI"
+msgstr "600 DPI"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmaptrans\n"
+"label\n"
+"string.text"
+msgid "Include transparent objects"
+msgstr "包括透明物件"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"reducebitmap\n"
+"label\n"
+"string.text"
+msgid "Reduce _bitmaps"
+msgstr "降低點陣圖(_B)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"pdf\n"
+"label\n"
+"string.text"
+msgid "_PDF as standard print job format"
+msgstr "_PDF 作為標準列印工作格式"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Reduce Print Data"
+msgstr "減少列印資料"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"papersize\n"
+"label\n"
+"string.text"
+msgid "P_aper size"
+msgstr "紙張大小(_A)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"paperorient\n"
+"label\n"
+"string.text"
+msgid "Pap_er orientation"
+msgstr "紙張方向(_E)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"trans\n"
+"label\n"
+"string.text"
+msgid "_Transparency"
+msgstr "透明度(_T)"
+
+#: optprintpage.ui
+msgctxt ""
+"optprintpage.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Printer Warnings"
+msgstr "印表機警告"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"PasswordDialog\n"
+"title\n"
+"string.text"
+msgid "Enter Password"
+msgstr "輸入密碼"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"userft\n"
+"label\n"
+"string.text"
+msgid "User:"
+msgstr "使用者："
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"pass1ft\n"
+"label\n"
+"string.text"
+msgid "Password:"
+msgstr "密碼："
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"confirm1ft\n"
+"label\n"
+"string.text"
+msgid "Confirm:"
+msgstr "確認："
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "Password"
+msgstr "密碼"
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"pass2ft\n"
+"label\n"
+"string.text"
+msgid "Password:"
+msgstr "密碼："
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"confirm2ft\n"
+"label\n"
+"string.text"
+msgid "Confirm:"
+msgstr "確認："
+
+#: password.ui
+msgctxt ""
+"password.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Second Password"
+msgstr "第二次密碼"
+
+#: printeroptionsdialog.ui
+msgctxt ""
+"printeroptionsdialog.ui\n"
+"PrinterOptionsDialog\n"
+"title\n"
+"string.text"
+msgid "Printer Options"
+msgstr "印表機選項"
+
+#: querysavedialog.ui
+msgctxt ""
+"querysavedialog.ui\n"
+"QuerySaveDialog\n"
+"title\n"
+"string.text"
+msgid "Save Document?"
+msgstr "是否儲存文件？"
+
+#: querysavedialog.ui
+msgctxt ""
+"querysavedialog.ui\n"
+"QuerySaveDialog\n"
+"text\n"
+"string.text"
+msgid "Save changes to document “$(DOC)” before closing?"
+msgstr "關閉前是否先儲存對「$(DOC)」文件所作之更動？"
+
+#: querysavedialog.ui
+msgctxt ""
+"querysavedialog.ui\n"
+"QuerySaveDialog\n"
+"secondary_text\n"
+"string.text"
+msgid "Your changes will be lost if you don’t save them."
+msgstr "若您不儲存的話，將會喪失所有做過的更動。"
+
+#: querysavedialog.ui
+msgctxt ""
+"querysavedialog.ui\n"
+"discard\n"
+"label\n"
+"string.text"
+msgid "_Don’t Save"
+msgstr "不要儲存(_D)"
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"SearchDialog\n"
+"title\n"
+"string.text"
+msgid "Find on this Page"
+msgstr "在此頁面中尋找"
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"search\n"
+"label\n"
+"string.text"
+msgid "_Find"
+msgstr "尋找(_F)"
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "_Search for:"
+msgstr "搜尋(_S)："
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"matchcase\n"
+"label\n"
+"string.text"
+msgid "Ma_tch case"
+msgstr "比對字母大小寫(_T)"
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"wholewords\n"
+"label\n"
+"string.text"
+msgid "Whole wor_ds only"
+msgstr "僅針對完整單字(_D)"
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"backwards\n"
+"label\n"
+"string.text"
+msgid "Bac_kwards"
+msgstr "往回(_K)"
+
+#: searchdialog.ui
+msgctxt ""
+"searchdialog.ui\n"
+"wrap\n"
+"label\n"
+"string.text"
+msgid "Wrap _around"
+msgstr "前後循環(_A)"
+
+#: securityinfopage.ui
+msgctxt ""
+"securityinfopage.ui\n"
+"readonly\n"
+"label\n"
+"string.text"
+msgid "_Open file read-only"
+msgstr "以唯讀方式開啟檔案(_O)"
+
+#: securityinfopage.ui
+msgctxt ""
+"securityinfopage.ui\n"
+"recordchanges\n"
+"label\n"
+"string.text"
+msgid "Record _changes"
+msgstr "記錄變更(_C)"
+
+#: securityinfopage.ui
+msgctxt ""
+"securityinfopage.ui\n"
+"protect\n"
+"label\n"
+"string.text"
+msgid "Protect..."
+msgstr "保護..."
+
+#: securityinfopage.ui
+msgctxt ""
+"securityinfopage.ui\n"
+"unprotect\n"
+"label\n"
+"string.text"
+msgid "_Unprotect..."
+msgstr "取消保護(_U)..."
+
+#: securityinfopage.ui
+msgctxt ""
+"securityinfopage.ui\n"
+"label47\n"
+"label\n"
+"string.text"
+msgid "File Sharing Options"
+msgstr "檔案共用選項"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"filter_writer\n"
+"label\n"
+"string.text"
+msgid "Writer Templates"
+msgstr "Writer 範本"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"filter_calc\n"
+"label\n"
+"string.text"
+msgid "Calc Templates"
+msgstr "Calc 範本"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"filter_impress\n"
+"label\n"
+"string.text"
+msgid "Impress Templates"
+msgstr "Impress 範本"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"filter_draw\n"
+"label\n"
+"string.text"
+msgid "Draw Templates"
+msgstr "Draw 範本"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "Edit Templates"
+msgstr "編輯範本"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"open_all\n"
+"label\n"
+"string.text"
+msgid "_Open File"
+msgstr "開啟檔案(_O)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"open_recent\n"
+"label\n"
+"string.text"
+msgid "_Recent Files"
+msgstr "最近檔案(_R)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"templates_all\n"
+"label\n"
+"string.text"
+msgid "T_emplates"
+msgstr "範本(_E)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"create_label\n"
+"label\n"
+"string.text"
+msgid "Create:"
+msgstr "建立："
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"writer_all\n"
+"label\n"
+"string.text"
+msgid "Writer _Document"
+msgstr "Writer 文件(_D)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"calc_all\n"
+"label\n"
+"string.text"
+msgid "Calc _Spreadsheet"
+msgstr "Calc 試算表(_S)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"impress_all\n"
+"label\n"
+"string.text"
+msgid "Impress _Presentation"
+msgstr "Impress 簡報(_P)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"draw_all\n"
+"label\n"
+"string.text"
+msgid "Draw D_rawing"
+msgstr "Draw 繪圖(_R)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"math_all\n"
+"label\n"
+"string.text"
+msgid "Math For_mula"
+msgstr "Math 公式(_M)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"database_all\n"
+"label\n"
+"string.text"
+msgid "Base D_atabase"
+msgstr "Base 資料庫(_A)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"althelplabel\n"
+"label\n"
+"string.text"
+msgid "He_lp"
+msgstr "說明(_L)"
+
+#: startcenter.ui
+msgctxt ""
+"startcenter.ui\n"
+"extensions\n"
+"label\n"
+"string.text"
+msgid "E_xtensions"
+msgstr "擴充套件(_X)"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"TemplateDialog\n"
+"title\n"
+"string.text"
+msgid "Template Manager"
+msgstr "範本管理員"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"repository\n"
+"label\n"
+"string.text"
+msgid "Repository"
+msgstr "儲藏庫"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"import\n"
+"label\n"
+"string.text"
+msgid "Import"
+msgstr "匯入"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"delete\n"
+"label\n"
+"string.text"
+msgid "Delete"
+msgstr "刪除"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "Save"
+msgstr "儲存"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"new_folder\n"
+"label\n"
+"string.text"
+msgid "New Folder"
+msgstr "新增資料夾"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"template_save\n"
+"label\n"
+"string.text"
+msgid "Save"
+msgstr "儲存"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"open\n"
+"label\n"
+"string.text"
+msgid "Open"
+msgstr "開啟"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"edit\n"
+"label\n"
+"string.text"
+msgid "Edit"
+msgstr "編輯"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"properties\n"
+"label\n"
+"string.text"
+msgid "Properties"
+msgstr "屬性"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"default\n"
+"label\n"
+"string.text"
+msgid "Set as Default"
+msgstr "設為預設值"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"move\n"
+"label\n"
+"string.text"
+msgid "Move to Folder"
+msgstr "移動至資料夾"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"export\n"
+"label\n"
+"string.text"
+msgid "Export"
+msgstr "匯出"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"template_delete\n"
+"label\n"
+"string.text"
+msgid "Delete"
+msgstr "刪除"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"search\n"
+"label\n"
+"string.text"
+msgid "Search"
+msgstr "搜尋"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"action_menu\n"
+"label\n"
+"string.text"
+msgid "Action Menu"
+msgstr "動作選單"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"template_link\n"
+"label\n"
+"string.text"
+msgid "Get more templates for %PRODUCTNAME"
+msgstr "取得更多 %PRODUCTNAME 範本"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"filter_docs\n"
+"label\n"
+"string.text"
+msgid "Documents"
+msgstr "文件"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"filter_sheets\n"
+"label\n"
+"string.text"
+msgid "Spreadsheets"
+msgstr "試算表"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"filter_presentations\n"
+"label\n"
+"string.text"
+msgid "Presentations"
+msgstr "簡報"
+
+#: templatedlg.ui
+msgctxt ""
+"templatedlg.ui\n"
+"filter_draws\n"
+"label\n"
+"string.text"
+msgid "Drawings"
+msgstr "繪圖"
+
+#: templateinfodialog.ui
+msgctxt ""
+"templateinfodialog.ui\n"
+"TemplateInfo\n"
+"title\n"
+"string.text"
+msgid "Template Properties"
+msgstr "範本屬性"
+
+#: templateinfodialog.ui
+msgctxt ""
+"templateinfodialog.ui\n"
+"close\n"
+"label\n"
+"string.text"
+msgid "_Close"
+msgstr "關閉(_C)"
+
+#: versioncommentdialog.ui
+msgctxt ""
+"versioncommentdialog.ui\n"
+"VersionCommentDialog\n"
+"title\n"
+"string.text"
+msgid "Insert Version Comment"
+msgstr "插入版本註解"
+
+#: versioncommentdialog.ui
+msgctxt ""
+"versioncommentdialog.ui\n"
+"timestamp\n"
+"label\n"
+"string.text"
+msgid "Date and time: "
+msgstr "日期與時間："
+
+#: versioncommentdialog.ui
+msgctxt ""
+"versioncommentdialog.ui\n"
+"author\n"
+"label\n"
+"string.text"
+msgid "Saved by: "
+msgstr "作者："
+
+#: versionscmis.ui
+msgctxt ""
+"versionscmis.ui\n"
+"show\n"
+"label\n"
+"string.text"
+msgid "_Show..."
+msgstr "顯示(_S)..."
+
+#: versionscmis.ui
+msgctxt ""
+"versionscmis.ui\n"
+"compare\n"
+"label\n"
+"string.text"
+msgid "_Compare"
+msgstr "比較(_C)"
+
+#: versionscmis.ui
+msgctxt ""
+"versionscmis.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "日期與時間"
+
+#: versionscmis.ui
+msgctxt ""
+"versionscmis.ui\n"
+"savedby\n"
+"label\n"
+"string.text"
+msgid "Saved by"
+msgstr "作者"
+
+#: versionscmis.ui
+msgctxt ""
+"versionscmis.ui\n"
+"comments\n"
+"label\n"
+"string.text"
+msgid "Comments"
+msgstr "評註"
+
+#: versionscmis.ui
+msgctxt ""
+"versionscmis.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Existing Versions"
+msgstr "既有的版本"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"show\n"
+"label\n"
+"string.text"
+msgid "_Show..."
+msgstr "顯示(_S)..."
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"compare\n"
+"label\n"
+"string.text"
+msgid "_Compare"
+msgstr "比較(_C)"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"cmis\n"
+"label\n"
+"string.text"
+msgid "CMIS"
+msgstr "CMIS"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"save\n"
+"label\n"
+"string.text"
+msgid "Save _New Version"
+msgstr "儲存新版本(_N)"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"always\n"
+"label\n"
+"string.text"
+msgid "_Always save a new version on closing"
+msgstr "關閉時總是儲存新版本(_A)"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"label1\n"
+"label\n"
+"string.text"
+msgid "New Versions"
+msgstr "新版本"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"datetime\n"
+"label\n"
+"string.text"
+msgid "Date and time"
+msgstr "日期與時間"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"savedby\n"
+"label\n"
+"string.text"
+msgid "Saved by"
+msgstr "作者"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"comments\n"
+"label\n"
+"string.text"
+msgid "Comments"
+msgstr "評註"
+
+#: versionsofdialog.ui
+msgctxt ""
+"versionsofdialog.ui\n"
+"label2\n"
+"label\n"
+"string.text"
+msgid "Existing Versions"
+msgstr "既有的版本"
