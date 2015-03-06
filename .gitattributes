@@ -1,2 +1,3 @@
-special-vendored-path/* translations
-special-vendored-path/* dictionaries
+translations/* linguist-vendored
+dictionaries/* linguist-vendored
+*.po linguist-vendored=true
